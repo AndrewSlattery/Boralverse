@@ -1,9 +1,0 @@
-Griuskant is a conlang for a fictional world that includes magic and technology as well as contemporary yet surreal themes. It has agglutinative morphology, SVO word order, trigger alignment, head-final phrases and a phonemic alphabetic conscript. Other features include affixations, prepositions, regular stress, no definiteness, no tenses and no agreement conjugations.
-
-
-[Trigger mechanics in griuskant]
-* All triggers are backwards-facing.
-* The stateparameters of the triggers are: active=FORWARD, passive=REVERSE and circumstantial=SINK (aka indirect object or dative).
-* All triggers are short-ranged, so they usually have a range of 1 phrase. Also, they do not seek any other (null) markers.
-* All triggers are generally unidirectional, but the circumstantial trigger as well as the anti-trigger can be bidirectional.
-* All triggers are susceptible to interruptions. The most stablised is the circumstantial trigger, however its forward-redirection function could be interrupted and thus be deactivated by an anti-trigger.

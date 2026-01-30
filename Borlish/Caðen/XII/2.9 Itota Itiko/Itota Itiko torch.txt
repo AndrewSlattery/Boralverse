@@ -1,1 +1,0 @@
- itota itiko is a conlang with strict VSO word order, primarily isolating morphology (closer to agglutinative for colloquial speech) and head-finality. Also notable is the lack of distinction between adjectives and adverbs and the lack of present tense; past imperfect is the default tense and is unmarked.
