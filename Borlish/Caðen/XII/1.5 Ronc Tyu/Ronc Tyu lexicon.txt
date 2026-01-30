@@ -1,0 +1,132 @@
+binc                    n.i             ritual, ceremony
+blo                     v.it+           depart, leave, go away (from 3rd person inanimate)
+brinc                   v.it            be secret, be confidential, be hidden 
+bwí                     v.it            be bright
+dàon                    v.it            dare, venture, take a chance
+diec     PL dac         n.i             box, case
+do                      v.it+           come, approach (towards 3rd person inanimate)
+drac     ATTR krac      v.it            be holy, be sacred, be magical
+drenc                   cj              so, therefore
+duhrù                   n.a             talisman, amulet
+dyá                     v.aux           it is required; should (impersonal verb, indicates deontic necessity)
+dyò                     v.it            be loud, make noise
+dzó                     pron            the same one (animate)
+dźi                     v.it+           come, approach (towards 3rd person animate)
+fae                     v.it            fall
+faen                    v.tr            sing (always used with a (dummy) object)
+fi                      v.tr            wrap, cover
+fou      ATTR gwou      v.it            pass, move on, go forward; (as a coverb) for a certain period of time
+fyao     PASS hfyao     v.tr            pour (of liquids), strew (of granular masses), scatter (of collections or ensembles)
+gao                     pp.n            in the middle of
+gra                     v.it            climb, go up
+gyào                    pron            (relative pronoun, inanimate)
+gyè                     v.it            move sideways, shift one's position
+hac                     qu              each (member of a collection)
+han                     n.a             moon
+hfyáon   PASS hihfyáon  v.it            rush, hurry, do sth. hastily
+hic                     v.tr            realize, notice, become aware of
+hrào                    v.tr            participate, join 
+htlanc                  cj / pp.v       while, during (a relatively short timeframe)
+htroa    ATTR gò        v.it            lose, fail; (in SVC with negative connotations) very
+htsí                    adv             now, immediately
+ihtrìc                  n.i             jewel, gemstone
+kè                      cj              but, however (used with clauses)
+kén      SGV kyén       n.i.coll        task, mission, quest, project
+kein                    v.it+           depart, leave, go away (from speaker)
+ki                      det             this, these
+kóan                    v.tr            seize, conquer
+kòun     ATTR gyòun     v.it            move around, go (nowhere in particular), roam, wander
+kwá                     v.it            go down, descend
+kwé      SGV kyé        n.i.coll        ground, floor
+làe                     v.it            be calm, be clear, be sunny (of weather)
+lánc     SGV línc       n.a.coll        time (SGV: moment, situation)
+léi      SGV yéi        n.a.coll        clouds
+lin                     v.it            lie, recline
+lo                      v.aux           become
+ló                      v.aux           must, should
+ló                      pp.v            for, to (dative)
+mbí                     n.a             sun
+mbrinc                  v.it            be brave, be courageous
+méc      SGV myéc       n.i.coll.poss   events, instances, occurrences, repetitions
+mic                     v.it            turn around
+mó       ATTR bó        v.tr            cover, protect
+myéc     (no SGV)       n.a.coll        stars
+myen                    v.it            look (atelic/stative)
+myóa                    v.tr            order, command, instruct
+myòu                    n.a.coll        sky, weather
+myù      PL myùc        n.a             hand
+na                      qu              all (of many)
+nàc                     v.tr            choose, take, use
+nào                     v.tr            perform, celebrate (a ceremony)
+ndlíc                   n.a.coll        magical herbs, drugs
+ndza                    v.it            be successful, hit the target; (in SVC) manage to
+ndzu                    v.it            rise, get up
+ndźei                   v.tr            know, be acquainted with (cf. French connaître); (as a coverb) after, since
+ndźí                    pron            (3rd person animate plural)
+ndźù                    v.tr            search for
+ne                      pron            (1st person singular)
+ngei                    qu              a little, a small amount of (used with collective noun phrases)
+nggòun   PASS hunggòun  v.it            stumble
+nggù                    v.it            be absent, be distant, be far away
+ngoun                   pp.n            in, inside
+ngunc                   v.it            fade, wither, disappear
+ngùo                    v.it            be blue, be green
+ngwìn                   v.it            be open
+nòu      ATTR dòu       v.it            go downstream, follow the flow
+ntào                    v.tr            dance (always used with a (dummy) object)
+nú                      det             the other one(s)
+nwa                     v.tr            exceed, surpass
+nyac                    v.it            win, be victorious; (in SVC) very 
+nyu                     v.tr            see; (as a coverb) before, until
+o                       cj              and, also (used with clauses)
+pa                      pp.v            as, like
+pei                     v.it+           depart, leave, go away (from 3rd person animate)
+pí                      v.tr            go between, pass through
+pou                     v.tr            find, discover
+pwae     ATTR gèi       v.it            be red
+pya                     v.tr            go out of, exit
+pyec                    v.it            keep happening, continue
+pyonc    ATTR gibyonc   v.it            be black, be dark
+ráon                    v.it            be fast, be quick
+ro                      cj              or (repeated before each alternative)
+rùc                     pp.n            through, between, among, surrounded by 
+ruoc                    n.i             megalith
+sa       PL swá         n.a             sister, parallel cousin (female) 
+saen     SGV śin        n.a.coll        embers, sparks
+san                     pp.n            socially related to
+se                      qu              no, none (of many)
+soc                     v.tr            give; (in SVC) cause, bring about
+sruo                    v.it            wait, stay still, do nothing
+suo                     pp.v            at, on (static locative)
+śea      PASS hśea      v.tr            hide, conceal
+śenc                    n.a.coll        night, darkness
+śou-mó                  n.i             shelter, hiding-place
+táo      PL ndáo        n.i             thing, item
+téc                     pp.v            at, near, around (dynamic locative)
+tenc                    cj              (complementizer)
+to                      pron            (3rd person inanimate singular/collective)
+tó       ATTR gló       v.it            be significant, have a hidden meaning
+tò                      v.it            be calm, be silent (of people and animals)
+tóc                     v.tr            take away, remove
+tòc                     v.it            watch out, be vigilant
+trae                    v.it            be cold (of weather)
+trùc                    n.a             priest, shaman
+tsèa                    v.it            be simple, be easy
+tswi                    v.it            jump, leap, move abruptly
+tsyún    PL twín        n.a             person
+tśi                     pron            (3rd person animate singular)
+tùc                     v.tr            know how to do sth. (cf. French savoir); (in SVC) have done sth. before
+tyu      SGV tśou       n.a.coll        villagers, sedentary people (also used as an ethnonym for the speakers of Ronc Tyu)
+uźec                    n.a.coll        crowd, large group (of people)
+vei                     pp.n            coming from; made of
+wie                     v.it            slide, slip
+wo                      pp.v            with, by, using (can also mark an inanimate or nonvolitional agent)
+wonc                    pp.v            for the benefit of
+xòac                    qu              the entirety of, all (of a collection)
+xu       SGV xào        n.i.coll.poss   shadow, shade
+yéi                     adv             then, next (in the past)
+yu                      pp.n            of, belonging to, associated with
+zèc                     n.a.coll        herd (of animals)
+zrou-mbì                n.a             spring equinox
+zúc                     v.it            walk
+źùn                     v.it            shine, glow

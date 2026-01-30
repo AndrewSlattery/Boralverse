@@ -1,0 +1,5 @@
+Jothey, King of Borland (fl. 898), known in Borlish as **Joðeg** /ʒoˈðij/, was the last ruler of the [[Borland#First Kingdom of Borland|First Kingdom of Borland]] before it fell to the Danes in 898. The kingdom was conquered when Jothey was only a young man, shortly after his marriage to [[Brenna of Barrow]], cousin of King [[Roderick of Dunclothe]].
+
+However, the life of King Jothey (as recorded in [[Brethin]] chronicles) continued as a monarch-in-exile for several more decades. He fled with his wife to [[Southbar]], where they had several children. They remained at court there for over twenty years, until the skirmishes between Southbar and [[Borland#Dane-ruled Borland|Dane Borland]] finally ended with Southbar's capitulation and the unification of the island for the first time since being part of the Roman Empire.
+
+Fearful of imprisonment or even execution so as to fully extirpate the former royal line and thus nullify the possibility of future rival claimants, Jothey fled once more with his wife and children to [[Kent]].

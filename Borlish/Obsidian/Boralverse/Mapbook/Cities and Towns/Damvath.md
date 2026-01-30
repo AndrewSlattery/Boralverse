@@ -1,0 +1,21 @@
+Damvath is the capital city of [[Borland]], located on the River Dam some leagues inland from the coast.
+
+## Toponymy
+
+The name Damvath derives from the Norse name Damvað "ford on the Dam". The river's name is pre-Roman and is likely cognate with the Tames in [[Albion]] and the Tamaga in [[Portingale]]. 
+
+## History
+
+Damvath was established first as the capital of Dane-ruled Borland after the exile of [[Jothey of Borland|King Jothey]] to [[Southbar]] in the last years of the ninth century.
+
+In the late fifteenth century, Damvath became the most-trafficked port city in [[Europe]] outside the [[Middlesea]]. This was no doubt helped by the city's stability in comparison to the cities of contemporary [[Albion]], embroiled in the bloody [[Wars of Fealty]].
+
+> 14th Sep: Arrived at Brest. Storm inland delayed delivery of beef so departed several hours behind schedule.
+> 18th Sep: Did not make port at Bournemouth. Cannonfire and conflagration even in the harbour. Will resupply instead at Honeflower.
+> — logbook 1492 for the myton “San Tomé”, en route from Calès to Damvath.
+
+The first Borlish victim of the [[Second Great Dying]] was in the docks of Damvath in 1519.
+
+During the [[Long Peace]] of the late eighteenth century, the location of the Borlish parliament was fixed following the completion of the Jacobean Estates on the (then) outskirts of Damvath. In these years the city saw increased immigration from nearby polities such as [[Denmark]] and [[Willemy]], looking for greater economic prosperity, as well as the establishment of an early detective force with the so-called 'tuppence scouts'.
+
+In the modern era Damvath is renowned for extensive [[Christide]] celebrations.

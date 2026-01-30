@@ -1,0 +1,10 @@
+Voidtale (Borlish **trevogt** /treˈvɔjt/, portmanteau of **trevold** "novel" and **vogt** "outer space") is a subgenre of [[Parachthony|parachthon]] romance which focuses on voyages through outer space visiting alien worlds.
+
+The genre was pioneered by Saxon author [[Elsebeth Sneider]] with her 1795 work *Through a Black Mirror*, which sparked a three-decade long fashion for the subject known as the "voidtale craze". This first period is characterised by a strongly pre-empirical understanding of conditions on other worlds: no particular attention is paid to the details of breathable air or bearable gravity, and each bustling planet is peopled by very human societies. Indeed, more than anything else these stories resemble the "geoscopic voyage" tales of the previous century, which depict sailors exploring unknown corners of the Earth and encountering the peoples there.
+
+The voidtale craze is usually said to end with the [[Second German War]] in the 1820s, although later works like Narayanan's landscapes (which portray barren and inhospitable surfaces of the other planets orbiting the Sun) are generally counted as part of the same tradition.
+
+It has been claimed that the voidtale craze inculcated an enthusiasm for astronomy in its generation, and contributed to the cosmic discoveries of the mid-nineteenth century—including the discoveries of the planet Janus and the speed of light.
+
+## References
+- New Skies, Old Stories, 1980 work written by Simon d'Estiala and published by Prindor Marsillès 

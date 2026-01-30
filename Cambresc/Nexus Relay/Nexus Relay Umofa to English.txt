@@ -1,0 +1,33 @@
+Aweyi iyanya apadi, onato areka c-atayo-yu turabaripa mi itikunyanya ixi. Arulata upena ararenyanya. Upena unu arudaripa? Areguga ofeke tarenya-ra, we ariciluwa-doma, tapa aronyoca-ca. Utete uforibu uku enyo exakunexakune-ra adocudagixa adabara onato. Ara uyuweya-yu aroka uma-xibi. C-anyace, unenya arakatika epa-ye-ya iru tape aracaka.
+
+A few years ago, a man walked in a park not far from my neighbourhood. He heard a baby crying. Whose baby was this? He followed the sound of the crying, but it became quiet, then stopped completely. Two gnarled hands with very sharp nails appeared, reaching out and grabbing the man. It was a spirit that eats people. In the end, all that remained were his torn clothes.
+
+---
+
+Aweyi iyanya apadi, onato areka c-atayo-yu turabaripa mi itikunyanya ixi.
+ago year? few-pred, man aff-3s-walk-real loc-park=rel neg-3s-far-vb-real neighbourhood my-pred
+A few years ago, a man walked in a park not far from my neighbourhood.
+
+Arulata upena ararenyanya.
+aff-3s-hear-real baby aff-3s-cry-frq-real.
+He heard a baby crying.
+
+Upena unu arudaripa?
+baby this-pred aff-3s-be.whose-pred
+Whose baby was this?
+
+Areguga ofeke tarenya-ra, we ariciluwa-doma, tapa aronyoca-ca.
+aff-3s-follow-real sound inf-cry=gen | and/but aff-3s-quiet-inch-real=but | then aff-3s-stop-real=completely
+He followed the sound of the crying, but it became quiet, then stopped completely.
+
+Utete uforibu uku enyo exakunexakune-ra adocudagixa adabara onato.
+hand gnarled-pred two-pred nail sharp-emph-pred=gen? aff-3p-go-reach-real aff-3s-grab-real man
+Two gnarled hands with very sharp nails appeared, reaching out and grabbing the man.
+
+Ara uyuweya-yu aroka uma-xibi.
+3s-cop spirit=rel aff-3s-eat-real person=habit
+It was a spirit that eats people.
+
+C-anyace, unenya arakatika epa-ye-ya iru tape aracaka.
+loc=end | clothes aff-3s-tear-real pass=?? 3s.gen-pred only aff-3s-remain-real
+In the end, all that remained were his torn clothes.

@@ -1,0 +1,3 @@
+Vithor /ˈvɪðəɹ/ (Borlish **Viðor** /viˈðɔʀ/) is a city on the western coast of [[Borland]]. It is known for the [[New Vithor University]] (formerly the Vithor New School), widely regarded as the premier research institution on the island.
+
+By 1819 N the [[Vithor Red Dove]] (Borlish **Peujon Rous a Viðor**), a weekly newspaper with antigovernmental leanings which supported in particular the mozard protests against the [[Corvine Concert]] during the [[Second German War]], had been in regular circulation for some time.

@@ -1,0 +1,21 @@
+Morphophology
+- Schwas are rounded before labiovelars and fronted before palatals.
+- Consonants plus *y undergo palatalization while consonants plus *w become labiovelars.
+
+Nominal Morphology
+- Nominals take a single case suffix, the adverbial -yəx.
+- Nouns may take possessive marking prefixes which are identical to the person marking prefixes on verbs, in the case of the 3rd person the agentive ‘i- is used.
+- Reflexive pronouns are formed with a root -xən plus a person- or class-marking prefix.
+
+Verbal Morphology
+- A first-person singular is marked by a mə- prefix, and first person plural by min- which metathesises with ‘.
+- A third person transitive agent is marked by a ‘i- prefix, with plurals of this being marked using an -ax suffix.
+- An intransitive subject/transitive patient is marked by a noun class prefix corresponding in form to the class of the noun.
+- The unmarked verbal aspect is habitual/gnomic. Progessives are marked by initial VC(C)- reduplication plus a -wə suffix. Perfectives are marked with a -yə suffix, which with some verbs with imperfective Aktionsart may be interpreted as an inchoative.
+- The irrealis mood is marked using a -ŋə- infix immediately after the first vowel of the root.
+- There is an applicative infix -atr- that appears after the last consonant of the root.
+- There is noun incorporation, with the incorporated noun following the verb root and aspectual morphology but before other suffixes.
+
+Syntax
+- There are two conjunctions – wa and ‘u, which are both coordinating in function.
+- Relative clauses are expressed using nominalisation using the general nominaliser -‘ə postposed to the head noun.

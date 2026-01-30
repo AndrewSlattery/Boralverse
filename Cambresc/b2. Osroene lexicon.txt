@@ -1,0 +1,91 @@
+<ab> | from, among, with, within
+<ab> | introduces an adjectival predicate
+<ai> | vocative particle; precedes the noun
+<aila> | well, so, in any case
+<alouxadra> | fluency
+<anykṣōnē> | sad, bored, in bad spirits, depressed
+<apesē, apyška> | to gather, to collect
+<apin> | also, as well
+<apnosagas ab > prt. | to breathe in, to take a breath of, to smell
+<arē, arra> | to come, to arrive
+<arounōnē> | marine, sea-related
+<ašatē> | really, actually, in fact, in truth
+<ašou> | good, fitting, suitable
+<atagoura> | intention, aim, meaning; in <nabkan s ab atagoura m> “that does/did not mean, that is/was not to say that”
+<ba> | emphatic particle appearing after the emphasized element
+<barnōšō> | man, fellow
+<bith> | house, establishment, institution, tribe
+<dykthōnē> | local
+<gad> | preveral particle indicating ability; to be able to
+<gyrgiōnē> | noisy, bustling, crowded
+<gzezila> | short, squat, shortish
+<ḥotmō> | (official) seal
+<ḥyṭmōthō> | maidservant
+<ibar> | indeed, certainly, surely; often appears as <ibar…ba>
+<kalla> | town
+<kan> | particle indicating anterior tense; suffixed to perfect verbs
+<kan> | when appearing with a copula, e.g., <s kan> ‘there is/are’
+<kandilaia> | chandler, candle-maker
+<katekoušias > prt. | to dismount (from a horse), to alight
+<kē> | this
+<kidē> | why, for what
+<kisa> | what, which
+<kiš> | past-imperfective pre-verbal particle; used with imperfective verbs
+<kišarē, kišar> | to become, to be (see notes on copula)
+<ksainōia> | foreign, unusual
+<lekou, alka> | to leave behind, to pass by
+<leššōnō> | language, speech
+<louga> | dawn, morning
+<lymna> | moment, time, occasion
+<m(e-)> | GEN and REL particle; can take pronominal citic in some cases (see relevant notes)
+<mezlaitid> (f) | traveller
+<mezlias, mezliatē (pl.)> | traveller
+<mezlō> | journey, travel, trip
+<mi> | 1SG possessive pronoun
+<n> | in, to, into, at, on
+<nabašma> | however, but, nonetheless, even so
+<nabkan> | there is/are (was/were) not; in <nabkan s> ‘it is not the case that’
+<našek...nounē> | neither…nor, not any…nor
+<nmila> | port, harbour
+<nou1> | and, then
+<nou(a–)2> | while, as, at the same time as; takes pronominal clitics
+<nouma> | but, however
+<ōr> | then, well, so; often used as a semantically empty sentence/utterance opener
+<ōr> | in <ōr…ōr> “both…and”
+<ōr(a)–> | to say; invariable quotative particle, takes pronominal clitics
+<paiē, pšaka> | to go
+<paiōn> | 1PL impferctive of <paiē>
+<pallouar> | boat, small ship
+<parapšarē, parapšaka> | to leave, to set off
+<pē> | she, her; 3F.SG pronoun
+<pōra š–> | before
+<pšomatid> (f) | veiled, covered
+<saina> | day
+<si> | 2SG possessive pronoun
+<sōgarē, sōgar> | to remain, to stay
+<soloukisa> | barbarian speech, foreign language
+<sygma> | mind, soul, consciousness, feeling
+<šakaṣa> | familiar, well-known
+<šakoua> | eye, sight, view, opinion; <n šakoua mi> “I think that”; “in my opinion”
+<šoun> | 3PL possessive pronoun
+<šytnia> | seal, stamp, signature
+<še-> | that (introducing complement clauses, often as <m še->)
+<šara–> | on, at, on top of; takes pronominal clitics; often used in a malefactive sense
+<ši(k)> | one, single; precedes noun it modifies
+<šyxlipōra> | coast, seaside, beach
+<ṣagdarid> | noblelady, princess
+<ṣapō> | line, queue
+<saṭra> | side
+<t-afkarē, t-afkar n> | to decide, to choose
+<taggōrō> | merchant
+<te–; ta–> | to, by, for; takes pronominal clitics; used for subjects of transitive participle forms
+<t-lapkaxar> | to be(come) mixed, to be(come) confused
+<tmia> | land, ground, earth
+<t-našoušxarē; t-našoušxar> | to improve, to get better
+<tyxmōnē> | smoke
+<ṭarpa> | paper, document, leaf
+<xaneṣōnē> | vexed, bothered, peevish, disgruntled
+<xar> | perfective/preterite pre-verbal particle; used with imperfective verbs
+<xouatōs> | wholly, completely, totally
+<xouta> | wind, air, breeze
+<zambila> | bag 

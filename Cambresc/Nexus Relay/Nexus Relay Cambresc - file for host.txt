@@ -1,0 +1,281 @@
+Umofa to English
+
+Aweyi iyanya apadi, onato areka c-atayo-yu turabaripa mi itikunyanya ixi. Arulata upena ararenyanya. Upena unu arudaripa? Areguga ofeke tarenya-ra, we ariciluwa-doma, tapa aronyoca-ca. Utete uforibu uku enyo exakunexakune-ra adocudagixa adabara onato. Ara uyuweya-yu aroka uma-xibi. C-anyace, unenya arakatika epa-ye-ya iru tape aracaka.
+A few years ago, a man walked in a park not far from my neighbourhood. He heard a baby crying. Whose baby was this? He followed the sound of the crying, but it became quiet, then stopped completely. Two gnarled hands with very sharp nails appeared, reaching out and grabbing the man. It was a spirit that eats people. In the end, all that remained were his torn clothes.
+
+Gloss of Umofa to English
+
+Aweyi iyanya apadi, onato areka c-atayo-yu turabaripa mi itikunyanya ixi.
+ago year? few-pred, man aff-3s-walk-real loc-park=rel neg-3s-far-vb-real neighbourhood my-pred
+A few years ago, a man walked in a park not far from my neighbourhood.
+
+Arulata upena ararenyanya.
+aff-3s-hear-real baby aff-3s-cry-frq-real.
+He heard a baby crying.
+
+Upena unu arudaripa?
+baby this-pred aff-3s-be.whose-pred
+Whose baby was this?
+
+Areguga ofeke tarenya-ra, we ariciluwa-doma, tapa aronyoca-ca.
+aff-3s-follow-real sound inf-cry=gen | and/but aff-3s-quiet-inch-real=but | then aff-3s-stop-real=completely
+He followed the sound of the crying, but it became quiet, then stopped completely.
+
+Utete uforibu uku enyo exakunexakune-ra adocudagixa adabara onato.
+hand gnarled-pred two-pred nail sharp-emph-pred=gen? aff-3p-go-reach-real aff-3s-grab-real man
+Two gnarled hands with very sharp nails appeared, reaching out and grabbing the man.
+
+Ara uyuweya-yu aroka uma-xibi.
+3s-cop spirit=rel aff-3s-eat-real person=habit
+It was a spirit that eats people.
+
+C-anyace, unenya arakatika epa-ye-ya iru tape aracaka.
+loc=end | clothes aff-3s-tear-real pass=?? 3s.gen-pred only aff-3s-remain-real
+In the end, all that remained were his torn clothes.
+Cambresc to English
+
+Unweth yn oωl, aeth dyn am draed ym mharg na sy'n meł o'm cyvaxogeth. Clywoð o vabi'n ωylo. Hωn oeð babi pωy? Całynoð o ðωrð yr ωylo, ond daeth o'n wan kyn ei gafel gorfωys yn laωn. Grathon dωy law gωgnog gan ewineð aωhυs jaωn ymðangos, yn estynnυ a chydio'r dyn. Kythreυl pa ra gnoi dynnon oeð o! Yn ola, nid arhosathon ðim ond ei ðiład gan rωygo.
+Once upon a time, a man went for a walk in a park that isn't far from my neighbouhood. He heard a baby crying. Whose baby was this? He went towards the sound of the crying, but it became quiet before stopping completely. Two misshapen hands with very sharp nails appeared, reaching out and grabbing the man. It was a demon that eats people! In the end, nothing remained but his torn clothes.
+
+Gloss of Cambresc to English
+
+Unweth yn oωl, aeth dyn am draed ym mharg na sy'n meł o'm cyvaxogeth.
+one.time adv past | go.pst.3s man for ᵒfeet in ⁿpark neg.rel cop.rel.prs.3s=comp distant from=1s.gen neighbourhood.
+Once upon a time, a man went for a walk in a park that isn't far from my neighbouhood.
+
+Clywoð o vabi'n ωylo.
+hear-pst.3s 3s.m ᵒbaby=comp wail
+He heard a baby crying.
+
+Hωn oeð babi pωy?
+this.m cop.impf.3s baby who
+Whose baby was this?
+
+Całynoð o ðωrð yr ωylo, ond daeth o'n wan kyn ei gafel gorfωys yn laωn.
+follow-pst.3s 3s.m ᵒsound def wail | but come.pst.3s 3s.m=comp ᵒquiet before 3s.m.gen obtain pause adv ᵒfull
+He went towards the sound of the crying, but it became quiet before stopping completely.
+
+Grathon dωy law gωgnog gan ewineð aωhυs jaωn ymðangos, yn estynnυ a chydio'r dyn.
+do.pst-3p two.f ᵒhand ᵒmisshapen with fingernail-p sharp very appear | comp reach and ʰgrab=def man
+Two misshapen hands with very sharp nails appeared, reaching out and grabbing the man.
+
+Kythreυl pa ra gnoi dynnon oeð o!
+demon rel ᵒdo.prs.3s ᵒeat man-p cop.impf.3s 3s.m
+It was a demon that eats people!
+
+Yn ola, nid arhosathon ðim ond ei ðiład gan rωygo.
+adv past-spl | neg remain-pst.3p ᵒneg except 3s.gen.m ᵒclothes with ᵒtear
+In the end, nothing remained but his torn clothes.
+Cambresc Lexicon
+
+a | and, also, as well as; before vowels = <ag>; triggers aspirate mutation
+aeth | third person singular preterite of <eid>
+am | around, about, either side of, on the subject of; on, beyond, near, towards; for (purpose), in order to; at (time), for (length of time); forms futures with <bod>; triggers soft mutation
+arhos | to stay, remain; to continue to be; to wait, to stop moving, to not go
+aωhυs | sharp, pointed, cutting; eager, keen
+babi (m) | baby, infant
+bod | to be; there be; auxiliary forming imperfective-aspect verb phrases with <yn³> and forming futures with <am>
+cafel | to get, to obtain; to reach, to attain, to arrive at
+całyn | to follow, to puruse, to go after, to go towards, to search for
+clywed | to hear, to listen; stem <clyw->
+cnoi | to eat, to consume; to bite, to chew
+cωgnog | misshapen, gnarled, bumpy
+cydio | to grab, to grasp, to hold onto
+cyvaxogeth (f) | neighbourhood, vicinity, surroundings
+daeth | third person singular preterite of <doωd>
+deυ | two, a pair of; feminine dωy (in which form it triggers soft mutation)
+diład | clothing, clothes
+dim | not, negative particle (in matrix clauses); no, none, not any; precedes the object or complement of the verb; thus usually appears as soft mutation <ðim>
+doωd | to come, to start (doing), to manage to; also <doωd yn> "to become"
+dωrð (m) | noise, sound
+dωy | see deυ
+dyn (m) | man; person; plural <dynnon>
+dynnon | see <dyn>
+ei¹ | his, its (m); after final -i = 'w; after other vowels = 'i; triggers soft mutation
+ei² | her, its (f); after final -i = 'w; after other vowels = 'i; triggers aspirate mutation
+eid | to go; also in <eid am draed> "to go for a walk"
+estynnυ | to extend, to lenghten, to stretch; to reach out
+ewin (f) | fingernail, toenail; plural <ewineð>
+ewineð | see <ewin>
+gan | with, characterised by, made of; containing; forms passive participles with verbs; triggers soft mutation
+gorfωys (m) | pause, rest, cessation (of sound)
+gra | third person singular present of <greυd>
+grathon | third person plural preterite of <greυd>
+greυd | to do, to make; auxiliary verb used to form perfective-aspect verb phrases
+gwan | weak, feeble; quiet, faint
+hon | see <hωn>
+hωn | (with definite noun) this; feminine <hon>
+jaωn | true, right; very, really, a lot
+kyn | before, ahead of
+kythreυl (m) | demon, ghast, evil spirit
+ław (f) | hand
+łaωn | full, complete; entire, whole
+'m | see <y¹>
+mheł | far (away), distant
+na | that ... not; particle preceding negative relative clauses; before vowels = <nad>; triggers mixed mutation
+ni | not; preverbal negative particle; before vowels = <nid>; triggers mixed mutation
+nid | see <ni>
+o¹ | from, out of, in, of; descended from, belonging to, pertaining to; since, because of, by (agent); triggers soft mutation
+o² | he, him, it (m); third person masculine pronoun; after vowels = <vo>
+oeð | third person singular past imperfective of bod
+ond | but, however; except, apart from; (with negative verb) only, just
+ola | see oωl²; also in <yn ola> "finally, in the end, after all"
+oωl¹ (m) | trace, mark, residue; back, rear
+oωl² | anterior, past, over; superlative <ola> "last, final"
+pa | that, which; particle that precedes direct relative clauses; triggers soft mutation
+parg (m) | park, green public space
+pωy | who, which person; (in apposition with a noun) whose, belonging to who
+rhωygo | to tear, to rip
+sy | third person singular nonpast relative-clause form of <bod>
+troed (f) | foot, paw; plural <traed>
+υnweth | once, one time; also in <unweth yn oωl> "once upon a time"
+ωylo | to cry, to lament, to weep
+y¹ | my, belonging to me; first person singular pronoun; triggers nasal mutation; after vowels = <'m> (in which case no mutation occurs)
+y² | the, definite article; following vowels = <'r>; before vowels = <yr>; triggers soft mutation in feminine singular nouns
+ym | see <yn²>
+ymðangos | to appear, to come into view; to appear, to seem
+yn¹ | adverbial particle, converts adjectives into adverbs; after vowels = <'n>; triggers soft mutation
+yn² | in, inside, at (a place); triggers nasal mutation; before p b m = <ym>; before c k g ng = <yng>
+yn³ | complement particle, often with <bod> "to be", preceding nominal, adjectival or verbal complements; after vowels = <'n>; triggers soft mutation with nouns and adjectives, but not with verbs
+yng | see <yn²>
+Cambresc Grammar
+
+- Mutations
+
+There are four types of initial mutation in Cambresc, usually triggered by a preceding word.
+
+-- Soft mutation
+This is by far the most common. Its effects are
+p t c/k/q m/b d g ł rh
+b d g 	 v   ð Ø l r
+
+Relevant words which trigger it: <am, dωy, ei¹, gan, o¹, y/yr¹ (with feminine singular nouns)>.
+
+The direct object of a finite verb also undergoes the soft mutation.
+> kefl; diskynes i gefl | horse; alight-pst.1s 1s ᵒhorse "I dismounted a horse"
+> kyraeð; gra vi gyraeð | arrive; do.1s 1s ᵒarrive "I arrive"
+
+Adjectives modifying feminine singular nouns also undergo the soft mutation.
+> mór bah | sea small "a small sea"
+> łong vah | ship ᵒsmall "a small ship"
+
+Extraordinarily, <d> does not mutate to <ð> if the preceding word ending in <-s>.
+> nos da "good night" (nos "night" being a feminine noun)
+
+-- Nasal mutation
+p  t  c/k/q b d g
+mh nh ngh   m n ng
+
+Relevant words which trigger it: <y¹, yn²>.
+
+> plant | "children", y mhlant | "my children"
+> De Cappatia | South Cappatia, yn Ne Cappatia | "in South Cappatia"
+
+-- Aspirate mutation
+p  t  c/k qυ
+ph th ch  qυh
+
+Relevant words which trigger it: <a>.
+> coh | "red", glas a choh | "blue and red"
+
+-- Mixed mutation
+This mutation acts like the aspirate mutation on <p t c/k/qυ>, and the soft mutation on <m/b d g ł rh>.
+
+Relevant words which trigger it: <na, ni>.
+
+- Verb Morphology
+
+Verbs inflect for past and nonpast—most of the text is in the past. Nonpast verbs used as finite verbs usually have a future sense, except with stative verbs, which can also have a present sense.
+> gωn i | know-1s 1s "I know", gυiðωn i | know-pst.1s 1s "I knew"
+> arhosa vi | stay-1s 1s "I will stay", arhoses i stay-1s.pst 1s "I stayed"
+
+The relevant finite verb endings found in this text are:
+> -oð | third person singular preterite (past tense perfective)
+> -athon | third person plural preterite
+
+The text also contains several irregular finite forms:
+> aeth | 3s preterite of <eid> "to go"
+> daeth | 3s preterite of <doωd> "to come"
+> oeð | 3s past imperfective of <bod> "to be"
+> grathon | 3p preterite of <greυd> "to do"
+
+Other TAM senses are achieved via auxiliary verb constructions. The verb <greυd> "to do" creates verbs with perfective aspect, in past or nonpast tense.
+> grei di ðrysυ vi | do-2s 2s confuse 1s "you (just) confused me"
+> graeth o dybjed yr ateb | do-3s.pst 3s.m guess def answer "he guessed the answer"
+
+The complex <bod ... yn³>, on the other hand, creates verbs with imperfective aspect.
+> ω vi'n arhos | be-1s 1s comp stay "I am not moving"
+> oeðyh whi'n canυ | be-2pl.pst 2pl comp sing "you were singing"
+
+
+
+- Syntax
+
+-- Noun Phrase
+
+The definite article <y, yr, 'r> precedes the noun. Feminine singular nouns undergo the soft mutation after the definite article.
+> gωr, y gωr "a husband, the husband"
+> greg, y reg "a wife, the wife"
+
+Adjectives follow the noun. They undergo the soft mutation after feminine singular nouns.
+> gωr da "a good husband"
+> greg ða "a good wife"
+
+Genitive phrases "the husband of the doctor", "the Sun Hotel" are formed by simple apposition. Nouns which are possessed in this way cannot themselves take a definite article.
+> gωr y meðyg | husband def doctor
+> tavarn y heυl | hotel the sun
+
+Pronominal possession consists of a possessive pronoun before the noun (often triggering some mutation), and sometimes a resumptive pronoun after the possessee.
+> ei dad (o) | 3s.m.poss ᵒfather 3s "his father"
+> eih grageð (whi) | 2pl.poss wife-pl 2pl "your wives"
+
+In formal writing or speech, the resumptive pronoun may be omitted.
+
+-- Adpositions
+
+Adpositions precede their noun phrase. Many prepositions have inflected personal forms used instead of explicit pronouns.
+> i'r łongor | to=def ship-pl "to the ships"
+> iðyn | to-3pl "to theWm"
+-- Verb Phrase
+
+Cambresc is VSO.
+> pentωrroð y dyn y cathod | collect-3s.pst def man def cat-pl "the man collected the cats"
+
+The direct object of a finite verb undergoes the soft mutation (note in the above example <y cathod>, beginning with a vowel, doesn't change).
+
+In practice, sentences often use an auxiliary, with syntax Aux S (prep) V O.
+> greωh whi weld hωnno | do-2pl 2pl ᵒsee that.m "you see that"
+> ω vi am arhos | be.1s 1s about stay "I'm going to stay"
+
+Negative sentences make use of a preverbal particle <ni(d)>, which triggers the mixed mutation, and a somewhat-optional particle dim which becomes (the first part of) the direct object and thus is usually mutated to ðim.
+> ni raethυm i ðim haeðυ | neg do-1s.pst 1s neg win | "I didn't win"
+
+--- Possessed Verbs
+
+Complement clauses (I suppose *that you are a doctor*) and clauses following certain conjunctions (before *he can catch them*) are formed in Cambresc using possessed verbs. These use the same syntax as ordinary possession.
+> eih bod (whi) | 2pl.poss be 2pl "that you are"
+> ei ał (o) | 3s.m.poss ᵒcan 3s.m "that he can"
+
+Here they are used in context.
+> tybja vi'h bod whi'n veðyg | suppose-1s 1s=2pl.poss be 2pl=comp doctor "I suppose that you are a doctor"
+> kyn ei ał y dyn dal nhω | before 3s.m.poss ᵒcan def man catch 3pl "before he can catch them"
+-- Relative clauses
+
+The only type of relative clause used in this text is the direct relative clause (in which the subject or direct object of siad clause is relativised). To introduce these, Cambresc uses the particles <pa>, which triggers the soft mutation.
+
+> gweles i'r łong | see-pst.1s 1s=def ship "I saw the ship"
+> y łong pa weles i | def ship rel ᵒsee-pst.1s 1s "the ship that I saw"
+
+Negating relative clauses works differently to matrix clauses; you simply replace <pa> with <na> (which triggers mixed mutation).
+
+> yr emin pa ganes i | def hymn rel ᵒsing-pst.1s 1s "the hymn that I sang"
+> yr emin na chanes i | def hymn relneg.rel ʰsing-pst.1s 1s "the hymn that I didn't sing"
+
+When forming relative clauses with <bod> "to be" (including in auxiliary constructions), the 3s nonpast form is irregular, being <sy>, and relative clauses with it uniquely don’t use the particle <pa>.
+
+> y dyn sy'n canυ | def man be.3s=comp sing "the man who is singing"
+> łongor sy doc am ðadangori | ship-pl be.3s soon about unmoor "ships which will set off soon"
+
+As with other verbs in relative clauses <sy> uses the negative particle <na> instead of <ni(d)>.
+
+

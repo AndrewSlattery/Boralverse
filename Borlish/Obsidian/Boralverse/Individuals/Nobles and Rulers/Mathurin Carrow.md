@@ -1,0 +1,3 @@
+Lord Mathurin Carrow, Baron of Ebbasham (fl. 1763) was a traveller who published accounts of his journeys. He is remembered in particular for his mealbooks which compile recipes from the places he visited.
+
+An early work of his, _A Complete Assembly of the Towns and Cities of Markland for the Edification of the Good Food Amateur_, was popular across the [[Northwestern Isles]] (the [[Borlish]] translation being infamously inaccurate) but failed to sell further afield. Later volumes like _An Account of the Vittles of the Various German Peoples_ and _On the Sundry Uses of the Shadome Fruit_ were far more enduring, being republished several times even after his death.

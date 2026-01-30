@@ -1,0 +1,84 @@
+General
+Dilmunidic has very little morphology, being largely analytic. Word-order is strongly SVO. All adjectives and modifiers follow the head noun.
+
+Many words can change part-of-speech by zero derivation, e.g.:
+
+šegkum	‘to be hot’ as a stative verb
+‘hot’ as an adjective
+‘to heat up’ as a causative verb
+
+
+Active and Stative Verbs
+A main distinction is that of ACTIVE and STATIVE verbs, which is enconded either in the subject pronouns or a post-noun phrase clitic chain. These clitics always appear as the final element of a noun-phrase.
+
+Objects always use the stative forms.
+
+Active marking is characterised by pronouns and clitics containing the vowel <e>.
+Similar, Stative marking by <a>. Pronouns are commonly attached directly to the verb. (All pronouns present in the text can be found in the glossary.)
+
+E.g. <en>	1sg. ACT
+<an>	1sg. DYN
+
+Verbs are not obligatorily marked for tense, especially if context makes it clear. Nonetheless, Active verbs are usually considered to have a default past-reference, and stative verbs a default present/progressive reference.
+
+Stative verbs are also used to highlight preconditions of a following clause, or the ‘state’ in which the following clause occurs.
+
+Active verbs may function as stative verbs by simply using the <a> clitics, but stative verbs never take active marking.
+
+Aspect
+
+Active verbs may be marked by the imperfective prefix gi-:
+
+enkala ziz	'I ate bread'
+engikala ziz	'I am/was eating bread'
+
+Tense and Mood
+Tense and Mood are indicated by particles (mostly deriving from verbs) which precede the subject. When a tense/mood particle is present, pronouns attach to these instead of the verb. The ones present in this text are:
+
+mu a general negative particle
+e.g. muen kala ziz	'I did not eat bread'
+
+bar expresses impossibility
+e.g. baren kala ziz	'I could not eat bread'
+
+bal	expresses a dynamic change of state, ‘to become’, ‘to become possible’
+e.g. balen kala ziz	'I was able to eat bread'
+
+There is also the modal prefix ha- which indicates possibility.
+enhakala ziz	'I can/could/might eat bread.'
+
+Possession
+Genitive phrases are Possessed – Possessor. The final noun of a genitive phrase is either marked with the genitive suffix
+-ak or a possessive pronoun clitic. The only possessive clitic used in this text is -ab, the 3.inan. clitic which does not mark number.
+
+The -ak suffix can also be used to make adjectival phrases and is commonly used to derive nouns. In these cases, adjectival -ak is written attached to the word in question, such as:
+
+lu ugarak	‘man field.GEN’ = farmer
+
+Genitive marking can stack as it must appear as the final element of a noun phrase..
+
+Relative Clauses
+Dilmunidic uses a gap strategy exclusively. The subject of a relative clause does not carry any clitic chain. Resumptive pronouns may be used to clear some abiguity.
+
+Ziz enkala(b) a sig	'The bread (which) I ate (it) (was) nice'
+
+Demonstratives and Plurals
+Demonstratives form part of the clitic chain and appear before plural marking. Plurals are marked by -el/al.
+
+The only one present in this text is:
+
+era that (distal).STAT
+
+Zero Copula
+Dilmunidic uses a zero-copula with the subject taking stative marking.
+
+an lu 1sg.STAT man ‘I am a man’
+lu a gullaš man STAT chief ‘The man is a chief’
+
+Reduplication
+Reduplication has many functions. For colours, it indicates a less intense form.
+
+bar 'white'
+barbar 'whiteish, off-white, grey'
+
+In many instances, reduplicated forms are best considered lexicalised and have been included in the glossary.

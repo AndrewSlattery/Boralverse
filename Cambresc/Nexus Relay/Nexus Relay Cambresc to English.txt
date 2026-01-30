@@ -1,0 +1,33 @@
+Unweth yn oωl, aeth dyn am draed ym mharg na sy'n meł o'm cyvaxogeth. Clywoð o vabi'n ωylo. Hωn oeð babi pωy? Całynoð o ðωrð yr ωylo, ond daeth o'n wan kyn ei gafel gorfωys yn laωn. Grathon dωy law gωgnog gan ewineð aωhυs jaωn ymðangos, yn estynnυ a chydio'r dyn. Kythreυl pa ra gnoi dynnon oeð o! Yn ola, nid arhoson ðim ond ei ðiład gan rωygo.
+
+Once upon a time, a man went for a walk in a park that isn't far from my neighbouhood. He heard a baby crying. Whose baby was this? He went towards the sound of the crying, but it became quiet before stopping completely. Two misshapen hands with very sharp nails appeared, reaching out and grabbing the man. It was a demon that eats people! In the end, nothing remained but his torn clothes.
+
+---
+
+Unweth yn oωl, aeth dyn am draed ym mharg na sy'n meł o'm cyvaxogeth.
+one.time adv past | go.pst.3s man for ᵒfeet in ⁿpark neg.rel cop.rel.prs.3s=comp distant from=1s.gen neighbourhood. 
+Once upon a time, a man went for a walk in a park that isn't far from my neighbouhood. 
+
+Clywoð o vabi'n ωylo.
+hear-pst.3s 3s.m ᵒbaby=comp wail
+He heard a baby crying.
+
+Hωn oeð babi pωy?
+this.m cop.impf.3s baby who
+Whose baby was this? 
+
+Całynoð o ðωrð yr ωylo, ond daeth o'n wan kyn ei gafel gorfωys yn laωn.
+follow-pst.3s 3s.m ᵒsound def wail | but come.pst.3s 3s.m=comp ᵒquiet before 3s.m.gen obtain pause adv ᵒfull
+He went towards the sound of the crying, but it became quiet before stopping completely.
+
+Grathon dωy law gωgnog gan ewineð aωhυs jaωn ymðangos, yn estynnυ a chydio'r dyn.
+do.pst-3p two.f ᵒhand ᵒmisshapen with fingernail-p sharp very appear | comp reach and ʰgrab=def man
+Two misshapen hands with very sharp nails appeared, reaching out and grabbing the man.
+
+Kythreυl pa ra gnoi dynnon oeð o!
+demon rel ᵒdo.prs.3s ᵒeat man-p cop.impf.3s 3s.m
+It was a demon that eats people!
+
+Yn ola, nid arhoson ðim ond ei ðiład gan rωygo.
+adv past-spl | neg remain-pst.3p ᵒneg except 3s.gen.m ᵒclothes with ᵒtear
+In the end, nothing remained but his torn clothes.

@@ -1,0 +1,9 @@
+CT has pretty rigid VOS word order. Aspectual particles precede verbs; derivational particles precede nouns and verbs. Adjectives follow the nouns they modify. The adpositions are inpositions—that is, they directly follow the noun but come between it and any modifiers, if present.
+
+Plural nouns generally form by metathesis (initial consonants and immediately-following vowels swap places; e.g. #bac > #abc) or the use of a particle ar (for vowel-initial words).
+
+The difference between the continuous and discontinuous perfective is the application, or lack thereof, of the act on a currently-relevant situation.
+
+There's a lot of zero-derivation from verbs to nouns (usually producing resultatives).
+
+Relative clauses get slotted into the appropriate spot in the sentence as a full sentence, with the relative pronoun/clausal subordinator hae used in the subclause in place of the relative referent.

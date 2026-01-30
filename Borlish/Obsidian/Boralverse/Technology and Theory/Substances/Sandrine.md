@@ -1,0 +1,9 @@
+Sandrine (Merch /ˈsan.dɾəin/) is a soluble substance found in citrus and other fruits and vegetables. It is one of the substances essential to mammal life; a severe defect of sandrine is what causes scurvy.
+
+(Do not confuse this substance with mandrine, a deadly poison.)
+
+The curative effects of citrus fruits for scurvy were suspected as early as the fourteenth century. By the late fifteenth and early sixteenth centuries, with the much longer geoscopic voyages following the [[Novomundine Landfall]] of 1471, efforts to prevent scurvy became more active. For example, King [[Ambrose III of Vascony]] (the 'Ascendant') instituted the [[Sandrine Design]] in 1485 by which ships would be required to stock dried fruits and syrups. This scheme, named for his sister [[Alexandra of Vascony|Alexandra]] and the first European royal to set foot in the [[Novomund]], is where the name sandrine originates.
+
+However, such schemes did not have lasting effects. This was partly due to expense but much more significantly, due to the lack of understanding of the mechanism by which fruit prevented scurvy. Thus, fruit would be preserved in ways which removed their sandrine content (for example, boiling or use of copper vessels) and sailors would suffer scurvy anyway, leading guilds to abandon stocking fruits altogether.
+
+Truly theoretic understanding would not come until the seventeenth century, when it was discovered by chance that the guy-rabbit can also develop scurvy (humans and guys are rare among animals in not creating sandrine in our bodies from sugar). This allowed for much more rigorous and time-efficient testing on guys, to determine what preparations of fruits and vegetables were effective at preventing scurvy. By the 1700s it had become common practice to stock lemon juice diluted with strong alcohol on long sea voyages.

@@ -1,0 +1,30 @@
+Morrack is a polity primarily in northwestern [[Africa]].
+
+# History
+Morrack was a local trading power in the late medieval period, with a mercantile domain bringing them into irregular conflict with the overlapping meshes of [[Britain]] and [[Borland]] to the north (and later that of [[Vascony]] during their ascendancy).
+
+In 1457, Morrack (which at this time controlled also [[Andalus]]) subjugated the southern part of [[Portingale]], which had previously enjoyed a level of autonomy under Vascon stewardship.
+
+Morrack was one of the earliest Vetomundine powers to undertake extensive exploration of the Novomund. The prophetically-named [[New World Company]] was established by Malik [[Munir al-Hamdawi of Morrack|Munir al-Hamdawi]] in 1463, and almost as soon as news of the [[Novomundine Landfall]] had reached court were ships of the Company sent westward. It was this fleet which made contact with the peoples of the [[Arcabil]], as well as the [[Mashick]] and [[Tavantine]] empires.
+
+Morracan ships were the first to circumnavigate the world, having reached the [[Great Borunesk Meeting]] of 1519 via [[Cappatia]].
+
+The death of Tavantine Emperor Cariwasari in 1660 is suspected to have been an assassination carried out on Morracan orders, purportedly to allow for more profitable trade in silver from the Inca—Morrack was at the time running low on funds to support their ongoing wars in [[Vascony]] and [[Libya]]. 
+
+Morrack was embroiled in several conflicts through the mid-eighteenth century, particularly as part of the world-spanning [[Democratic Wars]]. An attempted war of reconquest against [[Andalus]] to the north was the most protracted of these, lasting *de jure*even into the years of the [[Long Peace]].
+
+The [[Good Game]] period of the late nineteenth century saw a brief fad for 'Morrack fashion' in countries across Europe and the Novomund, in areas such as dress, architecture and food. There was, for example, a trend for exposed stonework draped in tapestry and curtains in contemporary buildings.
+
+In the early twentieth century, Morrack was still in the habit of banning books containing subversive politics (and, unofficially, certain personal immoralities), having inherited a somewhat-scrupulous climate from its participation in the [[Modest Arrangement]] of the previous century.
+
+The Japetos III submarine link between Morrack and Ambrosia was completed in 1950, after delays due to budgetary concerns and the outbreak of war. 
+
+# People
+## Monarchs and rulers
+- Munir al-Hamdawi (b. 1429), remembered for establishing the New World Company and for his lifelong rivalry with King [[Ambrose III of Vascony]]
+
+## Theorists and scholars
+- Zacki al-Hamid (fl. c14), mathematician who wrote a treatise on circular functions
+
+## Other
+- Fredun al-Casmi (fl. 1516), captain of the Cynthia on its great journey westward

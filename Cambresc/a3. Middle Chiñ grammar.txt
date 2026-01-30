@@ -1,0 +1,121 @@
+Grammatical Explanation
+All righty, Middle Chiñ is a mostly analytic language spoken in a period roughly equivalent to the IRL low middle ages.
+Phonology notes
+While intimate knowledge of the phonology is not needed to decrypt this a note about vowel orthography is necessary. Middle Chiñ has three level tones (High, Mid, Low) and tone alternations account for some morphological processes in verbs. In oral vowels, those are marked with diacritics, à a á, respectively, but Middle Chiñ also has nasal vowels and their orthography is idiosyncratic so i will provide a chart.
+
+
+
+High
+Mid
+Low
+ã
+â
+ã
+ā
+ɪ̃
+î
+į
+ī
+ʊ̃
+ô
+õ
+ō
+
+Nouns
+Middle Chiñ nouns do not mark for case or for number. Normally, all nouns are accompanied by a classifier. There are several classifiers depending on the features of the noun, some preceding and some following the noun they modify. Under some particular circumstances, like titles and possession, a sequence of more than one noun can function as a single entity and receive a single classifier. The classifiers that appear in the text are in a table below. Notice that all these groups are fuzzy and the words used in the text don't necessarily need to correspond to the description.
+Preceding
+
+
+hā
+natural phenomena, uncountable materials, things made of wood, some abstract concepts
+à'
+people
+tu
+portions of grain, roots, and food
+wa'
+cylinders (e.g. scrolls), wheels, wheeled vehicles, cyclical concepts (years, months, lives)
+ yā
+instances of actions
+Following
+
+
+ni
+animals, body parts and tools
+ko
+small objects, places, everything else
+
+
+Possession in middle chiñ has the format (cl) possessum-poss (cl) possessor, that is, the possessor follows that which it possesses, the possessum receives an affix that agrees with the possessor, and only the classifier of the possessum appears, regardless of whether its a preceding or a following one. In the text, only one such suffix appears, -átmã, which marks that the noun is possessed by a non-speech-participant human.
+Additionally, Middle Chiñ has a set of nouns that are Inalienable and always have a possessive suffix. While the suffixes are the same, these nouns often undergo stem changes with some of the affixes, -átmã included. These will be notated in the lexicon in parenthesis after the base form of the noun. If a noun is marked as inalienable (n.i.) but does not have a form in parentheses it is because they do not undergo stem changes.
+
+There may be pairs of nouns without possession or an adposition, those usually represent that the nouns have a relation that is not strictly possession but also not specific enough to warrant any specific prepositions. They are often weird to distinguish from a subject object sequence and elements of the sentence may be moved around to disambiguate.
+Adpositions
+Adpositions precede the noun and take suffixes that agree with it. In this text we have -ââ for non humans and -ã for humans.
+Adjectives
+Adjectives follow the noun and are invariant. All adjectives can be used as adverbs without morphological change. Luckily there are no predicate adjectives in this text lol.
+Pronouns
+Middle chiñ pronouns distinugish two situations; in Informal situations both speakers use the same set of pronouns, termed 'informal'. In formal situations on the other hand, The higher status speaker and the lower status speaker use different sets of pronons, and second and third person pronouns are discouraged for the lower status speaker.
+Verbs
+While no affixes latch to verbs, they display stem alternations to mark realis vs. irrealis and perfective vs. imperfective. The regular paradigm involves tone changes and reduplication and will be shown in a table, but many verbs are irregular. The irregular ones present in this text will have their forms listed in the glossary entry so that pfv.real (pfv.irr, ipfv.real, ipfv.irr) e.g. "collect, gather, accumulate v. - mnhmì (mnhmií, mnhāmnhmí, mnhāmnhmì)"
+
+
+
+REAL
+IRR
+PFV
+lhwa
+lhwaá
+IPFV
+lhwalhwà
+lhwálhwà
+
+
+The imperfective is used for events are are continuous, repetitive or that frame other events (e.g. while they sang). The irrealis is used for events that didn't happen (i.e. alongside negation), future events that are not certain to happen, and some subordinate clauses.
+Syntax
+Ok so, the base word order of Middle Chiñ is VSO, but the sentence always starts with a fronted element followed by a particle and every main clause has a clause final particle, thus the actual word orders end up being mostly one of the following
+
+S P V O X A
+O P V S X A
+X P V S O A
+V P S O X A
+
+where S = subject, V = (lexical) verb, O = object, X = oblique, A = final particle verb and P = 
+post topic particle.
+
+On occasion, sentences can display more than one post-topic particle, directly in sequence.
+
+Which element is fronted depends on pragmatic concerns like topicality and emphasis but there are syntactic concerns that supercede the pragmatic ones; adverbial and complement clauses are highly preferred to be fronted, so are NPs containing relative clauses. Adverbs are also preferentially fronted, especially if they are adjectives. If several of these things co-occur the fronting is then again ruled by pragmatic concerns.
+
+Subordinate clauses are more likely to be a straightforward VSO, none of them exhibit final particles, and relative clauses often do not exhibit post-topic particles either.
+
+Additionally, Middle Chiñ makes use of serial verb constructions; sequences of verbs in a single clause where only one of them changes for realisness or perfectiveness. Typically they describe a single action and share a subject. While such a sentence still may front a verb, the serial verbs are not fronted as a unit.
+Particles
+The post-topic particles, among other things, mark evidentiality. Only two evidentials appear in this sample; the hearsay marker nã that's used for relayed information such as narratives, and the witness evidential ã used for information directly witnessed and/or performed.
+
+byang
+negation
+ã
+witnessed
+nã
+hearsay
+tī
+questions
+nìy
+future
+
+
+The sentence final particles on the other hand denote features of the verb. While mostly lexically determined, different sentence particles can be used for effect, showing suddenness with įnnâ', or stillness with 'ò for example.
+
+hmè'
+default transitive
+nmé'
+handicraft and performance (play, dance, make/build, sing?, carve, etc)
+niéx
+motion
+'ò
+stative characteristics
+heâ
+perception and thought processes
+įnnâ'
+fast, sudden, severe, or violent action
+

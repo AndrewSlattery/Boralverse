@@ -1,0 +1,1 @@
+Franco Cicala was the console of the maritime republic [[Jeans]] from 1119 until either 1122 or 1124 (records differ). The console being an elected position voted on by the local nobility, Franco would be followed intermittently by over a dozen consoli from among his descendants.

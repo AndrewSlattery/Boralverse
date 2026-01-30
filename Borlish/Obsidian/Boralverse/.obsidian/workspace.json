@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "6dd9188a08a624b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "644f9cbeb40d8024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03e241267b856470",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2726a04a8e84b109",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb705e6e9ffe355f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57c27c2299a4ab55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4d06fa150981e64d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ee88213a758bc24a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3313912c05f7a17a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2da483562bafee04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca84904efb1dbe05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7f3515682c3ec303",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bdee0541fdeadefd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "03e241267b856470",
+  "lastOpenFiles": [
+    "Individuals/Nobles and Rulers/Alexandra of Vascony.md",
+    "Mapbook/Cities and Towns/Santrafew.md",
+    "Events/War/Millstone War.md",
+    "Events/Periods/Good Game.md",
+    "Mapbook/Barcelon.md",
+    "Mapbook/Avosche.md",
+    "Mapbook/Arcabil.md",
+    "Works of Writing/The Mysarnos Codex.md",
+    "Mapbook/Borland.md",
+    "Individuals/Nobles and Rulers/Jambor of Awry.md",
+    "Works of Writing/Scitations/Details of the Seventeeth Century.md",
+    "Works of Writing/Report towards a Normal Teaching for Children at Mantleschool (1981).md",
+    "Works of Writing/New Skies, Old Stories.md",
+    "Works of Writing/Men in Black.md",
+    "Mapbook/Hasiny.md",
+    "Works of Writing/Scitations",
+    "Mapbook/Second Roman Empire.md",
+    "Boralverse Setting Overview.md",
+    "Tongues/Borlish/Phonology/Phonemes.md",
+    "Tongues/Borlish/Morphology/Adjectives.md",
+    "Tongues/Borlish/Diachrony/Vulgar Latin to Modern Borlish.md",
+    "Tongues/Borlish/Morphology",
+    "Tongues/Borlish.zip",
+    "Tongues/Borlish/Phonology/Allophony.md",
+    "Tongues/Borlish/Diachrony",
+    "Tongues/Borlish/Untitled.md",
+    "Tongues/Borlish/Phonology/Phonotactics.md",
+    "Tongues/Borlish/Phonology/Stress.md",
+    "Tongues/Borlish/Phonology/Orthography/Vowels.md",
+    "Tongues/Borlish/Borlish orthography.md",
+    "Tongues/Borlish/Orthography/Untitled",
+    "Tongues/Borlish/Phonology/Orthography",
+    "Tongues/Borlish/Phonology"
+  ]
+}

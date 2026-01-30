@@ -1,0 +1,1 @@
+Vanne Romaçue (fl. 2019) was a doctor of concurrence history at the [[Dijon New School]].

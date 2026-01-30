@@ -1,0 +1,12 @@
+**Northumber** (Borlish **Norðumbr** /nɔːˈðɪm.br̩/) is a polity on the east coast of [[Albion]] which borders [[Markland]], [[Dunclothe]] and [[Scotland]]. Its largest cities are [[Yorwick]] (the capital) and [[Edinbrough]].
+## History
+Originally a pair of English kingdoms settled through the fifth and sixth centuries, Northumber was invaded and conquered from the late ninth century onwards by forces from [[Denmark]] and [[Horther]]. The city of Yorwick is even alleged to have practically given itself over to Dane rule, deposing the alderman and hoping to offer enough loot freely to the invaders so as to avoid the total destruction of the city.
+
+Relations with neighbouring Markland were fraught until the tenth-century [[Elved Marriage]] between a Merch princess and the king of Northumber, which ended direct hostilities for nearly a century. Wars continued however with its other neighbours; for example, Northumber captured the city of Edinbrough (then called *Eidin*) from Dunclothe in 928, taking the last vestiges of Dunclothe's eastern coast. 
+
+By the end of the tenth century the territory of Northumber was united under Dane rule from Yorwick. With the waning of the [[Dane Supremacy]] the ability of Horther to project its rule overseas collapse; in Albion, Northumber became first among equals in a confederation of the local Dane kingdoms, including Dunclothe, [[Sodrick]] and Dublin. At this point Yorwick was by some way the richest city in Albion. 
+
+In the eleventh and twelfth centuries, Northumber became the northernmost vassal of the [[First Drengot Empire]], which ruled over much of [[Albion]] and most of [[Gaul]].
+
+## People
+- Wolfstan II (fl. c9), last English monarch of Northumber before it fell to Dane forces.

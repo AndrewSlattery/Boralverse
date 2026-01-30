@@ -1,0 +1,3 @@
+Elisa Arnoutszen (fl. 1520-40) was a Danish nurse and later physician in the sixteenth century. She was a cousin of the renowned physician [[Laurz Arnoutszen]], and collaborated with him for some time.
+
+In the late 1520s and 30s she was nurse to the children of Duke [[Roger Nassow, Duke d'Avosche|Roger d'Avosche]], including in particular the young [[Adaillé Nassow, Duchess d'Avosche|Adaillé Nassow]].

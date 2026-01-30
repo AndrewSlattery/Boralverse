@@ -1,0 +1,9 @@
+The Maritime cards are a deck used most prevalently across the [[Northwestern Isles]], as well as [[Denmark]] and [[Willemy]]. However, this particular style of deck actually originates in fifteenth-century [[Poland]]. The Maritime deck comprises fifty cards organised into five ensigns and three colours: these are gold, bucklers, staves, jewels and arrows.
+![[Maritime ensigns.png]]
+Many of the cards furthermore have conventional titles separate to their rank and ensign—for example, the deuce of staves is called the Duel, while the sept of jewels is known as the Stars. Over time the artwork on these cards has come to incorporate these thematic elements. In games where some cards trump the rest, the gold ensign typically takes this role, although some more modern games will use the aforementioned "named" cards in this way.
+
+The use of a Maritime deck for divination mirrors many other sources of randomness, although the modern occult practices only date back to the early nineteenth century. They appear to have been popularised by Promethean clubs associated with the [[Deviance movement]], and specifically the storied [[Winchester]] group.
+
+Early records of the specific rules of card games using the Maritime deck are unfortunately thin on the ground. The first real description of a particular game appears in 1555 court records regarding the gambling debts of one Marc Levosclin.
+## Sources
+- Crossing the Rubicon: a Hidden History of Games, a 1982 work of popular history written (originally in [[Borlish]] as *Y Rubicon Trasir: un Stoir Scos de Joy*) by writer and stage performer [[Jonnovar Meyaunot]].

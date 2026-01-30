@@ -1,0 +1,277 @@
+Atruozan is a highly synthetic, predominantly fusional language. It’s word order is S > O, meaning that in non-interrogative clauses, the subject must come before the object of the sentence, with no care given as to the location of the verb. This order inverts in interrogative clauses. Due to an extensive morphology accounting for most of the grammatical weight, aside from that ordering, word order is generally free, with the final word or phrase of the clause generally being the one with the most focus, and that emphasis/focus diminishing as you move backwards through the clause’s arguments.
+
+
+VERBS
+Atruozan verbs tend to be constructed through the affixation of the verbal affixes on nominal roots. This does come with exceptions, of course, some of which so appear in the text. Verbs take a TAM suffix that conjugates for one of five moods, a maximum of eight tense-aspects, 3 persons, and 2 numbers, as well has having three deverbal forms and two derivational ones. It can also take prefixes for habituality, of which there are two types and their negative forms, and negation. This is all done for five distinct verb classes, which each convey information and can drastically affect the meaning of the verb.
+
+Due to the extensive case system, it is also common to drop the verb whenever possible, which is mainly done in matrix clauses when the verb is in the indicative present tense, however should the mood and/or tense already be given elsewhere in the phrase, clause, or sentence such that it is possible to infer the tense of the statement, the verb may be dropped in other environments. If the verb itself is a root, the stem will be its infinitive form without the final infinitive suffix.
+
+Found within the text only a small handful of TAM suffixes appear, along with several derivational and deverbal affixes.
+NEG- HAB- Intensifier- root –TAM –derivational suffix
+
+Verb Classes :
+There are 5 verb classes:
+ÄL (other/common/generic verbs)
+ÑËL (creation/destruction verbs)
+YÃ (survival verbs)
+OU (intransitive, motion, and change of state verbs)
+ZÜ (abstract and weather verbs)
+Only when using the ZÜ class may the pronoun be dropped as they are the only class that only conjugates for one person and number : 3rd person singular (is more of a 5th pers. singular). Provided there is no large change of meaning (ex: fnã-ñël “to kill” vs. fnã-ou “to die”), when a verb is used intransitively, the OU class is utilised.
+
+These suffixes form the name of the verb class; however, three of the classes have two infinitive suffixes, usage being dependent on whether an initial suffix would break the phonotactics or not. These are as follows :
+ÑËL : -ñël/-ël YÃ : -yã/-ãuz
+ZÜ : -zü/-üs
+
+Tense-Aspect-Mood suffixes that appear :
+Suffixes appear in both the Subjunctive and Indicative moods, the latter of which is utilised in matrix clauses to demonstrate epistemic certainty, and the former of which is employed universally in relative clauses (the relative clause requires the use of the subjunctive mood on verbs), and in matrix clauses serves as a very low probability epistemic and deontic, or when used in conjunction with the imperative pronouns, a weak imperative/hortative, though only the relative clause usage is seen in the text. All individual forms due to class change will be listed below:
+-lenkẽ : ÄL Subjunctive present 3rd person plural
+-rẽm : ÑËL Sbjv. prs. 3rd pers. singular
+-zuu : YÃ Indicative perfect (past.perfective) 3rd pers. sg.
+-zu : YÃ Ind. prs. 1st pers. sg.
+-zuneu : YÃ Ind. prs. 3rd pers. pl.
+-ã : OU Ind. prs. 3rd pers. sg.
+-loi : OU Sbjv. prs. 1st pers. sg.
+
+The perfect denotes an event viewed as a single finished entity with clearly definable start and end points that occurred within the past, over a day or two ago (which is covered by the near past which is not found in this text).
+
+Deverbal suffixes :
+The participle form of verbs is employed in place of a relative clause when said relative clause would comprise of nothing aside from the single verb. It remains in the same adjectival slot as the relative clause (this will be explained in a later section). The active participle carries a meaning (using the present as example) of -ing, such as in “boiling water”, whereas the passive participle carries the meaning of -ed, such as in “the baked potato”. The tense used is used to denote the time at which the noun being modified was subject to or was finished being subject to the verb being placed into the participle (think of a relative clause and the tense the verb would bear if it were in that form, as that is the tense used for any given participle use). The suffixes present in the text are as follows :
+-lyãid : ÄL Near-past Passive Participle
+-syü : ÑËL Present Active Participle
+
+Derivational suffixes :
+Derivational suffixes include the Agentive and other numerous Nominaliser suffixes. The former acts to create an animate noun from the verb, and functions similarly to the “-er” suffix in the English word “kicker”. As a noun it may then take case suffixes after it. The Generic Nominaliser is used in relative time specifications (“before the time of the killing”, for example, would be “POSTE kill-NMZ-LOC.IN” in its simplest gloss), in complement clauses when the tense is non-present (not the present tense) and/or when there is more than a single verb constituting it, as well as in comparative constructions between verb phrases. It is primarily used to form action nouns (meaning here nouns formed with -ing, such as “the killing”, “the team’s winning”, etc., whereas other nominalisers tend to form nouns with the state/quality of the nominalised verb, with respect to its meaning, although some can also form the same “type” of nouns as the Generic Nominaliser (the intricacies of the different nominalisers used will be discussed below). The Generic Nominaliser’s use forms an inanimate noun.
+
+Also found in the text is the Place Nominaliser, which forms an inanimate noun bearing the meaning “place of x(‘s happening/occurring)”. The Person Nominaliser, bearing a meaning similar to the Agentive, is also found. It carries a meaning of “person who does x”, especially regarding tasks someone specialises in, and careers/jobs, and its use forms an animate noun. On several instances, the Abstraction Nominaliser is also seen in the text, and forms abstract nouns, which can vary fairly highly and tend to form inanimate nouns carrying a state or quality of the verb.
+
+What is important to note, especially with the nominalisers, is that you are able to conjugate a verb with a TAM suffix before deriving it, which is commonly used as a way to convey the time of the occurrence being described. For example, “kill-IND.PERF.3S-NMZ.GENERIC” would mean “a killing that had occurred in the past”. This usage does not show up in the text, however. There are five suffixes that appear, all assorted nominalisers :
+-emri : ÄL Place Nominaliser (NMZ.Plc)
+-ryën : ÑËL Abstraction Nominaliser (NMZ.Abst)
+-yeuwa : YÃ Person NMZ (NMZ.Pr)
+-ulca : OU Generic NMZ (NMZ.Gen)
+-dwanŕu : ZÜ NMZ.Abst
+
+Habituality :
+Habituality in Atruozan is expressed through the use of verbal prefixes, and come in two major varieties : consistent and inconsistent. The former expresses a much more scheduled, consistent, "on a regular basis". It is commonly, but not necessarily, accompanied by an expression denoting the time elapsed during each occurence, and this does not appear in the text. It is also used to express a sense of the continuative ("kept on", as in "I kept on moving", see example). The latter expresses a much more sporadic, "from time to time" habituality, and does not appear in the text.
+
+There also exists negative habitual prefixes, that do not serve to negate the verb, but rather the habituality itself, and finds most of its common spoken usage in replies (see example 2). It can also be used to convey a sense of "not always", such that "1S.NOM NEG.HAB.CONS-dance" would mean "I don't always/consistently dance". This is most commonly used to denote a change of state of mind or being from previous uses of the habitual prefixes.
+These prefixes “harmonise” to the first vowel of the stem/root much like intensifiers and the negative prefix do.
+
+Ex: 1S.NOM HAB.CONS-move-IND.IMPF.1S
+“I kept on moving”
+Ex 2: 1S.NOM NEG.HAB.CONS-run
+“I run (but not hab.cons)”, a possible answer to “Do you run (hab.cons)?”
+
+The single prefix found in the text is:
+pö- : Habitual inconsistent
+
+Negativity :
+Atruozan's negative is formed through the use of a verbal prefix. It may be reduplicated for a stronger negative. Much like the habitual suffixes, it “harmonises” to the first vowel of the stem.
+zë- : Front Class Negative
+zö- : Back Class Negative
+
+
+ADJECTIVES
+Adjectives can be formed through derivational affixes from nouns, or can be roots in some cases, with nouns being then being formed through derivational affixes on them. This latter is seen several times in the text. Adjectives always follow the noun, as do numerals which behave exactly as adjectives, and agree with the noun in gender and number. Adjectives are by nature inanimate, and thus don’t take a suffix when agreeing with a singular inanimate noun. There is a strict adjectival order which can change the meaning of an adjective, and will thus be listed in full below. The sole “pure” gender agreement suffix that appears is:
+-kö : Back Class animateliser (makes the root word animate, glossed “ANZ”)
+
+Back and Front Class :
+Adjectives, like nouns, are classified as being either Back Class or Front Class based on the last vowel or diphthong of the root. This causes the affixes used to either be “back suffixes” in which the back set of vowels is utilised, or “front suffixes” in which the front set is utilised, and is caused by a now dead vowel harmony system. Nominal and adjectival suffixes thus come in pairs.
+Front vowels include all of : /i y e ẽ ø ø̃ ɛ a aɪ̯ ãɪ̯/ <i ü e ẽ ø ø̃ ë ä ai ãi>
+Back vowels include all of : /u o õ ɵ̞ ɑ ɑ̃ oɪ̯ ɜʊ̯/ <u o õ ö a ã oi eu>
+
+Adjectival order/Adjectival Classes :
+Following a noun, this order, which comprises of 13 “slots” or “classes” is the order in which all adjectives must follow the noun. Changing the class of an adjective can and will change its meaning and interpretation. The order is as follows:
+1) Numeral
+2) Colour
+3) Size
+4) Visual descriptors
+5) Shape
+6) State of being
+7) Abstract (ex: I feel cold)
+8) Touch descriptors
+9) Tangencies (visible, ghostly, material)
+10) Emotions
+11) Type of being (divine, mortal, etc.)
+12) Relative clauses
+13) Predicative adjectives
+Within this order, classes 4 through 8 form a block wherein aside from the Class 4, if there is not an adjective of the previous class within the Noun Phrase, one of the following four particles (which have other usages that will be touched upon later) is used and placed before the adjective within its associated class:
+ya : Class 5
+yã : Class 6
+yo : Class 7
+yø̃ : Class 8
+
+Derivational affixes found in the text:
+Adjectives can be derived into nouns, or adverbs. In the text, both cases are seen. The suffixes seen are the following:
+-mu : Back Class Nominaliser
+-þo : Back Class Adverbialiser (adverbs formed in this manner affect the clause’s verb)
+
+All adverbs, be they roots or formed through the suffix above, must go before the clause or phrase whose main verb it modifies, separated by a comma. In the instances of it appearing between two clauses or phrases, a semi-colon is employed before it (this does not hold true for relative clauses, but they do not appear in the text). Should an adverb be modifying an adjective, the word must first be an adjective, following which it will follow the adjective it’s modifying, while also agreeing with the head noun. It is then separated from the modified adjective by the following preposition:
+eu : adverbialiser (when the adverb modifies an adjective)
+
+Note that this need not take the copular agreement suffixes if modifying a predicative adjective.
+
+Relative Clauses :
+Relative clauses, placed within Class 13, are demarked by the relativiser, “xẽ” before the clause, which doesn’t see the head repeated within itself as it functions on a gap strategy, and which has all contained verbs conjugated in the subjunctive.
+
+
+NOUNS
+Nouns in Atruozan can decline for any of 13 cases, with a secondary construct state (CNS) suffix existing in case another case is in use. They can also decline for number and one of 4 genders, and can derive into adjectives if needed. They also serve as the root for most verbs. They can take prepositions to combine with cases, as well as having determiners for definite nouns, as well as plural indefinites (singular indefinites have no determiner) and the partitive singular.
+Intensifier- root –case suffix –CNS –ADJZ -PL
+
+Gender :
+In Atruozan, each noun is inherently belonging to one of four genders: animate, inanimate, masculine, and feminine. Each of these genders of noun decline with different suffixes, and the root of the noun can be “derived” through these suffixes into a new gender, from which point on any new suffixes would have to use that root gender’s suffixes.
+For instance, the root for dog is “cwega” and is animate. If I wanted to specify that this dog is female, and it was the subject of the sentence, I would use the animate nominative “feminiser” suffix:
+cwega-cu
+dog(AN)-NOM.FEMZ
+The name and extra “Z” at the end of the glossings for the gender changes caused by these suffixes is in analogy to the glossing and naming conventions for adverbialiser, adjectiviser, nominaliser, verbaliser, etc. affixes, as much like result of the usage of an adjectiviser is the changing of a root from say, a noun to an adjective, the result of the usage of a feminiser suffix is the changing of the gender of the stem from animate to feminine.
+
+Case suffixes :
+In the text, seven “cases” appear, thereincluded six cases (sort of) and the construct state. These are found across two of the four genders. If a noun has no suffix on it (null suffix), it means that it is both nominative and the original inherent gender of the noun. The suffixes are as follows, with 1 meaning the voiceless plosive nearest the PoA of the first consonant of the stem, and 2 being the same except for voiced plosives, <w y h x j ŕ> resulting in the furthest back possible plosive :
+-kwä : Animate Front Class Accusative inanimateliser (INZ)
+-kwö : An. Back Class Accusative animateliser (ANZ)
+-gyë : Inanimate F.C Accusative INZ
+-gyö : Inan. B.C Accusative INZ
+-1øtë : An. F.C Dative ANZ
+-1otö : An. B.C Dative ANZ
+-2ëdä : Inan. F.C Dative INZ
+-2öda : Inan. B.C Dative INZ
+-pëx : An. F.C Nominative construct state ANZ
+-1õ : An. B.C Construct state ANZ
+-2ø̃ : Inan. F.C Construct state INZ
+-2õ : Inan. B.C Construct state INZ
+-ëdø̃ : Inan. F.C Instrumental-comitative INZ
+-mä1ä : An. F.C Locative INZ
+-ñë2ä : Inan. F.C Locative INZ
+-ñö2a : Inan. B.C Locative INZ
+-ölt : An. B.C Essive ANZ
+-ëlđ : Inan. F.C Essive INZ
+
+The cases each have the ability to combine with prepositions to offer a larger variety of expressed cases (the prepositions go before the determiners); however, these are largely optional, and the meaning of the given case is usually determined through the sentence itself and context, thus there only being two instances of preposition-case combinations in the text.
+
+The cases found in the text and what they cover:
+NOM — Nominative
+ACC — Accusative, Durative
+DAT — Dative, Benefactive, Terminative, Allative, Illative
+CNS — Construct State
+INSTRC — Instrumental-comitative, Ornative
+LOC — Locative, Inessive, Antessive, Postessive, Temporal
+ESS — Essive, Semblative
+
+Accusative :
+The accusative is employed to mark the patient of transitive verbs and the the direct object (the theme) of ditransitive statements. When affixed to an utterance of an interval of time (or in some cases distance) it can take on a durative meaning similar to the latin accusative of duration of time, where it carries in effect the meaning of “for” in “for 200 years” (see example below). This meaning is the default interpretation when the accusative is seen in an intransitive construction, and when there are multiple arguments marked in the accusative , which is the only time two ACC arguments are allowed in a statement, and the only time this durative interpretation’s sub-case prefix is used.
+
+Ex (as durative) : hour-ACC 1.NOM walk-IND.PRS.1S
+“I walk for an hour”
+
+Dative Case :
+The dative in Atruozan has many uses, the most common of which is the marking of the indirect object in ditransitive statements, the patient in transitive causatives, and the reintroduced semantic subject in transitive passives. It also serves as an allative (movement towards x, x being the object marked with the dative, see example below) which can be specified through the use of a preposition, as can all “sub-cases”; however, this is not always done, as its usage can usually be inferred through context, and prepositions are not used with pronouns. It can also serve as an illative or terminative, marking movement into or destination/ending of movement respectively, as well as a benefactive. The terminative is especially used as a construction in action nominals and will be explored later, but can also serve as a way of conveying “in order to do x” (see ex 2).
+
+Ex (as allative): 1.NOM walk-IND.PRS.1S store-DAT
+“I walk to/towards the store”
+Ex 2 (as terminative): 1.NOM go-IND.PRS.1S TERM ox-DAT find-NMZ-DAT-CNS
+“I go in order to find oxes”
+
+
+Instrumental-comitative Case :
+The instrumental-comitative functions as a standard INSTRC does, denoting a sense of “with/using” when in regards to both objects and others (ex: people). It also functions as an ornative, which tends to use its preposition and not do so in this text, expressing a sense of “equipped with”. In this sense it can also mean wearing or to have (more on this later), the former as in the example provided below. These uses are especially used in conjunction with verb dropping, which will be given a section later on.
+
+Ex (as ornative): 1S.NOM wear-IND.PRES.1S (ORN) hat-INSTRC
+“I wear a hat”
+
+Locative Case :
+The locative functions as a catch-all when to both spatial and temporal location. It can function as a general locative does for specifying spatial location and relation, or it can be used to specify a time or date, and the relation to that. For instance, “night-LOC” would be interpreted as “at night”, whereas “house-LOC” could mean either being in or near or on the house, making context important. This is important in a lot of action nominals, as will be seen later.
+
+Essive Case :
+The essive case expresses the states of being of a given noun, so to speak, as well as the semblative, which bears the meaning of “like/similar to”, such that “SEM dog-ESS” would mean “like a dog” (see example). It is especially used in conjunction with verb dropping, and usually bears the meaning of “is/as a x” (see example 2).
+
+Ex (as semblative): sing-IND.PRES.3S cat.NOM SEM dog-ESS
+“a cat sings like a dog”
+Ex 2: DEF.AN.SG cat.NOM dog-ESS be-IND.PRES.3S
+“the cat is a dog”
+
+Possession :
+In Atruozan, the possessor comes before the possessee, which is marked with the construct state suffix. By this method, you can easily chain many possessors together. The nominative construct state suffix (-pëx/-bëj/etc…) are only used when there is not another case suffix on the noun (aka the head noun is the subject). The exception to this rule is when a noun is possessed by two different possessors at the same time, in which case the nominative CNS suffix is used first, followed by the plainer CNS suffix, regardless of what case the noun is in due to potential previous suffixes. This is not of concern in the context of this text, however.
+
+All pronouns must be in the disjunctive to be a possessor, with the exception of pronouns in the construct state, which are effectively DSJV.CNS pronouns, denoting that the pronoun is possessed be it singly or doubly or more. The case of the head noun is also marked on all possessors except for pronouns (with some exceptions to be noted later) and on any nouns modifying a possessed noun through the use of the particles explained in a later section, in which case they take the same base number of CNS suffixes as the noun they are modifying.
+
+In action nominals, as will be delved more into later, there are two ways nominalisation of a simple clause, x.NOM y-IND z-ACC, can occur :
+
+x z-CNS y-NMZ-CNS or x z-ACC-CNS yo y-NMZ-CNS.NOM-CNS
+
+Only the former of these has any form of relevance to the text.
+
+Number :
+If a noun, adjective, or pronoun is plural, it takes the following suffix:
+-’ : plural
+
+Number is mainly expressed through the use of determiners, which come before the noun and agree in number, definiteness, and gender. Possessed nouns may take a determiner before all of its possessors, with only certain prepositions coming before them (though many prepositions come after the determiner).
+
+Derivational suffixes :
+A noun can be derived into an adjective through the use of a suffix, the newly formed adjective then taking the base adjectival inanimate noun class. The suffix found in the text is:
+-mø : Front Class Adjectiviser
+-mo : Back Class Adjectiviser
+
+Verb dropping :
+In Atruozan, should a verb be in the present indicative, or the tense of the verb in the indicative be already stated in the clause (through other verbs generally), the verb will be dropped due to the extensive case system, should its meaning be roughly covered through the cases.
+
+For instance, the ablative means movement away from something generally, so “I walk away from the store” which would normally be “1S.NOM walk-IND.PRES.1S store-ABL” could have walk dropped, shortening it to “1S.NOM store-ABL”. The context and any necessary adverbs will let it be known how the movement took place, be it by walking, running, etc. The cases’ meanings when verb-dropped tend to stay close to their meanings and usages elsewhere, with a few notable additions :
+
+• The ACC can take on a more temporal meaning roughly equivalent to “for x (time period”.
+• The INSTRC can take on a meaning of “to have”, so “1S.NOM tool-INSTRC” would mean “I have a tool” (or “I am using a tool”, depending on context).
+• The ESS very much so takes on the meaning of “to be” in a given sense, such that “1S.NOM tool-ESS” would mean “I am a tool” or, especially if using the semblative preposition, “I am like a tool”
+Suffixnauhme :
+In cases where you have possessive constructions/active nominal constructions, or where you have a particle (such as yã) relating nouns, which will be further discussed in the following section below, all constituents must have the same case suffixes as do the head noun (see example). These suffixes come after any meaningful case suffixes actually affecting the non-head nouns (see example 2).
+
+Ex : 1.NOM like-IND.PRS.1S beef(IN)-ACC.INZ eat-NMZ(GENERIC.IN)-ACC.INZ
+“I like eating beef”
+Ex 2 : 1.NOM eat-IND.PRS.1S dog(AN)-ACC.INZ yã city(IN)-ABL.INZ-ACC.INZ
+“I eat a dog who’s from a city”
+
+
+PARTICLES
+The adjective class particles have more usages, but for the purposes of this section, the non-adjectival usage of “yã” in the text will be discussed. It is employed in a similar fashion, except that the later shows the relation between two nouns, mainly one that’s either nominative, accusative or dative, and one that’s any of the other cases, so that it affects and modifies the noun, rather than the verb. These particles go between the two nouns/noun phrases that are being put in relation to one another. It can also go in between of a noun and a pronoun.
+
+Ex : dog(AN) yã city(IN)-LOC.INZ eat-IND.PRS.3S
+“The dog in a city eats/is eating”
+
+
+INTENSIFIERS
+Effectively any noun, adjective, adverb, or verb, can take one of the intensifier prefixes. It depends mainly on context and the nature of the affected stem as to what the augmentative and diminutive prefixes specifically modifies about the root, be it size, age, strength, authoritative status, etc… and a second prefix can be added on to intensify the meaning of the prefix further. All but one of the prefixes shows up in the text (1 being the voiceless plosive nearest to the root’s first consonant’s point of articulation and 2 being the voiced version of 1). Here, the Front-Back Class is “harmonized” to the first vowel of the root, rather than the last:
+1ø- : Front Class Diminutive
+1o- : F.C Diminutive
+2o- : B.C Augmentative
+
+
+PRONOUNS
+Pronouns in Atruozan must stay in a given order directly before the verb for the most part, however, the disjunctive pronoun can be found anywhere. The order, as far as it concerns the text, is:
+1) Nominative
+2) Accusative/Reflexive
+3) Else
+
+The third person pronouns only decline for animate and inanimate genders outside of the disjunctive. To make pronouns plural, it takes the same suffix as nouns and adjectives, as was previously mentioned.
+
+Two groups of pronouns don’t adhere strictly to this : the disjunctives (and thus construct state pronouns) and the demonstrative pronouns. The former are effectively removed from the hierarchy, and the latter can appear in a number of places.
+
+The demonstrative pronouns and the reciprocals and reflexives are the only pronouns allowed to directly take nominal suffixes on themselves, with the former being used possessively to denote things akin to “this dog” in “this dog ran”. There is a 3-way proximity distinction in demonstratives.
+
+In the case of indefinite pronouns with regards to the text at hand, in the environment in which they occur therein (a specific known environment), indefinite pronouns are formed based on the interrogatives, and surface effectively as the interrogatives in form. In speech, prosody, and in writing, punctuation, are what distinguish the indefinite use-case from the interrogative use-case in specific environments
+
+All pronouns can take adjectives like normal nouns.
+
+
+ACTIVE NOMINAL CONSTRUCTIONS
+Active nominal constructions are performed in Atruozan using two basic processes : possessive constructions, and double-possessive constructions, employing here the construct state over the genitive. ANCs are very widely used in the language as one of its most productive processes. There are a few factors that contribute to the widespreadness of the constructions, most notably the suffixnauhme in possessives, the possessive nature of ANCs in Atruozan, the heavy morphological weight on and emphasis of nouns, and the extreme versatility of the cases.
+
+Active nominals see the greatest use in three key areas, barring nominalization for the facilitation of verb dropping : causal phrases, temporal/locative phrases, and complement clauses. In all three of these, all constituents must be functionally part of the same NP. This is rigidified due to the nature of the cases and case stacking explained previously. The result is a situation wherein the ultimate head noun’s case is present on nearly if not all arguments within it (that can take the case of course). This spans from simple examples such as examples 1 and 2 (ANCs in []) :
+
+Ex 1 (CAU) : [CAU rock-ABL break-NMZ-ABL-CNS] | 1S.NOM jump-IND.PRS.1S
+“Because of a rock breaking, I jump”.
+Ex 2 (complement) : 1S.NOM like-IND.PRS.1S [beef-ACC eat-NMZ-ACC-CNS]
+“I like eating beef”.
+
+Note that you can have adjectives, relative clauses, and other nouns “qualifying” via particles the core construction, but at its simplest, there must be but one head noun.
+
+In the nominalisation of transitive and ditransitive constructions, notably for the former, the nominalisation strategy chosen varies, as explained in a previous section. Adverbs affecting the verb become adjectives in the ANC.
+
+This ultimately leads to some more complex situations wherein occasionally you end up needing to nominalise two clauses into a single NP. Such is the case with conditional statements when given as a condition or when present as a complement clause (for the former, think “because if I ate, I would win, …”) primarily. These complex scenarios do not appear in the text.

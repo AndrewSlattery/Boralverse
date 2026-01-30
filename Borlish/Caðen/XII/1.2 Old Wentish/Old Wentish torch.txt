@@ -1,0 +1,321 @@
+Noun phrases:
+Noun phrases require a noun; only a few adjectives can serve as full substantives. Nouns may be modified by any number of adjectives, although stylistically simple noun phrases are preferred. Adjectives, which agree with the noun, may either precede or follow the noun, rather freely: emphasis and prosody may both be relevant factors in determining order. Possessive adjectives more often immediately precede the noun, though this is not an absolute rule. Nouns may also be modified by nouns in the genitive acting as possessors, and by prepositional phrases, although lengthy prepositional phrases are typically discouraged. Prepositional phrases typically follow the noun, particularly if lengthy.
+Nouns may also be modified by the demonstratives (or articles) “sa” (“that”), “sesi” (“this”), “iánna” (“yon”) and “an” (indicating “a certain”). Notably, these are used rather less frequently than their English equivalents – “sesi” and “iánna” in particular tend only to be used in explicit contrasts, or when actually gesturing to an item. There is no indefinite article. None of these demonstratives other than “an” may be used when the noun is modified by a possessor.
+Where a noun has more than one modifier, there is a tendency for them to appear on opposite sides of the noun.
+
+Adjectives:
+Adjectives agree with their head noun. They have two distinct paradigms: weak and strong; this is not a lexical difference, but a syntactic one. Definite nouns are modified by weak adjectives; notably, however, this continues to be the case even when there is no other overt indicator (such as a demonstrative or a possessive) of definiteness. The adjectives “alla” (“all”), “suilca” (“such”) and “huilca” (“which”) are always strong, as are cardinal numbers and pronominal adjectives; the adjectives “saima” (“same”), “selba” (“itself”), comparatives, and ordinals above “second” are always weak.
+Adjectives in predicate position (with the copula or the verb “uearthanạ”, acting as a transformative compula) are always strong, and in the nominative.
+All adjectives share the same paradigms, with the exception of the nominative singular, where some adjectives possess an invariant -i or -u rather than the normal endings; feminine comparatives and ordinals are also distinct in using a paradigm taken from the 3c nouns, rather than the 3b nouns as with other weak adjectives.
+Adjectives are marked as comparatives typically with the suffix -ósó, though some common comparatives instead take -(i)só – either form may trigger vowel changes in the root, though this is rare with the former. Few adjectives form genuine superlatives, with the comparative also being used in superlative senses; words etymologically corresponding to English superlatives are rare, and generally treated as nouns, taking possessors (often plural) to limit their scope if necessary: thus, to translate “the longest summer”, one literally says “the longest of summers”, “lanksta sumharó”, or simply “the longer summer (of all)”, “langsó sumhara (allas)”.
+
+
+Adverbs:
+Many adverbs are monomorphemic, and often related to, or identical to, conjunctions or prepositions. Adverbs typically immediately precede a final verb, or immediately follow a non-final verb; they may also be initialised for emphasis, or sometimes found in second position. Where there is an auxiliary construction, adverbs prefer to attach to the auxiliary, but may also be found attached to the secondary verbal element.
+Adverbs may also be derived from other words – chiefly, from adjectives. These adverbs are typically marked with -é, although some are instead marked with -ó. These adverbs are generally preceded by the preposition “in” (or “í” before some words), but this preposition is dropped in initialised position, and is in any case never strictly obligatory. These adverbial phrases must be carefully distinguished from prepositional phrases. The preposition is also absent when the adverb serves as an object complement, with a verb such as ‘make’ or ‘put’. Some adverbs – particularly monomorphemic adverbs – may be preceded by other prepositions, as in such phrases as “bi hér”, “near here”.
+Nouns in the genitive may also be found in the role of adverbs.
+Some verbs – relatively few compared with modern English – take a predetermined adverb as part of a combined lexical entry; typically this is a motion verb accompanied by an adverb of direction, or an action verb accompanied by an adverb indicating in some way consequence.
+Adverbs may have their scope limited by a following prepositional phrase, generally with “ta”, effectively forming a complex preposition – thus oppé, “up above”, but oppé ta that, “up above that”; these constructions tend to be more marked than genuine prepositions, however.
+
+Predication:
+Subjects are given nominal and adjectival predicates by means of the copula, or the verb “uearthanạ” (the transformative copula).
+Subjects are given ‘adverbial’ predicates – which are most often prepositional phrases, though true adverbs are possible in this position – by means of a positional verb, most often “stánnạ”, “to stand”, or “liggenạ”, “to lie”; a few subjects of a more abstract kind may use other intransitive verbs in this way.
+
+
+Initial position and tmesis:
+Initial position is given to an element of particular emphasis, importance, or sometimes simply surprise or interest (the most ‘dramatic’ element, particularly in storytelling); this results in hyperbaton, the removal of an element from its typical place, in order to be made initial. Any element may be placed here, if not by some other rule fixed in an alternative location.
+There is a strong tendency for the initialised element to be brief: ideally no more than a single word. This frequently results in tmesis: a phrase ‘interrupted’ by the second-position element (typically a verb or Wackernagel particle), only to be continued immediately afterward.
+Notably, however, it is possible for short, unstressed words to precede an initialised element without provoking tmesis: these include prepositions, as well as the negative particle and certain phrasal conjunctions.
+If no other element particularly merits initial position, it is given by default to a verb, if this is permitted.
+
+Verbal position:
+Verbs are typically found in one of three places: initial, final, or in second position.
+Verbs must be in final position in subordinate clauses, or when second position is taken up by a Wackernagel particle. Similarly, participles, verbal nouns and infinitives all take final position. “Final” position, however, is not always absolutely clause-final: ‘heavy’ elements, particularly adverbial phrases, may follow final position, as sometimes may elements poetically placed last for dramatic effect.
+Also widespread is the process of ‘division’, in which a heavy object or oblique phrase is broken up, to allow a lighter phrase to remain in the core of the clause, while the remaining material – typically a modifying prepositional phrase, or a conjoined noun phrase – is placed beyond final position.
+A verb not fixed in final position will (typically) be in initial position if there is no other element that calls compellingly for emphasis and attention, or otherwise in second position. The copula, however, and the verb “uearthanạ” when used as a transformative copula, are never fronted in indicative clauses; modal verbs are also somewhat resistant to fronting, though this does sometimes occur.
+Verbs are also fronted in questions and imperatives, when they are followed by a Wackernagel particle (“an” for questions, “nu” for imperatives) – this is the only time a Wackernagel particle and a non-final verb may coëxist.
+
+Subject, object and oblique position, and pronouns:
+The typical word order places the subject earlier in the clause than the object, unless the object has been moved to initial position. However, nominal subjects and objects do have a degree of freedom of location, and this rule is not absolute.
+Subject and object pronouns, however, are more closely bound to the verb. Typically, with pronouns, the order is VSO for initial verbs, SVO for second-position verbs with emphasised subject pronouns, VSO for second-position verbs where another element is initialised, and SOV for final verbs. However, any pronoun comes closer to the verb than a full noun (so a nominal object does not come between a subject pronoun and a final verb). VSO orders can become VOS where the object is de-emphasised or the subject emphasised; there is also a weak object pronoun with more eccentric positioning rules, but this will fortunately not be an issue in the relay text.
+Subjects may be dropped either when context makes their identity clear, or to create impersonal verbs.
+An indirect object tends to be further from the verb than a direct object.
+Obliques, in the form of prepositional phrases or (very occasionally) instrumental nouns typically come close to the verb when light, but at the end of the clause when heavy – but this is not an absolute rule.
+
+
+Coördination:
+Clauses are linked together with clausal conjunctions; these are of three kinds, depending on their preferred word position. The conjunctions “áid” (“and”), and “ac” (“but”), take a ‘zero’ position,with no effect on remaining order in the clause; most other conjunctions take second position, and may be termed Wackernagel particles, with a significant influence on word order.
+Finally, considerable use is made of correlative conjunctions: these pair a clause-initial adverb in one clause with a Wackernagel particle in another. The most prominent of these pairs are “sua...sua” (“as... so...”), “thá...thá” (“when... then...”), “iabe... than” (“if... then”), “má... iot” (“although... yet still...”) and “ifthó... ifthó” (“either... or...”).
+In a correlative pair, there is no fast rule determining which element is treated as a clause-initial adverb, and which as a Wackernagel particle; in general, the Wackernagel particle occurs in the clause that is more ‘backgrounded’ or ‘anticipated’, but this may be hard to pin down in individual cases. Likewise there is no fast rule governing which of the two clauses must come first. In this regard the situation is similar to English, in which “when I was in the kitchen, I heard a noise”, “I heard a noise when I was in the kitchen”, “When I heard a noise I was in the kitchen” and “I was in the kitchen when I heard a noise” are all permissable and describe the same situation, with pragmatic differences in emphasis and nuance. A rough guide might be to translate a correlative pair with an English “it was (as, when, if, etc)... that...”, with the Wackernagelised clause equivalent to the ‘that’ phrase, and the adverb-fronted clause equivalent to the English ‘it was’ clause. Thus, “sua X... Y sua” might translate to “it was just as X... that likewise Y”; however, the construction is altogether less marked than these English relative constructions.
+Clause-initial adverbs in correlative pairs act simply as emphasis-fronted elements within a clause, taking initial position.
+There is a notable prejudice in the language against subordinate clauses, with coördinate clauses and adverbial phrases preferred.
+
+Relative clauses:
+Relative clauses may be introduced by the plain relativiser, “tha”, which acts in effect as a conjunction. Where more emphasis is required, however – and particularly where a restrictive scope is intended – this may be reinforced by the appropriate form of the demonstrative “sa”. This may either modify the the head noun – “siauh thano mann tha áithclaidóid thano anad”, “I see that man that hunted the duck” – or the relativiser – “siauh mann sa tha áithclaidóid thano anad”, “I see a man, that (one) that hunted the duck”. It is also possible to place the demonstrative in both places: “siauh thano mann sa that áithclaidóid thano anad”.
+Relativisation of an indefinite, however, requires a different construction: the head noun must be prefixed with either “áinna” (“a certain”) or “suilca” (“such a”).
+
+Non-finite constructions:
+Old Wenthish possesses multiple non-finite verb forms: active and passive participles; the nominative and dative infinitives; the verbal noun; and the action noun.
+The nominative infinitive, which often has a subjunctive or indefinite semantic character, may be used as a subject, and may also appear as the object of some bridging verbs, and with modal verbs. It is the citation form of the verb, formed by adding -nạ to the verb root, with the aid of a thematic vowel).
+The dative infinitive takes the suffix -nnié, again after a thematic vowel. In its bare form, it is used only as an indirect object of certain ditransitive verbs (such as “salienạ”, “to offer”). More often, it follows the preposition “ta”, in which case it typically denotes purposes: it may directly modify an noun in order to provide a function or intent (“anadn ta etannié”, “ducks for eating” - literally “ducks to eat”), or it may provide a purpose clause for an intransitive verb (“áithclaidu ta etannié”, “I hunt to eat”). To provide a similar purpose clause to a transitive verb, however, the additional preposition “foré” is required – “áithclaidu anadn foré ta etannié”, “I hunt ducks to eat”. Adverbs in this construction precede “ta”, but follow “foré”; objects of the infinitive may either precede or follow “foré”.
+The verbal noun is typically formed with bare -n following the verb root, or in some cases -ón or -in. It refers to a specific event, rather than to a generality: it may be thought of as “an act of X”, “an instance of X”; it may stand as the subject, object or indirect object of another verb, although as an indirect object it takes a preposition. The verbal noun, with a preposition, also forms supines to an adjective (“ybla in itn” – “bad to eat” (or more literally “bad in eating”). Often, the verbal noun is found in periphrastic constructions of an aspectual kind, where English would use an infinitive: “adgann ic itn” (“I began to eat”, or more literally “I began an eating”). Verbal nouns may take an argument in the genitive – this is ambiguous between subject and (for transitives) object.
+The action noun is a 2a feminine noun formed in -ong; it refers to an type of action as a whole, rather than (or not wholly) as an individual instance or event.
+
+Perfect constructions:
+There is no single ‘perfect’ tense construction. However, a number of constructions are used to convey perfect meanings.
+The perfect may sometimes require only a plain past tense.
+Other times, a present (for perfect) or past (for pluperfect) verb may be reinforced with the adverb “áir” (“before”).
+Alternatively, and often in addition to this, the prefix fore- (usually “in front of, before”)may be added to the verb.
+Where a particularly strong perfect sense is required, a positional verb may be paired with the preposition “sioith” and the verbal noun: “stá ic sioith itn”, “I have just eaten”.
+Alternative, a construction with “have” is also possible – “hudạ haubéth ic gahuirsgda”, “I have flushed a dog (from hiding)” – but this focuses strongly on the new state of the object.
+Notably, the passive participle regularly marks the perfect with the prefix ga-, even when used attributively: thus “brásda”, “(that is) bruised”, but “gabrásda”, “(that has become) bruised”.
+
+Aspect:
+There is no obligatory means of marking aspect: aspect may generally be deduced from context.
+As said above, aspect can if necessary be made explicit by means of auxiliary verbs with verbal nouns. Typically, the aspect is denoted directly by the auxiliary; however, constructions also exist in which a positional verb is used with a particular preposition to denote an aspect: most often “foré” to indicate an action that is about to occur, “sioith” to indicate an action recently complete (as discussed in the above section on perfects), and “in” to indicate an action currently engaged in: “stá ic in itn”, “I’m in (the middle of) eating”.
+
+Subjunctives:
+Let’s not get into that now. Let’s just say, “scuili” is the indicative second- and/or third-person singular subjunctive form of the modal verb “scolanạ” (“have to, must, be obligated to”). Subjunctives are often used in subordinate clauses, or in irrealis or future clauses, but the semantics of subjunctive modals is a little idiomatic; it suffices to say that in this case it lessens the moral force of the modal and gives it a more hypothetical flavour.
+
+
+--------------------------------------------------------------------------------
+
+
+PART FIVE: MORPHOLOGICAL TABLES
+
+Nouns:
+Nouns inflect for five cases and two numbers, in a variety of declensions. Here, the singular form is placed first, and the plural form follows after a comma (“-“ indicates zero-marking). Only those declensions actually found in the text to be translated will be detailed.
+
+1a:
+Nominative: -a, -
+Accusative: -ạ, -an/-en
+Dative: -é, -m
+Instrumental: -, -m
+Genitive: -as/-es, -ó
+(these nouns are masculine)
+
+1an.:
+Nominative: -ạ, -
+Accusative: -ạ, -
+Dative: -é, -m
+Instrumental: -, -m
+Genitive: -as/-es, -ó
+(these nouns are neuter)
+
+2a:
+Nominative: -, -ó
+Accusative: -o, -
+Dative: -ó, -om
+Instrumental: -, -om
+Genitive: -, -ó
+(these nouns are feminine)
+
+2b:
+Nominative: u, -ó
+Accusative: -o, -u
+Dative: -ó, -om
+Instrumental: -u, -om
+Genitive: -u, -ó
+(these nouns are feminine)
+
+3a:
+Nominative: -ó, -an
+Accusative: -an, -ann
+Dative: -in, -amm
+Instrumental: -in, -amm
+Genitive: -in, -anó
+(these nouns are masculine)
+N.B., 3a nouns with the root vowel -eo- in the nominative have ablaut to -i- in the dative, instrumental and genitive singulars.
+
+3b:
+Nominative: -o, -on
+Accusative: -on, -onn
+Dative: -on, -omm
+Instrumental: -on, -omm
+Genitive: -on, -ónó
+(these nouns are feminine)
+
+3c:
+Nominative: -i, -in
+Accusative: -in, -inn
+Dative: -in, -imm
+Instrumental: -in, -imm
+Genitive: -in, -ínó
+(these nouns are masculine)
+
+4am.:
+Nominative: -, -úi
+Accusative: -, -úi
+Dative: -úi, -om
+Instrumental: -o, -om
+Genitive: -ó, -úi
+(these nouns are masculine)
+
+6f.:
+Nominative: -, -
+Accusative: -, -n
+Dative: -, -m
+Instrumental: -, -m
+Genitive: -, -ó
+(these nouns are feminine)
+
+N.B. ...oh, it’s complicated, so here: “naiht” is the dative, instrumental or genitive singular, or nominative plural, of “nahs”.
+
+7f.:
+Nominative: -er, -r
+Accusative: -er, -ron
+Dative: -r, -rom
+Instrumental: -or, -rom
+Genitive: -or, -ró
+(these nouns are feminine)
+
+
+Adjectives:
+Adjectives may be strong (indefinite) or weak (definite). They agree in case, number and gender with their head noun. We’ll only deal with strong adjectives here: weak masculine adjectives inflect as 3a nouns, and weak feminine adjectives inflect as 3b nouns, unless they are comparatives or ordinals, in which case they inflect as 3c nouns. We’ll take the genders in turn; as with the nouns above, singular comes before the comma, and plural afterward.
+
+Masculine:
+Nominative: -a, -é
+Accusative: -ano, -an
+Dative: -amé, -ém
+Instrumental: -ana, -ém
+Genitive: -as, -eosó
+Neuter:
+Nominative: -a, -/-u
+Accusative: -a, -/-u
+Dative: -amé, -ém
+Instrumental: -ana, -ém
+Genitive: -as, -eosó
+Feminine:
+Nominative: -/-u, -ó
+Accusative: -/-u, -ó
+Dative: -eosó, -ém
+Instrumental: -eos, -ém
+Genitive: -eos, -eosó
+
+Pronouns and Pronominal Adjectives:
+Only one personal pronoun appears in the text: "iac", the first-person singular pronoun:
+
+Nominative: iac/ic
+Accusative: miac/mic
+Dative: mi
+Instrumental: mi
+
+The forms “ic” and “mic” are unstressed forms of “iac” and “miac”, and typically occur directly following a verb, or preceding the copula.
+
+From this pronoun is formed the pronominal adjective, “ménna”. This inflects mostly as a regular adjective, but with slight irregularities and additional weak forms:
+
+Masculine:
+Nominative: ménna/minha, ménné/minhé
+Accusative: ménno/minho, ménnan/minhan
+Dative: mémé, ménném/mém
+Instrumental: ménna/mana, ménném/mém
+Genitive: ménnas/minhas, meosó
+Neuter:
+Nominative: ménna/minha, ménn/minhu
+Accusative: ménna/minha, ménn/minhu
+Dative: mémé, ménném/mém
+Instrumental: ménna/mana, ménném/mém
+Genitive: ménnas/minhas, meosó
+Feminine:
+Nominative: ménn/minhu, ménnó/minhó
+Accusative: ménn/minhu, ménnó/minhó
+Dative: meosó, ménném/mém
+Instrumental: ménneos/meos, ménném/mém
+Genitive: ménneos/meos, meosó
+
+In general, it is the “weak” form that is encountered; the “strong” form of the pronominal adjective is only found when emphasised.
+
+The third-person masculine singular produces a masculine singular pronominal adjective, “his”, but this does not inflect for case; its weak form is “hes”.
+
+Other pronouns in this text inflect as regular 1a nouns, with the exception of demonstratives.
+
+
+The Demonstrative “SA”
+This demonstrative has a slightly irregular inflection. Like an adjective, it agrees in person, case and number with its head, though it is also able to stand independently as a pronoun.
+
+Masculine:
+Nominative: sa, thá
+Accusative: thanno, than
+Dative: thammé, théma
+Instrumental: thio, thém
+Genitive: thas, theosó
+Neuter:
+Nominative: that, thó
+Accusative: that, thó
+Dative: thammé, théma
+Instrumental: thio, thém
+Genitive: thas, theosó
+Feminine:
+Nominative: só, thó
+Accusative: thó, than
+Dative: theoso, théma
+Instrumental: theos , thém
+Genitive: theos, theosó
+
+
+
+
+Verbs
+Verbs, which inflect for person, number and tense, may be either strong or weak. In the glossary, strong verb classes are noted with Roman numerals (I-VII, including many subtypes), while weak verb classes are noted with Latin capitals (A-D, again with subtypes).
+
+Strong verbs inflect in two ways: through ablaut, and through suffixes. The suffixes are as follows (ignoring the subjunctive, which will not be relevant here, and showing present tense forms first, followed by past tense forms):
+1st singular: -/-u, -
+2nd singular: -/-i, -t
+3rd singular: -/-i, -
+Plural: -ád, -n
+Active participle: -end/-and
+Passive participle: -ena/-ana
+
+The -u and -i suffixes appear only when the vowel is a short monophthong and is not followed by a cluster or geminate. [the -end/-and and -ena/-ana alterations are orthographic, depending on the preceding consonant]
+
+The ablaut broadly (disregarding some slight irregularities) follows a system of seven grades or parts:
+- indicative and subjunctive present 1st person singular
+- present indicative plural, 2nd and 3rd person present singular subjunctives, active participle, imperative and infinitive
+- 2nd and 3rd person indicative present and verbal noun
+- past indicative singular
+- past indicative plural
+- past subjunctive
+- passive participle
+
+A class Ia verb, for example, has the ablaut pattern io-í-í-á-i-i-i. Thus, “míthenạ” (“to shun”), a Ia verb, inflects as follows:
+1st singular: mioith, máith
+2nd singular: míth, máitht
+3rd singular: míth, máith
+Plural: míthád, míun
+Active participle: míthend
+Passive participle: midena
+
+This paradigm also demonstrates some problems. The -i- and -u- appearing after the umlaut vowels are orthographic and indicate the changing quality of the following consonant – it’s probably best not to worry about this right now. “míun” lacks its ‘th’ due to a regular rule dropping fricatives before nasals – compensatory lengthening from this is also why the vowel here is long, though the ablaut paradigm suggests it should be short (however, this process does NOT generally take place before the -n of the verbal noun - the verbal noun of “míthenạ” is the expected “míthn”. Finally, the passive participle shows a common pattern of voicing in this form (also present in the past subjunctives), which is widespread among strong verbs.
+
+The ablaut paradigms relevant to this text are:
+IIb: ú-ú-ú-ú-u-ui-o
+IIIa: ea-ea-ie-a-u-ui-o
+IIIb: e-e-i-a-u-ui-o
+IIIc: eo-e-i-a-u-ui-o, with an unexpected -ie- (rather than -i-) in the verbal noun
+IVa: i-i-i-a-ó-ó-e
+V: io-í-í-á-ú-ú-ú
+VI: a-a-e-ó-ó-ó-a
+VIIa: a-a-a-ea-ea-ea-a
+VIIb: á-á-á-é-é-é-á, but some verbs show -é- for all the first six grades
+
+Class IVa verbs also show gemination of the final consonant of the root in the 1st and 2nd ablaut grades, except in the imperative.
+
+Weak vowels primarily inflect through suffixation. The basic weak vowel suffix paradigm (again ignoring the subjunctive) is as follows:
+
+1st singular: -, -do
+2nd singular: -s, -di
+3rd singular: -th, -di
+Plural: -áth, -dén
+Active participle: -end
+Passive participle: -da
+
+Root-final consonants assimilate to the voicing of a following suffix-initial consonant (-d generally devoices to -th)
+However, there are some caveats here, depending on the class.
+
+Class A verbs show an infixed -e- in the second- and third-person singular present indicative. More substantially, they show a pattern of root-final gemination in the present indicative plural and first-person singular, the present subjunctive, the active participle and the infinitive. A2 verbs also show minor vowel ablaut in these forms, with which we will not here concern ourselves.
+
+Class B verbs show neither the infixed -e- nor the gemination contrast. B1 verbs are thus the simplest of all Old Wenthish verbs. The B2 subclass, however, shows a dramatic root alternation: those forms that show gemination in Class A show a root ending in -end in Class B, while all other forms instead show a root ending in -ád. Thus “send”, “I send”, but “sáths”, “you send”, and “sáddi”, “you/he/she sent”.
+
+Class C verbs notably show a root ending in -ó. This thematic vowel is shortened to -o in the present indicative singular, the present subjunctive, the imperative, and the active participle. The thematic vowel replaces the suffix vowel of the present indicative plural and the active participle. Some Class C verbs – those with short monophthongs in their root and no final cluster – also show -u in the present indicative first person singular.
+
+Class D verbs are relatively complex, most showing a marked root alternation. Only D2 verbs are relevant in this text, however, and conveniently these show only minor ablaut and depalatalisation, with which we need not concern ourselves here. They show -e- in the second- and third-person singular present indicative, as with Class A verbs, and an intrusive -i- after the root in the present indicative plural, the present subjunctive, the active participle and the infinitive, as well as a final -g in the present indicative first-person singular. More significantly, the -d- in the past tense suffixes is devoiced to -t-, and in turn may devoice preceding consonants.

@@ -1,0 +1,65 @@
+GLOSSARY
+n. noun
+v. verb
+adj. adjective
+pron. pronoun
+prep. preposition
+conj. conjunction
+det. determiner
+an. animate
+in. inanimate
+masc. masculine
+fem. feminine
+äl. ÄL verb class
+ël. ËL verb class
+il. IL verb class
+ol. OL verb class
+
+The alphabetical order used is that of the standard roman alphabet as used by English, with “accented” variants of a letter following the base glyph.
+
+aiyer – prep. terminative case
+bä – pron. nominative 3.AN
+ƀaix – n.an. movement
+ƀo – pron. disjunctive 3.IN
+bofum – n.in. job (career)
+ƀrült – n.in. colour
+ƀu – pron. reflexive 3.IN
+cai – prep. benefactive case
+da – det. indefinite inanimate pl.
+dorëp – n.in. thing
+đabko – n.in. weight (note : đabkodwanŕu (weight-NMZ.Abst(ZÜ)) is “pressure”)**
+đöm – adj. visible
+đuko – adj. every
+fäñ – n.an. worm
+fäþui – conj. but/however
+floyãuz – v.yã. to track
+fnoia – n.in. structural integrity
+gin – adj. four
+goi – n.an. vapour
+grõga – n.in. darkness
+grø̃t – n.in. day (as in a single full planetary rotation)
+ivëxo – n.an. dawn/sunrise
+jbano – n.in. long time
+kwüsi – n.in. segment
+leodou – v.ou. to occur
+lhiza – n.in. light
+nikä – n.in. crystal
+nölc – n.in. ice
+ñoibo – n.in. what
+of – prep. semblative case/like
+öxü – conj. and (used in lists such that all things affected can occupy a single slot)
+öyav – n.an. eye
+øþma – pron. distal demonstrative (also used similarly to “there” in “I was there (DIST)”)
+pik – n.in. connecting point (of two stick, rope, rod-like shapes)
+pötsör – adj. half
+ryäñäëk – n.an. person
+ta – det. definite inanimate pl.
+tä – det. definite inanimate sg.
+të – det. definite animate sg.
+tö – det. definite animate pl.
+tüor – adj. many/several
+ü – conj. and (standard form)
+üþ – n.in. heat
+wä – pron. nominative 1pers.
+xãiyë – n.an. chief
+xẽ – conj. relativiser

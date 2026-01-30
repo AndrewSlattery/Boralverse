@@ -1,0 +1,39 @@
+Noun Morphology
+
+Case
+A -Ø
+P -æ/-a
+LOC -m
+INS -ne/-no
+
+A = subject of transitive verbs and intransitives of motion
+P = patient of transitive verbs and subject of intransitives
+
+Number
+SG -Ø
+PC -r
+PL-k’æ/-k’a
+
+Verb Morphology
+
+Tense
+NPST -Ø
+PST -sææ/-saa
+
+Aspect
+IPFV -Ø
+PFV -pe/-po
+ITR -ʼæt/-ʼat
+PRO -iš/-uš
+
+Mood
+IND -Ø
+IRR -se/-so
+INT -p’i/-p’u
+IMP -k’ææ/-k’aa
+
+ni- indicates reflexive
+-š relativizer; indicates both relative clauses as well as creating nouns from verbs.
+
+Adjectives are stative verbs.
+When two nouns of the same case appear next to each other, this is used to indicate a genitive or possessive construction. In these constructions, the possessum always precedes the possessor.

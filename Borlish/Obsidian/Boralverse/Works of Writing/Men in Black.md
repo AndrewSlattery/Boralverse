@@ -1,0 +1,3 @@
+Men in Black (originally published in Parisian French as Hommes en Noir: une Étoire d'Espionnage) is a layperson's account of the history of spycraft across the world. It was written by Agathe Bisset and published by Paris University Editions in 2003.
+## Excerpts
+For example, Thieves' Script was a simple replacement code used to convey secret messages between Merch forces in the final years of the Wars of Fealty. It is said to have been adapted from similar systems used by gangs of housebreakers in Nottingham, though how such systems came to the attention of King Andrew's court is unclear. It worked by converting each letter into a sequence of three symbols, and is a very early forerunner to codes like steeplescript or even modern one-zeffre encoding.

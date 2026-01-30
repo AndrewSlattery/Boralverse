@@ -1,0 +1,103 @@
+Europe is a continental peninsula in the northern hemisphere.
+
+# Geographic regions
+## Lands
+- [[Bohemia]]
+- Frisia
+- [[Gaul]]
+   - Flanders
+- [[Italy]]
+- [[Northwestern Isles]]
+    - [[Albion]]
+        - [[Wales]]
+    - [[Borland]]
+    - [[Ireland]]
+- Silesia
+- [[Spain]]
+   - Aragon
+- Suebia
+- Tyrrhenian Isles
+- Valland
+
+## Seas and marine areas
+- Amagre Gap
+- [[Middlesea]]
+- [[Rustigh Strait]]
+
+# Polities
+- Adigh
+- Alba
+- [[Andalus]]
+- Anglia
+- [[Angland]]
+- Kingdom of Aquitain
+- Awry
+- [[Barcelon]]
+- [[Bavarn]]
+- [[Borland#Sub-Roman Borland|Boral Diocese]]
+- [[Borland]]
+   - [[Borland#First Kingdom of Borland|First Kingdom of Borland]]
+- [[Boxa]]
+- [[Britain]]
+- [[Burgundy]]
+- Connaught
+- Cordoba
+- Corsica
+- [[Crain]]
+- [[Crovatia]]
+- [[Kingdom of Danaw]]
+- [[Dane Concert]]
+- [[Denmark]]
+- [[Drengot Collusion]]
+- [[First Drengot Empire]]
+- Dunclothe
+- Florence
+- [[Kingdom of the Franks]]
+- [[Furlain]]
+- [[Genova]]
+- [[German Empire]]
+- [[Kingdom of Greater Devon]]
+- Gwyneth
+- Empire of the Hellenes*
+- Horth
+- Italian Concert
+- [[Kent]]
+- [[Kernow]]
+- Kief
+- Lenster
+- Lithow
+- [[Kingdom of the Lombards]]
+- [[London]]
+	- [[Markland]]
+- Principality of Mystra
+- [[Morrack]]\*
+- Munster
+- Naples
+- Normandy
+- [[Northumber]]
+- [[Poland]]
+- [[Portingale]]
+- [[Provence]]
+- [[Lombardy]]
+- Rome
+   - Papal Dominium
+- [[Saxony]]
+- Scotland
+	- Kingdom of Alba
+- Sicily
+	- Kingdom of Greater Sicily
+- [[Single Caliphate]]*
+- [[Sodrick]]
+- [[Southbar]]
+- [[Stadbund]]
+- [[Tolose]]
+- Tuscany
+- Tyrconnal
+- Valland
+- [[Vascony]]
+- Venise
+- [[Wales]]
+- [[Wessex]]
+- [[Willemy]]
+
+\*These polities are (or have been) only partly in Europe.

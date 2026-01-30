@@ -1,0 +1,44 @@
+Gondolan is a largely (mixed) head-marking language with SVO word order, where the more animate noun tends to be the subject.
+
+It’s important to note that when a morpheme is glommed onto a head, certain vowel sandhi processes are undergone. It’s unlikely that a sandhi key will be needed for this, but if needed I can send one.
+
+Also useful to know, Gondolan has no word for “and”. It simply just strings two clauses together.
+
+Gondolan has no dedicated adjectives, but some nouns can pattern like them. “Adjectives” come before their head noun.
+
+
+Verbs
+Verbs are inflected for several categories, but only five are used in this document, negation, tense, aspect, directionals and mood.
+
+
+The verb markers used here are;
+
+(Present imperfective is unmarked and assumed)
+-ast; Present participle
+-le; Present gnomic
+-efa; Past perfective
+-akol ; Future gnomic
+-sto; Jussive mood, indicates encouragement here.
+s-; Negator
+-oslo; (in)to
+-oköle; Future gnomic
+
+
+Nouns
+The nouns used here are marked for saliency (but in practice the obviative is rarely seen), case, number, definiteness, animacy, and possession.
+
+The ablative commonly acts as a transformative.
+
+Possessor/possessee clause order.
+
+
+The noun markers used here are;
+
+(The proximative saliency, absolutive case is assumed)
+-da; Definite article
+-lo; Obviative saliency, absolutive case, inanimate
+-no; Proximative saliency, ablative case, inanimate
+-s; Proximative saliency, genitive case, inanimate
+-on; Proximative saliency, genitive case, high animacy
+-ste; Proximative saliency, ergative case, plural, mid animacy
+â=; Augmentative

@@ -1,0 +1,259 @@
+Yashuhay is a primarily agglutinating and arguably omnipredicative language that typically has several morphemes per word, especially on verbs.
+
+Before we start discussing the morphology of specific parts of speech, it is useful to delineate a set of (morpho)phonological rules that apply, unless specifically contradicted on the morpheme descriptions, to all morpheme boundaries
+Va → V: (ea → ee etc.)
+[u,o] [i,e] → w y / _V
+[u,o] [i,e] → w y / V_
+hng, hh → '
+[P,h] → :(length) / _N (ap-na → aana)
+[th,h] → N / _C (agrees in PoA)
+P → : / _C (ap-ta → aata)
+[P,N]h → '
+hy hw → sh f
+nasals agree in PoA with following plosives
+
+While these processes affect the shapes of various affixes, they will not be repeated in descriptions of individual morphemes, rather the alternations that are unrelated to these or explicitly contradict them are explicitly noted. They also occur in order, and that is often relevant. It might also be useful to consider all instances of sh and f as underlyingly hy hw. Roots underlyingly starting in geminate plosives operate as CC after vowels and as simple C after consonants. Situations where vowels would get double length resolve into just plain length (e.g. …a-a-a, …aa-a → …aa), but triple length resolves as two long vowels in hiatus (…aa-a-a → …aaaa).
+
+Stress, notated by acutes over the vowels (only the first one if long), will be marked in all glossary entries, but when stress occurs word initially it's not marked in the text. Stress always remains inside the root in the position it's originary to and may be useful to parse the more morphologically complex wordforms. 
+
+The abbreviations used here and through the rest of the description are:
+
+P = plosives = [p,t,th,k,']
+C = all consonants
+V = vowels
+N = nasals = [m,n,ng]
+
+NOUNS
+
+Class and Number
+
+The primary and most important piece of morphology in nouns is Noun Class. Yashuhay nouns are divided into nine classes which are intimately tied with number - g1, g3, g5, g7, g9 are singular, g2, g6 and g10 are plural, and g11 is dual. The classes are not particularly semantically cohesive, and class variation is not used derivationally. Classes are not notated simply G1…9 to keep cohesion with cognate classes in other ngerupic languages, and not all of them are present in this passage.
+
+In order to variate in number, a noun changes its class marking from a singular class to a plural or dual class. Both singular and plural classes are lexically determined and will be notated on the glossary entries (e.g. áma jewel n. 3/6 i.e. jewel is marked class 3 when singular and class 6 when plural). The most common such pairings are 1/2, 9/10 and 3/6, but some nouns simply do not display a number variation.
+
+The class markers that appear in this passage, and their forms and allomorphs are summarized in the following table.
+
+SG
+PL
+G1
+-Ø
+G2
+-p / [V,y,w]_
+G3
+-nge
+-pa / C_
+N+nge → N:e
+G6
+-tho / [V,y,w]_
+P+nge → NPe (P's PoA)
+th+G6 → tho
+G5
+-ya
+-ka / [P,h]_
+G9
+-Ø
+G10
+h- / a_
+
+
+
+
+Ø- / [h,sh,f,']_
+
+
+
+
+a- / else
+
+
+
+
+G11
+-ta
+
+Case
+
+Yashuhay nouns can be marked for several cases, all with prefixes. While cases  prototypically mark the nature of the dependency between verbs/predicates and noun, cases in Yashuhay are very often used to mark various relations of N-N dependency, e.g. knife dat-cooking 'cooking knife, knife meant for cooking'.
+
+Starting with the most grammatical cases - the Absolutive and the Ergative. As you must have noticed, case marking in Yashuhay is Erg-Abs, that is, subjects of intransitive verbs and objects of transitive verbs are marked with the absolutive case, while agents of transitive verbs are marked with the ergative case. There are however a number of verbs that assign different cases to their object, a few of those appear in this text. All verbs that assign non-absolutive cases to their objects are Ergative verbs (What's an ergative verb will be treated on the verbs section).
+
+In addition to these purely grammatical uses, the absolutive is also used for the causee of causative sentences, and the ergative is used for instrumental relationships (adnominally too)
+
+In the text also appear,
+the Genitive case, used for possession, attributive adjectives, and relative clauses; 
+the Comitative used for accompaniment and coordination (noun and noun, verb and verb etc.); 
+the Dative, used for recipients, directions and targets of motion, purposes and beneficiaries
+the Locative, for motionless location, time and duration;
+the Ablative, for sources and paths of motion;
+
+The affixes marking the cases are:
+
+Absolutive
+Ø-
+Ergative
+sha-
+Genitive
+ya-
+Dative
+ko- / _C
+DAT+a → kwo
+DAT+V → kwu
+Locative
+e-
+Comitative
+na-
+Ablative
+pah-
+
+Possession
+
+There are also possessive suffixes, which apply after the class/number ones, that mark possessed nouns for the person and number of its possessor. X-possessive.suffix without a second noun corresponds to purely pronominal my/his/her/its X. The possessor, when overt, receives genitive case marking. The possessive suffixes that occur are:
+
+1s
+-ta
+3s
+h+3s → :
+[a,e,o]+3s → a
+i+3s → e
+u+3s → o
+-a / else
+3p
+-p
+
+X case-Y constructions are used to convey many noun-noun relations that are conveyed by possession in e.g. English.
+
+VERBS
+Verb Classes
+Yashuhay verbs display noun class agreement, valency, volition and TAM marking and the general template is agreement-root-voice-volition-TAM, but firstly one must discuss the different lexical classes of verbs there are.
+
+Yashuhay verbs may belong to one of three main classes, primarily pertaining to valency and its marking:
+Intransitive Verbs, that exhibit only one absolutive argument, which precedes them and is agreed with. Intransitive verbs may not receive either of the valency marking morphemes.
+Transitive Verbs, that are preceded by an ergative argument, which is agreed with, and followed by an absolutive argument. They display transitive marker -ma unless passivized, and take Agreement Set 1.
+Ergative Verbs, that are preceded by an ergative argument, which is agreed with, and followed by a second argument which is usually, but not necessarily, absolutive. They never display the transitive marker -ma but may still receive the passive marker normally. They employ Agreement Set 2. Semantically, ergative verbs are comprised mostly of verbs that typically have low agency/volition subjects (e.g. fall) and/or low affectedness objects (e.g. see)
+
+From this two important things are drawn - verbal agreement is Nominative-Accusative, the verb agrees with intransitive subjects and transitive agents; and word order is rigidly SVO, regardless of whether S is marked absolutive or ergative. 
+Agreement
+Agreement is realized through prefixes and agrees in person and noun class with the subject of the verb, as explained above. There is a degree of syncretism, especially pronounced in agreement set 2. The agreement affixes present in this text are, along with their allomorphic variation:
+
+Set 1
+Set 2
+1S
+hen- / _[y,th]
+1S
+h- / _a
+hang- / else
+ha-
+hang+w → hah
+G1
+Ø- / _[a,h]
+G1
+Ø- / _[a,h]
+a-
+a-
+G2
+Ø- / _[a,h]
+G2
+p- / _a
+a-
+pa-
+G6
+e-
+G3
+nge-
+G9
+h- / _a
+G9
+ko-
+ha-
+G10
+Ø- / _[a,h]
+G10
+Ø- / _[a,h]
+a-
+a-
+SS
+hin- / _[y,th]
+SS
+ng- / _a
+heng- / else
+nga-
+heng+w → heh
+
+
+
+
+
+Since G1 and G2 comprise almost exclusively human nouns, they are the closest analogs to third person animate person.
+
+The 'SS' (same-subject) affixes show the verb refers to the same thing as the verb before them. There can be longer chains of verbs all with the same referent where all but the first one employ SS marking. SS marking would not be employed if two consecutive verbs would both have, say, G1 marking but referring to different entities.
+
+Yashuhay verbs do not have overt subjects very often, with the subject being recovered by context and person/noun class agreement
+Voice
+The voice slot can have two affixes, the transitive -ma, whose distribution is governed by inherent lexical properties of the verbs, as explained above, and the Passive -o. The passive can be applied to transitive and ergative verbs, and it causes them to become functionally intransitive, with a single absolutive argument corresponding to what used to be the object.
+Volition
+Yashuhuay verbs mark for the volition of the subject, i.e. how much will is involved in that action. The volitional affix marks that the agent willfully conducted the action, while the non-volitional affix marks the lack of such willfulness. VOL is default for most verbs, the non-volitional is employed when the action is a natural consequence of some other action, an accident, or otherwise not on purpose.
+
+The non-volitional is marked by -kay. The volitional on the other hand is morphologically complicated; the vowels before the VOL marker suffer a shift, a [o,e,i] > o u, unless there is a nasal or glide (w, y) between them and the VOL affix. This change also does not affect long vowels. Else, the behaviour of the volition affixes is shown below: 
+
+NVOL
+-kay
+VOL
+P+VOL → ka
+h+VOL → nga
+[w,y]+VOL → uu
+-a
+TAM
+The final slot of the verb deals with the TAM dimension, primarily aspect and tense, they are not obligatory affixes but happen in the vast majority of predicates. Before dealing with their semantics, we must deal with a morphophonological component that is present in all TAM affixes; the element which I notate as °.
+a° → o
+C° → Co
+V° → V (not a, obviously)
+
+Now as for their semantics:
+The Imperfective (IPFV) is used for background informations and actions that are continuous at the time of reference, very common in relative and complement clauses, also with some adverbial clauses;
+The Future (FUT) is used for relative future reference with irrealis undertones. It is used for events that happen after the reference time, regardless of whether they are before or after the absolute present. It also accompanies expressions of epistemic and deontic modality;
+The Inchoactive (INCH) signals that the event is starting at the point of reference;
+The Perfective (PFV) is used for situations where the verb is a complete event that does not have complete constituents, there are no actions that happen concurrently or inside it. It is the most common marker in narratives as they tend to be a succession of completed events. It implies, in the absence of strong pragmatic elements pointing otherwise, past tense reference.
+The Potential (POT) is used for possibility. Prototypically dynamic possibility; "i'm (physically or intellectually) able to X" but sometimes also for deontic possibility "i can do X (it is legal/socially acceptable)". If the dynamic possibility itself must be temporally placed (e.g. i could lift that [but i can't now], i will be able to do it [tomorrow], [at that moment] they managed to do it), the POT marked verb appears as a complement clause to an auxiliary verb á 'do' which receives tense reference relevant to the possibility itself.
+
+IPFV
+-°:h
+FUT
+-°y / V_
+-yo / C_
+INCH
+-°k / V_
+-ko / C_
+PFV
+-°pya
+POT
+-°kya
+Relative, Complement and Adverbial Clauses
+All those types of non-matrix clauses are realized by case marking otherwise fully conjugated verbs. After all the previous morphological operations have been realized;
+
+In order to make a verb become the object of another verb it takes an absolutive prefix (Ø-), 
+To make it into a relative clause a genitive prefix (ya-) is added. The relative clauses use a gap strategy but it's usually fairly easy to detect where the gap is due to the extensive agreement and the fact objects and other obliques remain in place when the verb they modify is subject to case marking.
+Verbs marked with the ergative prefix (sha-) become manner adverbials, usually corresponding to the adverbial usage of gerunds in English (e.g. "Waiving, she said goodbye")
+The dative prefix (ko-) forms purpose adverbials (e.g. "he did everything in order to win")
+The locative prefix (e-) forms simultaneous adverbial clauses, akin to "While" or "as", without a relation of causation between the events.
+The comitative (na-) is the simplest form of verbal coordination (e.g. "he ate and drinked") 
+
+These subordinated verbs are much more likely than matrix verbs to have empty TAM and volition slots, and to employ the same-subject marker on the agreement slot.
+Misc.
+Causative constructions (e.g. "he made me scrub the floor") are made by adding the morpheme kwuh- (technically -ko-uh- but that's not important) between the agreement prefixes and the verb root. The resulting verb is preceded by an ergative argument (the causer) and followed by at least one absolutive argument (the causee), with a second absolutive argument (the object) if the verb was already originally transitive or ergative. 
+
+Strong modal force, be it epistemic or deontic, is conveyed by marking the verb future and using an adverb maá, lit. 'thirsty'.
+ADJECTIVES
+Predicative adjectives (the house is red) function like Intransitive verbs, with the caveat they never display volition marking, having subject agreement and TAM morphology.
+
+Attributive adjectives (the red house) are just marked with the genitive ya- and partake in no verbal morphology.
+
+Additionally adjectives have another special feature, the adjective root may be used bare, without any case prefixes, with an adverbial meaning (e.g. wishih 'quickly').
+SYNTAX
+Yashuhay sentences are SVOX, X representing obliques; adverbs, locative NPs, adverbial subordinate clauses etc. 
+
+The adverbial subordinate clauses are always the very last, unless they're pragmatically focused, in which case they're fronted before the subject and display a different intonational pattern (usually orthographically represented with a comma). Adverbs also prefer to go last, but may go directly after the object or even directly after the verb if there is a particularly long chain of obliques or a very complicated object NP in the sentence in question.
+
+NP order is:
+NOUN - Gen-Possessor - Adjective - Other adnominal nouns - Adp. phrases - Relative clauses.
+
+Possession is also Possessed - Possessor

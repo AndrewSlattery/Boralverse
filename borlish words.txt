@@ -1,0 +1,98 @@
+laðr "plough"
+bosty "brothel" < prostibulum?
+nomad "nomad, traveller, itinerant, wanderer"
+scrim "swordplay, fencing" < escrime
+vasir "vizier" < arabic
+cambir "change"
+cubicr "bedsit, studio"
+empory "economy"
+nancir "contract (an illness)"
+parenç "kinship"
+regres "return journey"
+sabler "hourglass" < sabr
+vlangr "fence" < Swahili walanguzi
+aventur "adventure, quest"
+chthony "geology"
+drastic "drastic"
+gradual "titular, entailed, pertaining to a noble title; hierarchical"
+merscaç "marshland"
+mojolon "destination, hub, attraction"
+oraçoir "stormy weather, thunderstorm, a storm zone"
+reliquy "fossil, remains"
+scouðir "rescue, deliver" < excutere
+stoccar "bludgeon, club"
+trocour "trader, investor, stockbroker"
+vivotar "languish, live unproductively"
+accoglir "welcome, receive gladly"
+broucanç "enjoyment, indulgence"
+chthonic "underground, geological"
+destourm "discharge, demobbing"
+dragoman "interpreter, translator; broker, middleman"
+enhautir "raise, boost, thrust upwards"
+enmigtað "enmity, rivalry"
+extirpar "eradicate, extirpate"
+lucraðeu "profitable, lucrative, wealthy, rich"
+merscous "marshy, boggy"
+pedisecq "attendant, follower, page"
+quinment "impact, strike, collision"
+semblant "like(s), ilk"
+stoccour "thug"
+teisment "scheme, project"
+accoglent "welcoming, hospitable"
+annexment "extension, enhancement"
+aventurer "adventurer, explorer"
+centessem "percent"
+depoussar "cashier, fire"
+entrjainç "section, interjection, excerpt"
+gentilhom "gentleman, gentlewoman"
+lon mensc "dishonourable"
+madrugoir "nightspot"
+panditour "intellectual, thinker" cf pundit
+rebateyað "born again"
+rebateyar "rebaptise"
+rimbangam "garter"
+sogn fair "dream, act irrationally"
+terrentað "terrain, landscape"
+tranqment "exactness, accuracy, precision, reliability"
+bel declar "words of wisdom"
+canalfeyar "canalise"
+desracinað "rootless"
+desracinar "uproot"
+extirpaçon "eradication, extinction"
+laur cavir "be hired, get a job"
+panelleyar "theme"
+parnommanç "reputation"
+teurfeyour "slanderer"
+contrsalubr "disadvantageous, unfavourable"
+regres fair "journey back"
+y gra valir "be up to the challenge"
+bogr ðesmbal "unsurprising"
+domn dy jorn "mistress"
+domn dy noit "prostitute (f.)"
+sabler reuvr "turn back time"
+aucoum forcer "powerhouse"
+creir n'aglon "not be resigned"
+obeïscenç dar "do a service, obey"
+
+fought, contested
+gone, missing, used up
+gotten
+had
+heard
+held
+kept
+laid
+led
+met, satisfied
+paid
+said
+sat, sitting, seated
+seen
+sent, ecstatic
+stood, standing, erect
+struck, taken aback
+taken
+told
+understood, roger, wilco
+woke
+won

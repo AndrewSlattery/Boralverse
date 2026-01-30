@@ -1,0 +1,8 @@
+Shepherds of Hambrick: the Small History of Dane [[Borland]] (published originally in Borlish as **Acr a Sauð Vellig** "Acres of Docile Ewes") is a 2008 explanatory work intended for the lay audience and published by [[Cordin]] Editions. Its author, [[Sconet Ydreç]], was commissioned to write the text by her institution, the department for Concurrence History at the [[New Vithor University]].
+
+## Quotes
+* …to be distracted by king-in-exile [[Jothey of Borland|Jothey]] and his wife the queen [[Brenna of Barrow]], no matter how intriguing their exploits in [[Southbar]] and latterly overseas in [[Kent]], nor how precious the [[Brethin]] copies of Brenna's correspondence with her cousin King [[Roderick of Dunclothe|Roderick]].
+  
+  What, for example, can we make of the influx of Norse vocabulary in the field of archery from the early ninth century? We see \<bers\> "target, quarry" in a 834 N parabolic addendum from the Marvil chronicle; soon after are \<boger\> "archer", \<arn\> "fletch" and \<scutar\> "shoot" attested also. What is clear is that the bow and arrow were commonplace weapons available to any freeman in the Dane lands; consider the legend of Fithrischelve, who was said to have to outwitted the far-seer Quasir by striking him with an arrow fired from four thousand paces, beyond even his sight.
+  
+  Techniques in bowmaking must also have spread rapidly throughout the Dane territories, or at least bows obtained in raids east of Idel made their way expediently westward. Recent unearthings at the Voglat trove include a sapwood bow with carvings some scholars have connected to Mojarick languages, but…

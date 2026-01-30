@@ -1,0 +1,13 @@
+Astraphor (also called barric force) is the set of phenomena associated with the presence and movement of plentiful substances, or the thrift that one can harness from such movement.
+## Etymology
+The word 'astraphor' was coined in the seventeenth century to describe the theoretical source of the sparks certain substances (amber, fur, etc.) would create in darkness after being rubbed. It derives from Ancient Greek roots ἀστρᾰπή (astrapḗ) 'lightning' and -φόρος (-phóros) "bearing"; although the expected form would be 'astrapophor', even in the earliest texts we see only the shorter word (possibly due to transcription error).
+
+The modifying form 'barric' derives from parallel work, and originates in Arabic **بَرْق**⁩ (barq) "lightning".
+## History
+The deep theoretical connection between astraphor and light was explored thoroughly in the mid-nineteenth century; the unimaginatively titled magnum opus Astraphor and Light by [[Markland|Merch]] theorist Wexter Hathwall managed to fully characterise the mechanics of astraphor in a single equation.
+
+At this time, the earlier flag-lamp [[Steeplepost|steeplemesh]] was in the process of being displaced by barric meshes. Places without a pre-existing extensive flag-lamp system were in many cases faster to adopt the barric mesh; for example, by 1870 the world's longest wired post line on land spanned the length of [[Lower Mendeva]].
+
+The first undersea barric lines were laid in the 1850s in [[Kent]] (Dover to Cales), and from Texel in [[Willemy]] to [[Axbane]] in [[Borland]], each distances of less than twenty leagues. By the following century hundreds of such lines crossed the world's oceans.
+
+In the 1950s, the Mortar coalition in [[Portingale]] funded research into using threshold force to produce astraphor so as to reduce dependence on imports from the [[Drengot Collusion]]; by the 1960s the polity was a world pioneer in constructing threshold mills, becoming a net exporter of astraphor in 1971.

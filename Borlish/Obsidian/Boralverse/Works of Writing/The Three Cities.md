@@ -1,0 +1,1 @@
+The Three Cities is an eighteenth-century treatise on political philosophy written by Vascon writer [[David Bensaíd]]. It has been translated into over twenty languages, and introduced the terms **nohase** 'copperplate' and **casdír** 'tinplate' into international use, adapted from the factions which arose in the court of Malik [[Hisham Ar-Rashid of Libya]].

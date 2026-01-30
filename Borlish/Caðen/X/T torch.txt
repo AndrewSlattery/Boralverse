@@ -1,0 +1,159 @@
+﻿Mandrestas rıshkwéshesko stanyén, 
+che rachandrek radre stottına. 
+Yot ske rabaspaskátto narınzın sach’ yando shígorros, 
+nakáxınık nasoyátarso, soskotátros, 
+okko staspatchékros. 
+Nawert napıstréy chaza nachabrán shígorros.
+Man soto sabanchék ye-rkárchat drı-sdroggwényenna 
+Dra-noyxhévo raspaskátrek ma drak rapokkore stakna, 
+yotro dra-skáza dra-beske ront,
+yo-rsátto yo-rneseyát rapyét sabaspatchékna.
+Norma torrek dok natoprecherto sıngwényenna.
+Nachagrotto nachotto danoyxhévo spıchına,
+yayot yo-rzhansétto ragrekkátto, 
+sanayorre napamak narınyégyamatto koda sgrenéwstık, 
+nınkátto nanayt nakandar koda sgrenéwstık; 
+norma radorto raskonírto hanakre sasharstık, 
+mwe drı-poka sbadrabana.
+
+Grammar notes
+
+T is a heavily inflected, fusional language that allows for limited noun incorporation and displays generally head-final word order.
+
+Phonological processes
+Stress is located on the first closed syllable in a word. In absence of closed syllables, it's located on the first syllable. Exceptions are indicated with an acute accent on the vowel.
+In many verb forms stress doesn't move to closed syllables created by prefixation and this is also indicated with an acute accent.
+There are several morphophonological processes worth paying attention to.
+Superscripted vowels are only pronounced in case an illegal consonant cluster would be created if they weren't. Clitics are indicated with a hyphen and are regarded as part of the word they attach to for purposes of this process: yo-rzhansétto.
+Sequences such as -rV1rV2- simplify into -V1rrV2-.
+Nasal consonants are dropped in front of consonant clusters.
+If a stop is followed by an another stop consonant, the first stop assimilates to the second one, creating a double consonant. t is an exception to this rule as it becomes s before stops.
+Nasals assimilate in place of articulation to the following consonant; my becomes ny.
+e tends to assimilate in quality to the next vowel.
+Copy vowels (written V) and e assimilate to the next vowel even though it might not be pronounced: rᵃ-en-tᵒ → ront.
+All irregularities are indicated in the dictionary.
+
+Nouns
+Nouns inflect for number, possession, case and deixis according to this template: 
+possession - number - STEM - case & deixis.
+The only possessive prefixes in this text are rᵃ- 3P and nᵃ- 3P.PL. 
+
+T distinguishes singular and plural numbers. The former is generally unmarked, but the latter is marked with na-, which changes to da- if the stem begins with n-.
+There are direct and oblique cases. Direct case is unmarked in absence of deictic marking, and all nouns are given in this case in the glossary. The oblique is formed by suffixing -ᵒk.
+Deixis is optionally indicated with stem formants that interact with the case ending. Proximal degree can be recognized by -t- in the suffix, medial by -k- and distal by -p-. The formants precede the oblique ending. The medial direct suffix is -ko.
+
+Verbs
+Verbs inflect for seven grammatical categories according to the following scheme:
+person & tense - applicative - object/adverb - STEM - mode - voice - number - switch reference.
+The only personal suffixes in this text are the homophonous sV- 3.PST and sV- 3>3.PST. V is a copy of the next vowel in the word; it is suppressed in front of obstruents, r, w and y. The s- respectively combines with following -s- and -y- into st- and sh-.
+
+The applicatives are shown below:
+-tany- INE in, inside
+-kım- ELA out, outside
+-sko- ABL away (from), off, from, out (of)
+-rek- SUPE above, onto, up
+-kı- SUBE below, down, under
+-yen- VIA through
+-ma- ALL to, towards
+-ım- CIRC around
+-so- DAT for, to
+-ban- PER by, past, along
+Some verbs with applicative prefixes have been lexicalized. They are shown in the glossary.
+
+T allows for limited object incorporation which is usually applied to singular objects without any modifiers and adverbs. Incorporated nouns referring to body parts are understood to be possessed by the agent.
+Words can have a different stem that is used when incorporating. These are indicated in the glossary.
+
+Modal suffixes are not found in this text.
+
+T possesses a passive voice that is indicated by suffixing -ar-.
+
+Since number is not distinguished in 2nd and 3rd person singular prefixes, it is alternatively shown by suffixing -rᵒ-.
+
+There is a switch reference system that marks whether the subject of a clause corefers with the subject of the first main clause in the same paragraph/stream of related sentences. Three markers are found: same-subject -na and different-subject -s and -stık. Note that -stık is used instead of -s if the subject is explicitly said earlier in the clause.
+
+In subordinate clauses verbs are suffixed with -tᵒ and use possessive suffixes applied to nouns to indicate person. These distinguish number in all persons so -rᵒ- is never found here. Objects of verbs in subordinate clauses are in the oblique case.
+
+There is also a superlative suffix -Vk- applied to verbs used adjectivally.
+
+Syntax
+The basic word order in clauses is SOV. Adverbial phrases may be found clause-initially or immediately before the verb. Negation is accomplished by placing drı- in front of the word or phrase that is to be negated. Comparison is also handled with drı-: drı-ske 'like the night'.
+
+Noun phrases are head-final; determiners are closest to the head noun, followed by one-word relative clauses, obliques and longer relative clauses. Possession is double-marked: person of the possessor is indicated on the possessed (head) noun and the possessor is put in the oblique case.
+
+Purposive constructions are handled by placing ye- 'for' in front of the deranked verb that agrees in person with the subject.
+
+T disfavors longer relative clauses and substitutes them with independent main clauses. In general, the language is light on subordination and conjunctions and heavy on coordination without conjunctions. Clusters of main clauses with attendant subordinate clauses are always separated with a comma to reflect the language's prosody.
+
+Causative constructions are also handled by coordination: 'the food made him thirsty' would be expressed along the lines of 'there was food; then he was thirsty'.
+
+The language is quite verb-heavy; many verbs and shorter clauses correspond to English adjectives and nouns and should be translated as such.
+
+Glossary
+
+``adre n. value v. valuable
+``badraba v. tremble
+``beske n. late night
+``cha v. see (sV-cha → sach’)
+``chabrán n. wrap, ribbon
+``chagra v. dark
+``chandre n. name
+``chaza det. many
+``che cj. but
+``chek v. go (go there – enter; PER-go– pass, pass by; quick-go – hurry)
+chı v. narrow
+``dra- pp. in
+``drak adv. by day
+``drestas adv. never
+``drı- adv. no, not (NEG)
+``droko, -drok- n. head
+``en v. be
+``grenew v. trouble, bother
+``greppe, -grep- n. forward (chest + dist-place) 
+``gwényen v. turn, return (CIRC-turn – turn around, face, confront)
+``hanak v. laugh
+``káxın, -káxınⁱ- n. gentleman
+``kandar n. figure, silhouette
+``karcha v. look
+``kat v. walk (CIRC-walk – wander)
+``ko pn. he (OBL dok, ACC koda)
+``ma adv. even
+``man adv. earlier
+``mandrestas adv. never before
+``mwe adv. then
+``nay v. silent
+``neseya v. excited
+``nır v. run (ABL-run – run away, fugitive)
+``norma adv. sometimes
+``noyxhévo n. street
+``okko there (en + ko)
+``pama n. footstep
+``poka n. leaf
+``pokko n. do habitually
+``pıchı v. choose
+``pıstréy n. dress
+``pyet n. way
+``rınzın, -rınzınⁱ- n. lady 
+``rıshkwéshet n. restaurant
+``ror, -dor- v. low
+``sat v. be apprehensive
+``sek v. have
+``shar v. sound
+``skaza n. city
+``ske n. night
+``soto adv. always
+``sotti v. know
+``soyat v. accompany
+``spa, -spat- v. quick, fast
+``tat v. rise (ABL-rise – alight, get off sth.)
+``toprecher v. scare
+``torrek adv. however
+``wer v. be noisy
+``yando n. luxurious clothes
+``yayot adv. while
+``ye- pp. for
+``yégyamat v. spread, scatter
+``yıgro v. wear
+``yo- pp. with
+``yot adv./pp. when (also banyot)
+``yotro pp. whenever
+``zhansek v. bold

@@ -1,0 +1,14 @@
+Parachthon art refers to works depicting a world different from the real world, encompassing everything from merely divergent histories to entirely invented settings. The word parachthon was coined in the mid-nineteenth century and derives from the Ancient Greek prefix *παρα-* 'beside, contrary to'" (cognate with Latin *prae-* and English *fore-*) attached to the root *χθών* 'ground, soil, earth, world' (cognate with Latin *humus* 'soil'.)
+
+# History
+
+A seminal work of modern parachthon literature is [[Elsebeth Sneider]]'s 1795 trevold 'Through a Black Mirror' (originally written in Saxon Dutch as **Durgh'nen Shorzen Shouer**), arguably the first true [[Voidtale|voidtale]] work. Its publication sparked the so-called 'voidtale craze' of grand voyages through the void visiting colourful, bustling xenic worlds—in this respect this tradition recalls the popular imaginings of the Earth-bound geoscopic voyages of the Intertwining Century nearly three hundred years earlier. 
+
+The voidtale craze persisted until the 1820s, at which point its optimistic and exploratory character dropped rather rapidly out of fashion faced with the horrors of the [[Second German War]]. By then the fashion had spread as far afield as [[Madray]] and [[China]], with the renowned landscapist Narayanan commissioned to paint vistas of the seven other planets then known.
+
+The mid-nineteenth century was somewhat of a nadir for parachthon art. Romance moved on to [[Masquira romance|masquira]] and herdtale's more mundane settings, while historical revivals populated the world's stages. With the maturation of genres in the twentieth century we begin to see purposeful melding of parachthon elements in stories of other sorts, like lovetales and ænigmata; this and the incorporation of related movements like Futurism brought parachthony back into popular art for good.   
+
+The progress of technology was often presaged by parachthon works, and so many items of vocabulary for modern contrivances have their origin there. As examples, the 'pistol mesh' (now usually just the 'mesh') is lifted from the pages of Ashford Pasquier's 1968 trevold *Starsail*, and the use of 'slate' for a flat surface displaying information can be traced all the way back to Hadasse Docquerl's 1872 work 'Dealsome Onomatory of the New London' (originally published in Borlish as **Un Onomatoir Partial dy Novel Londr**). 
+
+# References
+- *New Skies, Old Stories* by Simon d'Estiala, published by Prindor Marsillès, 1980

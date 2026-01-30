@@ -1,0 +1,9 @@
+**Cozebdo-diamaschal benjamine** (as a medicine sold under several names, including "CD" or "Tommy pills") is a hebetant substance developed in the early twentieth century. It was the result of collaboration between the [[Branwen Sanatory]] in [[New Leudong]] and the [[University of Rimack]] in [[Tavancy]], which sought to develop hebetants with faster action and milder adversions. It was first synthesised in 1932, and a decade later it had surpassed salix derivatives in sales worldwide, due to providing better pain relief (as opposed to merely reducing the symptoms of fever).
+## Name
+The name of this substance comprises three parts.
+
+The core of the substance is a benjamine ring; the name "benjamine" is borrowed via Scholastic Latin and Vascon from Arabic لُبَان جَاوِيّ‎ • lubān jāwiyy, literally "Jawan frankincense", corrupted at some point by the name Benjamin.
+
+The first of the extensions in this substance is a cozebdone branch. Cozebdone spirit is a rearrangement of the linear zebdone spirit, a colourless and flammable air with a spine of four coke atoms. The root *zebdo-* "four coke atoms" derives from Cairene Arabic زبدة • zébda "butter", first used when zebdone acid was isolated from milk fat.
+
+The second of the extensions is located directly opposite the first, as indicated by the prefix *dia-* "across, over", from Greek. It consists of a maschale branch, which is the acid oil with a spine of length three, a malodorous clear liquid. The substance was named in 1850 after the Ancient Greek μᾰσχᾰ́λη • *maschálē* "armpit", since it was isolated from human sweat excreted by skin zoia.

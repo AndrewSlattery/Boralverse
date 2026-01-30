@@ -1,0 +1,28 @@
+Portingale is a polity in the western part of the Spanish peninsula, bordering [[Vascony]] and [[Andalus]], both of which have in the past conquered parts of its territory.
+# History
+
+Portingale had been established as an independent Christian kingdom in the eleventh century, having previously been a subordinate county in Leon.
+
+Much of northern Portingale was conquered by Vascony during the [[Vascon Ascendancy]] under [[Ambrose II of Vascony|Ambrose II]], as far south as Braga and (nominally) Calès. The wealth that came to Vascony in the decades after the [[Novomundine Landfall]] of 1471 N accrued in particular to the coastal towns of conquered Portingale and to Leon.
+
+The rump Portingale in the south (which had retained some meagre autonomy under Vascon stewardship) fell to [[Morrack]] in 1457 N as part of the expansionist campaigns of King [[Munir al-Hamdawi of Morrack|Munir al-Hamdawi]].
+
+With its population concentrated along the coast, Portingale was ravaged early and mercilessly by the [[Second Great Dying]] in the years following the plague's arrival in [[Europe]] in 1519 N, with one fifth of the population dying within the decade.
+
+After a series of military defeats during the [[Romantic Wars]] of the mid-seventeenth century, Vascony was forced to cede its Portingale territory (its economic heartland) to Andalus.
+
+Portingale at first attempted to remain neutral during the [[Democratic Wars]] of the eighteenth century, and as such received a great number of war refugees in this period. However, the All-Saints' earthquake of 1755 N severely weakened Portingale's position; as such its warring neighbours invaded Portingale soon after.
+
+The [[Drengot Collusion]] eventually grew to count Portingale within its orbit during the first decades of the twentieth century (and perhaps held some responsibility for the Portingale Anarchy of the 1920s and 30s), although the polity was never a full member of the alliance-federacy. This led to diplomatic tensions with Vascony, located directly between the Collusion and Portingale. 
+
+For a time, Drengot [[Astraphor|astraphor]] supplied (via undersea powerline) much of the baric needs of Portingale, thus relying on Vascon goodwill not to interfere. In response to this precarity, in the 1950s and 60s Portingale became a pioneer of threshold force, building enough mills that by 1970 it was exporting [[Astraphor|astraphor]] as far afield as [[Lombardy]].
+# Places
+- Braga, a town renowned for a continent-leading lineball team and their 82,000-seat stadium
+- Corunne, Portingale's northernmost city and home to the Roxa Comba, a weekly paper affiliated loosely with the Peujon Rous media guild
+
+# People
+- Eustace II (fl. c12, crowned 1151), longest-ruling monarch of Portingale
+- [[Ezio Carvallo]] (fl. 1860), author credited with the invention of the genre of [[Masquira romance|masquira romance]]
+- Marcio Dourao (fl. 1930), author of lovetale _Galatheo_ which was banned in both Vascony and Morrack
+- Victor Fidalgo (fl. 1950), collocker for the Roxa Comba
+- Maya Tavares (fl. 1950), political theorist for the de Sarumptice Diplomatic Edifice

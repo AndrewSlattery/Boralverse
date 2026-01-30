@@ -1,0 +1,11 @@
+The Second Roman Empire, seldom or historically referred to as the Empire of the Hellenes, the Empire in Byzantium, Malchassian Rome (specifically denoting the centuries of rule by the Malchassian dynasty) or the Eastern Roman Empire (which extends somewhat further back in time), was the political and cultural continuation of the (Classical) Roman Empire following the reconquest of the city of [[Rome]] from the Eastern Goths by Emperor Justinian I. The Empire persisted in some form for over a millennium, with its final collapse occurring in the seventeenth century.
+
+# History
+Many Christian heresies had their origins in the Second Roman Empire, especially in the first millennium. These include all the so-called 'Grecian heresies', as well as [[Marmeronism]]. When individuals in the Empire who espoused such viewpoints acquired significant influence, the Empire had a propensity for exiling them (contrast the habit of bodily mutilation practised on *political*, as opposed to *religious*, dissidents) to far-flung monastic communities.
+
+During the [[Second Tetrarchy]], the Empire reached a territorial maximum (with the capture of Derban in 1026), controlling lands from [[Corsica]] in the west to the [[Hazaran Sea]] in the east. However, by this time the outlying regions enjoyed significant autonomy, especially where the independent power of the [[Roman Papacy]] loomed larger than the might of Constantinople.
+
+Following the fall of the northern Lombards in [[Italy]], the ruling family fled to the Empire and managed to obtain appreciable clout there. Some members were appointed to administer the Empire's western themes, and the written accounts of others are history's strongest sources for certain events during the turmoil of the [[German Secession]] in the thirteenth century.
+
+Having fallen into somewhat of a state of disrepair, the fourteenth century saw extensive reconstruction of Saint Sophia's cathedral along with expansion of the complex, headed by Burgund architect Nicolà s'Avignon. It is for this reason that s'Avignon is sometimes jocularly referred to as the "architect of the Empire's demise", given the tragic events that would take place within Saint Sophia's three hundred years later.
+

@@ -1,0 +1,46 @@
+Grammar notes 
+Kaíno is a Mocan-Chino language and the main member of the group’s Chino branch. In-world, it is spoken in Kaıtáno and nearby islands of the Arati archipelago, as well as in several enclaves along the Dian coast.  
+Typologically, it is a strongly isolating language with subject-verb-object word order and consistently head-initial phrase structure. It makes heavy use of serialized verbs and has an underspecified set of pronouns that requires disambiguation strategies. 
+As Kaíno is a constructed language spoken in a fictional setting with its own culture, one should approach translating culturally-dependent words such as ıtáxı “aristocrat” with caution.  
+ 
+Parts of speech 
+Five parts of speech exist in Kaíno: nouns, verbs, pronouns, conjunctions and particles. 
+Nouns and pronouns can serve as arguments in a clause. They are not inflected in any way and do not take case and number markings. While number is usually inferred from context, it can be made clear with reduplication or word choice. 
+Modifiers – possessors, attributes and relative clauses – follow the head noun. As a rule, lighter modifiers are found closer to the noun: 
+kono ra naí kao tıámına house DEM be_new have balcony this new house which has a balcony. 
+Unlike nouns, pronouns cannot carry modifiers. 
+The basic pronouns are the speaker to and non-speaker rı, and the general-purpose demonstrative ra. The first two can be combined into toto “we” (exclusive) and torı “we” (inclusive). Ka “thing” is used both as a pronoun and as a noun, and there are also many compound forms like noırı “nothing, nobody”, which are listed in the glossary. Anaphoric pronouns are described under Clause linking. 
+ 
+Verbs, just like nouns, are uninflected in Kaíno. In absence of affixes, clitics conferring tense/aspect/mood and negation can attach to the verb: 
+no a rotoma NEG PST run did not run. 
+As Kaíno lacks the adjective and preposition classes, verbs have taken on their roles. 
+Clause structure 
+A typical Kaíno clause has subject-verb-object word order: 
+to kıa maó maó 
+SP like cat cat I like cats. 
+Serial verb constructions often appear in place of a single verb: 
+to a táka tı kono 
+SP PST walk come_out_of house I came out of the house. 
+Adverbials can appear on either side of the object: lighter adverbials are closer to the verb and thus to the object’s left and vice versa. 
+The null position in a clause (to the subject’s left) is optionally taken by a narrative or attidudinal particle. 
+ 
+Constructions 
+The passive is simply constructed by omitting the subject: 
+kına sıkáto steal star 
+The star is stolen. / stolen star 
+Comparatives are formed by serializing the verb with pı “exceed”. Pı follows the main verb if there’s an object of comparison. 
+pı kasa 	kasa pı moa 
+exceed be_blue 	be_blue exceed sea 
+bluer 	bluer than the sea 
+Kaíno lacks proper ditransitive verbs and clauses using them are translated with a serial verb construction: 
+To a na maó roı korá. SP PST give_to cat give toy I gave my cat a toy. 
+The lighter object is placed first in such double-object constructions. If the direct and the indirect objects are equally heavy, the former is placed second. 
+Color words can be made darker or colder by changing the vowels to o: kasa :: koso and the opposite is done by replacing the vowels with ı. 
+ 
+Clause linking 
+Clauses are linked using conjunctions and, as the language is biased against redundancy, subjects, objects and auxiliary verbs (tense/aspect/mood) need not be repeated across clauses. Furthermore, all sentences in a narrative are understood as taking place in the same broad period of time unless specified otherwise. 
+There are mechanisms to disambiguate anaphora, i.e. which word in a previous clause a constituent refers to. For these purposes the pronouns rıo (same subject), tırı (diff. subject) and ha “former” are attested in this text and exist among the rest. 
+ 
+Serial verb constructions 
+Kaíno makes heavy use of serial verb constructions (SVCs). Especially prominent in this text are the locative SVCs, which are comprised of a motion verb encoding manner and one expressing direction or location: 
+soa hao maíra turn go_to street turn into the street 

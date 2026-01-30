@@ -1,0 +1,83 @@
+*Nouns*
+
+Alál is a highly synthetic, a priori language. It is pro-drop with polypersonal agreement, and is split-ergative, although it behaves entirely ergatively in this text.
+
+Nouns are not marked for number or definiteness, but have three cases: agentive, oblique, and patientive. The oblique is used mostly for the objects of adpositions; agentive and patientive nouns correspond to a subject and object for transitive verbs. 
+
+Nouns may indicate possession using a set of infixes appearing before the first vowel. The following are relevant:
+ 3sg 'his/her' aî/aîa/ıîhı
+ 1sg 'my'   ıìz
+
+---
+
+*Verbs*
+
+Alál has a lot of verbal morphology, much of which isn't enormously relevant here and has been included in the chart of verb “roots” to make things less of a pain in the neck. Person marking and other such things are indicated via a series of affixes; in the chart below, the two underscores show where these may be found.
+
+Alignment is of the fluid-S/active-stative variety, but pure luck has it behaving ergatively throughout this entire text. For all transitive verbs, all overt subjects are marked as agents and all overt objects as patients. For intransitive verbs, all subjects in this text are in the patientive. Transitivity is given in the chart below (T: transitive, IN: intransitive).
+
+Verbs are marked for aspect; to simplify, those ending in ı, í, ıka, r, and m in the table above may be considered imperfective, while all others may be considered perfective. Overt tense marking is rare, though a couple of past tense markers will show up, described later.
+
+The first underscore is where person marking goes. Alál is pro-drop, and both subject and direct object are marked with a single fused infix on each verb. The persons relevant to this text are given below (s = singular, p = plural). Third person is generally assumed to be definite, while "fourth" person is more of an indefinite third person. Note that several infixes have multiple possible forms, and that third person makes no distinction of animacy or gender. Here, 'i' indicates the inclusive first person ('inclusive we').
+
+Directly after this person marking, we may also see the negation marker, kta. When used with the indefinite 'fourth' person, can mean 'there are none who...'.
+
+---
+
+*Verbs, Part 2*
+
+The second underscore is where we find the nominalizer raı|ra|rà/rǎ (AGT|OBL|PAT), forming a verbal noun. The resulting verbs are finite and fully inflected, and can take AGT- and PAT-marked subjects and objects as normal. There is one instance in the text where you'll have ra for the PAT form, after a vowel marked with a circumflex.
+
+ Ḳımaı mıìzìz.
+ travel<3.4> noble<1sg-AGT>
+ 'My lady is traveling there.'
+
+ Tlaıhí ḳımràaı mıìzìz.
+ be.good<3> travel<3.3-NOM.PAT> noble<1sg-AGT>
+ 'That my lady is traveling there is good.'
+
+Word order is typically VOS. However, if the object is a nominalized verb, VSO order is also seen:
+
+ Muhzím mrıẓmaıṭ ḳımràaı mıìzìz.
+ realize<3.3> merchant<AGT> travel<3.3-NOM.PAT> noble<1sg-AGT>
+ 'The merchant realized that my lady is traveling there.'
+
+This is also where we may find the attributive verb marker. This differs depending on the verb and is given for each verb in the chart above; it is typically á, í, or ú, with a couple of exceptions due to how the chart simplifies verb conjugation.
+
+In this text, attributive verbs always modify the immediately preceding noun and effectively pull the weight of both adjectives and relative clauses. Like nominalized verbs, these are finite and can take PAT-marked objects, though the noun that they are modifying must be understood as the subject, and they must agree with it.
+
+ Ḳımaı zâauaz mıìzìz.
+ travel<3.3> coast<PAT> noble<1sg-AGT>
+ 'My lady is traveling to the coast.'
+
+ Mzıuḳràaı mıìzıáz ḳımíaı zâauaz.
+ sit.beside<3> noble<1sg-OBL> travel<3.3-ATTR> coast<PAT>
+ 'He is sitting next to my lady, who is traveling to the coast...'
+
+...It is also where we find a handful of other things which for convenience I'll collapse into this list. More than one of these may appear at once, possibly in conjunction with something seen above:
+
+Regular verbs are capitalized in the orthography; nominalized and attributive verbs are not.
+
+---
+
+*Prepositional Phrases*
+
+Prepositional phrases are discontinuous. The preposition goes before the modified noun or verb, orthographically separated by an interpunct (·), with its object coming after. Thus, "I sleep under a tree" becomes "under·sleep<1sg> tree<OBL>". The object is always in the oblique case.
+
+The copulas behave syntactically like any other preposition; á indicates membership in some set of things (á·sál ṭaḳı 'he is a servant') while ù identifies the noun as a specific entity (ù-sál ṭaḳı 'he is the servant'), effectively a definiteness distinction.
+
+Some prepositions may take the object rá, meaning roughly 'the following', introducing a clause as the object without requiring that the clause's verb be nominalized (ıs·Mûuhzím rá... 'while you realized it, the following happened...').
+
+There is one instance of a genitive modifying a noun that already has another preposition. Only one PP can be discontinuous in this way for any given noun or verb, so the object of that genitive is instead introduced after the noun in question, using the structure [noun] xa·ms [object of genitive].
+
+If the object of a preposition itself is modified by a preposition, this can also be displaced (ù-sál ız·ṭaḳı màhaḳ 'he is the servant wearing a veil').
+
+---
+
+*Misc.*
+
+There are a number of miscellaneous constructions:
+
+The word raìr|rár|ruar (AGT|OBL|PAT) introduces and carries case for a following clause or, more commonly, quotation.
+
+Additionally, ⋮⋮ and ¿? are used to mark directly quoted speech (the latter specifically marking questions), while : marks a prosodic boundary frequently glossable as a comma or as 'and' (found when consecutively describing related items or events, or separating multiple attributive verbs modifying the same word).

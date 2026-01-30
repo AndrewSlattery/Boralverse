@@ -1,0 +1,2 @@
+## Zahid
+- **разгадто** "unknotting, solving"

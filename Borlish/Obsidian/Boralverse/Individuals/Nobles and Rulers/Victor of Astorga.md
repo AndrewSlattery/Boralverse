@@ -1,0 +1,1 @@
+Victor of [[Astorga]] (b. between 1436 and 1453) was the youngest son of [[Mark of Tolose]] and [[Margaret of Iscombe]].

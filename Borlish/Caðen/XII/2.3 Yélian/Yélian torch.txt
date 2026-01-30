@@ -1,0 +1,82 @@
+Yélian is an agglutinative, partly fusional language. It's strongly head-marking: while nouns are rarely inflected, verbs are heavily inflected. The basic word order is SVO if you use the direct inflection of verbs, but de facto OVS if you use the inverse inflection. The inverse inflection can also add a passive sense to a statement. There are no independent adjectives and only a few independent adverbs: Most of the time they are directly connected to there corresponding verbs and nouns. Adjectives always follow the noun, while adverbs always precede the verb. Verbs can have quite extensive chains of prefixes that are filled with a slot system (see below).
+
+__________________________________________________________________________________________________________________________________________
+
+Nouns
+
+Nouns have one of three genders which are marked by a definite article before the noun. If the noun is indefinite, there is no marking. When a preposition precedes the noun, there is no definite article.
+
+- Animate gender for all humans, animals, body parts and a few more, clitic a': a'broya (the man), broya (a man).
+- Inanimate gender for inanimate, but real objects and plants, clitic u': u'tomun (the path), tomun (a path).
+- Conceptual gender for the remainder of nouns, clitic æ': æ'sèrvis (the service), sèrvis (a service).
+
+There are four numbers: The singular is unmarked, the dual (only used for natural pairs like eyes, legs, shoes etc.) is marked by the suffixes -m or -em. The plural is usually marked with -n or -an, but there are a lot of exceptions, non of which occur in the text though.
+
+The collective plural is marked with the suffixes -ó (after vowels) or -mé (after consonants). Keep in mind that if a noun is modified with classifiers, the plural or collective suffixes appear after the classifiers.
+
+The genitive is formed with the clitic o' before the noun. The possessee precedes the possessed here. Example: îyi (child) + naku (fire) --> îyi o'naku (child of the fire).
+
+Keep in mind that the genitive is used quite more often than in English. Some structures that in English would be a simple noun clause are formed with genitive in Yélian, for instance "half a cake" would be "one half of a cake" in Yélian. If the genitive is combined with possessive pronouns, the pronoun precedes the clitic.
+
+U'riur reo o'pèno
+DEF.INAN=book 1SG.POSS DEF.GEN=father
+The book of my father
+__________________________________________________________________________________________________________________________________________
+
+Verbs
+
+Verbs are extensively inflected by person, number and clusitivity (doesn't appear in the text). Verbs can have one of six declension patterns, consisting of voice (direct or inverse) and mood (indicative, jussive, conditional). In the text, the indicative and the jussive appear so I will describe them.
+
+Lac-ai (I hit)
+Lac-ei (You hit)
+Lac-et (He/She/It hits)
+Lac-en (We hit, inclusive)
+Lac-est (We hit, exclusive)
+Lac-ein (You hit)
+Lac-ʻi (They hit; the ʻ is omitted if the verb stem ends on two consonants)
+
+Lac-as (I have to hit)
+Lac-as (You have to hit)
+Lac-at (He/She has to hit, animate)
+Lac-at (It has to hit, inanimate)
+Lac-aven (We have to hit, inclusive)
+Lac-aven (We have to hit, exclusive)
+Lac-avat (You have to hit)
+Lac-avar (They have to hit)
+
+Keep in mind that the jussive, when not a true imperative, is usually triggered by certain modal classifiers, like ian- "to have to"
+
+A few verbs have slightly differing declension patterns, for the text relevant are especially verbs ending on -ea that form their 3sg with the suffix -ét.
+
+There are a few entirely irregular verbs, including balia (to be), which also serves as a header for stative adjectives. However, you don't have to keep this in mind as it doesn't appear in the text.
+
+The dictionary form of a verb is its active nominalized form, marked with -a after the verb stem (hence "laca"). The gerund is formed by the suffix -ts, making a classifier adjective or adverb out of the verb.
+
+There are only two tenses, past (marked by prefix yi-) and future (marked by prefix ro-). Additional moods (like permissive, propositive, necessitative) that would be expressed by auxillary verbs in English are prefixes in Yélian and don't interfere with the verbal inflection.
+
+The negative is formed with the prefix ci-, this prefix precedes everything else in a verb form.
+
+__________________________________________________________________________________________________________________________________________
+
+Pronouns
+
+Subject pronouns can be regularly dropped due to the extensive verbal inflection. Object pronouns are always written and precede the verb. Possessive pronouns always precede the noun they modify, so it's exactly opposite to the formation of the genitive for nouns. Relative pronouns come after the main clause and before the subordinate clause.
+
+__________________________________________________________________________________________________________________________________________
+
+Classifiers
+
+Classifiers are bound forms on nouns and verbs. There are about 20 nominal classifiers and more than 100 verbal classifiers, not counting adjectives and adverbs. I'll only state the ones appearing. Example: oc- is the continuative, indicating that an action is further done. bernei - you walk, ocbernei - you keep on walking. Adjective and adverbial classifiers form the comparative with the suffix -a on them.
+
+There are a lot of assimilation processes between bound morphemes in Yélian that can be so strong that some morphemes are not pronounced entirely and are only traceable by the interference they have caused in the adjacent morphemes. This makes spoken Yélian very difficult to understand, but don't worry! This is almost not reflected in spelling so it's not your concern. Only some assimilations between vowels are actually written. In the text, the following assimilation processes occur:
+
+i + u -> ui
+o + a -> au
+u + a -> au
+I hope this information is enough to understand the text. If you've got any questions, do not hesitate to ask! Below you can find the vocabulary. It's sorted alphabetically and nouns are written without their definite article. A few notes to the order of the alphabet:
+
+Acutes, graves and circumflexes are not relevant for the alphabetical order of a word.
+K and Q are considered variants of C, therefore the words are listed under C.
+IY is a unique letter and is sorted after i.
+Æ is a unique letter and is sorted after Y and before Z.
+ʻ is a unique letter and is sorted after z.

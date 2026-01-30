@@ -1,0 +1,3 @@
+The graveyard fiddlers (Borlish **viol cemtir** /vjɔl tsɛmˈtɪr/) are a recurring motif in the folklore of [[Borland]]. They are said to be death spirits responsible for the mysterious sound of string instruments in the air heard especially near cemeteries and in the hour before dawn. Their melodies are usually described as low-pitched and mournful. The fiddlers appear to be a tradition peculiar to Borland, as neighbouring folk traditions do not include any obviously analogous figures.
+
+They are most known abroad from their inclusion in opera [[Wings Afire]] (**Ali in Fiamme**) by [[Chiarina Bruno]], who is said to have heard the tale of the graveyard fiddlers from her brother.

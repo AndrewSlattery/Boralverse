@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "f8ecdc01fbfd67cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "950fd2f31003dd56",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Boralverse/Mapbook/Libya.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74e6ea6410ad8ec9",
+    "type": "split",
+    "children": [
+      {
+        "id": "43dd0f33e6f532b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc810e97a4a9829",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9f92ddecee7440f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e522cacf9477f33",
+    "type": "split",
+    "children": [
+      {
+        "id": "2211506a96cb30a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0df577ede1c88b16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Boralverse/Mapbook/Libya.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d2e8679d0ea510c",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "950fd2f31003dd56",
+  "lastOpenFiles": [
+    "Boralverse/Mapbook/Libya.md",
+    "Boralverse/Mapbook/Astorga.md"
+  ]
+}

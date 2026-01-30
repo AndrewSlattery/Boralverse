@@ -1,0 +1,137 @@
+- Mutations
+
+There are four types of initial mutation in Cambresc, usually triggered by a preceding word.
+
+-- Soft mutation
+This is by far the most common. Its effects are
+> p t c/k/q m/b d g ł rh 
+> b d g     v   ð Ø l r
+
+Relevant words which trigger it: <am, dωy, ei¹, gan, o¹, y/yr¹ (with feminine singular nouns)>.
+
+The direct object of a finite verb also undergoes the soft mutation.
+> kefl; diskynes i gefl | horse; alight-pst.1s 1s ᵒhorse "I dismounted a horse" 
+> kyraeð; gra vi gyraeð | arrive; do.1s 1s ᵒarrive "I arrive"
+
+Adjectives modifying feminine singular nouns also undergo the soft mutation.
+> mór bah | sea small "a small sea"
+> łong vah | ship ᵒsmall "a small ship"
+
+Extraordinarily, <d> does not mutate to <ð> if the preceding word ending in <-s>.
+> nos da "good night" (nos "night" being a feminine noun)
+
+-- Nasal mutation
+> p  t  c/k/q b d g
+> mh nh ngh   m n ng
+
+Relevant words which trigger it: <y¹, yn²>.
+
+> plant | "children", y mhlant | "my children"
+> De Cappatia | South Cappatia, yn Ne Cappatia | "in South Cappatia"
+
+-- Aspirate mutation
+> p  t  c/k qυ
+> ph th ch  qυh
+
+Relevant words which trigger it: <a>.
+> coh | "red", glas a choh | "blue and red"
+
+-- Mixed mutation
+This mutation acts like the aspirate mutation on <p t c/k/qυ>, and the soft mutation on <m/b d g ł rh>.
+
+Relevant words which trigger it: <na, ni>.
+
+- Verb Morphology
+
+Verbs inflect for past and nonpast—most of the text is in the past. Nonpast verbs used as finite verbs usually have a future sense, except with stative verbs, which can also have a present sense.
+> gωn i | know-1s 1s "I know", gυiðωn i | know-1s.pst 1s "I knew"
+> arhosa vi | stay-1s 1s "I will stay", arhoses i stay-1s.pst 1s "I stayed"
+
+The relevant finite verb endings found in this text are:
+> -oð | third person singular preterite (past tense perfective)
+> -on | third person plural preterite
+
+The text also contains several irregular finite forms:
+> aeth | 3s preterite of <eid> "to go"
+> daeth | 3s preterite of <doωd> "to come"
+> oeð | 3s past imperfective of <bod> "to be"
+> grathon | 3p preterite of <greυd> "to do"
+
+Other TAM senses are achieved via auxiliary verb constructions. The verb <greυd> "to do" creates verbs with perfective aspect, in past or nonpast tense.
+> grei di ðrysυ vi | do-2s 2s confuse 1s "you (just) confused me"
+> graeth o dybjed yr ateb | do-3s.pst 3s.m guess def answer "he guessed the answer"
+
+The complex <bod ... yn²>, on the other hand, creates verbs with imperfective aspect.
+> ω vi'n arhos | be-1s 1s comp stay "I am not moving"
+> oeðyh whi'n canυ | be-2pl.pst 2pl comp sing "you were singing"
+
+- Syntax
+
+-- Noun Phrase
+
+The definite article <y, yr, 'r> precedes the noun. Feminine singular nouns undergo the soft mutation after the definite article.
+> gωr, y gωr "a husband, the husband"
+> greg, y reg "a wife, the wife"
+
+Adjectives follow the noun. They undergo the soft mutation after feminine singular nouns.
+> gωr da "a good husband"
+> greg ða "a good wife"
+
+Genitive phrases "the husband of the doctor", "the Sun Hotel" are formed by simple apposition. Nouns which are possessed in this way cannot themselves take a definite article.
+> gωr y meðyg | husband def doctor
+> tavarn y heυl | hotel the sun
+
+Pronominal possession consists of a possessive pronoun before the noun (often triggering some mutation), and sometimes a resumptive pronoun after the possessee.
+> ei dad o | 3s.m.poss ᵒfather 3s "his father"
+> eih grageð whi | 2pl.poss wife-pl 2pl "your wives"
+
+In formal writing or speech, the resumptive pronoun may be omitted.
+
+-- Adpositions
+
+Adpositions precede their noun phrase. Many prepositions have inflected personal forms used instead of explicit pronouns.
+> i'r łongor | to=def ship-pl "to the ships"
+> iðyn | to-3pl "to them"
+
+-- Verb Phrase
+
+Cambresc is VSO.
+> Pentωrroð y dyn y cathod | collect-3s.pst def man def cat-pl "the man collected the cats"
+
+The direct object of a finite verb undergoes the soft mutation (note in the above example "y cathod", beginning with a vowel, doesn't change).
+
+In practice, sentences often use an auxiliary, with syntax Aux S (prep) V O.
+> Greωh whi weld hωnno | do-2pl 2pl ᵒsee that.m "you see that"
+> ω vi am arhos | be.1s 1s about stay "I'm going to stay"
+
+Negative sentences make use of a preverbal particle <ni(d)>, which triggers the mixed mutation, and a somewhat-optional particle dim which becomes (the first part of) the direct object and thus is usually mutated to ðim.
+> ni raethυm i ðim haeðυ | neg do-1s.pst 1s neg win | "I didn't win"
+
+--- Possessed Verbs
+
+Complement clauses (I suppose *that you are a doctor*) and clauses following certain conjunctions (before *he can catch them*) are formed in Cambresc using possessed verbs. These use the same syntax as ordinary possession.
+> eih bod (whi) | 2pl.poss be 2pl "that you are"
+> ei ał (o) | 3s.m.poss ᵒcan 3s.m "that he can"
+
+Here they are used in context.
+> tybja vi'h bod whi'n veðyg | suppose-1s 1s=2pl.poss be 2pl=comp doctor "I suppose that you are a doctor"
+> kyn ei ał y dyn dal nhω | before 3s.m.poss ᵒcan def man catch 3pl "before he can catch them"
+
+-- Relative clauses
+
+The only type of relative clause used in this text is the direct relative clause (in which the subject or direct object of siad clause is relativised). For these, Cambresc uses the particles <pa> to introduce them, which triggers the soft mutation.
+
+> gweles i'r łong | see-pst.1s 1s=def ship "I saw the ship"
+> y łong pa weles i | def ship rel ᵒsee-pst.1s 1s "the ship that I saw"
+
+Negating relative clauses works differently to matrix clauses; you simply replace <pa> with <na> (which triggers mixed mutation).
+
+> yr emin pa ganes i | def hymn rel ᵒsing-pst.1s 1s "the hymn that I sang"
+> yr emin na chanes i | def hymn relneg.rel ʰsing-pst.1s 1s "the hymn that I didn't sing"
+
+When forming relative clauses with <bod> "to be" (including in auxiliary constructions), the 3s nonpast form is irregular: <sy>
+
+> y dyn sy'n canυ | def man be.3s=comp sing "the man who is singing"
+> łongor sy doc am ðadangori | ship-pl be.3s soon about unmoor "ships which will set off soon"
+
+As with other verbs in relative clauses <sy> uses the negative particle <na> instead of <ni(d)>.

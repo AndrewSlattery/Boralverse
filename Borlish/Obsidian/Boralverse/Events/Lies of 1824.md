@@ -1,0 +1,1 @@
+The Lies of 1824 were a hoax perpetrated via the nascent [[Steeplepost|steeplemesh]] in [[Ambrosia]] and in particular by forging images to be displayed on the [[Steeplepost Tapestry]] in Aiga d'Angoixa.

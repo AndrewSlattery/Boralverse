@@ -1,0 +1,281 @@
+% !TEX TS-program = xelatex
+\documentclass[12pt,oneside]{memoir}
+\usepackage{graphicx} % Required for inserting images
+
+% --- Font & Language ---
+\usepackage{fontspec}
+\setmainfont{Charis SIL} % Or Doulos SIL / Gentium Plus
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+
+% --- Linguistic Examples ---
+\usepackage{expex} % For numbered examples and glosses
+
+\newcommand{\glphm}[3]{%
+  \ex
+  \begingl
+  \gla #1 // 
+  \glb /#2/ // 
+  \glc #3 //
+  \endgl
+  \xe
+}
+
+\newcommand{\glpht}[4]{%
+  \ex
+  \begingl
+  \gla #1 // 
+  \glb /#2/ // 
+  \glb {[}#3{]} //
+  \glc #4 //
+  \endgl
+  \xe
+}
+
+
+
+% --- Example Custom Command for IPA Transcription ---
+\newfontfamily\ipa{Charis SIL}
+\newcommand{\pht}[1]{[{\ipa #1}]}
+\newcommand{\phm}[1]{/{\ipa #1}/}
+
+\usepackage{caption}
+
+\newcommand{\obs}{\textsuperscript{\textdagger}}
+\newcommand{\bl}[1]{\emph{#1}}
+\newcommand{\orth}[1]{‹~#1~›}
+
+% --- Document Metadata ---
+\title{A Reference Grammar of Borlish}
+\author{Jack H Keynes}
+\date{\today}
+
+\begin{document}
+	
+\maketitle
+\tableofcontents*
+
+\chapter*{Introduction and Context}
+
+Borlish is a Romance language, the primary language spoken on the island of Borland. It is the only surviving member of the Insular Romance languages.
+
+Throughout this reference we will use `Borlish' to refer to the standard variety of the language, which is based on the educated speech of the capital Damvath.
+
+\chapter{Phonology}
+
+\section{Phonemes}
+
+\subsection{Consonants}
+Borlish has a consonant inventory of middling size. Notable is the presence of \phm{ʒ} without its voiceless counterpart \phm{ʃ}, due to a relatively recent sound change which backed the latter to \phm{x}. 
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{ c c c c c c }
+        \multicolumn{6}{ c }{Consonants} \\
+        \hline
+        m & & n & & \\
+        p b & & t d & & k g & \\
+        & & ts & & & \\
+        f v & θ ð & s z & ʒ & x & h \\
+        w\textsuperscript{1} & & l & j & r\textsuperscript{2} & \\
+        \hline
+    \end{tabular}
+\end{table}
+
+\textsuperscript{1}In native vocabulary the phoneme \phm{w} appears only after \phm{k}. This, along with alternations like   
+\glphm{voc voccar | bocq bocquar}{vɔk vɔˈkar | bɔk bɔˈkwar}{\obs summons {to summon} | fee {to charge}}
+have led some to analyse \phm{kw} sequences as a single phoneme \phm{kʷ} which merges with \phm{k} in coda position.
+
+\textsuperscript{2} The rhotic is uvular in urban speech, but for ease we will denote it by \phm{r} in phonemic transcription.
+
+\subsection{Vowels}
+Borlish has eight monophthong vowel phonemes, typical of neighbouring Germanic and sister Gallo-Romance languages.
+
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{ c c c }
+        \multicolumn{3}{ c }{Vowels} \\
+        \hline
+        i & ɪ & u \\
+        e & & o \\
+        ɛ & a & ɔ \\
+        \hline
+    \end{tabular}
+\end{table}
+
+Borlish also contains the diphthong \phm{au}, as well as vowel+\phm{j} sequences that may be analysed as diphthongs. 
+
+The segments \phm{m n r} can appear as syllabic consonants.
+    \glphm{batesm cohernt outrscac}{baˈtɛz.m̩ koˈhɛr.n̩t ˌut.r̩ˈxak}{baptism consequent brazen}
+The syllable preceding a syllabic consonant acts as a closed syllable, and the segment before a syllabic consonant acts as part of the coda of the previous syllable. Hence, it is usually considered most elegant to syllabify so that syllabic consonants have no onset.
+
+\section{Stress}
+The final syllable is usually stressed.
+    \glphm{scadom tatover}{xaˈdɔm ˌta.toˈvɛr}{tomato potato}
+In words of four or more syllables, secondary stress is usually assigned in iambs, although anapaestic patterns do occur when the interior syllables are sufficiently light.
+    \glphm{deborsellar haubrjoranç}{deˌbɔr.sɛˈlar ˌhob.r̩.ʒoˈrants}{pickpocket advertisement}
+There are some exceptions to final stress. Syllabic consonants reject stress onto the previous syllable. Moreover, the suffixes \bl{-(e)nt} (forming present participles of \bl{-r} conjugation verbs), \bl{-(e)nç} (forming nouns from the same verbs) and \bl{-essem, -errem} (forming comparatives) also enforce penultimate stress.
+    \glphm{casn pardenç pessem veðerrem}{ˈkazn̩ ˈpar.dɛnts ˈpɛ.sɛm veˈðɛ.rɛm}{oak loss worse elder}
+In many dialects these suffixes are parsimoniously analysed as instead containing syllabic consonants, pronounced as \phm{-n̩t -n̩ts -ɛs.m̩ -ɛr.m̩}.
+
+\section{Phonotactics}
+There are several restrictions on where in a syllable or a word certain segments can appear. The consonants \phm{v s ʒ h} do not occur in coda position, and \phm{ð} does not occur word-finally. When morphology would place \phm{ð s ʒ} in a forbidden position they are replaced with \phm{θ z x} respectively.
+    \glphm{nað-ar nað | fass-ar fas | naj-ar nascn}{naˈðar naθ | faˈsar faz | naˈʒar ˈnax.n̩ }{swim-inf swim.s | wrap-inf wrap.s | sail-inf sail.3p}
+    When morphology would place \phm{v} in a forbidden position, either \phm{f} replaces it or the preceding vowel is altered.
+    \glphm{cav-ir caf | bav-ar bau}{kaˈvɪr kaf | baˈvar bo}{get-inf get.s | bark-inf bark.s}
+Syllabic consonants do not occur in stressed or initial syllables, and the `lax' vowels \phm{ɪ ɛ ɔ} do not occur in stressed open syllables.
+
+\subsection{Onsets}
+Any vowel can begin an initial syllable, but under most analyses non-initial syllables must begin with a consonant.
+    \glphm{al enç aiç il eir onc aust ou}{al ɛnts ets ɪl ir ɔnk ost u}{wing start ease they go hook east egg}
+Any single consonant may constitute an onset. Two-consonant onsets are of three kinds: for the first, the second segment is a liquid (one of \phm{l j r}; the case of \phm{w} is dealt with above), preceded either by a stop or a fricative. The liquid \phm{l} does not occur after the segments \phm{t d θ ð ʒ}, and the liquid \phm{r} does not occur after the segments \phm{ð s z ʒ}.
+    \glphm{plait droug gien thron}{plet druj ʒjɛn θrɔn}{pleased contribution cheek throne}
+The second class of two-consonant onsets are a heterorganic stop followed by one of \phm{s θ t d}; these usually derive from Greek.
+    \glphm{xyron chthonic ptyssoscia bdella}{ksiˈrɔn kθɔˈnɪk ˌpti.soˈxja bdɛˈla}{scalpel subterraneous glaucoma virus}
+The remaining two-consonant onsets comprise \phm{s} followed by a nasal, a stop, the two liquids \phm{l j} or the two fricatives \phm{f v}.
+    \glphm{smout skore sdegn slanc siesc sforç svam}{smut skoˈre sdɪjn slank sjɛx sfɔrts svam}{riot urgent scorn thin siege strain sponge}
+All the possible three-consonant onsets are formed by the combination of \phm{s}+consonant and consonant+liquid onsets.
+    \glphm{splorar spien sdruçol sfrey}{sploˈrar spjɛn sdriˈtsɔl sfri}{explore hope lubrication horror}
+No more complex onsets are permitted.
+\subsection{Codas}
+Empty codas are permitted, including word-finally. However, the `lax' vowels \phm{ɪ ɛ ɔ} do not occur in final open syllables (as these would necessarily be stressed).
+    \glphm{idone nijomm-au}{ˌi.doˈne ˌni.ʒɔˈmo}{suitable bind-pst}
+Any single consonant except \phm{v s ʒ h} may be a coda. There are several types of two-consonant coda. A liquid may be followed by any non-liquid that can appear in codas at all; a nasal by any such non-liquid and non-nasal.
+    \glphm{sculd tragç corf lucern | hamt coyenç ans}{xɪld trɛjts kɔrf liˈtsɛrn | hamt koˈjɛnts anz}{obligation clue raven lantern | live.s prevention handle}
+The fricative \phm{s} may precede a voiceless stop; \phm{f} may precede \phm{t} specifically.
+    \glphm{cosp fest masq | haft}{kɔsp fɛst mask | haft}{{bee sting} banquet disguise | busy}
+Conversely, \phm{s} may also follow any voiceless stop; after \phm{t} this is identical to the affricate phoneme \phm{ts}.
+    \glphm{laps ouç jex}{laps uts ʒɛks}{mistake silence bullseye}
+Finally among two-consonant codas, the cluster \phm{kt} is also permitted.
+    \glphm{abject}{abˈʒɛkt}{despicable}
+The few three-consonant codas that appear are a nasal or \phm{j} with a licit two-consonant cluster.
+    \glphm{boist deunx defonct}{bɔjst daunks deˈfɔnkt}{box {near miss} deceased}
+No more complex codas are permitted.
+
+\section{Allophony}
+Throughout this section, the phonetic transcription approximately reflects the mesolectal speech in the capital city of Damvath.
+
+\subsection{Assimilation}
+The phoneme \phm{n} is pronounced \pht{ŋ} before velars.
+    \glpht{blanc viking mensc}{blank viˈkɪng mɛnx}{blaŋk vɪˈkɪŋg mɛŋx}{white raid honour}
+Regressive voicing assimilation affects \phm{s} before any voiced obstruent, nasal or \phm{l}.
+    \glpht{sboc svanið pasnagl bruslaç}{sbɔk svaˈnɪθ paˈsnɛjl briˈslats}{zbɔk zvɐˈnɪθ pɐˈznɛjl bʀɪˈzlats}{smirk unconscious parsnip breakfast sunburn}
+
+\subsection{Palatals}
+The phoneme \phm{x} surfaces as \pht{ç} when adjacent to a front vowel.
+    \glpht{scið esc}{xɪθ ɛx}{çɪθ ɛç}{possible bait}
+The phoneme \phm{ʒ}, along with \phm{j} either word-initially or between an unstressed and a stressed vowel (in that order), is pronounced \pht{ʝ}.
+    \glpht{jast yon çuyal}{ʒast jɔn tsaˈjal}{ʝast ʝɔn tsɐˈʝal}{zinc where cicada}
+    
+\subsection{Non-rhoticity}
+Syllabic \phm{r̩} surfaces as \pht{ɐ}. Furthermore, for some speakers syllabic \phm{m n} surface as \pht{ɐm ɐn} respectively.
+    \glpht{issambr ðesmbal visn}{ɪˈsamb.r̩ ˌðɛz.m̩ˈbal ˈvɪz.n̩}{ɪˈsam.bɐ ˌðɛ.zɐmˈbal ˈvɪ.zɐn}{massacre dodgeball knot}
+Coda \phm{r} surfaces as length on a preceding monophthong, or as \pht{ɐ} after a diphthong or \phm{j}. The vowel's quality may also be altered, with \phm{ar ir ur} becoming \pht{ɐː ɪː ʊː} respectively.
+    \glpht{vert hagr tourm}{vɛrt ˈhɛj.r̩ turm}{vɛːt ˈhɛ.jɐ tʊːm}{green linchpin squadron}
+When a word beginning with a vowel immediately follows, the \pht{ʀ} is resurrected as the onset of the next syllable.
+    \glpht{l'hour uncos}{lur ɪnˈkɔz}{lʊː‿ ʀɪŋˈkɔz}{df=time something}
+
+\subsection{Reduction}
+In syllables without primary or secondary stress, the vowel \phm{a} surfaces as \pht{ɐ}, the vowels \phm{ɛ e i} as \pht{ɪ} and the vowels \phm{ɔ o u} as \pht{ʊ}.
+    \glpht{tovaresc taisson torvegl}{ˌto.vaˈrɛx teˈsɔn tɔrˈvɪjl}{ˌto.vɐˈʀɛç tɪˈsɔn tʊːˈvɪjl}{homosexual badger whirlwind}
+Before an obstruent or after \phm{n}, a coda \phm{ts} is pronounced \pht{s}.
+    \glpht{amaçgat fenç}{ˌa.matsˈgat fɛnts}{ˌa.mɐsˈgat fɛns}{nursery split}
+The sequence \phm{kts} is realised as \pht{ks}.
+    \glpht{acceir facçon}{akˈtsir fakˈtsɔn}{ɐkˈsɪː fɐkˈsɔn}{approach party}
+
+\section{Orthography}
+The primary letters in the Borlish alphabet are ordered as in the table below.
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{c c | c c | c c}
+        \multicolumn{6}{ c }{Alphabet and Letter Names} \\
+        \hline
+        a & a & h & hac & q & cu \\
+        b & be & i & i & r & ar \\
+        c & ce & j & jot & s & es \\
+        ç & cedil & k & ka & t & te \\
+        d & de & l & el & u & iscon \\
+        ð & eð & m & em & v & ve \\
+        e & e & n & en & x & ex \\
+        f & ef & o & o & y & oy \\
+        g & ge & p & pe & z & zet \\
+        \hline
+    \end{tabular}
+\end{table}
+
+The character \orth{w}, which is used in foreign words and some names (like \bl{Willaum} `William'), is pronounced like \orth{v} and called \bl{vescon} `second-vee'. There are also some compound characters. The ligatures \orth{æ œ}, primarily used in Classical loanwords, are called \bl{æsc} and \bl{œthel} respectively and pronounced as if written \orth{e}. The character \orth{ï} is referred to as \bl{i jammel} `twin i' and pronounced as if written \orth{yi}.
+
+In the following we will consider \orth{y} to be a vowel when written between consonants and/or word boundaries, and a consonant otherwise.
+
+\subsection{Consonants}
+The following letters regularly denote a single phoneme.
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{c c | c c}
+        \hline
+        b & \phm{b} & m & \phm{m} \\
+        ç & \phm{ts} & n & \phm{n} \\
+        d & \phm{d} & p & \phm{p} \\
+        f & \phm{f} & q & \phm{k} \\
+        j & \phm{ʒ} & r & \phm{r} \\
+        k & \phm{k} & v & \phm{v} \\
+        l & \phm{l} & z & \phm{z} \\
+        \hline
+    \end{tabular}
+\end{table}
+
+Of these, the letters \orth{b d f l m n p r} may appear doubled, which usually does not affect their pronunciation. 
+    \glphm{abbað joddy affis ollom commet bannir çoppin arrum}{aˈbaθ ʒɔˈdi aˈfɪz ɔˈlɔm kɔˈmɛt baˈnɪr tsɔˈpɪn aˈrɪm}{abbot cuppa tip relic ban start toffee cosine}
+The only exception to this is that \orth{mm nn rr} may denote a single consonant followed by a syllabic consonant. This is the reading when \orth{mm nn rr} occurs word-finally or before a consonant.
+    \glphm{yem-m grin-n car-r}{ˈjɛm.m̩ ˈgrɪn.n̩ ˈkar.r̩}{get-1p judge-3p seek-inf}
+The letter \orth{ð} is pronounced \phm{θ} word-finally and \phm{ð} otherwise.
+    \glphm{arð naðr ðeu}{arθ ˈnað.r̩ ðau}{steep viper buttocks}
+The letter \orth{x} regularly denotes the phoneme sequence \phm{ks}.
+    \glphm{xivol euxon incox}{ksiˈvɔl auˈksɔn ɪnˈkɔks}{waltz quartz digestion}
+Consider the final six letters \orth{c g h s t y} when they occur alone (not part of a digraph). In this case, the letters \orth{t y} regularly denote \phm{t j} respectively. The letter \phm{t} may be doubled, without any effect on its pronunciation.
+    \glphm{tien yoc | cattin}{tjɛn jɔk | kaˈtɪn}{yours husband | kitten}
+The letter \orth{c} is pronounced \phm{ts} before \orth{e i y} and \phm{k} otherwise. The doubled \orth{cc} is pronounced \phm{kts} before \orth{e i y} and \phm{k} otherwise.
+    \glphm{cigl cuivr bac | accaç occeir}{tsajl ˈkajv.r̩  bak | aˈkats ɔkˈtsir}{darling copper twig | post kill}
+The letter \orth{g} may be pronounced as either of \phm{g ʒ} before \orth{e i y} and is pronounced \phm{g} otherwise. The doubled \orth{gg} may be pronounced as either of \phm{g gʒ} before \orth{e i y} and is pronounced \phm{g} otherwise.
+    \glphm{gevou genoil tenguð | suggesson}{geˈvu ʒeˈnɔjl tɛnˈgɪθ | ˌsɪg.ʒɛˈsɔn}{{watch out} knee bauble | suggestion}
+The letter \orth{h} is either pronounced \phm{h} or is silent (the latter only in some vocabulary inherited from Latin and after vocalic \orth{g}).
+    \glphm{heu hom augher}{hau ɔm oˈjɛr}{mien person tumbler}
+The letter \orth{s} is pronounced \phm{z} in coda position or between vowels, and \phm{s} otherwise or when doubled.
+    \glphm{bevis bosaç bustr | bossir}{beˈvɪz boˈzats ˈbɪst.r̩  | bɔˈsɪr}{banknote gunfire example | gentleman}
+
+\subsubsection{Consonant digraphs}
+
+The six letters, \orth{c g h s t y}, combine with other letters to form digraphs. The sequences \orth{sc ch th} regularly denote the phonemes \phm{x k θ}. The potentially ambiguous sequence \orth{sch} is read \phm{sk}.
+    \glphm{sclar chym thral | schol}{xlar kɪm θral | skɔl}{lightning lymph slave | school}
+The sequence \orth{cq} is pronounced \phm{k}.
+    \glphm{jalicq jacquot}{ʒaˈlɪk ʒaˈkwɔt}{waistcoat coat}
+The letters \orth{g y} only form digraphs when combined with vowels, for which see below.  
+
+\subsection{Vowels}
+Divide written vowels into two groups. Free vowels are either word-final or separated from the next vowel in the word by a single consonant letter (or one of \orth{sc ch th}).
+    \glphm{choma epu idiocy nothe}{koˈma eˈpi ˌi.djoˈtsi noˈθe}{gnome express stupidity illegitimate}
+Checked vowels are either in a final closed syllable or separated from the next vowel in the word by at least two consonant letters.
+    \glphm{commun ambasctour sincer}{kɔˈmɪn ˌam.baxˈtur sɪnˈtsɛr}{ordinary emissary genuine}
+First consider the letters \orth{a e i o u y} when they occur alone (not part of a digraph). When they are free, \orth{a e i o u y} are pronounced \phm{a e i o i i}.
+    \glphm{cla vige bro cru try}{kla viˈʒe bro kri tri}{key wealthy dude raw turn}
+When they are checked, \orth{a e i o u y} are pronounced \phm{a ɛ ɪ ɔ ɪ ɪ}.
+    \glphm{vindron vampyr effus}{vɪnˈdrɔn vamˈpɪr ɛˈfɪz}{vintner vampire extensive}
+Between a consonant and one of the vowels \orth{a e o u}, the letters \orth{i u} denote the semivowel \orth{j}. The letter \orth{u} denotes the semivowel \phm{w} specifically after \orth{q}.
+    \glphm{diac suet quelt}{djak sjɛt kwɛlt}{mic familiar dinner}
+
+\subsubsection{Vowel digraphs}
+The digraphs \orth{au eu ou} are pronounced \phm{o au u} respectively. The rarer \orth{ao eo} share their pronunciation with \orth{eu}.
+    \glphm{taur teun tout | paon theory}{tor taun tut | paun thauˈri}{bull scant everything | peacock science}
+The digraphs \orth{ai ei oi ui} and \orth{ay ey oy uy} are pronounced \phm{e i ɔj aj} respectively. Intervocalically \orth{y} does double duty, simultaneously affecting the previous vowel as stated and acting as an onset \orth{j}.
+     \glphm{deit joivr | rayon huyaç}{dit ˈʒɔjv.r̩ | reˈjɔn haˈjats}{finger frost | sunbeam corruption}
+The vast majority of coda \orth{g} and many other \orth{g} before consonants form vowel digraphs. Here, the digraphs \orth{ag eg ig og ug aug oug} are usually pronounced \phm{ɛj ɪj aj ɔj aj oj uj} respectively.
+     \glphm{bag deg rig pog tug faug voug}{bɛj dɪj raj pɔj taj foj vuj}{berry ten queue few passion sickle wrong}
+However, there are exceptions where a \orth{g} in one of the above environments is read consonantally.
+    \glphm{magr magr | migrar scigrar}{ˈmag.r̩ ˈmɛj.r̩ | mɪˈgrar xajˈrar}{rash scarce | migrate redistrict}
+
+\chapter{Morphology}
+
+\section{Adjectives}
+
+Ɂɂ
+
+\end{document}

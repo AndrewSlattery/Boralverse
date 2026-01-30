@@ -1,0 +1,44 @@
+GRAMMAR
+=======
+
+NOUNS
+
+    Nouns can be animate or inanimate, countable or collective, and optionally or obligatorily possessed.
+    Countable nouns refer to single entities, and may inflect for plural number. Plural forms which occur in this text are given in the wordlist.
+    Collective nouns refer to a collection of items by default, and may inflect for singulative number if only one single member of the collection is referenced. Singulative forms which occur in this text are given in the wordlist. A few collective nouns form their singulatives periphrastically with a separate particle.
+    Obligatorily possessed nouns (which may be further characterized by an attributive verb) must be followed immediately by their possessor, without any explicit marking. Optionally possessed nouns form possessive phrases with a preposition.
+    Compound nouns can be formed head-initially. Both nominal and verbal roots may be used in the modifier position of such compounds.
+
+PRONOUNS AND DETERMINERS
+
+    Pronouns make more number distinctions than nouns, having dedicated forms also for dual, paucal, and collective referents.
+    Demonstratives and quantifiers are placed before the noun. If both are present, the meaning is usually definite/specific if the demonstrative comes first (e.g. "these two..."), and partitive if the quantifier comes first (e.g. "two of these...").
+    Non-numeral quantifiers may be reduplicated for an intensified meaning, e.g. ni "many" > ni ni "a really large number of".
+
+PREPOSITIONS
+
+    Ronc Tyu distinguishes between two types of prepositions: Adnominal prepositions (pp.n) refer only to noun phrases (e.g. "the tree on the hill"), whereas adverbial prepositions (pp.v) always refer to the clause (e.g. "I'm standing on the hill"). Adnominal prepositions may be nested within an adverbial prepositional phrase.
+    Adnominal prepositions may be reduplicated for an intensified meaning, e.g. runc "near, beside" > runc runc "very close to".
+
+VERBS
+
+    Verbs inflect for passive voice and for the attributive (a kind of participle, which makes up for the fact that Ronc Tyu does not have a lexical class of adjectives). All passive and attributive forms which occur in this text are given in the wordlist.
+    Reduplicating a verb root indicates habitual, iterative, or continuative aspect, or sometimes an intensified meaning. In some cases, a serial verb construction consisting of two or more verbs can be reduplicated as a whole.
+
+SYNTAX
+
+    The basic word order is SVO, with occasional exceptions (for example, there's VS(O) in existential statements, passive sentences, and certain types of questions).
+    Phrases are typically head-initial, with modifiers following their heads.
+    Ronc Tyu frequently uses serial verb constructions (SVC) consisting of two or more verbs to describe complex actions and situations, with the component verbs typically appearing in the chronological order of subevents. Some common collocations have a slightly idiomatic meaning, but all SVC in this text should be fairly transparent. Many SVC, even longer ones, are best translated into English as a single verb, for instance ndzu kein tyòu yenc do, lit. "rise, leave, eat, sleep, and arrive at" = "travel to".
+    Some types of SVC can also serve a grammatical purpose, for example describing cause-event relationships or adding modal or aspectual information.
+    Most SVC have the shape NP₁ V V (V) (NP₂), with all verbs sharing the same subject NP₁ (and, where relevant, the same object NP₂).
+    Another common type of SVC has the shape NP₁ V (V) NP₂ V (V) (NP₃), where the middle noun phrase NP₂ simultaneously functions as the object of the verb(s) before it and as the subject of the verb(s) after it. However, such switch-function SVCs are not used in this text.
+    Certain verbs can also be used as coverbs, functioning in a way similar to adpositions or conjunctions, introducing oblique arguments or subclauses.
+    Relative clauses always contain an overt pronoun referring to the relativized element within the relative clause (i.e. they follow a pronoun-retention strategy).
+    Comparative constructions are formed with a verbal "exceed"-strategy.
+    Subjectless verbs (sometimes morphologically passive) followed by a complementizer are sometimes used to make impersonal general statements.
+    When used as the subject of a transitive verb, inanimate noun phrases must be marked with the instrumental preposition wo "with, by, using".
+    Animate subjects may be similarly marked with the preposition wo "with, by, using"; this typically indicates a (relative) lack of volition or control. Under certain circumstances, this can go along with unexpected morphological passivization of an intransitive verb, which signifies an accidental adversative meaning ("I did sth. accidentally to my own disadvantage").
+    Some words lexically require unusual syntactic constructions; this has been noted in the wordlist where relevant.
+
+A more elaborate grammatical description of Ronc Tyu can be found at http://akana.conlang.org/wiki/Ronc_Tyu

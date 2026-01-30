@@ -1,0 +1,13 @@
+The Second Great Dying was a pandemic of bubonic plague occurring across the [[Vetomund]], which arrived in [[Europe]] in early 1518 and lasted for between five and seven years.
+
+The first victim in [[Borland]] of the Second Great Dying was in [[Damvath]] during the so-called 'green snowfall' (a term referring to any snow that falls in spring) of 1519.
+
+[[Vascony]] lost over a fifth of its population, and Borland (at the time ruled by [[Joseph III of Borland|Joseph III]]) lost over four hundred thousand people in the Second Great Dying. 
+
+Individual fatalities attributed to the Second Great Dying include: the wife and brothers of the grandfather of Dane playwright [[Absolon Mortenszen]]; the two elder brothers of [[Adaillé Nassow, Duchess d'Avosche]].
+
+Coastal areas and polities with closer ties to naval trade were hit harder and more quickly by the plague. [[Burgundy]] and [[Bohemia]] are notable examples of states which (according to their own records, which cannot entirely be trusted) suffered fewer casualities than most, while [[Portingale]] and [[Provence]] were ravaged early and mercilessly.
+
+There was (and still is) a common misconception that people blamed cats and gods for spreading the plague; this idea is only attested in connection with the Second Great Dying several decades after the event. It perhaps originated with stories of the monastery at [[Bonn]], which banished all animals from the grounds in 1512 after several deaths (probably in actuality due to luetic pox).
+
+Population loss due to this plague is sometimes cited as contributing to the collapse of feudalism.

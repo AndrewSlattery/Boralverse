@@ -1,0 +1,26 @@
+Willemy is a polity in northern [[Europe]], situated east of Norman [[Kent]] and [[France]].
+
+# History
+
+The Duchy of Willemy was a minor polity within the [[German Empire]] during the [[Second Tetrarchy]] of the eleventh and twelfth centuries. Forming much of the empire's border with the [[First Drengot Empire]] to the west, defence against the marksmen of Willemy led Drengot Emperor [[Roger II, Drengot Emperor|Roger II]] to spend greatly on castle fortifications from [[Flanders]] to the Alps.
+
+The [[Great Flie Flood]] of 1171 swept away much of [[Lower Frisia]] in Willemy, creating several new islands in the [[Rustigh Strait]] (such as Texel) and killing then-ruler [[Lovis the Tall]], who was in Amstel at the time. The devastation in the region is thought to have allowed Borlish [[Axbane]] to flourish as a trading post in the following century.
+
+In the [[Revitalist Period]] and for some time afterwards, Willemy was split between neighbouring powers and portions of its territory changed hands regularly. The duchy of [[Avosche]] was unusually stable and held by France for over a century.
+
+Trading operations from Willem and its cities in the [[Stadbund]] (the Bróderrat) contributed to staddomains in Atlantic [[Cappatia]], most notably [[Neuwillem]], whose Bróderratcronike (comprising a record of its activities from 1561 to 1597) is an important first-hand account of conditions in the region at the time.
+
+Willem was the focal point of the seventeenth-century [[Blue Trans-Willem War]], usually numbered among the [[Romantic Wars]]. This war led incidentally to the dissolution of the [[Burgundy|Kingdom of Burgundy]] and the creation of the Duchy of Far Suebia in [[Bavarn]].
+
+The two-arm system for sending [[Steeplepost|steeplepost]] was first deployed in Willem in the early nineteenth century, to send the first lines of the Pater Noster from the church in the town of Thynen to neighbouring Bost. This event is likely what led to the name 'steeplepost' being applied to the technology.
+
+# People
+## Rulers
+- Duke Lovis the Tall (d. 1171), who perished in the Great Flie Flood
+- [[Adaillé Nassow, Duchess d'Avosche]] (1524-1608), infamous during her life for her influence at the court of [[David of France]]
+
+## Other
+- Carlyn van Stede (fl. 1965), author of parachthon giftale 'While Gold Yet Runs in My Veins' (*Zolang Gout dór myn Ádren Noh Vlóye*)
+- Dr Mickel Cráyenschot (fl. c19), noted early supporter of the [[Deviance movement]] and public tovarick even as France embraced the [[Modest Arrangement]]. 
+- Niklás der Fecht (fl. 1828), a mathematician in the city of Axton
+- Tewis Camigner (fl. c16), theorist who noted the high sugar content of beet syrup, though betraver sugar would not be produced commercially for another two centuries

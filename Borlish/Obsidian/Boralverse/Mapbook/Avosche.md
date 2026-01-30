@@ -1,0 +1,18 @@
+Avosche (Paris French /aˈvɔːʃ/, Willem Dutch /ˈa.vusx/) is a political subregion of [[Willemy]] centred on the city of [[Axton]] (Grand-Aix /gʀãˈdɛis/, Aughen /ˈɔ.xn̩/), with a strong regional identity. At various points a county, a duchy and a march, it has seen both continual territorial instability (situated between French and German powers) and major urban development into the modern period.
+
+## Etymology
+The region Avosche is named for its first ruling house, which in turn takes its title from its founder Cuonrat Aihuosc (seen in Latin as Corradus Aevoscus). The name is of obscure origin; the first element presumably reflects Classical German *ehu-* "horse", while the second may be from suffix *-iscas* "-ish" (though the vowel is problematic).
+
+Compare the English surname Davush (Merch /daːʃ/, Kentish /ˈdaː.vɪʃ/), which derives from an illegitimate branch of House Avosche.
+
+## History
+The County of Avosche emerges shortly after the split of the [[Kingdom of the Franks]] and the concomitant creation of [[Willemy]]. The founding house of Avosche was soon after superseded by marriage by the neighbouring House Nassow (which originated in Francony).
+
+The county was elevated to a duchy in the early sixteenth century, with [[Roger d'Avosche]] becoming the first duke. At this time the region was ruled by France. Roger's daughter, [[Adaillé Nassow, Duchess d'Avosche|Adaillé Nassow]], succeeded him and went on to rule for many decades until her death in 1608. 
+
+During her reign Adaillé accrued significant influence over her liege [[David of France]]. This was punctured by the scandal of her grandson and heir apparent Déricque fleeing to [[New Provence]] in 1589.
+
+After a century of stability as a vassal of France, the seventeenth century was particularly eventful for Avosche; it changed hands as the result of various wars and peacetime treaties on five separate occasions. Especially bloody was the [[Blue Trans-Willem War]], which also dissolved the [[Burgundy|Kingdom of Burgundy]].
+
+## References
+- *Lát os Danse: De Hartoin ‘n Avosche* (Let us Dance: The Duchess d'Avosche), biography published in 1919

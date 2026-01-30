@@ -1,0 +1,3 @@
+**Marian Siegert ~ Miller** (1725–56) was the illegitimate daughter of [[Elias Villingen]], second Duke of [[Far Suebia]]. She grew up at the ducal seat in Castle Carlsfeld as a recognised bastard, and was close with the Duke's younger legitimate children. She married [[Albert Siegert]], a merchant in leather and a magnate of the shoemaking industry, at the age of eighteen, and moved with him to [[Lepzi]].
+
+From her regular correpondence with her half-brother Thomas she is known to have learnt to speak Burgund as a child and Bohamish as an adult. With Albert she had several children, the eldest of whom would become the pioneering author [[Elsebeth Sneider]].

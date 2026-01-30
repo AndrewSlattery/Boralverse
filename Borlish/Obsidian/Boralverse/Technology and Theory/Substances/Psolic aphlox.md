@@ -1,0 +1,3 @@
+**Psolic aphlox** (Merch /ˈsɔ.lɪk ˈa.flɔks/) is a colourless, odourless and toxic air formed by burning organic material without enough ignifex.
+
+Though the noxious effects of breathing the air in closed spaces where a coal fire is burning have been known since antiquity (and likely since prehistory), truly theoretical investigation did not begin until the seventeenth century, and the air was not isolated from the acid oil [[palaquate]] until the [[Long Peace]] period at the turn of the nineteenth century. Its modern name, first used in 1854, comprises the adjective *psolic* from Greek ψόλος • *psólos* "soot, smoke" and the noun *aphlox* from Greek ᾰ̓φλόξ • *ăphlóx* "without flame".

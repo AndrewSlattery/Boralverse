@@ -1,0 +1,29 @@
+Kent (formally the Bond of Kent and [[Normandy]]; in Roun French **The Lien de Caint od Normandy**) is a state in southern [[Albion]] and northern [[Gaul]].
+
+## History
+### Pre-Conjuring Kent
+In the first millennium, Kent was first an independent English kingdom and then a vassal of [[Wessex]] through its ascension and decline, gaining power and some autonomy as Wessern might diminished. Similarly-positioned [[Essex]] had a long enmity with Kent, with King [[Athelwolf of Essex]] mounting the most successful attempted conquest in the tenth century.
+
+In the tenth century, King [[Jothey of Borland]] arrived in Kent with his queen and children, twice-exiled from [[Borland]] and [[Southbar]] following the Dane invasions of the island.
+
+### Pre-Conjuring Normandy
+Normandy was formed from Dane settlements in the north of Gaul in the ninth and tenth centuries. By the eleventh it had been established as a vassal of the [[Kingdom of the Franks]] as the [[Duchy of Normandy]], ruled by the [[Drengot]] family. It stretched from the Vire river in the west to much of [[Flanders]] in the east, and Norman in-migration southward to found towns such as [[Thelmass]] continued for some centuries.
+
+As the [[Dane Supremacy]] in the north waned in the tenth century, many left [[Sodrick]] and other Danish lands to the relative prosperity of Normandy. Moreover, Norman ships participated in raids along the coasts of [[Europe]] through this period, as far afield as [[Marsella]] in 946 N.
+
+### The [[Kernovan Conjuring]] and Afterwards
+The political union of English Kent with Normandy began in 1029 N with the Norman-led subjugation of the Petty Kingdom of Kent as the first step in the creation of the [[First Drengot Empire]] (also called the Constant Empire). This invasion was triggered by the death of the elderly patriarch [[Rodulf of Kent]], who had ruled since childhood for nearly eight decades.
+
+During the [[Wars of Fealty]] in the late fifteenth century, Kent was ruled by the Two Henries, the twin first-born sons of [[Vincent II of Kent|Vincent II]]. Kent came to a rapprochement with [[France]] to its south in the 1590s, just as the wars were becoming increasingly tangled and expensive.
+
+Alongside the cities of [[London]] and [[Paris]], Kent was the political centre of the [[Drengot Collusion]] of the late nineteenth and twentieth centuries, with many governmental buildings located in [[Roun]]. Among these was the [[Red House]], the popular name for the Kentish Ministry for Information. The activities of the Red House precipitated the [[Furore of 1961]], which in turn led to the collapse of leader [[Romney Darchild]]'s tinplate administration (via the Darchild memorandum) and with it the entire Drengot Collusion. The dissolution of the Collusion inspired the [[Kentish ostracon reforms]], which were subsequently used as a model in several polities around the globe.
+
+The state's professional [[lineball]] team won the global tournament only once, in 1965.
+
+## Notable Kentish people
+- [[Jan Tacqueray]], historian and linguist
+- [[Jockin Abiscander]], deixist historian and author
+- [[Romney Darchild]], last leader of the Drengot Collusion
+- [[Mark Deuthex]], author and intelligence agent
+- [[Vincent Margouille]], author and professional lineball player
+- [[Vréqueu Margouille]], professional lineball player

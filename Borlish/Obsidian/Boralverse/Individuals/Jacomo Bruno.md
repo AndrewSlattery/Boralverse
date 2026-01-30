@@ -1,0 +1,3 @@
+Jacomo Bruno (fl. 1821) was a minor landowner in [[Furlain]] in the early nineteenth century. He was the twin brother of composer [[Chiarina Bruno]], who is better-remembered.
+
+Jacomo fought in the [[Second German War]], and participated alongside Borlish troops in the shambolic 1821 [[Battle of Hulm (1821)|Battle of Hulm]]. During this service he met future mathematician [[Darren Brodus]], with whom he would strike a life-long epistolary friendship.

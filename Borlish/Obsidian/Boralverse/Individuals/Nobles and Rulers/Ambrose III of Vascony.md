@@ -1,0 +1,13 @@
+Ambrose III (17 March 1435–28 February 1518), also called Ambrose the Ascendant, ruled the Vascon Kingdom of [[Navarre]] and [[Aquitain]] ([[Vascony]]) from 1456 until his death at the age of 83. His father, [[Mark of Tolose]], predeceased him in 1453 when he was 18 years old, and so he ascended to the throne upon the death of his grandfather [[Ambrose II of Vascony]]  (after the brief and swiftly-resolved [[Sapling Crisis]]) three years later.
+
+At the start of Ambrose III's reign, the country was at its territorial maximum, having conquered northern [[Portingale]] (all of [[Galice]] and as far south as [[Braga]] and—nominally—[[Port Calè]]) and southern [[Burgundy]] (which is to say, enough of [[Provence]] to share a border with the Italian states of [[Genova]] and [[Lombardy]]) during the reign of his grandfather.
+
+Ambrose III is most remembered for ruling through the European discovery of the [[Novomund]] in 1471 by ships of the [[New Navarre Enterprise]], a guild established by royal decree in 1458 which aimed primarliy to solidify Vascon supremacy in the trade of North Atlantic fish through the [[Middlesea]]. British dominion over the Atlantic had long frustrated Vask fishing families, members of which still predominated in the aristocracy and held significant political power in Ambrose's court.
+
+The decades following the [[Novomundine Landfall]] led to new prosperity to Vascony, and in particular to Portingale, bringing the [[Vascon Ascendancy]] (which most historians mark as beginning near the turn of the fifteenth century) to its height.
+
+The king's decades-long acrimonious relationship with King [[Munir al-Hamdawi of Morrack]] (born in 1429 and reigning for a comparable length of time) grew from a childhood enmity to a bitter naval and martial feud, especially after the rest of Portingale fell to [[Morrack]] in 1457 N.
+
+The latter years of his reign were marked by decline: the Kingdom of Burgundy retook Provence in 1494 (sparking the 1497–99 [[War of Provincial Independence]]), and a decade later the remainder of Vascony's Middlesea coast was taken by [[Barcelon]].
+
+Ambrose III was the eldest son of [[Mark of Tolose]] and [[Margaret of Iscombe]]. He had an elder sister, [[Alexandra of Vascony]], and two younger siblings, [[Victor of Astorga]] and Natalia. Although he never married (the cause in part of the instability that plagued his later years), he is thought to have kept several lovers throughout his life, although there is no unimpeachable proof that any of the proposed candidates were his lover.

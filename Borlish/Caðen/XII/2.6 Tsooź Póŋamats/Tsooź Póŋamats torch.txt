@@ -1,0 +1,31 @@
+Grammar
+Tsooź Póŋamats is a verb-heavy language spoken in the cities along the Póŋamats river and its tributaries. It is VSO, with nouns proceeding adjectives, and possessors following possessed nouns without any special marking, e.g.:
+ktadźar dófŋ
+stage     king
+“the king’s stage”
+Verbs
+Verbs have 3 separate stems; an infinitive form, a perfective, and an imperfective. The infinitive form is not declined, and is often used in compound verb phrases or by itself as an adjective. It can also be used as a form of reduplication to show intensity or speed. All negative verbs, regardless of tense, use the imperfective stem. Perfective and imperfective verbs decline for person, as well as 2 different sets of tenses. The full verb template for perfective and imperfective verbs is as follows:
+stem – (negative) – tense – person
+Here are the affixes found in the text, in order of slot:
+-boí-/-foí- – imperfective negative
+-fóg – imperfective future
+-íśr/-źor – imperfective past
+-śit/-tś – perfective past
+-Ø – intransitive 3s
+-aaś – 1s>3s
+-aǒśn – 3s>3pl
+-aśn, -aaśn – 1s>3pl
+-ɣ - intransitive 1s
+-oǒś -  3pl>3s
+Relative clauses
+Relative clauses are introduced with the particle ú, and consist of one verb phrase.
+e.g.
+afs,     ú      gnífógaaś…
+trail    REL leave-FUT-1s>3s
+the trail that I will leave…
+Nouns
+Nouns are by default in the absolutive case, but the text also includes the singular locative affix -íd. The locative, in addition to physical location, can also be used to mark time or as a comitative. Most nouns don’t mark number, but a few have irregular plural forms.
+Phonotactics
+-Consonant clusters always show voicing assimilation from left to right (except for <ɣ>, which has no corresponding voiceless phoneme)
+-Fricative-stop sequences always metathesize (e.g. *dgaf-boí- ‘not stand.IMP’ > dgabvoí-)
+-An epenthetic <a> is added in the middle of a cluster of 3 or more consonants, or between a geminate and another consonant.

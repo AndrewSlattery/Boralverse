@@ -1,0 +1,51 @@
+﻿good-adverbz | 1.disj tribe-nom.const speech-nmlz-nom.const be.able-ind.prs.3sg speak-inf **do** |
+well, the speech of my tribe can be spoken,
+
+
+however 1.dsj village-nom.constr orator-nom.constr speech-nmlz.nom.constr cls7 ability-nom.constr-constr bad-pred.inan=adverb weird |
+however, at the sun across the sky the orator of my village is weirdly bad at speaking
+
+
+1s.disj friend-nom.constr-pl   | 1.nom neg-happy-nmlz-ind.prs-1sg ||
+my friends are dancing around, but I am not happy.
+
+
+1.nom and.also 1.disj friend.agent-nom.constr.fem  c and 
+Me and my friends (women) study demonology, and
+
+
+def.anim.sg shaman-dat group.anim-dat-constr and.also def.inan.sg village-dat give-nml-dat-constr house/shelter-dat-nom.constr-constr and.also
+to the group of shamans and also to the village’s gifted house and also to 
+
+
+the.aforementioned-dat soul-dat-constr hate-nmlz-animz 1.nom-pl cls6 each.other1-instr/com terminative.case 3.inan.disj find-nmlz-dat-constr | however 3.anim.nom fun-ind.prs.1sg ||
+that hateful soul we shared until we found it, but I had fun.
+
+
+1.nom believe-ind.prs.1sg 3.disj.fem 1.constr group.anim-acc-nom.constr-constr
+destination/purpose-acc-nom.constr-constr cls6 semblative.case opportunity-ess-acc-constr thought-???-nlmz-acc-constr cl6 in.front.of/after 3.anim 3.inan.constr 
+eye-pluperf-nmlz-loc-acc-nom.constr-constr ||
+I believe they (women) in my group were thinking about it after I had looked at it.
+
+
+def.inan.pl destination/purpose-dat-pl every-pl 1.nom 3.anim.instr/com move-ind.imp.1sg part.inan.sg lative.case aug-aug-fun-ind.imp.1sg-nmlz-abl ||
+All of these destinations I go to with them to have lots of fun there.
+
+
+1.dat-pl want/miss-ind.fut.3sg passive 1.disj home-nom.constr | however dist/aforementioned voice-prs.perf.3sg-nmlz-acc-constr passive ||
+We will miss our home, but it will be spoken of.
+
+
+1.nom aug-tired-pred.anim || 1.nom aug-want/miss-ind.prs.1sg 1.disj destination/purpose-loc-acc-constr ||
+I am very tired. I really want my purpose back.
+
+
+1.nom believe-ind.prs.1sg prox-acc trail/path-acc-constr cls6 def.inan.sg ancestor-ess-acc-constr trail/path-ess-acc-nom.constr-constr ||
+I believe this path is the path of my ancestors.
+/
+reverse=search-fut.gerund 1.disj dream/vision-acc-constr cls7 fear-nmlz-adj-animz cls5 happy-nmlz-fut.gerund |
+I must search for my nightmare in order to be happy.
+
+
+1.disj reverse=dim-truth-ind.imp.1sg | however 1.nom want/miss-ind.prs.1sg 1.disj house-acc-constr  present.time-loc ||
+I do believe this is true, but I still miss my home.

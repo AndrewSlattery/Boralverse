@@ -1,0 +1,120 @@
+Peoppaeq is not a natural language in-world, but a secret ritual language which grew out of a language
+game, designed to disguise meaning from non-initiates. It lacks verbs (or has only a few, depending on
+analysis), and also lacks a separate class of adjectives, which are morphologically identical to nouns. Every
+main clause is the expression of two or more noun-phrase arguments linked by directional operators
+which most resemble prepositions or noun-case markers:
+a essive, locative, comitative X ‘is’, ‘is at/by/in/on’, or ‘is with’ Y ESS =
+i allative X ‘is towards’ Y ALL >
+u elative X ‘is from’ Y ELA <
+The same three operators can be said to represent aspectual information, rather than spatial (though they
+are still glossed as noun case markers). ’s- form’ operators carry tense information in a similar way:
+Plain s- form (see below)
+a continuous present X ‘is doing [the action of]’ Y
+i prospective future X ‘is going to do [the action of]’ Y
+u perfect past X ‘has done [the action of]’ Y
+Translation into Peoppaeq requires significant reframing of perspective, focus and agency. In your
+translation out of it, the same is likely to be true. Ambiguity is common, and context often carries a
+significant semantic load. It’s still at an experimental stage of development, too. Good luck, be creative,
+and please ask for any clarification.
+
+Argument specification
+Many argument noun phrases must be given a deeper level of specification than in languages which use
+verbs. This is particularly true of animate agents, which are often drilled down to a body part with which
+they perform the action. To illustrate, consider the following example:
+‘A dog eats a bone.’
+In English we have two arguments, ‘dog’ and ‘bone’. But in Peoppaeq, with such limited operations, we
+cannot clearly convey the notion of ‘eating’ with these arguments:
+Gloss Spatial interpretation Aspectual interpretation
+dog ESS bone ‘a dog is with a bone’ ‘a dog has a bone’*
+dog ALL bone ‘a dog is towards a bone’ ‘a dog is going to get a bone’
+dog ELA bone ‘a dog is from a bone’ ‘a dog had a bone’
+[*NB. ‘A dog is a bone’ would also be a correct translation; only logic and context steer us from this.]
+We instead reframe the agent: we drill down our focus to the bit of the dog which is principally interacting
+with the bone, the dog’s mouth. There are various possible ways of arranging our arguments and
+operators, which each carry their own nuance:
+mouth-dog ESS bone ‘a dog’s mouth is at a bone’ ‘a dog is eating a bone’
+mouth-dog ALL bone ‘a dog’s mouth is towards a bone’ ‘a dog is eating / will eat a bone’
+bone ALL mouth-dog ‘a bone is going into a dog’s mouth’ ‘a bone will be eaten by a dog’
+etc...
+
+We could choose a different argument specifier, such as ‘tooth’, ‘throat’, or ‘innards’, to convey ‘biting’,
+‘swallowing’ or ‘digesting’. Another strategy is to further define the other argument:
+dog ESS food-bone ‘a dog is with a food-stuff [made] of bone’ ‘a dog has a bone (which is food)’
+This sentence might equally suggest ‘a dog is an edible skeleton’... Peoppaeq permits this ambiguity, but I
+have generally tried to specify my arguments more deeply than this for this task, to help with clarity.
+
+Topic and complement
+The two arguments could be called subject and object, agent and patient, etc., but I use the terms
+‘topic’ (the left-most argument) and ‘complement(s)’ (the other(s)). This reflects the fact that agency (who is
+doing something) is eroded when a verb is not actually present.
+The topic may be best translated as either a subject or object, depending on context. The key is to think of
+the animacy level of the arguments, and the directionality at play, and assume the most obvious agency
+which those factors imply. For instance, bones (when no longer attached to bodies!) are highly inanimate
+and generally don’t ‘do’ anything — whereas dogs do. Hence the dog is a more obvious candidate for you
+to translate as the subject of an active verb, even if semantic ambiguity exists.
+
+Simple concatenation: compounding, collocation & copulation
+Compounding
+Two nouns can be compounded. The second is best thought of as a noun in the genitive, or a noun in an
+adjectival role, adding further information to the first noun. There is a wide range of possible connotations
+of the precise relationship. Whenever a compounding occurs, sandhi will occur:
+leo ‘water’ + xeoh ‘haste’ = leoreoh ‘river’
+teoq ‘building’ + mah ‘big’ = teopmah ‘big building’, ‘mansion’, ’castle’, etc.
+cuh ‘bottom’ + teoq ‘building’ = cucteoq ‘foundations’
+Collocation
+Two nouns can also be collocated without formal compounding. This can be useful when the relationship
+between two nouns is relatively weak, or when a compound creates an established idiom — to avoid the
+idiom, the nouns are presented as separate words, without sandhi. It is also used with nouns in a
+prepositional role:
+leo xeoh — ‘quick water’ (when the interpretation of ‘river’ must be explicitly avoided)
+cuh teoq — ‘the underneath space of the building’, ‘beneath the building’
+Copulation
+Two nouns can be presented either side of the essive operator a which here behaves as a copula. The
+sense is no different from that achieved by collocation, except that the sentence can stand alone:
+leo a xeoh — ‘water is quick’ (or interpreted another way, ’water with haste’).
+
+Relativising operators (k-)
+The operators a i u can take k- making them ‘relativising operators’. A phrase whose operator is a
+relativising operator is subordinate to a phrase whose operator is a plain operator. In other words,
+relativising operators can turn a Peoppaeq sentence into a noun-phrase argument:
+leo ka xeoh — ‘water that is quick’
+
+leoreoh a leo ka xeoh — ‘a river is water that is quick’
+leo ki cucteoq u cae — ‘water that [goes] to the foundations [is coming] from the sky’ (perhaps ‘the
+roof is leaking’)
+Complex concatenation
+Triple concatenates come in any of ten forms. These are demonstrated by the following table (won
+‘woman’, pa ‘sacred headdress’, lae ‘pitch darkness’).
+1 2 3a 3b 4 5
+won pa lae won a pa lae won a pa ka lae
+won paljae won pa a lae won ka pa a lae
+womba lae won a paljae
+wombaljae womba a lae
+There is not space to describe all of these forms here, of which some would be rarely used, and negligibly
+distinct from others — but note that the lower the number (1-5) the more idiomatic an expression is.
+The Rule of Expanding Pairs
+Complex compounds are parsed in ‘expanding pairs’:
+womba = [won + pa] = [‘woman’ + ‘sacred headdress’] = priestess
+wombaljae = [[won + pa] + lae] = [[‘priestess’] + ‘darkness’] = priestess of darkness
+The first pair of nouns is interpreted as a fixed compound. The concept created by this compound is then
+paired with the next compounded word. This process can continue indefinitely:
+wombaljaevah = [[[won + pa] + lae] + mah] = great priestess of darkness
+Diverse concatenation
+Multiple different concatenation strategies can appear together. This allows expressions such as:
+womba laevah = priestess of the great darkness
+won paljaevah = woman of the big black headdress
+
+Tensing operators (s-)
+The operators a i u can take s- making them ‘tensing operators’. As noted above, a i u can by themselves
+suggest aspect information. s- forms build on this functionality, and generally focus on tense rather than
+aspect (though not necessarily). Tensing operators, where they appear, usually come before a topic, and
+can retense an entire sentence. ‘There is/are’ phrases are formed with the present tense s- form:
+su leo i teoq — ‘water fell towards the house’ / ‘it rained on the house’
+sa wommah — ‘there is a big woman’
+si wommah — ‘there will be a big woman’
+
+Temporal context operators (l-)
+la, li, lu can separate an expression of time-frame from the main clause. la indicates ‘at the same time...’ or
+‘while...’; li indicates ‘and then...’; lu indicates ‘and before that....’
+That should do for the most part.
+More information can be found in the glossary entry of individual words.

@@ -1,0 +1,13 @@
+Dunclothe (Merch /ˈdʊŋ.kluːð/, Welsh Dincluth /dɪŋˈklyːθ/) is a political and cultural region of western [[Albion]], located south of [[Scotland]] and north of [[Markland]]. From the [[Clothe]] river valley it extends down along the coast to the [[Bay of Morcambe]].
+## Toponomy
+Dunclothe takes its name from the early medieval petty kingdom known alternately as Alt Clud, Strad Clud, or Din Clud; these are ancient British or Guile phrases meaning "cliff, valley or fort of the river Clothe". It is uncertain whether the Dun- element seen in English names for the region reflects Old Irish *dún* "fort" or Old English *dún* "hill". 
+## History
+The British territory of Dunclothe was partially conquered settled by Dane invaders during the ninth century. However, the region was not subsumed into the [[Dane Supremacy]] as fully as neighbouring [[Sodrick]] and [[Northumber]] to the west and east respectively.
+
+Dunclothe appears to have controlled the fort at Eidin (modern Edinburgh) until it was sacked by Northumber in 928. Meanwhile Sodrick's power was waning; under King Roderick, Dunclothe conquered the isles of Arran and Mann by 942. The bride of King Radulf of Northumber (r. 951–), one [[Atre of Cheswic]], may perhaps be one of King Roderick's daughters.
+
+In the early eleventh century, Dunclothe was part of a confederation of Dane Kingdoms. However, this would shortly collapse with the rapid expansion of the [[First Drengot Empire]] to the south, which incorporated [[Northumber]] along with most of southern Albion. This period sees Dunclothe grow closer to newly-united [[Wales]], allies in opposition to Drengot power.
+
+In the fourteenth and fifteenth centuries, Dunclothe-led fisheries in the North Atlantic were a major exporter of dried and/or cured cod, selling it via the meshes of [[Borland]] and [[Vascony]] as far afield as the Eastern [[Middlesea]]. This trade was a notable source of specie for the vicinity.
+
+The Kingdom of [[Britain]] was founded in the fifteenth century, formalising the suzerainty of Wales over the tallaths of [[Devon]] and Dunclothe.

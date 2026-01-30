@@ -1,0 +1,10 @@
+New Skies, Old Stories (originally published in Provincial French as *Novè Cial, Anzan Conte*) is a work of popular history detailing the origins of the various threads of [[Parachthony|parachthon]] fiction. It was written by Simon d'Estiala and published by [[Prindor Marsillès]] in 1980. Its thesis is that many of the tropes often considered to have been invented by particular parachthon authors are in fact simply examples of existing tropes used in new settings.
+
+## Excerpts
+… in her twilight years she campaigned for reforms to Saxony's inheritance law, ultimately unsuccessfully, although her political society would (after her death) spearhead the suffrage movements in Saxony, Denmark, and across the Latin republics.
+
+The Voidtale craze sparked by Sneider's seminal work persisted until the Second German War, when its optimistic and exploratory character dropped rather rapidly out of fashion. Nonetheless there are examples generally counted as Voidtale works to be found later: most notable is Narayanan's series of landscapes depicting the surfaces of other planets orbiting our Sun. Importantly, he portrays these places as barren and inhospitable, in stark contrast to the xenic worlds of Sneider or her imitators. This illustrates the shift in tone in many areas of art following the war, as industry swept the world and the age of the Global Workshop dawned.
+
+It is perhaps foolhardy to attribute the decline of Voidtale trevolds solely to the gloom of post-war Europe. We might say, for example, that the idea of exploring new lands and meeting new civilisations had lost its shine, with the opening of Caddisow leaving few “mysterious lands” to discover, and the developing steeple-mesh allowing people everywhere to communicate far more rapidly (in particular, to discover that distant nations were often much less exotic than one imagined!).
+
+In any case, when it comes to parachthon romance, the middle of the nineteenth century was somewhat of a nadir. Even once Europe had recovered and the general prosperity of the Workshop decades had truly got going, the…

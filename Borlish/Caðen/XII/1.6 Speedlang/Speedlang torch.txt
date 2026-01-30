@@ -1,0 +1,120 @@
+Phonology
+As a big part of the language’s aesthetics is the phonology, I decided to include a short summary of it below. How tone is romanised is important to know as tone change has some grammatical uses.
+/n m/ <n m>
+/p t k/ <p t c>
+/f s ʃ ɬ ç x h/ <f s sh l xh x h>
+/w ɥ j ʀ/ <w y j r>
+All the fricatives except for /h/ can occur as syllabic. If it happens, the fricative is always pronounced long but in the spelling this is still marked with a single consonant.
+/ɪ ʏ ʊ/ <i ų u>
+/i y u/ <ii ųų uu>
+/ɛ œ ɔ/ <e ǫ o>
+/ɪe̯ ʏø̯ ʊo̯/ <ee ǫǫ oo>
+/a/ <a>
+Every vowel and syllabic consonant can also have one of two tones, a rising tone and a falling tone. The latter is marked with a tilde above the letter (or both the vowels), while a rising tone is marked with a breve.
+Stress is always on the first syllable.
+
+Nouns
+Nouns are divided into four major noun classes and have an obligatory affix that marks that specific noun class. The noun classes are based on the nouns’ typical movement: moving by itself, being moved by others, not moveable and nonexistant (e.g. abstract things like “freedom”). It is also possible that a noun can exhibit movement not typical for its kind, but that will be explained further below. If a noun behaves like it usually does, the affix is added in front of the noun.
+N1: xhiw-, e.g. xhiwoo “woman”
+N2: xũũw-, e.g. xũũwyųų “hand”
+N3: i(j)-, e.g. icu “mountain”
+N4:  xha(w)-, e.g. xhalǫ̆ǫ̆ “currency”
+A lot of nouns can be part of multiple classes but have a slightly different meaning. One example would be the above xhalǫ̆ǫ̆ “currency” and xũũwlǫ̆ǫ̆ “money”.
+As mentioned above, if a noun has a different movement than one would expect its kind to have, different rules are applied. First, a prefix is added for this specific noun depending on its unusual movement type and then, a suffix is added to the noun stem that signifies the nouns normal behaviour.
+For the prefixes the following affixes are used:
+N1: l-
+N2: x-
+N3: xhu-/xhw-
+N4: a(w)-
+The suffixes use these affixes, but notice that N1 and N4 merge:
+N1: -xh
+N2: -xũy
+N3: -(j)i
+N4: -xh
+For example, if a woman is paralysed from the neck down, she now becomes part of N2 as it is still possible for other people to carry her around. This woman would then be a lwooxh and not a xhiwoo. If there is fairy tale with a mountain walking away, it wouldn’t be an icu, but instead a lcuji. Nouns modified by a negative indefinite determiner are automatically converted into N4 nouns.
+There is the need for two slots of suffixes to follow the nouns which are added after the suffix stating the nouns expected class. The first slot is compromised of three suffixes which tell the listener whether this specific noun’s usual movement is slower or faster than other nouns of its kind or if it is just as fast.
+
+slower: -pǫ̃
+equal: -∅
+faster: -sh
+The second slot is used by three suffixes that tell whether the noun’s current movement is slower or faster than its own usual speed or if it is just as fast as it normally is.
+slower: -l
+equal: -∅
+faster: -w(a)
+If the “equal” suffix is used for both slots, than the result is not that there is no suffix, but instead a special -w(a) is used as a suffix.
+So if we go back to our fairy tale with the moving mountain and we say that he is one of the fastest walking mountains but today he has a bad today so he is walking quite slowly. In that case, it would be a lcujishl. A normal mountain is just as immovable as other mountains and that will never change, so -w(a) has to be used and that results in icuw.
+To form plurals, an additional -a- is infixed before the noun stem and the class prefix. If the noun stem starts with a vowel, the infix turns into -ă- and is followed by the first consonant of the class prefix, e.g. xhiwăxhoo(w) “women”. When the class prefix ends in -a, then the result is -ăw-.
+The obligatory suffixes for relative speed have to be applied to plural nouns, too. Simply adding them however would state that everyone or everything in a group would behave the same. For example in a group of people, this is often not the case. In that case, one has to look at the majority of the plural group and describe their relative speed. To form these plurals, the two suffixes have to be switched around, so first come the -l/-∅/-w(a) suffixes and then the -pǫ̃/-∅/-sh ones. So xhiwăxhooshwa is a group of women who are all faster than usual women which is also moving faster than usual, while xhiwăxhoowsh is a group of women of which the majority are faster than other women which are also moving faster than usual.
+Collective nouns are also commonly used by suffixing an -s to the end of the noun stem. However, they also take the plural infix -a-. These nouns are often very abstract in meaning and therefore turn all nouns into class four nouns, meaning icuw “mountain” becomes ăwcusiw “mountain range”. If these collective nouns show movement outside of what is typical of class four nouns, then the normal prefix for the current noun class is prefixed in addition, e.g. xăwcusiw “a mountain range that is movable”. Due to collectives like “mountain range” not being abstract nouns like “masculinity”, xhwăwcusiw and ăwcusiw can both be found for “mountain range” depending on the speaker.
+For genitive constructions, a prefix is attached onto the possessor. The prefix depends on what noun class the possessed noun belongs to. 
+N1: õ(w)-
+N2: (ă)xh-
+N3: (ă)w-
+N4: (ă)w-
+The order of the possessed and the possessor is free, so that (xhw)ăwcusiw ăwxhiwăxhoowsh and ăwxhiwăxhoowsh (xhw)ăwcusiw are both eligible to mean “the mountain range of the faster-than-usual women of whom the majority are faster than other women”.
+While the above noun forms are all used for the subject of a sentence and other cases in which the noun does not function as an object (such as in adverbs of time and place), there is also a generic oblique case for objects. This oblique case is generally formed by changing the tone of the vowel. If the first vowel of the noun stem has a rising tone, the tone disappears to form the oblique case. If the first vowel does not have a tone, the oblique case changes that vowel to have a falling tone. For words that have a falling tone in the first syllable, a na- is prefixed before the noun stem (and before the plural stem). The vowel disappears if the noun stem starts with a vowel. So in short: ŏ > o > õ > nõ.
+The language also has suffixaufnahme, so the possessor has to agree in case with whatever it possesses. 
+
+Verbs
+Similar to nouns, verbs’ inflection also heavily relies on things relating to speed, movement and its change during the course of a verb’s action. The first of those are the aspects, inchoative and perfective, which are formed either by modifying the verb stem, suffixing or in some cases by suppletion. 
+The perfective is formed by changing the tone of the verb stem’s last vowel in the same way as the oblique case is derived in nouns, therefore: ŏ > o > õ. For verb stems ending in falling tone, the vowel loses the tone, and –wṼ is added, with V being an echo vowel of the same quality. An exception are historically long vowels (still marked with double vowels in the orthography) which become short for both the stem vowel and the echo vowel, e.g. cĩĩsh “to sneeze” becomes cishwĩ “to sneeze (perfective)”. The perfective sometimes has a perfect meaning and in addition, in a lot of constructions it can convey a more irrealis meaning due to historical development.
+The inchoative’s formation also features tone change on the last vowel of the verb stem, but it goes in the opposite direction. Falling tone becomes no tone, no tone becomes rising tone and rising tone does not change, so õ > o > ŏ. However, forming the inchoative is always accompanied by shortening historically long vowels and infixing/suffixing -yų- to the last vowel of the stem, e.g. cĩĩsh "to sneeze" becomes ciyųsh "to sneeze (inchoative)".
+The two aspects can also be combined by forming the inchoative and then regularly applying the rules for forming the perfective form. This has the irregular function of forming a negative perfect.
+An obligatory set of prefixes is one relating to the speed of the action and how it changes through the course of the action. Not all types are represented in the language so the ones used are (1) unperceivable/unknown, (2) unchanging, (3) slowing down/speeding up linearly or (4) exponentially and (5) varying.
+S1: ǫ(h)-
+S2: xuu(h)-
+S3: na(h)-
+S4: xhuuj-
+S5: wiw-
+As for (3) and (4), two variants of the affixes exist. For a slowing down speed, a rising tone has to be used for the prefix and for speeding up, a falling tone is used on the first vowel of the prefix. In some cases, (1) can also have tone, but it is not obligatory here. The use of tone here is merely speculation of the speaker.
+Like with nouns, verbs have an obligatory marking used for determining how fast the action happens compared to other instances of this action. This is marked by infixing/prefixing the relative speed to other actions into the above prefixes. They are similar to the noun suffixes of similar function.
+slower: -(u)l-
+equal: -∅-
+faster: -(u)w-
+They are placed before the vowel of the prefix or in the case of (1), simply prefixed to the vowel. Tone changes that apply to the prefix are only added after infixing these morphemes, so that the optional -u- often takes the tone. Also note that these suffix do not have to coincide with the similar suffixes on nouns, e.g. xhiwoopǫ̃l wuwiwcĩĩsh "the slower-than-usual woman that is slower than other women is sneezing at varying faster-than-usual speeds".
+If during an action, a specific speed is reached, be it the constant speed of the action or the specific speed just happens to be crossed during accelerating or slowing down, a prefix has to be attached before the affixes indicating the speed change. If none of these specific speeds is exceeded, no affix is used. Only the highest speed has to be marked, so only one of the prefixes is ever used.
+exceeding speed limit: ay-
+top speed of common pigeon: c(o)-
+speed of sound: h(ǫ̆)-
+speed of light: woo(h)-
+Most of the time, the ay- suffix is only found when talking about speeding cars, but other examples would be running in a school hallway or the movement of something that is not allowed to move.
+With all the prefixes done, the next step are the suffixes which focus on more classical grammatical things as well as movement.
+The first suffix that immediately follows the verb stem just adds a theme vowel onto the verb stem, but the vowel depends on a specific property of the verb and that is if the verb includes movement. The three suffixes are for (1) locational movement (e.g. driving), (2) stationary movement (e.g. writing) or (3) no movement (e.g. seeing).
+V1: -a-
+V2: -ii-
+V3: -u-/-∅-
+No theme vowel is used for (3) if the verb stem already ends in a vowel. The other theme vowels replace the stem’s vowel if the stem ends in one but adopt the replaced vowel’s tone. The same verb can sometimes take different theme vowels in some cases. An example would be wŏŏm “to drive” which generally appears as wŏŏma but can - in the case of playing a racing game on a computer – appear as wŏŏmii.
+The next few sets of suffixes might be considered special in how they can interact with each other, so they will be shown first and then their interaction will be explained.
+The first set of suffixes are the affirmative and negative markers. Both of them are optional and using neither will simply create an affirmative statement. The affirmative affix is more of an “indeed” kind of affirmative, but it is also used when replying to yes/no-questions.
+affirmative: -axh
+negative: -ĕm
+Slot number two is about direction of movement and is even though it is very frequently used set of affixes just an optional slot. Only one of them can be used at a time.
+up: -ish
+down: -ųn
+forwards: -iiy
+backwards: -um
+sideways: -eel
+circular: -ew
+Next is the subject/object slot that has to be used whenever the subject or the object of a sentence is dropped in its full form. The language does not allow to drop both subject and object at the same time and requires one of them to be used in their full form. So if the subject in a sentence is dropped, the affix marks the subject, but if the object is dropped, then the affix marks the object. 
+1PS: -at
+2PS: -ix
+N1: -ixh
+N2: -ũũx
+N3: -ij
+N4: -axh
+An example to put it into perspective: xhiwoow wiwpãshiixh “the woman slaps it” where woman is the subject, versus xhiwõõw wiwpãshiixh “it slaps the woman” with woman in the oblique case.
+The last suffix is a single optional interrogative suffix for yes/no-question, but it is obligatory whenever a question word is used. This suffix is simply –(h)ǫ̆.
+The order of the affix slots is in the exact same order as they were listed, so: aff/neg – direction – sbj/obj – question. The special thing about them is that they can change a little bit from their usual order to put stress on a specific suffix. Whatever suffix is emphasised by the speaker has to be put at the very end of the verb while the rest stay in their usual order. Another feature that all of the suffixes have in common is that their vowel is deleted if they are directly attached to the verb’s theme vowel. They also delete their vowel if they follow the interrogative marker, e.g. wiwpãshiitǫ̆ “do I slap?” and wiwpãshiihǫ̆t “do I slap?”.
+If a second verb would use the same suffixes as the verb before, the whole string of affixes can be replaced by a -wa. The same can be done for prefixes in which case the set of prefixes can be replaced with wa(h)-.
+There is also a very common participle suffix which is -(t)an (the “t” is added if it is suffixed to a vowel or a semivowel). It is very similar to the -ing in English but also has several other uses such as being used in a more adverbial way or to make the verb’s meaning more subsidiary or insignificant. For the latter, this very often happens with attributive verbs. The participle form can either stand before a finite verb or after it.
+The same participle suffix is also used to create a number of important grammatical words like prepositions and demonstratives from verbs. Due to the fact that a lot of the now common affixes were not required in earlier stages of the language, these words are just the bare verb stem with the participle suffix affixed to it, e.g. -lix- “to use” become lixan “with (instrumental)”. However, some suffixes can be found from time to time so that words like lixixhan “with it” or lixĕman “without” can be created as well.
+More complicated verbal expressions are either formed by serial verbs or by turning the verb into a noun by adding -(a)t at the very end of the conjugated verb and is then used with all the necessary noun affixes. This suffix is irregular in that it takes the tonal change for case formation.
+
+Miscellaneous
+The syntax of the language is generally SOV. Adverbs that are not derived from verbs are either put at the very beginning of a sentence or after the verb they relate to. Verbal participles modifying objects generally preceed the noun, but do not have to.
+The language makes use of double negation, so negative indefinite pronouns are always used with the negative form of a verb.
+Noun modifiers such as numerals that do not derive from verbs are put before a noun.
+Pronouns behave like nouns except that they do not use the -pǫ̃/-∅/-sh suffixes.
+Location is expressed with genitive constructions and body parts, so that “in the house” is expressed by saying “house’s heart”. Direction to a place just puts the same construction into the oblique form. 
+Compound nouns can be formed by just sticking to noun stems together with the head second. The noun then belongs to the class of the head.
+

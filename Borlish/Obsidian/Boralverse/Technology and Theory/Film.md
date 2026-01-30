@@ -1,0 +1,1 @@
+The first then-called "house of odyssey" to sell tickets to the public on a regular basis was established in [[Boxa]] in 1912. One of the venue's first great successes was a recording of a ballet concert accompanied by the [[St Hurroco Youth Orchestra]] of [[Furlain]].

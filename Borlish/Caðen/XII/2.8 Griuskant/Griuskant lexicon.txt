@@ -1,0 +1,58 @@
+aeid; out
+aesk; 1SG
+az; is
+bleza; crack
+coik; road
+daeki; big
+flomi; small
+guiski; white
+guldi; dark
+groug; place
+gysha; dance
+iant; sky
+iuk; in
+jiska; see
+jursh; heap
+kauza; take
+koen; shall
+krui; blue
+kunda; stand
+mulk; shard
+oejza; overlook
+pesh; sense
+plud; group
+raes; 3SG
+saeth; king
+shuig; night
+shur; NEG
+talsi; purple
+tas; side
+thaeirg; sibling
+thar; moon
+tuloke; traceur
+uarki; old
+ut; but
+xask; afterward
+vals; jewel
+vazh; attribution particle
+vozh; during
+yada; burn
+yuhi; fast
+yurda; walk
+zaeil; time
+zhaed; reversor COMP
+zhas; anti-trigger. It removes the effects of triggers.
+zhed; reversor REL
+zher; then
+zoiroek; gold
+
+esh+; reverse prefix
+oez+; intra prefix
++a; verb suffix. Susceptible. It is an active trigger by default, unless interrupted by
++n; passive suffix. Susceptible. It is a passive trigger by default, unless interrupted by
++d; circumstantial suffix
++ae; possessive suffix
++e; source noun suffix. Susceptible. Epenthesis.
++s; collective plural suffix
++i; adjective suffix
++t; phasal TAM

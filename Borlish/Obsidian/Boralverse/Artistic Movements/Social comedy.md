@@ -1,0 +1,1 @@
+The literary genre of social comedy has its origins in the late 1910s, with authors like [[Dorotha Quistack]] and [[Judeta Barracin]] adapting elements of prior genres like lovetales and adolescences. Social comedy is characterised by plots with low stakes, an emphasis on personal friendships and enmities, and generally either rural or low-class urban settings.

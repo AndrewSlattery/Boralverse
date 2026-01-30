@@ -1,0 +1,69 @@
+Morphophonology
+Waľavaľwa (hence, Walyavalywa, because I cba to type those <ľ>s) has a pitch accent system. The most important things you'll need to know about this for this torch are:
+every word has exactly one accent
+rising accents are marked with an acute accent, and falling accents with a grave
+the vowel <e> (schwa) is never accented
+by default, there is a rising accent on the first eligible syllable
+if there is a rising accent on the first syllable, then it is not marked in the orthography
+unless otherwise specified, adding affixes to a word does not move the accent
+
+There are a few other bits of morphophonology that are globally relevant.
+if <e> is followed or preceded by another vowel, it is deleted.
+if not otherwise specified, if two vowels would be put in hiatus, they become separated by a glottal stop <ʼ>.
+doubled consonants are reduced to single consonants, with the following exceptions:
+doubled y becomes j
+doubled l becomes r
+doubled v becomes m
+Morphology
+Nouns
+This is the easy part.
+
+absolutive: Ø
+ablative: pak- (paŋk- with loss of inital nasal before nasals; pak-r > pat- (before back V), paz- (before front) V; pak-y > paj- (before unstressed), pac- (before stressed); pa- before a stop or lateral (l, ľ))
+allative/dative: tal- (tale- before most C; tale- + N -> talej; tale- + l,ľ,r -> taľ)
+ergative: ľay- (ľay-w- becomes ľav-)
+genitive: ya- (ya-w- -> ya-v-; ya-à -> yá)
+comitative: ra- (same sandhi rules as ya-)
+Pronouns
+I think the only ones you need to know to translate this text are:
+ya G1/G8 genitive
+rila 2SG focus
+Verbs
+The subject is marked on an affirmative verb and the object/intransitive subject is marked on a negative verb. (The transitive subject may also be marked on a transitive negative verb but fortunately you don't have to deal with that in this text.)
+
+The important subject markers for this torch are:
+ju- 1PL.EXCL (jaw- before a, ju-i -> jay, ju-u -> jawa)
+ri- 2S
+a- G1/G8/G10 (w- before a)
+pa- G2
+ri- G3
+
+The one negative object/intr. subj. marker you should need to know for this text is:
+-v G2
+
+Imperative/hortatives use the imperative/hortative stem (given in parentheses in the lexicon; if not given, assume it's the same as the normal verb stem). They use suffixes where the accent is moved to the suffix. Here's the only suffix you need to know in this torch:
+-letáw 2S imperative, distal object
+
+Verbs can take a large array of suffixes as well. These include:
+-(w)aŋa towards the sea/coast
+-la inland
+-tway andative
+-cava venitive
+-vazir with difficulty - ongoing
+-zilay with difficulty - completive
+-"ubay perfective
+-"u non-finite
+
+The " marker in those last 2 indicates that the final consonant is doubled (this only has an effect for certain consonants as described in the morphophonology section), or if the word ends with a vowel, then a glottal stop is inserted.
+Syntax
+Walyavalywa is predominantly SVO, uses prepositions, and puts the noun first in the NP.
+
+In verb phrases with auxiliaries, the (first) auxiliary comes first, marked for person, polarity, and imperative/hortative. Subsequent verbs in the chain get the non-finite marker. The main content verb will be marked with andative/venitive and similar affixes, if applicable.
+
+Possessors follow the possessee in the genitive case. Appositives follow the head noun in the absolutive case.
+
+Polar questions are formed by putting the particle ki before the verb. Wh-questions are formed by ending the sentence with li and then the wh-word in question.
+
+Relative clauses can be introduced with the particles ima or wa, but they are optional in clauses of a single word. Many expressions that would use adjectives in English use single-word relative clauses in Walyavalywa, e.g. tanwáqa amitwaŋwa (tanwáqa an-mitwaŋwa) anteater.7 7.SUBJ-clumsy "clumsy anteater".
+Semantics/Pragmatics/Culture
+The Valywa people are an indigenous group living on a set of islands in Quaxin Xun. Their life has been seriously affected by interactions with colonists from the mainland, who are predominantly ethnically Hlung. Hlung culture is considered prestigious, and Valywa culture has a connotation of being backwater.

@@ -1,0 +1,3 @@
+**Raymond al Mustafa** (fl. 1750) was a mathematician and philosopher. He was resident for some time in [[Barcelon]] under the Duke of [[Aragon]]'s patronage. During this time he corresponded with fellow theorist [[Rachel Desselut]], and their letters outline some of the concepts that would go on to define the field of methodics.
+
+He spent his latter years travelling, eventually settling in [[Brasil]]. His grandson [[Fabian Mostàf]] became an eminent astronomer at the [[Paratzon]] Observatory, using mathematical techniques developed in part by Raymond (like the waveform display to compute celestial orbits).

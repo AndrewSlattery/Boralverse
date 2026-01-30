@@ -1,0 +1,3 @@
+Wings Afire (**Ale in Fiamme**) is an opera written by Venetian [[Chiarina Bruno]] and first performed in the [[Verona]] Arena in 1824. It was the first work staged in the Verona Arena since it was shuttered at the outbreak of the [[Second German War]].
+
+The opera is a retelling of the legend of Icarus which takes place entirely after the events of the myth, with references to the dead Icarus in the dialogue. It follows the matron of a clothiery who meets a grieving Daedalus; she helps him to rediscover the joy of invention. The opera's music features the low-pitched mournful melodies of the [[Graveyard Fiddlers|graveyard fiddlers]] from Borlish folklore; Bruno is said to have heard of them from her brother [[Jacomo Bruno|Jacomo]].

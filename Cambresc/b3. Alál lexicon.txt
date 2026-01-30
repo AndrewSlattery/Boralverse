@@ -1,0 +1,104 @@
+NOUNS
+
+AGT	   OBL	    PAT
+hamıuṭ	   hamuṭ    hamàuṭ	  carved stamp, seal (used primarily by nobles)
+hıẓáíḳ	   hıẓâauḳ  hıẓâuḳ	  sea air, ocean wind
+hızàıx	   hızàaxı  hızàıúx	  coastal town
+hraẓísa	   hraẓàs   hraẓrùsa	  paperwork, papers
+húla·laìl  húla·lál húla·lual  	  'foreign' or 'barbaric' language
+húsaım	   húsam    hûsam	  institution, guild, house
+hùṭıus	   hùṭus    hùṭàus	  chandler, candlemaker
+kazìaìt	   kazǐat   kazìuat	  dawn
+kaìm	   kám	    kuam	  2nd person formal/honorific
+ḳaìṭ	   ḳáṭ	    ḳuaṭ	  luggage, suitcase
+kamıut	   kamut    kamàut	  day
+ksıus	   ksasu    ksús	  queue, line
+ḳùmıum	   ḳùmum    ḳùmàum	  wax stamp (common)
+laım	   lama	    laúm	  boat
+laìl	   lál	    lual	  language
+laktaım	   laktam   laktàm	  port, harbor
+lıuḷ	   laḷu	    lúḷ 	  smoke
+lumaık	   lumak    lumàk	  traveler
+màhaıḳ	   màhaḳ    màhàḳ	  veil
+maıḳ	   maḳa	    maúḳ	  face, fellow, person
+mìz	   mıáz	    muzı	  nobleman, lord, lady
+mlûsımaır  mlûsımara  mlúsımaúr   prince, princess, high-ranking noble
+mrıẓmaıṭ   mrıẓmaṭ  mrıẓmàṭ	  merchant
+saìl	   sál	    sual	  3rd person
+saìm	   sám	    suam	  1st person casual/humble
+sız	   sazı	    sıúz	  moment, time, period
+ṭaìḷ	   ṭáḷ	    ṭuaḷ	  land, region, country
+ṭıḳ	   ṭaḳı	    ṭıúḳ	  servant, maid
+uzìuḳ	   zuáḳ	    zuḳ		  mother
+zâaxaìz	   zâaxáz   zâauaz	  coast, shore
+
+VERBS
+Verb		Attr.	Trans.	Definition
+aǐtr_t_mr	a	IN	'be peevish, vexed, frustrated'
+h_h_ḳàma	á	T	'breath in, take a breath (of something)'
+h_m_zta		á	T	'leave, depart (from somewhere)'
+h_xmaz_ı	í	T	'be the only one left (somewhere), remain alone (somewhere)'
+ìmz_k_at	í	T	'be left behind by, be abandoned by, miss (e.g. a train)'
+îtr_t_ḳmıka	a	IN	'be irritated, upset, frequently annoyed'
+ıùtıtl_r·tlır_ar  í	T	'tend to thoroughly confuse (someone)'
+k_h_m·ṣaxatm	á	IN	'be loud, crowded, busy with people, bustling'
+kl_m_aı		í	T	'improve'
+(ı)ḳ_m_aı	í	T	'travel to (somewhere)'
+ḳm_(r)_í	á	IN	'entail, mean' [ḳmaktǎı X Y: 'X does not necessarily mean that Y']
+l_l·lal_ı	á	T	'be fluent in (a language)'
+lk_ḷ_àx		á	T	'step (into/onto a room or location), get on/off (a vessel, vehicle, or animal)'
+m_h_zím		ú	T	'realize, come to understand'
+m_r_àḳma	í	T	'gather up (miscellaneous things)'
+mz_ḳ_raaı	û	IN	'sit next to' [conjugates as intransitive; the thing being sat beside appears in the oblique case]
+r_k_ax		ú	T	'choose'
+r_s_m		á	IN	'be local'
+tl_h_í		í	IN	'be beneficial, good luck, good fortune'
+t_mǐt_m		a	IN	'be short, squat'
+t_s_àx		á	T	'go to (a place)'
+(a)t_sí		á	IN	'exist, be there'
+t_s_suí		á	IN	'exist in excess, be too much'
+s_ḷ_àx		á	T	'say' [s_ḷ_àx muas: 'say a preceding quotation']
+uǐḷ_m_mt	u	V	'be familiar to (someone)'
+z_h_mám		ú	IN	'be strange, foreign'
+
+PERSON MARKING
+Subject.Object
+i.3s  alù
+2s.3s ûu
+2s.4s ùı
+3s.3s a, ı, u
+3s.3p ıkì
+3s.4s ıà
+4s.3s îı
+4s.3p ıǔr
+
+4s intrans. ì, ıǎ, ıǎr
+3s intrans. aı, ıu
+3p intrans. ıâ
+
+MISC MARKING
+àmu	   interrogative deontic, 'is it the case that X should occur?'
+îka	   'be able to X'
+kú, kû     evidential past, information inferred in the present about a past event
+lı	   past tense
+lılıı(h)   exclusive past, information that is no longer true
+ùl	   emphatic
+
+PREPOSITIONS
+á	copula (set membership)
+ahà	in the opinion of
+ıs	during, while
+ız	with, holding, wearing
+uḳra	moving out from, tasting or smelling of (idiomatic)
+ut	at, in, on, general locative
+ù	copula (identity)
+xa, za	genitive
+
+MISC
+aràṭ		so, anyway, 'well then'
+ıs·ms sazı 	now and then, from time to time
+tı·m·r		anyway, regardless, in any case
+lımı·ms		just/immediately before
+ḷí·m·r		however
+su·maús		or, alternatively
+xa·... ma	why, for what purpose

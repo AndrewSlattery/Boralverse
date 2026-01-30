@@ -1,0 +1,136 @@
+Overview
+Osroene is largely VSO, with newer information being placed after the verb. Old/non-important information may also sometimes precede the verb. Many conjunctions/adverbs preferentially appear in the “Wackernagel” position, i.e., after the first constituent. Pronouns tend to appear as clitics attached to various prepositions, conjunctions, and particles. Inflected prepositions tend to precede the verb. Adjectives/modifiers tend to follow the noun (phrase). There is a limited system of gender agreement restricted to human feminine nouns.
+
+Nouns and Adjectives
+Osroene does not use articles.
+Most nouns end in -a or ō, which is replaced by -ē in the plural.
+Some nouns derived from participles (usually ending in -a, -as) have plurals in -atē.
+Feminine nouns ending in -id have plurals in -adē.
+Irregular plurals are listed in the lexicon where relevant.
+
+Adjectives agree in number and gender. Those ending in -a, -ō follow the same pattern as nouns. Adjectives agree in gender with human feminine nouns, using -id/-adē as above.
+Many common adjectives end in -ōnē, whose plural is in -ōn.
+
+(Note that <ē> is simply an orthographic variant of <i> used word-finally; it reverts to <i> when further suffixes are added).
+
+Genitive Phrases
+Genitive phrases are marked by <m> which is roughly ‘of’, or similar to Romance ‘de’.
+E.g.: <parna m xanyštar> house GEN king ‘the king’s house’
+
+In some lexicalized phrases/compounds, the <m> is ommitted:
+E.g.: <bith kthōbō> house book ‘school’ (i.e., house of books)
+
+Pronouns
+Pronouns have 4 main forms: Subject/Disjunctive; Object Clitic; Particle Clitic; Possessive. Object clitics do not appear in this text. The particle clitics are attached to prepositions, conjunctions, and other miscellaneous words. The Subject/Disjunctive forms can also optionally appear with any of the cliticized forms for further emphasis.
+
+The only Subject/Disjunctive pronoun in this text is <pē> ‘she, her’.
+
+The Pronominal Clitics attached to prepositions/particles appearing in this text are:
+-adē : 2SG feminine
+-(e/a)n : 3SG animate (no gender distinction in clitics)
+-(e/a)b : 3SG inanimate
+-ōn : 3PL animate
+
+The vowel before the clitic can vary depending on which word it is attached to; the vowel used with clitics is shown in the lexicon.
+
+Prepositions with pronominal clitics preferentially precede the verb.
+<xar kfōn epē kthala> xar from.3PL take.IMPFV.3SG jug | ‘s/he took the jug from them’
+
+Pronouns have separate possessive forms, which appear after the noun.
+<mi> ‘my’; <si> ‘your’; <-š> ‘his/her/its’; <šoun> ‘their’.
+
+Note that 3SG.POSS <-š> attaches directly to nouns.
+
+Some examples:
+<parna mi> house 1SG.POSS | ‘my house’
+<parna mi amou> house 1SG.POSS 1SG | ‘*my* house’ (with further disjunctive pronoun)
+<ten> to.3SG.AN | to him/her
+<ten pa> to.3SG.AN 3M.SG | 'to *him*' (with further disjunctive pronoun)
+
+Verbal Morphology
+Verbs have three main stems: imperfective, perfect, and participle. The perfect and imperfective forms inflect for person and number. Verbs also have two voices: active and middle, although these can simply be treated as two conjugation classes as the middle has largely become lexicalized.
+
+In this text, only 2SG and 3SG appear (with one instance of 1pl). The endings are:
+
+Active Imperfective: -a, -ē, -ou (2SG and 3SG identical); -ōn (1pl)
+Active Perfect: -a (3SG)
+
+Middle Imperfective: -(a)rē (2SG and 3SG identical)
+Middle perfect: -(a)r (3SG)
+
+In the lexicon, imperfective and perfective verbs are listed according to 3SG, e.g. <epē, afka> ‘to take’. The participles listed as their participle form and marked as such (prt.).
+
+Verbs: Semantics, Pragmatics, and Modifying Particles
+
+The imperfective is preferentially preceded by a particle. The following appear in the text:
+
+<i + IMPFV> indicates a non-past reference, i.e., present, future, habitual.
+<i epē kthala> PRT take.IMPFV.3SG jug | ‘s/he takes the jugs ~ will take the jug’
+
+<xar + IMPFV> indicates a preterite.
+<xar epē kthala> PRT take.IMPFV.3SG jug | ‘s/he took the jug’
+
+<kiš + IMPFV> indicates a past-imperfective.
+<kiš epē kthala> PRT take.IMPFV.3SG | ‘s/he was taking the jug’
+
+With active verbs, the perfect corresponds to a standard perfect :
+
+<afka kthala> take.PRF.3SG | ‘s/he has taken the jug’
+
+With verbs that carry a stative meaning, the perfect more often corresponds to a current state:
+
+<sōgar xanyštar n parna> remain.PRF.3SG king in house | ‘the king is (currently) staying in his house’
+
+The particle <kan> is often appended to perfects to emphasize an anterior tense:
+<sōgarkan xanyštar n parna> remain.PRF.3SG–ANT king in house ‘the king was/had been staying in his house’
+
+Participles are often used with a preterite-meaning, especially in subordinate clauses. For intransitive verbs, person is marked by the subject pronouns after the participle. For transitive verbs, however, person is marked by the inflected preposition <t>. Participles are usually preceded by the copulaic particle <s>.
+
+<s aras amou> COP arrive.PPT 1SG | ‘I arrived’
+<s apas ten kthala> COP take.PPT to.3SG jug | ‘s/he took the jug’
+
+Relative/Complement/Adverbial Clauses
+
+Relative clauses are introduced by <m>.
+<xanyštar m afka kthala> king REL take.PRF.3SG jug | ‘the king who has taken the jug’
+
+<m> often takes pronoun clitics if the subject of the relative clause differs from the main clause:
+<xanyštar mōn koxaran> king REL.3PL kill-PRF.3PL-3SG.ACC | ‘the king who (they) killed (him)’
+
+Complement clauses are usually introduced by <m š–>, where <š–> takes the clitic pronoun corresponding to the subject of the complement clause.
+<xar šakē xanyštar m šom afkou irima> PRT see.IMPFV.3SG REL that.1SG take.PRF.1SG flower | ‘the king saw that I took the flower’
+
+Occasionally, they are null-marked:
+<s šalē i paiē> COP important PRT go.IMPFV.2SG | ‘it is important (that) you go’
+
+Similarly, verb serialization also occasionally occurs, where both verbs are treated as finite:
+<xar šakem xanyštar i epē axlō> xar see.IMPFV.1SG king i take.IMPFV.3SG bread ‘I saw the king taking bread’ (i.e., “I saw the king (that) he takes the bread’)
+
+Adverbial clauses are also often introduced by an inflected preposition/particle.
+
+Copula
+Copulaic sentences are generally introduced by <s>, with subject pronouns being used for the subject (inanimate/generic subjects are usually null-marked after <s>). The phrase <s kan> is used as an existential. <s (kan)> is generally understood with a present reading, but can also be used in the past if clear from context.
+
+<s amou xanyštar> COP 1SG king | ‘I am/was a/the king’
+<s kan kthala n bazourō> COP PRT jug in table | ‘there is/was a jug on the table’
+
+Adjectival predicates are often introcued by <ab>:
+<s pa ab anykṣōnē> COP 3SG ab annoyed | ‘He is annoyed’
+
+In relative clauses, <s> is often ommitted, with the subject often being expressed as a clitic on <m>:
+
+<xanyštar man ab anykṣōnē> king who.3SG ab annoyed | ‘the king who is annoyed’
+
+The middle verb <kišarē, kišar> ‘to be, to become’ is also used as future and past/perfect copula, respectively. These inflect as normal verbs, and may also have <kan> appended for an existential and/or anterior meaning.
+
+<kišaram xanyštar> become.IMPFV.1SG king | ‘I will be(come) king’
+<kišarkan xanyštar> become.PRF.3SG-PRT king | ‘He was/had been king ~ There was (once) a king’
+
+The indicative negative equiavlent of <s> is <na>, which is inflected with the clitic pronouns.
+
+<nan (pē) ana mi> NEG.3SG (she) mother 1SG.POSS | ‘she is not my mother’
+<nab ab ašou> NEG.3SG.INAN ab good | ‘it is not good’
+
+In relative, clauses, it appears as <m naš–> with clitic pronouns:
+<xanyštar m našen n parnaš> king REL not.3SG in house-3SG.POSS | ‘The king who is not in his house’
+<xar t-afkaram n m našom aram> PRT decide.IMPFV.1SG REL in not.1SG come.IMPFV.1SG | ‘I decided not to come’

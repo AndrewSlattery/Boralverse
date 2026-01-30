@@ -1,0 +1,13 @@
+Burgundy (Burgund French *Borgogne* /bɔgˈgɔɲɛ/) is a polity in [[Gaul]], situated south of [[France]], west of [[Bavarn]], north of [[Provence]] and east of [[Vascony]]. It has for most of its history been ruled from the city of Geneva.
+
+## History
+
+During the [[Second Tetrarchy]] period of the eleventh and twelfth centuries, Burgundy was a major vassal of the [[First Drengot Empire]]. Following the [[Emergency at Dijon]] in 1170, which presaged the collapse of said empire, Burgundy became a de facto autonomous kingdom.
+
+In the early fifteenth century with the [[Vascon Ascendancy]], Burgundy lost its [[Middlesea]] coast to Vascony. Burgundy managed to wrest the territory of [[Provence]] back from Ascendant [[Vascony]] in 1494. This would however be a very temporary state of affairs: the region seceded with the 1497–99 [[War of Provincial Independence]], ending in Burgundy's defeat at the [[Battle of Margès (1499)|Battle of Margès]].
+
+No longer having any coastal territory, Burgundy weathered the [[Second Great Dying]], which began in 1519, comparatively well; the principal vector of plague transmission was via naval trade. This relative stability may be related to the kingdom's (unusually late for the region) formal retention of the feudal system until the dawn of the seventeenth century. 
+
+The title of King of Burgundy was dissolved after severe losses to neighbouring [[Bavarn]] in the [[Blue Trans-Willem War]] of the late seventeenth century. The former capital [[Geneva]] became a subordinate city in the Duchy of [[Far Suebia]].
+
+A polity named Burgundy was formed once more (now without a monarch) in the nineteenth century, as part of the diplomatic process leading to the formation of the [[Drengot Collusion]].  

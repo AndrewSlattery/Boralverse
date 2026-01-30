@@ -1,0 +1,108 @@
+Text
+
+Cay l'oc pengovin y provost dy çaucr por lengaç forgar!
+I scout e compren fort lengaç foran.
+I pas mout ec hour cas sar eð a prestig por noçon communeyar acas.
+Sy flac aun comport all'eç de hivocin: no scerra alcun oundr de lou quinar.
+L'oc pengovin forgau jaçol y lengaç l'ottem.
+Y çaucr a ceu jamay untal provost memorabr.
+Ðoreu y pengovin!
+
+Context
+
+Boral is a Romance language spoken on an island (Borland) in the North Sea, west of Denmark, about twice the land area of Wales. It exists within an alternate history setting which features a Roman province on Borland and which diverges significantly from our history over the 1500 years since the collapse of the Western Roman Empire.
+
+Grammar
+
+Boral is broadly SVO or V2; the word order of a sentence containing a simple verb is
+
+> subject verb (object) (obliques)
+> y domn caugtr y bal "the woman kicks the ball" df woman kick df ball
+
+whereas for a compound verb (an auxiliary with a participle or infinitive) it is
+
+> subject auxiliary (object) verb (obliques)
+> y domn vil y bal caugtrar "the woman will kick the ball" df woman fut df ball kick-inf
+
+The subject is mandatory, except for certain impersonal verbs. If the object is a pronoun, it always comes immediately before the main verb.
+
+In the noun phrase, demonstratives and numerals precede the noun, while adjectives follow it. The particles oc, oç, ec and eç denote number and proximity (see Glossary), although for example "oc" (proximate singular) is used more than English would use "this".
+
+Verbs are given in the infinitive form, ending in -ar, -ir or -r. The verb forms that appear in the text are:
+
+> present singular: -∅
+> present 3rd plural: -n
+> past singular: -au
+> future 3rd singular: -(r)ra
+> subjunctive 1st plural: -eu
+
+Impersonal copular constructions uniquely have a VS(O) syntax. These include sceir "for there to be":
+
+> scein dou cat "there are two cats" there.be-3p 2 cat
+
+and cair "(of environmental or general situations) to be":
+
+> cay sol "it is sunny" fall sun
+> cay je sell'osceyan "it is her birthday" fall day.of 3s.gn=birthday
+
+Adjectives form comparatives with the suffix -essem (or occasionally -errem, and note ottem "better"), and superlative by adding a definite article.
+
+Negative clauses are formed with the particle noc "not" after the verb, or (for copulas) with the particle no "not" before the verb.
+
+> Jo pasc noc pan "I don't eat bread" 1s eat not bread
+> Jo no so un scuir "I am not a boy" 1s not be.1s indf boy
+
+Glossary
+a - prp. to, at, of, than
+a - v. have.3s; see aïr
+acas - adv. at that person's home; in that particular context
+aïr - v. have
+alcun - adv. none, not any
+all' - prp. to the; see a, l'
+aun - v. have.3p; see aïr
+cair - v. fall; happen, occur; (in statements of "general environmental facts") be
+cas - prp. at the home of; in the context of
+cas sar - adj., adv. online, on the Internet; see cas, sar
+ceu - adv. basically, essentially, pretty much; barely, hardly, seldom 
+communeyar - v. communicate, impart, pass on
+comport - n. similarity, relationship
+comprendr - v. understand, realise (stem compren-)
+çaucr - n. society, club, guild, group
+de - prp. of, from, belonging to
+dy - prp. of the, from the; see de, y
+ðorar - v. praise, worship, glorify
+e - conj. and
+ec - dem. plural proximate; these
+eç - dem. plural distal; those
+eð - conj. (before vowels) and; see e
+flac - n. flake, scale, shaving
+foran - adj. foreign, strange, unfamiliar, different
+forgar - v. forge, make, create, smith, generate
+fort - adv. well, really
+hivocin - n. armadillo
+hour - n. hour, time
+i - prn. he, she, it
+jaçol - adv. once, long ago, not recently
+jamay - adv. never
+l' - art. (before vowels) the; see y
+lengaç - n. language
+lou - prn. them
+memorabr - adj. remarkable, notable
+mout - adv. often
+no - adv. no, (with copulas) not
+noçon - n. notion, idea, opinion
+oc - dem. singular proximate; this
+ottem - adj. better, best
+oundr - n. injury, wound, pain
+passar - v. pass, go by, elapse, spend (time)
+pengovin - n. pangolin
+por - prp. for, in order to
+prestig - n. nous, expertise, mastery, proficiency
+provost - n. officer, prefect, commander; leader, person in charge
+quinar - v. strike, whack, thump; collide with, bump into
+sar - n. net, fishnet, network, mesh; Internet
+sceir - v. for there to be; existential copula
+scoutar - v. listen to
+sy - prn. his, her, its
+untal - det. somesuch, any
+y - art. the

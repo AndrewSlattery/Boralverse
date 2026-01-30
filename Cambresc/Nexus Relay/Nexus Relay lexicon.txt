@@ -1,0 +1,70 @@
+a | and, also, as well as; before vowels = <ag>; triggers aspirate mutation
+aeth | third person singular preterite of <eid>
+am | around, about, either side of, on the subject of; on, beyond, near, towards; for (purpose), in order to; at (time), for (length of time); forms futures with <bod>; triggers soft mutation
+arhos | to stay, remain; to continue to be; to wait, to stop moving, to not go
+aωhυs | sharp, pointed, cutting; eager, keen
+babi (m) | baby, infant
+bod | to be; there be; auxiliary forming imperfective-aspect verb phrases with <yn³> and forming futures with <am>
+cafel | to get, to obtain; to reach, to attain, to arrive at
+całyn | to follow, to puruse, to go after, to go towards, to search for
+clywed | to hear, to listen; stem <clyw->
+cnoi | to eat, to consume; to bite, to chew
+cωgnog | misshapen, gnarled, bumpy
+cydio | to grab, to grasp, to hold onto
+cyvaxogeth (f) | neighbourhood, vicinity, surroundings
+daeth | third person singular preterite of <doωd>
+deυ | two, a pair of; feminine dωy (in which form it triggers soft mutation)
+diład | clothing, clothes
+dim | not, negative particle (in matrix clauses); no, none, not any; precedes the object or complement of the verb; thus usually appears as soft mutation <ðim>
+doωd | to come, to start (doing), to manage to; also <doωd yn> "to become"
+dωrð (m) | noise, sound
+dωy | see deυ
+dyn (m) | man; person; plural <dynnon>
+dynnon | see <dyn>
+ei¹ | his, its (m); after final -i = 'w; after other vowels = 'i; triggers soft mutation
+ei² | her, its (f); after final -i = 'w; after other vowels = 'i; triggers aspirate mutation
+eid | to go; also in <eid am draed> "to go for a walk"
+estynnυ | to extend, to lenghten, to stretch; to reach out
+ewin | fingernail, toenail; plural <ewineð>
+ewineð | see <ewin>
+gan | with, characterised by, made of; containing; forms passive participles with verbs; triggers soft mutation
+gorfωys (m) | pause, rest, cessation (of sound)
+gra | third person singular present of <greυd>
+grathon | thurd person plural preterite of <greυd>
+greυd | to do, to make; auxiliary verb used to form perfective-aspect verb phrases
+gwan | weak, feeble; quiet, faint
+hon | see <hωn>
+hωn | (with definite noun) this; feminine <hon>
+jaωn | true, right; very, really, a lot
+kyn | before, ahead of
+kythreυl (m) | demon, ghast, evil spirit
+ław | hand
+łaωn | full, complete; entire, whole
+'m | see <y¹>
+mheł | far (away), distant
+na | that ... not; particle preceding negative relative clauses; before vowels = <nad>; triggers mixed mutation
+ni | not; preverbal negative particle; before vowels = <nid>; triggers mixed mutation
+nid | see <ni>
+o¹ | from, out of, in, of; descended from, belonging to, pertaining to; since, because of, by (agent); triggers soft mutation
+o² | he, him, it (m); third person masculine pronoun; after vowels = <vo>
+oeð | third person singular past imperfective of bod
+ond | but, however; except, apart from; (with negative verb) only, just
+ola | see oωl²; also in <yn ola> "finally, in the end, after all"
+oωl¹ (m) | trace, mark, residue; back, rear
+oωl² | anterior, past, over; superlative <ola> "last, final"
+pa | that, which; particle that precedes direct relative clauses; triggers soft mutation
+parg | park, green public space
+pωy | who, which person; (in apposition with a noun) whose, belonging to who
+rhωygo | to tear, to rip
+sy | third person singular nonpast relative-clause form of <bod>
+troed (f) | foot, paw; plural <traed>
+υnweth | once, one time; also in <unweth yn oωl> "once upon a time"
+ωylo | to cry, to lament, to weep
+y¹ | my, belonging to me; first person singular pronoun; triggers nasal mutation; after vowels = <'m> (in which case no mutation occurs)
+y² | the, definite article; following vowels = <'r>; before vowels = <yr>; triggers soft mutation in feminine singular nouns
+ym | see <yn²>
+ymðangos | to appear, to come into view; to appear, to seem
+yn¹ | adverbial particle, converts adjectives into adverbs; after vowels = <'n>; triggers soft mutation
+yn² | in, inside, at (a place); triggers nasal mutation; before p b m = <ym>; before c k g ng = <yng>
+yn³ | complement particle, often with <bod> "to be", preceding nominal, adjectival or verbal complements; after vowels = <'n>; triggers soft mutation with nouns and adjectives, but not with verbs
+yng | see <yn²>

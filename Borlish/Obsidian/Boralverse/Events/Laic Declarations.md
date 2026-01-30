@@ -1,0 +1,14 @@
+The Laic Declarations were a series of diplomatic documents produced by an international committee of delegations from several dozen polities in [[Belgrade]] in 1850. These documents outlined procedures for uncoupling established religions from administrative state functions, and the legal status of people with minority faiths.
+
+At this time, Belgrade was one of the [[Riverine Cities]], an alliance-federacy of small independent states along the Danaw River and its tributaries. These cities had risen from the ashes of the [[Kingdom of Danaw]], which had collapsed in spectacular fashion after the [[Second German War]] of the 1820s. As such, Belgrade was an early hotbed of new religious and legal thinking, with a renowned Promethean club associated with the [[Deviance movement]] and a semi-public tovarick community.
+
+Notable non-signatories of the Declarations included [[New Provence]] (at the time probably the most [[Vetomund]]-oriented polity in [[Mendeva]]) and [[Persia]].
+
+In some respects the Declarations were prefigured by the waning of the censorious and moralistic [[Modest Arrangement]]. They laid the groundwork for the [[Household Renovation]] of the late nineteenth century, which comprised further shifts in social attitudes around family and marriage. The fact of such major international collaboration in writing the Declarations also prefigured the dawn of the subsequent decades' [[Good Game]] period, characterised by alliances and espionage.
+
+Laic adoption would go on to spread globally; for example, in [[Gulf Mendeva]] the persistent social prestige of [[Britain]] is thought by some to have expedited the contemporary social changes of the region.
+
+The hundred-and-twentieth anniversary of the Laic Declarations was celebrated in academia with the [[Long Future project]], including the synchronised publication of dozens of popular works chronicling the Declarations' origins, course and aftermath.
+## References
+- Conjugation, Operation e Diabolica in Musica: The Early Deviance Movement, 1970 work by Borlish popular historian Catrin Veçount
+- The Deviance Incorporation of Folk Tales, 1970 sociological work by Dr Tanasio Capretti

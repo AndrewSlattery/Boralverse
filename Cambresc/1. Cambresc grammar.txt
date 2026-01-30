@@ -1,0 +1,143 @@
+- Mutations
+
+There are four types of initial mutation in Cambresc, usually triggered by a preceding word.
+
+-- Soft mutation
+This is by far the most common. Its effects are
+> p t c/k/q m/b d g ł rh 
+> b d g     v   ð Ø l r
+
+Relevant words which trigger it: <am, ei¹, gan, i, ne, o¹, y/yr¹ (with feminine singular nouns)>.
+
+The direct object of a finite verb also undergoes the soft mutation.
+> kefl; diskynes i gefl | horse; alight.1s.pst 1s horse "I dismounted a horse" 
+> kyraeð; gra vi gyraeð | arrive; do.1s 1s arrive "I arrive"
+
+Adjectives modifying feminine singular nouns also undergo the soft mutation.
+> mor bah | sea small "a small sea"
+> łong vah | ship small "a small ship"
+
+Extraordinarily, <d> does not mutate to <ð> if the preceding word ending in <-s>.
+> nos da "good night" (nos "night" being a feminine noun)
+
+-- Nasal mutation
+> p  t  c/k/q b d g
+> mh nh ngh   m n ng
+
+This mutation does not appear in the text.
+
+-- Aspirate mutation
+> p  t  c/k qu
+> ph th ch  quh
+
+Relevant words which trigger it: <a¹, a², ei², gyda, na³>.
+
+-- Mixed mutation
+This mutation acts like the aspirate mutation on <p t c/k/qu>, and the soft mutation on <m/b d g ł rh>.
+
+Relevant words which trigger it: <na¹, na², ni¹>.
+
+- Verb Morphology
+
+Verbs inflect for past and nonpast (only the latter of which appears in the text). Nonpast verbs used as finite verbs usually have a future sense, except with stative verbs, which can also have a present sense.
+> gωn i | know-1s 1s "I know", gυiðωn i | know-1s.pst 1s "I knew"
+> arhosa vi | stay-1s 1s "I will stay", arhoses i stay-1s.pst 1s "I stayed"
+
+The text also contains one use of the conditional, there used as a politeness marker and pointed out in the lexicon.
+
+Other TAM senses are achieved via auxiliary verb constructions. The verb <greud> "to do" creates verbs with perfective aspect, in past or nonpast tense.
+> grei di ðrysυ vi | do-2s 2s confuse 1s "you (just) confused me"
+> graeth o dybjed yr ateb | do-3s.pst 3s.m guess def answer "he guessed the answer"
+
+The complex <bod ... yn²>, on the other hand, creates verbs with imperfective aspect.
+> ω vi'n arhos | be-1s 1s comp stay "I am not moving"
+> oeðyh whi'n canυ | be-2pl.pst 2pl comp sing "you were singing"
+
+The complex <bod ... am> created verbs with future tense, esp. near future or highly-probable/intended futures.
+> mae'r dyn am roi boned i'w reg  | be-3s=def man about give bonnet to=3s.m.poss wife "the man will give a bonnet to his wife"
+
+- Syntax
+
+-- Noun Phrase
+
+The definite article <y, yr, 'r> precedes the noun. Feminine singular nouns undergo the soft mutation after the definite article.
+> gωr, y gωr "a husband, the husband"
+> greg, y reg "a wife, the wife"
+
+Adjectives follow the noun. They undergo the soft mutation after feminine singular nouns.
+> gωr da "a good husband"
+> greg ða "a good wife"
+
+Genitive phrases "the husband of the doctor", "the Sun Hotel" are formed by simple apposition. Nouns which are possessed in this way cannot themselves take a definite article.
+> gωr y meðyg | husband def doctor
+> tavarn y heυl | hotel the sun
+
+Pronominal possession consists of a possessive pronoun before the noun (often triggering some mutation), and a resumptive pronoun after the possessee.
+> ei dad o | 3s.m.poss father 3s "his father"
+> eih grageð whi | 2pl.poss wife-pl 2pl "your wives"
+
+In formal writing or speech, the resumptive pronoun may be omitted.
+
+-- Adpositions
+
+Adpositions precede their noun phrase. Many prepositions have inflected personal forms used instead of explicit pronouns.
+> i'r łongor | to=def ship-pl "to the ships"
+> iðyn | to-3pl "to them"
+
+-- Verb Phrase
+
+Cambresc is VSO.
+> Pentωrroð y dyn y cathod | collect-3s.pst def man def cat-pl "the man collected the cats"
+
+The direct object of a finite verb undergoes the soft mutation (note in the above example "y cathod", beginning with a vowel, doesn't change).
+
+In practice, sentences often use an auxiliary, with syntax Aux S (prep) V O.
+> Greωch whi weld hωnno | do-2pl 2pl see that.m "you see that"
+> ω vi am arhos | be.1s 1s about stay "I'm going to stay"
+
+Negative sentences make use of a preverbal particle <ni(d)>, which triggers the mixed mutation, and a particle dim which becomes (the first part of) the direct object and thus is usually mutated to ðim.
+> ni raethυm i ðim haeðυ | neg do-1s.pst 1s neg win | "I didn't win"
+
+Questions use a preverbal particle <ne>, which triggers the soft mutation.
+> ne weles ti'r mor? | q see-2s.pst 2sg=def sea "could you see the sea?"
+
+--- Possessed Verbs
+
+Complement clauses (I suppose *that you are a doctor*) and clauses following certain conjunction (before *he can catch them*) with proniminal subjects are formed in Cambresc using possessed verbs. These use the same syntax as ordinary possession.
+> eih bod whi | 2pl.poss be 2pl "that you are"
+> ei ał o | 3s.m.poss can 3s.m "that he can"
+
+Here they are used in context.
+> tybja vi'h bod whi'n veðyg | suppose-1s 1s=2pl.poss be 2pl=comp doctor "I suppose that you are a doctor"
+> kyn ei ał o eυ dal nhω | before 3s.m.poss can 3s.m 3pl.poss catch 3pl "before he can catch them"
+
+-- Fronting
+
+Cambresc can front almost any constituent to the front of the sentence. In affirmative sentences the preverbal particle <yr, 'r> is often inserted after the preposed element.
+> meωn ty'r ω vi'n byw | in house=pt be.1s 1s=comp live "I live *in a house*"
+> y nghi bides i vo | 1s.poss dog feed-1s.pst 1s 3s.m "I fed my dog" 
+
+In the second example, note the resumptive pronoun, necessary when fronting a subject or direct object.
+
+If a phrase starting with the complement particle <yn²> is fronted, the <yn> is omitted.
+> mae vo'n blino | be.3s 3s.m=comp annoy "he is being annoying"
+> blino'r mae vo | annoy=pt be.3s 3s.m "he is being *annoying*"
+
+- The copula <bod>
+
+The copula has several extra forms unique to it. The ones relevant in the text are detailed here.
+
+<mae>: third-person singular nonpast, affirmative; used for auxiliary, copular and existential meanings.
+> mae hi'n canυ | be.3s 3s.f=comp sing "she is singing"
+> mae vo'n ðyn | be.3s 3s.f=comp man "he is a man"
+> mae cath yn y goeden | be.3s cat in def tree "there's a cat in the tree"
+
+<oes>: third-person singular non-past, negative or interrogative; used only for the existential meaning.
+> Nid oes dim cath yn y goeden | neg be.3s neg cat in def tree "there are no cats in the tree"
+> Oes dynjon o'r davarn? | be.3s man-pl from=def hotel | "are there men from the hotel?"
+
+<sy>: third-person singular nonpast; used only in relative clauses in which the subject is relativised or complement clauses which share a subject with the main clause; "who is, that are, who will be"
+> y dyn sy'n canυ | def man be.3s=comp sing "the man who is singing"
+> łongor sy doc am ðadangori | ship-pl be.3s soon about unmoor "ships which will set off soon"
+
+As with other verbs in relative clauses <sy> uses the negative particle <na¹> instead of <ni(d)>.
