@@ -1090,6 +1090,15 @@
 \lx accordar
 \ps ar v
 
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
+
+\lx accordar
+\ps ar v
+
 \ge agree
 \ge accord
 \ge harmonise
@@ -1097,15 +1106,6 @@
 \ge go
 
 \et Middle Borlish < Latin
-
-\lx accordar
-\ps ar v
-
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -11654,6 +11654,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -11662,16 +11663,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
-
-\lx condamnment
-\ps n
-
-\ge condemnation
-\ge sentence
-
-\et Latin condemnatio, noun from condamnar "condemn"
-\mn condamnar
 
 \lx condamnment
 \ps n
@@ -11680,6 +11671,15 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et noun from condamnar "condemn"
+\mn condamnar
+
+\lx condamnment
+\ps n
+
+\ge condemnation
+\ge sentence
+
+\et Latin condemnatio, noun from condamnar "condemn"
 \mn condamnar
 
 \lx condensar
@@ -15859,19 +15859,19 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps ar v
 
 \ge decipher
-\ge make out
-\ge translate
-\ge simplify
+\ge decode
 
-\et Old Borlish < Medieval Latin < Arabic
+\mn scifr
 
 \lx descifrar
 \ps ar v
 
 \ge decipher
-\ge decode
+\ge make out
+\ge translate
+\ge simplify
 
-\mn scifr
+\et Old Borlish < Medieval Latin < Arabic
 
 \lx descombr
 \ps r v
@@ -18309,21 +18309,21 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps adj
 
 \ge durable
-\ge long-lasting
-
-\et Adjective from durar
-\mn durar
-
-\lx durabr
-\ps adj
-
-\ge durable
 \ge stiff
 \ge lasting
 \ge permanent
 \ge resilient
 
 \et adjective from durar "last"
+\mn durar
+
+\lx durabr
+\ps adj
+
+\ge durable
+\ge long-lasting
+
+\et Adjective from durar
 \mn durar
 
 \lx durant
@@ -23126,18 +23126,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossau
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossaveyaçon
 \ps n
@@ -23467,6 +23467,13 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps ar v
 
 \ge rub
+
+\et Old Borlish < Old French < Latin
+
+\lx frottar
+\ps ar v
+
+\ge rub
 \ge chafe
 \ge scour
 \ge scrub
@@ -23482,13 +23489,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
-
-\lx frottar
-\ps ar v
-
-\ge rub
-
-\et Old Borlish < Old French < Latin
 
 \lx fruit
 \ps n
@@ -31847,6 +31847,15 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge slow
 
 \et Old Borlish < Latin
+
+\lx leon
+\ps n
+
+\ge lion
+\ge Leo
+\ge lionheart
+
+\et Old Borlish < Latin leō
 
 \lx lessy
 \ps adj
@@ -57130,12 +57139,13 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \et from theatr
 \mn theatr
 
-\lx theatrfiour
+\lx theatrfeyour
 \ps n
 
 \ge theatregoer
 
-\et from theatrfiour
+\et from theatrfeyar
+\mn theatrfeyar
 
 \lx thein
 \ps n
