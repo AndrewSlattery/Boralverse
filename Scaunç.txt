@@ -14910,7 +14910,7 @@ Perennial adversaries Vascony and Morrack continued their protracted fight throu
 
 Several polities and vassal states did not survive the Romantic Wars; for example, the Principality of Mystra in Greece, which had existed as a vassal of the Second Roman Empire since the eleventh century, was formally dissolved in the aftermath of the Romantic Wars.
 
-Willemy was the focal point of the Blue Trans-Willem War (not to be confused with the Red Trans-Willem War), which indirectly led to the dissolution of the Kingdom of Burgundy and the creation of the Duchy of Far Suebia in Bavarn.
+Willemy was the focal point of the Blue Trans-Willem War (not to be confused with the White Trans-Willem War), which indirectly led to the dissolution of the Kingdom of Burgundy and the creation of the Duchy of Far Suebia in Bavarn.
 
 Borland's involvement in the Romantic Wars was restricted to a failed invasion (culminating in the Hawkirch Surrender of 1623), along with unstable arrangements with neighbouring polities regarding military aid in their conquests.
 
@@ -27474,7 +27474,7 @@ The town fired this councillor due to an affair.
 
 191.5: Blue Trans-Willem War
 
-The Blue Trans-Willem War (Willem: Blaw Trans-Willemsk Órlog, Borlish: Var Blau Trans-Willem) was one of a series of wars in the early modern period which principally involved French and Dutch [German] polities (that is, those powers located on either side of the territory of Willemy [~Benelux, Lorraine]) and which were de facto waged over control of said territory.
+The Blue Trans-Willem War (Willem: Blaw Trans-Willemsk Órlog, Borlish: Var Tras-Willem Blau) was one of a series of wars in the early modern period which principally involved French and Dutch [German] polities (that is, those powers located on either side of the territory of Willemy [~Benelux, Lorraine]) and which were de facto waged over control of said territory.
 
 Though the sporadic flare-ups of hostilies are difficult to divide into discrete wars without some arbitrariness, modern historiography usually works with the chromatic periodisation of nineteenth-century writer Andrysk de Santer. Her system, based either (depending on the account) on the colours of the victors' standards or on alchemical symbolism, has the Blue war as the penultimate conflict, ending in the late seventeenth century. Some historians, though not de Santer, have classified the Blue war as part of the broader collection of Romantic Wars of the mid-seventeenth century.
 
@@ -29344,7 +29344,7 @@ Of course, it is difficult to know which precise modifications were made to the 
 
 notes in translation on the Blue Trans-Willem War
 
-Y Var Blau Tras-Willem sta l'un entr un ranc de var nell'epoc modern primal ec polity Fransc e Teudesc envouvent cos principal (oc a digr, l'eç polity l'eiðel de Willemy parlocant) eð ec stan a gest accommis a fin auteç broucar sull'oç eiðel.
+Y Var Tras-Willem Blau sta l'un entr un ranc de var nell'epoc modern primal ec polity Fransc e Teudesc envouvent cos principal (oc a digr, l'eç polity l'eiðel de Willemy parlocant) eð ec stan a gest accommis a fin auteç broucar sull'oç eiðel.
 The Blue Trans-Willem War was one of a series of wars in the early modern period which principally involved French and Dutch [German] polities (that is, those powers located on either side of the territory of Willemy [~Benelux, Lorraine]) and which were de facto waged over control of said territory.
 
 Noc obstroint ig defagl sey l'akirtanç sporadic de combat porçonnar com var n'eç cahut lon un poy d'arveiðrostað, scaunç historic ne nostrell'epoc benoçn y periodeyaçon par colour lonc y scrittour dy siecr novoç Andrysk de Santer.

@@ -11,10 +11,14 @@
             "id": "03e241267b856470",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mapbook/Second Roman Empire.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Second Roman Empire"
             }
           }
         ]
@@ -152,6 +156,7 @@
   },
   "active": "03e241267b856470",
   "lastOpenFiles": [
+    "Mapbook/Sodrick.md",
     "Individuals/Nobles and Rulers/Alexandra of Vascony.md",
     "Mapbook/Cities and Towns/Santrafew.md",
     "Events/War/Millstone War.md",
@@ -181,7 +186,6 @@
     "Tongues/Borlish/Phonology/Phonotactics.md",
     "Tongues/Borlish/Phonology/Stress.md",
     "Tongues/Borlish/Phonology/Orthography/Vowels.md",
-    "Tongues/Borlish/Borlish orthography.md",
     "Tongues/Borlish/Orthography/Untitled",
     "Tongues/Borlish/Phonology/Orthography",
     "Tongues/Borlish/Phonology"
