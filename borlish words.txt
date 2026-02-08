@@ -1,9 +1,13 @@
 laðr "plough"
+ognt "bribe, sop"
 bosty "brothel" < prostibulum?
+frige "chilly, frigid"
 nomad "nomad, traveller, itinerant, wanderer"
 scrim "swordplay, fencing" < escrime
 ultem "ulimate"
+varen "warren, burrow"
 vasir "vizier" < arabic
+zaloc "bail" < slavic
 cambir "change"
 cubicr "bedsit, studio"
 empory "economy"
@@ -19,6 +23,7 @@ drastic "drastic"
 gradual "titular, entailed, pertaining to a noble title; hierarchical"
 merscaç "marshland"
 mojolon "destination, hub, attraction"
+ogtoçad "eighteensome"
 oraçoir "stormy weather, thunderstorm, a storm zone"
 reliquy "fossil, remains"
 scouðir "rescue, deliver" < excutere
@@ -37,6 +42,7 @@ enmigtað "enmity, rivalry"
 extirpar "eradicate, extirpate"
 lucraðeu "profitable, lucrative, wealthy, rich"
 merscous "marshy, boggy"
+mixallar "decapitate, guillotine" ~ Ar miqsala 
 pænultem "penultimate"
 pedisecq "attendant, follower, page"
 quinment "impact, strike, collision"
@@ -52,6 +58,7 @@ entrjainç "section, interjection, excerpt"
 gentilhom "gentleman, gentlewoman"
 lon mensc "dishonourable"
 madrugoir "nightspot"
+masmorrat "dungeon, jail cell" cf masmorra
 panditour "intellectual, thinker" cf pundit
 rebateyað "born again"
 rebateyar "rebaptise"
@@ -59,6 +66,7 @@ rimbangam "garter"
 sogn fair "dream, act irrationally"
 terrentað "terrain, landscape"
 tranqment "exactness, accuracy, precision, reliability"
+varenastr "low-life, demimonde"
 bel declar "words of wisdom"
 canalfeyar "canalise"
 desracinað "rootless"
@@ -70,6 +78,7 @@ parnommanç "reputation"
 periodeyar "periodise"
 teurfeyour "slanderer"
 contrsalubr "disadvantageous, unfavourable"
+rebateyaçon "new identity, carte blanche"
 regres fair "journey back"
 y gra valir "be up to the challenge"
 bogr ðesmbal "unsurprising"
@@ -81,6 +90,7 @@ aucoum forcer "powerhouse"
 creir n'aglon "not be resigned"
 obeïscenç dar "do a service, obey"
 scaunç historic "historiography"
+ou sunt ou soluð "take it or leave it"
 
 fought, contested
 gone, missing, used up
