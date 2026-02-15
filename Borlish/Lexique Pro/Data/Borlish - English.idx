@@ -180,7 +180,7 @@ adopt	170
 adoption	169
 adorable	4472
 adorn	1977
-adult	174,1462,1461,3420
+adult	174,1461,1462,3420
 advance	543,2142,2179,2180,3262,4614
 advantage	175,6130
 advantageous	5081,5085
@@ -309,7 +309,7 @@ all the time	3427
 all the way	1647
 all through	4168
 alleged	3897,5040
-allegedly	4164
+allegedly	4163
 allegory	269
 all-encompassing	333
 alley	3365,5027
@@ -468,7 +468,7 @@ antiquary	4868
 antiquated	1578,6114
 antique	343,4015
 antiquity	314,344
-antiscorbutic	5092
+antiscorbutic	5093
 antiseptic	4449
 antsy	2857,2931
 anxiety	320,2629,5425
@@ -496,7 +496,7 @@ apology	1603
 apoplexy	4964
 apparatus	372,2026,5697
 apparent	2854,5130
-apparently	4164
+apparently	4163
 appeal	4599
 appear	358,1460,4199,5974
 appearance	2729,4200,6429
@@ -925,7 +925,7 @@ basis	2313,3356
 bask	1526
 basket	4083
 bassoon	5929
-bastard	3911,3912
+bastard	3912,3911
 bastion	621
 bat	4340
 bat mitzvah	166
@@ -1179,7 +1179,7 @@ bedsit	819
 bedtime	4711
 bee	550
 beef	748
-beefcake	425,424
+beefcake	424,425
 beefsteak	910
 beehive	495
 beeline	1135
@@ -1630,7 +1630,7 @@ bull	5813
 bullet	589
 bulletin	4152
 bulletproof	5275
-bullseye	3073,3074
+bullseye	3074,3073
 bullshit	1263,4214
 bulwark	621
 bum	1731
@@ -1704,7 +1704,7 @@ by him	5335
 by it	5335
 by me	3632
 by means of	4166
-by mouth	4163
+by mouth	4164
 by necessity	1381
 by the letter	41
 by them	5335
@@ -1712,8 +1712,8 @@ by us	3907
 by you	5872,6347
 bye	6431
 byname	1810
-C	985
 c	985,3986
+C	985
 c'est la vie	2184
 cab	4991,6473
 cabbage	966
@@ -2027,7 +2027,7 @@ chew	3532,3711,5347
 chicken	4473
 chicken out	781,1576
 chickenscratch	2622
-chief	807,2742,4269,5542,5541
+chief	807,2742,4269,5541,5542
 chieftain	2742
 child	2251,3015,3107
 childcare	284
@@ -2288,7 +2288,7 @@ collude	1127
 colonial	3710
 colonisation	2391
 colonise	2392
-colony	2389,2390,2963,5964
+colony	2390,2389,2963,5964
 color	1139
 colosseum	397
 colour	1139,5823
@@ -2451,7 +2451,7 @@ concord	2662
 concrete	450,1221,5905
 concur	1218
 concurrent	5358
-condemn	693,1223,1224,1530,1595,2880
+condemn	693,1224,1223,1530,1595,2880
 condemnation	692,1225,1226,2879
 condense	1227
 condescend	1582
@@ -2531,7 +2531,7 @@ consonance	4008
 consonant	1252
 conspicuous	2120
 conspiracy	1258
-conspirator	1262,1261
+conspirator	1261,1262
 conspiratorial	1259
 conspire	1260
 constant	2891,2925
@@ -2551,7 +2551,7 @@ contact	1283,5906
 contain	70,1290,2895
 container	712,5807,6168
 containing a dodecyl (C12H25-) radical	3243
-containing vitamin C	5093
+containing vitamin C	5092
 contaminate	1286
 contaminated	2881
 contamination	1285
@@ -2690,7 +2690,7 @@ count aloud	1295
 counter	4402,4852
 counteract	4682
 counterattack	3994
-counterfeit	3912,3911,5538,5539
+counterfeit	3911,3912,5538,5539
 counterpart	1307
 countertop	4402
 counterweight	4387
@@ -2998,7 +2998,7 @@ decide	1555
 decide between	2613
 decided	5212
 decimal	1580
-decipher	1657,1658,3737,3739
+decipher	1658,1657,3737,3739
 decipherment	3736
 decision	1556,6040
 decisive	1271
@@ -3012,7 +3012,7 @@ declare independence	3284
 declare war	51
 decline	1493,1553,1776,1777,3971,4850
 declining precipitously	926
-decode	1657
+decode	1658
 decommission	1716
 decorate	171,1977
 decoration	1976
@@ -3658,8 +3658,8 @@ dysenteric	1910
 dysentery	1911
 dénouement	4055
 dénoument	4775
-e	1913
 E	1913
+e	1913
 each	4,930
 each one	935
 each other	3364
@@ -3682,9 +3682,8 @@ earn money (especially illegally)	3383
 earnest	5318
 earnestly	3166
 earnings	3382
-earth	2787
 Earth	5785
-earth	5784
+earth	2787,5784
 earthenware	3061
 earthly	5855
 earthquake	4675
@@ -4025,8 +4024,8 @@ evidence of existence	796
 evident	1050,2109,2120
 evil	1481,3448,3460,3462,5453
 evil omen	3702
-evildoer	3702
 evil-doer	3454
+evildoer	3702
 evoke	1123,4759
 evolution	6156
 evolution by natural selection	6157
@@ -4072,7 +4071,7 @@ excusable	3738
 excuse	2138,2139,2834,3735,3736,3737,3739,5712
 execrable	6365
 execute	3726
-execution	1940,2310
+execution	1940,2311
 executioner	3727
 executive	209,210
 exedra	2124
@@ -4160,7 +4159,7 @@ extermination	335
 extinguished	4705
 extort	5654
 extortion	5653
-extra	808,809,3245,5707
+extra	809,808,3245,5707
 extract	4470,5008,5662,5663
 extraneous	809,2143
 extraordinary	4547
@@ -4177,8 +4176,8 @@ eye	1662,3997,3999
 eyebrow	5458
 eyelid	4275
 eyes on the floor	2
-F	1937
 f	1937
+F	1937
 fabric	5464
 face	186,2148,3642,6103,6294
 face up to	186
@@ -4267,7 +4266,7 @@ fashionplate	6257
 fast	3071,3072,4769,4793
 fasten	4136
 faster than light	4638
-fat	2603,2604,2626
+fat	2604,2603,2626
 fatal	2198,3725
 fatal detail	2288
 fate	1865,3362,4559
@@ -4443,7 +4442,7 @@ fishmonger's	6149
 fishnet	5098
 fissure	2272,5018
 fist	4459
-fit	673,1593,1594,1766,2822,4745,4964,6132
+fit	673,1594,1593,1766,2822,4745,4964,6132
 fit in	2183
 fit into	4725
 fitness suite	2331
@@ -4549,9 +4548,8 @@ fold	1594,2285,2304,4425
 fold-away	2836
 foliage	3447
 folio	1664
-folk	4540
 Folk	259
-folk	4539
+folk	4539,4540
 folk tale	1279
 follow	2675,5331,5675
 follow along	1990
@@ -4772,8 +4770,8 @@ full-throttle	3166
 fully-formed	2116
 fumble	4263
 fun	308,557,2481,6373
-function	215,457,1888,2311,3211,3657,4122,4198
-functioning	2310
+function	215,457,1888,2310,3211,3657,4122,4198
+functioning	2311
 fund	736
 fundamentalist	3700
 fundamentals	2313
@@ -5258,8 +5256,8 @@ gymnasium	2331
 gynophile	4549
 gynophilic	5883
 gypsum	1450
-H	2636
 h	2636
+H	2636
 ha	549,6467
 habit	1402,2634,5890
 habits	5697
@@ -5421,7 +5419,7 @@ hawthorn	2642
 hay	2528
 haymaker	3104
 hazard	2669,2671
-hazel	1137,1138
+hazel	1138,1137
 hazel tree	1137
 hazel-coloured	1138
 hazelnut	3884
@@ -5453,7 +5451,7 @@ heaps	5668
 hear	4007,4211
 hear tell	4211
 hearer	4126
-hearsay	3022,4163,5042
+hearsay	3022,4164,5042
 heart	1422,5231
 heart attack	6379
 hearth	2381,5660
@@ -5750,11 +5748,11 @@ hypocritical	1613,3053
 hypothesis	363,2186,5488
 hypothesise	3176
 hypothesising	4528
-I	2808
-i	2808
 I	3075
+i	2808
+I	2808
 I expect	1520
-I hear	4164
+I hear	4163
 I pray	3076
 I relate	3345
 I see	225,3984
@@ -6383,7 +6381,7 @@ issue	3734,4812,5575
 isthmus	4306
 it	2807,3248,3402
 it could have been worse	3020
-it is said	4164
+it is said	4163
 it transpires	1145
 it turns out	1145
 it's OK	2184
@@ -6506,8 +6504,8 @@ justify	2139,3737,3739,5858
 justify oneself	4734
 jut	4505
 juxtapose	273
-K	3137
 k	3137
+K	3137
 kale	966
 kayfabe	851
 keen	5065
@@ -6655,7 +6653,7 @@ last	1644,1903,2267
 last night	2826
 last part	1066
 last resort	3040
-lasting	1900
+lasting	1901
 last-minute addition	331
 latch	6246
 late	384,5987,5805
@@ -6936,7 +6934,7 @@ long for	3198,3953
 long robes	2634
 long trip	4217
 longing	3199,3952
-long-lasting	1901
+long-lasting	1900
 long-standing	3026
 longsword	5544
 longtime	3026
@@ -7125,7 +7123,7 @@ make noise	1046
 make official	1349
 make one feel alive	2163
 make one's way	1354
-make out	1658,4534,5379,5462,6302
+make out	1657,4534,5379,5462,6302
 make possible	6395
 make progress	4255
 make ready	377,1704,3626
@@ -7205,8 +7203,9 @@ mapmaker	921
 mar	2031,3407
 marauder	5111
 marble	3464
-march	3495,4172,5980,5981
+march	4172,5980
 March	3497
+march	3495,5981
 mare	3125,6425
 margin	3547,6307
 margrave	3506
@@ -7276,8 +7275,9 @@ mature	1461,4445
 mauve	6375
 maven	4722
 maximal	3549
-may	4453,6138
+may	4453
 May	3552
+may	6138
 maybe	4179
 mayflower	2642
 mayor	756,5194
@@ -7376,7 +7376,7 @@ merciful	2583
 mercury	565
 mercy	2580,3588,4370
 mere	1643,3596
-merge	1154,1153,1154,1243,6088
+merge	1154,1154,1153,1243,6088
 merger	1244
 merging	1244,1245
 merit	1768,3597
@@ -7390,7 +7390,7 @@ messenger	1368,6268
 messenger bag	1085
 messy	4298,5228
 metadata	5047
-metal	3617,3616
+metal	3616,3617
 metal fastener	2450
 metallic	3617
 metamorphose	4445
@@ -7454,7 +7454,7 @@ mine	1944,2300,3634
 mineral coal	2771
 mingle	1154,3568
 mini	2074
-miniature	2692,2693
+miniature	2693,2692
 miniaturise	1984
 minimal	3645
 minister	209,862,4961
@@ -7515,7 +7515,7 @@ mither	1037,5252
 mithering	5251
 mitigate	541,3679,6447
 mitigated	4379
-mix	1154,1153,1243,3659,5917
+mix	1153,1154,1243,3659,5917
 mix of breadcrumbs, wine, herbs and chestnuts	2087
 mix up	5399
 mixed	3565
@@ -7529,8 +7529,8 @@ mobile	4720
 mobilise	367
 mock	1642,2693,3116,3803
 mockery	1640
-mock-up	2692
 mockup	2627
+mock-up	2692
 mod con	4712
 mode	2105
 model	1220,1222,2692,2693,3667
@@ -7825,9 +7825,8 @@ night sky	5632
 nightly	3878,3887
 nightmare	196,3512
 nightmare scenario	3040
-night-time	5727
 nighttime	3887
-night-time	3878
+night-time	3878,5727
 nightwatchman	3080
 nimble	214,4328
 nimble or deft craftmanship	1589
@@ -7976,8 +7975,8 @@ nursery room	284
 nurture	2373,3416
 nut	3916
 nuts and bolts	2520
-o	3943
 O	3943
+o	3943
 o'clock	3179
 oak	938
 oak bark	3290,5776
@@ -8310,10 +8309,10 @@ outgoing	2224,3373
 outgrow	1958
 outing	1213,3087
 outlander	2325,2403
-outlaw	604,4107,4108
+outlaw	604,4108,4107
 outline	3736,3739,5538,5539,5724
 outlying	4321
-outlying settlement	2389
+outlying settlement	2390
 outmode	5716
 outnumber	4574,5705
 outpost	2390,2389
@@ -8374,8 +8373,8 @@ owner	532
 ownership	521
 ox	748,3815
 oxygen	2831
-p	4284
 P	4284
+p	4284
 p.m.	6255
 pablum	6206
 pace	4247,4788
@@ -8609,7 +8608,7 @@ perform	3091,4198,5203
 perform a role	5446
 perform surgery	1038
 perform the Eucharist	2782
-performance	2310,4197,5562
+performance	2311,4197,5562
 performative	4313
 performer	3399,5045,6374
 performing grunt work	1147
@@ -8630,7 +8629,7 @@ peripheral	4321
 periphery	4322
 perish	1951,4323
 perk	6130
-permanent	1900,4568
+permanent	1901,4568
 permanent mark	1820
 permeate	2954
 permissible	5212
@@ -8670,7 +8669,7 @@ pertaining to maroons	3047
 pertaining to sports	5034
 pertaining to synthesis	1724
 pertaining to trains	1320
-pertaining to vitamin C	5092
+pertaining to vitamin C	5093
 peruse	5725
 pervade	4242
 pervasive	6069
@@ -9059,8 +9058,8 @@ president	1782
 press	371,2423,2764,2898,4569
 press on	4770
 pressing	4568,6100
-pressup	2568
 press-up	2568
+pressup	2568
 pressure	3862,5338
 prestige	6377
 prestigious	6275
@@ -9294,7 +9293,7 @@ purity	942,4664
 purple	2004
 purple-red	923
 purported	3897
-purpose	2311,3947,5231
+purpose	2310,3947,5231
 purposeful	6455
 purse	738,1473,3488
 purse one's lips	6399
@@ -9334,8 +9333,8 @@ puzzle	2013,5009,6010
 puzzle piece	3157
 puzzled	579
 puzzling	2014
-q	1487
 Q	1487
+q	1487
 quack	5175
 quadrennial	4668
 quaff	3279
@@ -9750,7 +9749,7 @@ residue	4919
 resign	2126,4017
 resign oneself	4928
 resignation	2125,4016
-resilient	1900,2396
+resilient	1901,2396
 resin	766,2537,3192
 resist	1574,2672,4921
 resistance	554
@@ -9958,7 +9957,7 @@ rowan	4061
 rowdy	2712,5427
 royal	4966
 royalty	3683
-rub	2420,2423,2422
+rub	2420,2422,2423
 rubbed	2421
 rubber	1383,1765
 rubber tree	1383
@@ -10002,8 +10001,8 @@ run up against	1123
 rune	5043
 rung	5631
 runner	1368
-runup	380
 run-up	380
+runup	380
 rupture	1584
 rural	790,5048
 ruse	6213
@@ -10016,8 +10015,8 @@ rustle	779,2799
 rustling	2798
 ruthless	788
 rye	5348
-S	2092
 s	2092
+S	2092
 sabbath	4911
 Sabbath	4911
 Sabbath day	4911
@@ -10255,8 +10254,8 @@ second person singular formal	6346
 second person singular formal disjunctive	6355
 second person singular subject	6061
 secondary	5287
-secondhand	4831
 second-hand	4831
+secondhand	4831
 secret	1094,1435,2981,5235,5288
 secret passage	2167
 secret room	2167
@@ -10328,7 +10327,7 @@ sense of identity	3876
 sense of timing	2565
 sensibility	4661
 sensible	3328
-sentence	1224,1223,1225,1226,1530,4645
+sentence	1224,1223,1226,1225,1530,4645
 sentiment	1981,2795,5311
 sentmental attachment	2760
 separate	1584,1686,2731,3014,3779,4768,5235,5333
@@ -10355,9 +10354,9 @@ serve	5102,5110
 service	3600,5101
 service fee	192
 sesquipedalian	6143
-set	261,372,673,2036,2270,2733,2785,3037,5212,5275,5780
+set	261,372,754,1087,1853,2036,2081,2270,2733,2785,3037,3992,4055,4358,4398,5205,5212,5807,6103
 Set	5726
-set	460,746,754,1087,1412,1704,1853,2026,2081,2570,2796,3031,3866,3992,4054,4055,4060,4241,4358,4398,4674,4761,5205,5624,5807,6103,6132
+set	460,673,746,1412,1704,2026,2570,2796,3031,3866,4054,4060,4241,4674,4761,5275,5624,5780,6132
 set against	273,4035
 set aside	490,5511
 set eyes on	3999
@@ -10584,7 +10583,7 @@ similarity	1190
 simmer	710
 simple	1479,5309
 simpleton	1950,2630
-simplify	900,1658,5310
+simplify	900,1657,5310
 simply	2321
 simultaneous	4173,5358
 simultaneously	39,40
@@ -10608,8 +10607,8 @@ sink	2110,2851,4430
 sinuous	5104
 sinusoidal	4024
 sip	3279
-sir	744
 Sir	5297
+sir	744
 sire	2501,4624
 siren	6124
 sister	5502
@@ -10678,11 +10677,11 @@ slave	5891
 slay	3972,4103
 sleaze	3285
 sleep	1847,3024,5440
-sleep drug	5443,5442
+sleep drug	5442,5443
 sleep in	6396
 sleeping	1846
 sleeping draught	5443
-sleeping pill	5443,5442
+sleeping pill	5442,5443
 sleeping quarters	819
 sleeve	3470
 slender	3643,5369
@@ -10910,7 +10909,7 @@ source	4049,4469,4947
 south	5479
 southern	5480
 souvenir	3861,4015
-sovereign	5541,5542
+sovereign	5542,5541
 sow	4223,5302
 space	3141,5023,6322
 space fiction	6037
@@ -10994,7 +10993,7 @@ splurge	5379
 splutter	2472,5953,5954
 spoil	1286,2031
 spoke	4794
-spoken	4163,6313
+spoken	4164,6313
 sponge	5580,5729
 spongy	5730
 sponsor	4269
@@ -11155,7 +11154,7 @@ stick one's neck out	4505
 stick out	4505
 stick together	1101
 stick-up	5031
-stiff	1900,4861
+stiff	1901,4861
 stiffen	2036,4674
 still	316,836,837,3017,3122,4152
 sting	1386
@@ -11361,7 +11360,7 @@ sugarcoat	975
 sugared	1490
 suggest	5487,5512,5674,5683
 suggestion	363,5684
-suit	1186,1316,2028,2027,2898,4725
+suit	1186,1316,2027,2028,2898,4725
 suitable	1315,1766,2822,3656
 suitcase	6137
 suite	670,2796
@@ -11776,7 +11775,7 @@ them	3363
 thematic	114,1252,3877
 theme	4152
 themselves	3363,3364,5274
-then	3351,3352,5486
+then	3352,3351,5486
 thence	1717
 theology	5886
 theoretical	2137,5887
@@ -11790,7 +11789,7 @@ therefrom	1621,1717
 thereof	1621
 these	1915
 they	1545
-they say	4164
+they say	4163
 thick	1382,2604,2626,4379
 thick fabric	776
 thicket	5185
@@ -12017,7 +12016,7 @@ totalist	5960,6069
 totality	4664
 totally	1647
 totter	4883
-touch	275,1283,5390,5904,5906,5907,5908
+touch	275,1283,5390,5904,5907,5906,5908
 touchpad	1822
 touchscreen	1822
 tough	1899,2396,6162
@@ -12073,7 +12072,7 @@ transform	1725,5999
 transformation	1723,3618
 transit	6009
 transition	6009
-translate	1658,4358,5973
+translate	1657,4358,5973
 translation	5972
 translator	1872
 transmigrate	5997
@@ -12260,8 +12259,8 @@ tyranny	6068
 u	3001
 U	3001
 ubiquitous	6069
-Ubiquity	6072
 ubiquity	6072
+Ubiquity	6072
 udder	3127
 ugly	2369,6343
 uh	2775
@@ -12536,7 +12535,7 @@ urinate	4299
 us	3906,3920
 usable	657
 usage	656,1164,3003,4027,5693
-use	656,658,1939,2311,2665,3004,4426,5690
+use	656,658,1939,2310,2665,3004,4426,5690
 use metaphor	5512
 use up	1277,1698,3644,5582,6101
 used	4831,5680
@@ -12846,8 +12845,8 @@ weary	3226,3230,3312
 weather	5832
 weather front	2417
 weather vane	6200
-weather-beaten	3312
 weatherbeaten	2421
+weather-beaten	3312
 weathercock	6200
 weathered	2421
 weatherproof	857
@@ -13153,8 +13152,8 @@ wrong-doer	3454
 wrung out	3011
 wry	1840,5281,6025
 wych elm	4014
-X	2115
 x	2115
+X	2115
 xenic	6385
 xivola	6389
 xylophone	2745
