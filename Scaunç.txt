@@ -29502,7 +29502,11 @@ How do misconceptions take hold?
 
 further excerpts from the Veriloquace Glossary of Alchemy, a reference quire compiled by Rotcham University Primers [1].
 
-- essence n. [/ˈɛ.səns/ "vitamin"] 
+- adipous adj. [/ˈa.dɪ.pəuz/ "fat-soluble"] of a substance, able to dissolve in media such as fats, oils or spirits, as opposed to being able to dissolve in water (see also aqueous); more generally, lacking any significant imbalances of plenty between its atoms [non-polar]. Early 18C, from Scholastic Latin adipōsus "fatty, made of fat", repurposed from earlier non-theoretical usage (see Middle French adipeux "fatty", from the same source) < Classical Latin adeps "fat, lard, grease".
+
+- essence n. [/ˈɛ.sɪns/ "vitamin"] any of a specific group of substances, either aqueous or adipous, which are must be ingested in small quantities for human health because they are not prodcued internally. In alchemical use circa 1860, formed backwards from essential "necessary, indispensible" < Medieval Latin essentiālis "intrinsic, necessary" < Classical Latin essentia "nature, being" < esse "to be".
+
+- oromarynx n. [/ˌɔ.ɾʊˈma.ɾɪnks/ "riboflavin"] an orange-yellow aqueous essence with various functions in the human body, including case [cell] fuelling and thyreous action [immune response]. 1923 via Welsh < Scholastic Latin oromarynx < Greek ὀρός • (orós) "whey", since the substance was first isolated from cow's-milk whey, and μαρυγξ • (marynx) "marynx" [fluorescent substance], due to its characteristic halvation under surblavic [UV] light. This latter word, first attested in the Malchassian period in the sense "flash, glimmer", is thought to be related to verb μαρμαίρω • (marmaírō) "(of metal) to flash, sparkle" or μαριεύς • (marieús) "quicklime".
 
 [1] a publishing house based in the city of Rotcham [Rochdale, Greater Manchester] and affiliated with the local university.
 
