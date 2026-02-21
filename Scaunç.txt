@@ -29786,4 +29786,167 @@ Why did you hire an interpreter you don't trust?
 
 ##
 
-213.3:
+213.3: pedisecq "attendant"
+
+pedisecq /ˌpe.diˈzɛk/ [ˌpe.dɪˈzɛk]
+- attendant, servant, page, valet, a person employed to see to a person's needs;
+- goon, henchperson, thug, an enforcer for an organised crime syndicate;
+- lackey, follower, toady, sycophant, a servile flatterer
+
+Etymology: early modern period as a direct borrowing from Latin pedisequus "attendant", used as a general term encompassing the pre-existent specific terms for various types of personal servant. The Latin term literally means "following on foot", from pēs "foot" and sequor "I follow". The word had gained generally pejorative connotations by the twentieth century, reinforced by its use in media depicting gangs and similar groups.
+
+L'aye un pedisecq offiçað a y roum costojar.
+/lɛˈje ɪn ˌpe.diˈzɛk ˌɔ.fiˈtsaθ a i rum ˌkɔ.stoˈʒar/
+[liˈʝe ɪm ˌpe.dɪˈzɛk ˌɔ.fɪˈtsaθ a i ʀum ˌkɔ.stʊˈʝɐː]
+3s=have-ipf indf goon set-p.pst to df room protect-inf
+He'd set a lackey to guard the room.
+
+##
+
+213.4: enhautir "boost"
+
+enhautir /ˌɛn.hoˈtɪr/ [ˌɛn.hʊˈtɪː]
+- raise, lift, heave, hoist, elevate, to bring or thrust upwards;
+- boost, enhance, heighten, to make better or more potent in some way
+
+Etymology: Middle Borlish, a verbal derivation from haut "high" influenced by Old French enhaucier "elevate, enhance". This latter term descends from Vulgar Latin inaltiō "I raise" with unetymological -h- taken from Frankish hauh "high". The Latin verb is a derivative of the root altus "high, tall". Metaphorical use is seen from the earliest attestations.
+
+Pharmac foncçon enhautiscent son valent nell'oc cors.
+/farˈmak fɔnkˈtsɔn ɛnˌho.tiˈxɛnt sɔn vaˈlɛnt nɛ.lɔk kɔrz/
+[fɐːˈnak fʊnˈksɔn ɪnˌho.tɪˈçɛnt sɔn vɐˈlɛnt ˌnɛ.lʊk kɔːz]
+drug function boost-p.prs be.3p worth-p.prs in-df=s.px contest
+This competition allows performance-enhancing drugs.
+
+##
+
+213.5:
+
+##
+
+214.1: 
+
+##
+
+214.2: madrugoir "nightspot"
+
+madrugoir /ˌma.driˈgɔir/ [ˌma.dʀɪˈgɔjɐ]
+- nightclub, nightspot, club, a venue that is open late at night to provide entertainment (especially alcoholic drinks, music and dancing);
+- nightlife, clubland, the collection of venues open at night in a given location or the mass of people who frequent them;
+- night out, bender, an (especially raucous) instance of going to a nightclub
+
+Etymology: early 20C, place derivation from verb madrugar "to stay up late at night, (strictly) to pull an all-nighter". This was borrowed from Portingale madrugar, the root also of that language's madrugada "the small hours, the period between midnight and dawn". These descend metathetically via Old Portingale  madurgar "to rise early" from Vulgar Larin mātūricō "I hurry, make haste; (literally) I ripen", itself a derivative of mātūrus "ripe". Seen in extended use from the 1940s.
+
+Val la jolley ag madrugoir.
+/val la ʒɔˈli ɛj ˌma.driˈgɔir/
+[val la ʝʊˈli ɛj ˌma.dʀɪˈgɔ.jɐ]
+should 3s.f go.out to.df club
+She should be at the club.
+
+##
+
+214.3: rebateyað "born again"
+
+rebateyað /ˌre.baˈtjaθ/ [ˌʀe.bɐˈtjaθ]
+- rebaptised, born again, dedicated anew to a religious identity (often a more strident or demanding version of one's former faith);
+- rechristened, renamed, provided with a new name or an entire new identity;
+- zealous, fervent, notably dedicated to a newly adopted conviction;
+- revamped, rebranded, relaunched, (of a commercial entity or product) given a new public identity
+
+Etymology: past participle of rebateyar "rebaptise, rename", a derivative of bateyar "baptise, christen". This descends from Medieval Latin baptidiō "I baptise", itself via Late Latin baptizō "I dip into water" from Greek βαπτίζω • (baptízō) "I immerse, plunge". Metaphorical extension outside religious contexts is seen from the eighteenth century; use for things as well as people is attested from the twentieth century.
+
+Jo faïsce l'azig original sull'ec rebateyað.
+/ʒo ˌfɛjɪˈxe laˈzaj oˌri.ʒiˈnal sɪ.lɛk ˌre.baˈtjaθ/
+[ʝo ˌfɛ.jɪˈçe lɐˈzaj ʊˌʀi.ʝɪˈnal ˌsɪ.lɛg ˌʀe.bɐˈtjaθ]
+1s prefer-ipf df=shoe original on-df=p.px born.again
+I preferred the shoes before the rebrand.
+
+##
+
+214.4: varennastr "underworld"
+
+varennastr /ˌva.rɛˈnastr̩/ [ˌva.ʀɪˈna.stɐ]
+- underworld, demimonde, that part of society engaged in crime or vice (often in particular organised crime or prostitution);
+- black market, the network of illicit trade of restricted goods;
+- underbelly, the hidden or unsavoury side of an insitution or subculture
+
+Etymology: 19th century, pejorative derivation from varen "burrow, warren, lair, sett (underground animal dwelling); slum, favela, shantytown". This was borrowed in the early Middle Borlish period from Norman warenne (compare Parisian guerenne "hunting ground, public park"). This comes either via Frankish from Classical German variō "I defend from, I ward against", or via Gaulish varrennā "fenced area" from Classical Kelt varrā "fencepost" (whence modern Welsh guar "neck").
+
+Ðe dein moneð an demeg dy varennastr.
+/ðe din moˈnɛθ an deˈmij di ˌva.rɛˈnastr̩/
+[ðe din mʊˈnɛθ an dɪˈmɪj di ˌva.ʀɪˈna.stɐ]
+3p owe-3p money to-indf half of-df demimonde
+They owe money to half the underworld.
+
+##
+
+214.5:
+
+##
+
+215.1:
+
+##
+
+215.2: ou sunt ou soluð "take it or leave it"
+
+ou sunt ou soluð /u sɪnt u soˈlɪθ/ [u sɪnt u sʊˈlɪθ]
+- take it or leave it, expression asserting that something is fixed regardless of whether the listener accepts it;
+- either way, no matter what, regardless, no different under any circumstances
+
+Etymology: idiom attested from the seventeenth century, literally "whether used or discarded". The archaic coordinating construction ou … ou "either … or" (now usually ou … ben) descends directly from Latin aut "or", while the past participles come from poetic sumir "seize, take, use" < Latin sūmō "I get" and souvr "let go, release" < Latin solvō "I loosen, untie".
+
+Jo vos parsourray 50⍚ ou sunt ou soluð.
+/ʒo vɔz ˌpar.suˈre tsɪnˈkwant ʒɛˈma u sɪnt u soˈlɪθ/
+[ʝo vɔz ˌpɐː.sʊˈʀe tsɪŋˈkwant ʝɪˈma u sɪnt u sʊˈlɪθ]
+1s 2p pay-fut.1s 50 gemma q use.p.pst q let.go-p.pst
+I'll pay you 50⍚, take it or leave it.
+
+##
+
+215.3: sabler reuvr
+
+sabler reuvr "turn back time"
+
+sabler reuvr /saˈblɛr rauvr̩/ [sɐˈblɛː ˈʀau.vɐ]
+- turn back time, (used literally) to travel into the past;
+- try again, have a do-over, get another chance, to be permitted to disregard some result and attempt something anew;
+- live in the past, to dwell (usually overmuch) on memories or nostalgia;
+- (computing) reset, to restore to a previous state
+
+Etymology: idiom attested from the nineteenth century, literally "to flip (an) hourglass". The noun sabler "hourglass" is a derivative of sabr "sand" influenced by synonymous sablier in French, from Latin sabulō "sand, gravel". The verb reuvr "flip, upend" descends directly from Latin revolvō "I unwind; I turn over". Originally restricted to metaphor, the phrase is attested in literal use from the late nineteenth century in parachthon [sci-fi, fantasy] works of writing.
+
+La peðeu a sabler reuvr dy scitaçon.
+/la peˈðau a saˈblɛr rauvr̩ di ˌxi.taˈtsɔn/
+[la pɪˈðau a sɐˈblɛː ˈʀau.vɐ di ˌçi.tɐˈtsɔn]
+3s.f ask-pst to hourglass flip-inf of-df exam
+She asked to resit the exam. 
+
+##
+
+215.4: y gra valir "measure up"
+
+y gra valir /i gra vaˈlɪr/ [i gra vɐˈlɪː]
+- be up to the challenge, meausre up, to have some quality allowing one to succeed at some difficult endeavour;
+- hold one's own, rise to the occasion, to succeed despite adversity;
+- have the balls, dare, to possess enough courage or audacity to attempt something;
+- matter, count for something, be worth it, to have enough merit to bother considering
+
+Etymology: idiom attested from as early as the fifteenth century in Kigman's poetry, literally "to be worth (the) importance". The verb valir "be worth; should" descends directly from Latin valeō "I have power, I am well". The noun gra "importance, degree, extent" reflects Old Borlish gra "level, sake, weight", which conflates the reflex of Latin gravis "heavy" with that of Latin gradus "step, rank, position".
+
+L'ec corrovað valeurn y gra vraseyant alcot?
+/lɛk ˌkɔ.roˈvaθ vaˈlaurn̩ i gra vraˈzjant alˈkɔt/
+[lɛk ˌkɔ.ʀʊˈvaθ vɐˈla.wɐn i gʀa vʀɐˈzjant ɐˈgɔt]
+df=p.px recruit merit-pst.3p df degree impress-p.prs how
+How well did the novices rise to the occasion?
+
+##
+
+215.5:
+
+##
+
+216.1:
+
+##
+
+216.2:
