@@ -29799,7 +29799,7 @@ L'aye un pedisecq offiçað a y roum costojar.
 /lɛˈje ɪn ˌpe.diˈzɛk ˌɔ.fiˈtsaθ a i rum ˌkɔ.stoˈʒar/
 [liˈʝe ɪm ˌpe.dɪˈzɛk ˌɔ.fɪˈtsaθ a i ʀum ˌkɔ.stʊˈʝɐː]
 3s=have-ipf indf goon set-p.pst to df room protect-inf
-He'd set a lackey to guard the room.
+He had set a lackey to guard the room.
 
 ##
 
@@ -29903,9 +29903,7 @@ I'll pay you 50⍚, take it or leave it.
 
 ##
 
-215.3: sabler reuvr
-
-sabler reuvr "turn back time"
+215.3: sabler reuvr "turn back time"
 
 sabler reuvr /saˈblɛr rauvr̩/ [sɐˈblɛː ˈʀau.vɐ]
 - turn back time, (used literally) to travel into the past;

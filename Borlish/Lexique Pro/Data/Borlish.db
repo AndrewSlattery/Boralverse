@@ -5926,6 +5926,15 @@
 
 \et Old Borlish < Medieval Latin < Greek
 
+\lx bateyar
+\ps ar v
+
+\ge baptise
+\ge christen
+\ge name
+
+\et from Medieval Latin baptidiō "I baptise", itself via Late Latin baptizō "I dip into water" from Greek βαπτίζω • (baptízō) "I immerse, plunge".
+
 \lx batman
 \ps n
 
@@ -19400,6 +19409,25 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 
 \et Middle Borlish < Latin
 
+\lx enhautir
+\ps ir2 v
+
+\ge raise
+\ge lift
+\ge heave
+\ge upheave
+\ge hoist
+\ge elevate
+\ge enhance
+\ge boost
+\ge heighten
+
+\xv Pharmac foncçon enhautiscent son valent nell'oc cors.
+\xe This competition allows performance-enhancing drugs.
+
+\et Middle Borlish, a verbal derivation from haut "high" influenced by Old French enhaucier "elevate, enhance". This latter term descends from Vulgar Latin inaltiō "I raise" with unetymological -h- taken from Frankish hauh "high". The Latin verb is a derivative of the root altus "high, tall". Metaphorical use is seen from the earliest attestations.
+\mn haut
+
 \lx enigma
 \ps n
 
@@ -24977,7 +25005,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge severe
 \ge grave
 
-\et Old Borlish < Latin
+\et Old Borlish gra "level, sake, weight", which conflates the reflex of Latin gravis "heavy" with that of Latin gradus "step, rank, position".
 
 \lx gra de sey
 \ps adv
@@ -33337,6 +33365,23 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Old Borlish < Latin
 
+\lx madrugoir
+\ps n
+
+\ge nightclub
+\ge night club
+\ge nightspot
+\ge club
+\ge nightlife
+\ge clubland
+\ge night out
+\ge bender
+
+\xv Val la jolley ag madrugoir.
+\xe She should be at the club.
+
+\et early 20C, place derivation from verb madrugar "to stay up late at night, (strictly) to pull an all-nighter". This was borrowed from Portingale madrugar, the root also of that language's madrugada "the small hours, the period between midnight and dawn". These descend metathetically via Old Portingale  madurgar "to rise early" from Vulgar Larin mātūricō "I hurry, make haste; (literally) I ripen", itself a derivative of mātūrus "ripe". Seen in extended use from the 1940s.
+
 \lx maður
 \ps adj
 
@@ -39830,6 +39875,22 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn ou2
 \mn ave
 
+\lx ou sunt ou soluð
+\ps adv
+
+\ge take it or leave it
+\ge either way
+\ge no matter what
+\ge regardless
+
+\xv Jo vos parsourray 50⍚ ou sunt ou soluð.
+\xe I'll pay you 50⍚, take it or leave it.
+
+\et idiom attested from the seventeenth century, literally "whether used or discarded".
+\mn ou
+\mn sumir
+\mn souvr
+
 \lx ouç
 \ps n
 
@@ -41727,6 +41788,29 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge ask
 
 \et Old Borlish < Latin
+
+\lx pedisecq
+\ps n
+
+\ge attendant
+\ge servant
+\ge page
+\ge valet
+\ge goon
+\ge henchperson
+\ge henchman
+\ge henchwoman
+\ge thug
+\ge lackey
+\ge toady
+\ge follower
+\ge sycophant
+\ge yes-man
+
+\xv L'aye un pedisecq offiçað a y roum costojar.
+\xe He had set a lackey to guard the room.
+
+\et early modern period as a direct borrowing from Latin pedisequus "attendant", used as a general term encompassing the pre-existent specific terms for various types of personal servant. The Latin term literally means "following on foot", from pēs "foot" and sequor "I follow". The word had gained generally pejorative connotations by the twentieth century, reinforced by its use in media depicting gangs and similar groups.
 
 \lx peðrour
 \ps n
@@ -46602,6 +46686,50 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Old Borlish
 
+\lx rebateyaçon
+\ps n
+
+\ge carte blanche
+\ge free rein
+\ge do-over
+\ge clean slate
+
+\et noun from rebateyar "rebaptise".
+\mn rebateyar
+
+\lx rebateyað
+\ps adj
+
+\ge rebaptised
+\ge born again
+\ge rechristened
+\ge renamed
+\ge reborn
+\ge zealous
+\ge fervent
+\ge revamped
+\ge rebranded
+\ge relaunched
+
+\xv Jo faïsce l'azig original sull'ec rebateyað.
+\xe I preferred the shoes before the rebrand.
+
+\et past participle of rebateyar "rebaptise, rename".
+\mn rebateyar
+
+\lx rebateyar
+\ps ar v
+
+\ge rebaptise
+\ge rechristen
+\ge rename
+\ge revamp
+\ge rebrand
+\ge relaunch
+
+\et a derivative of bateyar "baptise, christen". Metaphorical extension outside religious contexts is seen from the eighteenth century; use for things as well as people is attested from the twentieth century.
+\mn bateyar
+
 \lx rebondir
 \ps ir2 v
 
@@ -48962,6 +49090,30 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \xe I'll have to spend January among rustics.
 
 \et from Old Borlish rustre "rural", either directly from Latin rūsticus "rural" or via synonymous rustre in Old French. The insulting senses date as far back as Classical times, and may have been reintroduced during the Middle Borlish period.
+
+\lx sabler
+\ps n
+
+\ge hourglass
+\ge sand timer
+
+\et I'll pay you 50⍚, take it or leave it.
+
+\lx sabler reuvr
+\ps r v
+
+\ge turn back time
+\ge try again
+\ge resit
+\ge have a do-over
+\ge get a second chance
+\ge live in the past
+\ge reset
+
+\xv La peðeu a sabler reuvr dy scitaçon.
+\xe She asked to resit the exam. 
+
+\et idiom attested from the nineteenth century, literally "to flip (an) hourglass". Originally restricted to metaphor, the phrase is attested in literal use from the late nineteenth century in parachthon [sci-fi, fantasy] works of writing.
 
 \lx sabr
 \ps n
@@ -59593,7 +59745,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge be permitted
 \ge be allowed
 
-\et Old Borlish < Latin
+\et Old Borlish, directly from Latin valeō "I have power, I am well".
 
 \lx valour
 \ps n
@@ -59778,6 +59930,34 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge eagerness
 
 \et Old Borlish < Latin
+
+\lx varen
+\ps n
+
+\ge warren
+\ge burrow
+\ge lair
+\ge den
+\ge sett
+\ge slum
+\ge favela
+\ge shantytown
+
+\et borrowed in the early Middle Borlish period from Norman warenne (compare Parisian guerenne "hunting ground, public park"). This comes either via Frankish from Classical German variō "I defend from, I ward against", or via Gaulish varrennā "fenced area" from Classical Kelt varrā "fencepost" (whence modern Welsh guar "neck").
+
+\lx varennastr
+\ps n
+
+\ge underworld
+\ge demimonde
+\ge black market
+\ge underbelly
+
+\xv Ðe dein moneð an demeg dy varennastr.
+\xe They owe money to half the underworld.
+
+\et 19th century, pejorative derivation from varen "burrow, warren, lair, sett (underground animal dwelling); slum, favela, shantytown".
+\mn varen
 
 \lx variaçon
 \ps n
@@ -62097,6 +62277,26 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \mn gas
 \mn jogndr
+
+\lx y gra valir
+\ps ir1 v
+
+\ge measure up
+\ge be up to the challenge
+\ge hold one's own
+\ge rise to the occasion
+\ge have the balls
+\ge dare
+\ge matter
+\ge count for something
+\ge be worth it
+
+\xv L'ec corrovað valeurn y gra vraseyant alcot?
+\xe How well did the novices rise to the occasion?
+
+\et idiom attested from as early as the fifteenth century in Kigman's poetry, literally "to be worth (the) importance".
+\mn gra
+\mn valir
 
 \lx y jainç tauger
 \ps n
