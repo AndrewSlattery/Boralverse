@@ -1,0 +1,15 @@
+166.4: ouger "host"
+
+ouger /uˈʒɛr/ [ʊˈʝɛː]
+- landlord, landlady, proprietor, innkeeper, the person who owns a public building (especially a bar or lodging house);
+- host, one who receives or entertains guests;
+- emcee, moderator, the person running an event;
+- presenter, anchor, the face of a programme on radio, TV, etc.
+
+Etymology: from Middle Borlish ouger "landlord/lady", altered from louger via rebracketing of the definite article. This is an agent derivative of now-obsolete lousc "shelter; inn", borrowed from Old French loge "shelter; covered walkway, hut, small room", via synoymous laubia in Medieval Latin from the Classical German root laubam "leaf, foliage". The word has been applied also to other host roles since the seventeenth century.
+
+L'es un ouger sobottal cay set annað.
+/lɛz ɪn uˈʒɛr ˌso.bɔˈtal ke sɛt aˈnaθ/
+[lɛz ɪn ʊˈʝɛː ˌso.bʊˈtal ke sɛt ɐˈnah]
+3s=be indf host radio fall seven year
+He's been a radio host for seven years.

@@ -1,0 +1,13 @@
+25.2: scon stemn "second (cousin)"
+
+scon stemn /xɔn ˈste.mn̩/ [xɔnˈstɛ.mɐn]
+- (in the phrase cosvour scon stemn) second cousin, familial relation of sharing a single pair of great-parents;
+- unprototypical, non-central, being only technically a member of some reference class
+
+Etymology: literally "second lineage"; the adjective scon derives directly from Latin secundus "second" with some irregular reduction (to wit, sporadic loss of the pretonic vowel), while the noun stemn reflects Old Boral stemn "(plant) stem, sapling", from the synonymous Old English stemn. In metaphorical usage, seen from the sixteenth century.
+
+Jo save noc tu aus cosvour scon stemn n'Ambrosia!
+/ʒo saˈve nɔk ti oz kɔsˈvur xɔn ˈste.mn̩ ˌnam.broˈzja/
+[ʝo sɐˈve nɔk tjoz kʊˈzvʊː xɔnˈstɛ.mɐn ˌnam.bʀʊˈzja]
+1s know-ipf neg 2s have-sbj.ipf cousin second lineage in=Ambrosia
+I didn't know you had second cousins in Ambrosia!

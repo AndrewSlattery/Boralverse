@@ -1,0 +1,20 @@
+121.3: scaug "hung"
+
+scaug /xoj/ [xoj]
+- thicket, copse, grove, stand, a dense but small collection of trees or shrubs;
+- bramble, briars, an area of thorny shrubs
+- tangle, mess, snarl, a knotted twisted mass;
+- maze, conflict, dispute, an intricate complication or difficult situation;
+- tangled, knotty, snarled, interwoven as of strands or branches;
+- thorny, complex, intricate, hard to navigate or make progress through;
+- unresolved, unsolved, indeterminate, open, unsettled, not having been sorted out;
+- (law) hung, undecided, of a jury not having reached a verdict;
+- (politics) hung, of a legislature lacking a majority political party
+
+Etymology: a borrowing from early Middle English shawe, scaȝe "thicket", from synonymous sceaga in Old English. Extended metaphorically to any tangle by the fifteenth century, and in adjectival use since the seventeenth. In its legal and political senses it is attested from the Global Workshop period.
+
+Orruð ig scerra alcheðr un parolment scaug.
+/ɔˈrɪθ aj xɛˈra alˈkɛðr̩ ɪn ˌpa.rɔlˈmɛnt xoj/
+[ʊˈʀɪ‿ðaj çɪˈʀa ɐˈgɛð‿ʀɪm ˌpa.ʀʊlˈmɛnt xoj]
+seem cmp there.be-ft anew indf parliament hung
+It seems there'll be another hung parliament.

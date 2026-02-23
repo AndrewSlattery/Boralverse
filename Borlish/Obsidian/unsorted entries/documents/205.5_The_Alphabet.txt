@@ -1,0 +1,30 @@
+205.5: The Alphabet
+
+excerpt from near the end of the Concise Onomatory o'Merch (sixth edition), a reference work published in 2001 and compiled by the Utcheter Lexical Association.
+
+…a clouded wine fermented from rice, brewed across Asia from northeastern Hind [India] to Nivon [Japan]. Around 1700 as zito < Napolitan zito, zuto "rice wine" < Tenivian [Angami] ʐúthó. Respelt in the nineteenth century in line with the possible cognate in Greek ζῦθος • (zûthos) "an Egyptian barley beer".
+
+Afterwords
+
+1. Th'Alphabet
+
+a ba ce dy e ef ge,
+hake i jot, kea el em;
+en o pa qua ro es te
+u va win, ex wy zed.
+
+The letter names in Merch are a mixture, some descending from Old English futhork runes and others from Old Northern French names for the Latin letters.
+
+The vowels a e i o u [/ɛː iː əi uː jəw/] reflect Latin; four from early Merch long vowels [/aː eː iː oː/] and the last from the adaptation of ONFr [/y/] to [/juː/]. The name of the half-vowel y [/wəi/] is of unclear origin, but usually supposed to be a combination of the names of u and i (compare ONFr ui and modern Borlish oy "Y").
+
+The inverted names ef el em en es [/ɛf ɛl ɛm ɛn ɛs/] come via ONFr from Latin, unusual for ending with their associated sound instead of starting with it. The names of kea ex zed [/kɛː ɛks zɛd/] also come from Latin for lack of any corresponding rune (although some scholars suggests that the ill-attested elhs "elks" rune may have contributed to "X").
+
+Other borrowings via ONFr from Latin are ce ge hake te [/siː dʒiː hɛːk tiː/]; alternatively, the name for "T" may stem from a rebracketing of tue < OE tiw as te + u due to the following u in the alphabet.
+
+Descendants of OE futhorc include dy ro win [/dəi roː wɪn/] < OE dæg rād wynn. The "R" name showcases final-consonant deletion, which also happened to ba pa qua [/baː paː kwaː/] < OE berc perþ cƿerþ in the early modern period as a form of regularisation.
+
+The final two letters are jot and va [/dʒɔt vaː/]; the first is an early Merch borrowing via Latin iōta from Greek ιῶτα • (iôta) "iota" used to distinguish the consonant j from the vowel i, and the second is an alteration of earlier vaw (likely by rebracketing with the following win) borrowed in the early modern period via Latin vau from (presumed) Greek ϝαῦ • (waû) "waw".
+
+2. The Numbers
+
+one two thre…

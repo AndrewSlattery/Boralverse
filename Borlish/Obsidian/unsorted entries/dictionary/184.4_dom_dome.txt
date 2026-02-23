@@ -1,0 +1,14 @@
+184.4: dom "dome"
+
+dom /dɔm/ [dɔm]
+- dome, cupola, the architectural feature of a hollow upper half-sphere on the roof of a building;
+- (mathematics) hemisphere, the surface of half a sphere;
+- pate, crown, the top of the head (especially when hairless)
+
+Etymology: originally in the first sense, from Middle Borlish dom "dome; stately building, edifice" (now obsolete in the latter senses). This comes from the conflation of Italian duomo "cathedral", from Latin domus ecclēsiae​ "meeting-house, church", with French dosme "dome", which comes via Late Latin dōma "roof" from Greek δῶμᾰ "house, housetop". The merger, which had likely already occurred in Middle French before the term entered Borlish, was aided by the prominence of domes on Italian cathedrals.
+
+Com s'augrim y stent a starn d'un dom lonc sy ray?
+/kɔm soˈgrɪm i stɛnt a starn d'ɪn dɔm lɔnk si re/
+[kɔm sʊˈgʀɪm i stɛnt a stɐːn dɪn dɔm lɔŋk si ʀe]
+how rf=calculate df area at outside of=df dome along 3s.gn radius 
+What is a hemisphere's surface area in terms of its radius?

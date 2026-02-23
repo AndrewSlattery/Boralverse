@@ -1,0 +1,19 @@
+18.3: yevot "scope"
+
+yevot /jeˈvɔt/ [ʝɪˈvɔt]
+- range, spectrum, scope, gamut, the space of available or attanable positions or options;
+- extent, size, field, the area over which something extends or the degree to which something is applicable or relevant
+
+Etymology: from Middle Boral yevot (also yef) "measure, size, length", a nominal derivation from now-obsolete yevar "to measure, to come to", originally from Latin aequō "I equalise, compare".
+
+Nos parsisceum sull'yevot d'œculux.
+/nɔz ˌparziˈxawm ˌsɪ.ljeˈvɔt ˌde.kiˈlɪks/
+[nʊz ˌpɑː.zɪˈçawm ˌsɪ.ljɪˈvɔt ˌde.kɪˈlɪks]
+1p learn-pst.1p on.def=range of=EM
+We learnt about the electromagnetic spectrum.
+
+Cal yevot a l'oc colluy indrec?
+/kal jeˈvɔt a lɔk kɔˈlaj ɪnˈdʀɛk/
+[kaw ʝɪˈvɔt a lɔ kʊˈlaj ɪnˈdʀɛk]
+what range have.s guild charitable
+What is the scope of this charity?

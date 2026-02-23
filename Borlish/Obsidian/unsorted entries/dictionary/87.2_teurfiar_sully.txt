@@ -1,0 +1,14 @@
+87.2: teurfiar "sully"
+
+teurfiar /tawrˈfjar/ [ˌta.wɐˈfjɑː]
+- tar, blacken, to coat with tar or otherwise cause to become black;
+- soil, stain, dirty, sully, to make something unclean or less pure (physically or morally);
+- defame, tarnish, smear, besmirch, slander, to damage the reputation of
+
+Etymology: Middle Boral derivation from noun teur "tar" with the suffix -fiar (< Latin -ficō) which forms verbs meaning "to make/render _". The noun teur is an Old Boral borrowing from Old English teoru "tar, resin, earwax", which is related to "tree". Almost immediately we see use of the verb, particularly in contemporary legal cases.
+
+Follastr ne vrugheç a mell'accostur teurfiað.
+/fɔˈlastr̩ ne vrajˈɛts a mɛˌla.kɔˈstɪr tawrˈfjaθ/
+[fʊˈla.stɐ ne vʀɐˈʝɛs a mɪˌla.kʊˈstɪː ˌta.wɐˈfjah]
+frolic in moorland have 1s.gen=clothes sully-p.pst
+A moorland frolic has got my clothes dirty.

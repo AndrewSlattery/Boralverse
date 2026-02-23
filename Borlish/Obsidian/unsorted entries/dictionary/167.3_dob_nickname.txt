@@ -1,0 +1,15 @@
+167.3: dob "nickname"
+
+dob /dɔb/ [dɔb]
+- honour, accolade, epithet, title, cognomen, a descriptor conferred upon someone as a status symbol;
+- term, name, signifier, word, lexeme, a descriptor of any concept (especially one from a specialised area of knowledge);
+- byname, nickname, moniker, sobriquet, a familiar form of address for someone or something;
+- handle, username, a string of characters used to identify an account on a digital system
+
+Etymology: originally in the first sense, a deverbal noun from dobar "confer knighthood upon, dub". This is a borrowing of Old French adober "equip, arm; dub", which appers to come from a German root related to Classical German dubilas "peg, dowel". In extended use the word is seen from as early as the fourteenth century; the first attestation of the last sense is from 1964.
+
+Cu vel un nom sceint issarr com dob?
+/ki vɛl ɪn nɔm xint iˈsarr̩ kɔm dɔb/
+[ki vɛl ɪn nɔm çint ɪˈsɐː.ʀɐ kɔm dɔb]
+who will.sbj indf name extant use-inf as epithet
+Who'd use a real name as a username?

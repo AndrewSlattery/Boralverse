@@ -1,0 +1,14 @@
+152.4: bosaç "gunfire"
+
+bosaç /boˈzats/ [bʊˈzas]
+- gunfire, gunshot, report, the act or sound of shooting a gun;
+- shooting, shootout, a confrontation in which guns are fired;
+- criticism, disapproval, flak, censure, bad press, opprobrium, the bad opinion of others
+
+Etymology: 20C, pejorative or augmentative derivation from bos "gun"; attested almost immediately in the metaphorical senses. The noun bos "gun" (cf. Merch boss "gun") is borrowed from Willem Dutch (arm)bósz "gun", which descends via armbaust "crossbow" and synonymous Old French arbaleste from Latin arcuballista "crossbow".
+
+Dou madarc interromoirn un bosaç ny routel.
+/du maˈdark ɪnˌtɛ.roˈmɔirn̩ ɪn boˈzats ni ruˈtɛl/
+[du mɐˈdɐːk ɪnˌtɛ.ʀʊˈmɔ.jɐn ɪm bʊˈzas ni ʀʊˈtɛl]
+two cop interrupt-pst-3p indf gunfire in-df alley
+Two cops interrupted a shoutout in the alley.

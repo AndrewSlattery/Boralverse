@@ -1,0 +1,13 @@
+65.4: gamblas "barge"
+
+gamblas /gamˈblaz/ [gɐmˈblaz]
+- barge, punt, flat-bottomed boat used for transport of cargo along rivers and canals;
+- houseboat, a vessel such as a barge used as a dwelling
+
+Etymology: Middle Boral borrowing from contemporaneous Kentish gamblass "barge", itself extracted from Welsh łong gamblas "canal ship". It is presumed that the first component łong "ship" was treated in Kentish by folk-etymology as the adjective "long", in a reversal of its Latin origin in (navis) longa "longship".
+
+L'oc compostion de pont parmet coval menn gamblas apar.
+/lɔk ˌkɔm.pɔsˈtsjɔn de pɔnt parˈmɛt koˈval mɛnn̩ gamˈblaz aˈpar/
+[lɔ ˌkɔm.pʊsˈtsjɔn de pɔnt pɐːˈmɛt kʊˈvaw ˈmɛnɐn gɐmˈblaz ɐˈpɑː]
+def-s.px arrangement of bridge allow horse lead-3p barge through
+This bridge design allows horses to draw barges past it.

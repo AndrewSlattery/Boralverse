@@ -1,0 +1,16 @@
+60.4: nis "effort"
+
+nis /nɪz/ [nɪz]
+- effort, exertion, the work involved in doing something;
+- élan, vigour, ardour, zeal, spirit, energy, active strength of body or mind in its capacity for expending effort towards some goal;
+- strain, force, pressure, power exerted to physically push against something;
+- responsibility, fault, obligation, duty, something for which one is responsibility;
+- care, attention, investment, concern, interest, the state of being focused on something
+
+Etymology: from Old Boral nis, neȝs, niȝs et al. "effort, vigour", which descends uncomplicatedly from Latin nīxus, nīsus "strain, forward momentum". This is the participle of deponent verb nītor "I lean on, advance, strive, contend", which does not survive in any descendant.
+
+Jo cur bogr yon nis sbolognar.
+/ʒo kɪr bɔjr jɔn nɪz ˌsbo.lɔjˈnar/
+[ʝo kɪː ˈbɔ.jɐ ʝɔn nɪz ˌzbo.lʊjˈnɑː]
+1s care not.at.all where fault foist.upon-inf
+I don't care whose fault it is.

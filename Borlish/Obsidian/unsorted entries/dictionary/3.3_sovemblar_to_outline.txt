@@ -1,0 +1,17 @@
+3.3: sovemblar "to outline"
+
+sovemblar /ˌso.vɛmˈblar/ [ˌso.vɪmˈblɑː]
+- to sketch, outline, to draw the boundaries of a figure;
+- (more generally) to make a rough or rudimentary depiction of something;
+- (by extension) to describe something simply or inaccurately;
+- to forge, counterfeit; to make a false reproduction of something or act as though you are someone you aren't
+
+also deverbal sovembr /soˈvɛm.br̩/ [sʊˈvɛm.bɐ] sketch, outline; forgery, counterfeit
+
+Etymology: from Middle Boral sowemblar "to imitate, copy (especially badly)", originally from Latin subæmulor "I emulate secretly". Whether the word is a later reborrowing or descends through Old Boral is unclear, as is whether the prefix sou- "under" is retained or a later addition. The use in the context of drawing starts to predominate from the eighteenth century onward, possibly influenced by phonetic similarity to emblem "logo, symbol" < Latin emblēma "mosaic, emblem".
+
+Sell'amig er l'œcumen sovemblant cant nos pascau.
+/ˌse.laˈmaj ɛr ˌle.kiˈmɛn ˌso.vɛmˈblant kant no paˈxo/
+[ˌse.lɐˈma.jɐ ˌle.kɪˈmɛn so.vɪmˈban(t) kan(t) no pɐˈxo]
+3s.gen.def=friend cop.imp def=landscape sketch-ptcp.prs as 1p eat-imp.1p
+His friend was sketching the surroundings as we ate.

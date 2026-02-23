@@ -1,0 +1,14 @@
+76.3: orðenjanç "invention"
+
+orðenjanç /ˌɔr.ðɛnˈʒants/ [ˌɔː.ðɪnˈʝans]
+- invention, innovation, some new mechanism or technique that one has designed;
+- contrivance, contraption, device, some means of carrying out a given task;
+- skill, cunning, inventiveness, creativity, the capacity to invent things (often with the connotation of underhanded means or ends)
+
+Etymology: nominal derivative of verb orðenjar "to invent, innovate, contrive, devise". This descends from the particularly-variable Old Boral orðençar, orthanscar, aðincquar "to invent, make up", which appears to be the confused chimera of Old English noun orþanc "creativity, skill, invention" and related verb āþenċan "to conceive of, think up".
+
+Rom ny siecr cinqueç sta ven d'orðenjanç.
+/rɔm ni ˈsjɛ.kr̩ tsɪnˈkwɛts sta vɛn ˌdɔr.ðɛnˈʒants/
+[ʀɔm ni ˈsjɛ.kɐ tsɪŋˈkwɛs sta vɛn ˌdɔː.ðɪnˈʝans]
+Rome in-def century 15 be.ipf vein of-invention
+Fifteenth-century Rome was a hotbed of innovation.

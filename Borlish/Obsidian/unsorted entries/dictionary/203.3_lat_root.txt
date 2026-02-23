@@ -1,0 +1,15 @@
+203.3: lat "root"
+
+lat /lat/ [lat]
+- side, edge, a one-dimesional segment of the surface of a shape;
+- root, a number which when raised to a given power yields a particular quantity (especially the square root);
+- cusp, precipice, an abrupt boundary between two relatively smooth planes;
+- verge, brink, threshold, an edge or margin before a sudden or dramatic change
+
+Etymology: Middle Borlish, a borrowing from Latin latus "side, flank". Originally used in geometry, and extended to the arithmetic usage by analogy to the example of a square's area and side-length. Senses referring to metaphorical sudden boundaries are attested from the eighteenth century.
+
+Y lat vorpal de cinq cent e doç val ogt.
+/i lat vɔrˈpal de tsɪnk tsɛnt e dɔts val ɔjt/
+/i lat vʊːˈpal de tsɪŋk tsɛnt e dɔts val ɔjt/
+df side diced of five hundred and twelve worth eight
+The cube root of five hundred and twelve is eight.

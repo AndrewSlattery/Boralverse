@@ -1,0 +1,14 @@
+156.4: droccon "driveway"
+
+droccon /drɔˈkɔn/ [dʀʊˈkɔn]
+- lay-by, an indentation in the side of a road for vehicles to stop in;
+- parking space, berth, an area where a vehicle is intended to be left;
+- driveway, a private area at the front of a dwelling where one might keep one's vehicles
+
+Etymology: twentieth century, a noun formation from verb droccar "notch, indent" calqued from dentelon "lay-by" in Parisian French. The verb comes from droc "notch, indentation", which is of obscure origin. Putative connections with English trough or Welsh rhych "furrow" have too many issues to be workable, and nobody credits a link with draucus "strongman" in Latin; perhaps the word (which is first attested in the Old Borlish period) is simply onomatopoeia.
+
+Cayen deg minut pre un vec alandau ny droccon.
+/keˈjɛn dij miˈnɪt pre ɪn vɛk ˌa.lanˈdo ni drɔˈkɔn/
+[kɪˈʝɛn di mɪˈnɪt pre ɪɱ vɛk ˌa.lɐnˈdo ni dʀʊˈkɔn]
+fall-ipf-3p ten minute before indf bus arrive-pst in-df lay.by
+It was ten minutes before a bus pulled into the lay-by.

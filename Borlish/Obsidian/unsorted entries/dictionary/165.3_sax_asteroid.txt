@@ -1,0 +1,13 @@
+165.3: sax "asteroid"
+
+sax /saks/ [saks]
+- asteroid, planetoid, comet, a naturally occurring solid object orbiting the Sun which is too small to become spherical under gravity;
+- (specifically) such a small body located with the cisjovial ring [asteroid belt]
+
+Etymology: 1813, a borrowing from Latin saxum "stone, rock", used as a calque from synonymous tsa'ra in Mashick Arabic. The term was originally used to describe the various apparently-pointlike bodies in the cisjovial ring, which at that time were being discovered by telescope. The first celestial body this word was applied to, Ixion [Ceres], is now known to be spherical under gravity and so is no longer considered to be a sax. In modern usage saxes include comets, although knowledge of comets dates back to antiquity.
+
+Theorist prevein un collijon par sax d'an 2026.
+/θauˈrɪst preˈvin ɪn ˌkɔ.liˈʒɔn par saks dan du mɪl vint sij/
+[ðɐuˈʀɪst pʀɪˈvin ɪn ˌkɔ.lɪˈʝɔn pɐː saks dan du mɪl vint sɪi]
+scientist foresee-3p indf collision by asteroid of=year 2026
+Scientists predict an asteroid impact in 2026.

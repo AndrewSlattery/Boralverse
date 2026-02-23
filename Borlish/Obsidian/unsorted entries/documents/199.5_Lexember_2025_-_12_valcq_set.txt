@@ -1,0 +1,26 @@
+199.5: Lexember 2025 - 12: valcq "set"
+
+valcq /valk/ [valk]
+- bout, attack, fit, a short period of unpleasant suffering or violence;
+- stint, spell, stretch, any delimited amount of time dedicated to a particular activity;
+- (games) set, a group of rounds of a game (esp. racket sports) which counts as a unit for the team that wins more than half of them
+
+Etymology: eighteenth century, allied with Norman valque, Kentish or Willem walk, Saxon walke, and many others all meaning "bout; (racket sports) set". Use for less unpleasant periods of time is a Borlish innovation dating to the early twentieth century, originally with sarcastic force. The ultimate origin is almost certainly Boham [Czech] wálca "war", but influence from Kentish verb walken "to move, travel; to occur, take place" is not unlikely.
+
+Tu atten cal compleis a vencr ny valcq sevent?
+/ti aˈtɛn kal kɔmˈpliz a ˈvɛn.kr̩ ni valk seˈvɛnt/
+[ti ɐˈtɛn kal kʊmˈpliz a ˈvɛŋ.kɐ ni valk sɪˈvɛnt]
+2s await what player to win-inf in-df bout next
+Which player do you think will win the next set?
+
+===
+
+Unresolved Linguistic History
+
+excerpt in translation from 2004 article A New History of Rust (originally in Borlish as Un Histoir Novel de Rougl), an academic overview of the linguistic history of sub-Roman Borland (approximately, the time after Latin ceased to be regularly written on Borland outside monasteries and before the first surviving longform vernacular texts).
+
+…summary, the chronology of the following changes from Vulgar Latin to Old Borlish: (1) /au/ to /o/, as in Latin causa and Old Borlish cos "matter, thing"; (2) /alC/ to /auC/, as in Latin alter and Old Borlish autre "other"; (3) /al[ə]C/ > /alC/, as in Latin calidus and Old Borlish calt "hot", is irreducibly blurry on the margins. Even if in general these are supposed to have taken place in this order, re-classicisations like taur "bull" (earlier tor) from Latin taurus and mere exceptions like unproductive adjectival suffix -autr from Latin -aliter must be accounted for.
+
+We turn to the question on the early Old Borlish lexicon about which perhaps the most scholarship has been written. Since the Merch linguist Buthick Morstan first suggested the existence of an Insular Latin word *urum "man" in 1909, data supporting her theory has continued to trickle in, while never becoming overwhelmingly convincing. Moreover, even if the majority of experts accept the existence of this word, the field is split on whether it is simply a phonetic variant of Classical Latin virum "man", or else a borrowing from Borland Kelt vurum, urum "man" (compare Brythonic guur, whence Welsh gwr "man").
+
+Morstan was aware of potential surviving traces of this term, such as dialect terms like orrel "penis" and orjan "scarecrow", as well as personal names like Orrin, but she was writing before the discovery of Roman-era…

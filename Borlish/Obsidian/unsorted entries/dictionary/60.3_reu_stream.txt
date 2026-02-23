@@ -1,0 +1,15 @@
+60.3: reu "stream"
+
+reu /raw/ [ʀaw]
+- stream, brook, creek, beck, a small river;
+- track, route, a course of way especially one fixed for vehicles like trains or else  a path conceived of as one from a choice of multiple such paths;
+- module, class, course, a taught series of lessons or lectures covering a particular topic in the context of a syllabus with many concurrent such courses;
+- channel, source, feed, a particular source of media (whether radio, TV, internet, etc)
+
+Etymology: from Old Boral riu "stream, small river", from the synonymous rīvus in Latin. First attested in the scholastic sense from eighteenth-century student slang at the Vithor New School, and in the last sense first applied to tachygraph casting in the twentieth.
+
+Caye un pont a los tras y reu.
+/kɛˈje ɪn pɔnt a lɔz traz i raw/
+[kɪˈje ɪm pɔnt ɐ lɔz tʀaz i ʀaw]
+fall-ipf indf bridge at flag across def stream
+Stepping stones spanned the stream.

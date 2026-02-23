@@ -1,0 +1,13 @@
+187.2: feurðon "decare"
+
+feurðon /faurˈðɔn/ [ˌfa.wɐˈðɔn]
+- rood, vergée, a traditional unit of land area equal to one quarter of an acre;
+- decare, a modern metric unit of land area defined as ten thousand square feet
+
+Etymology: originally in the first sense, part of the traditional system of area measures used on Borland along with the acr "acre" (also called the jur in the east). The word reflects Old Borlish feorðon, forðin "rood", from Old English féorðing or Old Norrish [Norse] fiórðungr "quarter, fourth part". The word was redefined in the nineteenth century with the adoption of dime [metric] units, being the numerically closest measure available (compare the Turk دونوم • dönüm or the Nivoner [Japanese] たんぶ • tambu, units which were similarly adjusted to this new dime measure).
+
+Y majon terraun set nell'oc feurðon.
+/i maˈʒɔn tɛˈron sɛt nɛˈlɔk faurˈðɔn/
+[i mɐˈʝɔn tɪˈʀon sɛt nɛ.lʊk ˌfa.wɐˈðɔn]
+df house amount-fut-3p 7 in-df=s.px rood
+There'll be seven houses in this decare.

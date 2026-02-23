@@ -1,0 +1,13 @@
+29.2: treublar "annoy"
+
+treublar /trawˈblar/ [tʀɐwˈblɑː]
+- to trouble, annoy, distress, bother, to cause somebody to be anxious or perplexed;
+- to hinder, fetter, hold back, to be an obstacle preventing someone from acting as they wish
+
+Etymology: from Old Boral treular, triblar (among other forms) "to pressure, to stopper", which descend directly from Latin trībulō "I press, squeeze, extract". The survival of the form treublar in particular may be due to influence from unrelated contemporary English troublen or French troubler, which are related via metathesis to Vulgar Latin turbulō "I disrupt, perturb".
+
+J'ay spien y heloit vos treubr noc.
+/ʒe spjɛn i heˈlɔjt vɔz ˈtrawbr̩ nɔk/
+[ʝe spjɛn i hɪˈlɔjt vʊsˈtʀaw.bɐ nɔ]
+1s=have.1s def din 2p annoy neg
+I hope the noise doesn't trouble you.

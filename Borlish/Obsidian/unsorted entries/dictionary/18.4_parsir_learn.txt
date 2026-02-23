@@ -1,0 +1,14 @@
+18.4: parsir "learn"
+
+parsir /parˈsɪr/ [pɐːˈsɪː]
+- to learn, be taught, to acquire or attempt to acquire knowledge or ability in some field;
+- to study, revise, to view or review material in order to make sure one does not forget it;
+- to practise, exercise, drill, to repeat an activity as a way of improving one's level of skill
+
+Etymology: first attested in Middle Boral, variant of older parscir "to learn" presumably formed via dissimilation in forms such as jo parscisc "I learn". Either a contemporary derivation from scir "to know how to" (from synonymous Latin sciō and now obsolete) or a retention of Latin perscīscō "I learn thoroughly" with the usual reanalysis of -scō conjugation.
+
+    Cal bourg parsisceu tu dessur?
+    /kal burg ɛz ˌparzɪˈxaw ti deˈsɪr/
+    [kaw bʊːg ˌpɑːzɪˈxaw ti dɪˈsɪː]
+    what town learn-pst 2s on
+    Which town did you learn about?

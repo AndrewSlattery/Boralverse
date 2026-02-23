@@ -1,0 +1,17 @@
+148.4: 19th Lexember - euxon "quartz"
+
+euxon /aukˈsɔn/ [ɐukˈsɔn]
+- quartz, an abundant mineral made of crystalline or amorphous silicon dioxide;
+- jargon, technobabble, scientific words or concepts that do not (or appear to not) make any sense
+
+Etymology: compare Scholastic Latin euxō "quartz" and Malchassian Greek εὔξώνας • euxṓnas "quartz", both first attested in the tweflth century. Traditionally connected to early Ancient Greek ἐΰξοος • eúxoos "well-polished" and the verb ξύω • xúō "scrape, polish", though this theory has some diachronic and semantic issues. The adjective is attested in Epic literature but no later, and moreover the root pertains very specifically to wood (being related to ξόανον xóanon "wooden image" and ξύλα • xúla "timber").
+
+More recently it has been suggested that the word was borrowed into Latin (and then Greek) from a vernacular. Multiple early attestations have led scholars to propose that the word might have come from Borlish itself. If so, the most accepted theory is that the word is originally from attested Old English eolh-sond "amber", literally "elk-sand".
+
+The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is quartz to me"), used to express unfamiliarity with a technical field.
+
+Y clocq parey l'hour con un scard d'euxon.
+/i klɔk paˈri lur kɔn ɪn xard daukˈsɔn/
+[i klɔk pɐˈʀi lʊː kɔn ɪŋ xɐːd dɐukˈsɔn]
+df clock match df=time with indf shard of=quartz
+The clock keeps time with a piece of quartz.

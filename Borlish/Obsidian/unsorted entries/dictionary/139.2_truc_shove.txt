@@ -1,0 +1,13 @@
+139.2: truc "shove"
+
+truc /trɪk/ [tʀɪk]
+- shove, thump, jab, jostle, tackle, thrust, a forceful push without gentleness;
+- try, go, stab, an (especially unpractised or clumsy) attempt at doing something
+
+Etymology: Old Borlish deverbal from truccar "shove, jostle" (now archaic, superseded by truc fair), which reflects a Vulgar Latin extension trūdicō of Classical trūdō "I shove, thrust". In the latter senses it is attested from the nineteenth century.
+
+Un truc par ados me fey gringlar a cainç.
+/ɪn trɪk par aˈdɔz me fi grɪnˈglar a kents/
+[ɪn tʀɪk ˌpɐː‿ʀɐˈdɔz me fi gʀɪŋˈglɐː‿ʀa kens]
+indf shove by behind 1s.obl do.pst topple-inf to event
+A shove from behind knocked me over.

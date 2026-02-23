@@ -1,0 +1,14 @@
+196.3: irruniscabiltað "contradiction"
+
+irruniscabiltað /ɪˌri.niˌxa.bɪlˈtaθ/ [ɪˌʀi.nɪˌxa.bɪlˈtaθ]
+- contradiction, paradox, incongruity, inconsistency, unresolvable conflict between two or more parts of something;
+- abnormality, oddity, something unusual;
+- irregularity, a violation of bureaucratic rules or procedure especially as evidence of a crime
+
+Etymology: noun from irruniscabr "contradictory", itself formed from runir "reunite; reconcile" with the potential suffix -abr and negative suffix ir-, from -ābilis and ir- in Latin. The verb runir comes from Medieval Latin reūniō "I reunite", from ūnus "one". In concrete use describing a particular contradictory thing, the word is attested from the early twentieth century.
+
+Y lat de dou ascreir quocent produg irruniscabiltað.
+/i lat de du aˈxrir kwoˈtsɛnt proˈdaj ɪˌri.niˌxa.bɪlˈtaθ/
+[i lat de du ɐˈxʀɪː kwʊˈtsɛnt pʀʊˈdaj ɪˌʀi.nɪˌxa.bɪlˈtaθ]
+df root of two assign-inf rational cause paradox
+Supposing √2 is rational leads to a contradiction.

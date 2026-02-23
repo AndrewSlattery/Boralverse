@@ -1,0 +1,28 @@
+149.5: 27th Lexember - demastr "judgemental"
+
+demastr /deˈmastr̩/ [dɪˈma.stɐ]
+- judgemental, moralising, opinionated, critical, quick to form (especially negative) opinions of things or people;
+- overstepping, butting in, inserting one's opinions when they aren't welcome;
+- hypocritical, holier-than-thou, snobby, sanctimonious, having an inflated sense of one's own moral high ground
+
+Etymology: derivation from demar "to opine, to express an opinion" with -astr, a pejorative suffix. The verb was borrowed in the tenth century from Old English dēman "judge, decide". First attested in the eighteenth century as the name of a character in one of Tamottan's satirical dramas.
+
+I reconnosc ou sy fraðr sey tan demastr?
+/i ˌre.kɔˈnɔx u si fraðr̩ si tan deˈmastr̩/
+[i ˌʀe.kʊˈnɔx u si ˈfʀa.ðɐ si tan dɪˈma.stɐ]
+3s recognise q 3s.gn brother be.sbj so judgemental
+Does he know his brother is so judgemental?
+
+---
+
+Revisionist History
+
+excerpted from The Realignment of Borlish Inflection and Derivation, an article in the Winter 1909 issue of Theoretical Uncoverings in the History of Languages. This is a venerable scientific journal published at that time through the University of Lester [Leicester].
+
+…undeniable that the modern form -aurn of the first conjugation's third-person plural preterite, as well as its ancestor in Old Borlish -avren /-ˈau.rən/, would descend regularly from the Latin *pluperfect* -āvĕrant and is less straightforward a reflex of the Latin perfect -āvērunt (from which we would naïvely expect modern Borlish -eirn). Nevertheless, the attestation, though rare, of syncopated perfect -ārunt (from which Vascon -aron, among many others) offers a plausible direct ancestor. This is especially tempting if we are permitted to assume influence from the other persons of the Borlish preterite, all of which employ an -au- theme.
+
+We turn to perhaps the most contentious claim of this article. The fate of the Latin occupational suffix -ātor in Borlish has been a perennial puzzle since Bughter noted that modern Borlish -our cannot be its simple reflex. It was possible to suspect that an early -aðour or -dour was reduced, but absolutely no evidence of such forms has emerged from any medieval manuscript (the word saðour "farmer" is not a counterexample, as the connection of Latin sator to the verb serō "I sow" was opaque). This further precludes the possibility of mere analogy from third-conjugation verbs (Old Borlish corsor "runner" < Latin cursor), which would have taken time to spread to the much more numerous first-conjugation verbs.
+
+One might also attempt to claim the Borlish suffix is a borrowing from one of the French languages, most of which lost -t- entirely between vowels (e.g. Old French chant(e)or "singer" < cantatorem). We do not deny that such forms reinforced -or in Old Borlish, but the suffix is manifestly native, appearing productively as early as the eighth-century Halvuy chronicle. Our new proposal begins from a few aberrant words in modern dialects and extends back to the first decades of Roman Borland.
+
+Now restricted to northern dialects, the term orrel "penis" is…

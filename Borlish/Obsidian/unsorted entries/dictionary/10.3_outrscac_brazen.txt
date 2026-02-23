@@ -1,0 +1,16 @@
+10.3: outrscac "brazen"
+
+outrscac /ˌu.tr̩ˈxak/ [ˌu.tɐˈxak]
+- (archaic, poetic or tongue-in-cheek) unconstrained, free, not subject to physical restraint or bondage;
+- unrestrained, immoderate, not held in check by convention or social pressure;
+- shameless, unblushing, impudent, audacious, brazen, acting boldly or shockingly in the teeth of (felt or expected) embarrassment
+
+Etymology: from early Middle Boral expression outre scac "(in chess) not capable of being put in check" (literally "beyond check"), quickly extended to simply mean "not subject to any compulsion or restraint".
+
+The preposition, which in modern Boral has shifted to outr "complete, total, absolute", descends from Latin ultra "beyond". The noun scac "chess; check" descends from Medieval Latin scaccus "check", originally from Persian شاه‎ (šâh, “king”).
+
+Nos voum noc sy volary outrscac venjar ou?
+/no vum nɔk si ˌvo.laˈri ˌu.tr̩ˈxak vɛnˈʒar u/
+[no vun nɔ(k) si ˌvo.lɐˈʀi ˌu.tɐˈxak vɪɲˈʒɑː u]
+1p fut-1p neg 3s.gen theft-coll brazen punish q
+Are we just going to ignore his brazen thievery?

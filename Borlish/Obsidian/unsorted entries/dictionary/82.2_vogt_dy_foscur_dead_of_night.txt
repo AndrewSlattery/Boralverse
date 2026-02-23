@@ -1,0 +1,13 @@
+82.2: vogt dy foscur "dead of night"
+
+vogt dy foscur /vɔjt di foˈxɪr/ [vɔjt dɪ fʊˈxɪː]
+- pitch blackness, inky blackness, a particularly deep darkness;
+- dead of night, small hours, witching hour, the part of the night conceived of as the darkest and farthest from day
+
+Etymology: idiom first attested in the poetry of 15C writer Drominir, literally "emptiness of darkness". The noun vogt descends from Vulgar Latin *vocitus "empty", a variant of the synonymous vacuus in Classical Latin. The noun foscur is a noun derivative of adjective fosc "dark" which descends from Latin fuscus "dimly lit, black".
+
+Y lamp se quïsceu, y coloir augtant ne vogt dy foscur.
+/i lamp se ˌkwaj.iˈxaw | i koˈlɔjr ojˈtant ne vɔjt di foˈxɪr/
+[i lamp sɪ ˌkwa.jɪˈxaw | i kʊˈlɔjɐ‿ʁʊjˈtan nɪ vɔjt dɪ fʊˈxɪː]
+def light rfl turn.off-pst | def hall send-p.pst in void of-def darkness
+The light went out, plunging the hall into darkness.

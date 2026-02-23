@@ -1,0 +1,13 @@
+30.4: baury "panic"
+
+baury /boˈri/ [bʊˈʀi]
+- panic, frenzy, overwhelming fear or anxiety;
+- despair, hopelessness, the utter loss of any hope that one's circumstances can improve
+
+Etymology: from Old Boral bauri, baari et al. "panic, alarm", borrowed from the synonymous northern dialect word baar, baor with the addition of the redundant nominal suffix -ri (modern Boral -ary). This word, whence also baurous "desperate, frantic", is of obscure origin, but the traditional view is that it descends from Latin pavor "fright, anxiety".
+
+N'y tarsc nascenç recevent fo jo emplið con baury.
+/ni tarx naˈxɛnts ˌre.tseˈvɛnt fo ʒo ɛmˈplɪθ kɔn boˈri/
+[ni ˈtɑːx nɐˈçɛnts ˌʀe.tsɪˈvɛnt fo ʝo ɪmˈplih kɔm bʊˈʀi]
+in=def card birth get-pt.prs be.pst 1s fill-pt.pst with panic
+I was filled with panic when I got the birthday card.

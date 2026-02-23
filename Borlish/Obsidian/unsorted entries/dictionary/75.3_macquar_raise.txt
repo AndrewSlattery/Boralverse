@@ -1,0 +1,14 @@
+75.3: macquar "raise"
+
+macquar /maˈkwar/ [mɐˈkwɑː]
+- raise, rear, bring up, to care for (a child) in the first years of their life;
+- nurture, cultivate, grow, to garden or farm (plants);
+- foster, educate, instruct, to act as a teacher for
+
+Etymology: from Old Boral ma(c)quar "to raise (a child)", from synonymous Insular Latin maquō, maccō, likely of Kelt origin. If so, cognate with Irish mac "son" and Welsh magωr "cowherd" (formerly "breeder of animals").
+
+Il le macquaurn vars surcair un tarç dagr.
+/ɪl le maˈkworn varz sɪrˈker ɪn tarts dɛjr/
+[ɪl le mɐˈkwoːn vɑːz sɪːˈkeː‿ʀɪn tɑːs ˈdɛjɐ]
+3p 3s.acc raise-pst.3p towards end.up-inf indf third secret
+They raised her to be neither fish nor fowl.

@@ -1,0 +1,16 @@
+37.3: svattour "scout"
+
+svattour /svaˈtur/ [zvɐˈtʊː]
+- scout, a person or group of people sent out to perform reconnaissance or otherwise bring in information (especially in a military context);
+- investigator, private detective, an agent hired by a person for the purpose of evidence gathering;
+- harbinger, failsafe, early warning, a person or thing which gives advance notice (especially of danger or other unwanted occurrences)
+
+also svattar /svaˈtar/ [zvɐˈtɑː] to scout, investigate, act as an early warning
+
+Etymology: agent noun and verb from Middle Boral svat, svet "reconnaisance, scouting" (now obsolete), from synonymous early Saxon sweat /zvɛːt/. The word was borrowed in the thirteenth century, during the various conflicts subsequent to the German Secession. Extension from military contexts is attested in the eighteenth century, with its use by the svattour pavar private detectives of Damvath.
+
+Nos nolau hur dar for an svattour noscon confiabr.
+/nɔz noˈlo hɪr dar fɔr an svaˈtur noˈxɔn kɔnˈfja.br̩/
+[nɔz nʊˈlo hɪː ˈdɑː fɔː‿ʀan zvɐˈtʊː nʊˈxɔn kʊɱˈfja.bɐ]
+1p not.fut-imp.1p hire give only to=indef PI 1p.ins trust-pot
+We were only going to hire a PI we could trust.

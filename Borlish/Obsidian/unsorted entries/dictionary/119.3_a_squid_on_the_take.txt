@@ -1,0 +1,13 @@
+119.3: a squid "on the take"
+
+a squid /a skwɪd/ [a skwɪd]
+- on the take, corrupt, bought, bribed, accepting money from illicit sources in exchange for their influence;
+- subverted, in the pocket (of), secretly under someone else's control
+
+Etymology: 19C, analysable as a phrase meaning "at handshake", using the slang term squid "handshake; informal agreement, under-the-table deal". However, it is unclear whether the noun squid is a backformation, as the phrase may have been borrowed wholesale from contemporary Welsh á sguyd "with a (hand)shake", a derivative of verb squid "shake, toss, tremble".
+
+J'aye spien ig l'oç madarc no fos a squid.
+/ʒɛˈje spjɛn aj lɔts maˈdark no fɔz a skwɪd/
+[ʝɪˈje spjɛn aj lɔs mɐˈdɐːk no fɔz a skwɪd]
+1s=have-imp hope cmp df=s.dt cop ng be.sbj.imp at handshake
+I hoped that that cop wasn't on the take.

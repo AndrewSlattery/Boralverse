@@ -1,0 +1,15 @@
+48.4: 1st Lexember
+
+coðelostað "caution"
+
+coðelostað /koˌðe.lɔˈstaθ/ [kʊˌðɛ.lʊˈstah]
+- caution, wariness, vigilance, watchfulness, the state of begin alert to potential dangers or mistakes;
+- anxiety, alarm, pessimism, an unpleasant condition of mental unease or concern about the uncertain future
+
+Etymology: nominal derivative of coðelous "cautious, wary; attentive, aware" first attested in the fifteenth century. This adjective is itself a derivative of noun coðel "caution" (now obsolete, but compare French choile "lie, deceit" and various learned forms across Romance), from synonymous cautēla in Latin. Extension to more negative emotional states is seen from the eighteenth century.
+
+Sy coðelostað er ençant a nos tardir.
+/si koˌðe.loˈstaθ ɛr ɛnˈtsant a nɔz tarˈdɪr/
+[si kʊˌðɛ.lʊˈstað‿ɛːʀ‿ɪnˈtsant a nɔz tɐːˈdɪː]
+3s.gen caution cop.ipf start-p.prs at 1p slow-inf
+His caution was starting to slow us down.

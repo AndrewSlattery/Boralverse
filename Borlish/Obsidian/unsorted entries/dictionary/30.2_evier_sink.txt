@@ -1,0 +1,13 @@
+30.2: evier "sink"
+
+evier /eˈvjɛr/ [ɪˈvjɛː]
+- sink, basin, a receptacle for holding water used to wash things;
+- (more generally) any low area into which water flows
+
+Etymology: practically unchanged from Old Boral, a borrowing from Old French evier, ewer "pitcher, jug, basin" which reflects Latin aquārium "object related to water". Compare the native descendant augher "ewer, jug".
+
+Jo me landau y visaç raut nell'evier.
+/ʒo me lanˈdo i viˈzats rot ˌnɛ.leˈvjɛr/
+[ʝo me lɐnˈdo i vɪˈzats ʀot ˌnɛ.lɪˈvjɛː]
+1s 1s.obl wash-pst def face quick in.def=sink
+I quickly washed my face in the sink.

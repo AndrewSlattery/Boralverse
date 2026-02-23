@@ -1,0 +1,13 @@
+204.5: Mathematical Etymology (cont. 2)
+
+more excerpts from the Veriloquace Glossary o'Mathematics, a reference quire in the Merch language compiled by Rotcham [Rochdale] University Primers.
+
+covrend adj. [/ˈkʊ.vɾənd/ "surjective"] that given W → X : m, for every x in X there is some w in W sent there; considering m as a portioning of W + X, that no ~!x is empty. 1831 < translation of Saxon deckend in Dümmeyer (1827), participle of decken "cover" < Classical German thaciō "I cover" (cognate with Merch thatch).
+
+horizontal adj. [/ˌhɔ.ɾɪˈzɔn.təl/ "convergent"] that there is a value where, no matter which neighbourhood of the value is chosen, a given sequence or analogous object is eventually contained within that neighbourhood. Around 1750 < Scholastic Latin horizontālis, adjectival derivation of horizō "horizon; [limit]" < Greek ὁρίζω • (horízō) "divide, separate, mark out".
+
+mirthon num. [/ˈmeː.ðʊn/ "ten thousand"] a quantity of ten thousands or one hundred hundreds. Around 1400 < slightly earlier mirth (possibly influenced by e.g. Kentish or Norman) < Middle Welsh myrð "mirthon" < Latin mȳriadēs "many thousands" < Greek μῡρίος • (mūríos) "countless". Originally and still poetically for any large quantity.
+
+sevrend adj. [/ˈsɛ.vɾənd/ "injective"] that given W → X : m, for every x in X there is at most one w in W sent there; considering m as a portioning of W + X, that no ~!x has two distinct members. 1831 < translation of Saxon sondrend in Dümmeyer (1827), participle of sondren "separate" < Classical German sundrō "I separate".
+
+zeffergoer n. [/ˈzɛ.fəˌgu.ə/ "root"] a value which a given W → X : m sends to zeffer [zero]. 1897, compound of numeral zeffer and verb go; the former from Arabic صِفْر • ṣifr "empty, void" (see entry for further detail) and the latter from Classical German gō "I go".

@@ -1,0 +1,12 @@
+115.4: quarvol "airport"
+
+quarvol /kwarˈvɔl/ [kwɐːˈvɔl]
+- airport, an area designed for landing and takeoff of commercial passenger aircraft
+
+Etymology: early twentieth century, portmanteau of quarvet "(bus, taxi, ferry) station, a stopping place for transportation" and vol "flight". The noun quarvet is a diminutive of quarf "docks, harbour", borrowed in the Old Borlish period from Old English hwearf "embankment, wharf". The noun vol is a deverbal from volar "fly", from Latin volō "I fly".
+
+Cay l'oc convey visað ag quarvol?
+/ke lɔk kɔnˈvi viˈzaθ ɛj kwarˈvɔl/
+[ke lɔ kʊɱˈvi vɪˈza‿ðɛj kwɐːˈvɔl]
+fall df=s.px train bound to.df airport
+Is this the train to the airport?

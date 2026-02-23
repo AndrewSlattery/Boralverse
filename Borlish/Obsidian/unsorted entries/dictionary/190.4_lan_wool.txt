@@ -1,0 +1,15 @@
+190.4: lan "wool"
+
+lan /lan/ [lan]
+- wool, the hair of sheep or other animals which is shorn to make clothing;
+- curls, human hair which is notably curly;
+- stuff, paraphernalia, junk, gear, undifferentiated possessions or objects in general;
+- waffle, blather, meaningless or indecipherable speech or writing
+
+Etymology: uncomplicated descendant of Latin lāna "wool". For human hair the word is attested sporadically from early Middle Borlish, with a resurgence in the twentieth century. The generic senses appear to descend from an obsolete slang use of the word to mean "cash, coins", which was briefly current in the early modern period.
+
+Y barvier portan lan des lorrell'ovegl meðes.
+/i barˈvjɛr pɔrˈtan lan dɛz lɔˌrɛ.loˈvijl meˈðɛz/
+[i bɐːˈvjɛː pʊːˈtan lan dɛz lʊˌʀɛ.lʊˈvɪjl mɪˈðɛz]
+df shepherd wear-ipf-3p wool out.of 3p.gn=sheep even
+The shepherds wore their own sheep's wool.

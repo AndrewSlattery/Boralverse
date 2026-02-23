@@ -1,0 +1,16 @@
+1.2: bolegs "tidy"
+
+bolegs /boˈlijz/ [bʊˈlɪjz]
+- tidy, neat, arranged in order and not messily;
+- (figuratively) having no unintended side-effects or consequences, proceeding as planned;
+- (archaic) plentiful, enough, adequate, in a sufficient quantity for one's purposes
+
+Etymology: first attested in 10C Old Boral as boleȝse /boˈleɣsə/ "abundant, copious, generous" and similar forms. Very likely borrowed from a northern dialect form derived from Latin prōlixē "largely, abundantly"; for the shift of initial pr- to b- compare the word bogr "not at all", definitely also of northern origin and thought to come from Latin procul "far away".
+
+The shift to meaning "tidy, neat" is entirely complete by the eighteenth century, though older senses are retained in poetry for some time. The word's meaning seems to have passed via "polite, tactful, diplomatic"—that is, knowing what to say and when to say it—although the paucity of references suggests this usage was short-lived.
+
+Y cambr hur noscon dað avars stan bolegs e capaç.
+/i ˈkam.br̩ hɪr noˈxɔn daθ aˈvarz stan boˈlijz e kaˈpats/
+[i ˈkam.bɐ hɪː noˈxɔn da‿ðɐˈvɑːz stam bʊˈlɪjz e kɐˈpats]
+def room rent 1p.dem give-ptcp.pst towards be-imp.3p tidy and roomy
+The rooms that we rented were tidy and spacious.

@@ -1,0 +1,15 @@
+14.4: ja galað "come to that"
+
+ja galað /ʒa gaˈlaθ/ [ʝa gɐˈlah]
+- come to that, for that matter, as far as the current topic is concerned;
+- speaking of, relatedly, on a topic related to the one currently under discussion
+
+Etymology: adverbial expression first seen in early Modern Boral, literally meaning "already escorted" or "still accompanying". The particle ja "now, already, still, ever" (also "yes", in which sense it comes from Germanic) descends uncomplicatedly from Latin iam "already".
+
+The past participle galað from verb galar "to escort, accompany, take with one" (and also "to court, woo, step out with", its original sense) is a backformation from galant "courteous, chivalrous"; this is a borrowing from the homonymous Middle French, which derives from gale "pomp, festivity, mirth", of obscure origin.
+
+Jo n'ay tag beut par monð, ja galað.
+/ʒo ne tɛj bawt par mɔnθ | ʒa gaˈlaθ/
+[ʝo ne tɛj bawt pɑː mɔnθ | ʝa gɐˈlah]
+1s neg=have.1s tea brink.ptcp.pst through month | yet escort-ptcp.pst
+I haven't had tea in months, come to that.

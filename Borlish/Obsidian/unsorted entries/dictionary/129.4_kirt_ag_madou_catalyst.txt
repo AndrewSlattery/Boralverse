@@ -1,0 +1,12 @@
+129.4: kirt ag madou "catalyst"
+
+kirt ag madou /kɪrt ɛj maˈdu/ [kɪːt ɛj mɐˈdu]
+- catalyst, trigger, spark, inciting incident, a thing or event that sets something (especially something of outsized impact) into motion;
+
+Etymology: idiom attested from the 18C, literally "spark to the kindling". The noun kirt "spark" descends from synonymous kirte in Old Borlish, and is probably onomatopoeic in origin. The noun madou "tinder, kindling" is a borrowing from Middle French (a)madou "lure, bait; kindling, touchwood", a deverbal of amadouer "coax, lure; kindle". This verb is thought to descend via Old Norse mata "lure, feed" from Classical German *matōnam "feed".
+
+Cay rix un kirt ag madou por defas machinaçonal.
+/ke rɪks ɪn kɪrt ɛj maˈdu pɔr deˈfaz ˌma.kiˈna.tsoˈnal/
+[ke ʀɪks ɪŋ kɪːt ɛj mɐˈdu pɔː dɪˈfaz ˌma.kɪˈna.tsʊˈnal]
+fall war indf spark to.df tinder for progress technological
+War is a catalyst of technological development.

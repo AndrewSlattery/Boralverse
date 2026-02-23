@@ -1,0 +1,15 @@
+167.2: spanjon "spread"
+
+spanjon /spanˈʒɔn/ [spɐɲˈʝɔn]
+- expansion, growth, spread, increase of size, territory or influence;
+- elaboration, explanation, further description;
+- extension, addition, putting more pieces or sections onto something;
+- generalisation, broadening, applying something to new contexts
+
+Etymology: noun derivation from spandr "expand, spread, broaden, explain" or directly from Latin expansio "an instance of spreading out". In either case these derive from Latin root verb pandō "spread, unfold, narrate". The metaphorical senses of expansion are partially modelled after use of the term in Scholastic Latin.
+
+Nos survism y spanjon dy quaðeglad.
+/nɔz sɪrˈvɪzm̩ i spanˈʒɔn di ˌkwa.ðijˈlad/
+[nɔʒ sɪːˈvɪ.zɐm i spɐɲˈʝɔn di ˌkwa.ðɪjˈlad]
+1p oversee-1p.pst df expansion of-df campus
+We oversaw the campus extension.

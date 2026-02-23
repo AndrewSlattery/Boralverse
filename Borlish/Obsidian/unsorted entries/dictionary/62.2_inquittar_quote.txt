@@ -1,0 +1,13 @@
+62.2: inquittar "quote"
+
+inquittar /ˌin.kwɪˈtar/ [ˌɪŋ.kwɪˈtɑː]
+- quote, excerpt, cite, to repeat the exact words that a person has said or written;
+- testify, attest, to bear witness to the veracity of something;
+
+Etymology: seventeenth-century verbal derivative of inquit "quote, citation, excerpt, attestation". The noun inquit is a learned borrowing from Latin inquit "he/she said", a personal form of the highly defective verb inquam "I say".
+
+Jo dis noc l'ig meyon inquittað con!
+/ʒo dɪz nɔk aj miˈjɔn ˌin.kwɪˈtaθ kɔn/
+[ʝo dɪz ˈnɔk laj mʊn ˌɪŋ.kwɪˈtah kɔn]
+1s say.pst neg def=s.dt 1s.ins quote-p.pst with
+I didn't say what I've been quoted as saying!

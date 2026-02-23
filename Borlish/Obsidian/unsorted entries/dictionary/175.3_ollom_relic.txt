@@ -1,0 +1,15 @@
+175.3: ollom "relic"
+
+ollom /ɔˈlɔm/ [ʊˈlɔm]
+- relic, an ancient object (originally as kept for religious veneration);
+- heirloom, a valued possession passed down over generations;
+- artefact, antique, a very old item;
+- keepsake, souvenir, token, memento, an item with sentimental value often as a reminder of something or someone
+
+Etymology: a descendant of Old Borlish onlom "vessel; (religion) relic", borrowed from Borland Old English ondlōma "utensil, vessel". By the thirteenth century the word had become restricted to religious usage (viewing a relic as a vessel for holy power), from which the other senses have sprung.
+
+Val l'oc ollom se figr n'un reliquat.
+/val lɔk ɔˈlɔm se fajr̩ nɪn ˌre.liˈkwat/
+[val lɔ gʊˈlɔm se ˈfa.jɐ nɪn ˌʀe.lɪˈkwat]
+should df=s.px relic rf put-inf in=indf museum
+This relic should be in a museum.

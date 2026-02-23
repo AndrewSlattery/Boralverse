@@ -1,0 +1,23 @@
+137.5: The Dangers of DHMO
+
+An illustration of the language Merch (the most widely-spoken language in the polity of Markland) through close analysis of the following example sentence.
+
+Al as drink the leigh of aquifex ar sicker to dy.
+/al əz dɾɪŋk ðə leːʃ ə‿ˌva.kwɪˈfɛks aː ˈsɪkə tə dəi/
+
+Translated to IRL English with Boralverse jargon:
+
+Everyone who drinks aquifex's lye will surely die.
+
+Something which seems minor but which actually affects the aesthetic of Merch greatly is the lack of the "three-letter rule". In IRL English, almost all function words (nouns, adjectives, verbs) are at least three letters long. This rule is why we have such pairs as "inn - in" and "bee - be", as well as the redundant double letters in words like "ebb" and "egg". By contrast, Merch never did anything analogous, as can be seen here in the words al, ar and dy (cf "all", "are" and "die").
+
+Merch also has somewhat less French influence than IRL English (while Kentish has somewhat *more*), due to the incomplete replacement of the English nobility there during the period of the Norman-ruled First Drengot Empire. Evidence of this in the above sentence is in the word sicker "certain" < Old English sicor, which lost out to French-derived "sure" in IRL English.
+
+Grammatical differences on display here are: (1) the use of "as" in relative clauses, e.g. "the man as I love", "the man as loves me"; (2) more colloquial use of "be to VERB" with (non-volitional) future meaning, e.g. "the boats ar to sink!".
+
+Finally, the scientific jargon in this alternate history is of course entirely different. The word leigh < OE lēag is cognate with IRL "lye; potassium/sodium hydroxide", and has been generalised to refer to any hydroxide substance. The word aquifex is a Scholastic Latin coinage (meaning "water-maker") for "hydrogen".
+
+Thus we could informally convey the Merch sentence in IRL English as:
+> Drinking hydrogen hydroxide has a 100% mortality rate.
+
+Which of course it does—eventually.

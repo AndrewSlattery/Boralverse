@@ -1,0 +1,14 @@
+181.4: sgranfeyar "crunch"
+
+sgranfeyar /ˌsgran.fiˈjar/ [ˌzgʀaɱˈfjɐː]
+- crunch, crush, to put pressure on and thus cause to make a diffuse noise of breaking;
+- grind, pulverise, to reduce to small pieces with noise and often violence;
+- munch, chew, chomp, to eat noisily
+
+Etymology: seventeenth century, derived from the root gran "grain, seed" with the somewhat-pejorative prefix s- < Latin ex- "out" and the factitive suffix -feyar < Latin -ficō "I make". The word was first used to refer to eating a century after its first attestation.
+
+J'er un pom sgranfeyant cos pegr.
+/ʒɛr ɪn pɔm ˌsgran.fiˈjant kɔz pijr̩/
+[ʝɛː‿ʀɪm pɔm ˌzgʀɑɱˈfjant kɔz ˈpɪ.jɐ]
+1s=cop.ipf indf apple crunch-p.prs adv idle
+I was idly munching on an apple.

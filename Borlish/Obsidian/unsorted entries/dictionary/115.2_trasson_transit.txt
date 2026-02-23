@@ -1,0 +1,14 @@
+115.2: trasson "transit"
+
+trasson /traˈsɔn/ [tʀɐˈsɔn]
+- transit, crossing, an instance of something moving across or through something else;
+- transition, change, the process of change from one state to another;
+- link, bridge, connection, anything placed between two distinct sections
+
+Etymology: formerly trasçon, either a Middle Borlish noun derivation from trasir "to cross, traverse", or a direct borrowing from Latin trānsitiō "transit, transition". In the last sense the word is attested from the seventeenth century, originally applied to parts of musical compositions.
+
+Jo passau y trasson nell'exedr a quarvol.
+/ʒo paˈso i traˈsɔn ˌnɛ.lɛkˈsɛ.dr̩ a kwarˈvɔl/
+[ʝo pɐˈso i tʀɐˈsɔn ˌnɛ.lɪgˈzɛd‿ʀa kwɐːˈvɔl]
+1s pass-pst df transit in-df=lounge at airport
+I spent the layover in the airport lounge.

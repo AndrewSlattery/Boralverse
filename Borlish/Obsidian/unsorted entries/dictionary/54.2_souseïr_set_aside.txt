@@ -1,0 +1,15 @@
+54.2: souseïr "set aside"
+
+souseïr /ˌsu.ziˈjɪr/ [ˌsu.zɪˈjɪː]
+- set aside, put away, to place something out of the way so that it can be used later;
+- ground, run aground, to steer into too-shallow waters and get stuck there;
+- settle, resolve, to deal conclusively with a problem;
+- outclass, wipe the floor with, to surpass in a contest decisively
+
+Etymology: from Middle Boral, a borrowing from Latin subsīdō "I crouch, subside" modelled on other verbs in -seïr like asseïr "dwell" and posseïr "own". First attested in the latter two senses in the seventeenth century, in early use seen particularly in the context of diplomatic disputes.
+
+L'agent dy Majon Roug souseyeu l'ig scard commoðer.
+/laˈʒɛnt di maˈʒɔn ruj ˌsu.ziˈjaw laj xard ˌkɔ.moˈðɛr/
+[lɐˈʝɛn di mɐˈʝɔn ʀuj ˌsu.zɪˈjaw laj xɑːd ˌkɔ.mʊˈðɛː]
+def-agent of-def house red settle-pst def-s.dt shard rebel
+The Red House agent dealt with that resistance group.

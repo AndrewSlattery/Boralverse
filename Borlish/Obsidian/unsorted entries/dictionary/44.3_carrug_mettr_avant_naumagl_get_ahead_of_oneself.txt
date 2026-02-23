@@ -1,0 +1,15 @@
+44.3: carrug mettr avant naumagl "get ahead of oneself"
+
+carrug mettr avant naumagl /kaˈraj ˈmɛtr̩ aˈvant noˈmɛjl/
+- get ahead of oneself, count one's eggs before they hatch, jump the gun, to start on some activity without being adequately prepared;
+- put the cart before the horse, make a mountain out of a molehill, to mix up one's priorities and treat minor things as being disproportionately important (or vice versa)
+
+Etymology: idiom used since the medieval period in various languages but first seen in its modern form in Boral in the sixteenth century. The phrase literally means "to put the cart in front of the oxen", in which the noun carrug "cart" descends via Old Boral carruȝ from synonymous Late Latin carrūca (from Gaulish).
+
+Meanwhile, naumagl "ox, castrated bull employed as a draught animal" enters the language in the early Middle Boral period from Norman un naumail /nawˈmaʎ/ "an ox/a steer", rebracketed from earlier un aumail, itself a masculine variant of aumaille "cattle, livestock". This comes from earlier almaille, armaille, from Latin neuter plural animālia "animals" reinterpreted as a feminine singular.
+
+Mettau noc carrug avant naumagl; ja n'eu nos y muncef meðes saut.
+/mɛˈto nɔk kaˈraj aˈvant noˈmɛjl | ʒa naw nɔz i mɪnˈtsɛf meˈðɛz sot/
+[mɪˈto nɔk kɐˈʀaj ɐˈvan nʊˈmɛjʊ | ʝa naw nɔz i mɪnˈtsɛf mɪˈðɛz sot]
+put-1p.sbj neg cart in.front ox | yet neg-have.1p 1p def area even leave.p.pst
+Let's not get ahead of ourselves; we haven't even left the borough yet.

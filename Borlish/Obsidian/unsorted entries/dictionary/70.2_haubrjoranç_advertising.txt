@@ -1,0 +1,13 @@
+70.2: haubrjoranç "advertising"
+
+haubrjoranç /ˌho.br̩.ʒoˈrants/ [ˌho.bɐ.ʝʊˈʀans]
+- advertising, publicising, promotion, marketing, communication whose purpose is to inform or influence customers about products or services;
+- advertisement, commercial, ad, spot, an instance of advertising something
+
+Etymology: seventeenth-century coinage from verb haubrjorar "to announce, to herald, to make public", itself a derivation from noun haubrjour "herald, town crier, one whose job is to announce things publicly". This had shifted from the sense "scout, sentry, lookout; omen, advance warning", in which form it was borrowed from Old French herbergeor "one sent ahead (of a military camp)".
+
+Lorry haubrojoranç er speut bannið.
+/lɔˈri ˌho.br̩.ʒoˈrants ɛr spawt baˈnɪθ/
+[lʊˈʀi ˌho.bɐ.ʝʊˈʀans ɛː spawt bɐˈnɪh]
+3s.gen advert cop.imp express ban-p.pst
+Their advertisement was swiftly banned.

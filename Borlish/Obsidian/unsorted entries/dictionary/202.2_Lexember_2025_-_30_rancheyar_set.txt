@@ -1,0 +1,15 @@
+202.2: Lexember 2025 - 30: rancheyar "set"
+
+rancheyar /ranˈkjar/ [ʀɐŋˈkjɐː]
+- array, lay out, to put into an orderly arrangement (especially to form into rows);
+- deploy, marshal, to cause (e.g. troops) to be in some particular formation;
+- serialise, order, sequence, to cause to be in the form of an ordered list spread out over time or space;
+- set, arrange, to organise (type) for printing a page
+
+Etymology: Middle Borlish, verbal derivative of ranc "row, ordered line; rank, caste". This was borrowed from Old French rang, ranc "position", itself from a descendant either of Classical German rhingas "ring, circle" or of rancas "straight, upright". Extension from the verb to senses involving arrangements other than into literal rows is seen in the early modern period; in the printing sense it appears in the sixteenth century.
+
+I trovau launt cant i rancheya y fougl.
+/i troˈvo lont kant i ranˈkja i fujl/
+[i tʀʊˈvo lont kant i ʀɐŋˈkja i fwɪl]
+3s find-pst error when 3s set-ipf df page
+He found typos while he set the pages.

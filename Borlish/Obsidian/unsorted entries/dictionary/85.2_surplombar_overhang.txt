@@ -1,0 +1,16 @@
+85.2: surplombar "overhang"
+
+surplombar /ˌsɪr.plɔmˈbar/ [ˌsɪː.plʊmˈbɑː]
+- overhang, hang over, impend, to be suspended above;
+- overlook, to be located higher up than (as of a building on a hill);
+- threaten, imperil, to place in a dangerous position;
+- impinge upon, affect, interfere with, clash with, to have a (usually negative) impact on;
+- to immediately precede in time
+
+Etymology: Middle Boral coinage from sur- "over" (< Latin super-) and plomb "lead, weight, sound", conjuring the image of a weight suspended above something. In the third and fourth senses, from the inherent danger of the suspended object falling on one (attested from the sixteenth century); in the last sense originally in guild jargon and perhaps then jocular (attested from the early twentieth century).
+
+Nossy bevy surplom y rif par un porrujon annexað.
+/nɔˈsi beˈvi sɪrˈplɔm i rɪf par ɪn ˌpɔ.riˈʒɔn ˌa.nɛkˈsaθ/
+[nʊˈsi bɪˈvi sɪːˈplɔm i ʀif pɑː‿ʀɪm ˌpɔ.ʀɪˈʝɔn ˌa.nɪkˈsah]
+1p.gen suite overlook def bank by indf balcony append-p.pst
+The balcony in our suite overlooks the beachfront.

@@ -1,0 +1,15 @@
+205.4: barricheyar "electrify"
+
+barricheyar /ˌba.riˈkjar/ [ˌba.ʀɪˈkjɐː]
+- power, hook up, to connect to a source of electricity;
+- electrify, charge, to power by means of electricity;
+- galvanise, energise, thrill, excite, to render delighted or eagerly anticipatory;
+- shock, zap, to cause electricity to pass through (as to cause pain or death)
+
+Etymology: nineteenth century, verbal derivative with the causative suffix -eyar < Latin -idiō, -izō "I make _" from adjective barric "electric" (formerly also a noun, now displaced by astraphor "electricity", from Greek). This in turn entered Borlish during the previous century, originating in Arabic رْق • barq "lightning". In metaphorical or emotional use the word is attested almost at once.
+
+Y visn brasser ag port me barricheyau y man.
+/i ˈvɪz.n̩ braˈsɛr ɛj pɔrt me ˌba.riˈkjo i man/
+[i ˈvɪ.zɐn bʀɐˈsɛː‿ʀɛj pɔːt me ˌba.ʀiˈkjo i man]
+df knob brass-adj at.df door 1s.obl zap-pst df hand
+The brass doorknob gave me an electric shock.

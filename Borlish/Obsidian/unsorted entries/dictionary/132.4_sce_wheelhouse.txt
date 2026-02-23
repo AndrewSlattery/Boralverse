@@ -1,0 +1,17 @@
+132.4: sce "wheelhouse"
+
+sce /xe/ [çe]
+- (historical) cathedral, the principal church of an (arch)diocese containing the episcopal throne;
+- (historical, specifically) papal see, Holy See, the jurisdiction of a pope;
+- venue, arena, stadium, theatre, the building in which an event happens;
+- place, venue, setting, the place where anything happens;
+- field, domain, the study of something in particular;
+- (in the expression ne sce de) wheelhouse, bailiwick, domain, a person's area of authority or expertise
+
+Etymology: originally in the first senses, descending via Old Borlish sce, sie "see, (arch)diocese" from Latin sedes "seat; residence; (Late Latin) episcopal see". Broadening to more general locations occurred in tandem with the import of cathedral to replace most of the religious senses. The idiom ne sce de "in the wheelhouse of" is attested from the 19th century.
+
+J'admet ig no scey l'augrim a nacleu ne sce de mey.
+/ʒadˈmɛt aj no xi loˈgrɪm a naˈklaw ne xe de mi/
+[ʝɐdˈmɛt aj nʊˈçi lʊˈgʀɪm a nɐˈklaw nɪˈçe dɪˈmi]
+1s=admit cmp ng there.is df=computation at slope in venue of 1s.dsj
+I admit differential calculus isn't in my wheelhouse.

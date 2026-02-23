@@ -1,0 +1,18 @@
+104.4: hopr "tool"
+
+hopr /ˈhɔ.pr̩/ [hɔ.pɐ]
+- tool, implement, instrument, device, a self-contained piece of equipment for performing a task;
+- gear, equipment, gadgetry, a collection of tools;
+- (nautical) tackle, the collection of ropes on a ship for lifting and pulling things;
+- toy, plaything, something (often for a child) to play with;
+- laughing stock, butt, someone who is the object of ridicule;
+- (slang) gun, switchblade, any personal handheld weapon especially when illegally obtained;
+- (slang) dick, cock, someone's (most commonly one's own) penis
+
+Etymology: from Middle Borlish hopr "tool, instrument; equipment, gear", from synonymous hople in Old Borlish. This is a borrowing via Old French from Medieval Latin hopla "gear, equipment; tackle", from Greek ὅπλᾰ • (hópla) "tackle; weaponry". Used for children's toys from the sixteenth century, for laughable people since the eighteenth, and in the last senses from the twentieth.
+
+L'a heu allagherrem an ivan ayent hopr receut.
+/la haw ˌa.lɛjˈɛ.rɛm an iˈvan ɛjˈɛnt ˈhɔ.pr̩ reˈtsawt/
+[la haw ˌaˈljɛ.ʀɐm an ɪˈvan ɪˈʝɛnt ˈhɔ.pɐ ʀɪˈtsawt]
+3s=have look happy-cmp at-indf child have-p.prs toy get-p.pst
+He looked happier than a kid with new toys.

@@ -1,0 +1,12 @@
+56.2: corrogar "build infrastructure"
+
+corrogar /ˌko.roˈgar/ [ko.ʀʊˈgɑː]
+- build infrastructure, develop, to undertake public development by providing somewhere with (say) transport links and utilities like water and electricity
+
+Etymology: Backformation from noun corrogation "infrastructure, public works", from synonymous corrogātiō in Scholastic Latin. This comes from Medieval Latin corrogāta "corvée, collective labour provided by demand", itself probably formed by ellipsis of a Late Latin phrase opera corrogāta "invited work", from corrogō "I bring together by request, I invite".
+
+Nos corrogau alcheðr l'oc treborth.
+/nɔz ˌko.roˈgo alˈkɛ.ðr̩ lɔk treˈbɔrθ/
+[nɔz ˌko.ʀʊˈgo ɐˈgɛ.ðɐ lɔ tʀɪˈbɔːh]
+1p develop-1p anew def-s.px seaport
+We're redeveloping this seaside resort.

@@ -1,0 +1,13 @@
+117.3: grabattour "paramedic"
+
+grabattour /ˌgra.baˈtur/ [ˌgʀa.bɐˈtʊː]
+- paramedic, EMT, a person trained to medically stabilise injured people on-site before they can be transported to a hospital;
+- (historical, esp. Millstone War) stretcher-bearer, a soldier or auxiliary serviceman who carries the wounded away from the battlefield on stretchers
+
+Etymology: 20C, agentive derivation from grabat "stretcher, gurney; emergency medical transport". This is a borrowing via another Romance language from Latin grabātus "cot, pallet, camp bed", from Greek. Transfer from the military context to peacetime healthcare is attested from the 1950s.
+
+J'addoceu my sour d'ig j'er grabattour parsiscent.
+/ˌʒa.doˈtsaw mi sur daj ʒɛr ˌgra.baˈtur ˌpar.ziˈxɛnt/
+[ˌʝa.dʊˈtsaw mi sʊː daj ʝɛː ˌgʀa.bɐˈtʊː ˌpɐː.zɪˈçɛnt]
+1s=inform-pst 1s.gn sister of-comp 1s=cop.ipf EMT study-p.pst
+I told my sister I was training to be a paramedic.

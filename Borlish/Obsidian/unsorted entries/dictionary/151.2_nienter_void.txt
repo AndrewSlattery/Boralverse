@@ -1,0 +1,15 @@
+151.2: nienter "void"
+
+nienter /njɛnˈtɛr/ [njɪnˈtɛː]
+- (rare) void, empty, vacant, not filled or occupied;
+- useless, ineffective, futile, vain, not producing any effect;
+- invalid, worthless, without legal force or other analogous use;
+- nihilist, pessimistic, holding that things do not have any point or purpose
+
+Etymology: adjective derivation from nien "nothing" (earlier nient), which reflects either nē gentem "no person" or nē entem "no being" in Late Latin. Even in early texts the word has seldom been used literally (competing with vogt "empty"); senses to the effect of "amounting to nothing" predominate.
+
+L'arra oç saut ig caye sy mariðaç dovem nienter.
+/laˈra ɔts sot ai kɛˈje si ˌma.riˈðats ˈdo.vɛm njɛnˈtɛr/
+[lɐˈʀa ɔs sot ai kɪˈʝe si ˌma.ʀɪˈðas ˈdo.vɐm njɪnˈtɛː]
+3s=have.fut s.dt know-p.pst cmp fall-ipf 3s.gn marriage second void
+He must have known his second marriage was void.

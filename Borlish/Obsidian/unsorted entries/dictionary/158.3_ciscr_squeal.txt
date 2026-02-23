@@ -1,0 +1,14 @@
+158.3: ciscr "squeal"
+
+ciscr /tsɪxr̩/ [ˈtsɪ.xɐ]
+- squeal, screech, shriek, a strident high-pitched sound as may be caused by friction;
+- a loud, high-pitched animal cry;
+- scream, yelp, a high-pitched vocalisaton due to fright or surprise
+
+Etymology: attested in Old Borlish ciscle "shriek", a deverbal from cisclar "to shriek, scream" (now obsoleted by ciscr fair "to do a shriek"). This descends from a synonymous cistulō in Vulgar Latin reflected also in Vascon chillar "creak" and Parisian gicler "spurt". In turn this is presumed to be an alteration of Classical Latin fistulō "I whistle, play the flute" via assimilation or sound symbolism.
+
+Y belem ny forest se mis afaç con ec ciscr d'aucel.
+/i beˈlɛm ny foˈrɛst se mɪz aˈfats kɔn ɛk tsɪxr̩ doˈtsɛl/
+[o bɪˈlɛm ni fʊˈʀɛst se mɪz ɐˈfas kɔn ɛk ˈtsɪ.xɐ dʊˈtsɛl]
+df scene in-df forest rfl put.pst forward with p.px squeal of=bird
+The forest scene opened with shrieks from birds.

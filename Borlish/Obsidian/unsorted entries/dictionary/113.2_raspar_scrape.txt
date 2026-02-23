@@ -1,0 +1,13 @@
+113.2: raspar "scrape"
+
+raspar /raˈspar/ [ʀɐˈspɐː]
+- scrape, scratch, graze, grate, rasp, to draw a sharp or rough object along a surface while exerting pressure;
+- play, bow, to create sound on a string instrument by means of drawing a bow across a string
+
+Etymology: twelfth-century borrowing from Old French rasper "scratch, grate", itself from synonymous hraspōn in Frankish. The extension to string playing, as well as the noun raspour "string player", is seen from the late sixteenth century.
+
+J'yemoy scið aïr kes raspað demay sad.
+/ʒjeˈmɔj xɪθ eˈjɪr kɛz raˈspaθ deˈme sad/
+[ʝɪˈmɔj çɪ‿ðɪˈʝɪː kɛz ʀɐˈspɐh dɪˈme sad]
+1s=get-pst known have-inf cheese scrape-p.pst too.much gravely
+I realised I'd grated far too much cheese.

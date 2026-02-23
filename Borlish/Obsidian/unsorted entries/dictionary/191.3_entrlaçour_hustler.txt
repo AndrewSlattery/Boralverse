@@ -1,0 +1,14 @@
+191.3: entrlaçour "hustler"
+
+entrlaçour /ˌɛnt.r̩.laˈtsur/ [ˌɛn.tɐ.lɐˈtsʊː]
+- wheeler-dealer, hustler, schemer, a shrewd or unscrupulous operator in politics or commerce;
+- swindler, sharpster, grifter, con artist, racketeer, someone running scams;
+- pedlar, huckster, a small-time or itinerant merchant of (usually poor-quality) goods
+
+Etymology: nineteenth century, borrowed (probably via intermedaries) from Sicilia ntrlazzaturi "swindler, racketeer". This is an agentive derivation from the noun ntrlazzu "scam, racket", which reflects Latin inter- "between" and laqueus "noose". Specialisation to politics probably occurred before the word entered Borlish, although there was no shortage of corruption in contempory governance on Borland to inspire the shift.
+
+Jo broiðau l'entrlaçour coll'outrley.
+/ʒo brɔjˈðo ˌlɛnt.r̩.laˈtsur i ˌlut.r̩ˈli/
+ʝo bʀʊjˈðo ˌlɛn.tɐ.lɐˈtsʊː‿ʀi ˌlu.tɐˈli/
+1s blur-pst df=hustler and df=outlaw
+I mixed up the scammer and the outlaw.

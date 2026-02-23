@@ -1,0 +1,16 @@
+182.4: mensc "politeness"
+
+mensc /mɛnx/ [mɛŋx]
+- (obsolete) honour, dignity, the state of being worthy of esteem;
+- (archaic) mercy, kindness, relenting from causing or forbearing to cause harm;
+- (dated, poetic or jocular) politeness, etiquette, manners, courtesy, decorum, appropriate social behaviour
+
+Usage note: nowadays principally in the idiom sy mensc eð y mansc tenir "have it both ways".
+
+Etymology: from Old Borlish mensc "praiseworthiness, repute, fame". This was borrowed from Old Norrish mennska "humanity", a descendant of Classical German manniscas "human". The semantic shift via honourable actions to general good behaviour was complete by the seventeenth century. The modern phrase literally means "to keep one's manners and one's food", in reference to being a good host while not actually offering anything to eat. It is first attested in a book of proverbs by an anonymous author of the late eighteenth century.
+
+Orruð i crey poðir sy mensc eð y mansc tenir.
+/ɔˈrɪθ i kri poˈðɪr si mɛnx ɛθ i manx teˈnɪr/
+[ʊˈʀɪ‿ði kʀi pʊˈðɪː si mɛŋx ɛ‿ði maŋx tɪˈnɪː]
+seem 3s believe can-inf 3s.gn manners and df food hold-inf
+He seems to think he can have it both ways.

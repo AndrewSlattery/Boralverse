@@ -1,0 +1,13 @@
+62.4: vugl "blockage"
+
+vugl /vajl/ [ˈva.jʊ]
+- blockage, occlusion, jam, obstruction, something that is in the way of some passage;
+- chokepoint, bottleneck, the part of a process that is slowest or most cumbersome
+
+Etymology: originally in the first sense, a Middle Boral deverbal from vuglar "to choke, clog, jam". This verb is an alteration of earlier vugrar, borrowed in the Old Boral period from Old English wyrġan "to strangle, worry".
+
+Ja sco ne vugl router.
+/ʒa xo ne vajl ruˈtɛr/
+[ʝa ˈxo ne ˈva.jʊ ʀʊˈtɛː]
+yet be.1s in jam road-adj
+I'm still in a traffic jam.

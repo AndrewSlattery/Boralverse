@@ -1,0 +1,13 @@
+109.4: sobot "radio"
+
+sobot /soˈbɔt/ [sʊˈbɔt]
+- radio, the technology of transmitting messages via radio waves;
+- radio, an apparatus for transmitting such messages
+
+Etymology: 1910, backformation from the somewhat-earlier adjective (1904 boðour sobottal "radio transmitter", 1907 œculux sobottal "radio waves"). The technology having been invented in Hasiny, the word was borrowed indirectly (probably via Vascon) from Hasinick Welsh sobotał "signal, message". This in turn comes from Jaughta çobota "smoke; message", after the practice of sending signals via smoke.
+
+Par y sobot coum nos addoit dy cainç.
+/par i soˈbɔt kum nɔz aˈdɔit di kents/
+[pɐː‿ʀi sʊˈbɔt kum nɔz ɐˈdɔit di kens]
+through df radio get.pst-1p 1p inform-p.pst of-df event
+We heard the news on the radio.

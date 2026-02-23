@@ -1,0 +1,14 @@
+110.4: n'oc hour "for a while"
+
+n'oc hour /nɔk ur/ [nʊˈgʊː]
+- for a while, for a short time, awhile, from now until a point not far in the future;
+- for now, provisionally, temporarily, presently, at the moment but likely not for long;
+- (sometimes proscribed) soon, imminently, about to occur
+
+Etymology: sixteenth-century idiom, literally "in this time". The preposition and demonstrative n'oc < Latin in hōc "in this" co-occur also in other contemporary idioms like n'oc ort "upwards, with an upwards motion". In the last sense the phrase is still sometimes proscribed, despite attestations going back over two hundred years.
+
+J'asseye n'oc hour fin a tandem alandau my convey.
+/ˌʒa.siˈje nɔk ur fɪn a tanˈdɛm ˌa.lanˈdo mi kɔnˈvi/
+[ˌʝaˈsje nʊˈgʊː fɪˈna tɐnˈdɛm ˌa.lɐnˈdo mi kʊɱˈvi]
+1s=sit-ipf in=s.px time end at eventually dock-pst 1s.gn train
+I sat for a bit until my train came at last.

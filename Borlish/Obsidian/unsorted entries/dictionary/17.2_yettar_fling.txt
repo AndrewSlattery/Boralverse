@@ -1,0 +1,13 @@
+17.2: yettar "fling"
+
+yettar /jɛˈtar/ [ʝɪˈtɑː]
+- to cast, toss, fling, chuck, hurl, to throw imprecisely with force or violence;
+- to scatter, disperse, strew, pelt, to distribute objects around by throwing them out in a haphazard manner
+
+Etymology: From late Old Boral iatar, ietar, iotar "to throw, to bestow, to offer", of uncertain origin. Likely from Old English, either from ȝéatan "to grant, approve" or ȝéotan "to pour, shed", although the semantics are somewhat tenuous; possibly it was influenced in meaning by Old Boral jaire "to cast, throw" or related Old French jeter "to throw".
+
+Y scoutour me yettaurn scadom pouðr.
+/i xuˈtur me jɛˈtorn xaˈdɔm puðr̩/
+[i xʊˈtʊː me ʝɪˈtoːn xɐˈdɔm ˈpu.ðɐ]
+def audience 1s.obl pelt-pst.3p tomato rotten
+The audience pelted me with rotten tomatoes.

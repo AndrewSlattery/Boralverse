@@ -1,0 +1,13 @@
+191.2: gentagl "riffraff"
+
+gentagl /ʒɛnˈtɛjl/ [ʝɪnˈtɛjl]
+- populace, population, inhabitants, demos, the people of a region (especially of a nation or polity);
+- masses, rabble, riffraff, hoi polloi, the common people as opposed to the elite (often with pejorative affect)
+
+Etymology: Middle Borlish derivative of gent "people, nation" and -agl, an unproductive instrumental or collective suffix. The noun descends straightforwardly from Latin gēns "clan, tribe, people"; the affix from Latin thematic vowel -ā- and suffix -cula "tool, instrument". Attestatations of gentācula (with a first-declension variant of the suffix) "common people" in Scholastic Latin are likely modelled after the vernacular Romance forms.
+
+Nuvr soð vos melle faint con y gentagl.
+/ˈnɪv.r̩ sɔð vɔz mɛˈle fent kɔn i ʒɛnˈtɛjl/
+[ˈnɪ.vɐ sɔ vɔz mɪˈle fent kɔn i ʝɪnˈtajl]
+new be.2p 2p ton do-p.prs with df demos
+You've been mixing with riffraff recently.

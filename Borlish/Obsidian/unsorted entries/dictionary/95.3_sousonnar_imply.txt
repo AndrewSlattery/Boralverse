@@ -1,0 +1,13 @@
+95.3: sousonnar "imply"
+
+sousonnar /ˌsu.zɔˈnar/ [ˌsu.zʊˈnɑː]
+- imply, suggest, intimate, hint, to express indirectly through implication;
+- to write in code or metaphor
+
+Etymology: Middle Borlish borrowing from Latin subsonō "I express secretly".
+
+Jo poðe noc discernir cal seyon sousonnað.
+/ʒo poˈðe nɔk ˌdi.xɛrˈnɪr kal siˈjɔn ˌsu.zɔˈnaθ/
+[ʝo pʊˈðe nɔ ˌdi.çɪːˈnɪː kal sjɔn ˌsu.zʊˈnah]sousonnar
+1s can-ipf neg discern-inf what 3s.ins imply-p.pst
+I couldn't tell what she was implying.

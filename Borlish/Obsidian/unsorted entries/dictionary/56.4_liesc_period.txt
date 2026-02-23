@@ -1,0 +1,14 @@
+56.4: liesc "period"
+
+liesc /ljɛx/ [ljɛç]
+- term, period, era, duration, an amount of time considered as a demarcated unit;
+- terminal, end, limit, endpoint, the latest or furthermost point of something;
+- deadline, cutoff, the last moment in time when something is possible;
+
+Etymology: originally in the second sense, an Old Boral deverbal noun from verb lejar "stop moving, crash, come to a halt". This descends from Insular Latin laedicō, a regularisation of Classical laedō "I strike, collide, hurt".
+
+Vos kiglaust y liesc je sont Avril.
+/vɔz kajˈlost i ljɛx ʒe sɔnt aˈvrɪl/
+[vɔz kɐjˈlost i ljɛç ʝe sɔnt ɐˈvʀɪw]
+2p miss-pst-2p def term day.of seventh April
+You missed the 7th of April deadline.

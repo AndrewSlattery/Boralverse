@@ -1,0 +1,14 @@
+65.2: pille "felted"
+
+pille /pɪˈle/ [pɪˈle]
+- felted, matted, fulled, brought together as a fabric with pressure and rolling instead of spinning and weaving;
+- cushioned, padded, thick, soft, having thickness in a way which would lessen the impact of a collision;
+- softened, mitigated, made less harmful or more palatable in some way
+
+Etymology: Middle Boral learned borrowing from Latin pilleus "made of felt; felt cap"; compare inherited pegl "cap, woollen hat". Seen in metaphorical use from the sixteenth century.
+
+Jo socquau ne my caðer pille cos ajoutað.
+/ʒo sɔˈkwo ne mi kaˈðɛr pɪˈle kɔz ˌa.juˈtaθ/
+[ʝʊ sʊˈkwo ne mi kɐˈðɛː pɪˈle kɔz ˌa.ʝʊˈtah]
+1s sag-pst in 1s.gen chair felted adv gratify-p.pst
+I sank gratefully into my padded chair.

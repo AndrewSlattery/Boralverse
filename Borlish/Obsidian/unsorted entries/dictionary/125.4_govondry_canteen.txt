@@ -1,0 +1,13 @@
+125.4: govondry "canteen"
+
+govondry /ˌgo.vɔnˈdri/ [ˌgo.vʊnˈdʀi]
+- canteen, cafeteria, a small cafe inside a larger establishment (e.g. military base, school, prison or workplace);
+- tuck shop, lunch counter, snack bar, a counter selling small items of food
+
+Etymology: Middle Borlish govonry "inn, eatery", place derivation from now-obsolete govon "innkeeper, barkeeper". This appears to descend directly from Latin caupō "tradesman, innkeeper". It specialisation to small eateries and counters within organisations takes place first in a military context during the eighteenth century.
+
+J'acatau dou quignou de nossy govondry.
+/ˌʒa.kaˈto du kwajˈnu de nɔˈsi ˌgo.vɔnˈdri/
+[ˌʝa.kɐˈto du kwajˈnu de nʊˈsi ˌgo.vʊnˈdʀi]
+1s=buy-pst two pastry of 1p.gn canteen
+I bought two pastries from our canteen.

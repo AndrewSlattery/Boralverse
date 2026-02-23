@@ -1,0 +1,14 @@
+98.4: reðrpuy "background"
+
+reðrpuy /ˌrɛ.ðr̩ˈpaj/ [ˌʀɛ.ðɐˈpaj]
+- background, part of a picture depicting scenery behind the main subject;
+- context, setting, information relevant to the current situtation;
+- (theatre) upstage, the part of the stage furthest away from the audience
+
+Etymology: originally in the last sense, from reðr "behind" and puy "aisle, balcony, walkway, gangway". This noun was borrowed from Old French puie "balustrade, balcony" (whence also English pew), from Latin podium "balcony in an amphitheatre". In extended use the word is attested from the eighteenth century.
+
+I pegntau toð y lettranç ag reðrpuy meðes.
+/i pijnˈto tɔθ i lɛˈtrants ɛj ˌrɛ.ðr̩ˈpaj meˈðɛz/
+[i pɪjnˈto tɔ.ði lɪˈtʀans ɛj ˌʀɛ.ðɐˈpaj mɪˈðɛz]
+3s paint-pst all df text at.df background even
+She even painted all the backtound text.

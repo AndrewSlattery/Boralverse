@@ -1,0 +1,13 @@
+88.3: vrugheç "moorland"
+
+vrugheç /vrajˈets/ [vʀɐˈʝɛs]
+- heath, heathland, moor, moorland, a tract of level uncultivated land with sandy soil and scrubby vegetation;
+- waste, wasteland, badlands, a place with no remaining resources or metaphorically any uninteresting place
+
+Etymology: descendant of Old Boral vruȝeç "heath, moor", which is a nominal derivation of vruȝ "heather" (modern vrug) with the suffix -eç < Latin -itia. The word vruȝ is borrowed from Borland Kelt vrūg "heather", cognate with synonymous frágh in Irish.
+
+Nos miraum y horam d'un vrugheç lað.
+/nɔz miˈrom i hoˈram dɪn vraˈjɛts laθ/
+[noz mɪˈʀom i hʊˈʀam dɪɱ vʀɐˈʝɛs laθ]
+1p look.at-pst.1p def panorama of=indf moor broad
+We looked at the wide shot of broad moorland.

@@ -1,0 +1,16 @@
+198.6: Lexember 2025 - 6: despondr "set"
+
+despondr /dɛˈspɔn.dr̩/ [dɪˈspɔn.dɐ]
+- arrange, organise, set up, to put in useful positions;
+- prepare, lay, set, to make ready for use by placing things on or around it in a particular arrangement;
+- incline, mind, dispose, prime, to make (someone) more likely to act in a particular fashion;
+- have access to, have available, avail oneself, have on hand, to be able to conveniently use;
+- employ, have employed, make use of, to have access to the labour or benefits of
+
+Etymology: descending from Old Borlish desponre "distribute, set out" or reborrowed during the Middle Borlish period from its source in Latin dispōnō "I arrange". The latter senses, likely influenced by cognates in other Romance languages, are intransitive and used with preposition de "of, from".
+
+Me storra i vin y tabr despondr pre nos pascau.
+/me stɔˈra i vɪn i ˈtab.r̩ dɛˈspɔn.dr̩ pre nɔz paˈxo/
+[me stʊˈʀa i vɪn i ˈta.bɐ dɪˈspɔn.dɐ pʀe nɔz pɐˈxo]
+1s.obl need-fut 3s come.sbj df table set-inf before 1p eat-1p.sbj
+I need him to come and set the table before we eat.

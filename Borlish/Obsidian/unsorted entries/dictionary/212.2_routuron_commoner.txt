@@ -1,0 +1,13 @@
+212.2: routuron "commoner"
+
+routuron /ˌru.tiˈrɔn/ [ˌʀu.tɪˈʀɔn]
+- commoner, plebeian, proletarian, a citizen who holds no noble title or rank;
+- (with plural agreement) hoi polloi, masses, rank and file, people considered as opposed to the elite
+
+Etymology: Middle Borlish derivative of routur "vulgarity, working-class quality" (compare late Medieval Latin ruptūrō "freeman"), which originally referred to a small quantity of land as might be granted to or owned by a common farming household. This descends from Latin ruptūra "fracture, rupture, breach; (later) a division of land". Outside of historical texts, the term is usually metaphorical or jocular.
+
+Lorrell'heir desir un routuron mariðar.
+/ˌlɔ.rɛˈlir deˈzɪr ɪn ˌru.tiˈrɔn ˌma.riˈðar/
+[ˌlɔ.ʀɪˈli.jɐ dɪˈzɪː‿ʀɪn ˌʀu.tɪˈʀɔn ˌma.ʀɪˈðɐː]
+3p.gn-df=son want indf pleb wed-inf
+Their son wants to wed a commoner.

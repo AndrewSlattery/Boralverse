@@ -1,0 +1,14 @@
+23.2: augrimar "to calculate"
+
+augrimar /ˌo.griˈmar/ [ˌo.gʀɪˈmɑː]
+- to calculate, compute, reckon, to determine an unknown quantity by mathematical means;
+- (by extension) to perform algebraic manipulations on a mathematical expression;
+- to reckon, suppose, guess, to deduce or conclude by the weighing of possibilities
+
+Etymology: fifteenth-century verbal derivation from earlier augrim /oˈgrɪm/ "calculation, computation, arithmetic", which originally meant in particular "calculation using Arabic numerals". This comes from synonymous early Kentish or Norman augri(s)me, from Medieval Latin algorismus; this is taken from the name of the Persian mathematician al-Khawarismi, whose works introduced the positional number system to Europe.
+
+J'ay neyað a y bon solution augrimar.
+/ʒe niˈjaθ a i bɔn ˌso.liˈtsjɔn ˌo.griˈmar/
+[ʝe nɪˈja‿ða i bɔn ˌso.lɪˈtsjɔn ˌo.gʀɪˈmɑː]
+1s=have.1s fail-ptcp.pst at def good answer compute-inf
+I've failed to calculate the right answer.

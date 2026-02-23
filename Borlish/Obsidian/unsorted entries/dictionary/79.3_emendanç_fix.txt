@@ -1,0 +1,13 @@
+79.3: emendanç "fix"
+
+emendanç /ˌe.mɛnˈdants/ [ˌe.mɪnˈdans]
+- fix, repair, something done to mend a broken object or situation;
+- resolution, solution, answer, something that solves a problem
+
+Etymology: noun derived from emendar "to fix, repair, resolve, sort out", which descends (via Old Boral amendar, later re-classicised) from Latin ēmendō "I improve, remedy, cure".
+
+L'emendanç ottem plagra alcun hom.
+/ˌle.mɛnˈdants ˈɔ.tɛm plɛjˈra alˈkɪn ɔm/
+[ˌle.mɪnˈdans ˈo.tɐm plɪjˈʀa ˌa.gɪˈnɔm]
+def=fix best please-fut.3s no person
+The best solution will please nobody.

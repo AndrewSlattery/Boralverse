@@ -1,0 +1,13 @@
+131.4: recuidar "reflect"
+
+recuidar /ˌre.kajˈdar/ [ˌʀe.kɐjˈdɐː]
+- reflect, consider, ponder, muse, introspect, think to oneself, to actively think about something or about what one knows;
+- deduce, realise, infer, construe, to reach a conclusion by reasoning
+
+Etymology: Middle Borlish coinage derived from cuidar "think, suppose, intend". This descends directly from Latin cōgitō "I think, reflect, have in mind". The extension in Borlish to deduction is attested from the 18th century.
+
+Jo recuida jamay noiteyar n'un davarn.
+/ʒo ˌre.kajˈda ʒaˈme ˌnɔj.tiˈjar nɪn daˈvarn/
+[ʝo ˌʀe.kɐjˈda ʝɐˈme ˌnɔj.tɪˈʝɐː nɪn dɐˈvɐːn]
+1s reflect-ipf never spend.night-inf in=indf resort
+I realised I'd never stayed in a resort.

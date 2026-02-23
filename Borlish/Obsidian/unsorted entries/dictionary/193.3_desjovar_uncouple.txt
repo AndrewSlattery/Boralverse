@@ -1,0 +1,16 @@
+193.3: desjovar "uncouple"
+
+desjovar /ˌdɛz.ʒoˈvar/ [ˌdɛz.ʝʊˈvɐː]
+- unyoke, uncouple, unlink, to remove from a yoke or harness;
+- detach, disengage, unfasten, separate, to cause to be apart;
+- liberate, free, to deliver from oppression or imprisonment;
+- (colloquial, reflexive) divorce, to end a marriage;
+- unplug, disconnect, to sever the link between an electrical appliance and the mains
+
+Etymology: Middle Borlish, derivative of jovar "yoke, tie together, match; (later) plug in". This is either a direct descendant of Latin iugō "I join, yoke" or more likely a re-verbing via jou < Latin iugum "yoke". The term was used metaphorically almost at once, especially in religious contexts. In both the colloquial and electrical senses the word is first attested in the nineteenth century.
+
+Skig sdroyet desjovar cant moustr se migrn.
+/skai sdrɔˈjɛt ˌdɛz.ʒoˈvar kant mus.tr̩ se ˈmɪg.rn̩/
+[skaj zdʀʊˈʝɛt ˌdɛz.ʝʊˈvɐː kant ˈmu.stɐ se ˈmɪ.gɐn]
+refrain stock-dim unlink-inf when data rfl migrate-3p
+Do not unplug drives during file transfer.

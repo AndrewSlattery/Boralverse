@@ -1,0 +1,14 @@
+210.3: time "qualm"
+
+time /tiˈme/ [tɪˈme]
+- qualm, misgiving, reservation, scruple, doubt, a feeling of unease or uncertainty regarding a course of action;
+- timidity, shyness, diffidence, self-effacement, a lack of courage or confidence; 
+- con, disadvantage, drawback, a weakness or undesirable feature of something
+
+Etymology: derived from earlier adjective time "doubtful; shy, timid", a borrowing from Scholastic Latin timeus "frightened, cowrdly". This comes from the root verb timeō "I fear, I am afraid". The word is seen as a noun from the seventeenth century, and as a disadvantageous quality of something (as opposed to something felt by a person) since the mid-nineteenth century.
+
+Me stove y vajot eð y time grindr.
+/me stoˈve i vaˈʒɔt ɛð i tiˈme ˈgrɪn.dr̩/
+[me stʊˈve i vɐˈʝɔt ɛ‿ði tɪˈme ˈgʀɪn.dɐ]
+1s.obl must-ipf df perk and df qualm grade-inf
+I had to weigh the pros and cons.

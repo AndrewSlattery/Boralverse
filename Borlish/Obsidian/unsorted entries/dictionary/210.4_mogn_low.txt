@@ -1,0 +1,15 @@
+210.4: mogn "low"
+
+mogn /mɔjn/ [mɔjn]
+- low, low down, situated close to the ground;
+- short, squat, having little vertical extent (esp compared to other dimensions);
+- trifling, trivial, petty, of no particular importance;
+- silly, unserious, provoking amusement through foolishness
+
+Etymology: direct descendant of Old Borlish mogne /moɲə/ "low down", of disputed further origin. Probably not related to Old French moins "less", despite use of the word in parallel comparative constructions in dialectal modern Borlish. The most secure lead is Kernish [Breton] monn "oaf", connected with Old French moing "someone mutilated" to a proposed Gaulish munniō "blunt", although the semantics are somewhat tenuous.
+
+Jo cogleu l'aujon des y tabr mogn.
+/ʒo kɔjˈlau loˈʒɔn dɛz i ˈtab.r̩ mɔjn/
+[ʝo kʊiˈlau lʊˈʝɔn dɛz i ˈta.bɐ mɔin]
+1s gather-pst df=magazine out.of df table low
+I picked the mag up off the low table.

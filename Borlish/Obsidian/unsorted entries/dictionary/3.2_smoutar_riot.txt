@@ -1,0 +1,13 @@
+3.2: smoutar "riot"
+
+smoutar /smuˈtar/ [zmʊˈtɑː]
+- to riot, rise up, to take part in a riot or public disturbance;
+- (more generally) to act in an unrestrained or wanton manner, to indulge in excess of feasting or luxury
+
+Etymology: seventeenth-century verbal derivation from now-obsolete smout "riot, public disturbance" (see modern smoutanç "riot", derived from the verb), which is the past participle of verb smovir "to affect, touch emotionally". Probably influenced by similar development in the Norman verb esmoveir, whose participle underwent the same semantic shift.
+
+Y gent n'Ausçagm smoutaurn desig l'occijon.
+/i ˈʒɛnt noˈsɛjm smuˈto.rn̩ deˈzaj ˌlɔk.siˈʒɔn/
+[i ˈʒɛn(t) nʊˈsɛjm zmʊˈtoːn dɪˈzaj ˌlɔk.sɪˈʒɔn/
+def people in=Ausçagm riot-3p.pst due.to def=killing
+The Ausçagm public rioted because of the murder.

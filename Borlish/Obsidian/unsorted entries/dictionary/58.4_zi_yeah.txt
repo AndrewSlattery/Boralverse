@@ -1,0 +1,17 @@
+58.4: zi "yeah"
+
+zi /zi/ [zi]
+- yeah, sure, yep, mhm, informal form of oc or ja "yes" used to denote agreement or assent;
+- innit, y'know, colloquial form of ou used as a sentence-final particle in polar questions
+
+[used only in informal speech and only recently in writing]
+
+Etymology: Contraction of standard es i [ɪˈzi] "is it", part of a series of similar contractions of the copula with pronouns, like sco "am I", sti "are you (sg)" which despite their verb-subject inversion are also nonstandardly used in declarative clauses (sti'n connart "You're a dick").
+
+Its use in polar questions seems to date back to the sixteenth century (though usually written out as es i until the twentieth), while using it to mean "yes" is much more recent and was initially restricted to correcting negative questions. In this it resembles French si "yes, in response to a negative question", and indeed on the basis of phonetic similarity direct French influence has often been supposed.
+
+Zi, sco'n bal n'oc ort.
+/zi | xɔn bal nɔk ɔrt/
+[zi | xɔn baw nʊˈgɔːt]
+yeah | i'm=indef ball in-s.px rise
+Yeah, things're looking up.

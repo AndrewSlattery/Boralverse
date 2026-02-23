@@ -1,0 +1,15 @@
+172.3: incombir "loom"
+
+incombir /ˌɪn.kɔmˈbɪr/ [ˌɪŋ.kʊmˈbɪː]
+- behove, befit, benefit, suit, to be proper or advantageous for someone to do;
+- incite, impel, urge, provoke, to provide an impetus to do;
+- press, overlay, to put pressure upon from above;
+- loom, tower, to stand tall nearby (usually in a threatening manner)
+
+Etymology: originally in the first senses, a Middle Borlish borrowing from Latin incumbō "I lie upon, I recline". The physical senses are attested later and may be based on the Latin (or may show influence from related descombr "go to bed, lie down to sleep).
+
+T'incombisce te leyar tostessem.
+/tɪnˌkɔm.biˈxe te liˈjar tɔˈstɛ.sɛm/
+[tɪŋˈkɔm.bɪˈçe te ljɐː tʊˈstɛ.sɐm]
+2s.obl=behove-ipf 2s.obl raise-inf early-cmp
+You should have got up earlier.

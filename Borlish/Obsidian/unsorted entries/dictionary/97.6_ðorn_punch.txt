@@ -1,0 +1,14 @@
+97.6: ðorn "punch"
+
+ðorn /ðɔrn/ [ðɔːn]
+- punch, slug, blow, jab, a strike with one's fist;
+- impact, oomph, welly, clout, force, the power to have an effect on something;
+- charisma, charm, magnetism, the force of personality that inclines people to like one
+
+Etymology: Middle Borlish deverbal from aðornar "punch", via Old Borlish from Insular Latin addurnō "I punch". This (possibly along with an unattested noun *durnus "fist") is borrowed from Borland Kelt; compare modern Welsh dyrnod "punch".
+
+L'ig connart me dau ðorn!
+/laj kɔˈnart me do ðɔrn/
+[laj kʊˈnɑːt me do ðɔːn]
+df-s.dt bastard 1s.obl give-pst punch
+That bastard punched me!

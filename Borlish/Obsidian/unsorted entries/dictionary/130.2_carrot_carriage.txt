@@ -1,0 +1,14 @@
+130.2: carrot "carriage"
+
+carrot /kaˈrɔt/ [kɐˈʀɔt]
+- carriage, wagon, a (usually horse-drawn) vehicle designed for transporting people;
+- car, carriage, trolley, a single detachable part of a train;
+- module, component, a self-contained (often interchangeable) part of a system which interfaces predictable with other parts
+
+Etymology: diminutive of Old Borlish car "wagon", which descends from Latin carrus "cart, wagon; load" (the suffix may have been added to distinguish the word from car "dear, darling", although the root survives as car "car, automobile" nonetheless). Use for trains is seen with their invention in the nineteenth century; metaphorical extension from that sense is seen in the twentieth.
+
+I laundau cant i descene des y carrot.
+/i lonˈdo kant i ˌdɛ.xeˈne dɛz i kaˈrɔt/
+[i lʊnˈdo kant i ˌdɛ.çɪˈne dɛz i kɐˈʀɔt]
+3s trip-pst as 3s go.down out.of df carriage
+He tripped as he got out of the carriage.

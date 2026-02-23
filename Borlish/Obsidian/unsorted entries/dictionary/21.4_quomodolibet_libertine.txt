@@ -1,0 +1,13 @@
+21.4: quomodolibet "libertine"
+
+quomodolibet /ˌkwo.moˌdo.liˈbɛt/ [ˌk(w)o.mʊˌdo.lɪˈbɛt]
+- libertine, roué, rake, one free of social convention who acts however they please (particularly with respect to romantic or sexual norms);
+- highflyer, maven, a person of great ability and ambition
+
+Etymology: nineteenth-century coinage borrowed from Latin correlative quōmodolibet "howsoever, in whichever way". Originally used in a derogatory manner, more positive use begins to appear in the twentieth century.
+
+Cascif es tu rondant coll'eç quomodolibet?
+/kaˈxɪf ɛz ti rɔnˈdant koˈlɛts ˌkwo.moˌdo.liˈbɛt/
+[kɐˈçɪf ɪsˈti  ʀʊnˈdan kʊˈlɛs ˌko.mʊˌdo.lɪˈbɛt]
+why be.prs 2s hang.out-ptcp.prs with.def=p.prx libertine
+Why do you hang out with this libertine crowd?

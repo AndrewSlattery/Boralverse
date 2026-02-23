@@ -1,0 +1,13 @@
+102.4: bacaget "cupboard"
+
+bacaget /ˌba.kaˈʒɛt/ [ˌba.kɐˈʝɛt]
+- cupboard, cabinet, a piece of furniture with shelves for storing cookware or food;
+- closet, wardrobe, a similar piece of furniture for storing clothes
+
+Etymology: Middle Borlish, from contemporary French metathetic variants bacaget, cabbagès "cupboard; lean-to, cabin, hut". The first part of this word is related to cabbas "basket; storeroom" < Latin capāx "spacious", while the second may reflect ajouster "to add" (in dialect form agestir) or jeter "to throw".
+
+Nos depostau l'eç taflot an bacaget.
+/nɔz ˌde.pɔˈsto lɛts taˈflɔt an ˌba.kaˈʒɛt/
+[nɔz ˌde.pʊˈsto lɛs tɐˈflɔt am ˌba.kɐˈʝɛt]
+1p store-1p df=p.px board.game at-indf cupboard
+We keep these board games in a closet.

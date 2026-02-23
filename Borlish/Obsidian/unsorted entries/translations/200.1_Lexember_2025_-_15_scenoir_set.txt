@@ -1,0 +1,39 @@
+200.1: Lexember 2025 - 15: scenoir "set"
+
+scenoir /xeˈnɔjr/ [çɪˈnɔ.ʝɐ]
+- set, film set, the location where e.g. a movie's scenes are arranged to be filmed;
+- studio, a place more generally where things such as TV segments are filmed;
+- backdrop, framing, the way in which a situation is given context;
+- setup, circumstances, the configuration or arrangement of elements or actors in an (e.g. social, political, military) context
+
+Etymology: twentieth century, derivative of scenar "stage (a play), film (a movie)" with the place-forming suffix -oir < -ōrium in Latin. The verb scenar itself comes from scen "stage, theatre", a borrowing from Latin scaena "stage, scene". In metaphorical use the term is seen (first in media criticism) from the 1960s.
+
+L'actour fey exeunt voud dy scenoir.
+/lakˈtur fi ɛkˈsaunt vud di xeˈnɔjr/
+[lɐkˈtʊː fi ɪkˈsaunt vud di çɪˈnɔ.jɐ]
+df=actor do.pst exit mad from-df set
+The actor stormed out of the studio.
+
+===
+
+Run!
+
+excerpt in translation from 1988 work Run! (originally in Willem Dutch as Holt!), a future-set parachthon trevold [SFF novel] about a grey-market courier.
+
+Toð sfondr nell'issenç pres incommorant. Toxen ençn a hurlar pre j'yem a plaç meg lonc y galleir de mantien.
+The exit goes wrong almost immediately. Alarms start blaring before I'm halfway down the maintenance corridor.
+
+Lumner ne roug eð endig faun pousson tras y pareð. Pas de skot rongn lontan, joddy rajognn des asmuth monfeyað.
+Red and purple lights strobe across the walls. Boots thunder in the distance, guards converging from multiple directions.
+
+"Dinnocq," jo teðey ne my torq. "Jo's parceut. Y galleir n'aust convendra plu."
+"Dinnock," I hiss into my torc. "I'm blown. The east corridor won't work."
+
+Sy voç se tramet hurislant ne mell'oregl, kieð e stabr. "Jo's te dant un rout autr. Torn ag scert primer, soulor scan par y scagl d'urgenç. Jo me mou vars y posson de poiðanç dovem."
+His voice crackles into my ear, calm and steady. "I have an alternate route for you. Take the next left, then up through the emergency stairwell. I'm moving to the secondary extraction point."
+
+Jo sief casc sy commant, y graivet usn blasant lorry çut sdroyað tandic jo ruð pall'immoubr.
+I follow his instructions, the greaves burning through power reserves as I sprint through the building.
+
+Jo smarc sur y fastig just exact candon y preu joddy parvienn ag los a dou taug meyon dessou.
+I emerge onto the roof just as the first guards reach the flight two floors below me.

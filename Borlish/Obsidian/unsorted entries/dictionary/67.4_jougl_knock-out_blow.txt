@@ -1,0 +1,16 @@
+67.4: jougl "knock-out blow"
+
+jougl /ʒujl/ [ˈʝu.jʊ~ˈʝwɪw]
+- knock-out blow, haymaker, sockdolager, a punch that renders one's opponent unconscious, insensible, or otherwise unable to continue to fight;
+- rout, trouncing, decisive victory, an instance of winning a contest by a wide margin;
+- clincher, determiner, the act or moment that is decisive in settling something
+
+also jougl fair /ʒujl fer/ knock out, KO, render unconcious; jougl cavir /ʒujl kaˈvɪr/ be knocked out, fall unconscious
+
+Etymology: from Middle Boral jougl "death blow, killing strike", deverbal from joglar "to slay, to decisively kill, esp. to slit the throat of". This descends via synonymous Old Boral ioȝlar from Latin iugulō, verb derivative from iugulum "collarbone, throat; fig. a murder". Less-fatal use appears first in the context of prize-fighting.
+
+Y preç ag davarn vole nossy jougl.
+/i prɛts ɛj daˈvarn voˈle nɔˈsi ˈʒujl/
+[i pʀɛs ɛj dɐˈvɑːn vʊˈle nʊˈsi ˈʝwɪw]
+def price at.def hotel will-imp 1s.gen KO
+The hotel's price would be the clincher.

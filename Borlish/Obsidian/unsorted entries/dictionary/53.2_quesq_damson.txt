@@ -1,0 +1,17 @@
+53.2: quesq "damson"
+
+quesq /kwɛsk/ [kwɛsk]
+- damson, a subspecies of plum tree with sweeter and slightly ovoid fruits;
+- damson, the fruit of this tree;
+- deep purple, plum, aubergine, the colour of the damson fruit;
+- cream of the crop, pick of the litter, the choice or most desirable part of something
+
+Etymology: from Middle Boral (prun) quesq "damson (plum)", borrowed from Dutch dialectal queske, queshken "damson". This is a variant of synonymous standard Saxon tweshge and Bavarn zweschen, both borrowed from Vulgar Latin davascena "damascene plum" (cf. Classical damascēnum).
+
+In metaphorical use a clipping of phrase quesq a tort "damson in the pie", attested from the seventeenth century.
+
+Jo cogleu y quesq y maðuressem dy ranscel.
+/ʒo kɔjˈlaw i kwɛsk i ˌma.ðiˈrɛ.sɛm di ranˈxɛl/
+[ʝo kʊjˈlaw i kwɛsk i ˌma.ðɪˈʀɛ.sɐm di ʀɐɲˈçɛw]
+1s gather-pst def damson def ripe-comp of-def branch
+I picked the ripest damson on the branch.

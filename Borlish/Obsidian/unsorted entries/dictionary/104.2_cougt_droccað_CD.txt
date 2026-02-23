@@ -1,0 +1,12 @@
+104.2: cougt droccað "CD"
+
+cougt droccað /kujt droˈkaθ/ [kujt dʀʊˈkah]
+- CD, compact disc, an disc-shaped form of data storage read by laser
+
+Etymology: literally "notched disc", attested from the late twentieth century as a calque of Cambrick coetan dolkiada "disc with indentations" (partly chosen so as to preserve the abbreviation CD). The noun cougt "disc, discus; annulus, quoit" is a Middle Borlish borrowing from French couite "discus, quoit, flat stone", of unknown further origin. The adjective is related to droc "notch, indentation", from Germanic.
+
+Jo no's un cougt droccað benoçant posc un dezein.
+/ʒo nɔz ɪn kujt drɔˈkaθ ˌbe.noˈtsant pɔx ɪn deˈzin/
+[ʝo nɔz ɪŋ kujt dʀʊˈkah ˌbe.nʊˈtsan pɔx ɪn dɪˈzin]
+1s ng-be indf disc notch-p.pst use-p.pst after one decade
+I haven't used a compact disc in ten years.

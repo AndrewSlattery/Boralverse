@@ -1,0 +1,17 @@
+81.4: vis "in fact"
+
+vis /vɪz/ [vɪz]
+
+    evidently, of course, manifestly, as you know, used to introduce information which one feels is sufficiently obvious that it should have come up by now;
+    in fact, actually, in reality, indeed, used to introduce a statement which corrects some part of a previous understanding;
+    it transpires, it turns out, apparently, used to introduce surprising new information
+
+Etymology: extracted in the late Middle Boral period from expressions like vis es… "it is seen that…", as the past participle of veir "to see" < Latin videō "I see". Speculation that it is instead a retention of Old Boral ivis "sure, certain", a borrowing from synonymous Old English gewiss, is unsupported by any intermediate attestations (though cf modern Merch awice /əˈwəis/ "indeed, yes").
+
+The word is often found in the collocation Or vis… "Well, actually…", especially when it is used at the start of sentences.
+
+    Vis no som nos jamay eið a Duncloð.
+    /vɪz no sɔm nɔz ʒaˈme iθ a dɪnˈklɔθ/
+    [vɪz nʊˈsɔnnʊz ʝɐˈme iθ a dɪŋˈklɔθ]
+    in.fact neg be.1p 1p never go-p.pst to Dunclothe
+    We've actually never been to Dunclothe.

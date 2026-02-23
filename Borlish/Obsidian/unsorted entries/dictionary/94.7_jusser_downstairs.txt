@@ -1,0 +1,14 @@
+94.7: jusser "downstairs"
+
+jusser /ʒɪˈsɛr/ [ʝɪˈsɛː]
+- downstairs, on a lower storey;
+- downwards, lower, further down, below, at an inferior point along some space or scale;
+- more specific, more particular, focused more on details or applying in fewer contexts
+
+Etymology: redundant adjectival derivative of Old Borlish juss "below, further down", from late Insular Latin iūrsum, iūssum, a nonstandard form of Classical deorsum "downwards". In the latter sense extended by analogy to tauger "upstairs; more general".
+
+Nos ayau paut ny refectoir jusser.
+/nɔz ɛˈjo pot ni ˌre.fɛkˈtɔir ʒɪˈsɛr/
+[ˌno.zɪˈjo pot ni ˌʀe.fɪkˈtɔ.jɐ ʝɪˈsɛː]
+1p have-ipf-1p eat-p.pst in-df cafe downstairs
+We'd eaten at the downstairs cafe.

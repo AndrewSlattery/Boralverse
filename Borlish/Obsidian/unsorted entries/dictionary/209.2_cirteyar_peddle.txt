@@ -1,0 +1,15 @@
+209.2: cirteyar "peddle"
+
+cirteyar /tsɪrˈtjar/ [tsɪːˈtjɐː]
+- peddle, hawk, solicit, flog, to travel around (e.g. from door to door) in order to sell;
+- (archaic) sojourn, itinerate, peregrinate, tour, to travel from place to place;
+- (reflexive) importune, bother, pester, mither, disturb, to harass with e.g. persistent requests;
+- (reflexive) come on to, proposition, to make amorous advances
+
+Etymology: originally in the first sense, an extension from early old Borlish ceȝrtar "peddle, itinerate" with a causative suffix. This in turn descends from Late Latin circitō "I peddle, frequent", from circō "I traverse, wander through". In reflexive use the word is attested from the early modern period.
+
+Mame me dis de plu luy me cirteyar.
+/maˈme me dɪz de pli laj me tsɪrˈtjar/
+[mɐˈme me dɪz de plo laj me tsɪːˈtjɐː]
+mum 1s.obl say.pst of no.more 3s.dat 1s.obl peddle-inf
+Mum told me to stop mithering her.

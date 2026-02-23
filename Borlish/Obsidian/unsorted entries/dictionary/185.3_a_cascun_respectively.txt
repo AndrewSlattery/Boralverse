@@ -1,0 +1,15 @@
+185.3: a cascun "respectively"
+
+a cascun /a kaˈxɪn/ [a kɐˈçɪn]
+- each, apiece, (e.g. of a price) for an individual item from a set;
+- per head, per capita, (of a statistic) divided by the population of the region in question;
+- respectively, corresponding in the order given when comparing two lists of things;
+- pointwise, (in mathematics) occuring or true independently for each point in a set
+
+Etymology: literally "to each one", in idiomatic use attested from the twelfth century. The pronoun cascun "each one" descends directly from Vulgar Latin cascūnum "each one", a conflation of Classical quisque ūnum and Late Latin cata ūnum "each one". The phrase's use extended beyond financial and census-taking contexts through the seventeenth and eighteenth centuries.
+
+Se poðe pom accatar teint ogtoç solt a cascun.
+/se poˈðe pɔm ˌa.kaˈtar tint ɔjˈtɔts sɔlt a kaˈxɪn/
+[se pʊˈðe pɔm ˌa.kɐˈtɐː tint ʊjˈtɔts sɔlt a kɐˈçɪn]
+rfl can-ipf apple buy-inf amount-p.prs 18 penny at each 
+You could buy apples for eighteen pence each.

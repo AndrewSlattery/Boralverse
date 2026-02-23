@@ -1,0 +1,13 @@
+22.3: soumonir "reference"
+
+soumonir /ˌsu.moˈnɪr/ [ˌsu.mʊˈnɪː]
+- to prompt, remind, cue, to bring something to the notice or consideration of someone;
+- to reference, cite, mention, to quote a source or bring up a person or topic
+
+Etymology: from Old Boral somondr "to summon, call", respelt in the Middle Boral period to better reflect its etymon in Latin summoneō "I advise, give a hint" and the related ammonir "to warn, augur, presage". Compare French semondre "to invite, convene", from the same source.
+
+Vel my tarsc d'acat me soumonir posc nostrell'yenç.
+/vɛl mi tarx daˈkat me ˌsu.moˈnir pɔx ˌno.strɛlˈjɛnts/
+[vɛw mɪˈtɑːx dɐˈkat mɪˌsu.mʊˈnɪː pɔx nʊˌstʀɛ.lɪˈjɛns]
+will.sbj 1s.gen note of=shopping 1s.acc remind-inf after 1p.gen-def=arrival
+Please remind me of my shopping list when we arrive.

@@ -1,0 +1,14 @@
+177.3: soucorsour "lifeguard"
+
+soucorsour /ˌsu.kɔrˈsur/ [ˌsu.kʊːˈsʊː]
+- (historical) bodyguard, attendant, someone who protects a dignitary (often a monarch) from direct harm;
+- lifeguard, lifesaver, an expert swimmer employed to rescue people at risk of drowning;
+- (by extension) saviour, hero, someone who has just saved the speaker from a dangerous or embarrassing situation
+
+Etymology: Middle Borlish, an agentive derivation from verb soucorrir "rescue, go and help, come to the aid of". This descends from Latin succurrō "I help, aid, succour", adapted synchronically to the etymological sou- "under" prefix and corrir "run" root. The historical sense had been out of use for approximately two centuries before the modern senses appear, and so the latter are presumably an independent rederivation.
+
+Vos souspectað y soucorsour ou cas y vol?
+/vɔz ˌsu.spɛkˈtaθ i ˌsu.kɔrˈsur u kaz i vɔl/
+[vɔz ˌsu.spɪkˈta‿ði ˌsu.kʊːˈsʊː‿ʀu kaz i vɔl]
+2p suspect-2p indf lifeguard q wrt df theft
+Do you suspect the lifeguard of the theft?

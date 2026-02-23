@@ -1,0 +1,15 @@
+147.4: 12th Lexember - tegmn "shelter"
+
+tegmn /ˈtijmn̩/ [ˈtij.mɐn]
+- shelter, cover, protection, refuge, a physical structure that keeps one safe;
+- (specifically) shade, an area shielded from direct sunlight;
+- buffer, cushion, anything used to isolate or minimise the effect of one thing on another;
+- leeway, grace, wiggle room, freedom, flexibility, latitude, a range in which one can operate safely
+
+Etymology: originally in the first senses, a direct descendant from Latin tegimen "cover, protection". This noun comes from verb tegō "I cover, conceal", which became Old Borlish ter "span, cover (an amount of land)" and thence modern teir "amount to, number". Extended to safety in more abstract contexts by the early modern period.
+
+Jo duvau y bosaç con y tegmn d'un hey.
+/ʒo diˈvo i boˈzats kɔn i ˈtij.mn̩ dɪn hi/
+[ʝo dɪˈvo i bʊˈzas kɔn i ˈtij.mɐn dɪn hi]
+1s duck-pst df gunfire with df cover of=indf fence
+I used a fence as cover from the gunfire.

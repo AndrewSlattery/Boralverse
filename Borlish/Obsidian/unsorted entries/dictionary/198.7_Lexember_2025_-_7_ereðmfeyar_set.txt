@@ -1,0 +1,16 @@
+198.7: Lexember 2025 - 7: ereðmfeyar "set"
+
+ereðmfeyar /eˌrɛð.m̩ˈfjar/ [ɪˌʀɛ.ðɐmˈfjɐː]
+- synchronise, sync, to cause to occur at the same time;
+- set, wind, regulate, to adjust (a timepiece) so that it displays the correct time;
+- align, line up, right, coordinate, harmonise, to position in a symmetric arrangement or (more generally) to cause to take a convenient or aesthetically pleasing form;
+- regularise, normalise, standardise, to make more consistent or unexceptional; 
+- superimpose, overlap, to place one atop another so that particular parts are in alignment
+
+Etymology: Middle Borlish derivative of ereðm "symmetry; coincidence; happenstance" with the factitive suffix -feyar < Latin -ficō "I make _". The noun descends from Old Borlish eredme "alignment, order, regularity", of uncertain origin. The word has traditionally been connected to Latin rhythmus "rhythm, cadence", ignoring the phonetic problems and the lack of cognates in other Romance languages, mostly due to a dearth of other options. Neither a hypothetical Old English *ġerǣdedōm "readiness" nor Old Norse *ǫrrǫðsemi "straight-line-ness" have been much credited.
+
+J'ereðmfeyau l'orlosc ne traiscn a tre minut lon theu.
+/ʒeˌrɛð.m̩ˈfjo lɔrˈlɔx ne ˈtrex.n̩ a tre miˈnɪt lɔn θau/
+[ʝɪˌʀɛ.ðɐɱˈfjo lʊːˈlɔx ne ˈtʀe.çɐn a tʀe mɪˈnɪt lɔn θau]
+1s=set-pst df=watch in lag at three minute without will
+I accidentally set the pocketwatch three minutes late.

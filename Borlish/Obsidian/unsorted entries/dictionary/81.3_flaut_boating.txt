@@ -1,0 +1,14 @@
+81.3: flaut "boating"
+
+flaut /flot/ [flot]
+
+    boating, sailing, the activity of going out onto water in a vessel;
+    fleet, armada, a collection of sea-going or river-going vessels
+
+Etymology: direct descendant from Old Boral flaut "fleet, group of ships", a borrowing from Old English flēot "ship, group of ships" (related to float).
+
+    Il faun flaut casc juglot.
+    /ɪl fon flot kax ʒajˈlɔt/
+    [ɪl fon flot kax ʝɐjˈlɔt]
+    3p do-3p boating each July
+    They go boating each July.

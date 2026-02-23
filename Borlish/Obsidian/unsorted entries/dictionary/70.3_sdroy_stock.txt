@@ -1,0 +1,14 @@
+70.3: sdroy "stock"
+
+sdroy /sdrɔj/ [zdʀɔj]
+- stock, inventory, stockpile, a store of goods to be sold;
+- freight, cargo, goods or items in transport;
+- depot, warehouse, building in which goods are stored in the course of transporting them
+
+Etymology: first attested in the late medieval period as isdroȝ "freight, goods in transport over water; (especially) goods in the maritime trade mesh of the Stadbund [a group of cities in northern Germany and the surrounding regions]", borrowed from synoymous zdruog in contemporary Saxon. This is likely from Polish zdroi "(water) spring, small stream; origin, source, place to find something", though this word's sense development appears to be due to Saxon influence.
+
+Salað y vec ag hal sdroy.
+/saˈlaθ i vɛk ɛj hal sdrɔj/
+[sɐˈla‿ði vɛk ɛj haw zdʀɔj]
+dismount-2p.sbj def bus at.def hall stock
+Get off the bus at the depot.

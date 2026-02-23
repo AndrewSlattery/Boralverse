@@ -1,0 +1,17 @@
+200.6: Lexember 2025 - 20: tas "set"
+
+tas /taz/ [taz]
+- bag, satchel, waterskin, a smallish cloth or leather container carried on one's person;
+- pouch, pocket, a small and soft compartment for carrying things (also the natural pouch of a marsupial);
+- vessel, container, any means of carrying anything (in full generality);
+- saucer, bowl, a small and shallow piece of crockery;
+- divot, hollow, a recess in a surface for holding small items;
+- (mathematics) set, the abstract notion of a structure of which things may or may not be elements
+
+Etymology: the conflation in early Modern Borlish of two words with unrelated etyma. Partially a borrowing from Dutch tas, tasch "bag, pouch", which descends straightforwardly from Classical German tascon "purse, pocket". Partially via French from Mostara tasa "bowl, vessel", a borrowing from Arabic طَاس • ṭās "cup". In the mathematical sense from 1831, in translation from Dümmeyer's 1827 work Sammel und Sendungen "Sets and Functions".
+
+Apar cogleu nos y tas de v ne V yon v.m=x.
+/aˈpar kɔjˈlaw nɔz i taz de ve ne ve jɔn ve dɔt ɛm val ɛks/
+[ɐˈpɐː kʊjˈlaw nɔz i taz de ve ne ve ʝɔn ve dɔt ɛm val ɛks]
+through gather-1p 1p df set of v in V where v.m worth x
+Thus we get the set of w in W with m(w)=x.

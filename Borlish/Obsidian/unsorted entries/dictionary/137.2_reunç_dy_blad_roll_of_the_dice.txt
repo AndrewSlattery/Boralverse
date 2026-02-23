@@ -1,0 +1,13 @@
+137.2: reunç dy blad "roll of the dice"
+
+reunç dy blad /raunts di blad/ [ʀauns di blad]
+- roll of the dice, coin flip, shot in the dark, gamble, a risky or uncertain attempt at doing something;
+- chance, opportunity, a time when one can try something (especially when one didn't expect to be able to do so)
+
+Etymology: idiom attested from the eighteenth century, literally "flip of the card" and taken from gambling jargon. The word reunç "flip, inversion, return" is a noun from reuvr "come back, turn over", which descends directly from Latin revolvō "I roll over, I repeat". The word blad "playing card" is a borrowing from Saxon blad "leaf, page; playing card", cognate with blade in English.
+
+M'orruð ig l'oc vellisqment sey un reunç dy blad.
+/mɔˈrɪð aj lɔk ˌvɛ.lɪskˈmɛnt si ɪn raunts di blad/
+[mʊˈʀɪ‿ðaj lɔg ˌvɛ.lɪskˈmɛnt si ɪn ʀauns di blad]
+1s.obl=seem cmp df=s.px ploy be.sbj indf flip of-df card
+I think that this gambit is a real shot in the dark.

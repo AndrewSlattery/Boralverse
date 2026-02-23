@@ -1,0 +1,14 @@
+196.4: droughanç "contribution"
+
+droughanç /druˈjants/ [dʀʊˈʝants]
+- intervention, interference, participation, the action of getting involved to affect something;
+- contribution, input, something given or offered that adds to a larger whole;
+- gesture, act, something done (especially when intended to help)
+
+Etymology: Middle Borlish, noun from droughar "join in, help out, contribute, interfere". This was borrowed from Old English drēogan "to do (a duty)", initially used principally in religious contexts, as of providing Christian charity.
+
+Nos deyeu vos benaular por vossy droughanç.
+/nɔz diˈjau vɔz ˌbe.noˈlar pɔr vɔˈsi druˈjants/
+[nɔz dɪˈʝau vɔz ˌbe.nʊˈlɐː pɔː vʊˈsi dʀʊˈʝants]
+1p owe-1p 2p thank-inf for 2p-gn contribution
+We must thank you all for your contributions.

@@ -1,0 +1,13 @@
+43.2: janualtað "hindsight"
+
+janualtað /ˌʒa.njalˈtaθ/ [ˌʝa.njɐwˈtah]
+- hindsight, retrospection, an understanding of the significance and nature of events after they have occurred;
+- perspective, unblinkeredness, the ability to see a situation from a sufficiently uninvolved position that one can understand it without distraction or bias
+
+Etymology: Middle Boral borrowing alongside adjective janual "retrospective, backward-looking" from Scholastic Latin iānuālitās "hindsight", both derivatives of iānua "doorway, entrance" or Iānus "Janus, two-headed god of transitional spaces".
+
+Me valois noc y fabr assistr con my maðr.
+/me vaˈlɔjz nɔk i ˈfa.br̩ aˈsɪs.tɐ kɔn mi ˈma.ðr̩/
+[me vɐˈlɔjz nɔg i ˈfa.bʀ‿ɐˈsɪs.tɐ kɔn mi ˈma.ðɐ]
+1s.obl should-sbj.ipf neg def play attend-inf with 1s.gen mother
+I shouldn't have seen the play with my mother.

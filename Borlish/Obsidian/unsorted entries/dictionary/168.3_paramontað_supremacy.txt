@@ -1,0 +1,13 @@
+168.3: paramontað "supremacy"
+
+paramontað /ˌpa.ra.mɔnˈtað/ [ˌpa.ʀɐ.mʊnˈtah]
+- supremacy, dominance, primacy, precedence, the quality of having power or priority;
+- liegedom, suzerainty, the political arrangement inverse to vassalage in which one polity has legal control over the governance of another
+
+Etymology: nominal derivation from paramont "supreme, primary". This is a borrowing from Old French, a univerbation of par amont "by upward", from Latin per "through" and ad montem "to a mountain; upwards". The word was originally used in the thirteenth century to describe the relation of the Drengot Emperor over the kings in his demesne.
+
+Il affirmn y paramontað de rigteç sur ley.
+/ɪl aˈfɪrmn̩ i ˌpa.ra.mɔnˈtaθ de raiˈtɛts sɪr li/
+[ɪl ɐˈfɪː.mɐn i ˌpa.ʀɐ.mʊnˈtah de ʀɐiˈtɛts sɪː li]
+3p affirm-3p df supremacy of justive on law
+They assert the primacy of ethics over law.

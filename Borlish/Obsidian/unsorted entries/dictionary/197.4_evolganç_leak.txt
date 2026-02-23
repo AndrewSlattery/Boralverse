@@ -1,0 +1,14 @@
+197.4: evolganç "leak"
+
+evolganç /ˌe.vɔlˈgants/ [ˌe.vʊlˈgants]
+- publication, spread, trending, the process of something becoming public knowledge;
+- disclosure, divulgation, breach, the revelation of information previously held secret;
+- leak, exposé, material which discloses such information
+
+Etymology: noun derivation from verb evolgar "publicise, promulgate, leak", a borrowing from Scholastic Latin ēvulgō "I publish among the people", itself from vulgus "the common people".
+
+Y sar pistol ren evolganç incoïbr.
+/i sar pɪˈstɔl rɛn ˌe.vɔlˈgants ˌɪn.kɔˈjɪb.r̩/
+[i sɐː pɪˈstɔl ʀɛn ˌe.vʊlˈgants ɪŋ.kʊˈʝi.bɐ]
+df net message make leak ng-prevent-pot
+The internet makes leaks inevitable.

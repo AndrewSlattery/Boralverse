@@ -1,0 +1,13 @@
+134.4: gaheç "locker"
+
+gaheç /gaˈhɛts/ [gɐˈhɛts]
+- locker, a storage compartment with a lock for securing personal possesions in a public space;
+- lockbox, safe, a secure compartment for storing high-value items
+
+Etymology: Middle Borlish borrowing via Vascon gaheç "lockbox" from Arabic قَفِيز • (qafīz) "a measure of dry volume".
+
+J'ay gaheç vleutað calun my vestið contenent.
+/ʒe gaˈhɛts vlawˈtaθ kaˈlɪn mi vɛsˈtɪθ ˌkɔn.teˈnɛnt/
+[ʝe gɐˈhɛs vlɐwˈtah kɐˈlɪn mi vɪsˈtih ˌkɔn.tɪˈnɛnt]
+1s=have.1s locker forget-p.pst which 1s.gn clothing contain-p.prs
+I've forgotten which locker my clothes are in.

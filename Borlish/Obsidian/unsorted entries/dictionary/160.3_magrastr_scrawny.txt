@@ -1,0 +1,15 @@
+160.3: magrastr "scrawny"
+
+magrastr /mɛiˈrastr̩/ [mɪjˈʀa.stɐ]
+- scrawny, lean, gangly, lanky, weedy, being notably unmuscular;
+- malnourished, gaunt, underweight, unheathily thin as from illness or hunger;
+- flimsy, spindly, rickety, not held together securely and liable to break or fall apart;
+- unsound, tenuous, sketchy, (of an idea) not convincing due to a lack of solid argumentation
+
+Etymology: early Modern formation using the pejorative suffix -astr < Latin -aster "incomplete resemblance to" from adjective magr "limited, scarce, meagre". This descends directly via Old Borlish maȝre /ˈmaɣ.rə/ from Latin macer "lean, skinny". The word is attested in metaphorical use from the nineteenth century.
+
+Jo m'asseyeu ny caðer magrastr cos coðelous.
+/ʒo ˌma.siˈjau ni kaˈðɛr mɛiˈrastr̩ kɔz ˌko.ðeˈluz/
+[ʝo ˌma.sɪˈjau ni kɐˈðɛː mɪjˈʀa.stɐ kɔz ˌko.ðɪˈluz]
+1s 1s.obl=seat-pst in-df chair scrawny adv wary
+I sat gingerly on the rickety chair.

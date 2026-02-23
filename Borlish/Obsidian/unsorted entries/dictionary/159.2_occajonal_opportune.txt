@@ -1,0 +1,15 @@
+159.2: occajonal "opportune"
+
+occajonal /ɔˌka.ʒoˈnal/ [ʊˈka.ʝʊˈnal]
+- well-timed, timely, seasonable, opportune, taking place at the correct moment;
+- expedient, adventitious, convenient, happening more generally in a helpful manner;
+- occasional, intermittent, on and off, occurring at many well-separated times;
+- sporadic, ad hoc, catch-as-catch-can, only whenever the opportunity presents itself (indicating a lack of forethought or predictability)
+
+Etymology: adjectival derivation from occajon "opportunity, the right moment", which is a Middle Borlish borrowing from synonymous occāsiō in Latin. The word's semantic extension is in line with similar shifts in cognates across the Romance languages.
+
+Caye un homily magn occajonal sur cartað.
+/keˈje ɪn ˌho.miˈli mɛin ɔˌka.ʒoˈnal sɪr karˈtaθ/
+[kɪˈʝɛ ɪn ˌho.mɪˈli mɛin ʊˌka.ʝʊˈnal sɪː kɐːˈtah]
+fall-ipf indf sermon very opportune on charity
+It was a very seasonal sermon on charity.

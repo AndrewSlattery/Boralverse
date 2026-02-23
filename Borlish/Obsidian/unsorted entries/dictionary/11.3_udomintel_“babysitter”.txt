@@ -1,0 +1,13 @@
+11.3: udomintel “babysitter”
+
+udomintel /iˌdo.mɪnˈtɛl/ [ɪˌdo.mɪnˈtɛw]
+- (dated) nanny, wet nurse, a woman hired to suckle and otherwise look after another woman's infant child;
+- babysitter, childminder, person who cares for one or more children for a short period of time in place of their legal guardians
+
+Etymology: nineteenth-century borrowing from Italian udomintello "nursemaid, wet nurse", which is an adaptation of earlier and synonymous Furlain udomitel; the insertion of -n- is thought to be by analogy with other household words from the Latin words domus "house", dominus "master, lord". In turn, the Furlain is taken from neighbouring Crovatian udomiteł "foster parent, adoptive parent", an agentive derivation of udomiti "to shelter, give home to".
+
+    Jo vel hur dar an udomintel.
+    /ʒo vɛl hɪr dar an iˌdo.mɪnˈtɛl/
+    [ʒo vɛw hɪː dɑː‿ʀan ɪˌdo.mɪnˈtɛw]
+    1s will.sbj rent give=inf to=indef babysitter
+    I would like to hire a babysitter.

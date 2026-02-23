@@ -1,0 +1,15 @@
+48.7: 4th Lexember
+
+orin "homeland"
+
+orin /oˈrɪn/ [ʊˈʀɪn]
+- homeland, hometown, origins, the place where one was born or which one considers to be home;
+- pedigree, ancestry, heritage, lineage, one's family background and the traditions and customs one has as a virtue of the place and people one was born to;
+
+Etymology: via Old Boral orin, oriȝn "breeding, heritage" from Latin orīgō, orīginem "commencement, origination, (particularly) birth", from which also comes the later reborrowing origin "source, origin, beginning". Used metonymically to refer to the place of one's birth since the fourteenth century.
+
+Jo kigla reuvr a mell'orin pre oc annað.
+/ʒo kajˈla ˈraw.vr̩ a ˌmɛ.loˈrɪn pre ɔk aˈnaθ/
+[ʝo kɐjˈla ˈʀaw.vʀ‿a ˌmɛ.lʊˈʀɪn pʀe ˌɔg ɐˈnah]
+1s fail-ipf go.home-inf to 1s.gen-def=homeland before s.px year
+I hadn't been back home until this year.

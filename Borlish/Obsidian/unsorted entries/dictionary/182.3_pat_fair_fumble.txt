@@ -1,0 +1,13 @@
+182.3: pat fair "fumble"
+
+pat fair /pat fer/ [pat feː]
+- fumble, paw, to handle with clumsy hands;
+- bungle, botch, mishandle, to deal with (a situation) poorly;
+
+Etymology: idiomatic phrase attested from the fifteenth century, literally "to do paws" in reference to the unsuitability of many animal's paws for holding things. The noun pat "paw; (colloq.) hand, foot" descends from Vulgar Latin patta "paw", a borrowing from Frankish related to English "pad". In metaphorical use the phrase is seen from the seventeenth century.
+
+L'agathin a pat fait sad ag tourf.
+/ˌla.gaˈθɪn a pat fet sad ɛi turf/
+[ˌla.gɐˈθɪn a pat fet sad ɛi tʊːf]
+df=minister have paw do-p.pst badly to.df riot
+The minister mishandled the riot.

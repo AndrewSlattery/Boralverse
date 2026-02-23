@@ -1,0 +1,15 @@
+67.2: zurç "jelly"
+
+zurç /zɪrts/ [zɪːs]
+
+- jelly, a dessert made by boiling gelatin with sugar and fruit;
+- aspic, a savoury dish of the same texture often made from meat stock;
+- (more generally) gel, any substance having the same consistency as jelly
+
+Etymology: early eighteenth century borrowing from French zurce "jelly, aspic", itself from sürze in Bavarn. This derives from a Classical German root sultiō "brine", related to English "salt". The word displaces now-obsolete veros "aspic" (apparently from veðr os "bone glass") in line with the substance's increasing use in sweet dishes.
+
+Sceyen zurç remiaçant precartaðer ag platabac.
+/xiˈjɛn zɪrts ˌre.mjaˈtsant preˌkar.taˈðɛr ɛj ˌpla.taˈbak/
+[çjɛn zɪːs ˌʀe.mjɐˈtsan pʀɪˌkɑː.tɐˈðɛː‿ʀɛj ˌpla.tɐˈbak]
+there.be-3p.imp jelly wobble-p.pst instability-adj at.def sideboard
+There was jelly wobbling dangerous on the buffet table.

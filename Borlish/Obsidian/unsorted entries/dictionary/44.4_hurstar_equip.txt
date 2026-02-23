@@ -1,0 +1,14 @@
+44.4: hurstar "equip"
+
+hurstar /hɪrˈstar/ [hɪːˈstɑː]
+- equip, be supplied with, to obtain something necessary (especially weaponry or similar tools) in order to carry out a specific action or task;
+- don, put on, to clothe oneself with some article of clothing or accessory;
+- be taught, self-teach, train oneself in, to learn a particular skill in preparation for some specific situation
+
+Etymology: descendant of Old Boral hurstar "decorate, adorn" with a shift in argument structure (the patient changing from the thing receiving ornament to the items used to adorn) in evidence from the fourteenth century onward. This itself is a borrowing from synonymous Old English hyrstan; compare Merch hirstend /ˈhɪːsən/ "decorative, extra, superfluous".
+
+Dou xiphar hurstaurn glay e me lou svingaurn.
+/du ksiˈfar hɪrˈstorn̩ gle e me lu svɪnˈgorn̩/
+[du ksɪˈfɑː hɪːˈstoːŋ gle e me lu zvɪŋˈgoːn/
+two merc equip-pst.3p sword and 1s.obl 3p.acc wield-pst.3p
+Two mercenaries picked up swords and brandished them at me.

@@ -1,0 +1,18 @@
+78.2: scaðr "square"
+
+scaðr /ˈxa.ðr̩/ [ˈxa.ðɐ]
+- square, a plane figure with four sides of equal length and four right-angled corners;
+- square number, a number that can be expressed as the product of some number by itself;
+- rack, frame, shelving, a wood or metal grid in which one can store things;
+adj.
+- right-angled, forming an angle of 90 degrees;
+- aligned, not crooked or leaning;
+- tidy, having everything in its expected position
+
+Etymology: from Old Boral iscaðre, iscarre, carre "square", from Vulgar Latin (ex)quadra "square", variant form of post-Classical quadrus "square". Adjectival usage is attested from as early as the eleventh century.
+
+Me stou for savir ig nos seim scaðr den.
+/me stu fɔr saˈvɪr aj nɔz sim ˈxa.ðr̩ dɛn/
+[me stu fɔː sɐˈvɪː‿ʀaj nʊˈsim ˈxa.ðɐ dɛn]
+1s.obl want only know-inf comp 1p be.sbj-1p aligned thereof
+I want to know we're on the same page.

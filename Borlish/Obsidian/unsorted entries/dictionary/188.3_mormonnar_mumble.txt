@@ -1,0 +1,14 @@
+188.3: mormonnar "mumble"
+
+mormonnar /ˌmɔr.mɔˈnar/ [ˌmɔː.mʊˈnɐː]
+- mumble, mutter, murmur, to say quietly and indistinctly;
+- burble, babble, gurgle, to make the speech-like sounds of an infant;
+- glug, flow, trickle, bubble, to make the sound of noisily flowing water
+
+Etymology: late Middle Borlish, an onomatopoetic formation (along with contemporaneous mormonment "(a) mumble") allied with Latin murmurō "I murmur" and Parisian marmotter "to mutter". The word had extended to similar non-speech sounds by the end of the eighteenth century.
+
+Y çarf bondisceu tras un reu mormonnant.
+/i tsarf ˌbɔn.diˈxau traz ɪn rau ˌmɔr.mɔˈnant/
+[i tsɐːf ˌbɔn.dɪˈxau tʀaz ɪn ʀau ˌmɔː.mʊˈnant]
+df hart bound-pst across indf stream mumble-p.prs
+The stag leapt over a babbling brook.

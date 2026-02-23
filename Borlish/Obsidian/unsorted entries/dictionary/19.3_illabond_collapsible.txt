@@ -1,0 +1,14 @@
+19.3: illabond "collapsible"
+
+illabond /ˌi.laˈbɔnd/ [ˌi.lɐˈbɔnd]
+- collapsible, fold-away, telescoping, designed as to fold up into a more compact form;
+- (music) accordion, concertina, squeezebox, a portable wind instrument consisting of a bellows and keys;
+- spyglass, a small and portable refracting collapsible telescope;
+
+Etymology: first attested in Boral in the early eighteenth century, borrowed from slightly-earlier Vascon or possibly Kentish forms which each come from Latin illābundus "disposed to collapse", a participial form of illābor "I flow into, I tumble to ruins, I penetrate". In the last sense, shortened from veðr illabond "collapsible lenses".
+
+Jo traseu y cogn un rað illabond portant.
+/ʒo traˈzaw i kɔjn ɪn raθ ˌi.laˈbɔnd pɔrˈtant/
+[ʝo tʀɐˈzaw i kɔjn ɪn ˌʀɑð‿i.lɐˈbɔnd pʊːˈtan(t)]
+1s cross-pst def corner indef bike collapsible carry-ptcp.prs
+I went round the corner carrying a fold-up bike.

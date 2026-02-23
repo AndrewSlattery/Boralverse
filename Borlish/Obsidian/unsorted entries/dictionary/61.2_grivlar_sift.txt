@@ -1,0 +1,15 @@
+61.2: grivlar "sift"
+
+grivlar /griˈvlar/ [gʀɪˈvlɑː]
+- sift, sieve, winnow, to sort (e.g. wheat from chaff) using a sieve or similar implement (also metaphorically);
+- qualify, moderate, hedge, limit, restrict, to amend a statement of fact with some mitigating clause;
+- sharpen, clarify, refine, to be more precise about a statement;
+- sharpen, upscale, to render an image with greater resolution
+
+Etymology: verbal derivation in the Old Boral period from grivle "sieve" (modern grivr). This noun descends from Vulgar Latin criblum, a dissimilated form of cribrum "sieve".
+
+I rob y parol bogr grivlað.
+/i rɔb i paˈrɔl bɔjr̩ griˈvlaθ/
+[i ʀob i pɐˈʀɔw ˈbɔ.jɐ gʀɪˈvlah]
+3s dress def word not.at.all sieve-p.pst
+She doesn't mince words.

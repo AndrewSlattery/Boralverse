@@ -1,0 +1,16 @@
+202.3: Lexmber 2025 - 31: se corruð "set"
+
+se corruð /se kɔˈrɪθ/ [se kʊˈʀɪθ]
+- sitting pretty, made in the shade, set for life, living on easy street, having a comfortable or certain supply of money or resources;
+- made, set, happy, having removed any obstacles and anticipating smooth sailing from here on in;
+- in the clear, home free, out of the woods, past the hard slog and properly equipped for future challenges;
+- bulletproof, watertight, on solid ground, having made oneself completely secure;
+- ready, prepared, good to go, locked and loaded, shipshape, having sorted out any issues and fully able to proceed
+
+Etymology: past participle of se corrir "make it, survive, get through, succeed", the reflexive of corrir "run". This descends directly from Latin currō "I run". Idiomatic use of this phrase is seen from the fifteenth century poetry of Manuel Kigman. The phrase appears to have originally referred to simply being well-off or comfortable; semantic association with the verb has more recently given the idiom connotations of past struggle and present battle-readiness.
+
+Posc resoum nos y fastig, nos arreu se corruð contrell'yarn.
+/pɔx reˈzum nɔz i faˈstaj | nɔz aˈraw se kɔˈrɪθ ˌkɔn.trɛˈljarn/
+[pɔx ʀɪˈzum nɔz i fɐˈstai | nɔz ɐˈʀaw se kʊˈʀɪθ ˌkɔn.tʀɪˈljɐːn]
+after fix-1p 1p df roof | 1p have-fut {set} against-df=winter
+Once we fix the roof, we'll be set for winter.

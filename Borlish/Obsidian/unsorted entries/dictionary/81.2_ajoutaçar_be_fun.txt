@@ -1,0 +1,14 @@
+81.2: ajoutaçar "be fun"
+
+ajoutaçar /ˌa.ʒu.taˈtsar/ [ˌa.ʝʊ.tɐˈtsɑː]
+
+    be fun, entertain, divert, engage, to be interesting in an enjoyable way;
+    charm, please, delight, to receive pleasure or satisfaction from something
+
+Etymology: eighteenth-century verbal derivation from ajoutaç "gratification, enjoyment, satisfaction", itself derived from ajoutar "gratify, help out, please" with the somewhat-pejorative or diminishing suffix -aç (from Latin -āceus "shaped like"). This root verb descends via Old Boral aioftar from post-Classical Latin adiuvitō "I help out, assist, am useful", from earlier synonymous adiuvō with a frequentative derivation.
+
+    Y fabr nou scenað t'ajoutaç ou?
+    /i ˈfabr̩ nu xeˈnaθ ˌta.ʒuˈtats u/
+    [i ˈfa.bɐ nu çɪˈnah ˌta.ʝʊˈtas u]
+    def play new stage-p.pst 2s=be.fun q
+    Do you think the new play's fun?

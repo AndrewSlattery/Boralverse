@@ -1,0 +1,33 @@
+147.1: 9th Lexember - bount "en route"
+
+bount /bunt/ [bunt]
+- en route, heading, on the way, along the way, in the course of travelling from one place to another;
+- directed, pointing, facing, oriented in a particular direction;
+- determined, willing, intent, bent, wanting to do something;
+- set, set up, ready, prepared, arranged as necessary ahead of time
+
+Etymology: from Old Borlish boun "ready, willing", altered to bount by analogy with the present participle ending -nt by the early modern period. This is a borrowing from Old Norse búinn "adapted, fit", the past participle of búa "reside, prepare, decorate". In archaic or poetic use the word may be used as a preposition meaning "about to; approaching".
+
+I me quistau por m'addocir ig bount son il ag quarf.
+/i me kwɪˈsto pɔr ˌma.doˈtsɪr ai bunt sɔn ɪl ɛi kwarf/
+[i me kwɪˈsto pɔː ˌma.dʊˈtsɪː‿ʀai bunt sɔn ɪl ɛi kwɐːf]
+3s 1s.obl phone-pst for 1s.obl=inform cmp en.route be.3p 3p to-df station
+She phoned me to say they're en route to the station.
+
+---
+
+Alburgh Anecdotes
+
+excerpt in translation from a letter from the Danish playwright Absolon Mortenszen to his Borlish friend Anscon d'Aupont.
+
+Scey un novel freir ag hostel, lovastr a men e (ða tu vil my femn confeyar) formous a men sou Daniel.
+There is a new friar at the hostel, less talkative and (if you will believe my wife) less handsome than Daniel.
+
+Lonc mey soumonendessem es i cas min all'astuçour demant encontrað n'eç dram a rigteç inerrevibr ancour scenað ny citað aval; l'a heu d'un segr sognant de parrinment fair a Rom e posc alandar de le stimar noc Chrestan aðief!
+More than anything he reminds me of the moralising mentor one sees in the dreadful morality plays they still show down in the city; he seems the sort to dream of visiting Rome and upon arriving declare it insufficiently Christian! 
+
+Se poð appondr ig y novel ensignment y Machinaçon de Helios de Lorenzo yon tu m'expateyau tras un asc volois y bossir appoussar colombant vars un raivottaç, oc m'ajoutaçant toð cas.
+One supposes Lorenzo's new Machines of Helios sculpture about which you droned on at me for hours might send the good man directly into an apoplexy, which would at least be entertaining.
+
+Y novel dram es un picq issaur, noc obstroint y temp moglastr y vertað desconent naðusc ig Albourg no's, a my sorc, Barcelon.
+The new play is a mild success, despite the inclement weather rather betraying the fact that Alburgh is not, to my regret, Barcelon.

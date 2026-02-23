@@ -1,0 +1,14 @@
+206.4: erref "rescue"
+
+erref /ɛˈrɛf/ [ɪˈʀɛf]
+- retrieval, recovery, restoration, return, salvage, the act of getting something back that was lost;
+- rescue, salvation, liberation, relief, delivery, the saving of something or someone from danger;
+- redemption, reformation, changing of one's character for the better
+
+Etymology: Middle Borlish, deverbal from errevir "rescue". This reflects Old Borlish erever, erevre "save, redeem", from Latin ēripiō "I set free; I remove", related to rapiō "I grab, seize". In early use the term often had religious connotations, referring to the redemption of the world by Jesus Christ.
+
+Jamay n'a y Caðer ne Pieðr Roug erref se caut.
+/ʒaˈme na i kaˈðɛr ne ˈpjɛð.r̩ ruj ɛˈrɛf se kot/
+[ʝɐˈme na i kɐˈðɛː ne ˈpjɛ.ðɐ ʀʊj ɪˈʀɛf se kot]
+never ng=have df chair in stone red return rfl get.p.pst
+The Redstone Chair has never been recovered.

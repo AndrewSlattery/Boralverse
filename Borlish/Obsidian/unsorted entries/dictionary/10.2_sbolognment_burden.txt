@@ -1,0 +1,13 @@
+10.2: sbolognment "burden"
+
+sbolognment /ˌsbo.lɔjnˈmɛnt/ [ˌzbo.lʊjmˈmɛn(t)]
+- chore, burden, onus, an unwanted obligation imposed upon one;
+- (more concretely) encumbrance, load, something unwieldy to carry around with one
+
+Etymology: sixteenth-century noun derivation from verb sbolognar "to foist upon, saddle with", borrowed from synonymous Italian sbolognare in the Revitalist period. This verb is presumably a pejorative derivation from the name of the city Bologna, although the cultural context that led to the current sense is not well understood.
+
+Sbolognment sera toll'eç kynous cavir pront candon recas.
+/ˌsbo.lɔjnˈmɛnt seˈra toˈlɛts kiˈnuz kaˈvir prɔnt kanˈdɔn reˈkaz/
+[ˌzbo.lʊjmˈmɛnt sɪˈʀa tʊˈlɛs kɪˈnuz kɐˈvɪː pʀɔn kɐnˈdɔn ʀɪˈkaz]
+chore be-fut all.def=p.prx ingredient get-inf available when require-ptcp.pst
+It must be a pain needing to have all these ingredients to hand.

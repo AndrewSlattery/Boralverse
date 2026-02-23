@@ -1,0 +1,14 @@
+80.2: bojar "move"
+
+bojar /boˈʒar/ [bʊˈʝɑː]
+- move, shift, bump, budge, to cause to be displaced from a position;
+- dislodge, free, extricate, to remove from a position in which something was firmly set
+- reconsider, to change one's mind
+
+Etymology: from Old Boral bojar "move, shift", originally in both intransitive (it moved) and transitive (I moved it) use but by the Middle Boral period only in the latter. This is a borrowing from synonymous Old French bougier, from Vulgar Latin bullicō "I boil, bubble up", a frequentative from bulliō (whence Borlish boglir "to boil").
+
+My granmaðr noloy se bojar cas scadom pascr.
+/mi granˈma.ðr̩ noˈlɔj se boˈʒar kaz xaˈdɔm ˈpa.xr̩/
+[mi gʀɐmˈma.dɐ nʊˈlɔj se bʊˈʝɑː kaz xɐˈdɔm ˈpa.xɐ]
+1s.gen gran won't.pst budge-inf home.of tomato eat-inf
+My gran wouldn't reconsider eating tomatoes.

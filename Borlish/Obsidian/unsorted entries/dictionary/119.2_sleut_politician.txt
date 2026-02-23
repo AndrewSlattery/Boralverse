@@ -1,0 +1,13 @@
+119.2: sleut "politician"
+
+sleut /slawt/ [zlawt]
+- politician, representative, someone engaged in politics as an elected or appointed official;
+- smooth talker, sycophant, silver tongue, someone skilled in charming people or especially in keeping the peace
+
+Etymology: substantive use of the past participle of verb sleir "to elect, to vote for", itself via Old Borlish isler "elect" from Vulgar Latin exligō (Classical ēligō "I pick, choose, elect"). The term was used almost immediately as a somewhat derogatory term for anyone perceived to act in the manner of a politician.
+
+Noc imprefait es ig tell'heir denoy sleut.
+/nɔk ˌɪm.preˈfet ɛz aj tɛˈlir deˈnɔj slawt/
+[nʊˌgɪm.pʀɪˈfet ɪz aj tɪˈli.jɐ dɪˈnɔj zlawt]
+ng surprising be comp 2s.gn=son become-pst politician
+I'm not surprised your son's a politician.

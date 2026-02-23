@@ -1,0 +1,15 @@
+31.1: 2-D Geometry
+
+    excerpt in translation from the correspondence of Dewock Barclythe (1452-1539 N),Friar of Tremonnow; these lines are from a missive sent to his acquaintance Lluprando da Treviso at the University of Saint Marinus.
+
+Quemant es locutionnar ig cas y plan d'Euclid, dou form mozað calscon son tojorn parallel, oc a digr il hamtn un plan parey.
+It is good to remark that in the context of Euclid’s plane, all mozate forms are parallel, which is to say that they are coplanar.
+
+L'oc parceuçon a nossy Jarleð menað all'apponment ig form mozað posn un ongit por asmuth posseïr innað, cos equal com se poð un tramou fornir con l'un asmuth des dou ouçon.
+This observation has led our Jarleth to conjecture that mozate forms might possess themselves a sort of direction, in the same way that a line segment may be endowed with one of two directions.
+
+L'ongit por asmuth y tesquallessem posseïbr par un form com circol ben scaðr es lon dout l'ongit aut par un orlosc soler.
+The most natural sense of direction a form like a circle or square might possess is undoubtedly the sense of a sundial.
+
+Calscon exact vel signfiar ig un cercol ay voltisc soler ben guyer, ne diagram defagl no’s l'oc voltisc depegntar; y vellisqment normal de saget benoçar suffig ac fort just com cas form lign.
+Whatever precisely it should mean for a circle to be sunward or awkward, in diagram it is not difficult to depict; the usual expedient of arrowheads suffices as well here as it does for line forms.

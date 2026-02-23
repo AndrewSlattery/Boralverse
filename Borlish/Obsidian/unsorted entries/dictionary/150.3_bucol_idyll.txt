@@ -1,0 +1,14 @@
+150.3: bucol "idyll"
+
+bucol /biˈkɔl/ [bɪˈkɔl]
+- idyll, haven, paradise, solace, oasis, a peaceful location or circumstance especially in the countryside;
+- respite, break, relief, lull, a (usually temporary) decrease in stress or difficulty;
+- reverie, daydream, idle and pleasant thoughts
+
+Etymology: Middle Borlish, a backformation from earlier adjective bucolic "idyllic, peaceful", a borrowing from Latin bucolicus "pastoral, rustic". The word had broadened from the first senses by the late eighteenth century, and has been used for purely mental peace since the early twentieth.
+
+Jo kiglau l'oç seyon rovað dec j'er bucol hamtant.
+/ʒo kaiˈlo lɔts siˈjɔn roˈvaθ dɛk ʒɛr biˈkɔl hamˈtant/
+[ʝo kɐiˈlo lɔts ˈsjɔn ʀʊˈvah dɛk ʝɛː bɪˈkɔl hɐmˈtant]
+1s miss-pst df=s.dt 3s.agt ask-p.pst because 1s=cop.ipf idyll dwell-p.prs
+I missed what he asked because I was daydreaming.

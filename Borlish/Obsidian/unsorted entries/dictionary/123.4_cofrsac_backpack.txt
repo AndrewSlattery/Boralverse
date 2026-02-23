@@ -1,0 +1,13 @@
+123.4: cofrsac "backpack"
+
+cofrsac /ˌkɔfr̩ˈsak/ [ˌkɔ.fɐˈsak]
+- backpack, rucksack, a case of leather or fabric for carrying things on the back;
+- shoulder bag, messenger bag, a sack worn on one shoulder and around the chest
+
+Etymology: Middle Borlish, compound of cofr "basket" (now archaic or dialect) < synonymous cophinus in Latin, and sac < Latin saccus "bag, sack". Originally in the latter senses, denoting a bag carried like a basket; in the "backpack" sense it is attested only from the late nineteenth century.
+
+I tirau un largeç a haçot imprefait des sy cofrsac.
+/i tiˈro ɪn larˈgɛts a haˈtsɔt ˌɪm.preˈfet dɛz si ˌkɔfr̩ˈsak/
+[i tɪˈʀo ɪn lɐːˈgɛts a hɐˈtsɔt ˌɪm.pʀɪˈfet dɛz si ˌkɔ.fɐˈsak]
+3s pull-pst indf lots at bundle surprising out.of 3s.gn backpack
+He pulled surprisingly many things from his backpack.

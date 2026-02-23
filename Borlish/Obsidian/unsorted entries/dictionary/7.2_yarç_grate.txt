@@ -1,0 +1,17 @@
+7.2: yarç "grate"
+
+yarç /jarts/ [ʝɑːts]
+- (obsolete or dialect) harrow, device dragged along ploughed land to break up the soil;
+- portcullis, gate in the form of a grating which is lowered into place at the entrance to a castle or fort;
+- trellis, pergola, grating in the form of walls or a passageway used to support climbing plants;
+- (by extension) lattice, grate, grill, frame formed of both horizontal and vertical strip of material often used to allow small objects to pass through while large objects cannot
+
+Etymology: from Old Boral yarce, yerce "harrow, portcullis" (among other attested forms), itself from Medieval Latin hercia "harrow", which presumably derives from Classical hirpex, hirpicis with the same meaning (although the phonetic development is unclear).
+
+Use for portcullises is very early, while extension to gardening and more general usage is only attested from the fifteenth century, particularly with reference to gratings used to catch specific types of fish.
+
+Nos flannaum pall'yarç colloir ant yeðrot parlocant.
+/no flaˈnom paˈljarts koˈlɔjr ant jɛðˈrɔt ˌpar.loˈkant/
+[no flɐˈnom pɐˈljɑː(t)s kʊˈlɔ.jɐ‿ʀant jɪˈʀɔt ˌpɑː.lʊˈkant]
+1p amble-pst.1p through.def=grate corridor with ivy flank-ptcp.prs
+We ambled down the pergola with ivy all around us.

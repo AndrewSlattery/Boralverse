@@ -1,0 +1,13 @@
+201.2: Lexember 2025 - 23: jahesment "set"
+
+jahesment /ˌʒa.hɛˈzmɛnt/ [ˌʝa.hɪˈzmɛnt]
+- device, contraption, gadget, gizmo, a clever or complicated otherwise-unspecified machine;
+- set, receiver, transmitter, a piece of electronic equipment which participates in signalling (as of telegraphy, telephony or television);
+
+Etymology: borrowed from Vascon jahesment "contraption", a derivative of jahès "harness, rig". This in turn was borrowed from Arabic جَهَاز • jahāz "gear, utensil", from a root meaning "to prepare". Specialisation to devices such as telephone or radio sets was first applied to steeplepost equipment around the turn of the 19th century.
+
+Ty jahesment es angostessem sur y mien.
+/ti ˌʒa.hɛˈzmɛnt ɛz ˌan.gɔˈstɛ.sɛm sɪr i mjɛn/
+[ti ˌʝa.hɪˈzmɛnt ɪz ˌaŋ.gʊˈstɛ.sɐm sɪː‿ʀi mjɛn]
+3s.gn set be thin-cmp on df 1s.gn
+Your TV set is thinner than mine.

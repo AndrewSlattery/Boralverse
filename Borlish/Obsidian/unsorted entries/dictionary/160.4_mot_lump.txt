@@ -1,0 +1,14 @@
+160.4: mot "lump"
+
+mot /mɔt/ [mɔt]
+- wad, lump, clod, an amorphous compact mass;
+- plug, blockage, obstruction, jam, something that blocks a passage;
+- issue, problem, bug, anything that holds up a process
+
+Etymology: from Old Borlish mot "lump, mound" and thought to be of Germanic origin; possibly via Old French mote "hillock" from Frankish motta "mud, peat, turf". The term is first used in the "blockage" sense in the fifteenth century, and soon thereafter it sees metaphorical use.
+
+I vendra tart dec caut flaccið ne mot routoir.
+/i vɛnˈdra tart dɛk kot flakˈsɪθ ne mɔt ruˈtɔir/
+[i vɪnˈdʀa tɐːt dɛk kot flɐkˈsɪh ne mɔt ʀʊˈtɔ.jɐ]
+3s come-fut-3s late because get-p.pst becalmed in wad road-adj
+He'll be late since he's stuck in a traffic jam.

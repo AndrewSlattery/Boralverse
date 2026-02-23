@@ -1,0 +1,13 @@
+126.5: Chemical Etymology
+
+excerpts from the Veriloquace Glossary of Alchemy, a reference quire compiled by Rotcham University Primers.
+
+- moron n. /ˈmɔː.ɾɔn/ [proton] a deficient [positively charged] particle as found in atomic nuxes [nuclei]. 1888 < Kiew [Kyiv] Russian мора · mora (1882) < Ancient Greek μόρον · móron "mulberry, blackberry", in reference to Nike Sarantylack's "mulberry model" of the atom as containing a number of each of two different sorts of particle.
+
+- lucifer adj., n. /ˈləu.sɪ.fə/ [radioactive (substance)] of a substance, spontaneously producing subatomic particles or ionising light; such a substance. 1894 < Vascon lucifer < Latin lūcifer "light-bringing", from lūx "light" and -fer "carrying". Connected only incidentally with proper noun Lucifer "Satan".
+
+- killdark n. /ˈkɪl.daːk/ [uranium] the corporal [element] whose atoms have 92 mora, a lucifer [radioactive] grey metal. 1810 < Welsh kildárc "killdark" (1805) < the Irish shire of Killdara, where the corporal was first isolated. Plausibly respelt after "dark"; the Wessern English form darick /ˈda.ɾək/ "dark" may also have played a role.
+
+- lix n. /lɪks/ [potassium] the corporal whose atoms have 19 mora, a soft grey metal acted on by air and water and thus never found in tesquo [in nature] as a metal. 1797 < Latin lixa "lye", which is the caustic of lix [potassium hydroxide].
+
+- janthine n. /ˈdʒan.θəin/ [iodine] the corporal whose atoms have 53 mora, found as a grey solid, a purple-black liquid and a purple gas. 1791 < Scholastic Latin janthīnus < Ancient Greek ἰάνθῐνος "violet-coloured".

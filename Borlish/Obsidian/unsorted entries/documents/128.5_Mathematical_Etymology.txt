@@ -1,0 +1,13 @@
+128.5: Mathematical Etymology
+
+excerpts from the Veriloquace Glossary o'Mathematics, a reference quire compiled by Rotcham University Primers.
+
+zeffer /ˈzɛ.fə/ [zero] the number of things in an empty collection, the quantity one fewer than one. Before 1350 < Scholastic Latin zefer, zefrum (alt. zephirus by false connection to Zephyr) < Arabic صِفْر • ṣifr "empty, void" < in sense from Sanscrit शून्य • śūnyá "empty, void".
+
+ablate /ˈa.blət/ [negative] fewer than zeffer, as of a debtor's money or a distance backward. 1481 < Lombard ablad < Scholastic Latin ablātus "taken away, withdrawn, removed", first used in financial accounts and taken up by mathematicians some decades later.
+
+dart /ˈdaːt/ [~vector] a segment of a line, considered with a choice of which end is the head and which the vane. Around 1470 < Early Merch dart "throwing spear, dart" < Middle French dart, dard < Medieval Latin dardus < Frankish *darōth < Classical German *darōthus "light spear, javelin, dart". Extended to its mathematical sense by the pictorial analogy of drawing arrowheads on line segments.
+
+augrim /ˈəu.gɾɪm/ [~arithmetic] the mathematics of calculation with numbers; computation more generally. Around 1220 < Drengot augrime, algrisme etc < Old French algorisme < Scholastic Latin algorismus "the use of Arabic numbers" < Arabic الخَوَارِزْمِيّ • al-ḵawārizmiyy, a name of the Persian polymath whose mathematical works introduced much of mathematics to Europe.
+
+arrhumb /ˈa.ɾəm/ [cosine] the sending of an angle to the quotient of the height of a rod rotated by that angle from the vertical to the full length of the rod. Early Merch arrum, arrom (the modern spelling is influenced by unrelated rhumb "compass bearing") < Arabic الرمح • ar-rumḥ "spear, shaft". This appears to be a metaphorical extension related to the use ofوتر • watar < Sanscrit ज्या • jyā́ "bowstring" for vater.

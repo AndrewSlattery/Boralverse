@@ -1,0 +1,15 @@
+185.4: bastegl "bulwark"
+
+bastegl /baˈstɪjl/ [baˈstɪjl]
+- fortress, fortification, a strongly built and defended military structure or enclosure used in warfare;
+- bastion, stronghold, a secure position or place of power and influence;
+- bulwark, defence, something that serves as a shield or protection against danger or attack;
+- safeguard, protection, precaution, any means of preventing harm or ensuring safety
+
+Etymology: a borrowing from Middle French bastille "fortress", itself from early Doccian [Occitan] bastida "fortress, edifice" adapted to the -ille suffix < Latin īle "enclosure". This comes from Late Latin bastiō "I build; I sew", a borrowing from Frankish. In metaphorical usage the word is in evidence from the eighteenth century.
+
+L'oc alleyanç intermandra bastegl contr y Pologn.
+/lɔk ˌa.liˈjants ɪnˌtɛr.manˈdra baˈstɪjl ˈkɔn.tr̩ i poˈlɔjn/
+[lʊˌgalˈjans ɪnˌθɛː.mɐnˈdʀa bɐˈstɪjl ˈkɔn.tɐ‿ʀi pʊˈlɔjn]
+df=s.px alliance comprise-ft fortress against df Poland
+This alliance will be a bulwark against Poland.

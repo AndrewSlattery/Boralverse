@@ -1,0 +1,15 @@
+215.3: sabler reuvr "turn back time"
+
+sabler reuvr /saˈblɛr rauvr̩/ [sɐˈblɛː ˈʀau.vɐ]
+- turn back time, (used literally) to travel into the past;
+- try again, have a do-over, get another chance, to be permitted to disregard some result and attempt something anew;
+- live in the past, to dwell (usually overmuch) on memories or nostalgia;
+- (computing) reset, to restore to a previous state
+
+Etymology: idiom attested from the nineteenth century, literally "to flip (an) hourglass". The noun sabler "hourglass" is a derivative of sabr "sand" influenced by synonymous sablier in French, from Latin sabulō "sand, gravel". The verb reuvr "flip, upend" descends directly from Latin revolvō "I unwind; I turn over". Originally restricted to metaphor, the phrase is attested in literal use from the late nineteenth century in parachthon [sci-fi, fantasy] works of writing.
+
+La peðeu a sabler reuvr dy scitaçon.
+/la peˈðau a saˈblɛr rauvr̩ di ˌxi.taˈtsɔn/
+[la pɪˈðau a sɐˈblɛː ˈʀau.vɐ di ˌçi.tɐˈtsɔn]
+3s.f ask-pst to hourglass flip-inf of-df exam
+She asked to resit the exam.

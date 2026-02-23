@@ -1,0 +1,14 @@
+36.3: flagitar "insist"
+
+flagitar /ˌfla.ʒiˈtar/ [ˌfla.ʝɪˈtɑː]
+- insist, demand, ask continually and forcefully that something be done;
+- insist, affirm, to hold up a claim emphatically;
+- persevere, abide, to persist steadfastly in pursuit of an undertaking
+
+Etymology: from the Middle Boral period in legal jargon, from Latin flāgitō "I require, solicit, accuse", possibly related to flagrum "whip, scourge, lash". The shift in emphasis to steadfastness has occurred by the eighteenth century.
+
+Il son flagitant lour y port jamay zamicar.
+/ɪl sɔn ˌfla.ʒiˈtant lur i pɔrt ʒaˈme ˌza.miˈkar/
+[ɪw sɔn ˌfla.ʝɪˈtan lʊː‿ʀi ˈpɔːt ʝɐˈme ˌza.mɪˈkɑː]
+3p be.3p insist-p.prs 3p.gen def door never lock-inf
+They're insisting they never lock their door.

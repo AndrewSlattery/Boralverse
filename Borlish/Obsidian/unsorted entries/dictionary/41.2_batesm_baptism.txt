@@ -1,0 +1,14 @@
+41.2: batesm "baptism"
+
+batesm /baˈtɛ.zm̩/ [bɐˈtɛ.zɐm]
+- baptism, christening, the Christian rite in which a person (usually a child) is received into the church and given a name;
+- (more generally) naming, the act of giving a person or thing a name;
+- induction, hazing, any ceremony whose purpose is to introduce new members to some association, especially if the process if unpleasant or even dangerous
+
+Etymology: via Old Boral batesme "baptism, christening" and synonymous Late Latin baptisma from Ancient Greek βάπτισμα (báptisma, "dipping in water, baptism"). Used outside of a Christian context from as early as the late thirteenth century; in the last sense it arises in the student culture of Vithor in the eighteenth century.
+
+Scerraun doç batesm ac fait l'oc jorn.
+/xɛˈron dɔts baˈtɛ.zm̩ ak fet lɔk ʒɔrn/
+[çɪˈʀon dɔs bɐˈtɛ.zɐm ak ˈfet lʊˈʝɔːn]
+there.be-fut.3p twelve baptism here do-p.pst def-s.px day
+Twelve baptisms will be performed here today.

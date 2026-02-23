@@ -1,0 +1,14 @@
+158.2: affr "fright"
+
+affr /ˈafr̩/ [ˈa.fɐ]
+- fright, alarm, shock, terror, a sudden and violent feeling of fear;
+- threat, nightmare, ordeal, a scary experience;
+- monster, menace, something or someone who is scary;
+
+Etymology: borrowed into Middle Borlish from French affre "horror, terror". This descends via Old Vascon affre from a Gothic root reflecting Classical German æbras "bitter, violent". The term has been used also for the emotion's cause since the eighteenth century.
+
+Un min d'affr sclarisceu sur y justicer.
+/ɪn mɪn ˈdafr̩ ˌxla.riˈxau sɪr i ˌʒɪ.stiˈtsɛr/
+[ɪm mɪn ˈda.fɐ ˌxla.ʀɪˈxau sɪː‿ʀi ˌʝɪ.stɪˈtsɛː]
+indf look of=fear flash-pst on df judge
+Fear flashed across the judge's face.

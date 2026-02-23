@@ -1,0 +1,13 @@
+136.4: infruniscent "bored"
+
+infruniscent /ɪnˌfri.niˈxɛnt/ [ɪɱˌfʀi.nɪˈçɛnt]
+- bored, disinterested, unenthusiastic, not feeling entertained or enjoyment;
+- impatient, irritable, restive, wanting to move on from what one is currently doing
+
+Etymology: Middle Borlish, negated participle of the verb frunir "to have fun, enjoy oneself". This is a borrowing from Latin frūnīscor "I enjoy", which was used non-Classically as an intransitive verb. In the latter senses it is attested from the eighteenth century.
+
+Y stuðant infruniscent assisten y leiçoir.
+/i stiˈðant ɪnˌfri.niˈxɛnt ˌa.sɪˈstɛn i liˈtsɔir/
+[i stɪˈðant ɪɱˌfʀi.nɪˈçɛnt ˌa.sɪˈstɛn i lɪˈtsɔ.jɐ]
+df student bored attend-ipf-3p df lecture
+The bored students were at the lecture.

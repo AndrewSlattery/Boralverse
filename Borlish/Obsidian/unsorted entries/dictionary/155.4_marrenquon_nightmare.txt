@@ -1,0 +1,14 @@
+155.4: marrenquon "nightmare"
+
+marrenquon /ˌma.rɛnˈkwɔn/ [ˌma.ʀɪŋˈkwɔn]
+- nightmare, bad dream, an unpleasant or frightening experience during sleep;
+- incubus, a malevolent supernatural entity thought to cause nightmares;
+- demon, bugbear, bogeyman, any menacing monster especially as used in stories to frighten children
+
+Etymology: pleonastic compound of Old Borlish marr and enquon, both meaning "nightmare". The former is a loan either from Old French or from a German language, while the latter descends from Latin incubō "nightmare". The extension of this word to other malevolent demonic figures is seen from the sixteenth century.
+
+Jo cof alcun marrenquon n'oc hour apres.
+/ʒo kɔf alˈkɪn ˌma.rɛnˈkwɔn nɔk ur aˈprɛz/
+[ʝo kɔf ˌa.gɪn ˌma.ʀɪŋˈkwɔn nʊˈgʊː‿ʀɐˈpʀɛz]
+1s get.pst none nightmare in=s.px time after
+I didn't have any nightmares for a while.

@@ -1,0 +1,11 @@
+123.5: Dart Geometry
+
+excerpted from Drawing in the Sand: the History of Calculation, a collaborative reference book originally published 1954 in Napolitan as Scheme ne Rene: a Storia d'Amiradanza by the Agenza Scholaria Fodgesa.
+
+…tempting to draw a straight line from Euclid's Elements until the introduction of new instantiations of geometry in Ferenc's pioneering 1819 work Geometriæ Inquadrabiles, seeing any developments in the meantime as merely the proving of ever more particular theorems. However, this fails to acknowledge the truly conceptual advancements in the field, which would go on to influence diverse parts of mathematics and theory.
+
+In this section, we chart the development of the "dart method" as an extension of Euclidean geometry. In all the theorems of The Elements, no distinction is made between a line AB and its reverse BA. It is only in the late fifteenth century that scholars like Barclythe and da Treviso begin to assign directions to lines (it is unclear whether the parallel developments at the Hicma Academy in Baghdad are due to direct communication or simply an independent invention).
+
+It was this seemingly trivial addition that enabled geometers to do two important things. First, it brought ablate [negative] quantities into the realm of respectability in European mathematics; although the idea of "less-than-no things" was absurd (nonetheless, ablate numbers were already being used in the account-books of Venise and other trade cities to denote debts), no-one was perturbed by the concept of returning to one's starting point by trdavelling from A to B, and then from B to A. Second, it allowed for stronger ties between geometry and the newly-imported algebra; adding together two directed lines was conceptually as easy as laying two arrows point-to-vane.
+
+In this way, one could translate a geometric statement like "the lines a, b and c form a triangle" into the algebraic equation "a + b = c". Indeed, over the proceeding decades mathematicians worked to render all the proofs of the Elements into this form. Extending the theory to mozate [two-dimensional] shapes took…

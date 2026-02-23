@@ -1,0 +1,14 @@
+11.4: vunnastr “merry”
+
+vunnastr /viˈnas.tr̩/ [vɪˈnas.tɐ]
+- merry, jolly, festive, full of high spirits and inclined to celebrate;
+- (of music) brisk, lively, at a fast tempo and with a light-hearted mood;
+- tipsy, a bit drunk, slightly inebriated as one might be at a holiday party
+
+Etymology: from Old Boral wunuast(re) "joyful, joyous", the first part of which is thought to be cognate to Old English wynn "joy, happiness". Direct borrowing of the noun is considered unlikely, however, since it was uncommon in prose and usually confined to poetry. The most commonly held view is that the Old Boral is borrowed from the derived adjective wynfæst "joyful", with the final -r being a later addition by analogy with other adjectives ending in -astre < Latin -aster, -astrum.
+
+    Nos broucaum un crevoscr vunnastr accougl.
+    /nɔz bruˈko ɪn kreˈvɔ.xr̩ viˈnas.tr̩ aˈkujl/
+    [nɔz bʀʊˈko ɪŋ kʀɪˈvɔ.xɐ vɪˈnast‿ʀɐˈkʊ.jʊ]
+    1p spend.time-1p.pst indef evening merry together
+    We spent a merry evening together.

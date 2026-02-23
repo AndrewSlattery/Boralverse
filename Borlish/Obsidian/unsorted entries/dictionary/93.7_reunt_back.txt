@@ -1,0 +1,14 @@
+93.7: reunt "back"
+
+reunt /rawnt/ [ʀawnt]
+- back, to or in an earlier state or place;
+- at odds, contrariwise, in a manner which contradicts something;
+- once more, again, over, another time (especially when performing an action twice returns one literally or metaphorically to one's starting point)
+
+Etymology: present participle of reuvr "come back, return, turn over, flip, do again, repeat". This descends via Old Borlish reouvre from Latin revolvō "I unroll, repeat", from volvō "I roll, tumble".
+
+Y jonglour fey l'ig bal yemois reunt.
+/i ʒɔnˈglur fi laj bal jeˈmɔiz rawnt/
+[i ʝʊŋˈglʊː fi laj bal ʝɪˈmɔiz ʀawnt]
+df magician do.pst df-s.dt ball arrive-sbj.ipf back
+The magician made the ball reappear.

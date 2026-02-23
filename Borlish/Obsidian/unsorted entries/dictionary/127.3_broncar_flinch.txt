@@ -1,0 +1,14 @@
+127.3: broncar "flinch"
+
+broncar /brɔnˈkar/ [bʀʊŋˈkɐː]
+- flinch, wince, recoil, to reflexively move away from something perceived as unpleasant or a threat;
+- stumble, trip, slip, lurch, to make a sudden unsteady movement;
+- balk, back out, chicken out, get cold feet, to refuse to act due to (espeecially sudden) fear or uncertainty
+
+Etymology: from Old Borlish broncar "stumble, misstep", cognate with synonymous bronchier in Old French but of unknown further origin. Perhaps connected to Latin broccus "buck-toothed" or truncus "docked, cut off", but neither is particularly semantically tempting. Unhelpful also are the equally unsourceable examples of Lombard bronco "thorny branch" and Barcelon bronc "knot in wood".
+
+Jo vole pogntar apar ma jo broncau.
+/ʒo voˈle pɔjnˈtar aˈpar pi ʒo brɔnˈko/
+[ʝo vʊˈle pʊjnˈtɐː‿ʀɐˈpɐː pi ʝo bʀʊŋˈko]
+1s will-ipf poke-inf through but 1s balk-pst
+I meant to flirt but I chickened out.

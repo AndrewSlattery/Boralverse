@@ -1,0 +1,13 @@
+2.3: dessoclar "to topple"
+
+dessoclar /ˌde.soˈklar/ [ˌde.sʊˈklɑː]
+- to topple, push or throw something over, especially something intentionally erected
+- to overthrow a regime or oust someone from a position of authority
+
+Etymology: from Middle Boral desçoclar "to topple, knock over", a verbal derivation from noun çocle "pedestal, plinth" (cf. modern but archaic çocr "bust, head-and-shoulders statue"). This is a thirteenth-century borrowing either from Vascon çocle "plinth" or perhaps directly from Mostara zocolo, both from Latin socculus "little shoe".
+
+My fraðr dessoclau y castel blader meyon costroit.
+/mi ˈfra.ðr̩ ˌde.soˈklo i kaˈstɛl blaˈdɛr miˈjɔn koˈstrɔjt/
+[mi ˈfra.ðɐ ˌde.sʊˈklo i kɐˈstɛw blɐˈdɛː mɪˈʝɔŋ kʊˈstʀɔjt]
+1s.gen brother topple-pst def castle card-adj 1s.dem build-ptcp.pst
+My brother knocked over the house of cards I built.

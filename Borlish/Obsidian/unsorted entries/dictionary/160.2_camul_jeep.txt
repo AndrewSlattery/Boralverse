@@ -1,0 +1,13 @@
+160.2: camul "jeep"
+
+camul /kaˈmɪl/ [kɐˈmɪl]
+- jeep, off-roader, SUV, a small military-style vehicle suited to rough terrain;
+- (attributive) rugged, weatherproofed, hardened, fortified, treated or designed so as to resist the elements
+
+Etymology: mid-twentieth century, genericised from Drengot military jargon but of uncertain further origin. Possibly an alteration of camel "camel" in reference to transporting soldiers and materiel; perhaps based on Latin chamūlcus "a kind of chariot". The term has been used to describe other "battle-ready" gear (usually consumer goods like backpacks and drinks bottles) since the 1980s.
+
+Soldart vessonnað descenoirn des y camul.
+/sɔlˈdart ˌvɛ.sɔˈnaθ ˌdɛ.xeˈnɔirn̩ dɛz i kaˈmɪl/
+[sʊlˈdɐːt ˌvɛ.sʊˈnah ˌdɛ.çɪˈnɔ.jɐn dɛz i kɐˈmɪl]
+soldier outfit-p.pst go.down-pst-3p out df jeep
+Soldiers in uniform spilled out of the jeep.

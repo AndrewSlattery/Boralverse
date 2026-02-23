@@ -1,0 +1,15 @@
+78.4: dijarbr "decent"
+
+dijarbr /diˈʒar.br̩/ [dɪˈʝɑː.bɐ]
+- decent, acceptable, fine, OK, of a sufficiently-high quality but not particularly impressive;
+- manageable, doable, feasible, not daunting in scope or difficulty;
+- wieldy, handy, able to be handled with grace while not being overly heavy or awkwardly shaped
+- (rare) digestible, edible, capable of being eaten and digested
+
+Etymology: adjectival derivation from dijarr "to bear, cope with, deal with, stomach". This verb descends from Middle Boral dijarr "parse, classify, sort out; digest, stomach", a borrowing from Latin dīgerō "I disseminate, disperse, arrange" altered by analogy with now-archaic verb enjarr "to eat" < ingerō "I carry in, pile up".
+
+Servið son quelt dijarbr all'ig tarn.
+/sɛrˈvɪθ sɔn kwɛlt diˈʒar.br̩ aˈlaj tarn/
+[sɪːˈvɪh sɔŋ kwɛlt dɪˈʝɑːb‿ʀɐˈlaj tɑːn]
+serve-p.pst be.3p dinner decent at-def=s.dt inn
+They do a decent dinner at that inn.

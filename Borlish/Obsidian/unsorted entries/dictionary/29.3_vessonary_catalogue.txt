@@ -1,0 +1,14 @@
+29.3: vessonary "catalogue"
+
+vessonary /ˌvɛ.so.naˈri/ [ˌvɛ.sʊ.nɐˈʀi]
+- fashion plate, costumery, a collection of pictures illustrating the latest fashions in clothes;
+- (more broadly) catalogue, a retailer's publication detailing their stock allowing readers to have items delivered;
+- portfolio, an artist's compilation of example works used in applying to potential employers
+
+Etymology: from the late eighteenth century, a derivation of vesson "outfit, costume". This descends from Old Boral vesçon "clothing, attire", from synonymous Insular Latin vestiō which is a Borland-specific derivative of vestis "garment, article of clothing". Extension to general collections of products is seen by the mid-twentieth century.
+
+A tu uncos sou y blau trovað nell'ig vessonary?
+/a ti ɪnˈkɔz su i blo troˈvaθ neˈlaj ˌvɛ.so.naˈri/
+[a ti ɪŋˈkɔz su i blo tʁʊˈvaθ nɪˈlaj ˌve.sʊ.nɐˈʀi]
+have-s 2s something under def blue find-ptcp in.def=s.dt catalogue
+Have you found anything cool in that catalogue?

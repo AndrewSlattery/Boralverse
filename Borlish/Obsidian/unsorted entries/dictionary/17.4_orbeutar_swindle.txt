@@ -1,0 +1,13 @@
+17.4: orbeutar "swindle"
+
+orbeutar /ˌɔr.bawˈtar/ [ˌɔː.bɐwtɑː]
+- cheat, swindle, defraud, con, to obtain money or other property from a person by means of deception;
+- screw, undermine, hinder, to ruin someone's position in a game or other situation
+
+Etymology: from Old Boral orbeutar "to sneak up on, surprise", formed by metathesis from synonymous Insular Latin *obrēptāre, a regularisation via conjugation shift from Classical obrēpere "to creep, swindle". In the sense "defraud", possibly a retention from the Classical word, although this meaning isn't attested in Boral until trial records of the seventeenth century.
+
+J'ay me caut orbeutað d'un coroncr ovart.
+/ʒe me kot ˌor.bawˈtaθ dɪn koˈrɔnk oˈvart/
+[ʝe mɪ ˈkot ˌɔː.bɐwˈtah dɪŋ kʊˈʀɔŋk ʊˈvɑːt]
+1s=have.1s 1s.obl get-ptcp.pst con-ptcp.pst of=indef pretender open
+I've been swindled by a blatant impostor.

@@ -1,0 +1,14 @@
+172.2: allocquar "address"
+
+allocquar /ˌa.lɔˈkwar/ [ˌa.lʊˈkwɐː]
+- address, speak to, to communicate with by means of speech;
+- affect, touch, impact, to have some sort of relevance to or effect upon;
+- (dated) court, woo, romance, to endeavour to gain someone's affections
+
+Etymology: Middle Borlish, borrowed (with regularised conjugation modelled after collocquar "converse") from Latin alloquor "I address, greet", derived from the root loquor "I speak". The term is seen in metaphorical use from the eighteenth century, and in romantic contexts from around the same time.
+
+Lor rou y diac ouð y ley vel y taus terren allocquar.
+/lɔr ru i djak uθ i li vɛl i toz tɛˈrɛn ˌa.lɔˈkwar/
+[lɔː ʀu i djak u‿ði li vɛl i toz tɪˈʀɛn ˌa.lʊˈkwɐː]
+then ask df journo q df law will.sbj df rate of.land address.inf
+The journo then asks if the law will affect land tax.

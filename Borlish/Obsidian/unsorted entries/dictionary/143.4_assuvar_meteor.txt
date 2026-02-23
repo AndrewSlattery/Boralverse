@@ -1,0 +1,14 @@
+143.4: assuvar "meteor"
+
+assuvar /ˌa.siˈvar/ [ˌa.sɪˈvɐː]
+- meteor, shooting star, a piece of extraterrestrial rock falling through the Earth's atmosphere;
+- meteoroid, meteorite, such a piece of rock before it enters the Earth's atmosphere or after it has landed on the ground;
+- harbinger, omen, herald, something that foretells the coming of some person or event (especially something bad)
+
+Etymology: from Scholastic Latin assūvāris "meteor; meteoric", and specifically from the thirteenth-century work Dē Assūvāribus "On Meteoric (Phenomena)". This is a borrowing from Arabic شُهُب • shuhub "shooting stars", plural of شِهَاب • shihāb "blaze, brand; shooting star". In the last senses it reflects a long history of comets and similar celestial appearances being used to foretell the future.
+
+Nos s'asseyau tras port e conteyau assuvar.
+/nɔz ˌsa.siˈjo traz pɔrt e ˌkɔn.tiˈjo ˌa.siˈvar/
+[nɔz ˌsasˈjo tʀaz pɔːt e ˌkɔntˈjo ˌa.sɪˈvɐː]
+1p rfl=sit-ipf.1p across door and count-ipf.1p meteor
+We sat outside and counted shooting stars.

@@ -1,0 +1,15 @@
+25.4: cossy sceint "as such"
+
+cossy sceint /koˈsi xint/ [kʊˈsi çint]
+- as such, in that capacity, according to the role or manner of the aforementioned;
+- therefore, consequently, following from the aforementioned as a result or consequence
+
+Etymology: literally "there being thus"; the adverb cossy "thus, in that way" comes from Old Boral cossi, traditionally identified with Italian cosí as deriving from Vulgar Latin eccum sīc "this thus" but in fact likely from *causa sīc "the thing thus".
+
+The word sceint is the present participle of sceir "for there to be", used in existential constructions. This verb descends from early Old Boral sier "to stay, be be present" (among other attested forms), from Latin sedeō "I sit, stay".
+
+Y scavour cossy sceint poð noc hand dar all'hom poið.
+/i xaˈvur koˈsi xint pɔθ nɔk hand dar aˈlɔm pɔjθ/
+[i xɐˈvʊː kʊˈsi çint pɔ nɔk hand dɑː‿ʀɐˈlɔm pɔjh]
+def journalist thus there.be-ptcp.prs can neg sex give-inf to.def=person well
+As a journalist, they cannot have sex with their source.

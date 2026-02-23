@@ -1,0 +1,15 @@
+140.2: nothe "forged"
+
+nothe /noˈθe/ [nʊˈθe]
+- bastard, illegitimate, born to unmarried parents (when this means one is not able to inherit something);
+- counterfeit, forged, claiming falsely to be something genuine;
+- spurious, specious, fallacious, superficially plausible but not in fact logically deducible;
+- (botany, zoology) false, denoting various plants and animals which resemble but which are not other species
+
+Etymology: Middle Borlish borrowing from Scholastic Latin notheus "illegitimate, bastard", a pleonastic extension of synonymous nothus in Classical Latin. Originally restricted to legal contexts (where it replaced terms like bort and cif which were considered vulgar), it is now in general use. The term coexists as a higher-register term with French-derived bastart, which is somewhat crass.
+
+Nos yemoim toð pront scið y Jorala sta nothe.
+/nɔz jeˈmɔim tɔθ prɔnt xɪθ i ˌʒo.raˈla sta noˈθe/
+[nɔz jɪˈmɔim tʊˈpʀɔnt çɪ‿ði ˌʝo.ʀɐˈla sta nʊˈθe]
+1p get-pst-1p all immediate known df Jorala be.ipf forged
+We immediately realised the Jorala was forged.

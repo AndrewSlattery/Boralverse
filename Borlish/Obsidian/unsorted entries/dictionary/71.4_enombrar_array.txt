@@ -1,0 +1,22 @@
+71.4: enombrar "array"
+
+enombrar /ˌe.nɔmˈbrar/ [ˌe.nʊmˈbʀɑː]
+- list, enumerate, count, tally, to specify each member of a group in some order;
+- lay out, array, display, to arrange in a certain way so as to spread or space apart;
+- muster, assemble, rally, to call together to form a group (especially as of soldiers)
+
+→ enombranç /ˌe.nɔmˈbrants/ [ˌe.nʊmˈbʀans]
+- list, enumeration, count, tally, a sequence of items placed into some order;
+- layout, array, display, order, arrangement, the particular placement of a set of things in space;
+- regiment, troop, platoon, a unit of soldiers in an army
+
+→ enombranç corporal /ˌe.nɔmˈbrants ˌkɔr.poˈral/ [ˌe.nʊmˈbʀans ˌkɔː.pʊˈʀal]
+- periodic table, the arrangement of chemical elements by atomic mass
+
+Etymology: The verb enombrar is a sixteenth-century borrowing from Latin ēnumerō "I count up, I reckon", based on existing noun nombr < Latin numerus "number". Military use dates from the Democratic Wars of the mid-eighteenth century. The adjective corporal "material", a Middle Boral borrowing from Latin corporālis "physical, concrete", is from the eighteenth century used as a noun meaning "chemical element".
+
+Enombreu casc corrovað ac yent oc aubon.
+/ˌe.nɔmˈbraw kax ˌkɔ.roˈvaθ ak kɛnt ɔk oˈbɔn/
+[ˌe.nʊmˈbraw kax ˌkɔ.ʀʊˈva‿ðak jɛnt ˌɔ.gʊˈbɔn]
+rally-sbj.1p each recruit here arrive.p.pst s.px morning
+Let's rally the morning's new recruits.

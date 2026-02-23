@@ -1,0 +1,16 @@
+50.2: 13th Lexember
+
+javigar "trawl"
+
+javigar /ˌʒa.viˈgar/ [ˌʝa.vɪˈgɑː]
+- trawl, to fish from a slow-moving vessel using a trawlnet;
+- (by extension) sweep, scour, ransack, comb through, to make an exhaustive and methodical search over a defined area or down an explicit list of options;
+- search, query, index, locate, to perform a search of a information organisation system (e.g. in a library) or, later, of a database or of webpages using a computer
+
+Etymology: originally in the first sense, borrowed along with the noun javig "trawlnet; later, (a) methodical search" from synonymous Portingale xaviga in the thirteenth century; the initial voicing is unexplained and has been attributed to dialect variation. The Portingale word is a borrowing from Arabic شَبَكَة (shabaca) "fishing net", likely via Mostara Spanish.
+
+    Nos javigaum toð y majon livr por detaxion cas aur.
+    /nɔz ˌʒa.viˈgom tɔθ i maˈʒɔn ˈli.vr̩ pɔr ˌde.takˈsjɔn kaz or/
+    [nɔz ˌʝa.vɪˈgom to.ði mɐˈʝɔn ˈli.vɐ pɔː ˌde.tɐkˈsjɔn kaz oː]
+    1p trawl-pst-1p all def house book for synthesis wrt gold
+    We searched the whole library for syntheses involving gold.

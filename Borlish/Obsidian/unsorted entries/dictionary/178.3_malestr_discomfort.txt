@@ -1,0 +1,15 @@
+178.3: malestr "discomfort"
+
+malestr /maˈlɛstr̩/ [mɐˈlɛ.stɐ]
+- unease, disquiet, concern, worry, a dissatisfaction with how things are unfolding;
+- discomfort, soreness, irritation, issues with how one is physically feeling;
+- bad mood, gloom, pessimism, a tendency to see things in the worst possible light;
+- snit, moodiness, sulk, a propensity to displays of bad temper and impatience
+
+Etymology: descendant of Old Borlish malestre "discomfort". This was a compound of mal "bad", which descends from synonymous malus in latin, and estre "being, state" (a former infinitive of "be" since replaced by star), which descends from Latin essere "to be". The word has extended to cover various bad or unpleasant emotions, competing for space with hougr "fear, annoyance, discontent" < Latin augurium "omen, warning, foreboding".
+
+No sceye l'hour por commorar ne malestr.
+/no xiˈje lur pɔr ˌkɔ.moˈrar ne maˈlɛstr̩/
+[no çiˈje lʊː pɔː ˌkɔ.mʊˈʀɐː ne mɐˈlɛ.stɐ]
+ng there.be-ipf df=time for tarry in unease
+There wasn't time to linger in discomfort.

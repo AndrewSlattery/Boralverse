@@ -1,0 +1,15 @@
+96.7: haçot "bunch"
+
+haçot /haˈtsɔt/ [hɐˈtsɔt]
+- bunch, cluster, a group of similar things either growing together or found together in a clump;
+- bundle, package, a group of objects held together by tying or wrapping;
+- an unspecified but sizable number of things;
+- lode, an unusual concentration of ore
+
+Etymology: Middle Borlish diminutive of haç "bundle", borrowed in nautical use from synonymous haç in Vascon. This reflects Latin fascis "packet, package; burden, load".
+
+Cosogr il taussan men an haçot a maus.
+/koˈzɔjr̩ ɪl toˈsan mɛn an haˈtsɔt a moz/
+[kʊˈzɔj‿ʀɪl tʊˈsan mɛn an hɐˈtsɔt a moz]
+as.one 3p cost-ipf.3p less at-indf bunch at banana
+The set cost less than a bunch of bananas.

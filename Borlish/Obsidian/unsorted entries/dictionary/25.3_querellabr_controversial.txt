@@ -1,0 +1,13 @@
+25.3: querellabr "controversial"
+
+querellabr /ˌkwe.rɛˈla.br̩/ [ˌkwe.ʀɪˈla.bɐ]
+- controversial, contentious, characterised by or liable to cause argument;
+- disputed, arguable, open to debate with respect to validity or genuineness
+
+Etymology: potential adjectival derivation from verb querellar "to argue, debate, quarrel", itself derived from noun querel "dispute, argument, quarrel". This descends from Old Boral, borrowed from synonymous Old French querele, which reflects Latin querēla "complaint, grievance".
+
+Querellabr es ou l'ig imascry fos vray meðes volað.
+/ˌkwe.rɛˈla.br‿ɛz oðr̩ laj ˌi.maxˈri fɔz vre meˈðɛz voˈlaθ/
+[ˌkwe.ʀɪˈla.b‿ɪz ˈo.ðɐ lɐj ˌi.mɐxˈʀi fɔz vʀe mɪˈðɛz vʊˈlah]
+arguable be.3s if def=s.px sculpture be.sbj.ipf true even steal-ptcp.pst
+It's debatable whether that sculpture was even really stolen.

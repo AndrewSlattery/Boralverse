@@ -1,0 +1,17 @@
+61.4: avant sy rau "shamelessly"
+
+avant sy rau /aˈvant si ro/ [ɐˈvan si ˈʀo]
+- shamelessly, brazenly, flagrantly, with no regard for someone's comfort or propriety;
+- in full view, openly, in public, exposed, easily visible to someone (especially of something you would expect to be concealed)
+
+Etymology: from early Middle Boral au sy rau [əu si rəu] "brazenly, in a way that provokes ire", literally "in front of the disdain (of someone)". The preposition au "in front of", from Latin apud "by, near, unto", had obsolesced and been supplanted by synonymous avant (from ab ante "from before") by the nineteenth century.
+
+The noun rau "disdain, scorn, (esp. societal) disapproval" is also obsolete outside this idiom, and is furthermore of unclear etymology. If of Latin origin all of reus "guilty", rabidus "furious" and an unattested *rōdus "slander" (from rōdō "I slander") have been suggested; if German then perhaps some cognate of Merch rough "unkind, rude". Attempts to connect the word to Welsh rhew "frost, disdain" are semantically tempting but otherwise unsubstantiable.
+
+Synchronically the idiom is usually misinterpreted as containing the unrelated word rau "uncooked vegetables, salad" (from Kentish raw "raw"), as though avant my rau meant "in front of my salad".
+
+    L'er mell'yam sleghant avant my rau!
+    /lɛr mɛˈljam sliˈjant aˈvant mi ro/
+    [lɛː mɪˈljam zlɪˈjant ɐˈvan mi ˈʀo]
+    3s-cop.ipf 1s.gen=uncle slander-p.prs in.front.of 1s.gen †disdain
+    He was shamelessly slandering my uncle!

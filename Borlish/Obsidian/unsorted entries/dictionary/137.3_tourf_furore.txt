@@ -1,0 +1,13 @@
+137.3: tourf "furore"
+
+tourf /turf/ [tʊːf]
+- furore, uproar, outcry, tumult, a loud or angry commotion;
+- protest, riot, demonstration, gathering of people in public to demand something
+
+Etymology: early modern borrowing from Welsh twrf "disturbance; crowd, mob", itself originally a borrowing from Latin turba "disorder; throng". The word gained currency during the Democratic Wars of the mid-eighteenth century, form which it obtained its political undertones.
+
+Jo fo sveilað je aubon posc par y tourf.
+/ʒo fo sviˈlaθ ʒe oˈbɔn pɔx par i turf/
+[ʝo fo zvɪˈlah ʝe ʊˈbɔn pɔx pa‿ʀi tʊːf]
+1s be.pst wake-p.pst day.of morning after by df furore
+I was woken in the morning by the riot.

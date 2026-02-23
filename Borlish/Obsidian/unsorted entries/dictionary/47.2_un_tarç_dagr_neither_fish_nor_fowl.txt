@@ -1,0 +1,16 @@
+47.2: un tarç dagr "neither fish nor fowl"
+
+un tarç dagr /ɪn tarts dɛjr̩/ [ɪn ˈtɑːs ˈdɛjɐ]
+- neither fish nor fowl, something or someone not easily categorised, not fitting into the established roles of a given situation;
+- grey area, ambiguity, a situation intermediate between more familiar states that is not clear or where the rules are not known
+- maverick, renegade, iconoclast, law unto oneself, a person refusing to be bound by societal conventions
+
+Etymology: clipped form of earlier proverb no plom ben aur ja tarç dagr "neither lead nor gold but [a] secret third [thing]". This has itself been frozen in an archaic dialect due to its appearance in the evergreen plays of Kinollesau—in Modern Boral we might instead see necun plom ben aur, aglon un treyem scos.
+
+The word tarç "third" descends directly from synonymous Latin tertius and now exists in complementary distribution with later derivation treyem < trēs "three". The disused adjective dagr "secret, hidden, unknown" comes via Old Boral daȝl, daȝr from Old English deagol "secret, obscure, dark".
+
+L'eç aldr aun ja un tarç dagr me rent.
+/lɛts aldr̩ on ʒa ɪn tarts dɛjr̩ me rɛnt/
+[lɪˈtsaw.dʀ‿on ʝa ɪn ˈtɑːs ˈdɛjɐ me ˈʀɛnt]
+def-p.px parent have-3p yet idf third secret 1s.obl make-p.pst
+With these parents I've been neither fish nor fowl.

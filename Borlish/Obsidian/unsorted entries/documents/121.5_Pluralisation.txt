@@ -1,0 +1,29 @@
+121.5: Pluralisation
+
+Final /-s/ is lost really early on in the development of Borlish; it's one of the very first sound changes that distinguishes it from the mainland Romance languages, occuring by around 500 AD. This, along with the loss of the genitive case (replaced with the ablative) makes the noun declension of typical nouns look like this:
+Image
+
+Notice that masculine nouns typically have only two forms, and feminine nouns only three. Once final vowels also get neutralised to schwa (and eventually lost entirely), the noun paradigm for regular nouns has completely collapsed.
+
+A few nouns briefly retain an irregular paradigm of the following shape, with a separate nominative singular:
+Image
+
+However, by the late Old Borlish period these have all been levelled to (usually) the oblique form; sour "sister" is the only counterexample where instead the nominative singular survives.
+
+Several strategies for marking noun number were innovated during the Old Borlish period, mostly involving demonstratives like ille, iste and ipse. However, the forms that survive to the present derive from the demonstrative hic "this". Specifically, we have:
+
+    oc "singular" < hoc, neuter singular
+    ec "plural" < haec, neuter plural
+
+In the late Old Borlish period we see the redevelopment of a proximate-distal contrast, with new distal demonstratives formed using the adverb i "there" (since lost; cf. Modern Borlish la < illāc):
+
+    oç < oc i "that" < hoc ibi
+    eç < ec i "those" < haec ibi
+
+Coda: Some Modern Borlish Names
+
+There are a few Celtic names which survive in modern Borlish, for various reasons.
+
+A very few names entered Borland Latin from the local Celtic during the Roman Empire. As a possible example, the male name Ivocq is thought to reflect Borland Celtic *iwok- "like a yew tree".
+
+More Celtic names enter Borlish at various stages since the medieval period. One of the earliest is the female name Jonnovar, cognate with Guinevere and Jennifer, and which is also used as a common noun meaning "butterfly".

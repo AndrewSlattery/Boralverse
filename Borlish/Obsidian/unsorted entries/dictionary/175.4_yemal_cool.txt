@@ -1,0 +1,14 @@
+175.4: yemal "cool"
+
+yemal /jeˈmal/ [ʝɪˈmal]
+- wintry, chilly, cold, pertaining to or reminiscent of winter;
+- standoffish, cool, making no overtures of politeness or friendliness;
+- stern, severe, strict, acting without flexibility or mercy
+
+Etymology: Middle Borlish (h)iemal "wintry", borrowed from Latin hiemālis "pertaining to winter", from hiems "winter". The term lost its initial h- (unlike most contemporaneous Latin borrowings) due to contamination from native yarn "winter" < Latin hībernum "winter". Emotional extension of the term is seen shortly thereafter, in parallel to stival "summery, friendly".
+
+My patron me lançau un scoul yemal.
+/mi paˈtrɔn me lanˈtso ɪn xul jeˈmal/
+[mi pɐˈtʀɔn me lɐnˈtso ɪn xul ʝɪˈmal]
+1s.gn boss 1s.obl throw-pst indf scowl wintry
+My boss glared at me without warmth.

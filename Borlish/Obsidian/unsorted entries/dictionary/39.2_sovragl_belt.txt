@@ -1,0 +1,13 @@
+39.2: sovragl "belt"
+
+sovragl /soˈvrɛjl/ [sʊˈvʀɛjʊ]
+- belt, girdle, a band worn around the waist to hold clothing (usually pants) to one's body;
+- sash, cummerbund, a decorative band of cloth worn across the body;
+
+Etymology: direct descendant from Latin subligāculum "loincloth, kilt" exhibiting l-r dissimilation (attested from as early as c8 in Old Boral sovreiaȝle "waistband, overskirt") likely reinforced by the etymologically-unrelated prefix sovr- "over, above". Synchronically analysable as sovrar "pass, go over" + -agl, an unproductive nominal suffix producing words for tools or other instruments.
+
+Y sovragl seyon me dað er adornað par fylau.
+/i soˈvrɛjl siˈjɔn me daθ ɛr ˌa.dɔrˈnaθ par fiˈlo/
+[i sʊˈvʀɛjʊ ˌsjɔm.mɪˈdah ɪˌʀa.dʊːˈnah pɑː fɪˈlo]
+def belt 3s.ins 1s.obl give-p.pst cop.imp decorate-p.pst by crow
+The belt she gave me was decorated with crows.

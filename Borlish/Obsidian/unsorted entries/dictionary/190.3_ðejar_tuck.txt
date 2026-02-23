@@ -1,0 +1,19 @@
+190.3: ðejar "tuck"
+
+ðejar /ðeˈʒar/ [ðɪˈʝɐː]
+- tuck, insert, fit, wedge, stick, lodge, to push into a confined or secure position;
+- to place underneath something else;
+- ram, shove, to drive with some force;
+- compact, compress, to cause to be in a more convenient shape or configuration;
+- (reflexive) fold up, curl up, to bend onself and hold onto one's legs; 
+- (reflexive) fit, be neat, to be suited to taking up some particular space
+
+Etymology: disputed. The word is often presumed to be a metathetic reflex of Old Borlish (a)ieðar [(a)dʒiˈðar] "ram, drive, push forward". This descends from Latin arietō "strike, batter", a verbal derivative from ariēs "ram; battering ram". However, this verb is last attested over two centuries before the first evidence of ðejar in the Middle Borlish period.
+
+The alternative with the most backing is that the word reflects Latin adiciō "I throw at; I attach, augment", which has semantic and phonetic plausibility, although no intermediate forms are in evidence. Other suggestions, like a first-conjugation variant of Latin adigō "I drive, hurl, compel" or a Norrish [Norse] verb like þjá "force" or þeisa "thrust, rush", have rarely been credited.
+
+Jo ðejau y pie neðan y port closisceus.
+/ʒo ðeˈʒo i pje neˈðan i pɔrt ˌklo.ziˈxauz/
+[ʝo ðɪˈʝo i pje nɪˈðan i pɔːt ˌklo.zɪˈxauz]
+1s tuck-pst df foot lest df door close-ipf.sbj
+I wedged the door open with my foot.

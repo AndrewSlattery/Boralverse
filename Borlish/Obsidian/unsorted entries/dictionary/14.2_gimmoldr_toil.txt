@@ -1,0 +1,15 @@
+14.2: gimmoldr "toil"
+
+gimmoldr /giˈmɔl.dr̩/ [gɪˈmɔw.dɐ]
+- to toil, strive, to work hard in pursuit of some goal;
+- to endeavour, to have a mission and be dedicated to its fruition;
+- to be responsible for the accomplishment of an ongoing endeavour or event, especially of a religious ritual
+- to preside over an instance of such an event or ritual
+
+Etymology: from Old Boral gimmolre "to perform the Eucharist", from a conflation of Latin verb immolō "I sacrifice, immolate" (cf. modern immolar "to destroy by fire") with the related molō "I grind, mill". Excrescence of the initial g- is unexplained, leading some to propose an alternative origin in an unattested phrase gib molre, in which the first word is borrowed from Old Norse gipt "gift, good luck". The shift in Middle Boral to mean "endeavour, toil" is likely due to semantic influence from parallel moldr "to grind".
+
+Vos gimmoloist a remanir ne cognit.
+/vɔz ˌgi.moˈlɔjst a ˌre.maˈnɪr ne kɔjˈnɪt/
+[vɔz ˌgi.mʊˈlɔjst a ˌʀe.mɐˈnɪː ne kʊjˈnɪt]
+2p toil-pst.2p to stay-inf in disguise
+You worked hard to keep your covers.

@@ -1,0 +1,16 @@
+50.4: 15th Lexember
+
+aposc "forth"
+
+aposc /aˈpɔx/ [ɐˈpɔx]
+- forth, forward, ahead, in the direction of increasing time or degree or out from a particular place;
+- henceforth, going forward, in future, from now on, at all times after the present;
+- onward, continually, going on without pause or hesitation;
+
+Etymology: adverbial derivation from prepostion posc "after, since" < Late  Latin posque < post quem "after which". This word was originally  restricted to taking complements "after I get back" rather than nominal arguments "after the wedding", for which one would use now-obsolete pos < Latin post "after, behind"; the former had displaced the latter by  the fifteenth century.
+
+    Y cat venoirn aç seðel aposc.
+    /i kat veˈnɔj.rn̩ ats seˈðɛl aˈpɔx/
+    [i kat vɪˈnɔ.jɐn ˌatsɪˈðɛw ɐˈpɔx]
+    def cat come-pst-3p at-p.px bucket forth
+    The cats came forth in droves.

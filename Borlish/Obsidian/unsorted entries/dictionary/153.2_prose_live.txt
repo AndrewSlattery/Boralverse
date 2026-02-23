@@ -1,0 +1,14 @@
+153.2: prose "live"
+
+prose /proˈze/ [pʁʊˈze]
+- direct, straight, immediate, proceeding by the shortest possible route;
+- unmediated, firsthand, primary, without any intermediary;
+- live, in real time, having no delay between recording and broadcast
+
+Etymology: either from Scholastic Latin prōseus "direct" or prōsē "directly", both derivatives of prō(r)sus "direct". This in turn appears to be from the prefix prō- "forward" and Old Latin vorsus "turned". In the last senses the term is attested from the 1920s.
+
+Y deixist sceu tandem un inquit prose vecinar.
+/i dikˈsɪst xau ˈtan.dɛm ɪn ɪnˈkwɪt proˈze ˌve.tsiˈnar/
+[i dɪgˈzɪst xau ˈtan.dɐm ɪn ɪŋˈkwɪt pʀʊˈze ˌve.tsɪˈnɐː]
+df archivist can.pst at.last indf quote live locate-inf
+Y deixist sceu tandem un inquit prose vecinar.

@@ -1,0 +1,15 @@
+128.2: fardig "solo"
+
+fardig /farˈdaj/ [fɐːˈdaj]
+
+    solo, music played by a single performer;
+    chance to shine, big moment, moment in the spotlight, an oppoortunity to be noticed to do demonstrate one's skill;
+    moment of truth, critical point, a time when one's skills or resolve are finally tested (especially after a period of complacency or uncertainty)
+
+Etymology: seventeenth century, originally in the musical sense. Borrowed from a continental language, likely Vascon fardig(a) or Portingale fardigo/a "solo, played alone". These come from a derivative of the Arabic root فَرْد · fard "alone, single, solitary". Extension to non-musical contexts is seen from the late nineteenth century.
+
+    Jo save l'oc caum contene un fardig d'aloud.
+    /ʒo saˈve lɔk kom ˌkɔn.teˈne ɪn farˈdaj daˈlud/
+    [ʝo sɐˈve lɔ kom ˌkɔn.tɪˈne ɪɱ fɐːˈdaj dɐˈlud]
+    1s know-ipf df=s.px piece contain-ipf indf solo of=lute
+    I knew this piece contained a lute solo.

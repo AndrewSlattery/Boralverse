@@ -1,0 +1,15 @@
+76.4: errevir "rescue"
+
+errevir /ˌɛ.reˈvɪr/ [ˌɛ.ʀɪˈvɪː]
+- rescue, save, deliver, to remove from any form of danger or violence;
+- recover, salvage, extricate, to regain something from a prior undesirable location or state;
+- (slang) steal, to get into one's own possession by underhanded means;
+- to have (something) turn out surprisingly well, especially in the face of difficult conditions
+
+Etymology: from Old Boral erevre, ereveir, from Latin ēripiō "I rescue, save, deliver, set free". Some forms show a conjugation shift from Classical ēripere to *ēripēre (compare cavir < *capēre < capere). Cognate with Barcelon erebre "to protect, guard".
+
+M'orruð il ain l'oc sorty erreut cos pernix.
+/mɔˈrɪθ ɪl en lɔk sɔrˈti ɛˈrawt kɔz pɛrˈnɪks/
+[mʊˈʀɪ‿ðɪl en lɔ sʊːˈti ɪˈʀawt kɔz pɪːˈnɪks]
+1s.obl=amount 3p have.sbj-3p def-s.px party rescue-p.pst adv nimble
+I think they really turned this party around.

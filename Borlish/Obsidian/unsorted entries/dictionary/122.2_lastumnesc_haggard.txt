@@ -1,0 +1,14 @@
+122.2: lastumnesc "haggard"
+
+lastumnesc /ˌla.stɪmˈnɛx/ [ˌla.stɪmˈnɛç]
+- haggard, drawn, stressed, appearing unwell or worried;
+- weary, exhausted, tired, suffering from a lack of sleep;
+- dilapidated, ramshackle, bedraggled, in poor condition
+
+Etymology: fifteenth century, adjectival derivation from noun lastumn "exhaustion, weariness, stress". This is either a secondary derivation in the Old Borlish period from adjective las "tired, faint, spent" from synonymous lassus in Latin, or else a direct descendant of the Latin noun lassitūdō "faintness, weariness". In its use for things other than people the word is attested from the eighteenth century.
+
+Il ayen heu lastumnesc, com ig il n'ayen for pog dormið.
+/ɪl ɛˈjɛn haw ˌla.stɪmˈnɛx | kɔm aj ɪl nɛˈjɛn fɔr pɔj dɔrˈmɪθ/
+[ɪl ɪˈʝɛn haw ˌla.stɪmˈnɛç | kɔm aj ɪl nɪˈʝɛn fɔː pɔj dʊːˈmɪh]
+3p have-ipf-3p look weary | as cmp 3p ng=have-ipf-3p only few sleep-p.pst
+They looked haggard, as though they hadn't slept much.

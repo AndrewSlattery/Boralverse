@@ -1,0 +1,13 @@
+89.2: yeul ovart "thoroughfare"
+
+yeul ovart /jawl oˈvart/
+- thoroughfare, highway, main street, a major road especially conceived as connecting two towns or district
+- (computing) a high-speed network connection
+
+Etymology: collocation first seen in the sixteenth century, literally meaning "open street". The adjective ovart "open, public" descends from Vulgar Latin opertus, alteration of Classical apertus "open". The noun yeul "street, wide road" reflects Old Borlish ieol "unpaved road" (as opposed to vei "paved road"), which given Welsh heol "route, passage" is presumably of Borland Kelt origin. In the latter sense attested from 1977.
+
+Y davarn façada y jogntur de dou yeul ovart.
+/i daˈvarn ˌfa.tsaˈda i ʒɔinˈtɪr de du jaul oˈvart/
+[i dɐˈvɑːn ˌfa.tsɐˈda i ʝʊinˈtɪː de du ʝawl ʊˈvɑːt]
+def hotel face-ipf def junction of two street open
+The hotel was at the intersection of two main roads.

@@ -1,0 +1,13 @@
+96.6: pascman "restaurant"
+
+pascman /paxˈman/ [pɐxˈman]
+- restaurant, eatery, diner, an establishment where people are served food;
+- restaurateur, the owner of such an establishment
+
+Etymology: from Middle Borlish (re)pascman "eatery", derivative of repasc "meal" with the vendor suffix -man < Old Borlish manc/ç "shop, vendor". The noun repasc reflects a Late Latin repāscō "I make food, cater", from Classical pāscō "I graze, feast".
+
+Scey vigt vecin sart all'oc pascman.
+/xi vajt veˈtsɪn sart aˈlɔk paxˈman/
+[çi vajt vɪˈtsɪn sɑːt ɐˈlɔ pɐxˈman]
+there.is fare nearby serve.p.pst at.df=s.px restaurant
+This restaurant serves local food.

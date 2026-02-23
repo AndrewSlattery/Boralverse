@@ -1,0 +1,14 @@
+191.4: hoðic "reeve"
+
+hoðic /hoˈðɪk/ [hʊˈðɪk]
+- reeve, headman, official, village leader, a person with authority in a small community;
+- chief, chieftain, the leader of a clan or tribe;
+- councillor, alderman, a member of a local governmental body
+
+Etymology: descendant of Old Borlish houðic, hoðinc "village leader; esp. leader of a Norse settlement in the north of Borland". This is a borrowing from Old Norse hǫfðingi "chief, lord", which is a derivation of hǫfuð "head". The term was first used for elected positions in town or city councils in the fifteenth century.
+
+Y bourg deleu l'oc hoðic ne souc d'un courstray.
+/i burg deˈlaw lɔk hoˈðɪk ne suk dɪn kurˈstre/
+[i bʊːg dɪˈlaw lɔk hʊˈðɪk ne suk dɪŋ kʊːˈstʀe]
+df town delete-pst df=s.px reeve in wake of=indf affair
+The town fired this councillor due to an affair.

@@ -1,0 +1,14 @@
+83.2: narreyar "taunt"
+
+narreyar /ˌna.riˈjar/ [ˌna.ʀɪˈjɑː]
+- taunt, mock, make fun of, to say or do something which makes someone seem foolish;
+- goad, provoke, to cause someone to respond to you annoyed or angry;
+- (intransitive) jest, fool around, to tell jokes or otherwise act in a comedic manner
+
+Etymology: via Old Boral nariȝar "to taunt, goad" from Vulgar Latin nāricō "I snort", related to nārēs "nose". Respelt in the Modern Boral period by conflation with narr "fool, jester, joker", which was borrowed some centuries earlier from Germanic (cf. Saxon narr "wildcard; maverick").
+
+Mell'amig lou narreyau vars agir temerer.
+/ˌmɛ.laˈmaj lu ˌna.riˈjo varz aˈʒɪr ˌte.meˈrɛr/
+[ˌmɛ.lɐˈmaj lu ˌna.ʀɪˈjo vɑːz ɐˈʝɪː ˌte.mɪˈʀɛː]
+1s.gen=friend 3p.acc goad-pst toward act-inf rash
+My friend goaded them into acting rashly.

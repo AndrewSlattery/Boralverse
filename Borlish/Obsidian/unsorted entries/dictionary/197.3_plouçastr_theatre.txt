@@ -1,0 +1,15 @@
+197.3: plouçastr "theatre"
+
+plouçastr /pluˈtsas.tr̩/ [plʊˈtsa.stɐ]
+- pretence, charade, deception, a faked appearance or series of events;
+- pantomime, harlequinade, a clowning and fantastical theatrical performance;
+- farce, sham, a ridiculous or inane show;
+- theatre, lip service, tokenism, window dressing, pointless actions taken entirely for the look of the thing
+
+Etymology: nineteenth century, pejorative derivation from plouç "screen, disguise; façade, persona". This is a descendant of Latin pluteus "railing; screen", possibly via Old French. The term was originally used in the playhouse senses to describe a style of theatre imported from Saxony. In the last senses it dates to the 1940s in political criticism.
+
+Schol aun lorrell'alumn amenað all'oc plouçastr.
+/skɔl on lɔˌrɛ.laˈlɪm.n̩ ˌa.meˈnaθ aˈlɔk pluˈtsas.tr̩/
+[skɔl on lʊˌʀɛ.lɐˈlɪ.mɐn ˌa.mɪˈnaθ ɐˈlɔk plʊˈtsa.stɐ]
+school have.3p 3p-gn=pupil bring-p.pst to-df=s.px farce
+Schools have brought classes to this pantomime.

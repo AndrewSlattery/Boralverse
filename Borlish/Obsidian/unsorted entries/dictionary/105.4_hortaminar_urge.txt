@@ -1,0 +1,13 @@
+105.4: hortaminar "urge"
+
+hortaminar /hɔrˌta.miˈnar/ [hʊːˌta.mɪˈnɐː]
+- encourage, exhort, incite, urge, press, to earnestly advise that someone should do something;
+- implore, beseech, entreat, supplicate, prevail upon, to earnestly plead for something
+
+Etymology: from Scholastic Latin hortāminō "I exhort, urge", a non-classical verbal derivation of hortāmen "incitement, encouragement". This comes from deponent verb hortor "I encourage". Originally in legal use, but seen in general contexts since the seventeenth century.
+
+Jo luy hortaminau acceir all'empley.
+/ʒo laj hɔrˌta.miˈno akˈsir ˌa.lɛmˈpli/
+[ʝo laj hʊːˌta.mɪˈno ɐkˈsɪː‿ˌʀa.lɪmˈpli]
+1s 3s.obl urge-pst assent-inf to-df=job
+I urged him to accept the job.

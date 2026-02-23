@@ -1,0 +1,14 @@
+213.2: dragoman "interpreter"
+
+dragoman /ˌdra.goˈman/ [ˌdʀa.gʊˈman]
+- interpreter, translator, a person who translates speech to enable people without common languages to communicate;
+- communicator, PR person, someone whose job is to convey technical information to the public;
+- broker, mediator, middleman, intermediary, a person who liaises between two or more parties in order to achieve some outcome (especially the buying and selling of goods)
+
+Etymology: originally in the first senses and in particular with reference to interpreters of Arabic and Turk languages. The word was borrowed in the Middle Borlish period via Latin from Malchassian Greek δραγομάνος (dragomános) "interpreter"; this in turn came via Arabic and Syriac from Acadian 𒅴𒁄 (targumannum) "interpreter". Later semantic development was influenced by the suffix -man "-monger; seller, shop".
+
+Cascif eð vos hur dað an dragoman voscon inconfeyabr?
+/kaˈxɪf ɛθ vɔz hɪr daθ an ˌdra.goˈman voˈxɔn ˌɪn.kɔnˈfjab.r̩/
+[kɐˈçɪf ɛ vɔz hɪː daθ an ˌdʀa.gʊˈman vʊˈxɔn ˌɪŋ.kʊɱˈfja.bɐ]
+why have.2p 2p hire give-p.pst to-indf interpreter 2p.agt ng-trust-pot
+Why did you hire an interpreter you don't trust?

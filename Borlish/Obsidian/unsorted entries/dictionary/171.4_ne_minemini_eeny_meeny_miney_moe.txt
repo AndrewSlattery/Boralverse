@@ -1,0 +1,14 @@
+171.4: ne minemini "eeny meeny miney moe"
+
+ne minemini /ne miˌne.miˈni/ [ˌne.mɪˌne.mɪˈni]
+- (law) the presumption of innocence, the legal principle that an accused party is innocent until they are found guilty;
+- benefit of the doubt, an appeal to this principle in more general settings;
+- eeny meeny miney moe, an (essentially) meaningless phrase at the beginning of any of various children's rhymes which involve pointing at people or things in turn with the goal of picking one
+
+Etymology: fourteenth century in legal Latin as nē minēminī "do not threaten, do not accuse", from the prohibitive particle nē and the second-person plural subjunctive of deponent verb minor "I threaten, accuse". Its original denotation was closer to a admonition against obtaining confessions by duress or threats, only attaining its modern meaning in the seventeenth century. Shortly thereafter the phrase appears in nursery rhymes, presumably more for phonetic reasons than any semantic connection. Nonetheless, some have dubiously linked these rhymes to the act of picking a scapegoat for a crime.
+
+Nos orruð stou le fornir con ne minemini.
+/nɔz ɔˈrɪθ stu le fɔrˈnɪr kɔn ne miˌne.miˈni/
+[nɔz ʊˈʀɪh stu le fʊːˈnɪː kɔn ˌne.mɪˌne.mɪˈni]
+1p seem must 3s.acc furnish-inf with presumption.of.innocence
+She seems worth the benefit of the doubt.

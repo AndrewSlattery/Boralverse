@@ -1,0 +1,14 @@
+142.4: oundrar "wound"
+
+oundrar /unˈdrar/ [ʊnˈdʀɐː]
+- wound, injure, hurt, harm, to cause an injury or similar harm to;
+- damage, break, impair, to cause not to function correctly;
+- offend, spite, insult, to hurt the feelings or honour of
+
+Etymology: from Old Borlish (v)ounrar, oundar "wound, injure", a conflation of the descendant of Latin vulnerō "I wound" and the borrowing of Old Norse unda "to wound" (which are unrelated). The loss of the initial consonant would be unexpected if the Latin etymon was the only one; however, this was a regular feature of Old Norse.
+
+M'orruð un hom ay my bos oundrað.
+/mɔˈrɪθ ɪn ɔm e mi bɔz unˈdraθ/
+[mʊˈʀɪ‿ðɪˈnɔm e mi bɔz ʊnˈdʀah]
+1s.obj=seem indf perosn have.sbj 1s.gn gun wound-p.pst
+I think someone's broken my gun.

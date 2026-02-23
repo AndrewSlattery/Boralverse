@@ -1,0 +1,18 @@
+203.2: cug "fall"
+
+cug /kaj/ [kaj]
+- fall, drop, descent, motion downward;
+- decrease, decline, reduction, the lessening of a value;
+- downfall, defeat, loss, doom, an (especially precipitous) erosion of status;
+- slide, flume, chute, slope, a structure along which things are made to travel from a higher to a lower position;
+- (poetic) passing, death, the end of a person's life;
+- (legal) nullification, repeal, the act of invalidating something (especially an act of law);
+- (specifically) annulment, the dissolution of a marriage on the grounds that it was never formally valid
+
+Etymology: descendant of Old Borlish cauȝ, cuȝ /kaˈyɣ ~ kyɣ/ "fall, descent", which reflects Latin adjective cadūcus "falling; doomed; futile; (law) lapsed". The word is seen in metaphorical use almost at once; for physical downward slopes it may have been influenced by Norman cute "fall; chute". Poetic and legal usages are both attested from the late Middle Borlish period.
+
+L'intermane un cug de sy caldour corpore.
+/lɪnˌtɛr.maˈne ɪn kaj de si kalˈdur ˌkɔr.poˈre/
+[lɪnˌtɛː.mɐˈne ɪŋ kaj de si kɐlˈdʊː ˌkɔː.pʊˈʀe]
+3s=compose-imp indf fall of 3s.gn heat bodily
+It was a decrease in her body temperature.

@@ -1,0 +1,14 @@
+21.2: uvrautr "fertile"
+
+uvrautr /iˈvro.tr̩/ [ɪˈvʀotɐ]
+- fertile, fruitful, fecund, bearing a bounteous harvest or by extension producing anything in abundance;
+- verdant, lush, characterised by the presence of a profusion of vegetation;
+- idyllic, bucolic, pastoral, reminiscent of an idealised version of the countryside
+
+Etymology: from Old Boral uvrautre /yˈvraw.təɾ/ "(of land) fertile", extended variant of synonymous uvre via suffixing -autre, an adjectival ending of dubious origin (often simply presented as reflecting Latin adverbial ending -āliter, but this presents issues). The earlier uvre descends directly from Latin ūber "productive, full, rich" and is still in agricultural use in some modern rural dialects.
+
+Jamay n'ayen il un bourg uvrauterrem vis.
+/ʒaˈme nɛˈjɛn ɪl ɪn burg ˌi.vroˈtɛrm̩ vɪz/
+[ʝɐˈme nɪˈjɛn ɪw mˈbʊːg ˌi.vʀʊˈtɛ.ʀɐm vɪz]
+never neg-have-pst.3p 3p indef town bucolic-comp see.ptcp.pst
+They had never seen such an idyllic town.

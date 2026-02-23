@@ -1,0 +1,14 @@
+207.4: yedic "vinegar"
+
+yedic /jeˈdɪk/ [ʝɪˈdɪk]
+- vinegar, a sour liquid formed from the fermentation of alcohol;
+- acetic acid, the principal acidic component of vinegar;
+- (attributive) irritable, narky, testy, responding nastily to any interaction
+
+Etymology: descendant of Old Borlish iedic, edic "vinegar", borrowed from synonymous edic in Old Dutch. This is apparently a metathetic variant coming from late Classical German aceda, acita "vinegar", a borrowing from Latin acētum "vinegar" possibly influenced by related acidus "sour". The Borlish word is attested as an adjective in the modern sense from as early as the twelfth century.
+
+Tanniscað casc ugnlac sou yedic.
+/ˌta.niˈxaθ kax ajnˈlak su jeˈdɪk/
+[ˌta.nɪˈxaθ kax ɐinˈlak su ʝɪˈdɪk]
+preserve-2p.sbj each onion under vinegar
+Pickle all the onions in vinegar.

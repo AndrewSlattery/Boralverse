@@ -1,0 +1,14 @@
+78.3: joivr "frost"
+
+joivr /ˈʒɔj.vr̩/ [ˈʝɔj.vɐ]
+- frost, rime, cover of ice crystals on objects that are exposed to the air analogous to dew;
+- cold, cold weather, conditions below the freezing point of water when frost is liable to form;
+- (telecommunications) noise, static, any part of a signal that reduces the fidelity of its transmission
+
+Etymology: descendant of Old Boral givre, guivre "frost", borrowed from Old French and thought to originate in a Frankish form like gibara cognate with Willem gever "saliva".
+
+Nos targoim y fenestr de joivr ne spaiðant.
+/nɔz tarˈgɔjm i feˈnɛ.str̩ de ˈʒɔj.vr̩ ne speˈðant/
+[nɔz tɐːˈgɔjm i fɪˈnɛ.stɐ de ˈʝɔj.vɐ ne spɪˈðan]
+1p clean-pst-1p def window of frost in scrape-p.prs
+We scraped frost off the window.

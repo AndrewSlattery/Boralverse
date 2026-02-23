@@ -1,0 +1,15 @@
+12.3: moðnaut "sailor"
+
+moðnaut /mɔðˈnot/ [mʊðˈnot]
+- sailor, seaman, mariner, person in the business of navigating ships or a member of the crew of such;
+- fellow, chap, man, a male person often held in some regard by the speaker
+
+Etymology: from Middle Boral moðnaut "sailor", of uncertain origin. Most likely, although somewhat phonetically implausible, is that is descends from Middle Dutch matenout "bunkmate" < mate "mat, hammock" and henout "companion" (whence also Middle French matelot "sailor" and thus Kentish mattlet "(lower) seaman, below-decks shipworker".
+
+Alternatively, an earlier origin in the (probably Horther) Old Norse compound møtu-nautr "food companion" has been proposed; some also claim that this is the original etymon later influenced in meaning by the Middle Dutch above. Despite superficial similarity, certainly unrelated to Latin nauta or Greek ναύτης <naútes> "sailor".
+
+Tre moðnaut ern y cordamn laðrant.
+/tre mɔðˈnot ɛrn i kɔrˈda.mn̩ laðˈrant/
+[tʀe mʊ(ð)ˈnot ɛːn i kʊːˈda.mɐn lɐ(ð)ˈʀan(t)]
+three sailor cop-ipfv.3p def rigging climb-ptcp.prs
+Three sailors were climbing in the rigging.

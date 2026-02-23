@@ -1,0 +1,16 @@
+51.2: 20th Lexember
+
+cingr "hail"
+
+cingr /ˈtsɪn.gr̩/ [ˈtsɪŋ.gɐ]
+- hail, the phenomenon of precipitation in the form of frozen raindrops;
+- hailstone, any single particle of this precipitation;
+- (by extension) ball bearing, a small metal sphere used in mechanical components or (commonly) any similar-looking ball;
+
+Etymology: from the late Old Boral period originally restricted to naval usage, from Vask chingor "hail, hailstones". In the last sense it is a clipping of cingr acier "steel hailstone", apparently a direct calque from Cambrick deurkeseir "ball bearing".
+
+Jo vusca caldour de souscen neðan cous cingr.
+/ʒo viˈxa kalˈdur de suˈxɛn neˈðan kuz ˈtsɪn.gr̩/
+[ʝo vɪˈxa kɐwˈdʊː de sʊˈçɛn nɪˈðan kuz ˈtsɪŋ.gɐ]
+1s wish-ipf heat of tomorrow lest fall-sbj.ipf hail
+I hoped tomorrow was warm so it wouldn't hail.

@@ -1,0 +1,14 @@
+196.2: entrjair "interpose"
+
+entrjair /ˌɛn.tr̩ˈʒer/ [ˌɛn.tɐˈʝeː]
+- interpose, insert, wedge, jam, tuck, to place between two things or in the midst of something;
+- (reflexive) intervene, mediate, to involve oneself in a situation;
+- (reflexive) interrupt, interject, pipe up, to say something as an interruption
+
+Etymology: Middle Borlish, from now-archaic jair "throw" and prefix entr- "between" or directly from Latin intericiō "I throw between" (with remodelling after the Borlish words). Nowadays the word is mostly seen in its reflexive senses.
+
+Dou alumn pagl ny preu rig s'entrjeirn.
+/du aˈlɪm.n̩ pɛjl ni prau raj ˌsɛn.tɐˈʒi.rn̩/
+[du ɐˈlɪ.mɐn pɛjl ni pʀaw ʀaj ˌsɛn.tɐˈʝɪ.jɐn]
+two pupil blond in-df first row rfl=interpose.pst-3p
+Two blond schoolkids at the front piped up.

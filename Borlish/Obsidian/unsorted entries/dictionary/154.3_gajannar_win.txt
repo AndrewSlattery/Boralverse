@@ -1,0 +1,16 @@
+154.3: gajannar "win"
+
+gajannar /ˌga.ʒaˈnar/ [ˌga.ʝɐˈnɐː]
+- win, be awarded, to receive as a prize;
+- earn, make, to receive as a wage;
+- gain, take, get hold of, to succeed in obtaining;
+- conquer, to acquire (territory) by force of arms;
+- (dated, slang or poetic) tup, bed, swive, to have sex with
+
+Etymology: presumably (along with noun gajan "victory, triumph") via Old French from a Frankish descendant of Classical German vaethanō "I hunt, pursue". However, the Borlish apparently reflects a Late Latin *vadianō "I win, earn" as opposed to the form *vadaniō which must be the etymon for e.g. Tuscan guadagnare "earn" and Norman wain "win". Attested in the last sense from as early as the fourteenth century.
+
+Jo stima noc se sceus aðief gajannar.
+/ʒo stiˈma nɔk se xauz aˈðjɛf ˌga.ʒaˈnar/
+[ʝo stɪˈma nɔk se xauz ɐˈðjɛf ˌga.ʝɐˈnɐː]
+1s find-ipf n rfl can.sbj.ipf enough win-inf
+I didn't think the prize was enough.

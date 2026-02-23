@@ -1,0 +1,15 @@
+43.3: mordeth "expedition"
+
+mordeth /mɔrˈdɛθ/
+- expedition, an often-military undertaking involving travel either into enemy territory or some analogous target;
+- raid, foray, incursion, a short-term and violent move into a region to ransack it for spoils or to inflict damage;
+- jaunt, adventure, a short excursion for diversion or pleasure especially involving some (possibly planned) excitement;
+- (historical) crusade, conquest, any of the military expeditions undertaken in the medieval Middlesea under varying degrees of Papal authority
+
+Etymology: early Middle Boral borrowing from contemporary Welsh mordeith "sea voyage, raid, conquest by sea", corresponding to a compound of modern moωr "sea" and teith "journey, trip". Originally used in particular for the various wars of conquest in the Middlesea conducted at a significant distance during the eleventh to thirteenth centuries. While some of these had ostensible religious authority motivating them, many (especially further from the Masreck [Levant]) were more transparently opportunistic.
+
+Il feirn mordeth amont por y poið dy Nil trovar.
+/ɪl firn mɔrˈdɛθ aˈmɔnt pɔr i pɔjθ di nɪl troˈvar/
+[ɪw fɪːn mʊːˈdɛθ ɐˈmɔnt pɔː‿ʀi pɔjθ di ˈnɪw tʀʊˈvɑː]
+3p do-pst.3p foray upstream for def well of-def Nile find-inf
+They went on an expedition to find the source of the Nile.

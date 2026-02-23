@@ -1,0 +1,25 @@
+6.2: nacleu "slope"
+
+nacleu /naˈklaw/
+[noun]
+- slope, incline, gradient, an area of ground that tends evenly upward or downward;
+- slope, gradient, the extent to which an area of ground tends upward or downward;
+- (mathematics) derivative, gradient, the slope of the tangent line to a curve at a point or the function defining the slope at all points;
+[adjective]
+- sloping, inclined, tending evenly upward or downward;
+- oblique, askew, neither in line with nor perpendicular to a given base;
+- awry, off-course, crooked, improperly out of place
+- (by extension) amiss, fishy, suspicious, having gone wrong or being faulty/othrwise incorrect;
+[adverb]
+- uphill, downhill, in a direction along a slope or incline;
+- off course, in an unintended or unfavourable direction
+
+Etymology: first seen in Old Boral n(e) acliv /n aˈklɪw/ "uphill", an adverb formed by the fusion of preposition ne "in" with acliv < Latin acclīvis "sloped, rising, steep". To explain the early broadening also to "downhill, sloped downward", some have suggested influnce from a word *decliv < dēclīvis "sloping downward", but this is not attested in Old Boral text.
+
+In the Middle Boral period the word quickly gains traction as an adjective (the metaphorical extensions to "awry, off course" occurring in both parts of speech simultaneously). As a noun it only overtakes now-obsolete appent "slope" < appendr "to lean, tilt" in the seventeenth century.
+
+Nossy majon er costroit sur rout nacleu.
+/ˈnɔs.tr̩ i maˈʒɔn ɛr koˈstrɔjt sɪr rut naˈklaw/
+[ˈnɔs.tʀ‿i mɐˈʒɔn ɛː kʊˈstʀɔjt sɪː ʀut nɐˈklaw]
+1p.gen def house cop.ipf build-ptcp.pst on street sloping
+Our house was built on a sloping street.

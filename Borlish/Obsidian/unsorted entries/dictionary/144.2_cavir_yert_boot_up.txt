@@ -1,0 +1,14 @@
+144.2: cavir yert "boot up"
+
+cavir yert /kaˈvɪr jɛrt/ [kɐˈvɪː ʝɛːt]
+- wake up, come to, stir, to regain consciousness;
+- turn on, switch on, activate, start, boot up, to begin operating;
+- (of a business) open, to start serving customers
+
+Etymology: early Modern Borlish idiom literally meaning "to get awake". The verb cavir "get" is a direct descendant of capiō "take, pick, recieve", used in the sense "become" since the Middle Borlish period. The adjective yert "awake, alert; (of a business) open" descends via Old Borlish yerte "standing, upright, vertical" and synonymous ērctus in Vulgar Latin from Classical ērēctus "raised, built, erected". Extended from people to machinery and thence to businesses by the nineteenth century.
+
+J'attenoy cos infruniscent tandic y grimmour cave yert.
+/ˌʒa.teˈnɔi kɔz ɪnˌfri.niˈxɛnt tanˈdɪk i grɪˈmur kaˈve jɛrt/
+[ˌʝa.tɪˈnɔi kɔz ɪɱˌfʀi.nɪˈçɛnt tɐnˈdɪk i gʀɪˈmʊː kɐˈve ʝɛːt]
+1s=wait-pst adv bored while df computer get-ipf awake
+I waited impatiently while the computer booted up.

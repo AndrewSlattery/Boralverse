@@ -1,0 +1,14 @@
+149.4: 26th Lexember - scop "idea"
+
+scop /xɔp/ [xɔp]
+- aim, end, purpose, point, goal, what something is intended to achieve;
+- crux, heart, gist, essence, thrust, pith, the central idea of a longer or more complicated matter;
+- idea, conceit, a summary of the novel part of a piece of fiction
+
+Etymology: Middle Borlish borrowing from Tuscan scopo "purpose, point", which descends from Latin scopus "target". This was borrowed from σκοπός • skopós "watcher; target" in Ancient Greek. The second sense is attested from the seventeenth century; the last only in literary criticism of the twentieth.
+
+Jo poðe noc me quottar ag scop dy trevold parachthon.
+/ʒo poˈðe nɔk me kwɔˈtar ɛi xɔp di treˈvɔld ˌpa.rakˈθɔn/
+[ʝo pʊˈðe nɔk me kwʊˈtɐː‿ʀei xɔp di tʀɪˈvɔld ˌpa.ʀɐkˈθɔn]
+1s can-ipf ng 1s.obl fit-inf to.df aim of-df novel sci-fi
+I couldn't get on board with the sci-fi novel's conceit.

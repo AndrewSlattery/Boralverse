@@ -1,0 +1,14 @@
+86.3: hapr "groceries"
+
+hapr /ˈha.pr̩/ [ˈha.pɐ]
+- groceries, produce, commodities, shop-bought foodstuffs and sometimes other household supplies;
+- (loosely) shopping, recently-bought goods that are relatively inexpensive and characteristic of daily or weekly purchases;
+- (strictly) fruit and veg, goods which may be bought at a greengrocer's
+
+Etymology: direct descendant of Old Borlish happle "fruit, collectively; yield of a fruit harvest" (since displaced by native frugt < Latin frūctus), borrowed from Old English æppel "apple, fruit; sphere". The appearance of the initial h- is unexplained, but may be a hypercorrection; at this point /h/ was absent in native Borlish vocabulary and was being reintroduced via Germanic loanwords. Its modern sense is influenced by the compound haprman "greengrocer; (later) wholesaler".
+
+J'eye sauf a aïr y hapr yent.
+/ʒiˈje sof a ɛˈjɪr i ˈha.pr̩ ˈjɛnt/
+[ʝɪˈje sof a ɪˈʝɪː‿ʀi ˈha.pɐ ˈʝɛnt]
+1s=go-ipf except to have-inf def groceries get.p.pst
+I'd nearly got all the groceries.

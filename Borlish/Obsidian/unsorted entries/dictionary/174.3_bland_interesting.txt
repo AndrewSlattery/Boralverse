@@ -1,0 +1,16 @@
+174.3: bland "interesting"
+
+bland /bland/ [bland]
+- suave, debonair, urbane, affable, charming, of smooth and sociable demeanour;
+- well-liked, popular, widely admired by people;
+- interesting, entertaining, compelling, engaging people's attention;
+- complicated, detailed, having a multitude of facets or features;
+- sophisticated, worldly, cosmopolitan, having had plenty of varied experiences and lacking naïveté
+
+Etymology: Middle Borlish, a borrowing from Latin blandus "pleasant, agreeable; fawning, flattering". In the first senses the word originally had a somewhat negative or insincere connotation; by the eighteenth century the word is mostly seen in uncomplicatedly positive use.
+
+Racont mey dy domn bland voscon encontrað.
+/raˈkɔnt mi di ˈdɔmn̩ bland voˈxɔn ˌɛn.kɔnˈtraθ/
+[ʀɐˈkɔnt mi di ˈdɔ.mɐn bland vʊˈxɔn ˌɛŋ.kʊnˈtʀah]
+tell 1s.dj of-df woman suave 2p.ins meet-p.pst
+Tell me about the interesting woman you met.

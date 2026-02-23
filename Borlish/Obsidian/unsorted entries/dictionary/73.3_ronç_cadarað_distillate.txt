@@ -1,0 +1,15 @@
+73.3: ronç cadarað "distillate"
+
+ronç cadarað /rɔnts ˌka.daˈraθ/ [ʀɔns ˌka.dɐˈʀah]
+- distillate, the liquid that has been condensed from a vapour during distillation and thereby purified;
+- essence, extract, the concentrated extract of a plant obtained via distillation;
+- (generally) essence, gist, crux, the basic or central feature of something;
+- (specifically) diesel, a heavier fuel derived from petroleum (also informally just ronç)
+
+Etymology: phrase meaning "distilled portion", first attested in the sixteenth century. The noun ronç "portion, part, component; fraction, ratio" descends from Old Boral romnç "shard, piece broken off something", a derivation of rompre "to break". The adjective cadarað is the past participle of cadarar "to distil", a late medieval borrowing from Spanish related to Arabic قطرات <qaṭarāt> “droplets”, in reference to the process of distillation.
+
+Cay un ronç cadarað d'ougl tascban.
+/ke ɪn rɔnts ˌka.daˈraθ dujl taxˈban/
+[ke ɪn ʀɔns ˌka.dɐˈʀah dwɪl tɐxˈban]
+fall indf fraction distil-p.pst of=oil vanilla
+It's an extract of vanilla flavouring.

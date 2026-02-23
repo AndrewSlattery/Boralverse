@@ -1,0 +1,16 @@
+2.4: stancour "tinker"
+
+stancour /stanˈkur/ [stɐŋˈkʊː]
+- whitesmith, person who forges things out of tin or pewter;
+- tinker, repairman, person (usually itinerant) who mends household objects and appliances;
+- meddler, gossip, busybody, matchmaker, one who interferes in something not of their concern
+
+Etymology: from Old Boral istancre "whitesmith", later remodelled by analogy with the agentive -our ending (from Latin -ātōrem). This in turn is presumably—given the Gambrig chronicle's attestion of istincere "tinsmith"—a partial loan translation from Old English tincere which has the same sense, modified to conform to existing istan "tin" < Latin stannum "tin".
+
+The extension to generic "repairman" and eventually "meddler" is ill-attested in the literature but likely around (especially in Damvath and its environs) by the seventeenth century, given the role of the recurring character Olaur in Kisneð's satirical plays.
+
+Façað plu stancour a my nuçal!
+/faˈtsað pli stanˈkur a mi niˈtsal/
+[fɐˈtsah pli stɐŋˈkʊː a mi nɪˈtsaw]
+do-imp.p no.longer tinker tp 1s.gen wedding
+Stop meddling in my wedding!

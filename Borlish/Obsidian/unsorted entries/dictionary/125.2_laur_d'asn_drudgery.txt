@@ -1,0 +1,13 @@
+125.2: laur d'asn "drudgery"
+
+laur d'asn /lor ˈda.zn̩/ [loː ˈda.zɐn]
+- drudgery, drudge work, toil, grunt work, menial and tedious labour;
+- tedium, ennui, boredom, a general sense of listlessness and lacking of engaging activity
+
+Etymology: idiom meaning "donkey's work", attested from the eighteenth century. The noun laur "work, job" is a deverbal from laurar "to work"; the noun asn "donkey; dunce" descends directly from synonymous asinus in Latin.
+
+J'azia ne spien ig un hom interromois my laur d'asn.
+/ʒaˈzja ne spjɛn aj ɪn ɔm ɪnˌtɛ.roˈmɔjz mi lor ˈda.sn̩/
+[ʝɐˈzja ne spjɛn aj ɪn ɔm ɪnˌtɛ.ʀʊmɔjz mi loː ˈda.sɐn]
+1s-stand-ipf in hope cmp indf person interrupt-ipf.sbj 1s.gn toil of=donkey
+I stood, hoping someone would interrupt the tedium.

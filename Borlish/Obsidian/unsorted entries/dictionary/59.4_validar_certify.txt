@@ -1,0 +1,14 @@
+59.4: validar "certify"
+
+validar /ˌva.liˈdar/ [ˌva.lɪˈdɑː]
+- certify, validate, qualify, to provide with a certification of mastery in some skill or to attest to the correctness or something;
+- testify, corroborate, substantiate, back up, to confirm or support a statement with additional evidence;
+- test, prove, verify, authenticate, to check the validity of worthiness of
+
+Etymology: from Middle Boral validar, a borrowing from Scholastic Latin validō "I render (something) worthy or valid". This is a non-Classical derivative from adjective validus "strong, healthy, worthy, valid" originally used in legal settings.
+
+Se poð jo nolois cavir validað ag reu.
+/se pɔθ ʒo noˈlɔjz kaˈvɪr ˌva.liˈdaθ ɛj raw/
+[spɔh ʝo nʊˈlɔjz kɐˈvɪː ˌva.lɪˈda‿ðɛj ʀaw]
+rfl can 1s neg.fut-ipf.sbj get-inf qualify-p.pst to.def stream
+I might lack the prereqs for the course.

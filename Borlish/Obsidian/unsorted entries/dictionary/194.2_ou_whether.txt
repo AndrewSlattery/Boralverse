@@ -1,0 +1,16 @@
+194.2: ou "whether"
+
+ou /u/ [u]
+- a particle forming polar questions placed directly after the constituent being interrogated;
+- whether, if, whether or not, introducing clauses that are in doubt;
+- either, introducing the first of two or more options
+
+Etymology: Old Borlish o ou, "or; question particle", a direct descendant of Latin aut "or". In the last sense, the term was originally used for all the options in a list, but in the modern language the latter options are introduced by ben "or" < Latin bene "well". In the second sense it alternates with ig "that" < Latin ibi "there", which introduced realis clauses; the prototype examples are jo saif ig X "I know that X", jo saif noc ou X "I don't know whether X".
+
+This word is unrelated to homographic ou "egg" < ōvum in Latin.
+
+Se poð ou scadom ben ugnlac accatar.
+/se pɔθ u xaˈdɔm bɛn ainˈlak ˌa.kaˈtar/
+[se pɔθ u xɐˈdɔm bɛn ɐjnˈlak ˌa.kɐˈtɐː]
+rfl can q tomato or onion buy-inf
+You can buy either tomatoes or onions.

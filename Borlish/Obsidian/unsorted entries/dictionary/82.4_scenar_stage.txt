@@ -1,0 +1,13 @@
+82.4: scenar "stage"
+
+scenar /xeˈnar/ [çɪˈnɑː]
+- stage, put on, produce, perform, to put together a theatrical production as an acting troupe;
+- orchestrate, undertake, arrange, direct, carry out, to plan and go through with some scheme or undertaking with many moving parts
+
+Etymology: Middle Boral verbal derivation from scen "(theatre) stage; platform, soapbox" (formerly sometimes re-classicised as scæn), borrowed from Latin scæna "stage, scenery" from Ancient Greek σκηνή "tent, stage". In metaphorical use seen from the eighteenth century.
+
+Y tissour aun un exeunt scenað.
+/i tɪˈsur on ɪn ɛkˈsawnt xeˈnaθ/
+[i tɪˈsʊː‿ʀon ɪn ɪgˈzawn çɪˈnah]
+def weaver have.3p indf exit stage-p.pst
+The weavers have staged a walkout.

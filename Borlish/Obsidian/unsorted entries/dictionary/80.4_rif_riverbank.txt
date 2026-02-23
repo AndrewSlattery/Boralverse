@@ -1,0 +1,14 @@
+80.4: rif "riverbank"
+
+rif /rɪf/ [ʀɪf]
+- bank, riverbank, the area along the sides of a river or stream;
+- shore, seashore, strand, a stretch of coastline (especially when stony as opposed to sandy);
+- beachfront, seaside, promenade, terrace, esplanade, a walkway between land and sea often lined with shops
+
+Etymology: uncomplicated descendant via Old Boral rif from Latin rīpa "riverbank, seashore". By the Middle Boral period we see a clear semantic separation between sandy play "beach, bay" and stony rif, although some place names like Volandry (from dialect volan "gull" and rif "beach") fail to fit this dichotomy.
+
+Nos erau flannant lonc y rif, ig carnt yon beller acatar.
+/nɔz eˈro flaˈnant lɔnk i rɪf | aj ˈka.rn̩t jɔn bɛˈlɛr ˌa.kaˈtar/
+[ˌno.zɪˈʀo flɐˈnan lɔŋk i ʀɪf | aj ˈka.ʀɐnt jɔn bɪˈlɛː‿ʀɐkˈtɑː]
+1p ipf-1p stroll-p.prs along def bank | s.dt seek-p.prs where sweet buy-inf
+We were walking down the strand, looking to buy sweets.

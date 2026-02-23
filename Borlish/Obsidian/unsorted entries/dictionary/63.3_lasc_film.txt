@@ -1,0 +1,14 @@
+63.3: lasc "film"
+
+lasc /lax/ [lax]
+- film, membrane, coat, a thin layer of some substance;
+- iconic [photography] film, the medium (originally ivorine [celluloid]) by which images are captured with a camera;
+- film, movie, motion picture, a work of visual art in the medium of recorded moving images
+
+Etymology: borrowed in the Middle Boral period originally in the first sense, either via Roun French lage "film" or directly from synonymous lágye in Dorstad Dutch. This is a diminutive of lágh "layer", cognate with English "low". Extension to photography took place in the nineteenth century; the word was applied first to the light-sensitive coating and then to the film as a whole.
+
+Y lasc 'Blanc Gahað' a font n'un livr d'an 1890.
+/i lax blank gaˈhaθ a fɔnt nɪn ˈli.vr̩ dan mɪl ɔjt kaˈrint dij/
+[i lax blaŋk gɐˈha‿ða fɔnt nɪn ˈli.vɐ dan mɪˈlɔjt kɐˈʀinˈdij]
+def film white jet have base in=indef book of-year 1890
+The film "Jet White" is based on a book from 1890.

@@ -1,0 +1,16 @@
+48.3: pernix "nimble"
+
+pernix /pɛrˈnɪks/ [pɪːˈnɪks]
+- nimble, dextrous, deft, agile, skillful with one's hands and able to make very precise movements;
+- swift, fleet, rapid and graceful in motion;
+- subtle, crafty, insidious, manipulative, being able to direct someone else's decisions without their knowledge
+
+Etymology: learned borrowing in the Middle Boral period from Latin pernix "nimble, agile, swift", thought to be connected with perna "ham, haunch, gammon" (cf. inherited Boral parn "bacon"), although the expected Latin form would be *pernāx.
+
+Its latter sense develops in the eighteenth century under the malign influence of unrelated perniçous "harmful, pernicious, deleterious", from synonymous Latin perniciōsus, a derivative of pernecō "I kill, slay, annihilate".
+
+L'eye doutr y verroil ant deit pernix.
+/liˈje ˈdutr̩ i vɛˈrɔil ant dit pɛrˈnɪks/
+[lje ˈdut.ʀ‿i vɪˈʀɔjʊl‿an dit pɪːˈnɪks]
+3s-go-ipf past def lock with finger deft
+She picked the lock with nimble fingers.

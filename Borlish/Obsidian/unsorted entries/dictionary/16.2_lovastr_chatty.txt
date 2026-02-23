@@ -1,0 +1,14 @@
+16.2: lovastr "chatty"
+
+lovastr /loˈvastr̩/ [lʊˈvas.tɐ]
+- sociable, outgoing, extroverted, inclined to companionship with others;
+- chatty, gossipy, prone to friendly informal conversation;
+- nosy, prying, snoopy, offensively curious or inquisitive
+
+Etymology: from Old Boral lo(ȝ)vaçtre "talkative, forthcoming" (also loȝvastre following the syncretism of Latinate adverbial ending -aciter with pejorative -aster), from Latin loquāciter "in a talkative manner". Deletion of yogh in the first syllable is seen also in sevir "to follow" < Vulgar Latin sequīre; the behaviour of medial -qu- is somewhat inconsistent and may by conditioned by the surrounding vowels. Development of the more negative senses of the word occurs in the early Modern Boral period.
+
+Tan lovastr es ty sour por toð gent sauraun en oy.
+/tan loˈvastr‿ɛz ti sur pɔr tɔθ ʒɛnt soˈron ɛn ɔj/
+[tan lʊˈvas.tʀ‿ɪz ti sʊː pɔː tʊ ˈʝɛn sʊˈʀon ɛn ɔj]
+so chatty be.3s 2s.gen sister for all people know-fut.3p of.it now
+Your sister's so gossipy everyone will know about it now.

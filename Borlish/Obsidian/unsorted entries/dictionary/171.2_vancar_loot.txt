@@ -1,0 +1,14 @@
+171.2: vancar "loot"
+
+vancar /vanˈkar/ [vɐŋˈkɐː]
+- loot, pillage, plunder, snatch, to get possession of underhandedly;
+- catch, secure, nail, nab, apprehend, seize, to get hold of and prevent from leaving one's grasp;
+- win, to receive as a reward
+
+Etymology: early Modern Borlish, verbal derivation from vanc "catch, haul; loot, plunder". This was borrowed from Willem Dutch verb vangen "to catch", a descendant (modelled after the preterite forms) from Classical German fanhō "I take, seize". In the last sense the word is attested from the early twentieth century.
+
+Vancheu toð vençabr dell'oc vessondry.
+/vanˈkau tɔθ vɛnˈtsabr̩ dɛˈlɔk ˌvɛ.sɔnˈdri/
+[vɐŋˈkau tɔ vɪnˈtsa.bɐ dɪˈlɔg ˌvɛ.sʊnˈdʀi]
+loot-1p.sbj all sell-pt of-df=s.px clothier
+Loot this clothes shop of anything we can sell.
