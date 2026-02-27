@@ -1,0 +1,97 @@
+entry: "42.5"
+title: "Two Pens"
+claims:
+  - category: person
+    claim: "Ezio Carvallo (fl. 1860) was a Portingale author most remembered for his contributions to the development of masquira romance."
+    entities:
+      - name: "Ezio Carvallo"
+        type: person
+      - name: "Portingale"
+        type: polity
+    dates: ["fl. 1860 N"]
+
+  - category: work
+    claim: "'Tejan de Masquira ou Jalico' (1860) was the first in a twelve-strong series of tales following the vigilante thief Matthias o Grallon."
+    entities:
+      - name: "Tejan de Masquira ou Jalico"
+        type: work
+    dates: ["1860 N"]
+
+  - category: person
+    claim: "Matthias o Grallon is the protagonist vigilante thief of Ezio Carvallo's masquira series."
+    entities:
+      - name: "Matthias o Grallon"
+        type: person
+      - name: "Ezio Carvallo"
+        type: person
+
+  - category: work
+    claim: "'Tejan de Masquira ou Jalico' was released in Kentish in 1865 as 'We Arive in Unwemmed Clothes', translated by Christopher Wood."
+    entities:
+      - name: "Tejan de Masquira ou Jalico"
+        type: work
+      - name: "Christopher Wood"
+        type: person
+    dates: ["1865 N"]
+
+  - category: work
+    claim: "Anscon Polgat translated 'Tejan de Masquira ou Jalico' into Borlish under the title 'Cuscon Reðr Cognit'."
+    entities:
+      - name: "Tejan de Masquira ou Jalico"
+        type: work
+      - name: "Anscon Polgat"
+        type: person
+      - name: "Cuscon Reðr Cognit"
+        type: work
+
+  - category: work
+    claim: "The Borlish title 'Cuscon Reðr Cognit' means 'Whoever [We Are] Behind [Our] Disguises'."
+    entities:
+      - name: "Cuscon Reðr Cognit"
+        type: work
+
+  - category: person
+    claim: "Catrin of Kernow (d. 1233) was an influential figure in Tetrarchic Borland."
+    entities:
+      - name: "Catrin of Kernow"
+        type: person
+      - name: "Borland"
+        type: polity
+    dates: ["1233 N"]
+
+  - category: person
+    claim: "Catrin of Kernow was the elder sister of King Alan VI of Greater Devon."
+    entities:
+      - name: "Catrin of Kernow"
+        type: person
+      - name: "Alan VI of Greater Devon"
+        type: person
+    relationships:
+      - subject: "Catrin of Kernow"
+        predicate: "was elder sister of"
+        object: "Alan VI of Greater Devon"
+
+  - category: event
+    claim: "Alan VI of Greater Devon orchestrated the Realignment of Devon in 1225."
+    entities:
+      - name: "Alan VI of Greater Devon"
+        type: person
+      - name: "Realignment of Devon"
+        type: event
+    dates: ["1225 N"]
+
+  - category: person
+    claim: "The uncle of Catrin of Kernow and Alan VI was Damian the Wise, the first Roman Pope to be elected from among the Brethin religious order."
+    entities:
+      - name: "Damian the Wise"
+        type: person
+      - name: "Catrin of Kernow"
+        type: person
+      - name: "Alan VI of Greater Devon"
+        type: person
+      - name: "Brethin"
+        type: organisation
+    relationships:
+      - subject: "Damian the Wise"
+        predicate: "was uncle of"
+        object: "Catrin of Kernow"

@@ -1,0 +1,169 @@
+entry: "33.5"
+title: "The Wars of Fealty"
+claims:
+  - category: event
+    claim: "The Wars of Fealty were a series of conflicts between the polities of Albion in the late fifteenth and early sixteenth centuries, lasting almost fifty years."
+    entities:
+      - name: "Wars of Fealty"
+        type: event
+      - name: "Albion"
+        type: place
+    dates: ["late 15th century N", "early 16th century N"]
+
+  - category: event
+    claim: "The traditional account asserts that the Wars of Fealty broke out due to a dispute over the location of the Redstone Chair."
+    entities:
+      - name: "Wars of Fealty"
+        type: event
+      - name: "Redstone Chair"
+        type: technology
+
+  - category: technology
+    claim: "The Redstone Chair is a low-backed wooden throne inlaid with a sandstone block."
+    entities:
+      - name: "Redstone Chair"
+        type: technology
+
+  - category: event
+    claim: "The Redstone Chair is said to have been the stone over which the tenth-century Elved Marriage was solemnised."
+    entities:
+      - name: "Redstone Chair"
+        type: technology
+      - name: "Elved Marriage"
+        type: event
+    dates: ["10th century N"]
+
+  - category: event
+    claim: "The Elved Marriage ended hostilities between Dane Northumber and Markland for almost a century."
+    entities:
+      - name: "Elved Marriage"
+        type: event
+      - name: "Northumber"
+        type: polity
+      - name: "Markland"
+        type: polity
+
+  - category: event
+    claim: "Many subsequent monarchs were crowned over the Redstone Chair."
+    entities:
+      - name: "Redstone Chair"
+        type: technology
+
+  - category: event
+    claim: "France spent nearly two decades with growing animosity towards Kent under the Two Henries to the north."
+    entities:
+      - name: "France"
+        type: polity
+      - name: "Kent"
+        type: polity
+      - name: "Two Henries"
+        type: person
+
+  - category: event
+    claim: "France and Kent reached reconciliation in the early 1490s."
+    entities:
+      - name: "France"
+        type: polity
+      - name: "Kent"
+        type: polity
+    dates: ["early 1490s"]
+
+  - category: polity
+    claim: "The Kingdom of Britain was formed of Wales and its outlying tallaths, along with Kernow and Sodrick."
+    entities:
+      - name: "Britain"
+        type: polity
+      - name: "Wales"
+        type: polity
+      - name: "Kernow"
+        type: polity
+      - name: "Sodrick"
+        type: polity
+
+  - category: event
+    claim: "The Kingdom of Britain started from a position of strength in the Wars of Fealty and extracted many concessions in the early years."
+    entities:
+      - name: "Britain"
+        type: polity
+      - name: "Wars of Fealty"
+        type: event
+
+  - category: event
+    claim: "The 1483 Battle of Rexam expanded the borders of Wales in the north and killed the last Duke of Chestre."
+    entities:
+      - name: "Battle of Rexam"
+        type: event
+      - name: "Wales"
+        type: polity
+      - name: "Chestre"
+        type: place
+    dates: ["1483 N"]
+
+  - category: event
+    claim: "In the final years of the Wars of Fealty, a code called Thieves' Script was employed by the forces of Andrew III of Markland."
+    entities:
+      - name: "Thieves' Script"
+        type: concept
+      - name: "Andrew III of Markland"
+        type: person
+      - name: "Markland"
+        type: polity
+
+  - category: technology
+    claim: "Thieves' Script was apparently adapted from similar systems used by gangs of housebreakers in Nottingham."
+    entities:
+      - name: "Thieves' Script"
+        type: concept
+      - name: "Nottingham"
+        type: place
+
+  - category: technology
+    claim: "Thieves' Script is remembered today as an early precursor of codes like steeplescript or modern one-zeffre encoding."
+    entities:
+      - name: "Thieves' Script"
+        type: concept
+      - name: "steeplescript"
+        type: concept
+
+  - category: event
+    claim: "The poorer economic conditions following the Wars of Fealty left the Albic polities woefully vulnerable to the ravages of the Second Great Dying."
+    entities:
+      - name: "Wars of Fealty"
+        type: event
+      - name: "Albion"
+        type: place
+      - name: "Second Great Dying"
+        type: event
+
+  - category: event
+    claim: "Almost twice as many deaths per capita are recorded in Markland and English Kent from the Second Great Dying compared with Norman Kent or Willemy."
+    entities:
+      - name: "Markland"
+        type: polity
+      - name: "Kent"
+        type: polity
+      - name: "Willemy"
+        type: polity
+      - name: "Second Great Dying"
+        type: event
+
+  - category: event
+    claim: "King Howel of Britain expanded naval trade, typified by the ship Phœbos circumnavigating Africa and reaching Borune in 1516."
+    entities:
+      - name: "Howel of Britain"
+        type: person
+      - name: "Phœbos"
+        type: technology
+      - name: "Africa"
+        type: place
+      - name: "Borune"
+        type: place
+    dates: ["1516 N"]
+
+  - category: event
+    claim: "Following the Wars of Fealty, Borland received an influx of immigration from Albion, especially substantial Devoner and Kernish immigration to the cities of southern Borland."
+    entities:
+      - name: "Borland"
+        type: polity
+      - name: "Albion"
+        type: place

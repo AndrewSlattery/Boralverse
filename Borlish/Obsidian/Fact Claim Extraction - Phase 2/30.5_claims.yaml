@@ -1,0 +1,169 @@
+entry: "30.5"
+title: "Masquira Romance"
+claims:
+  - category: culture
+    claim: "Masquira romance is a genre of stories typically featuring criminal or crime-fighting characters, hidden identities, high society, and complicated schemes."
+    entities:
+      - name: "masquira romance"
+        type: concept
+
+  - category: culture
+    claim: "Masquira romance overlaps with the spycraft genre, especially in modern works."
+    entities:
+      - name: "masquira romance"
+        type: concept
+      - name: "spycraft"
+        type: concept
+
+  - category: terminology
+    claim: "The name 'masquira' derives from Ezio Carvallo's 1860 trevold 'Tejan de Masquira ou Jalico'."
+    entities:
+      - name: "masquira"
+        type: concept
+      - name: "Ezio Carvallo"
+        type: person
+
+  - category: work
+    claim: "The English title of 'Tejan de Masquira ou Jalico' is 'In Either a Mask or a Suit'."
+    entities:
+      - name: "Tejan de Masquira ou Jalico"
+        type: work
+
+  - category: work
+    claim: "'Tejan de Masquira ou Jalico' is widely considered to have pioneered the masquira genre."
+    entities:
+      - name: "Tejan de Masquira ou Jalico"
+        type: work
+      - name: "Ezio Carvallo"
+        type: person
+
+  - category: culture
+    claim: "Kevler romance is a subgenre of masquira focused on glamorous thefts and schemes, particularly popular in nineteenth-century Borland."
+    entities:
+      - name: "kevler romance"
+        type: concept
+      - name: "Borland"
+        type: polity
+    dates: ["19th century N"]
+
+  - category: culture
+    claim: "Masquira romance was born as a distinct genre in the late Workshop period through the prolific work of Portingale author Ezio Carvallo."
+    entities:
+      - name: "masquira romance"
+        type: concept
+      - name: "Ezio Carvallo"
+        type: person
+      - name: "Portingale"
+        type: polity
+
+  - category: person
+    claim: "Ezio Carvallo's dozen-strong series of trevolds almost single-handedly created the concept of a kevler story."
+    entities:
+      - name: "Ezio Carvallo"
+        type: person
+
+  - category: culture
+    claim: "A parallel tradition to kevler stories exists in older Cathayan tapsue ('magpie') tales."
+    entities:
+      - name: "tapsue"
+        type: concept
+      - name: "Cathay"
+        type: place
+
+  - category: culture
+    claim: "The popularity of masquira supplanted the dwindling voidtale fashion in Europe."
+    entities:
+      - name: "masquira romance"
+        type: concept
+      - name: "voidtale"
+        type: concept
+
+  - category: period
+    claim: "In the 1940s and 1950s, a resurgence of masquira romance known as the 'Spring Tide' occurred."
+    entities:
+      - name: "Spring Tide"
+        type: period
+    dates: ["1940s", "1950s"]
+
+  - category: culture
+    claim: "The Spring Tide saw many film adaptations of the masquira genre's classics."
+    entities:
+      - name: "Spring Tide"
+        type: period
+
+  - category: culture
+    claim: "Masquira romance was popular early on with the semi-public tovarick communities in the Riverine Cities."
+    entities:
+      - name: "masquira romance"
+        type: concept
+      - name: "Riverine Cities"
+        type: place
+
+  - category: culture
+    claim: "Tovarick communities spread the influence of masquira through Europe and the Novomund, along with the broader Deviance movement."
+    entities:
+      - name: "masquira romance"
+        type: concept
+      - name: "Deviance movement"
+        type: event
+
+  - category: work
+    claim: "'We Will Burn Together' by Takach Domoko is notable for its openly tovarick characters."
+    entities:
+      - name: "We Will Burn Together"
+        type: work
+      - name: "Takach Domoko"
+        type: person
+
+  - category: culture
+    claim: "The popularity of masquira romance is widely understood to have contributed to the Household Renovation."
+    entities:
+      - name: "masquira romance"
+        type: concept
+      - name: "Household Renovation"
+        type: event
+
+  - category: work
+    claim: "'Men of Jet and Diamond' ('Dynnon o Vuhuð a Diamont') is a 1890 tale by Cadogan Torrior of Hasiny, later adapted into a wildly-successful film in New Provence."
+    entities:
+      - name: "Men of Jet and Diamond"
+        type: work
+      - name: "Cadogan Torrior"
+        type: person
+      - name: "Hasiny"
+        type: polity
+      - name: "New Provence"
+        type: polity
+    dates: ["1890 N"]
+
+  - category: work
+    claim: "'One Evening Will Have to Be Enough' ('Un Seir Deura Soffire') is a 1913 trevold by Rone author Josephène Foilliers."
+    entities:
+      - name: "One Evening Will Have to Be Enough"
+        type: work
+      - name: "Josephène Foilliers"
+        type: person
+      - name: "Rone"
+        type: place
+    dates: ["1913 N"]
+
+  - category: work
+    claim: "'One Evening Will Have to Be Enough' is the first book on record to sell more than a million copies in its first year."
+    entities:
+      - name: "One Evening Will Have to Be Enough"
+        type: work
+
+  - category: work
+    claim: "'Outrun the Dawn' ('Die Demrung Üverholn') is a 1946 masquira work by Bronswick native Elke Hannawald."
+    entities:
+      - name: "Outrun the Dawn"
+        type: work
+      - name: "Elke Hannawald"
+        type: person
+    dates: ["1946 N"]
+
+  - category: work
+    claim: "'Outrun the Dawn' is remembered for subverting the trope of the masked hero by revealing the protagonist's identity in the book's second chapter."
+    entities:
+      - name: "Outrun the Dawn"
+        type: work

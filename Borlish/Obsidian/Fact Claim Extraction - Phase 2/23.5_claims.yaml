@@ -1,0 +1,236 @@
+entry: "23.5"
+title: "The Brethin Order"
+claims:
+  - category: organisation
+    claim: "The Brethin were a Christian religious order devoted to record-keeping and the maintenance of history."
+    entities:
+      - name: "Brethin"
+        type: organisation
+
+  - category: organisation
+    claim: "The Brethin had societies worldwide."
+    entities:
+      - name: "Brethin"
+        type: organisation
+
+  - category: organisation
+    claim: "The Brethin have a history dating back to the early medieval period."
+    entities:
+      - name: "Brethin"
+        type: organisation
+    dates: ["early medieval period"]
+
+  - category: terminology
+    claim: "The Brethin take their name from the distinctive heavy cloak worn by all members."
+    entities:
+      - name: "Brethin"
+        type: organisation
+
+  - category: terminology
+    claim: "In Old Welsh, the heavy cloak is called the 'bretin'."
+    entities:
+      - name: "bretin"
+        type: concept
+
+  - category: organisation
+    claim: "The Brethin order was founded in eighth-century Tremonnow."
+    entities:
+      - name: "Brethin"
+        type: organisation
+      - name: "Tremonnow"
+        type: place
+    dates: ["8th century"]
+
+  - category: place
+    claim: "Tremonnow was at the time of the Brethin's founding a border town of the new Kingdom of Greater Dumnonia."
+    entities:
+      - name: "Tremonnow"
+        type: place
+      - name: "Kingdom of Greater Dumnonia"
+        type: polity
+    dates: ["8th century"]
+
+  - category: person
+    claim: "Iseld, daughter of Vigo the Magnificent, was the patron of the founding of the Brethin order."
+    entities:
+      - name: "Iseld"
+        type: person
+      - name: "Vigo the Magnificent"
+        type: person
+      - name: "Brethin"
+        type: organisation
+    relationships:
+      - subject: "Iseld"
+        predicate: "was patron of"
+        object: "Brethin"
+
+  - category: organisation
+    claim: "The original mandate of the Brethin was to preserve the history of the Christianisation of Albion and Ireland."
+    entities:
+      - name: "Brethin"
+        type: organisation
+      - name: "Albion"
+        type: place
+      - name: "Ireland"
+        type: place
+
+  - category: organisation
+    claim: "The scope of the Brethin's work quickly expanded to include secular history."
+    entities:
+      - name: "Brethin"
+        type: organisation
+
+  - category: organisation
+    claim: "Brethin houses spread rapidly throughout the Briton states."
+    entities:
+      - name: "Brethin"
+        type: organisation
+
+  - category: organisation
+    claim: "In later centuries the Brethin made inroads into France, Burgundy and as far afield as Andalus."
+    entities:
+      - name: "Brethin"
+        type: organisation
+      - name: "France"
+        type: polity
+      - name: "Burgundy"
+        type: polity
+      - name: "Andalus"
+        type: polity
+
+  - category: organisation
+    claim: "The Brethin would not gain a foothold in Italy until after the Great Fracture of the sixteenth century."
+    entities:
+      - name: "Brethin"
+        type: organisation
+      - name: "Italy"
+        type: place
+      - name: "Great Fracture"
+        type: event
+    dates: ["16th century"]
+
+  - category: organisation
+    claim: "Not long after its inception, Brethin houses included both monasteries and convents."
+    entities:
+      - name: "Brethin"
+        type: organisation
+
+  - category: organisation
+    claim: "In some regions, Brethin institutions for one sex or the other predominated."
+    entities:
+      - name: "Brethin"
+        type: organisation
+
+  - category: organisation
+    claim: "The Brethin of Kernow became the most influential school within the order during the late medieval period."
+    entities:
+      - name: "Brethin of Kernow"
+        type: organisation
+      - name: "Brethin"
+        type: organisation
+    dates: ["late medieval period"]
+
+  - category: organisation
+    claim: "The Brethin of Kernow had a substantial increase in membership through the twelfth century."
+    entities:
+      - name: "Brethin of Kernow"
+        type: organisation
+    dates: ["12th century"]
+
+  - category: organisation
+    claim: "During the twelfth century many courts of Europe employed monks of the Brethin of Kernow as advisors."
+    entities:
+      - name: "Brethin of Kernow"
+        type: organisation
+    dates: ["12th century"]
+
+  - category: organisation
+    claim: "After the medieval period and until the modern day, the Brethin ran several major printing operations."
+    entities:
+      - name: "Brethin"
+        type: organisation
+    dates: ["after medieval period"]
+
+  - category: organisation
+    claim: "The Yievle Brethin Primers is a major printing operation run by the Brethin."
+    entities:
+      - name: "Yievle Brethin Primers"
+        type: organisation
+      - name: "Brethin"
+        type: organisation
+
+  - category: organisation
+    claim: "The Brethin ran educational institutions after the medieval period."
+    entities:
+      - name: "Brethin"
+        type: organisation
+    dates: ["after medieval period"]
+
+  - category: organisation
+    claim: "The Tremonnow Open School is an educational institution run by the Brethin."
+    entities:
+      - name: "Tremonnow Open School"
+        type: organisation
+      - name: "Brethin"
+        type: organisation
+
+  - category: organisation
+    claim: "The Tremonnow Open School was formerly the Brethin Mesh Institute."
+    entities:
+      - name: "Tremonnow Open School"
+        type: organisation
+      - name: "Brethin Mesh Institute"
+        type: organisation
+
+  - category: person
+    claim: "Pope Damian VI is also known as Damian the Wise."
+    entities:
+      - name: "Pope Damian VI"
+        type: person
+      - name: "Damian the Wise"
+        type: person
+
+  - category: person
+    claim: "Pope Damian VI reigned from 1199 to 1208."
+    entities:
+      - name: "Pope Damian VI"
+        type: person
+    dates: ["1199-1208 N"]
+
+  - category: person
+    claim: "Pope Damian VI was a notable member of the Brethin."
+    entities:
+      - name: "Pope Damian VI"
+        type: person
+      - name: "Brethin"
+        type: organisation
+
+  - category: person
+    claim: "Friar Dewock Barclythe lived from 1452 to 1539."
+    entities:
+      - name: "Friar Dewock Barclythe"
+        type: person
+    dates: ["1452-1539 N"]
+
+  - category: person
+    claim: "Friar Dewock Barclythe was a notable member of the Brethin."
+    entities:
+      - name: "Friar Dewock Barclythe"
+        type: person
+      - name: "Brethin"
+        type: organisation
+
+  - category: person
+    claim: "Saint Victor of Dunkirk died in 1245."
+    entities:
+      - name: "Saint Victor of Dunkirk"
+        type: person
+    dates: ["d. 1245 N"]
+
+  - category: person
+    claim: "Saint Victor of Dunkirk was a notable member of the Brethin."
+    entities:
+      - name: "Saint Victor of Dunkirk"
+        type: person
+      - name: "Brethin"
+        type: organisation

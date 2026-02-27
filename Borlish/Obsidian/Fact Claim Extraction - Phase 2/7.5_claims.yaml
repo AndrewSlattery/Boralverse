@@ -1,0 +1,134 @@
+entry: "7.5"
+title: "The Terrene Tax"
+source_work: "Histoir Concorrent, s16 : Mort, Vascel eð y Motion Celest (Concurrence History of the 16th Century: Death, Ships and the Movement of the Heavens)"
+claims:
+  - category: work
+    claim: "The condensed study materials for the course 'Histoir Concorrent, s16' were published in 2008 in the fourth edition."
+    entities:
+      - name: "Histoir Concorrent, s16 : Mort, Vascel eð y Motion Celest"
+        type: work
+    dates: ["2008 N"]
+
+  - category: work
+    claim: "The English title of 'Histoir Concorrent, s16 : Mort, Vascel eð y Motion Celest' is 'Concurrence History of the 16th Century: Death, Ships and the Movement of the Heavens'."
+    entities:
+      - name: "Histoir Concorrent, s16 : Mort, Vascel eð y Motion Celest"
+        type: work
+
+  - category: organisation
+    claim: "The course 'Histoir Concorrent, s16' is taught at the New Vithor School."
+    entities:
+      - name: "Histoir Concorrent, s16 : Mort, Vascel eð y Motion Celest"
+        type: work
+      - name: "New Vithor School"
+        type: organisation
+
+  - category: work
+    claim: "The course 'Histoir Concorrent, s16' is based on the normal itineraries from Cordin Editions."
+    entities:
+      - name: "Histoir Concorrent, s16 : Mort, Vascel eð y Motion Celest"
+        type: work
+      - name: "Cordin Editions"
+        type: organisation
+
+  - category: event
+    claim: "The strengthening negotiating position of the peasantry with respect to their landlords did not constitute a broad levelling of the hierarchies of sixteenth-century Europe."
+    dates: ["16th century"]
+
+  - category: polity
+    claim: "Provence was a Latin republic."
+    entities:
+      - name: "Provence"
+        type: polity
+
+  - category: event
+    claim: "Central authorities took advantage of the local nobility's declining power to consolidate their own in sixteenth-century Europe."
+    dates: ["16th century"]
+
+  - category: polity
+    claim: "Rome had eastern patriarchates."
+    entities:
+      - name: "Rome"
+        type: polity
+
+  - category: event
+    claim: "The process of central authorities consolidating power in Rome led directly to the Great Fracture."
+    entities:
+      - name: "Rome"
+        type: polity
+      - name: "Great Fracture"
+        type: event
+    relationships:
+      - subject: "power consolidation in Rome"
+        predicate: "led to"
+        object: "Great Fracture"
+
+  - category: event
+    claim: "The Great Fracture led to the accession of the Triunvirato."
+    entities:
+      - name: "Great Fracture"
+        type: event
+      - name: "Triunvirato"
+        type: polity
+    relationships:
+      - subject: "Great Fracture"
+        predicate: "led to the accession of"
+        object: "Triunvirato"
+
+  - category: person
+    claim: "Joseph III died in 1534."
+    entities:
+      - name: "Joseph III"
+        type: person
+    dates: ["1534 N"]
+
+  - category: person
+    claim: "Accusations of an unnatural demise have been sporadically levelled at Joseph III but are unsubstantiable."
+    entities:
+      - name: "Joseph III"
+        type: person
+
+  - category: person
+    claim: "Brandon II was the nephew and successor of Joseph III."
+    entities:
+      - name: "Brandon II"
+        type: person
+      - name: "Joseph III"
+        type: person
+    relationships:
+      - subject: "Brandon II"
+        predicate: "was nephew and successor of"
+        object: "Joseph III"
+
+  - category: event
+    claim: "Brandon II levied a terrene tax on landholders across the land almost immediately after Joseph III's death."
+    entities:
+      - name: "Brandon II"
+        type: person
+      - name: "Joseph III"
+        type: person
+    dates: ["1534 N"]
+
+  - category: terminology
+    claim: "A terrene tax is a tax on landholders."
+    entities:
+      - name: "terrene tax"
+        type: concept
+
+  - category: person
+    claim: "Joseph III never succeeded in producing a natural-born heir, despite several illegitimate children by his various mistresses."
+    entities:
+      - name: "Joseph III"
+        type: person
+
+  - category: person
+    claim: "Brandon II spent much of the decades prior to his accession winning hearts and minds at court."
+    entities:
+      - name: "Brandon II"
+        type: person
+
+  - category: event
+    claim: "The terrene tax necessitated an accurate account of the land held by landholders."
+    entities:
+      - name: "terrene tax"
+        type: concept

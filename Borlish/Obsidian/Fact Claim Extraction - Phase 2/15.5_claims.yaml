@@ -1,0 +1,182 @@
+entry: "15.5"
+title: "The Second Great Dying"
+claims:
+  - category: event
+    claim: "The Second Great Dying was a pandemic of bubonic plague occurring across the Vetomund."
+    entities:
+      - name: "Second Great Dying"
+        type: event
+      - name: "Vetomund"
+        type: place
+
+  - category: event
+    claim: "The Second Great Dying arrived in Europe in early 1519."
+    entities:
+      - name: "Second Great Dying"
+        type: event
+    dates: ["early 1519"]
+
+  - category: event
+    claim: "The Second Great Dying lasted for between five and seven years."
+    entities:
+      - name: "Second Great Dying"
+        type: event
+
+  - category: event
+    claim: "The first victim in Borland of the Second Great Dying was in Damvath during the 'green snowfall' of 1519."
+    entities:
+      - name: "Second Great Dying"
+        type: event
+      - name: "Borland"
+        type: place
+      - name: "Damvath"
+        type: place
+    dates: ["1519"]
+
+  - category: terminology
+    claim: "'Green snowfall' is a term referring to any snow that falls in spring."
+    entities:
+      - name: "green snowfall"
+        type: concept
+
+  - category: event
+    claim: "Vascony lost over a fifth of its population in the Second Great Dying."
+    entities:
+      - name: "Vascony"
+        type: polity
+      - name: "Second Great Dying"
+        type: event
+
+  - category: person
+    claim: "Joseph III ruled Borland at the time of the Second Great Dying."
+    entities:
+      - name: "Joseph III"
+        type: person
+      - name: "Borland"
+        type: place
+      - name: "Second Great Dying"
+        type: event
+
+  - category: event
+    claim: "Borland lost over four hundred thousand people in the Second Great Dying."
+    entities:
+      - name: "Borland"
+        type: place
+      - name: "Second Great Dying"
+        type: event
+
+  - category: person
+    claim: "Absolon Mortenszen is a Dane playwright."
+    entities:
+      - name: "Absolon Mortenszen"
+        type: person
+
+  - category: event
+    claim: "The wife and brothers of the grandfather of Absolon Mortenszen died in the Second Great Dying."
+    entities:
+      - name: "Absolon Mortenszen"
+        type: person
+      - name: "Second Great Dying"
+        type: event
+
+  - category: person
+    claim: "Adaillé, Duchess d'Avosche, had two elder brothers who died in the Second Great Dying."
+    entities:
+      - name: "Adaillé, Duchess d'Avosche"
+        type: person
+      - name: "Second Great Dying"
+        type: event
+
+  - category: event
+    claim: "Coastal areas and polities with closer ties to naval trade were hit harder and more quickly by the Second Great Dying."
+    entities:
+      - name: "Second Great Dying"
+        type: event
+
+  - category: event
+    claim: "Burgundy is a notable example of a state which suffered fewer casualties in the Second Great Dying, according to its own records."
+    entities:
+      - name: "Burgundy"
+        type: polity
+      - name: "Second Great Dying"
+        type: event
+
+  - category: event
+    claim: "Bohemia is a notable example of a state which suffered fewer casualties in the Second Great Dying, according to its own records."
+    entities:
+      - name: "Bohemia"
+        type: polity
+      - name: "Second Great Dying"
+        type: event
+
+  - category: event
+    claim: "The records of Burgundy and Bohemia regarding casualties in the Second Great Dying cannot entirely be trusted."
+    entities:
+      - name: "Burgundy"
+        type: polity
+      - name: "Bohemia"
+        type: polity
+      - name: "Second Great Dying"
+        type: event
+
+  - category: event
+    claim: "Portingale was ravaged early and mercilessly by the Second Great Dying."
+    entities:
+      - name: "Portingale"
+        type: polity
+      - name: "Second Great Dying"
+        type: event
+
+  - category: event
+    claim: "Provence was ravaged early and mercilessly by the Second Great Dying."
+    entities:
+      - name: "Provence"
+        type: place
+      - name: "Second Great Dying"
+        type: event
+
+  - category: culture
+    claim: "There is a common misconception that people blamed cats and dogs for spreading the plague during the Second Great Dying."
+    entities:
+      - name: "Second Great Dying"
+        type: event
+
+  - category: culture
+    claim: "The idea that people blamed cats and dogs for spreading the plague is only attested in connection with the Second Great Dying several decades after the event."
+    entities:
+      - name: "Second Great Dying"
+        type: event
+
+  - category: event
+    claim: "The misconception about blaming cats and dogs perhaps originated with stories of the monastery at Bonn."
+    entities:
+      - name: "monastery at Bonn"
+        type: organisation
+      - name: "Bonn"
+        type: place
+
+  - category: event
+    claim: "The monastery at Bonn banished all animals from the grounds in 1512 after several deaths."
+    entities:
+      - name: "monastery at Bonn"
+        type: organisation
+    dates: ["1512"]
+
+  - category: event
+    claim: "The deaths at the monastery at Bonn in 1512 were probably in actuality due to luetic pox."
+    entities:
+      - name: "monastery at Bonn"
+        type: organisation
+    dates: ["1512"]
+
+  - category: terminology
+    claim: "Luetic pox is a disease."
+    entities:
+      - name: "luetic pox"
+        type: concept
+
+  - category: event
+    claim: "Population loss due to the Second Great Dying is sometimes cited as contributing to the collapse of feudalism."
+    entities:
+      - name: "Second Great Dying"
+        type: event

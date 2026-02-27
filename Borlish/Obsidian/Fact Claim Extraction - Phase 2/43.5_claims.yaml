@@ -1,0 +1,145 @@
+entry: "43.5"
+title: "Barcelon"
+claims:
+  - category: polity
+    claim: "Barcelon is a Middlesea polity in the east of the Spanish peninsula."
+    entities:
+      - name: "Barcelon"
+        type: polity
+
+  - category: polity
+    claim: "From the ninth to the thirteenth century, the county—soon duchy, and from 1067 the kingdom—of Barcelon was ruled by the House of Barcelon."
+    entities:
+      - name: "Barcelon"
+        type: polity
+      - name: "House of Barcelon"
+        type: group
+    dates: ["9th century N", "13th century N", "1067 N"]
+
+  - category: event
+    claim: "Barcelon had perennial skirmishes with Tolose to the north."
+    entities:
+      - name: "Barcelon"
+        type: polity
+      - name: "Tolose"
+        type: polity
+
+  - category: event
+    claim: "Even when Tolose became a vassal state to the First Drengot Empire in the eleventh century, it maintained a standing army for protection against Barcelon."
+    entities:
+      - name: "Tolose"
+        type: polity
+      - name: "First Drengot Empire"
+        type: polity
+      - name: "Barcelon"
+        type: polity
+    dates: ["11th century N"]
+
+  - category: event
+    claim: "By the late twelfth century, the Kingdom of Barcelon controlled Saragossa, Valencia, and briefly Toledo."
+    entities:
+      - name: "Barcelon"
+        type: polity
+      - name: "Saragossa"
+        type: place
+      - name: "Valencia"
+        type: place
+      - name: "Toledo"
+        type: place
+    dates: ["late 12th century N"]
+
+  - category: event
+    claim: "Barcelon conquered the region of Tolose from Vascony in the first decade of the sixteenth century."
+    entities:
+      - name: "Barcelon"
+        type: polity
+      - name: "Tolose"
+        type: polity
+      - name: "Vascony"
+        type: polity
+    dates: ["early 16th century N"]
+
+  - category: event
+    claim: "The War for the Barcelon Succession took place in the early sixteenth century and notably lasted only four days."
+    entities:
+      - name: "War for the Barcelon Succession"
+        type: event
+    dates: ["early 16th century N"]
+
+  - category: event
+    claim: "In the early sixteenth century, Barcelon financially supported piratical raids on Provincial cities, especially Marsella."
+    entities:
+      - name: "Barcelon"
+        type: polity
+      - name: "Provence"
+        type: polity
+      - name: "Marsella"
+        type: place
+    dates: ["early 16th century N"]
+
+  - category: event
+    claim: "Part of the resolution with Provence involved the region of Narbona having double obligations to King James III of Barcelon and to Lord Amigòt in Provence."
+    entities:
+      - name: "Narbona"
+        type: place
+      - name: "James III of Barcelon"
+        type: person
+      - name: "Amigòt"
+        type: person
+      - name: "Provence"
+        type: polity
+
+  - category: person
+    claim: "James VI (Jaume VI, reigned 1691–1749) is the longest-reigning monarch in the history of the Kingdom of Barcelon, having ruled for 58 years."
+    entities:
+      - name: "James VI of Barcelon"
+        type: person
+      - name: "Barcelon"
+        type: polity
+    dates: ["1691 N", "1749 N"]
+
+  - category: culture
+    claim: "The jaumetia, a whitefish stew, is named after James VI of Barcelon."
+    entities:
+      - name: "jaumetia"
+        type: concept
+      - name: "James VI of Barcelon"
+        type: person
+
+  - category: person
+    claim: "Martha II (Marta II) was crowned queen of Barcelon in 1186."
+    entities:
+      - name: "Martha II of Barcelon"
+        type: person
+      - name: "Barcelon"
+        type: polity
+    dates: ["1186 N"]
+
+  - category: person
+    claim: "James III (Jaume III) was king of Barcelon, active around 1517."
+    entities:
+      - name: "James III of Barcelon"
+        type: person
+    dates: ["fl. 1517 N"]
+
+  - category: person
+    claim: "James V (Jaume V) of Barcelon spent much of his childhood in a Cordin wardship in Borland."
+    entities:
+      - name: "James V of Barcelon"
+        type: person
+      - name: "Cordin"
+        type: place
+      - name: "Borland"
+        type: polity
+    dates: ["fl. 1670 N"]
+
+  - category: person
+    claim: "Raymond al Mustafa (fl. 1750) was a mathematician who worked with Rachel Desslut on the nascent field of methodics while under the patronage of the Duke of Aragon."
+    entities:
+      - name: "Raymond al Mustafa"
+        type: person
+      - name: "Rachel Desslut"
+        type: person
+      - name: "Aragon"
+        type: polity
+    dates: ["fl. 1750 N"]

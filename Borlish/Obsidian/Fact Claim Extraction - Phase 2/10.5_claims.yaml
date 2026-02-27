@@ -1,0 +1,105 @@
+entry: "10.5"
+title: "Middlesea Meals"
+source_work: "Pasti Mezziterreni (Middlesea Meals)"
+claims:
+  - category: work
+    claim: "The mealbook 'Pasti Mezziterreni' (Middlesea Meals) was published in 1880."
+    entities:
+      - name: "Pasti Mezziterreni"
+        type: work
+    dates: ["1880"]
+
+  - category: work
+    claim: "'Pasti Mezziterreni' is an acclaimed mealbook."
+    entities:
+      - name: "Pasti Mezziterreni"
+        type: work
+
+  - category: work
+    claim: "The English title of 'Pasti Mezziterreni' is 'Middlesea Meals'."
+    entities:
+      - name: "Pasti Mezziterreni"
+        type: work
+
+  - category: person
+    claim: "Josforo Sant'Angelo was a world-traveller who wrote 'Pasti Mezziterreni'."
+    entities:
+      - name: "Josforo Sant'Angelo"
+        type: person
+      - name: "Pasti Mezziterreni"
+        type: work
+    relationships:
+      - subject: "Josforo Sant'Angelo"
+        predicate: "wrote"
+        object: "Pasti Mezziterreni"
+
+  - category: person
+    claim: "Josforo Sant'Angelo was the youngest son of the last Marksman of Cremuna."
+    entities:
+      - name: "Josforo Sant'Angelo"
+        type: person
+      - name: "Cremuna"
+        type: place
+
+  - category: terminology
+    claim: "A Marksman is a title or position associated with Cremuna."
+    entities:
+      - name: "Cremuna"
+        type: place
+
+  - category: work
+    claim: "'Pasti Mezziterreni' popularised the use of autobiographical anecdotes to separate and give context for recipes."
+    entities:
+      - name: "Pasti Mezziterreni"
+        type: work
+
+  - category: terminology
+    claim: "The Boralverse term 'sea-Masreck' refers to a region associated with traditional Cypriot cheese production."
+    entities:
+      - name: "sea-Masreck"
+        type: place
+
+  - category: culture
+    claim: "Cappatian staddenzen have a cheese similar to Cypriot cheese, made with cow's milk."
+    entities:
+      - name: "Cappatian staddenzen"
+        type: place
+
+  - category: place
+    claim: "Knossos contains ruins that can be visited."
+    entities:
+      - name: "Knossos"
+        type: place
+
+  - category: glossary
+    claim: "Tartover is the Boralverse term for potatoes."
+    entities:
+      - name: "tartover"
+        irl: "potatoes"
+        type: concept
+
+  - category: terminology
+    claim: "Jarraspepper is a spice in the Boralverse."
+    entities:
+      - name: "jarraspepper"
+        type: concept
+
+  - category: terminology
+    claim: "Frangos is a unit of measurement used in Boralverse cooking."
+    entities:
+      - name: "frangos"
+        type: concept
+
+  - category: terminology
+    claim: "Drypepper is a seasoning in the Boralverse."
+    entities:
+      - name: "drypepper"
+        type: concept
+
+  - category: culture
+    claim: "Cypriot Pan-Farrago (Χαλουμ Κομαρ) is a traditional dish from the sea-Masreck region."
+    entities:
+      - name: "Cypriot Pan-Farrago"
+        type: concept
+      - name: "sea-Masreck"
+        type: place

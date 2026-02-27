@@ -1,0 +1,165 @@
+entry: "2.5"
+title: "Children's Curriculum, part 2"
+source_work: "Report towards a Normal Teaching for Children at Mantelschool"
+claims:
+  - category: glossary
+    claim: "Nascentiæ (abbreviated N) is the Boralverse calendar era, equivalent to IRL AD/CE."
+    entities:
+      - name: "Nascentiæ"
+        irl: "AD/CE"
+        type: concept
+
+  - category: event
+    claim: "Germanic Angles and Saxons migrated into the west and south of Borland in the post-Roman period."
+    entities:
+      - name: "Borland"
+        type: place
+      - name: "Angles"
+        type: event
+      - name: "Saxons"
+        type: event
+    dates: ["400–800 N"]
+
+  - category: polity
+    claim: "The Germanic migrations to Borland led to the formation of the petty kingdoms of Southbar and Angland."
+    entities:
+      - name: "Southbar"
+        type: polity
+      - name: "Angland"
+        type: polity
+      - name: "Borland"
+        type: place
+
+  - category: terminology
+    claim: "In Borlish, Southbar is written 'Sothbar' and Angland is written 'Anglont'."
+    entities:
+      - name: "Southbar"
+        type: polity
+      - name: "Angland"
+        type: polity
+
+  - category: polity
+    claim: "Albion developed a Heptarchy comparable to the petty kingdoms of Borland."
+    entities:
+      - name: "Albion"
+        type: place
+
+  - category: person
+    claim: "Prase Victor Rossetus reformed the Boral Diocese."
+    entities:
+      - name: "Prase Victor Rossetus"
+        type: person
+      - name: "Boral Diocese"
+        type: organisation
+    relationships:
+      - subject: "Prase Victor Rossetus"
+        predicate: "reformed"
+        object: "Boral Diocese"
+
+  - category: polity
+    claim: "The reforms of the Boral Diocese led to the formation of the first Kingdom of Boral."
+    entities:
+      - name: "Boral Diocese"
+        type: organisation
+      - name: "Kingdom of Boral"
+        type: polity
+    relationships:
+      - subject: "reforms of the Boral Diocese"
+        predicate: "led to the formation of"
+        object: "Kingdom of Boral"
+
+  - category: religion
+    claim: "The Gulfhaven sanctuary had a missionary focus and served as a springboard for the Christianisation of the region."
+    entities:
+      - name: "Gulfhaven"
+        type: place
+
+  - category: religion
+    claim: "Grecian heresy was influential among the early monasteries of Borland."
+    entities:
+      - name: "Borland"
+        type: place
+
+  - category: work
+    claim: "The Gambrig chronicle is an early document exemplifying the emergence of the vulgar Borlish language in writing as distinct from Latin."
+    entities:
+      - name: "Gambrig chronicle"
+        type: work
+
+  - category: event
+    claim: "The tripartite wars caused migration to and from Borland."
+    entities:
+      - name: "tripartite wars"
+        type: event
+      - name: "Borland"
+        type: place
+
+  - category: event
+    claim: "The Merch subjugation of Anglia occurred in the late eighth century."
+    entities:
+      - name: "Merch"
+        type: polity
+      - name: "Anglia"
+        type: place
+    dates: ["late 8th century"]
+    relationships:
+      - subject: "Merch"
+        predicate: "subjugated"
+        object: "Anglia"
+
+  - category: event
+    claim: "The Battle of Fendal resulted in the unification of Boral and Angland."
+    entities:
+      - name: "Battle of Fendal"
+        type: event
+      - name: "Boral"
+        type: polity
+      - name: "Angland"
+        type: polity
+    relationships:
+      - subject: "Battle of Fendal"
+        predicate: "resulted in the unification of"
+        object: "Boral and Angland"
+
+  - category: event
+    claim: "Following the Battle of Fendal, Southbar swore fealty to the unified kingdom."
+    entities:
+      - name: "Southbar"
+        type: polity
+      - name: "Battle of Fendal"
+        type: event
+
+  - category: event
+    claim: "Danish raiders attacked coastal settlements along the north and east coasts of Borland."
+    entities:
+      - name: "Borland"
+        type: place
+    dates: ["800–1029 N"]
+
+  - category: person
+    claim: "King Jothey resisted Danish incursion into Borland."
+    entities:
+      - name: "Jothey"
+        type: person
+      - name: "Borland"
+        type: place
+
+  - category: event
+    claim: "King Jothey was exiled in Sothbar following his resistance to the Danish incursion."
+    entities:
+      - name: "Jothey"
+        type: person
+      - name: "Sothbar"
+        type: place
+
+  - category: place
+    claim: "Damvath was established as the capital of Dane-ruled Borland."
+    entities:
+      - name: "Damvath"
+        type: place
+      - name: "Borland"
+        type: polity
+    relationships:
+      - subject: "Damvath"
+        predicate: "was established as capital of"
+        object: "Dane-ruled Borland"

@@ -1,0 +1,138 @@
+entry: "39.5"
+title: "Andalus"
+claims:
+  - category: polity
+    claim: "Andalus is a polity in the south of the Spanish peninsula."
+    entities:
+      - name: "Andalus"
+        type: polity
+
+  - category: language
+    claim: "Both Morrove Arabic and Mostara Spanish are widely spoken in Andalus."
+    entities:
+      - name: "Andalus"
+        type: polity
+
+  - category: economics
+    claim: "Ninth-century Andalus saw glassmaking techniques accelerate rapidly due to a cut-off of supply from the east, leading to the prodigious export of 'jackdaw glass'."
+    entities:
+      - name: "Andalus"
+        type: polity
+    dates: ["9th century N"]
+
+  - category: religion
+    claim: "The Brethin religious order spread into the Christian-majority areas of Andalus from the north during the eleventh and twelfth centuries."
+    entities:
+      - name: "Brethin"
+        type: organisation
+      - name: "Andalus"
+        type: polity
+    dates: ["11th century N", "12th century N"]
+
+  - category: event
+    claim: "Around the eleventh and twelfth centuries, Andalus lost significant territory in the north and east to Christian polities, including the newly-established Kingdom of Barcelon."
+    entities:
+      - name: "Andalus"
+        type: polity
+      - name: "Barcelon"
+        type: polity
+    dates: ["11th century N", "12th century N"]
+
+  - category: polity
+    claim: "In the fifteenth century, Andalus was controlled from across the straits by Morrack."
+    entities:
+      - name: "Andalus"
+        type: polity
+      - name: "Morrack"
+        type: polity
+    dates: ["15th century N"]
+
+  - category: event
+    claim: "In the fifteenth century, Andalus suffered two successive succession crises as well as the 1457 Lisbon Massacre."
+    entities:
+      - name: "Andalus"
+        type: polity
+      - name: "Lisbon Massacre"
+        type: event
+    dates: ["15th century N", "1457 N"]
+
+  - category: event
+    claim: "Vascony was forced to cede Portingale to Andalus after a series of military successes by Andalus in the Romantic Wars of the mid-seventeenth century."
+    entities:
+      - name: "Vascony"
+        type: polity
+      - name: "Portingale"
+        type: polity
+      - name: "Andalus"
+        type: polity
+      - name: "Romantic Wars"
+        type: event
+    dates: ["mid-17th century N"]
+
+  - category: event
+    claim: "Andalus was embroiled in prolonged conflict with Morrack in the eighteenth century as Morrack attempted a reconquest."
+    entities:
+      - name: "Andalus"
+        type: polity
+      - name: "Morrack"
+        type: polity
+    dates: ["18th century N"]
+
+  - category: technology
+    claim: "A signalling line from Cordova to Málaga set up during Andalus's conflict with Morrack developed into the world's first steeplepost connection between two major cities."
+    entities:
+      - name: "steeplepost"
+        type: technology
+      - name: "Cordova"
+        type: place
+      - name: "Málaga"
+        type: place
+      - name: "Andalus"
+        type: polity
+
+  - category: person
+    claim: "Abdul Raman IV (fl. 1188) was ruler of the Admiralty of Cordova under the Single Caliphate."
+    entities:
+      - name: "Abdul Raman IV"
+        type: person
+      - name: "Cordova"
+        type: place
+      - name: "Single Caliphate"
+        type: polity
+    dates: ["fl. 1188 N"]
+
+  - category: person
+    claim: "Joan Bensaíd (fl. 1951) was an author who wrote the 1951 scholastic quire 'The Communication Toolset' ('El Herramente de Communicazón')."
+    entities:
+      - name: "Joan Bensaíd"
+        type: person
+      - name: "The Communication Toolset"
+        type: work
+    dates: ["fl. 1951 N"]
+
+  - category: person
+    claim: "Jorala (fl. c18–19) was a landscape artist born in Cazris whose later work was influenced by the voidtale craze."
+    entities:
+      - name: "Jorala"
+        type: person
+      - name: "Cazris"
+        type: place
+    dates: ["fl. c18-19 N"]
+
+  - category: person
+    claim: "Judeta Barracin (fl. 1919) was an author who helped pioneer the genre of social comedy with her work 'Flaxen Hearts'."
+    entities:
+      - name: "Judeta Barracin"
+        type: person
+      - name: "Flaxen Hearts"
+        type: work
+    dates: ["fl. 1919 N"]
+
+  - category: person
+    claim: "Tal of Murcia (fl. 1211) was a medieval scholar who in 1211 wrote 'On Unknown Areas Scribed by Arcs'."
+    entities:
+      - name: "Tal of Murcia"
+        type: person
+      - name: "On Unknown Areas Scribed by Arcs"
+        type: work
+    dates: ["fl. 1211 N"]

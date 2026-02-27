@@ -1,0 +1,1203 @@
+entry: "26.5"
+title: "Borland"
+claims:
+  - category: place
+    claim: "Borland is the easternmost of the three major landmasses in the Northwestern Isles."
+    entities:
+      - name: "Borland"
+        type: place
+      - name: "Northwestern Isles"
+        type: place
+
+  - category: polity
+    claim: "Borland is also the name of the singular polity located on that landmass."
+    entities:
+      - name: "Borland"
+        type: polity
+
+  - category: place
+    claim: "The capital of Borland is Damvath."
+    entities:
+      - name: "Borland"
+        type: polity
+      - name: "Damvath"
+        type: place
+
+  - category: place
+    claim: "Damvath is a port city on the east coast of Borland."
+    entities:
+      - name: "Damvath"
+        type: place
+      - name: "Borland"
+        type: polity
+
+  - category: place
+    claim: "The Borlish name of Borland is 'Istr Boral'."
+    entities:
+      - name: "Borland"
+        type: place
+
+  - category: language
+    claim: "The name 'Borland' descends from Old English 'Boralland', meaning 'land of the Borlish people'."
+    entities:
+      - name: "Borland"
+        type: place
+
+  - category: language
+    claim: "It is disputed whether the Romans knew Borland as 'insula borealis' or borrowed the native Kelt name 'enis borag'."
+    entities:
+      - name: "Borland"
+        type: place
+
+  - category: language
+    claim: "The Kelt name 'enis borag' means 'island of the dawn'."
+    entities:
+      - name: "Borland"
+        type: place
+
+  - category: place
+    claim: "The Kelt population of Borland are self-described as the 'Bora Ale'."
+    entities:
+      - name: "Bora Ale"
+        type: group
+      - name: "Borland"
+        type: place
+
+  - category: language
+    claim: "The language of the Borland Kelts represents only a recent divergence from the Briton tongue."
+    entities:
+      - name: "Bora Ale"
+        type: group
+
+  - category: event
+    claim: "The Borland Kelts are thought to have arrived on the island from Albion, not directly from the continent."
+    entities:
+      - name: "Bora Ale"
+        type: group
+      - name: "Albion"
+        type: place
+
+  - category: economics
+    claim: "Borland Kelt culture was connected to the European trade mesh via the export of tin and iron."
+    entities:
+      - name: "Borland"
+        type: place
+
+  - category: economics
+    claim: "Imported pottery from finds across Borland has been found from as far afield as Egypt and Persia."
+    entities:
+      - name: "Borland"
+        type: place
+      - name: "Egypt"
+        type: place
+      - name: "Persia"
+        type: place
+
+  - category: polity
+    claim: "The Kelts of Borland were organised into many tribes ruled from hill fort structures."
+    entities:
+      - name: "Borland"
+        type: place
+
+  - category: place
+    claim: "The Çadrosc labyrinth is an important religious site from Kelt times."
+    entities:
+      - name: "Çadrosc"
+        type: place
+
+  - category: event
+    claim: "Borland developed diplomatic and trade links with Rome from the time of Julius Caesar's expeditions to Britannia in 55 aN."
+    entities:
+      - name: "Borland"
+        type: place
+      - name: "Rome"
+        type: polity
+      - name: "Julius Caesar"
+        type: person
+    dates: ["55 aN"]
+
+  - category: event
+    claim: "The Roman conquest of Borland took place through the second half of the first century."
+    entities:
+      - name: "Borland"
+        type: place
+      - name: "Rome"
+        type: polity
+    dates: ["second half of 1st century N"]
+
+  - category: event
+    claim: "Confederations of Kelt tribes resisted Roman occupation of Borland, especially in the north."
+    entities:
+      - name: "Borland"
+        type: place
+
+  - category: work
+    claim: "Bervisson's work 'An Eternal Rome: Ships of Theseus' characterised Hadrian's strategies in Britain and Borland as 'The Wall and the Hedgerow'."
+    entities:
+      - name: "Michael Bervisson"
+        type: person
+      - name: "An Eternal Rome: Ships of Theseus"
+        type: work
+
+  - category: event
+    claim: "Under Hadrian, Hadrian's policies led to significantly more autonomy in Borland and greater reliance on locally-born legions."
+    entities:
+      - name: "Borland"
+        type: polity
+
+  - category: polity
+    claim: "Under Hadrian, Borland was made a separate province from Britannia."
+    entities:
+      - name: "Borland"
+        type: polity
+      - name: "Britannia"
+        type: polity
+
+  - category: polity
+    claim: "After the Diocletian reforms, Borland's province became the Diocese of Boral."
+    entities:
+      - name: "Borland"
+        type: polity
+      - name: "Diocese of Boral"
+        type: polity
+
+  - category: religion
+    claim: "The fourth century saw the arrival of Roman Christianity on Borland."
+    entities:
+      - name: "Borland"
+        type: place
+    dates: ["4th century N"]
+
+  - category: event
+    claim: "There was considerable Roman emigration from Borland to the continent during the late fourth and early fifth centuries."
+    entities:
+      - name: "Borland"
+        type: place
+    dates: ["late 4th century N", "early 5th century N"]
+
+  - category: event
+    claim: "German peoples, primarily Angles, came from the mainland and settled in Borland."
+    entities:
+      - name: "Borland"
+        type: place
+
+  - category: polity
+    claim: "By the end of the sixth century, Angles and Saxons had formed the Borlish petty kingdoms of Southbar and Angland."
+    entities:
+      - name: "Southbar"
+        type: polity
+      - name: "Angland"
+        type: polity
+    dates: ["end of 6th century N"]
+
+  - category: polity
+    claim: "The decentralised network of towns in the east of Borland was unified under Prase Victor Rossetus as the 'Diocese of Boral'."
+    entities:
+      - name: "Victor Rossetus"
+        type: person
+      - name: "Diocese of Boral"
+        type: polity
+
+  - category: polity
+    claim: "By the late sixth century the Diocese of Boral had become a monarchy, described in retrospect as the First Kingdom of Borland."
+    entities:
+      - name: "Diocese of Boral"
+        type: polity
+      - name: "First Kingdom of Borland"
+        type: polity
+    dates: ["late 6th century N"]
+
+  - category: religion
+    claim: "Rome under Pope Mercury II took particular strategic interest in Borland, viewing it as a vital Christian outpost."
+    entities:
+      - name: "Pope Mercury II"
+        type: person
+      - name: "Borland"
+        type: place
+
+  - category: place
+    claim: "The oldest surviving church in Borland is located at the Golfhaun Sanctuary (Asȳlum Æstuāriī)."
+    entities:
+      - name: "Golfhaun Sanctuary"
+        type: place
+      - name: "Borland"
+        type: place
+
+  - category: event
+    claim: "In the early ninth century, Roman king Stiglan married his son Marc to the only daughter of Alfegh of Angland, unifying their kingdoms."
+    entities:
+      - name: "Stiglan"
+        type: person
+      - name: "Marc of Borland"
+        type: person
+      - name: "Alfegh of Angland"
+        type: person
+    dates: ["early 9th century N"]
+    relationships:
+      - subject: "Marc of Borland"
+        predicate: "was son of"
+        object: "Stiglan"
+
+  - category: event
+    claim: "Southbar pledged fealty after the circa-810 Battle of Fendal."
+    entities:
+      - name: "Southbar"
+        type: polity
+      - name: "Battle of Fendal"
+        type: event
+    dates: ["ca. 810 N"]
+
+  - category: event
+    claim: "Dane raids on Borland began in the late eighth century."
+    entities:
+      - name: "Borland"
+        type: place
+    dates: ["late 8th century N"]
+
+  - category: event
+    claim: "The First Kingdom of Borland fell in 898."
+    entities:
+      - name: "First Kingdom of Borland"
+        type: polity
+    dates: ["898 N"]
+
+  - category: event
+    claim: "After the fall of the First Kingdom in 898, King Jothey went into exile with Queen Brenna of Barrow to Sothbar."
+    entities:
+      - name: "Jothey of Borland"
+        type: person
+      - name: "Brenna of Barrow"
+        type: person
+      - name: "Sothbar"
+        type: polity
+    dates: ["898 N"]
+
+  - category: event
+    claim: "Jothey and Brenna were subsequently forced to flee to Kent as Dane Borland conquered the remainder of the island."
+    entities:
+      - name: "Jothey of Borland"
+        type: person
+      - name: "Brenna of Barrow"
+        type: person
+      - name: "Kent"
+        type: polity
+
+  - category: event
+    claim: "The Jacobin Fraternity was forced to flee Flanders in 1067 after being implicated in a popular uprising against Emperor Nathaniel II."
+    entities:
+      - name: "Jacobin Fraternity"
+        type: organisation
+      - name: "Flanders"
+        type: polity
+      - name: "Nathaniel II"
+        type: person
+    dates: ["1067 N"]
+
+  - category: place
+    claim: "The Jacobin Fraternity built the Peninsular Monastery overlooking the city of Axbane."
+    entities:
+      - name: "Jacobin Fraternity"
+        type: organisation
+      - name: "Axbane"
+        type: place
+
+  - category: work
+    claim: "In 1292, the chronicle 'The Life of Catrin of Kernow' ('Y Við a Catrin de Cornou') was written."
+    entities:
+      - name: "The Life of Catrin of Kernow"
+        type: work
+    dates: ["1292 N"]
+
+  - category: work
+    claim: "The Borlish title of 'The Life of Catrin of Kernow' is 'Y Við a Catrin de Cornou'."
+    entities:
+      - name: "The Life of Catrin of Kernow"
+        type: work
+
+  - category: person
+    claim: "Catrin of Kernow was assassinated in 1233."
+    entities:
+      - name: "Catrin of Kernow"
+        type: person
+    dates: ["1233 N"]
+
+  - category: work
+    claim: "'The Life of Catrin of Kernow' is the first long-form work of Borlish literature written about a layperson."
+    entities:
+      - name: "The Life of Catrin of Kernow"
+        type: work
+
+  - category: organisation
+    claim: "The Noccair Lyceum of the 1300s taught the Five Romantic Arts: Literature, Argument, Reckoning, Geometry and Songcraft."
+    entities:
+      - name: "Noccair Lyceum"
+        type: organisation
+    dates: ["14th century N"]
+
+  - category: terminology
+    claim: "The Five Romantic Arts are Literature, Argument, Reckoning, Geometry and Songcraft."
+    entities:
+      - name: "Five Romantic Arts"
+        type: concept
+
+  - category: organisation
+    claim: "Around 1400, the Noccair Lyceum began to teach alchemy and later post-Classical history."
+    entities:
+      - name: "Noccair Lyceum"
+        type: organisation
+    dates: ["ca. 1400 N"]
+
+  - category: economics
+    claim: "The end of the fourteenth century marks the zenith of Borlish trade power."
+    entities:
+      - name: "Borland"
+        type: polity
+    dates: ["late 14th century N"]
+
+  - category: polity
+    claim: "In the first decade of the fifteenth century, Queen Natalia I and King Joseph I ruled jointly."
+    entities:
+      - name: "Natalia I"
+        type: person
+      - name: "Joseph I"
+        type: person
+    dates: ["first decade of 15th century N"]
+
+  - category: person
+    claim: "All three sons of Natalia I and Joseph I predeceased them, as did their few male grandchildren."
+    entities:
+      - name: "Natalia I"
+        type: person
+      - name: "Joseph I"
+        type: person
+
+  - category: event
+    claim: "The deaths of Joseph I in 1411 and Natalia I in 1416 prompted a succession crisis."
+    entities:
+      - name: "Joseph I"
+        type: person
+      - name: "Natalia I"
+        type: person
+    dates: ["1411 N", "1416 N"]
+
+  - category: polity
+    claim: "The succession crisis following the deaths of Natalia I and Joseph I brought the Saulestran lineage to power."
+    entities:
+      - name: "Saulestran"
+        type: polity
+
+  - category: culture
+    claim: "The Saulestran banner comprised a white bar cutting a twilight-blue field."
+    entities:
+      - name: "Saulestran"
+        type: polity
+
+  - category: event
+    claim: "The Second Great Dying reached Borland in March of 1519."
+    entities:
+      - name: "Second Great Dying"
+        type: event
+      - name: "Borland"
+        type: polity
+    dates: ["1519 N"]
+
+  - category: event
+    claim: "The first recorded death of the Second Great Dying in Borland was in Damvath during the year's green snowfall."
+    entities:
+      - name: "Second Great Dying"
+        type: event
+      - name: "Damvath"
+        type: place
+
+  - category: event
+    claim: "Borland lost over four hundred thousand people—one-seventh of its population—to the Second Great Dying."
+    entities:
+      - name: "Borland"
+        type: polity
+      - name: "Second Great Dying"
+        type: event
+
+  - category: event
+    claim: "Borland became entangled in the War for the Stavang Crown in the 1550s."
+    entities:
+      - name: "Borland"
+        type: polity
+      - name: "War for the Stavang Crown"
+        type: event
+    dates: ["1550s"]
+
+  - category: law
+    claim: "Serfdom was legally abolished in Borland in 1564."
+    entities:
+      - name: "Borland"
+        type: polity
+    dates: ["1564 N"]
+
+  - category: event
+    claim: "Borland's involvement in the Romantic Wars culminated in the Hawkirch Surrender of 1632."
+    entities:
+      - name: "Borland"
+        type: polity
+      - name: "Hawkirch Surrender"
+        type: event
+    dates: ["1632 N"]
+
+  - category: event
+    claim: "The Pentrose survey of the 1730s was a coordinated effort to find the most productive or useful cultivars of many plants."
+    entities:
+      - name: "Pentrose"
+        type: place
+    dates: ["1730s"]
+
+  - category: economics
+    claim: "The braxoch beet is a hybrid of Silesian and Cassuvian beets whose sugar content made domestic sugar production economical."
+    entities:
+      - name: "braxoch beet"
+        type: concept
+
+  - category: place
+    claim: "The Jacobin Estates (Palaç Jagovin) were completed in Damvath in the late eighteenth century."
+    entities:
+      - name: "Jacobin Estates"
+        type: place
+      - name: "Damvath"
+        type: place
+    dates: ["late 18th century N"]
+
+  - category: event
+    claim: "Borlish soldiers were present at the disastrously mismanaged Battle of Hulm in 1821."
+    entities:
+      - name: "Borland"
+        type: polity
+      - name: "Battle of Hulm"
+        type: event
+    dates: ["1821 N"]
+
+  - category: event
+    claim: "Most of Borland's steeplepost flag-lamp lines were erected in the 1810s and 1820s."
+    entities:
+      - name: "Borland"
+        type: polity
+    dates: ["1810s", "1820s"]
+
+  - category: event
+    claim: "Axbane was connected to the continent at Texel in Willemy via air-steeples."
+    entities:
+      - name: "Axbane"
+        type: place
+      - name: "Texel"
+        type: place
+      - name: "Willemy"
+        type: polity
+
+  - category: event
+    claim: "By 1860, the island's steeplemesh had been replaced by a barrick line."
+    entities:
+      - name: "Borland"
+        type: polity
+    dates: ["1860 N"]
+
+  - category: language
+    claim: "The spelling reform of 1870 was the last major revision to Borlish spelling conventions."
+    entities:
+      - name: "Borland"
+        type: place
+    dates: ["1870 N"]
+
+  - category: event
+    claim: "Queen Natalia II abdicated on Revillon of 1894 due to the political upheaval of Borland joining the Drengot Collusion."
+    entities:
+      - name: "Natalia II"
+        type: person
+      - name: "Borland"
+        type: polity
+      - name: "Drengot Collusion"
+        type: polity
+    dates: ["1894 N"]
+
+  - category: culture
+    claim: "The celebration of Revillon is an ancient tradition in Borland, dating back to the time of the Insular Kelts."
+    entities:
+      - name: "Revillon"
+        type: event
+      - name: "Borland"
+        type: polity
+
+  - category: culture
+    claim: "As part of Revillon festivities, people bring pastries and baked goods to grand Revillon Feasts held in churches across the country."
+    entities:
+      - name: "Revillon"
+        type: event
+      - name: "Borland"
+        type: polity
+
+  - category: terminology
+    claim: "In Borland, the 'green snowfall' (neyanç vert) is the first snow in spring after the yearturning."
+    entities:
+      - name: "neyanç vert"
+        type: concept
+
+  - category: culture
+    claim: "Years with a green snowfall in Borland are generally considered unlucky."
+    entities:
+      - name: "Borland"
+        type: polity
+
+  - category: work
+    claim: "The 'Season Song' ('Cant a Saçon') is a Borlish folk song of unknown origin."
+    entities:
+      - name: "Season Song"
+        type: work
+
+  - category: culture
+    claim: "The figures of the graveyard fiddlers are a folk tradition peculiar to Borland, associated with spirits of death."
+    entities:
+      - name: "graveyard fiddlers"
+        type: concept
+      - name: "Borland"
+        type: polity
+
+  - category: culture
+    claim: "The Wild Hunt (Cauç Ragnt) in Borland is traditionally led by Balegr, a kenning of Odin."
+    entities:
+      - name: "Wild Hunt"
+        type: concept
+      - name: "Balegr"
+        type: person
+      - name: "Odin"
+        type: person
+
+  - category: language
+    claim: "Borlish is the only surviving branch of Insular Romance."
+    entities:
+      - name: "Borlish"
+        type: concept
+
+  - category: place
+    claim: "Angland is a historical region in the west of Borland whose capital is Vithor."
+    entities:
+      - name: "Angland"
+        type: place
+      - name: "Vithor"
+        type: place
+      - name: "Borland"
+        type: polity
+
+  - category: place
+    claim: "Çadrosc is an area of moorland in the northwest of Borland which features a labyrinth built in Kelt times."
+    entities:
+      - name: "Çadrosc"
+        type: place
+      - name: "Borland"
+        type: polity
+
+  - category: place
+    claim: "Lascoum is a small county in central Borland whose coat of arms features a butterfly."
+    entities:
+      - name: "Lascoum"
+        type: place
+      - name: "Borland"
+        type: polity
+
+  - category: place
+    claim: "Southbar is a county in the southwest of Borland which was once an independent kingdom."
+    entities:
+      - name: "Southbar"
+        type: place
+      - name: "Borland"
+        type: polity
+
+  - category: place
+    claim: "Axbane (Ausbagn) is an old Roman town on the south coast of Borland with a surviving historical baths."
+    entities:
+      - name: "Axbane"
+        type: place
+      - name: "Borland"
+        type: polity
+
+  - category: place
+    claim: "Combert is a city in the south-east of Borland and the location of the Borrhatic School of History."
+    entities:
+      - name: "Combert"
+        type: place
+      - name: "Borrhatic School of History"
+        type: organisation
+
+  - category: place
+    claim: "Cordin is the hometown of publisher Cordin Editions, which provides textbooks to schools nationwide."
+    entities:
+      - name: "Cordin"
+        type: place
+      - name: "Cordin Editions"
+        type: organisation
+
+  - category: place
+    claim: "Damvath (Damvað) is the capital city of Borland, located on the river Dam."
+    entities:
+      - name: "Damvath"
+        type: place
+      - name: "Borland"
+        type: polity
+      - name: "Dam River"
+        type: place
+
+  - category: place
+    claim: "Gambrig is a village and monastery noteworthy for its medieval chronicle in a variety of Old English."
+    entities:
+      - name: "Gambrig"
+        type: place
+
+  - category: place
+    claim: "Golfhaun is the site of a medieval monastic community on the isle of Nestu."
+    entities:
+      - name: "Golfhaun"
+        type: place
+      - name: "Nestu"
+        type: place
+
+  - category: place
+    claim: "Haldanvion is a city in the south of Borland known for its alchemical refining mills."
+    entities:
+      - name: "Haldanvion"
+        type: place
+
+  - category: place
+    claim: "Hawkirch (Haukirç) is a town in Angland and the site of the Hawkirch Surrender of 1632."
+    entities:
+      - name: "Hawkirch"
+        type: place
+      - name: "Angland"
+        type: place
+      - name: "Hawkirch Surrender"
+        type: event
+    dates: ["1632 N"]
+
+  - category: place
+    claim: "Humerstoun was in the ninth century the seat of the Petty Kingdom of Sothbar."
+    entities:
+      - name: "Humerstoun"
+        type: place
+      - name: "Sothbar"
+        type: polity
+    dates: ["9th century N"]
+
+  - category: place
+    claim: "Nausçod is a small town near Axbane, the closest inhabited place in Borland to the continent."
+    entities:
+      - name: "Nausçod"
+        type: place
+      - name: "Axbane"
+        type: place
+
+  - category: place
+    claim: "Noccair has the oldest university in Borland, the Noccair Lyceum."
+    entities:
+      - name: "Noccair"
+        type: place
+      - name: "Noccair Lyceum"
+        type: organisation
+
+  - category: place
+    claim: "Pentrose (Pentros) is a port town on the Rustigh Strait with a substantial population of British descent."
+    entities:
+      - name: "Pentrose"
+        type: place
+      - name: "Rustigh Strait"
+        type: place
+
+  - category: place
+    claim: "Vithor (Viðor) is a city on the west coast of Borland known for the New Vithor University."
+    entities:
+      - name: "Vithor"
+        type: place
+      - name: "New Vithor University"
+        type: organisation
+
+  - category: place
+    claim: "The Dam River is a major east-flowing river which empties into the Labbath Sound."
+    entities:
+      - name: "Dam River"
+        type: place
+      - name: "Labbath Sound"
+        type: place
+
+  - category: place
+    claim: "The English Strait (Naur Anglesc) divides the west coast of Borland from the east coast of Albion."
+    entities:
+      - name: "English Strait"
+        type: place
+      - name: "Borland"
+        type: place
+      - name: "Albion"
+        type: place
+
+  - category: place
+    claim: "The Labbath Sound (Bugt Labbað) is a large estuary and bay on the east coast of Borland."
+    entities:
+      - name: "Labbath Sound"
+        type: place
+      - name: "Borland"
+        type: polity
+
+  - category: place
+    claim: "Nestu is the largest island in the Labbath Sound, known for the medieval Golfhaun sanctuary."
+    entities:
+      - name: "Nestu"
+        type: place
+      - name: "Labbath Sound"
+        type: place
+
+  - category: place
+    claim: "The Rustigh Strait (Naur Rustig) is the narrow channel of water separating the southern coast of Borland from the mainland."
+    entities:
+      - name: "Rustigh Strait"
+        type: place
+      - name: "Borland"
+        type: polity
+
+  - category: person
+    claim: "Stiglan of Borland (fl. 810) unified the First Kingdom of Borland with the Petty Kingdom of Angland."
+    entities:
+      - name: "Stiglan of Borland"
+        type: person
+    dates: ["fl. 810 N"]
+
+  - category: person
+    claim: "Marc of Borland (fl. 810) was the first king of a unified Roman Borland and Angland."
+    entities:
+      - name: "Marc of Borland"
+        type: person
+    dates: ["fl. 810 N"]
+
+  - category: person
+    claim: "Victor Rossetus (fl. 500) was the first Prase of the Diocese of Boral and nominal ancestor of the royal dynasties of Borland."
+    entities:
+      - name: "Victor Rossetus"
+        type: person
+      - name: "Diocese of Boral"
+        type: polity
+    dates: ["fl. 500 N"]
+
+  - category: person
+    claim: "Jothey of Borland (fl. 920) fled into exile following the Dane invasion of Borland."
+    entities:
+      - name: "Jothey of Borland"
+        type: person
+    dates: ["fl. 920 N"]
+
+  - category: person
+    claim: "Joseph I (d. 1411) ruled jointly with his wife Natalia I."
+    entities:
+      - name: "Joseph I"
+        type: person
+      - name: "Natalia I"
+        type: person
+    dates: ["1411 N"]
+    relationships:
+      - subject: "Joseph I"
+        predicate: "was husband of"
+        object: "Natalia I"
+
+  - category: person
+    claim: "Natalia I (d. 1416) was the last of her dynasty."
+    entities:
+      - name: "Natalia I"
+        type: person
+    dates: ["1416 N"]
+
+  - category: person
+    claim: "Joseph III (d. 1534) ruled through the ravages of the Second Great Dying."
+    entities:
+      - name: "Joseph III"
+        type: person
+      - name: "Second Great Dying"
+        type: event
+    dates: ["1534 N"]
+
+  - category: person
+    claim: "Brandon II (fl. 1534) instituted Borland's first terrene tax."
+    entities:
+      - name: "Brandon II"
+        type: person
+    dates: ["fl. 1534 N"]
+
+  - category: person
+    claim: "Natalia II abdicated the throne in 1894 as part of Borland's accession into the Drengot Collusion."
+    entities:
+      - name: "Natalia II"
+        type: person
+      - name: "Drengot Collusion"
+        type: polity
+    dates: ["1894 N"]
+
+  - category: person
+    claim: "Queen Brenna of Barrow (fl. 920) was the wife of King Jothey of Borland."
+    entities:
+      - name: "Brenna of Barrow"
+        type: person
+      - name: "Jothey of Borland"
+        type: person
+    dates: ["fl. 920 N"]
+
+  - category: person
+    claim: "Lord Josua, fifth Baron Monçating (fl. 1770) was notable for being embroiled in a decade-long legal dispute over inheritance."
+    entities:
+      - name: "Josua, Baron Monçating"
+        type: person
+    dates: ["fl. 1770 N"]
+
+  - category: person
+    claim: "Lord Simon, sixth Baron Monçating (b. 1770) was an intellectual and early proponent of Deviance Theology."
+    entities:
+      - name: "Simon, Baron Monçating"
+        type: person
+    dates: ["b. 1770 N"]
+
+  - category: person
+    claim: "Count Steign of Sothbar (fl. c12) moved his court from Heitriç to Axbane."
+    entities:
+      - name: "Steign of Sothbar"
+        type: person
+      - name: "Heitriç"
+        type: place
+      - name: "Axbane"
+        type: place
+    dates: ["fl. c12 N"]
+
+  - category: person
+    claim: "Marc Ausbagn (fl. 1830) was a mathematician and pioneer of early sam theory."
+    entities:
+      - name: "Marc Ausbagn"
+        type: person
+    dates: ["fl. 1830 N"]
+
+  - category: person
+    claim: "Michael Bervisson (17th June 1799–12th January 1849) was a political historian and social reformist influential in the Borrhatic League."
+    entities:
+      - name: "Michael Bervisson"
+        type: person
+      - name: "Borrhatic League"
+        type: organisation
+    dates: ["17th June 1799", "12th January 1849"]
+
+  - category: person
+    claim: "Darren Brodus (fl. 1828) was a mathematician of Devoner heritage with a family home in Pentrose."
+    entities:
+      - name: "Darren Brodus"
+        type: person
+      - name: "Pentrose"
+        type: place
+    dates: ["fl. 1828 N"]
+
+  - category: person
+    claim: "Lambord Darrian (fl. c17) was a philosopher at the Vithor New School known for writing on altruism and good works."
+    entities:
+      - name: "Lambord Darrian"
+        type: person
+      - name: "Vithor New School"
+        type: organisation
+    dates: ["fl. c17 N"]
+
+  - category: person
+    claim: "Hostilian (fl. c10) was a medieval Borlish historian and monk who wrote 'Histories of the Borlish Lands'."
+    entities:
+      - name: "Hostilian"
+        type: person
+    dates: ["fl. c10 N"]
+
+  - category: work
+    claim: "'Histories of the Borlish Lands' is a semi-mythic account of the previous five centuries of Borland."
+    entities:
+      - name: "Histories of the Borlish Lands"
+        type: work
+
+  - category: person
+    claim: "Jan Prestr (fl. 1779) was a life theorist and author of 'On the Classification of the Child-Bearing Beasts'."
+    entities:
+      - name: "Jan Prestr"
+        type: person
+    dates: ["fl. 1779 N"]
+
+  - category: work
+    claim: "The Latin title of 'On the Classification of the Child-Bearing Beasts' is 'Discriptione Bestiarum Suboles Ferentis'."
+    entities:
+      - name: "On the Classification of the Child-Bearing Beasts"
+        type: work
+
+  - category: person
+    claim: "Caðoval Thoitom (fl. 1641) coined the phrase 'camin cadarað' to refer to a primrose path."
+    entities:
+      - name: "Caðoval Thoitom"
+        type: person
+    dates: ["fl. 1641 N"]
+
+  - category: terminology
+    claim: "'Camin cadarað' means literally 'distilled track' and refers to a deceptively-easy decision which eventually leads one astray."
+    entities:
+      - name: "camin cadarað"
+        type: concept
+
+  - category: person
+    claim: "Sconet Ydreç (fl. 2008) wrote 'Shepherds of Hambrick: the Small History of Dane Borland'."
+    entities:
+      - name: "Sconet Ydreç"
+        type: person
+    dates: ["fl. 2008 N"]
+
+  - category: person
+    claim: "Halan Drominir (fl. c16) was a poet remembered for 'Red Woodland' ('Verdur Roug')."
+    entities:
+      - name: "Halan Drominir"
+        type: person
+    dates: ["fl. c16 N"]
+
+  - category: work
+    claim: "'Red Woodland' is a narrative poem drawing on Drominir's experiences fighting in the War for the Stavang Crown."
+    entities:
+      - name: "Red Woodland"
+        type: work
+      - name: "Halan Drominir"
+        type: person
+      - name: "War for the Stavang Crown"
+        type: event
+    relationships:
+      - subject: "Halan Drominir"
+        predicate: "wrote"
+        object: "Red Woodland"
+
+  - category: person
+    claim: "Osctra Jeichey (fl. 1887) was a playwright whose most successful work is 'The Spider' ('L'Aragn')."
+    entities:
+      - name: "Osctra Jeichey"
+        type: person
+    dates: ["fl. 1887 N"]
+
+  - category: work
+    claim: "'The Spider' has been translated into over a dozen languages and adapted for film in 1930."
+    entities:
+      - name: "The Spider"
+        type: work
+    dates: ["1930 N"]
+
+  - category: person
+    claim: "Ivocq Messegn (fl. 1687) was a composer known for his opera 'Mountains Yet to Climb' ('Montagn Ja Inscas')."
+    entities:
+      - name: "Ivocq Messegn"
+        type: person
+    dates: ["fl. 1687 N"]
+
+  - category: person
+    claim: "Descard Ausogn (fl. 1929) was an amateur historian remembered for 'Rosy Dawn on Glittering Waves'."
+    entities:
+      - name: "Descard Ausogn"
+        type: person
+    dates: ["fl. 1929 N"]
+
+  - category: work
+    claim: "'Rosy Dawn on Glittering Waves' is a controversial account of the history of seafaring since the Novomundine Landfall."
+    entities:
+      - name: "Rosy Dawn on Glittering Waves"
+        type: work
+
+  - category: person
+    claim: "Dion Becolla (fl. 1968) was a writer of giftales and historical fiction, known for 'Waging World Peace' ('Paç Mondial Accommettent')."
+    entities:
+      - name: "Dion Becolla"
+        type: person
+    dates: ["fl. 1968 N"]
+
+  - category: person
+    claim: "Hadassa Docquerl (fl. 1872) was heiress to the barony of Livaucr."
+    entities:
+      - name: "Hadassa Docquerl"
+        type: person
+      - name: "Livaucr"
+        type: place
+    dates: ["fl. 1872 N"]
+
+  - category: work
+    claim: "Hadassa Docquerl's 'An Incomplete Dictionary of the New London' ('Un Onomatoir Partial dy Novel Londr') is the most famous Vetomundine work from the Futurism period."
+    entities:
+      - name: "An Incomplete Dictionary of the New London"
+        type: work
+      - name: "Hadassa Docquerl"
+        type: person
+    relationships:
+      - subject: "Hadassa Docquerl"
+        predicate: "wrote"
+        object: "An Incomplete Dictionary of the New London"
+
+  - category: person
+    claim: "Carl Havatr (fl. 1981) authored the masquira trevold 'A Question of Identity' ('Identað Partenent')."
+    entities:
+      - name: "Carl Havatr"
+        type: person
+    dates: ["fl. 1981 N"]
+
+  - category: person
+    claim: "Fuyo Jaðom (fl. 1980) was a writer of short stories including 'Saint Stephen's Snowfall' ('Neyanç a Sagnt Stevan')."
+    entities:
+      - name: "Fuyo Jaðom"
+        type: person
+    dates: ["fl. 1980 N"]
+
+  - category: person
+    claim: "Endric Kirennaga (fl. 2009) was a masquira author who wrote 'Apollo on Holiday' ('Apollon Cogmaðer')."
+    entities:
+      - name: "Endric Kirennaga"
+        type: person
+    dates: ["fl. 2009 N"]
+
+  - category: person
+    claim: "Raunsvart Pagcomb (fl. 1912) was a writer of historical tales including 'The Midnight Impostor' ('Y coroncr Kervandal')."
+    entities:
+      - name: "Raunsvart Pagcomb"
+        type: person
+    dates: ["fl. 1912 N"]
+
+  - category: person
+    claim: "Theign Roufler (fl. 2016) was the author of 'From Tablets to Slates: the Story of Education' ('Des Delt vars Dois: Y Stoir d'Education')."
+    entities:
+      - name: "Theign Roufler"
+        type: person
+    dates: ["fl. 2016 N"]
+
+  - category: person
+    claim: "Catrin Veçount (fl. 1970) was a popular historian who wrote 'Conjugation, Operation and Diabolica in Musica'."
+    entities:
+      - name: "Catrin Veçount"
+        type: person
+    dates: ["fl. 1970 N"]
+
+  - category: work
+    claim: "'Conjugation, Operation and Diabolica in Musica' is a review of the early Deviance Movement."
+    entities:
+      - name: "Conjugation, Operation and Diabolica in Musica"
+        type: work
+      - name: "Deviance Movement"
+        type: event
+
+  - category: person
+    claim: "Norrasc Yvauron (fl. 1908) was an early star of the household enigma genre who wrote 'The Emeralds are a Red Herring' ('Y Smaraut son Piescrat')."
+    entities:
+      - name: "Norrasc Yvauron"
+        type: person
+    dates: ["fl. 1908 N"]
+
+  - category: person
+    claim: "Margret Courleon (fl. 1946) was a translator of Roberta Bluemore's 'One Quiet Day'."
+    entities:
+      - name: "Margret Courleon"
+        type: person
+      - name: "One Quiet Day"
+        type: work
+      - name: "Roberta Bluemore"
+        type: person
+    dates: ["fl. 1946 N"]
+
+  - category: person
+    claim: "Gonnilt Dispað (fl. 1920) was a translator who translated, among other works, Clarissa Bellamy's 'A Door, Once Opened'."
+    entities:
+      - name: "Gonnilt Dispað"
+        type: person
+      - name: "A Door, Once Opened"
+        type: work
+      - name: "Clarissa Bellamy"
+        type: person
+    dates: ["fl. 1920 N"]
+
+  - category: person
+    claim: "Michæl Norman (fl. 1901) was a translator from Spanish languages responsible for the Borlish edition of Estevan Mazon's 'The Man from Everywhere'."
+    entities:
+      - name: "Michæl Norman"
+        type: person
+      - name: "The Man from Everywhere"
+        type: work
+      - name: "Estevan Mazon"
+        type: person
+    dates: ["fl. 1901 N"]
+
+  - category: person
+    claim: "Benjamin Rocquot (fl. 1923) was a translator of Dutch works, including 'Let us Dance: The Duchess d'Avosche'."
+    entities:
+      - name: "Benjamin Rocquot"
+        type: person
+      - name: "Let us Dance: The Duchess d'Avosche"
+        type: work
+    dates: ["fl. 1923 N"]
+
+  - category: person
+    claim: "Mahaut Stiver (fl. 1992) was a Mozara translator whose translations include Fernando Sádico's 'An Honest Lie'."
+    entities:
+      - name: "Mahaut Stiver"
+        type: person
+      - name: "An Honest Lie"
+        type: work
+      - name: "Fernando Sádico"
+        type: person
+    dates: ["fl. 1992 N"]
+
+  - category: person
+    claim: "Anscon d'Aupont (fl. 1550) was a sixteenth-century Damvath clothier and regular correspondent of playwright Absolon Mortenszen."
+    entities:
+      - name: "Anscon d'Aupont"
+        type: person
+      - name: "Absolon Mortenszen"
+        type: person
+      - name: "Damvath"
+        type: place
+    dates: ["fl. 1550 N"]
+
+  - category: person
+    claim: "Hilgart Bervisson (fl. c19) was a reformist influential in the Borrhatic League."
+    entities:
+      - name: "Hilgart Bervisson"
+        type: person
+      - name: "Borrhatic League"
+        type: organisation
+    dates: ["fl. c19 N"]
+
+  - category: person
+    claim: "Marc Couvorpeg (fl. c17) was a notorious thief of Vithor immortalised in the 1711 play 'The Foxtail Gang'."
+    entities:
+      - name: "Marc Couvorpeg"
+        type: person
+      - name: "Vithor"
+        type: place
+      - name: "The Foxtail Gang"
+        type: work
+    dates: ["fl. c17 N"]
+
+  - category: person
+    claim: "Brign of Golfhaun (fl. 1240) was the most senior bishop at the Golfhaun Sanctuary for several decades."
+    entities:
+      - name: "Brign of Golfhaun"
+        type: person
+      - name: "Golfhaun Sanctuary"
+        type: place
+    dates: ["fl. 1240 N"]
+
+  - category: person
+    claim: "Stephanus of Golfhaun (fl. 1240) was a monk who transcribed several monastic chants, many in the vernacular Borlish tongue."
+    entities:
+      - name: "Stephanus of Golfhaun"
+        type: person
+      - name: "Golfhaun Sanctuary"
+        type: place
+    dates: ["fl. 1240 N"]
+
+  - category: person
+    claim: "Johan Pamfey (fl. 1971) was a collocker for the Sunday magazine Niacer."
+    entities:
+      - name: "Johan Pamfey"
+        type: person
+      - name: "Niacer"
+        type: work
+    dates: ["fl. 1971 N"]
+
+  - category: person
+    claim: "Tobarus (fl. c8) was a monk in the First Kingdom of Borland attested in monastic records notable for being partly in the vernacular tongue."
+    entities:
+      - name: "Tobarus"
+        type: person
+    dates: ["fl. c8 N"]

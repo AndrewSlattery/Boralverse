@@ -1,0 +1,164 @@
+entry: "5.5"
+title: "The Mysarnos Codex"
+source_work: "The Mysarnos Problem: the Enigma of an Inconvenient Codex"
+claims:
+  - category: work
+    claim: "'The Mysarnos Problem: the Enigma of an Inconvenient Codex' was published in 1943 by the Autonome University of Thessalonica's printers."
+    entities:
+      - name: "The Mysarnos Problem: the Enigma of an Inconvenient Codex"
+        type: work
+      - name: "Autonome University of Thessalonica"
+        type: organisation
+    dates: ["1943"]
+
+  - category: person
+    claim: "'The Mysarnos Problem' was written by classical historian Theodora Riphæna."
+    entities:
+      - name: "Theodora Riphæna"
+        type: person
+      - name: "The Mysarnos Problem: the Enigma of an Inconvenient Codex"
+        type: work
+    relationships:
+      - subject: "Theodora Riphæna"
+        predicate: "wrote"
+        object: "The Mysarnos Problem: the Enigma of an Inconvenient Codex"
+
+  - category: person
+    claim: "Theodora Riphæna studied at the Autonome University of Thessalonica."
+    entities:
+      - name: "Theodora Riphæna"
+        type: person
+      - name: "Autonome University of Thessalonica"
+        type: organisation
+
+  - category: person
+    claim: "Theodora Riphæna is known for compiling centuries-spanning works tracing the journey of a single idea, technology, or artefact."
+    entities:
+      - name: "Theodora Riphæna"
+        type: person
+
+  - category: event
+    claim: "Pages from the Mysarnos Codex were rediscovered in the Library of Sobjan."
+    entities:
+      - name: "Mysarnos Codex"
+        type: work
+      - name: "Library of Sobjan"
+        type: organisation
+    relationships:
+      - subject: "pages from Mysarnos Codex"
+        predicate: "were rediscovered in"
+        object: "Library of Sobjan"
+
+  - category: glossary
+    claim: "Sobjan is the Boralverse name for Pécs, Hungary."
+    entities:
+      - name: "Sobjan"
+        irl: "Pécs, Hungary"
+        type: place
+
+  - category: work
+    claim: "The rediscovered pages from the Library of Sobjan contained the same text written in both Greek and the codex's own script, constituting a key to decipherment."
+    entities:
+      - name: "Mysarnos Codex"
+        type: work
+      - name: "Library of Sobjan"
+        type: organisation
+
+  - category: work
+    claim: "The bilingual text in the rediscovered pages is a fictionalised biography of the author of the Mysarnos Codex."
+    entities:
+      - name: "Mysarnos Codex"
+        type: work
+
+  - category: place
+    claim: "Mysarnos is the former capital of the Principality of Mystra."
+    entities:
+      - name: "Mysarnos"
+        type: place
+      - name: "Principality of Mystra"
+        type: polity
+    relationships:
+      - subject: "Mysarnos"
+        predicate: "was the capital of"
+        object: "Principality of Mystra"
+
+  - category: glossary
+    claim: "The Principality of Mystra corresponds to the IRL Peloponnese region."
+    entities:
+      - name: "Principality of Mystra"
+        irl: "the Peloponnese"
+        type: polity
+
+  - category: polity
+    claim: "The Principality of Mystra was a Roman mordether vassal state from the eleventh century until its dissolution in the seventeenth century as a result of the Romantic Wars."
+    entities:
+      - name: "Principality of Mystra"
+        type: polity
+      - name: "Romantic Wars"
+        type: event
+    dates: ["11th century", "17th century"]
+    relationships:
+      - subject: "Romantic Wars"
+        predicate: "caused the dissolution of"
+        object: "Principality of Mystra"
+
+  - category: terminology
+    claim: "A 'mordether' is a kingdom or similar state on the Mediterranean founded by sojourners from northern Europe, usually excluding those established in the Holy Land as integral parts of crusades."
+    entities:
+      - name: "mordether"
+        type: concept
+
+  - category: language
+    claim: "The term 'mordether' derives from Middle Welsh 'morteth', meaning 'sea voyage'."
+    entities:
+      - name: "mordether"
+        type: concept
+
+  - category: place
+    claim: "The name 'Mysarnos' has retrospectively been applied to a nearby pre-existing Greek town known in antiquity as Pylos, which was later officially incorporated as a municipality of Mysarnos."
+    entities:
+      - name: "Mysarnos"
+        type: place
+      - name: "Pylos"
+        type: place
+    relationships:
+      - subject: "Pylos"
+        predicate: "was incorporated as a municipality of"
+        object: "Mysarnos"
+
+  - category: place
+    claim: "At its height in the sixteenth century, Mysarnos had a population of nearly thirty thousand."
+    entities:
+      - name: "Mysarnos"
+        type: place
+    dates: ["16th century"]
+
+  - category: period
+    claim: "Mysarnos was a hub for the Revitalist movement at its height in the sixteenth century."
+    entities:
+      - name: "Mysarnos"
+        type: place
+      - name: "Revitalist movement"
+        type: period
+    dates: ["16th century"]
+
+  - category: place
+    claim: "Mysarnos is located at the western end of the Athenian Way."
+    entities:
+      - name: "Mysarnos"
+        type: place
+      - name: "Athenian Way"
+        type: place
+
+  - category: economics
+    claim: "Mysarnos received the majority of all trade imports in Greece."
+    entities:
+      - name: "Mysarnos"
+        type: place
+
+  - category: place
+    claim: "A large church complex was completed north of Mysarnos in the sixteenth century."
+    entities:
+      - name: "Mysarnos"
+        type: place
+    dates: ["16th century"]

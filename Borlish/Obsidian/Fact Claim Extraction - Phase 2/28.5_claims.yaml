@@ -1,0 +1,263 @@
+entry: "28.5"
+title: "Saxony and Libya"
+claims:
+  - category: polity
+    claim: "Saxony is a polity in Europe bordering Poland, Willemy, and Bohemia."
+    entities:
+      - name: "Saxony"
+        type: polity
+      - name: "Poland"
+        type: polity
+      - name: "Willemy"
+        type: polity
+      - name: "Bohemia"
+        type: polity
+
+  - category: polity
+    claim: "During the Second Tetrarchy, the Kingdom of Saxony was a major vassal state of the German Empire."
+    entities:
+      - name: "Saxony"
+        type: polity
+      - name: "German Empire"
+        type: polity
+      - name: "Second Tetrarchy"
+        type: period
+
+  - category: polity
+    claim: "The Kingdom of Saxony during the Second Tetrarchy was administered from Bardwick."
+    entities:
+      - name: "Saxony"
+        type: polity
+      - name: "Bardwick"
+        type: place
+
+  - category: polity
+    claim: "Many of the Hohenbrocken dynasty of Saxony ruled the German Empire outright."
+    entities:
+      - name: "Hohenbrocken"
+        type: group
+      - name: "German Empire"
+        type: polity
+      - name: "Saxony"
+        type: polity
+
+  - category: polity
+    claim: "The twelfth century is characterised by tensions between Saxony and Bavarn, the two major vassal kingdoms of the German Empire."
+    entities:
+      - name: "Saxony"
+        type: polity
+      - name: "Bavarn"
+        type: polity
+      - name: "German Empire"
+        type: polity
+    dates: ["12th century N"]
+
+  - category: event
+    claim: "The collapse of the Second Tetrarchy in the thirteenth century affected the Kingdom of Saxony."
+    entities:
+      - name: "Saxony"
+        type: polity
+      - name: "Second Tetrarchy"
+        type: period
+    dates: ["13th century N"]
+
+  - category: polity
+    claim: "After the collapse of the Second Tetrarchy, the nascent Stadbund of mercantile cities in the north seceded, reducing Saxony to its lands upstream in Maidburg and Lepzi."
+    entities:
+      - name: "Saxony"
+        type: polity
+      - name: "Stadbund"
+        type: polity
+      - name: "Maidburg"
+        type: place
+      - name: "Lepzi"
+        type: place
+
+  - category: polity
+    claim: "Saxony is considered to have profited most from the First German War, after which it controlled more territory than at any point in its history."
+    entities:
+      - name: "Saxony"
+        type: polity
+      - name: "First German War"
+        type: event
+
+  - category: organisation
+    claim: "In the nineteenth century, the Blue Marian Society spearheaded movements for reform to inheritance and suffrage laws."
+    entities:
+      - name: "Blue Marian Society"
+        type: organisation
+    dates: ["19th century N"]
+
+  - category: organisation
+    claim: "The Blue Marian Society was founded in Lepzi."
+    entities:
+      - name: "Blue Marian Society"
+        type: organisation
+      - name: "Lepzi"
+        type: place
+
+  - category: person
+    claim: "Brunow III (fl. 1120) ruled the German Empire jointly with King Conrad II of Bavarn."
+    entities:
+      - name: "Brunow III"
+        type: person
+      - name: "Conrad II of Bavarn"
+        type: person
+      - name: "German Empire"
+        type: polity
+    dates: ["fl. 1120 N"]
+
+  - category: person
+    claim: "Ruprecht II (fl. 1200) was king of Saxony and under his rule Bardwick removed many tariffs on imported goods."
+    entities:
+      - name: "Ruprecht II"
+        type: person
+      - name: "Bardwick"
+        type: place
+    dates: ["fl. 1200 N"]
+
+  - category: person
+    claim: "Baldur (b. 1295) was deposed as king of Saxony and reduced to Margrave of Maidburg at the age of four."
+    entities:
+      - name: "Baldur"
+        type: person
+      - name: "Saxony"
+        type: polity
+      - name: "Maidburg"
+        type: place
+    dates: ["b. 1295 N"]
+
+  - category: person
+    claim: "Johans Dümmeyer (fl. 1827) was a mathematician whose work 'Sets and Functions' attempted to resolve ongoing definitional debates in the community."
+    entities:
+      - name: "Johans Dümmeyer"
+        type: person
+      - name: "Sets and Functions"
+        type: work
+    dates: ["fl. 1827 N"]
+
+  - category: person
+    claim: "Witkind Defenter (fl. 1902) wrote 'Cities of the Corvine Concert before the Landfall' on behalf of the Bardick Library of Trade."
+    entities:
+      - name: "Witkind Defenter"
+        type: person
+      - name: "Cities of the Corvine Concert before the Landfall"
+        type: work
+      - name: "Bardick Library of Trade"
+        type: organisation
+    dates: ["fl. 1902 N"]
+
+  - category: person
+    claim: "Elke Hannawald (fl. 1946) was a writer during the Spring Tide of masquira works, known for her trevold 'Outrun the Dawn'."
+    entities:
+      - name: "Elke Hannawald"
+        type: person
+      - name: "Outrun the Dawn"
+        type: work
+    dates: ["fl. 1946 N"]
+
+  - category: person
+    claim: "Elsebeth Sneider (m. 1772, d. c1830) was a pioneer of the genre of parachthon romance."
+    entities:
+      - name: "Elsebeth Sneider"
+        type: person
+    dates: ["m. 1772 N", "d. c1830 N"]
+
+  - category: work
+    claim: "Elsebeth Sneider's pioneer parachthon romance work is 'Through a Black Mirror'."
+    entities:
+      - name: "Elsebeth Sneider"
+        type: person
+      - name: "Through a Black Mirror"
+        type: work
+    relationships:
+      - subject: "Elsebeth Sneider"
+        predicate: "wrote"
+        object: "Through a Black Mirror"
+
+  - category: polity
+    claim: "Libya is a Middlesea polity on the north coast of Africa, located between Morrack to the west and Egypt to the east."
+    entities:
+      - name: "Libya"
+        type: polity
+      - name: "Africa"
+        type: place
+      - name: "Morrack"
+        type: polity
+      - name: "Egypt"
+        type: polity
+
+  - category: polity
+    claim: "During the Second Tetrarchy, Libya was known as Ifricia and was an important admiralty of the Single Caliphate, ruled from Tunis."
+    entities:
+      - name: "Libya"
+        type: polity
+      - name: "Ifricia"
+        type: polity
+      - name: "Single Caliphate"
+        type: polity
+      - name: "Tunis"
+        type: place
+      - name: "Second Tetrarchy"
+        type: period
+
+  - category: event
+    claim: "An independent admiralty in Libya was declared in 1237, at the same time as the Maghrebi admiralty to the west."
+    entities:
+      - name: "Libya"
+        type: polity
+      - name: "Maghreb"
+        type: polity
+    dates: ["1237 N"]
+
+  - category: economics
+    claim: "In the sixteenth century, seamen from Libya were commonly employed in the merchant fleets of Morrack and Provence."
+    entities:
+      - name: "Libya"
+        type: polity
+      - name: "Morrack"
+        type: polity
+      - name: "Provence"
+        type: polity
+    dates: ["16th century N"]
+
+  - category: culture
+    claim: "In the early seventeenth century, the banner of Libya comprised two black fields, one white and one orange."
+    entities:
+      - name: "Libya"
+        type: polity
+    dates: ["early 17th century N"]
+
+  - category: event
+    claim: "Libya warred intermittently with Morrack in the early seventeenth century over control of trade into the eastern Middlesea."
+    entities:
+      - name: "Libya"
+        type: polity
+      - name: "Morrack"
+        type: polity
+    dates: ["early 17th century N"]
+
+  - category: economics
+    claim: "In the modern day, Libya is a significant refiner and exporter of cuproses."
+    entities:
+      - name: "Libya"
+        type: polity
+
+  - category: person
+    claim: "Hisham Ar-Rashid (r. 1601–10) was ruler of Libya, whose reign is notable for inspiring the political terms 'copperplate' and 'tinplate'."
+    entities:
+      - name: "Hisham Ar-Rashid"
+        type: person
+      - name: "Libya"
+        type: polity
+    dates: ["1601 N", "1610 N"]
+
+  - category: terminology
+    claim: "The political terms 'copperplate' and 'tinplate' were inspired by the reign of Hisham Ar-Rashid of Libya."
+    entities:
+      - name: "copperplate"
+        type: concept
+      - name: "tinplate"
+        type: concept
+      - name: "Hisham Ar-Rashid"
+        type: person

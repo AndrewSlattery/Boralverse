@@ -1,0 +1,400 @@
+entry: "21.5"
+title: "Kent"
+claims:
+  - category: polity
+    claim: "Kent was formally known as the Bond of Kent and Normandy."
+    entities:
+      - name: "Kent"
+        type: polity
+      - name: "Bond of Kent and Normandy"
+        type: polity
+
+  - category: polity
+    claim: "The Rone French name for the Bond of Kent and Normandy is 'The Bond de Caint od Normandy'."
+    entities:
+      - name: "Bond of Kent and Normandy"
+        type: polity
+
+  - category: polity
+    claim: "Kent was a state in southern Albion and northern Gaul."
+    entities:
+      - name: "Kent"
+        type: polity
+      - name: "Albion"
+        type: place
+      - name: "Gaul"
+        type: place
+
+  - category: polity
+    claim: "In the first millennium, Kent was first an independent English kingdom."
+    entities:
+      - name: "Kent"
+        type: polity
+    dates: ["first millennium"]
+
+  - category: polity
+    claim: "Kent became a vassal of Wessex through its ascension and decline."
+    entities:
+      - name: "Kent"
+        type: polity
+      - name: "Wessex"
+        type: polity
+    relationships:
+      - subject: "Kent"
+        predicate: "was vassal of"
+        object: "Wessex"
+
+  - category: polity
+    claim: "Kent gained power and some autonomy as Wessex's might diminished."
+    entities:
+      - name: "Kent"
+        type: polity
+      - name: "Wessex"
+        type: polity
+
+  - category: polity
+    claim: "Essex was similarly-positioned to Kent."
+    entities:
+      - name: "Essex"
+        type: polity
+      - name: "Kent"
+        type: polity
+
+  - category: polity
+    claim: "Essex had a long enmity with Kent."
+    entities:
+      - name: "Essex"
+        type: polity
+      - name: "Kent"
+        type: polity
+
+  - category: person
+    claim: "Athelwolf was king of Essex."
+    entities:
+      - name: "Athelwolf"
+        type: person
+      - name: "Essex"
+        type: polity
+
+  - category: event
+    claim: "King Athelwolf of Essex mounted the most successful attempted conquest of Kent in the tenth century."
+    entities:
+      - name: "Athelwolf"
+        type: person
+      - name: "Essex"
+        type: polity
+      - name: "Kent"
+        type: polity
+    dates: ["10th century"]
+
+  - category: person
+    claim: "In the tenth century, King Jothey of Borland arrived in Kent with his queen and children."
+    entities:
+      - name: "Jothey"
+        type: person
+      - name: "Borland"
+        type: polity
+      - name: "Kent"
+        type: polity
+    dates: ["10th century"]
+
+  - category: person
+    claim: "King Jothey was twice-exiled from Borland and Sothbar following the Dane invasions of the island."
+    entities:
+      - name: "Jothey"
+        type: person
+      - name: "Borland"
+        type: polity
+      - name: "Sothbar"
+        type: polity
+
+  - category: polity
+    claim: "Normandy was formed from Dane settlements in the north of Gaul in the ninth and tenth centuries."
+    entities:
+      - name: "Normandy"
+        type: polity
+      - name: "Gaul"
+        type: place
+    dates: ["9th century", "10th century"]
+
+  - category: polity
+    claim: "By the eleventh century Normandy had been established as a vassal of the Kingdom of the Franks as the Duchy of Normandy."
+    entities:
+      - name: "Normandy"
+        type: polity
+      - name: "Kingdom of the Franks"
+        type: polity
+    dates: ["11th century"]
+
+  - category: polity
+    claim: "The Duchy of Normandy was ruled by the Drengot family."
+    entities:
+      - name: "Normandy"
+        type: polity
+      - name: "Drengot family"
+        type: group
+
+  - category: polity
+    claim: "Normandy stretched from the Vire river in the west to Flanders in the east."
+    entities:
+      - name: "Normandy"
+        type: polity
+      - name: "Vire river"
+        type: place
+      - name: "Flanders"
+        type: place
+
+  - category: event
+    claim: "Norman in-migration southward to found towns such as Thelmass continued for some centuries."
+    entities:
+      - name: "Thelmass"
+        type: place
+
+  - category: event
+    claim: "As the Dane Supremacy in the north waned in the tenth century, many left Sodrick and other Danish lands to the relative prosperity of Normandy."
+    entities:
+      - name: "Dane Supremacy"
+        type: period
+      - name: "Sodrick"
+        type: polity
+      - name: "Normandy"
+        type: polity
+    dates: ["10th century"]
+
+  - category: event
+    claim: "Norman ships participated in raids along the coasts of Europe through the tenth century."
+    entities:
+      - name: "Normandy"
+        type: polity
+    dates: ["10th century"]
+
+  - category: event
+    claim: "Norman raids reached as far afield as Marsella in 946."
+    entities:
+      - name: "Marsella"
+        type: place
+    dates: ["946 N"]
+
+  - category: event
+    claim: "The political union of English Kent with Normandy began in 1029 with the Norman-led subjugation of the Petty Kingdom of Kent."
+    entities:
+      - name: "Kent"
+        type: polity
+      - name: "Normandy"
+        type: polity
+    dates: ["1029 N"]
+
+  - category: terminology
+    claim: "The political union of Kent with Normandy is called the Kernovan Conjuring."
+    entities:
+      - name: "Kent"
+        type: polity
+      - name: "Normandy"
+        type: polity
+
+  - category: event
+    claim: "The Norman-led subjugation of Kent was the first step in the creation of the First Drengotian Empire."
+    entities:
+      - name: "Kent"
+        type: polity
+      - name: "First Drengotian Empire"
+        type: polity
+
+  - category: polity
+    claim: "The First Drengotian Empire is also called the Constant Empire."
+    entities:
+      - name: "First Drengotian Empire"
+        type: polity
+      - name: "Constant Empire"
+        type: polity
+
+  - category: event
+    claim: "The Norman invasion of Kent was triggered by the death of the elderly patriarch Rodulf of Kent."
+    entities:
+      - name: "Rodulf of Kent"
+        type: person
+      - name: "Kent"
+        type: polity
+
+  - category: person
+    claim: "Rodulf of Kent had ruled since childhood for nearly eight decades."
+    entities:
+      - name: "Rodulf of Kent"
+        type: person
+
+  - category: event
+    claim: "During the Wars of Fealty in the late fifteenth century, Kent was ruled by the Two Henries."
+    entities:
+      - name: "Wars of Fealty"
+        type: event
+      - name: "Kent"
+        type: polity
+      - name: "Two Henries"
+        type: person
+    dates: ["late 15th century"]
+
+  - category: person
+    claim: "The Two Henries were the twin first-born sons of Vincent II."
+    entities:
+      - name: "Two Henries"
+        type: person
+      - name: "Vincent II"
+        type: person
+    relationships:
+      - subject: "Two Henries"
+        predicate: "were sons of"
+        object: "Vincent II"
+
+  - category: event
+    claim: "Kent came to a rapprochement with France to its south in the 1590s."
+    entities:
+      - name: "Kent"
+        type: polity
+      - name: "France"
+        type: polity
+    dates: ["1590s"]
+
+  - category: event
+    claim: "The Wars of Fealty were becoming increasingly tangled and expensive by the 1590s."
+    entities:
+      - name: "Wars of Fealty"
+        type: event
+    dates: ["1590s"]
+
+  - category: polity
+    claim: "Kent was a political centre of the Drengot Collusion of the late nineteenth and twentieth centuries."
+    entities:
+      - name: "Kent"
+        type: polity
+      - name: "Drengot Collusion"
+        type: polity
+    dates: ["late 19th century", "20th century"]
+
+  - category: place
+    claim: "The cities of London and Paris were political centres of the Drengot Collusion alongside Kent."
+    entities:
+      - name: "London"
+        type: place
+      - name: "Paris"
+        type: place
+      - name: "Kent"
+        type: polity
+      - name: "Drengot Collusion"
+        type: polity
+
+  - category: place
+    claim: "Many governmental buildings of the Drengot Collusion were located in Rone."
+    entities:
+      - name: "Rone"
+        type: place
+      - name: "Drengot Collusion"
+        type: polity
+
+  - category: organisation
+    claim: "The Red House was the popular name for the Kentish Ministry for Information."
+    entities:
+      - name: "Red House"
+        type: organisation
+      - name: "Kentish Ministry for Information"
+        type: organisation
+
+  - category: event
+    claim: "The activities of the Red House precipitated the Furore of 1961."
+    entities:
+      - name: "Red House"
+        type: organisation
+      - name: "Furore of 1961"
+        type: event
+    dates: ["1961"]
+
+  - category: event
+    claim: "The Furore of 1961 led to the collapse of leader Darchild's tinplate administration."
+    entities:
+      - name: "Furore of 1961"
+        type: event
+      - name: "Darchild"
+        type: person
+    dates: ["1961"]
+
+  - category: terminology
+    claim: "Darchild had a tinplate administration."
+    entities:
+      - name: "Darchild"
+        type: person
+
+  - category: event
+    claim: "The collapse of Darchild's administration occurred via the Darchild memorandum."
+    entities:
+      - name: "Darchild"
+        type: person
+      - name: "Darchild memorandum"
+        type: event
+
+  - category: event
+    claim: "The collapse of Darchild's administration led to the collapse of the entire Drengot Collusion."
+    entities:
+      - name: "Darchild"
+        type: person
+      - name: "Drengot Collusion"
+        type: polity
+
+  - category: event
+    claim: "The dissolution of the Drengot Collusion inspired the Kentish ostracon reforms."
+    entities:
+      - name: "Drengot Collusion"
+        type: polity
+      - name: "Kentish ostracon reforms"
+        type: event
+
+  - category: event
+    claim: "The Kentish ostracon reforms were subsequently used as a model in several polities around the globe."
+    entities:
+      - name: "Kentish ostracon reforms"
+        type: event
+
+  - category: culture
+    claim: "Kent's professional lineball team won the global tournament only once, in 1965."
+    entities:
+      - name: "Kent"
+        type: polity
+    dates: ["1965"]
+
+  - category: person
+    claim: "Jan Tacqueray was a historian and linguist from Kent."
+    entities:
+      - name: "Jan Tacqueray"
+        type: person
+      - name: "Kent"
+        type: polity
+
+  - category: person
+    claim: "Jockin Abiscander was a deixist historian and author from Kent."
+    entities:
+      - name: "Jockin Abiscander"
+        type: person
+      - name: "Kent"
+        type: polity
+
+  - category: person
+    claim: "Mark Deuthex was an author and intelligence agent from Kent."
+    entities:
+      - name: "Mark Deuthex"
+        type: person
+      - name: "Kent"
+        type: polity
+
+  - category: person
+    claim: "Vincent Margouille was an author and professional lineball player from Kent."
+    entities:
+      - name: "Vincent Margouille"
+        type: person
+      - name: "Kent"
+        type: polity
+
+  - category: person
+    claim: "Vréqueu Margouille was a professional lineball player from Kent."
+    entities:
+      - name: "Vréqueu Margouille"
+        type: person
+      - name: "Kent"
+        type: polity

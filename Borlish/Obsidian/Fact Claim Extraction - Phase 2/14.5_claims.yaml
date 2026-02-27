@@ -1,0 +1,376 @@
+entry: "14.5"
+title: "Ambrose III of Vascony"
+claims:
+  - category: person
+    claim: "Ambrose III lived from 17 March 1435 to 28 February 1518."
+    entities:
+      - name: "Ambrose III"
+        type: person
+    dates: ["17 March 1435", "28 February 1518"]
+
+  - category: person
+    claim: "Ambrose III is also called Ambrose the Ascendant."
+    entities:
+      - name: "Ambrose III"
+        type: person
+      - name: "Ambrose the Ascendant"
+        type: person
+
+  - category: person
+    claim: "Ambrose III ruled the Vascon Kingdom of Navar and Aquitain (Vascony) from 1456 until his death."
+    entities:
+      - name: "Ambrose III"
+        type: person
+      - name: "Vascon Kingdom of Navar and Aquitain"
+        type: polity
+      - name: "Vascony"
+        type: polity
+    dates: ["1456"]
+
+  - category: person
+    claim: "Ambrose III died at the age of 83."
+    entities:
+      - name: "Ambrose III"
+        type: person
+
+  - category: person
+    claim: "Prince Mark of Tolose was the father of Ambrose III."
+    entities:
+      - name: "Prince Mark of Tolose"
+        type: person
+      - name: "Ambrose III"
+        type: person
+    relationships:
+      - subject: "Prince Mark of Tolose"
+        predicate: "was father of"
+        object: "Ambrose III"
+
+  - category: person
+    claim: "Prince Mark of Tolose predeceased Ambrose III in 1453."
+    entities:
+      - name: "Prince Mark of Tolose"
+        type: person
+      - name: "Ambrose III"
+        type: person
+    dates: ["1453"]
+
+  - category: person
+    claim: "Ambrose III was 18 years old when his father died."
+    entities:
+      - name: "Ambrose III"
+        type: person
+
+  - category: person
+    claim: "Ambrose II was the grandfather of Ambrose III."
+    entities:
+      - name: "Ambrose II"
+        type: person
+      - name: "Ambrose III"
+        type: person
+    relationships:
+      - subject: "Ambrose II"
+        predicate: "was grandfather of"
+        object: "Ambrose III"
+
+  - category: person
+    claim: "Ambrose III ascended to the throne upon the death of his grandfather Ambrose II, three years after his father's death."
+    entities:
+      - name: "Ambrose III"
+        type: person
+      - name: "Ambrose II"
+        type: person
+    dates: ["1456"]
+
+  - category: event
+    claim: "The Avalot Planzo was a brief and swiftly-resolved event following Ambrose II's death."
+    entities:
+      - name: "Avalot Planzo"
+        type: event
+      - name: "Ambrose II"
+        type: person
+
+  - category: polity
+    claim: "At the start of Ambrose III's reign, Vascony was at its territorial maximum."
+    entities:
+      - name: "Ambrose III"
+        type: person
+      - name: "Vascony"
+        type: polity
+    dates: ["1456"]
+
+  - category: event
+    claim: "Vascony conquered northern Portingale during the reign of Ambrose II."
+    entities:
+      - name: "Vascony"
+        type: polity
+      - name: "Portingale"
+        type: polity
+      - name: "Ambrose II"
+        type: person
+    relationships:
+      - subject: "Vascony"
+        predicate: "conquered"
+        object: "northern Portingale"
+
+  - category: place
+    claim: "Northern Portingale included all of Galice."
+    entities:
+      - name: "Portingale"
+        type: polity
+      - name: "Galice"
+        type: place
+
+  - category: place
+    claim: "Northern Portingale extended as far south as Braga."
+    entities:
+      - name: "Portingale"
+        type: polity
+      - name: "Braga"
+        type: place
+
+  - category: place
+    claim: "Northern Portingale nominally included Calès."
+    entities:
+      - name: "Portingale"
+        type: polity
+      - name: "Calès"
+        type: place
+
+  - category: event
+    claim: "Vascony conquered southern Burgundy during the reign of Ambrose II."
+    entities:
+      - name: "Vascony"
+        type: polity
+      - name: "Burgundy"
+        type: polity
+      - name: "Ambrose II"
+        type: person
+    relationships:
+      - subject: "Vascony"
+        predicate: "conquered"
+        object: "southern Burgundy"
+
+  - category: place
+    claim: "Southern Burgundy means enough of Provence to share a border with the Italian states of Jeans and Lombardy."
+    entities:
+      - name: "Burgundy"
+        type: polity
+      - name: "Provence"
+        type: place
+      - name: "Jeans"
+        type: polity
+      - name: "Lombardy"
+        type: polity
+
+  - category: event
+    claim: "The European discovery of the Novomund occurred in 1471."
+    entities:
+      - name: "Novomund"
+        type: place
+    dates: ["1471"]
+
+  - category: event
+    claim: "The Novomund was discovered by ships of the New Navarre Enterprise."
+    entities:
+      - name: "Novomund"
+        type: place
+      - name: "New Navarre Enterprise"
+        type: organisation
+
+  - category: organisation
+    claim: "The New Navarre Enterprise is a guild established by royal decree in 1458."
+    entities:
+      - name: "New Navarre Enterprise"
+        type: organisation
+    dates: ["1458"]
+
+  - category: organisation
+    claim: "The New Navarre Enterprise aimed primarily to solidify Vascon supremacy in the trade of North Atlantic fish through the Middlesea."
+    entities:
+      - name: "New Navarre Enterprise"
+        type: organisation
+      - name: "Vascony"
+        type: polity
+
+  - category: polity
+    claim: "British dominion over the Atlantic had long frustrated Vask fishing families."
+    entities:
+      - name: "Vascony"
+        type: polity
+
+  - category: culture
+    claim: "Vask fishing families still predominated in the aristocracy and held significant political power in Ambrose III's court."
+    entities:
+      - name: "Ambrose III"
+        type: person
+
+  - category: event
+    claim: "The Novomundine Landfall brought new prosperity to Vascony, and in particular to Portingale."
+    entities:
+      - name: "Novomundine Landfall"
+        type: event
+      - name: "Vascony"
+        type: polity
+      - name: "Portingale"
+        type: polity
+
+  - category: period
+    claim: "Most historians mark the Vascon Ascendancy as beginning near the turn of the fifteenth century."
+    entities:
+      - name: "Vascon Ascendancy"
+        type: period
+    dates: ["turn of the 15th century"]
+
+  - category: period
+    claim: "The Vascon Ascendancy reached its height following the Novomundine Landfall."
+    entities:
+      - name: "Vascon Ascendancy"
+        type: period
+      - name: "Novomundine Landfall"
+        type: event
+
+  - category: person
+    claim: "Munir al-Hamdawi was King of Morrack."
+    entities:
+      - name: "Munir al-Hamdawi"
+        type: person
+      - name: "Morrack"
+        type: polity
+
+  - category: person
+    claim: "Munir al-Hamdawi was born in 1429."
+    entities:
+      - name: "Munir al-Hamdawi"
+        type: person
+    dates: ["1429"]
+
+  - category: person
+    claim: "Munir al-Hamdawi reigned for a comparable length of time to Ambrose III."
+    entities:
+      - name: "Munir al-Hamdawi"
+        type: person
+      - name: "Ambrose III"
+        type: person
+
+  - category: person
+    claim: "Ambrose III had a long and acrimonious relationship with Munir al-Hamdawi."
+    entities:
+      - name: "Ambrose III"
+        type: person
+      - name: "Munir al-Hamdawi"
+        type: person
+
+  - category: person
+    claim: "Ambrose III's relationship with Munir al-Hamdawi grew from a childhood enmity to a bitter naval and martial feud."
+    entities:
+      - name: "Ambrose III"
+        type: person
+      - name: "Munir al-Hamdawi"
+        type: person
+
+  - category: event
+    claim: "The rest of Portingale fell to Morrack in 1457."
+    entities:
+      - name: "Portingale"
+        type: polity
+      - name: "Morrack"
+        type: polity
+    dates: ["1457 N"]
+    relationships:
+      - subject: "Morrack"
+        predicate: "conquered"
+        object: "the rest of Portingale"
+
+  - category: event
+    claim: "The Kingdom of Burgundy retook Provence in 1494."
+    entities:
+      - name: "Kingdom of Burgundy"
+        type: polity
+      - name: "Provence"
+        type: place
+    dates: ["1494"]
+
+  - category: event
+    claim: "The retaking of Provence sparked the 1497-99 War of Provincial Independence."
+    entities:
+      - name: "Provence"
+        type: place
+      - name: "War of Provincial Independence"
+        type: event
+    dates: ["1497-99"]
+
+  - category: event
+    claim: "A decade after 1494, the remainder of Vascony's Middlesea coast was taken by Barcelon."
+    entities:
+      - name: "Vascony"
+        type: polity
+      - name: "Barcelon"
+        type: polity
+    dates: ["c. 1504"]
+    relationships:
+      - subject: "Barcelon"
+        predicate: "took"
+        object: "Vascony's Middlesea coast"
+
+  - category: person
+    claim: "Ambrose III was the eldest son of Prince Mark of Tolose and Margaret of Iscombe."
+    entities:
+      - name: "Ambrose III"
+        type: person
+      - name: "Prince Mark of Tolose"
+        type: person
+      - name: "Margaret of Iscombe"
+        type: person
+    relationships:
+      - subject: "Ambrose III"
+        predicate: "was son of"
+        object: "Prince Mark of Tolose"
+      - subject: "Ambrose III"
+        predicate: "was son of"
+        object: "Margaret of Iscombe"
+
+  - category: person
+    claim: "Ambrose III had a sister, Princess Alexandra."
+    entities:
+      - name: "Ambrose III"
+        type: person
+      - name: "Princess Alexandra"
+        type: person
+    relationships:
+      - subject: "Princess Alexandra"
+        predicate: "was sister of"
+        object: "Ambrose III"
+
+  - category: person
+    claim: "Ambrose III had two younger siblings: Prince Victor of Astorga and Princess Natalia."
+    entities:
+      - name: "Ambrose III"
+        type: person
+      - name: "Prince Victor of Astorga"
+        type: person
+      - name: "Princess Natalia"
+        type: person
+
+  - category: person
+    claim: "Ambrose III never married."
+    entities:
+      - name: "Ambrose III"
+        type: person
+
+  - category: person
+    claim: "Ambrose III's not marrying was partly the cause of instability that plagued his later years."
+    entities:
+      - name: "Ambrose III"
+        type: person
+
+  - category: person
+    claim: "Ambrose III is thought to have kept several lovers throughout his life."
+    entities:
+      - name: "Ambrose III"
+        type: person
+
+  - category: person
+    claim: "There is no unimpeachable proof that any of the proposed candidates were Ambrose III's lover."
+    entities:
+      - name: "Ambrose III"
+        type: person

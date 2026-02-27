@@ -1,0 +1,277 @@
+entry: "17.5"
+title: "Significant Figures"
+claims:
+  - category: person
+    claim: "Princess Alexandra was active around 1471."
+    entities:
+      - name: "Princess Alexandra"
+        type: person
+    dates: ["fl. 1471"]
+
+  - category: person
+    claim: "Princess Alexandra is also known as Sandra."
+    entities:
+      - name: "Princess Alexandra"
+        type: person
+      - name: "Sandra"
+        type: person
+
+  - category: person
+    claim: "Princess Alexandra was the elder sister of King Ambrose III of Vascony."
+    entities:
+      - name: "Princess Alexandra"
+        type: person
+      - name: "Ambrose III"
+        type: person
+    relationships:
+      - subject: "Princess Alexandra"
+        predicate: "was elder sister of"
+        object: "Ambrose III"
+
+  - category: person
+    claim: "Princess Alexandra is principally remembered for being the first Vetomundine royal to set foot in the Novomund."
+    entities:
+      - name: "Princess Alexandra"
+        type: person
+      - name: "Novomund"
+        type: place
+
+  - category: glossary
+    claim: "Sandrine is the Boralverse term for Vitamin C."
+    entities:
+      - name: "sandrine"
+        irl: "Vitamin C"
+        type: concept
+
+  - category: terminology
+    claim: "The chemical sandrine is named for Princess Alexandra."
+    entities:
+      - name: "sandrine"
+        type: concept
+      - name: "Princess Alexandra"
+        type: person
+
+  - category: event
+    claim: "Princess Alexandra's voyage advanced the understanding of the counter-scurvic effect of sandrine-rich foods like citrus fruits."
+    entities:
+      - name: "Princess Alexandra"
+        type: person
+      - name: "sandrine"
+        type: concept
+
+  - category: person
+    claim: "Princess Alexandra was married at least twice."
+    entities:
+      - name: "Princess Alexandra"
+        type: person
+
+  - category: person
+    claim: "Princess Alexandra's second marriage began during the Wars of Fealty but before her famed voyage."
+    entities:
+      - name: "Princess Alexandra"
+        type: person
+      - name: "Wars of Fealty"
+        type: event
+
+  - category: person
+    claim: "Princess Alexandra's second marriage had issue."
+    entities:
+      - name: "Princess Alexandra"
+        type: person
+
+  - category: person
+    claim: "David was active around 1590."
+    entities:
+      - name: "David"
+        type: person
+    dates: ["fl. 1590"]
+
+  - category: person
+    claim: "David was king of France."
+    entities:
+      - name: "David"
+        type: person
+      - name: "France"
+        type: polity
+
+  - category: person
+    claim: "David was dogged by rumours that he was the son of Duchess Adaillé d'Avosche from before his accession to the throne until his death."
+    entities:
+      - name: "David"
+        type: person
+      - name: "Adaillé d'Avosche"
+        type: person
+
+  - category: person
+    claim: "Duchess Adaillé d'Avosche's influence on David's court was noted and derided by contemporary commentators."
+    entities:
+      - name: "Adaillé d'Avosche"
+        type: person
+      - name: "David"
+        type: person
+
+  - category: event
+    claim: "A scandal involving Duchess Adaillé d'Avosche occurred in 1589."
+    entities:
+      - name: "Adaillé d'Avosche"
+        type: person
+    dates: ["1589"]
+
+  - category: event
+    claim: "Shortly after the 1589 scandal, David gained more political independence."
+    entities:
+      - name: "David"
+        type: person
+    dates: ["1589"]
+
+  - category: event
+    claim: "David began to institute centralisation policies in France, inspired by parallel developments across Europe."
+    entities:
+      - name: "David"
+        type: person
+      - name: "France"
+        type: polity
+
+  - category: event
+    claim: "David's centralisation policies increased his own power at the expense of his ducal and comital vassals."
+    entities:
+      - name: "David"
+        type: person
+
+  - category: person
+    claim: "Joseph III died in 1534."
+    entities:
+      - name: "Joseph III"
+        type: person
+    dates: ["1534"]
+
+  - category: person
+    claim: "Joseph III was king of Borland."
+    entities:
+      - name: "Joseph III"
+        type: person
+      - name: "Borland"
+        type: polity
+
+  - category: person
+    claim: "Joseph III is remembered for ruling the kingdom through the ravages of the Second Great Dying."
+    entities:
+      - name: "Joseph III"
+        type: person
+      - name: "Second Great Dying"
+        type: event
+
+  - category: person
+    claim: "Joseph III never succeeded in producing a natural-born heir, despite several recognised yet illegitimate children by his various mistresses."
+    entities:
+      - name: "Joseph III"
+        type: person
+
+  - category: person
+    claim: "Brandon II was the nephew of Joseph III."
+    entities:
+      - name: "Brandon II"
+        type: person
+      - name: "Joseph III"
+        type: person
+    relationships:
+      - subject: "Brandon II"
+        predicate: "was nephew of"
+        object: "Joseph III"
+
+  - category: person
+    claim: "Brandon II succeeded Joseph III to the throne after his death in 1534."
+    entities:
+      - name: "Brandon II"
+        type: person
+      - name: "Joseph III"
+        type: person
+    dates: ["1534"]
+    relationships:
+      - subject: "Brandon II"
+        predicate: "succeeded"
+        object: "Joseph III"
+
+  - category: person
+    claim: "Laurz Arnoutszen was active around 1540."
+    entities:
+      - name: "Laurz Arnoutszen"
+        type: person
+    dates: ["fl. 1540"]
+
+  - category: person
+    claim: "Laurz Arnoutszen was a Danish physician."
+    entities:
+      - name: "Laurz Arnoutszen"
+        type: person
+
+  - category: person
+    claim: "Laurz Arnoutszen's work in sanitation shaped the course of European medical history."
+    entities:
+      - name: "Laurz Arnoutszen"
+        type: person
+
+  - category: person
+    claim: "In the context of medicine one can speak of pre-Arnoutszen and post-Arnoutszen Europe."
+    entities:
+      - name: "Laurz Arnoutszen"
+        type: person
+
+  - category: person
+    claim: "Laurz Arnoutszen collaborated with his cousin Elisa Arnoutszen at some point after 1535."
+    entities:
+      - name: "Laurz Arnoutszen"
+        type: person
+      - name: "Elisa Arnoutszen"
+        type: person
+    dates: ["after 1535"]
+
+  - category: person
+    claim: "Laurz Arnoutszen's son was partially responsible for the discovery of one-case life."
+    entities:
+      - name: "Laurz Arnoutszen"
+        type: person
+
+  - category: glossary
+    claim: "One-case life is the Boralverse term for single-celled organisms."
+    entities:
+      - name: "one-case life"
+        irl: "single-celled organisms"
+        type: concept
+
+  - category: work
+    claim: "Laurz Arnoutszen wrote a great treatise on medical handiwork and other practice."
+    entities:
+      - name: "Laurz Arnoutszen"
+        type: person
+
+  - category: glossary
+    claim: "Medical handiwork is the Boralverse term for surgery."
+    entities:
+      - name: "medical handiwork"
+        irl: "surgery"
+        type: concept
+
+  - category: glossary
+    claim: "Lembick is the Boralverse term for ethanol."
+    entities:
+      - name: "lembick"
+        irl: "ethanol"
+        type: concept
+
+  - category: glossary
+    claim: "Liquid diffruction is the Boralverse term for disinfectant."
+    entities:
+      - name: "liquid diffruction"
+        irl: "disinfectant"
+        type: concept
+
+  - category: work
+    claim: "Laurz Arnoutszen's treatise recommended the employment of distilled lembick as liquid diffruction."
+    entities:
+      - name: "Laurz Arnoutszen"
+        type: person
+      - name: "lembick"
+        type: concept
+      - name: "liquid diffruction"
+        type: concept

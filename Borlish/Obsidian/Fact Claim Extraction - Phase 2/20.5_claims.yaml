@@ -1,0 +1,348 @@
+entry: "20.5"
+title: "A University, and Twins"
+claims:
+  - category: organisation
+    claim: "The New Vithor University is a major academic institution located in the Borlish city of Vithor."
+    entities:
+      - name: "New Vithor University"
+        type: organisation
+      - name: "Vithor"
+        type: place
+
+  - category: organisation
+    claim: "The Borlish name of the New Vithor University is 'Nou Universtaða Viðor'."
+    entities:
+      - name: "New Vithor University"
+        type: organisation
+
+  - category: organisation
+    claim: "The Vithor New School had been founded by the fifteenth century."
+    entities:
+      - name: "Vithor New School"
+        type: organisation
+    dates: ["by 15th century"]
+
+  - category: organisation
+    claim: "By the nineteenth century the Vithor New School was known under the name 'New Vithor University'."
+    entities:
+      - name: "Vithor New School"
+        type: organisation
+      - name: "New Vithor University"
+        type: organisation
+    dates: ["19th century"]
+
+  - category: organisation
+    claim: "By 1844 the New Vithor University included the Vithor Historical Institute."
+    entities:
+      - name: "New Vithor University"
+        type: organisation
+      - name: "Vithor Historical Institute"
+        type: organisation
+    dates: ["1844 N"]
+
+  - category: organisation
+    claim: "The Borlish name of the Vithor Historical Institute is 'l'Edifiç Historic'."
+    entities:
+      - name: "Vithor Historical Institute"
+        type: organisation
+
+  - category: organisation
+    claim: "The Vithor Historical Institute was eventually divided into the Faculty of Concurrence History and the Faculty of Domain History."
+    entities:
+      - name: "Vithor Historical Institute"
+        type: organisation
+      - name: "Faculty of Concurrence History"
+        type: organisation
+      - name: "Faculty of Domain History"
+        type: organisation
+
+  - category: organisation
+    claim: "The New Vithor Primers is a producer of academical publications based in the New Vithor University."
+    entities:
+      - name: "New Vithor Primers"
+        type: organisation
+      - name: "New Vithor University"
+        type: organisation
+
+  - category: organisation
+    claim: "The Borlish name of the New Vithor Primers is 'Nou Premour a Viðor'."
+    entities:
+      - name: "New Vithor Primers"
+        type: organisation
+
+  - category: organisation
+    claim: "In 2007 the New Vithor Primers was producing the textbooks for the school's courses."
+    entities:
+      - name: "New Vithor Primers"
+        type: organisation
+    dates: ["2007"]
+
+  - category: person
+    claim: "Lambort Darrian was active around the 17th century."
+    entities:
+      - name: "Lambort Darrian"
+        type: person
+    dates: ["fl. c17"]
+
+  - category: person
+    claim: "Lambort Darrian was a philosopher of altruism and charity."
+    entities:
+      - name: "Lambort Darrian"
+        type: person
+
+  - category: person
+    claim: "Lambort Darrian was an alumnus of the New Vithor University."
+    entities:
+      - name: "Lambort Darrian"
+        type: person
+      - name: "New Vithor University"
+        type: organisation
+
+  - category: person
+    claim: "Michael Bervisson lived from 17th June 1799 to 12th January 1849."
+    entities:
+      - name: "Michael Bervisson"
+        type: person
+    dates: ["17th June 1799", "12th January 1849"]
+
+  - category: person
+    claim: "Michael Bervisson was a political historian."
+    entities:
+      - name: "Michael Bervisson"
+        type: person
+
+  - category: person
+    claim: "Michael Bervisson was an alumnus of the New Vithor University."
+    entities:
+      - name: "Michael Bervisson"
+        type: person
+      - name: "New Vithor University"
+        type: organisation
+
+  - category: person
+    claim: "Darren Brodus was active around 1828."
+    entities:
+      - name: "Darren Brodus"
+        type: person
+    dates: ["fl. 1828"]
+
+  - category: person
+    claim: "Darren Brodus was a mathematician and pioneer in sam theory."
+    entities:
+      - name: "Darren Brodus"
+        type: person
+
+  - category: person
+    claim: "Darren Brodus was an alumnus of the New Vithor University."
+    entities:
+      - name: "Darren Brodus"
+        type: person
+      - name: "New Vithor University"
+        type: organisation
+
+  - category: person
+    claim: "Sconet Ydreç was active around 2008."
+    entities:
+      - name: "Sconet Ydreç"
+        type: person
+    dates: ["fl. 2008"]
+
+  - category: person
+    claim: "Sconet Ydreç is an author and medievalist."
+    entities:
+      - name: "Sconet Ydreç"
+        type: person
+
+  - category: person
+    claim: "Sconet Ydreç was an alumnus of the New Vithor University."
+    entities:
+      - name: "Sconet Ydreç"
+        type: person
+      - name: "New Vithor University"
+        type: organisation
+
+  - category: work
+    claim: "The course 'Chocolate and Rubber: Cappatia during the Twining Century' was offered at the New Vithor University in 1986."
+    entities:
+      - name: "Chocolate and Rubber: Cappatia during the Twining Century"
+        type: work
+      - name: "New Vithor University"
+        type: organisation
+    dates: ["1986"]
+
+  - category: work
+    claim: "The Borlish title of 'Chocolate and Rubber: Cappatia during the Twining Century' is 'Scoclat e Coscou : Cappatia par y Kintanç Mondial'."
+    entities:
+      - name: "Chocolate and Rubber: Cappatia during the Twining Century"
+        type: work
+
+  - category: work
+    claim: "The course 'Concurrence History of the 18th Century: Gold, Science, and Waging War' was offered at the New Vithor University in 2007."
+    entities:
+      - name: "Concurrence History of the 18th Century: Gold, Science, and Waging War"
+        type: work
+      - name: "New Vithor University"
+        type: organisation
+    dates: ["2007"]
+
+  - category: work
+    claim: "The Borlish title of 'Concurrence History of the 18th Century: Gold, Science, and Waging War' is 'Histoir Concorrent, s18 : Aur, Theory, e l'Art de Var'."
+    entities:
+      - name: "Concurrence History of the 18th Century: Gold, Science, and Waging War"
+        type: work
+
+  - category: work
+    claim: "The course 'Concurrence History of the 16th Century: Death, Ships and the Movement of the Heavens' was offered at the New Vithor University in 2008."
+    entities:
+      - name: "Concurrence History of the 16th Century: Death, Ships and the Movement of the Heavens"
+        type: work
+      - name: "New Vithor University"
+        type: organisation
+    dates: ["2008"]
+
+  - category: work
+    claim: "The Borlish title of 'Concurrence History of the 16th Century: Death, Ships and the Movement of the Heavens' is 'Histoir Concorrent, s16 : Mort, Vascel eð y Motion Celest'."
+    entities:
+      - name: "Concurrence History of the 16th Century: Death, Ships and the Movement of the Heavens"
+        type: work
+
+  - category: person
+    claim: "Jacomo Bruno was active around 1821."
+    entities:
+      - name: "Jacomo Bruno"
+        type: person
+    dates: ["fl. 1821"]
+
+  - category: person
+    claim: "Jacomo Bruno was a minor landowner in Furlaine in the early nineteenth century."
+    entities:
+      - name: "Jacomo Bruno"
+        type: person
+      - name: "Furlaine"
+        type: place
+    dates: ["early 19th century"]
+
+  - category: person
+    claim: "Jacomo Bruno was the twin brother of composer Chiarina Bruno."
+    entities:
+      - name: "Jacomo Bruno"
+        type: person
+      - name: "Chiarina Bruno"
+        type: person
+    relationships:
+      - subject: "Jacomo Bruno"
+        predicate: "was twin brother of"
+        object: "Chiarina Bruno"
+
+  - category: person
+    claim: "Chiarina Bruno is better-remembered than Jacomo Bruno."
+    entities:
+      - name: "Chiarina Bruno"
+        type: person
+      - name: "Jacomo Bruno"
+        type: person
+
+  - category: event
+    claim: "Jacomo Bruno fought in the Second German War."
+    entities:
+      - name: "Jacomo Bruno"
+        type: person
+      - name: "Second German War"
+        type: event
+
+  - category: event
+    claim: "Jacomo Bruno participated alongside Borlish troops in the shambolic 1821 Battle of Hulm."
+    entities:
+      - name: "Jacomo Bruno"
+        type: person
+      - name: "Battle of Hulm"
+        type: event
+    dates: ["1821"]
+
+  - category: person
+    claim: "Jacomo Bruno met future mathematician Darren Brodus during the Battle of Hulm."
+    entities:
+      - name: "Jacomo Bruno"
+        type: person
+      - name: "Darren Brodus"
+        type: person
+      - name: "Battle of Hulm"
+        type: event
+
+  - category: person
+    claim: "Jacomo Bruno struck a life-long epistolary friendship with Darren Brodus."
+    entities:
+      - name: "Jacomo Bruno"
+        type: person
+      - name: "Darren Brodus"
+        type: person
+
+  - category: person
+    claim: "Chiarina Bruno was active around 1824."
+    entities:
+      - name: "Chiarina Bruno"
+        type: person
+    dates: ["fl. 1824"]
+
+  - category: person
+    claim: "Chiarina Bruno was a librettist and composer active in the early nineteenth century."
+    entities:
+      - name: "Chiarina Bruno"
+        type: person
+    dates: ["early 19th century"]
+
+  - category: person
+    claim: "Chiarina Bruno was primarily active in the aftermath of the Second German War."
+    entities:
+      - name: "Chiarina Bruno"
+        type: person
+      - name: "Second German War"
+        type: event
+
+  - category: work
+    claim: "Chiarina Bruno's most enduring work is the opera 'Ale in Fiamme' (Wings Afire)."
+    entities:
+      - name: "Chiarina Bruno"
+        type: person
+      - name: "Ale in Fiamme"
+        type: work
+    relationships:
+      - subject: "Chiarina Bruno"
+        predicate: "composed"
+        object: "Ale in Fiamme"
+
+  - category: work
+    claim: "'Ale in Fiamme' is an adaptation of the story of Icarus."
+    entities:
+      - name: "Ale in Fiamme"
+        type: work
+
+  - category: work
+    claim: "The English title of 'Ale in Fiamme' is 'Wings Afire'."
+    entities:
+      - name: "Ale in Fiamme"
+        type: work
+
+  - category: person
+    claim: "Chiarina Bruno was born at her father's estate in western Furlaine."
+    entities:
+      - name: "Chiarina Bruno"
+        type: person
+      - name: "Furlaine"
+        type: place
+
+  - category: person
+    claim: "Chiarina Bruno lived in Verona for most of her adult life."
+    entities:
+      - name: "Chiarina Bruno"
+        type: person
+      - name: "Verona"
+        type: place
+
+  - category: person
+    claim: "Chiarina Bruno and Jacomo Bruno were noted for their remarkably similar appearance, even for twins."
+    entities:
+      - name: "Chiarina Bruno"
+        type: person
+      - name: "Jacomo Bruno"
+        type: person

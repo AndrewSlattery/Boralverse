@@ -1,0 +1,145 @@
+entry: "11.5"
+title: "14C Manoscard Music"
+source_work: "Shallmews and Fithels: the influence of post-Tetrarchic Hymnal Practice on Popular Music"
+claims:
+  - category: work
+    claim: "The scholastic quire 'Shallmews and Fithels: the influence of post-Tetrarchic Hymnal Practice on Popular Music' was published in 1976."
+    entities:
+      - name: "Shallmews and Fithels: the influence of post-Tetrarchic Hymnal Practice on Popular Music"
+        type: work
+    dates: ["1976"]
+
+  - category: work
+    claim: "'Shallmews and Fithels' is a textbook of musical history."
+    entities:
+      - name: "Shallmews and Fithels: the influence of post-Tetrarchic Hymnal Practice on Popular Music"
+        type: work
+
+  - category: person
+    claim: "Morency Rivellerson is a clavierman who wrote 'Shallmews and Fithels'."
+    entities:
+      - name: "Morency Rivellerson"
+        type: person
+      - name: "Shallmews and Fithels: the influence of post-Tetrarchic Hymnal Practice on Popular Music"
+        type: work
+    relationships:
+      - subject: "Morency Rivellerson"
+        predicate: "wrote"
+        object: "Shallmews and Fithels: the influence of post-Tetrarchic Hymnal Practice on Popular Music"
+
+  - category: work
+    claim: "'Shallmews and Fithels' was published through the Tommarth University Faculty of Domain History's primers."
+    entities:
+      - name: "Shallmews and Fithels: the influence of post-Tetrarchic Hymnal Practice on Popular Music"
+        type: work
+      - name: "Tommarth University"
+        type: organisation
+      - name: "Faculty of Domain History"
+        type: organisation
+
+  - category: work
+    claim: "'Shallmews and Fithels' was published in collaboration with the city's Lady Maud Orchestra Public Indreck."
+    entities:
+      - name: "Shallmews and Fithels: the influence of post-Tetrarchic Hymnal Practice on Popular Music"
+        type: work
+      - name: "Lady Maud Orchestra Public Indreck"
+        type: organisation
+
+  - category: culture
+    claim: "The 'farmer duke' tradition is a tradition of folktales."
+    entities:
+      - name: "farmer duke"
+        type: concept
+
+  - category: culture
+    claim: "The 'farmer duke' folktales have interstitial melodies and songs that constitute some of the earliest extant examples of a lineage of musical notation."
+    entities:
+      - name: "farmer duke"
+        type: concept
+
+  - category: organisation
+    claim: "Recent archival work at the Academy in Santrafew has enabled modern performances of fourteenth-century pieces."
+    entities:
+      - name: "Academy in Santrafew"
+        type: organisation
+      - name: "Santrafew"
+        type: place
+    dates: ["fourteenth century"]
+
+  - category: culture
+    claim: "Modern performances of fourteenth-century pieces can be staged on replica instruments."
+    dates: ["fourteenth century"]
+
+  - category: terminology
+    claim: "The manoscard scale is an octatonic scale being the union of the major and minor pentatonic scales."
+    entities:
+      - name: "manoscard scale"
+        type: concept
+
+  - category: culture
+    claim: "The manoscard is traditionally conceived as a Burgund innovation of the late twelfth century."
+    entities:
+      - name: "manoscard"
+        type: concept
+    dates: ["late twelfth century"]
+
+  - category: culture
+    claim: "The manoscard began with hymns performed in the religious communities of the eastern Luberon region."
+    entities:
+      - name: "manoscard"
+        type: concept
+      - name: "Luberon"
+        type: place
+
+  - category: organisation
+    claim: "The Sassenine monastery overlooks Manosque."
+    entities:
+      - name: "Sassenine monastery"
+        type: organisation
+      - name: "Manosque"
+        type: place
+
+  - category: terminology
+    claim: "The name 'manoscard' comes from Manosque."
+    entities:
+      - name: "manoscard"
+        type: concept
+      - name: "Manosque"
+        type: place
+
+  - category: culture
+    claim: "By the time there is evidence of manoscard melody in contemporary popular music, the scale is used across western Europe."
+    entities:
+      - name: "manoscard"
+        type: concept
+
+  - category: culture
+    claim: "The manoscard scale is used as far north as Mondwell and as far south as Bagliemmo."
+    entities:
+      - name: "manoscard"
+        type: concept
+      - name: "Mondwell"
+        irl: "Anglesey"
+        type: place
+      - name: "Bagliemmo"
+        irl: "Palermo"
+        type: place
+
+  - category: culture
+    claim: "The presumption that the manoscard radiated from Luberon through Burgundy and outward through the thirteenth century is not particularly convincingly evidenced."
+    entities:
+      - name: "manoscard"
+        type: concept
+      - name: "Luberon"
+        type: place
+      - name: "Burgundy"
+        type: place
+    dates: ["thirteenth century"]
+
+  - category: culture
+    claim: "Some scholars have argued that the manoscard scale was brought to Manosque by a young monk who had it from his childhood village."
+    entities:
+      - name: "manoscard"
+        type: concept
+      - name: "Manosque"
+        type: place

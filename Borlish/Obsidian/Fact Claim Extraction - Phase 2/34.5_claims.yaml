@@ -1,0 +1,185 @@
+entry: "34.5"
+title: "The Drengot Collusion"
+claims:
+  - category: polity
+    claim: "The Drengot Collusion was a multinational alliance-federacy in north-western Europe."
+    entities:
+      - name: "Drengot Collusion"
+        type: polity
+
+  - category: polity
+    claim: "The Drengot Collusion is named for the older Drengot Empires, themselves named for the Norman noble family who first united much of Gaul and Albion."
+    entities:
+      - name: "Drengot Collusion"
+        type: polity
+      - name: "Drengot Empires"
+        type: polity
+      - name: "Drengot family"
+        type: group
+
+  - category: polity
+    claim: "The Drengot Collusion grew from various treaties in the mid-nineteenth century into the principal power in the region until its collapse in 1961."
+    entities:
+      - name: "Drengot Collusion"
+        type: polity
+    dates: ["mid-19th century N", "1961 N"]
+
+  - category: event
+    claim: "The Drengot Collusion arose among the French polities of the Global Workshop period."
+    entities:
+      - name: "Drengot Collusion"
+        type: polity
+      - name: "Global Workshop"
+        type: period
+
+  - category: polity
+    claim: "The New Urban Mesh, a collection of somewhat-autonomous cities including independent London and Axbane on Borland, was subsumed into the Collusion."
+    entities:
+      - name: "New Urban Mesh"
+        type: polity
+      - name: "Drengot Collusion"
+        type: polity
+      - name: "London"
+        type: place
+      - name: "Axbane"
+        type: place
+
+  - category: event
+    claim: "The entirety of Borland entered the Drengot Collusion in 1894."
+    entities:
+      - name: "Borland"
+        type: polity
+      - name: "Drengot Collusion"
+        type: polity
+    dates: ["1894 N"]
+
+  - category: event
+    claim: "Borland joining the Collusion in 1894 led to the abdication of Queen Natalia II and the dissolution of the Borlish monarchy."
+    entities:
+      - name: "Borland"
+        type: polity
+      - name: "Natalia II"
+        type: person
+      - name: "Drengot Collusion"
+        type: polity
+    dates: ["1894 N"]
+
+  - category: polity
+    claim: "Alongside the cities of London and Paris, Kent was the political centre of the Drengot Collusion."
+    entities:
+      - name: "Kent"
+        type: polity
+      - name: "London"
+        type: place
+      - name: "Paris"
+        type: place
+      - name: "Drengot Collusion"
+        type: polity
+
+  - category: place
+    claim: "Many governmental buildings of the Drengot Collusion were located in Rone."
+    entities:
+      - name: "Rone"
+        type: place
+      - name: "Drengot Collusion"
+        type: polity
+
+  - category: event
+    claim: "Tensions between the Drengot Collusion and Vascony and Provence grew particularly tense in the two decades following the Millstone War."
+    entities:
+      - name: "Drengot Collusion"
+        type: polity
+      - name: "Vascony"
+        type: polity
+      - name: "Provence"
+        type: polity
+      - name: "Millstone War"
+        type: event
+
+  - category: work
+    claim: "The Fiellas Dimenja newspaper, headquartered in Marsella, enjoyed considerable readership across the Drengot Collusion."
+    entities:
+      - name: "Fiellas Dimenja"
+        type: work
+      - name: "Marsella"
+        type: place
+      - name: "Drengot Collusion"
+        type: polity
+
+  - category: polity
+    claim: "Portingale was never part of the Drengot Collusion but occupied a peripheral position in its orbit."
+    entities:
+      - name: "Portingale"
+        type: polity
+      - name: "Drengot Collusion"
+        type: polity
+
+  - category: economics
+    claim: "Drengot astraphor supplied much of the baric needs of Portingale via undersea powerline, relying on Vascon goodwill not to interfere."
+    entities:
+      - name: "Drengot Collusion"
+        type: polity
+      - name: "Portingale"
+        type: polity
+      - name: "Vascony"
+        type: polity
+
+  - category: event
+    claim: "In the 1950s, Portingale funded threshold mills to supply its own astraphor."
+    entities:
+      - name: "Portingale"
+        type: polity
+    dates: ["1950s"]
+
+  - category: event
+    claim: "At the time of the Furore, the Collusion was being administered by a tinplate government under Romney Darchild."
+    entities:
+      - name: "Furore of 1961"
+        type: event
+      - name: "Romney Darchild"
+        type: person
+      - name: "Drengot Collusion"
+        type: polity
+    dates: ["1961 N"]
+
+  - category: organisation
+    claim: "The Red House was the popular name for the Drengot Collusion's Ministry for Information, located in Rone."
+    entities:
+      - name: "Red House"
+        type: organisation
+      - name: "Rone"
+        type: place
+      - name: "Drengot Collusion"
+        type: polity
+
+  - category: event
+    claim: "The clandestine activities of the Red House were enumerated in the Darchild memorandum."
+    entities:
+      - name: "Red House"
+        type: organisation
+      - name: "Darchild memorandum"
+        type: event
+      - name: "Romney Darchild"
+        type: person
+
+  - category: event
+    claim: "The Darchild memorandum first brought down the current administration and shortly thereafter the entire Drengot Collusion."
+    entities:
+      - name: "Darchild memorandum"
+        type: event
+      - name: "Drengot Collusion"
+        type: polity
+
+  - category: event
+    claim: "One effect of the collapse of the Drengot Collusion was the implementation of the Kentish ostracon reforms."
+    entities:
+      - name: "Drengot Collusion"
+        type: polity
+      - name: "Kentish ostracon reforms"
+        type: event
+
+  - category: event
+    claim: "The Kentish ostracon reforms were used as a model in several polities across the globe."
+    entities:
+      - name: "Kentish ostracon reforms"
+        type: event

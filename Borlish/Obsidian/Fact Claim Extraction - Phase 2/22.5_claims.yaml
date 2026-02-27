@@ -1,0 +1,276 @@
+entry: "22.5"
+title: "The Long Peace"
+claims:
+  - category: period
+    claim: "The Long Peace refers to the decades surrounding the turn of the nineteenth century."
+    entities:
+      - name: "Long Peace"
+        type: period
+    dates: ["turn of 19th century"]
+
+  - category: period
+    claim: "The Long Peace was characterised by an absence of prolonged international conflict."
+    entities:
+      - name: "Long Peace"
+        type: period
+
+  - category: period
+    claim: "The Long Peace extends from 1770 until 1815."
+    entities:
+      - name: "Long Peace"
+        type: period
+    dates: ["1770", "1815"]
+
+  - category: period
+    claim: "The Long Peace extends from the end of the First German War to the outbreak of the Second German War."
+    entities:
+      - name: "Long Peace"
+        type: period
+      - name: "First German War"
+        type: event
+      - name: "Second German War"
+        type: event
+
+  - category: period
+    claim: "The Long Peace precedes the period of Reaction War."
+    entities:
+      - name: "Long Peace"
+        type: period
+      - name: "Reaction War"
+        type: period
+
+  - category: period
+    claim: "Reaction War is an umbrella term including the Second German War and other contemporaneous conflicts around the world."
+    entities:
+      - name: "Reaction War"
+        type: period
+      - name: "Second German War"
+        type: event
+
+  - category: period
+    claim: "The Decadence of Belgrade was contemporaneous with the Long Peace."
+    entities:
+      - name: "Decadence of Belgrade"
+        type: period
+      - name: "Long Peace"
+        type: period
+
+  - category: period
+    claim: "The Decadence of Belgrade denotes the waning power of the Kingdom of the Danube."
+    entities:
+      - name: "Decadence of Belgrade"
+        type: period
+      - name: "Kingdom of the Danube"
+        type: polity
+
+  - category: period
+    claim: "The Mendevan Unmooring was contemporaneous with the Long Peace."
+    entities:
+      - name: "Mendevan Unmooring"
+        type: period
+      - name: "Long Peace"
+        type: period
+
+  - category: period
+    claim: "The Mendevan Unmooring refers to the greater political and economic independence enjoyed by the Vetomundine settlements in Mendeva at this time."
+    entities:
+      - name: "Mendevan Unmooring"
+        type: period
+      - name: "Mendeva"
+        type: place
+
+  - category: period
+    claim: "The Romantic Revival was contemporaneous with the Long Peace."
+    entities:
+      - name: "Romantic Revival"
+        type: period
+      - name: "Long Peace"
+        type: period
+
+  - category: period
+    claim: "The Romantic Revival was an artistic and political movement characterised by optimism and heroism."
+    entities:
+      - name: "Romantic Revival"
+        type: period
+
+  - category: period
+    claim: "The Romantic Revival focused on recapturing the 'brighter past' of the seventeenth century."
+    entities:
+      - name: "Romantic Revival"
+        type: period
+    dates: ["17th century"]
+
+  - category: polity
+    claim: "The kingdom of Saxony reached its territorial peak during the Long Peace."
+    entities:
+      - name: "Saxony"
+        type: polity
+      - name: "Long Peace"
+        type: period
+
+  - category: event
+    claim: "Saxony conquered significant territory in the First German War."
+    entities:
+      - name: "Saxony"
+        type: polity
+      - name: "First German War"
+        type: event
+    relationships:
+      - subject: "Saxony"
+        predicate: "conquered territory in"
+        object: "First German War"
+
+  - category: polity
+    claim: "The kingdom of Vascony was the heart of the Modest Arrangement during the Long Peace."
+    entities:
+      - name: "Vascony"
+        type: polity
+      - name: "Modest Arrangement"
+        type: polity
+      - name: "Long Peace"
+        type: period
+
+  - category: polity
+    claim: "Vascony was especially the heart of the Modest Arrangement in the Long Peace's later years under the Vallabrì administration and King Hernand."
+    entities:
+      - name: "Vascony"
+        type: polity
+      - name: "Modest Arrangement"
+        type: polity
+      - name: "Long Peace"
+        type: period
+      - name: "Vallabrì administration"
+        type: organisation
+      - name: "Hernand"
+        type: person
+
+  - category: technology
+    claim: "There were major advancements in life theory during the Long Peace."
+    entities:
+      - name: "Long Peace"
+        type: period
+
+  - category: technology
+    claim: "During the Long Peace it was discovered that the case kernel housed Desselut's vital language."
+    entities:
+      - name: "Long Peace"
+        type: period
+      - name: "case kernel"
+        type: concept
+      - name: "Desselut's vital language"
+        type: concept
+
+  - category: terminology
+    claim: "The case kernel is also called the nux."
+    entities:
+      - name: "case kernel"
+        type: concept
+      - name: "nux"
+        type: concept
+
+  - category: person
+    claim: "Manesh Camdar was a theorist who discovered that the case kernel housed Desselut's vital language in 1813."
+    entities:
+      - name: "Manesh Camdar"
+        type: person
+      - name: "case kernel"
+        type: concept
+      - name: "Desselut's vital language"
+        type: concept
+    dates: ["1813"]
+
+  - category: technology
+    claim: "Manesh Camdar achieved the discovery via research on marine sponge fecundation."
+    entities:
+      - name: "Manesh Camdar"
+        type: person
+
+  - category: technology
+    claim: "Manesh Camdar observed that the kernel of sperm unites with that of the egg."
+    entities:
+      - name: "Manesh Camdar"
+        type: person
+
+  - category: technology
+    claim: "There were alchemical discoveries during the Long Peace, including many new elements."
+    entities:
+      - name: "Long Peace"
+        type: period
+
+  - category: technology
+    claim: "Janthine was discovered in Zampanagar in 1778."
+    entities:
+      - name: "janthine"
+        type: concept
+      - name: "Zampanagar"
+        type: place
+    dates: ["1778"]
+
+  - category: technology
+    claim: "Machovin was discovered in Poland a decade after 1778."
+    entities:
+      - name: "machovin"
+        type: concept
+      - name: "Poland"
+        type: place
+    dates: ["c. 1788"]
+
+  - category: period
+    claim: "The Long Peace saw the inception of the Deviance Movement."
+    entities:
+      - name: "Long Peace"
+        type: period
+      - name: "Deviance Movement"
+        type: period
+
+  - category: period
+    claim: "The Deviance Movement is also called Anti-Paradise Theology."
+    entities:
+      - name: "Deviance Movement"
+        type: period
+      - name: "Anti-Paradise Theology"
+        type: period
+
+  - category: work
+    claim: "The incendiary publication 'Et Nous Amerons les Fux' (And We Will Love the Fire) was published in 1799."
+    entities:
+      - name: "Et Nous Amerons les Fux"
+        type: work
+    dates: ["1799"]
+
+  - category: work
+    claim: "'Et Nous Amerons les Fux' is associated with the Deviance Movement."
+    entities:
+      - name: "Et Nous Amerons les Fux"
+        type: work
+      - name: "Deviance Movement"
+        type: period
+
+  - category: culture
+    claim: "The armourcloth fashion has its beginnings early in the Long Peace."
+    entities:
+      - name: "armourcloth fashion"
+        type: concept
+      - name: "Long Peace"
+        type: period
+
+  - category: culture
+    claim: "The armourcloth fashion is of women's evening dress decorated in the style of military uniform."
+    entities:
+      - name: "armourcloth fashion"
+        type: concept
+
+  - category: culture
+    claim: "The armourcloth fashion is still most strongly associated with the Long Peace, despite several revivals."
+    entities:
+      - name: "armourcloth fashion"
+        type: concept
+      - name: "Long Peace"
+        type: period
+
+  - category: culture
+    claim: "The advent of Straightforward Fashion occurs somewhat later than armourcloth, beginning in the first decade of the nineteenth century."
+    entities:
+      - name: "Straightforward Fashion"
+        type: concept
+    dates: ["first decade of 19th century"]

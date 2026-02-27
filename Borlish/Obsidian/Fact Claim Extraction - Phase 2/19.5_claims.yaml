@@ -1,0 +1,304 @@
+entry: "19.5"
+title: "The Winter Feast"
+claims:
+  - category: culture
+    claim: "Revillon is the Borlish term for the eve before Christide."
+    entities:
+      - name: "Revillon"
+        type: concept
+      - name: "Christide"
+        type: concept
+
+  - category: culture
+    claim: "Revillon often refers to the entire day before Christide."
+    entities:
+      - name: "Revillon"
+        type: concept
+      - name: "Christide"
+        type: concept
+
+  - category: terminology
+    claim: "The Borlish spelling of Revillon is 'Reveglon'."
+    entities:
+      - name: "Revillon"
+        type: concept
+
+  - category: culture
+    claim: "Revillon refers to the specific cultural practice on Borland of the Winter Feast."
+    entities:
+      - name: "Revillon"
+        type: concept
+      - name: "Winter Feast"
+        type: concept
+      - name: "Borland"
+        type: place
+
+  - category: terminology
+    claim: "The Borlish name for the Winter Feast is 'y Fest Reveglon'."
+    entities:
+      - name: "Winter Feast"
+        type: concept
+
+  - category: culture
+    claim: "The Winter Feast is a celebration held on Revillon in churches across Borland to which everyone in attendance brings food."
+    entities:
+      - name: "Winter Feast"
+        type: concept
+      - name: "Revillon"
+        type: concept
+      - name: "Borland"
+        type: place
+
+  - category: terminology
+    claim: "The Borlish name Reveglon means 'vigil'."
+    entities:
+      - name: "Reveglon"
+        type: concept
+
+  - category: language
+    claim: "Reveglon is a Middle Boral borrowing from the synonymous French 'reveillon'."
+    entities:
+      - name: "Reveglon"
+        type: concept
+      - name: "Middle Boral"
+        type: language
+
+  - category: terminology
+    claim: "Earlier names for the Winter Feast include 'jolveisre'."
+    entities:
+      - name: "Winter Feast"
+        type: concept
+      - name: "jolveisre"
+        type: concept
+
+  - category: language
+    claim: "'Jolveisre' is taken from Old Norse 'jólveizla' meaning 'Yule feast'."
+    entities:
+      - name: "jolveisre"
+        type: concept
+
+  - category: terminology
+    claim: "'Jolveisre' referred specifically to the celebrations of the Winter Feast."
+    entities:
+      - name: "jolveisre"
+        type: concept
+      - name: "Winter Feast"
+        type: concept
+
+  - category: terminology
+    claim: "Earlier names for the Winter Feast include 'fleðoul'."
+    entities:
+      - name: "Winter Feast"
+        type: concept
+      - name: "fleðoul"
+        type: concept
+
+  - category: terminology
+    claim: "'Fleðoul' is of unknown etymology."
+    entities:
+      - name: "fleðoul"
+        type: concept
+
+  - category: terminology
+    claim: "'Fleðoul' referred specifically to the celebrations of the Winter Feast."
+    entities:
+      - name: "fleðoul"
+        type: concept
+      - name: "Winter Feast"
+        type: concept
+
+  - category: culture
+    claim: "Evidence of similar winter solstice festivities involving communally-prepared feasts on Borland predates even the Roman invasion."
+    entities:
+      - name: "Borland"
+        type: place
+
+  - category: culture
+    claim: "Revillon is one of the longest continuously-practised folk traditions in Europe."
+    entities:
+      - name: "Revillon"
+        type: concept
+
+  - category: culture
+    claim: "The practice of Revillon has evolved considerably with time."
+    entities:
+      - name: "Revillon"
+        type: concept
+
+  - category: person
+    claim: "Ammian Marcellinus was a third-century Roman historian."
+    entities:
+      - name: "Ammian Marcellinus"
+        type: person
+    dates: ["3rd century"]
+
+  - category: work
+    claim: "Ammian Marcellinus provides an early written mention of the Winter Feast."
+    entities:
+      - name: "Ammian Marcellinus"
+        type: person
+      - name: "Winter Feast"
+        type: concept
+
+  - category: terminology
+    claim: "The Winter Feast appears under its original name 'Flidōlus' in Ammian Marcellinus's asides on the Northern Isles."
+    entities:
+      - name: "Winter Feast"
+        type: concept
+      - name: "Flidōlus"
+        type: concept
+      - name: "Ammian Marcellinus"
+        type: person
+      - name: "Northern Isles"
+        type: place
+
+  - category: terminology
+    claim: "'Flidōlus' gave the aforementioned 'fleðoul'."
+    entities:
+      - name: "Flidōlus"
+        type: concept
+      - name: "fleðoul"
+        type: concept
+
+  - category: culture
+    claim: "Post-imperial sources in the first millennium almost exclusively criticise the Winter Feast tradition as pagan and unholy."
+    entities:
+      - name: "Winter Feast"
+        type: concept
+    dates: ["first millennium"]
+
+  - category: culture
+    claim: "By the twelfth century the Winter Feast practice is fully appropriated by the Church."
+    entities:
+      - name: "Winter Feast"
+        type: concept
+    dates: ["12th century"]
+
+  - category: person
+    claim: "Queen Natalia II of Borland abdicated on Revillon of 1894."
+    entities:
+      - name: "Natalia II"
+        type: person
+      - name: "Borland"
+        type: polity
+      - name: "Revillon"
+        type: concept
+    dates: ["1894"]
+
+  - category: event
+    claim: "Queen Natalia II's abdication was part of the political upheaval surrounding Borland's entry into the Drengot Collusion."
+    entities:
+      - name: "Natalia II"
+        type: person
+      - name: "Borland"
+        type: polity
+      - name: "Drengot Collusion"
+        type: polity
+
+  - category: culture
+    claim: "Tort dell'ivan is a food traditionally associated with the Revillon Feast."
+    entities:
+      - name: "tort dell'ivan"
+        type: concept
+      - name: "Revillon"
+        type: concept
+
+  - category: terminology
+    claim: "Tort dell'ivan means 'child's pie', in reference to the Christ child."
+    entities:
+      - name: "tort dell'ivan"
+        type: concept
+
+  - category: culture
+    claim: "Tort dell'ivan is a savoury dish often of lamb."
+    entities:
+      - name: "tort dell'ivan"
+        type: concept
+
+  - category: culture
+    claim: "The practice of scoring a cross into the lid of tort dell'ivan is a later innovation."
+    entities:
+      - name: "tort dell'ivan"
+        type: concept
+
+  - category: culture
+    claim: "The practice of hiding a small wooden object inside tort dell'ivan is a later innovation."
+    entities:
+      - name: "tort dell'ivan"
+        type: concept
+
+  - category: culture
+    claim: "The wooden object hidden inside tort dell'ivan is traditionally a cross."
+    entities:
+      - name: "tort dell'ivan"
+        type: concept
+
+  - category: culture
+    claim: "The practice of hiding objects in tort dell'ivan is comparable to the similar galette des rois seen on the continent."
+    entities:
+      - name: "tort dell'ivan"
+        type: concept
+
+  - category: culture
+    claim: "The name 'tort dell'ivan' is attested as early as the tenth century in Old Boral as 'torte del ifan'."
+    entities:
+      - name: "tort dell'ivan"
+        type: concept
+      - name: "Old Boral"
+        type: language
+    dates: ["10th century"]
+
+  - category: culture
+    claim: "The modern recipe for tort dell'ivan including lamb and potato is not seen in writing until the eighteenth century."
+    entities:
+      - name: "tort dell'ivan"
+        type: concept
+    dates: ["18th century"]
+
+  - category: culture
+    claim: "Jonnovar zucarraðis a food traditionally associated with the Revillon Feast."
+    entities:
+      - name: "jonnovar zucarrað"
+        type: concept
+      - name: "Revillon"
+        type: concept
+
+  - category: terminology
+    claim: "Jonnovar zucarrað means 'candied butterflies'."
+    entities:
+      - name: "jonnovar zucarrað"
+        type: concept
+
+  - category: culture
+    claim: "Jonnovar zucarrað is a sugar-spiced cakebread particular to Borland."
+    entities:
+      - name: "jonnovar zucarrað"
+        type: concept
+      - name: "Borland"
+        type: place
+
+  - category: culture
+    claim: "Jonnovar zucarrað have been generously spiced since their earliest iterations."
+    entities:
+      - name: "jonnovar zucarrað"
+        type: concept
+
+  - category: culture
+    claim: "Jonnovar zucarrað are usually spiced with dalassine bark and zingerroot."
+    entities:
+      - name: "jonnovar zucarrað"
+        type: concept
+
+  - category: culture
+    claim: "At the time of Revillon, jonnovar zucarrað are formed into butterfly shapes."
+    entities:
+      - name: "jonnovar zucarrað"
+        type: concept
+      - name: "Revillon"
+        type: concept
+
+  - category: culture
+    claim: "The butterfly shapes of jonnovar zucarrað are popularly thought to represent the metamorphosis of a dead winter into the new life of spring."
+    entities:
+      - name: "jonnovar zucarrað"
+        type: concept

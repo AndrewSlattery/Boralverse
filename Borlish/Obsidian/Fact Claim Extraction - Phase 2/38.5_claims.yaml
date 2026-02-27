@@ -1,0 +1,135 @@
+entry: "38.5"
+title: "Steeplepost"
+claims:
+  - category: technology
+    claim: "Steeplepost refers to a group of similar technologies (flag-lamp, barrick, longform, gyre, etc.) used for transmitting messages over long distances."
+    entities:
+      - name: "steeplepost"
+        type: technology
+
+  - category: technology
+    claim: "The earliest incarnations of the steeplemesh arose during the Democratic Wars of the mid-eighteenth century."
+    entities:
+      - name: "steeplepost"
+        type: technology
+      - name: "Democratic Wars"
+        type: event
+    dates: ["mid-18th century N"]
+
+  - category: technology
+    claim: "Early wartime steeplepost towers relied on lampfire (reliable only at night) or patterned flags (usable by day but requiring shorter distances between watchtowers)."
+    entities:
+      - name: "steeplepost"
+        type: technology
+
+  - category: technology
+    claim: "The two-arm steeplepost system, allowing up to nine separate states to be transmitted, was first tested in Thynen, a town in Willemy."
+    entities:
+      - name: "steeplepost"
+        type: technology
+      - name: "Thynen"
+        type: place
+      - name: "Willemy"
+        type: polity
+
+  - category: technology
+    claim: "The first modern steeplescript was developed in Cracow by engineer Sigmund Adamich and his son Andrei."
+    entities:
+      - name: "Sigmund Adamich"
+        type: person
+      - name: "Andrei Adamich"
+        type: person
+      - name: "Cracow"
+        type: place
+    relationships:
+      - subject: "Andrei Adamich"
+        predicate: "was son of"
+        object: "Sigmund Adamich"
+
+  - category: technology
+    claim: "The Cracow steeplescript used a set of four symbols traditionally referred to as 'dot, dash, bar and hook'."
+    entities:
+      - name: "Cracow"
+        type: place
+
+  - category: technology
+    claim: "By 1820, Ambrosia had unveiled its Steeplepost Tapestry in Aiga d'Angoixa."
+    entities:
+      - name: "Steeplepost Tapestry"
+        type: technology
+      - name: "Ambrosia"
+        type: polity
+      - name: "Aiga d'Angoixa"
+        type: place
+    dates: ["1820 N"]
+
+  - category: technology
+    claim: "The Steeplepost Tapestry promised to allow slow transmission of images along the lines by communicating the brightness of each pip in an enormous grid."
+    entities:
+      - name: "Steeplepost Tapestry"
+        type: technology
+
+  - category: event
+    claim: "The infamous Lies of 1824 were first displayed on the Steeplepost Tapestry."
+    entities:
+      - name: "Lies of 1824"
+        type: event
+      - name: "Steeplepost Tapestry"
+        type: technology
+    dates: ["1824 N"]
+
+  - category: technology
+    claim: "The first cross-sea steeplepost lines were air-steeples in the Rustigh Strait, connecting Borland to Willemy, established in the 1830s."
+    entities:
+      - name: "steeplepost"
+        type: technology
+      - name: "Rustigh Strait"
+        type: place
+      - name: "Borland"
+        type: polity
+      - name: "Willemy"
+        type: polity
+    dates: ["1830s"]
+
+  - category: technology
+    claim: "The Borland–Willemy air-steeple link was replaced with a barrick line in 1854."
+    entities:
+      - name: "Borland"
+        type: polity
+      - name: "Willemy"
+        type: polity
+    dates: ["1854 N"]
+
+  - category: technology
+    claim: "The middle of the nineteenth century saw the flag-lamp system gradually superseded by barrick lines generally."
+    entities:
+      - name: "steeplepost"
+        type: technology
+    dates: ["mid-19th century N"]
+
+  - category: technology
+    claim: "One early steeplepost line in Andalus, from Cordova to Málaga, is usually given as the first line connecting two major cities."
+    entities:
+      - name: "steeplepost"
+        type: technology
+      - name: "Cordova"
+        type: place
+      - name: "Málaga"
+        type: place
+      - name: "Andalus"
+        type: polity
+
+  - category: technology
+    claim: "The Vilmanas Teleclavia was a prototype wired tachygraph that first successfully sent a message via the steeplemesh in 1859."
+    entities:
+      - name: "Vilmanas Teleclavia"
+        type: technology
+    dates: ["1859 N"]
+
+  - category: culture
+    claim: "The spread of the steeplemesh may have contributed to the decline of the voidtale fashion by demystifying formerly-unknowable distant lands."
+    entities:
+      - name: "steeplepost"
+        type: technology
+      - name: "voidtale"
+        type: concept

@@ -1,0 +1,180 @@
+entry: "12.5"
+title: "Linguistic Exam Questions"
+source_work: "collected sample scitation papers for the University of Lester's Faculty of Domain History"
+claims:
+  - category: work
+    claim: "The collected sample scitation papers for the University of Lester's Faculty of Domain History were published in a 1990 edition."
+    entities:
+      - name: "University of Lester"
+        type: organisation
+      - name: "Faculty of Domain History"
+        type: organisation
+    dates: ["1990"]
+
+  - category: organisation
+    claim: "The University of Lester's Faculty of Domain History has a strong leaning towards language-related studies."
+    entities:
+      - name: "University of Lester"
+        type: organisation
+      - name: "Faculty of Domain History"
+        type: organisation
+
+  - category: organisation
+    claim: "The University of Lester has a well-funded Faculty of Language."
+    entities:
+      - name: "University of Lester"
+        type: organisation
+      - name: "Faculty of Language"
+        type: organisation
+
+  - category: organisation
+    claim: "The Faculty of Domain History's language-related studies include palaeography and comparative mythology."
+    entities:
+      - name: "Faculty of Domain History"
+        type: organisation
+
+  - category: polity
+    claim: "The First Drengotian Empire was a polity of the eleventh and twelfth centuries."
+    entities:
+      - name: "First Drengotian Empire"
+        type: polity
+    dates: ["11th century", "12th century"]
+
+  - category: polity
+    claim: "The First Drengotian Empire was formed from the protracted union of Normandy, France, Burgundy, Kent, Greater Devon, Markland and York."
+    entities:
+      - name: "First Drengotian Empire"
+        type: polity
+      - name: "Normandy"
+        type: polity
+      - name: "France"
+        type: polity
+      - name: "Burgundy"
+        type: polity
+      - name: "Kent"
+        type: polity
+      - name: "Greater Devon"
+        type: polity
+      - name: "Markland"
+        type: polity
+      - name: "York"
+        type: polity
+
+  - category: event
+    claim: "The First Drengotian Empire collapsed."
+    entities:
+      - name: "First Drengotian Empire"
+        type: polity
+
+  - category: event
+    claim: "Something in the fourteenth century presaged the collapse of the First Drengotian Empire."
+    entities:
+      - name: "First Drengotian Empire"
+        type: polity
+    dates: ["14th century"]
+
+  - category: work
+    claim: "'The Tales of Enfield Wood' is a fourteenth-century compendium."
+    entities:
+      - name: "The Tales of Enfield Wood"
+        type: work
+    dates: ["14th century"]
+
+  - category: work
+    claim: "'The Tales of Enfield Wood' codified the divergent folklore interpretations of the Farmer Duke and his Masked Band."
+    entities:
+      - name: "The Tales of Enfield Wood"
+        type: work
+      - name: "Farmer Duke"
+        type: concept
+      - name: "Masked Band"
+        type: concept
+
+  - category: language
+    claim: "There is a growing separation between the Merch and Kentish tongues as evidenced by vocabulary in 'The Tales of Enfield Wood'."
+    entities:
+      - name: "Merch"
+        type: language
+      - name: "Kentish"
+        type: language
+      - name: "The Tales of Enfield Wood"
+        type: work
+
+  - category: person
+    claim: "John of Yare is traditionally identified as the author of 'The Tales of Enfield Wood'."
+    entities:
+      - name: "John of Yare"
+        type: person
+      - name: "The Tales of Enfield Wood"
+        type: work
+
+  - category: work
+    claim: "John of Yare wrote the historical account 'The Great Dying'."
+    entities:
+      - name: "John of Yare"
+        type: person
+      - name: "The Great Dying"
+        type: work
+    relationships:
+      - subject: "John of Yare"
+        predicate: "wrote"
+        object: "The Great Dying"
+
+  - category: language
+    claim: "The word for 'silver' is of uncertain origin, with words referring to the substance having been borrowed between languages for millennia via extensive trade networks."
+    entities:
+      - name: "silver"
+        type: concept
+
+  - category: language
+    claim: "Lithowan 'sudrabs' is a word for silver."
+    entities:
+      - name: "Lithowan"
+        type: language
+
+  - category: language
+    claim: "Hausan ''asrvae' is a word for silver."
+    entities:
+      - name: "Hausan"
+        type: language
+
+  - category: language
+    claim: "Vask 'zirar' is a word for silver."
+    entities:
+      - name: "Vask"
+        type: language
+
+  - category: language
+    claim: "The most likely origin of the word for silver as a trade-word is ancient Acadian 'surpum'."
+    entities:
+      - name: "Acadian"
+        type: language
+
+  - category: language
+    claim: "Sinic runes have been used soundwise in certain names and other words of foreign origin since antiquity."
+    entities:
+      - name: "Sinic runes"
+        type: concept
+
+  - category: language
+    claim: "Usage of Sinic runes soundwise is seen in neighbouring polities from the seventh century."
+    entities:
+      - name: "Sinic runes"
+        type: concept
+    dates: ["7th century N"]
+
+  - category: language
+    claim: "Early maniocan script is an example of the practice of using Sinic runes soundwise."
+    entities:
+      - name: "maniocan script"
+        type: concept
+      - name: "Sinic runes"
+        type: concept
+
+  - category: language
+    claim: "Usage of Sinic runes soundwise gains currency in Cathay."
+    entities:
+      - name: "Sinic runes"
+        type: concept
+      - name: "Cathay"
+        type: place
