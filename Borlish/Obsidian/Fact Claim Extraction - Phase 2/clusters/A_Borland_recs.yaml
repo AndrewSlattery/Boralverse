@@ -1,0 +1,112 @@
+# Recommendations for cluster A_Borland
+entity_reviews:
+  - entity: "Borland"
+    near_duplicate_groups:
+
+      - claims_in_group:
+          - entry: "15.5"
+            claim: "Borland lost over four hundred thousand people in the Second Great Dying."
+          - entry: "26.5"
+            claim: "Borland lost over four hundred thousand people—one-seventh of its population—to the Second Great Dying."
+        action: remove_duplicates
+        keep_entry: "26.5"
+        reason: "Both state the same fact; 26.5 adds the fractional proportion ('one-seventh of its population'), making it more informative."
+
+      - claims_in_group:
+          - entry: "1.5"
+            claim: "Roman Christianity arrived on Borland and led to the destruction or repurposing of pagan sites, both Kelt and pantheic."
+          - entry: "26.5"
+            claim: "The fourth century saw the arrival of Roman Christianity on Borland."
+        action: merge
+        merged_claim:
+          category: religion
+          claim: "In the fourth century, Roman Christianity arrived on Borland, leading to the destruction or repurposing of pagan sites, both Kelt and pantheic."
+          entities:
+            - name: "Borland"
+              type: place
+          dates: ["4th century N"]
+        reason: "26.5 supplies the fourth-century date; 1.5 adds the consequence for pagan sites. Together they form one complete claim."
+
+      - claims_in_group:
+          - entry: "1.5"
+            claim: "An intertribal system of hill forts existed in pre-Classical Borland, with a culture around authority evidenced by extant art, sculpture, and jewellery."
+          - entry: "26.5"
+            claim: "The Kelts of Borland were organised into many tribes ruled from hill fort structures."
+        action: remove_duplicates
+        keep_entry: "1.5"
+        reason: "Both describe the same pre-Roman hill-fort tribal organisation; 1.5 is more detailed, adding the evidential basis (art, sculpture, jewellery)."
+
+      - claims_in_group:
+          - entry: "2.5"
+            claim: "Germanic Angles and Saxons migrated into the west and south of Borland in the post-Roman period."
+          - entry: "26.5"
+            claim: "German peoples, primarily Angles, came from the mainland and settled in Borland."
+        action: remove_duplicates
+        keep_entry: "2.5"
+        reason: "Both cover the same post-Roman Germanic migration; 2.5 names both Angles and Saxons, specifies the geographic direction (west and south), and carries a date range (400–800 N), making it more complete."
+
+      - claims_in_group:
+          - entry: "2.5"
+            claim: "Danish raiders attacked coastal settlements along the north and east coasts of Borland."
+          - entry: "26.5"
+            claim: "Dane raids on Borland began in the late eighth century."
+        action: merge
+        merged_claim:
+          category: event
+          claim: "Beginning in the late eighth century, Danish raiders attacked coastal settlements along the north and east coasts of Borland."
+          entities:
+            - name: "Borland"
+              type: place
+          dates: ["late 8th century N", "800–1029 N"]
+        reason: "2.5 supplies the geographic detail (north and east coasts, coastal settlements); 26.5 supplies the start date (late eighth century). Together they form one complete claim."
+
+      - claims_in_group:
+          - entry: "26.5"
+            claim: "Under Hadrian, Borland was made a separate province from Britannia."
+          - entry: "195.5"
+            claim: "Roman emperors Claudius and Hadrian personally visited Borland; Claudius orchestrated the conquests of Britain and Borland, while Hadrian's tour led to the creation of a Borlish province (Īnsula Borālum or Borālia) separate from Britain."
+        action: remove_duplicates
+        keep_entry: "195.5"
+        reason: "Both concern Hadrian's creation of a separate Borlish province; 195.5 is substantially more complete, adding Claudius's role, both provincial names (Īnsula Borālum / Borālia), and the personal visits."
+
+      - claims_in_group:
+          - entry: "26.5"
+            claim: "After the Diocletian reforms, Borland's province became the Diocese of Boral."
+          - entry: "195.5"
+            claim: "Diocletian's administrative reforms created the Diocese of Borland from the former Borlish province."
+        action: flag_contradiction
+        contradiction_note: "Entry 26.5 names the resulting administrative unit 'Diocese of Boral'; entry 195.5 names it 'Diocese of Borland'. These may be two different Borlish-language vs. English names for the same body, or one may be an error. Canon needs to clarify the correct English-language name."
+        reason: "The two claims describe the same Diocletian reform but use different names for the diocese created."
+
+      - claims_in_group:
+          - entry: "26.5"
+            claim: "Borland's involvement in the Romantic Wars culminated in the Hawkirch Surrender of 1632."
+          - entry: "67.5"
+            claim: "Borland's involvement in the Romantic Wars was restricted to a failed invasion culminating in the Hawkirch Surrender of 1623 N, along with unstable military aid arrangements with neighbouring polities."
+        action: flag_contradiction
+        contradiction_note: "Entry 26.5 dates the Hawkirch Surrender to 1632; entry 67.5 dates it to 1623. These cannot both be correct."
+        reason: "Direct date contradiction on the same named event."
+
+      - claims_in_group:
+          - entry: "26.5"
+            claim: "Borlish soldiers were present at the disastrously mismanaged Battle of Hulm in 1821."
+          - entry: "35.5"
+            claim: "Borland participated in the Second German War, with Borlish soldiers present alongside Bavarn and Furlaine fighters at the Battle of Hulm in 1821."
+        action: remove_duplicates
+        keep_entry: "35.5"
+        reason: "Both place Borlish soldiers at the Battle of Hulm in 1821; 35.5 adds the broader conflict name (Second German War) and names the allied forces (Bavarn, Furlaine), making it more informative."
+
+      - claims_in_group:
+          - entry: "26.5"
+            claim: "The name 'Borland' descends from Old English 'Boralland', meaning 'land of the Borlish people'."
+          - entry: "26.5"
+            claim: "It is disputed whether the Romans knew Borland as 'insula borealis' or borrowed the native Kelt name 'enis borag'."
+          - entry: "26.5"
+            claim: "The Kelt name 'enis borag' means 'island of the dawn'."
+          - entry: "164.5"
+            claim: "The name Borland is thought to descend from the Kelt enis borag meaning 'island of the dawn' and bora ale meaning 'the other Easterners', originally an exonym used by Brythonic speakers on Albion; the Romans were also influenced by its similarity to Latin boreālis meaning 'northern'."
+        action: remove_duplicates
+        keep_entry: "164.5"
+        reason: "The three claims from 26.5 collectively assert (a) the Old English descent, (b) the disputed Roman name, and (c) the meaning of 'enis borag'. Entry 164.5 synthesises all of this into one richer claim that also adds the Brythonic exonym context and the Latin boreālis influence. The 26.5 trio is superseded."
+
+    assessment: "Found 9 near-duplicate or contradiction groups. 2 contradictions requiring canon resolution: (1) 'Diocese of Boral' vs 'Diocese of Borland' for the Diocletian administrative unit (entries 26.5 vs 195.5); (2) Hawkirch Surrender dated 1632 vs 1623 (entries 26.5 vs 67.5). 7 near-duplicate groups resolved by remove_duplicates or merge."

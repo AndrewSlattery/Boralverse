@@ -1,0 +1,131 @@
+=== apply_recs.py report ===
+
+Input:   2724 claims
+Removed: 176
+Merged:  48 groups → 48 new merged claims
+Flagged: 48 contradiction-annotated claims
+Output:  2596 claims
+
+--- Actions applied ---
+[remove_dup] Borland | keep 26.5 | drop ['15.5']
+[merge]      Borland | entries ['1.5', '26.5'] → new merged claim
+[remove_dup] Borland | keep 1.5 | drop ['26.5']
+[remove_dup] Borland | keep 2.5 | drop ['26.5']
+[merge]      Borland | entries ['2.5', '26.5'] → new merged claim
+[remove_dup] Borland | keep 195.5 | drop ['26.5']
+[contradict] Borland | entries ['26.5', '195.5']
+[contradict] Borland | entries ['26.5', '67.5']
+[remove_dup] Borland | keep 35.5 | drop ['26.5']
+[remove_dup] Borland | keep 164.5 | drop ['26.5', '26.5', '26.5']
+[merge]      Portingale | entries ['14.5', '14.5', '14.5', '55.5'] → new merged claim
+[remove_dup] Portingale | keep 55.5 | drop ['14.5']
+[remove_dup] Portingale | keep 55.5 | drop ['15.5']
+[merge]      Portingale | entries ['34.5', '55.5', '55.5', '13.5'] → new merged claim
+[merge]      Portingale | entries ['34.5', '55.5', '71.5', '71.5', '105.5', '105.5'] → new merged claim
+[remove_dup] Borlish | keep 117.5 | drop ['26.5']
+[remove_dup] Borlish | keep 121.5 | drop ['117.5']
+[remove_dup] Borlish | keep 117.5 | drop ['121.5']
+[remove_dup] Borlish | keep 117.5 | drop ['121.5']
+[remove_dup] Elsebeth Sneider | keep 24.5 | drop ['28.5', '83.5']
+[remove_dup] Elsebeth Sneider | keep 24.5 | drop ['28.5', '83.5']
+[contradict] Elsebeth Sneider | entries ['24.5', '24.5', '28.5', '79.5', '83.5']
+[remove_dup] Elsebeth Sneider | keep 24.5 | drop ['28.5', '79.5', '83.5']
+[contradict] Elsebeth Sneider | entries ['24.5', '31.5']
+[merge]      Ambrose III | entries ['14.5', '56.5'] → new merged claim
+[remove_dup] Ambrose III | keep 14.5 | drop ['56.5']
+[merge]      Ambrose III | entries ['14.5', '122.5'] → new merged claim
+[remove_dup] Ambrose III | keep 14.5 | drop ['122.5']
+[merge]      Ambrose III | entries ['14.5', '14.5'] → new merged claim
+[merge]      Ambrose III | entries ['56.5', '122.5'] → new merged claim
+[remove_dup] Vascony | keep 56.5 | drop ['15.5']
+[merge]      Vascony | entries ['14.5', '56.5'] → new merged claim
+[merge]      Vascony | entries ['39.5', '56.5', '67.5'] → new merged claim
+[remove_dup] Vascony | keep 22.5 | drop []
+[remove_dup] Mysarnos Codex | keep 62.5 | drop ['6.5']
+[remove_dup] Mysarnos Codex | keep 62.5 | drop ['6.5']
+[remove_dup] Mysarnos Codex | keep 62.5 | drop ['6.5']
+[merge]      Mysarnos Codex | entries ['6.5', '62.5'] → new merged claim
+[contradict] Mysarnos Codex | entries ['6.5', '62.5']
+[remove_dup] Mysarnos Codex | keep 62.5 | drop ['6.5']
+[remove_dup] Mysarnos Codex | keep 62.5 | drop ['6.5']
+[merge]      Mysarnos Codex | entries ['5.5', '62.5'] → new merged claim
+[remove_dup] Mysarnos Codex | keep 62.5 | drop ['5.5', '5.5']
+[merge]      Brethin | entries ['23.5', '40.5', '63.5', '142.5'] → new merged claim
+[remove_dup] Brethin | keep 23.5 | drop ['40.5']
+[merge]      Brethin | entries ['23.5', '39.5'] → new merged claim
+[merge]      First Drengot Empire | entries ['64.5', '89.5'] → new merged claim
+[remove_dup] First Drengot Empire | keep 64.5 | drop ['89.5']
+[contradict] First Drengot Empire | entries ['64.5', '64.5', '103.5']
+[remove_dup] Adaillé Nassow | keep 16.5 | drop ['45.5']
+[merge]      Adaillé Nassow | entries ['16.5', '69.5'] → new merged claim
+[remove_dup] Adaillé Nassow | keep 16.5 | drop ['45.5', '69.5']
+[contradict] Adaillé Nassow | entries ['16.5', '16.5']
+[merge]      Burgundy | entries ['56.5', '75.5', '75.5', '92.5'] → new merged claim
+[merge]      Burgundy | entries ['64.5', '75.5'] → new merged claim
+[contradict] Burgundy | entries ['15.5', '75.5']
+[contradict] Mysarnos | entries ['5.5', '62.5']
+[contradict] Mysarnos | entries ['5.5', '5.5', '62.5']
+[merge]      Mysarnos | entries ['5.5', '62.5'] → new merged claim
+[merge]      Mysarnos | entries ['5.5', '151.5'] → new merged claim
+[merge]      steeplepost | entries ['36.5', '38.5'] → new merged claim
+[merge]      steeplepost | entries ['36.5', '38.5', '39.5'] → new merged claim
+[contradict] steeplepost | entries ['38.5', '46.5']
+[contradict] steeplepost | entries ['38.5', '45.5']
+[remove_dup] Drengot Collusion | keep 34.5 | drop ['21.5']
+[merge]      Drengot Collusion | entries ['34.5', '76.5'] → new merged claim
+[merge]      Drengot Collusion | entries ['34.5', '91.5'] → new merged claim
+[contradict] Drengot Collusion | entries ['34.5', '78.5', '190.5']
+[merge]      Vigo the Magnificent | entries ['18.5', '63.5'] → new merged claim
+[merge]      Vigo the Magnificent | entries ['18.5', '18.5', '63.5'] → new merged claim
+[merge]      Vigo the Magnificent | entries ['18.5', '63.5'] → new merged claim
+[remove_dup] Vigo the Magnificent | keep 63.5 | drop ['18.5']
+[remove_dup] Vigo the Magnificent | keep 63.5 | drop ['18.5', '18.5']
+[merge]      Morrack | entries ['29.5', '29.5', '78.5'] → new merged claim
+[merge]      New Provence | entries ['27.5', '27.5', '136.5'] → new merged claim
+[contradict] Provence | entries ['109.5', '141.5']
+[merge]      Axbane | entries ['1.5', '26.5', '106.5'] → new merged claim
+[contradict] Axbane | entries ['26.5', '105.5', '106.5']
+[contradict] Axbane | entries ['26.5', '106.5']
+[remove_dup] Britain | keep 161.5 | drop ['97.5']
+[merge]      Britain | entries ['97.5', '102.5'] → new merged claim
+[remove_dup] Damvath | keep 57.5 | drop ['2.5']
+[merge]      Damvath | entries ['26.5', '57.5'] → new merged claim
+[contradict] Damvath | entries ['26.5', '57.5']
+[merge]      London | entries ['36.5', '72.5', '82.5'] → new merged claim
+[merge]      Markland | entries ['33.5', '72.5'] → new merged claim
+[remove_dup] Markland | keep 72.5 | drop ['40.5']
+[remove_dup] Revillon | keep 96.5 | drop ['19.5', '19.5']
+[remove_dup] Revillon | keep 96.5 | drop ['19.5']
+[remove_dup] Revillon | keep 96.5 | drop ['19.5']
+[remove_dup] Southbar | keep 26.5 | drop ['2.5']
+[remove_dup] Southbar | keep 94.5 | drop ['2.5', '26.5', '175.5']
+[merge]      Southbar | entries ['26.5', '94.5'] → new merged claim
+[merge]      Devon | entries ['18.5', '63.5'] → new merged claim
+[remove_dup] Kent | keep 34.5 | drop ['21.5']
+[remove_dup] Saxony | keep 83.5 | drop ['28.5', '36.5']
+[merge]      Saxony | entries ['22.5', '83.5'] → new merged claim
+[contradict] Hasiny | entries ['118.5', '136.5']
+[merge]      Jothey of Borland | entries ['26.5', '32.5', '139.5'] → new merged claim
+[merge]      Jothey of Borland | entries ['26.5', '32.5'] → new merged claim
+[contradict] Jothey of Borland | entries ['26.5', '32.5']
+[remove_dup] Long Peace | keep 103.5 | drop ['22.5', '22.5', '115.5']
+[merge]      Long Peace | entries ['22.5', '103.5'] → new merged claim
+[merge]      Munir al-Hamdawi | entries ['14.5', '18.5'] → new merged claim
+[remove_dup] Munir al-Hamdawi | keep 14.5 | drop ['29.5']
+[remove_dup] Munir al-Hamdawi | keep 18.5 | drop ['29.5']
+[contradict] Munir al-Hamdawi | entries ['18.5', '171.5']
+[merge]      Second Great Dying | entries ['15.5', '26.5'] → new merged claim
+[merge]      Second Great Dying | entries ['15.5', '15.5'] → new merged claim
+[merge]      Absolon Mortenszen | entries ['15.5', '16.5', '125.5'] → new merged claim
+[merge]      Absolon Mortenszen | entries ['15.5', '16.5'] → new merged claim
+[merge]      Joseph III | entries ['15.5', '17.5', '17.5', '26.5', '139.5'] → new merged claim
+[remove_dup] Joseph III | keep 17.5 | drop ['7.5']
+[remove_dup] Joseph III | keep 139.5 | drop ['7.5', '26.5']
+[remove_dup] Avosche | keep 69.5 | drop ['16.5']
+[contradict] Avosche | entries ['16.5', '45.5', '69.5', '69.5']
+[contradict] Deviance movement | entries ['31.5', '103.5']
+[remove_dup] Deviance movement | keep 31.5 | drop ['40.5']
+[contradict] dime measures | entries ['132.5', '183.5']
+[remove_dup] dime measures | keep 183.5 | drop ['132.5']
+[remove_dup] Fiellas Dimenja | keep 58.5 | drop ['34.5']
+[merge]      Fiellas Dimenja | entries ['58.5', '58.5'] → new merged claim

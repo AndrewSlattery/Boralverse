@@ -1,0 +1,304 @@
+# Recommendations for cluster B_Portingale_Borlish_ElsebethSneider
+entity_reviews:
+
+  - entity: "Portingale"
+    near_duplicate_groups:
+
+      - claims_in_group:
+          - entry: "14.5"
+            claim: "Northern Portingale included all of Galice."
+          - entry: "14.5"
+            claim: "Northern Portingale extended as far south as Braga."
+          - entry: "14.5"
+            claim: "Northern Portingale nominally included Calès."
+          - entry: "55.5"
+            claim: "Much of northern Portingale was conquered by Vascony during the Vascon Ascendancy under Ambrose III, as far south as Braga and nominally Calès."
+        action: merge
+        keep_entry: "55.5"
+        reason: >
+          The three 14.5 claims together state the same territorial facts (Galice, Braga, Calès) that 55.5 consolidates
+          into one claim, with the added detail of the Vascon Ascendancy and Ambrose III. The 55.5 version is more
+          complete but omits explicit mention that northern Portingale included all of Galice; a merged claim should
+          fold that in.
+        merged_claim:
+          category: event
+          claim: >
+            Much of northern Portingale, including all of Galice, was conquered by Vascony during the Vascon Ascendancy
+            under Ambrose III, extending as far south as Braga and nominally Calès.
+          entities:
+            - name: Portingale
+              type: polity
+            - name: Vascony
+              type: polity
+            - name: Ambrose III
+              type: person
+            - name: Galice
+              type: place
+            - name: Braga
+              type: place
+            - name: Calès
+              type: place
+
+      - claims_in_group:
+          - entry: "14.5"
+            claim: "The rest of Portingale fell to Morrack in 1457."
+          - entry: "55.5"
+            claim: "The rump Portingale in the south fell to Morrack in 1457 N as part of the expansionist campaigns of King Munir al-Hamdawi."
+        action: remove_duplicates
+        keep_entry: "55.5"
+        reason: >
+          Both claims state that southern/remaining Portingale fell to Morrack in 1457. The 55.5 version is more
+          complete, naming the agent (King Munir al-Hamdawi) and providing the N-date notation.
+
+      - claims_in_group:
+          - entry: "15.5"
+            claim: "Portingale was ravaged early and mercilessly by the Second Great Dying."
+          - entry: "55.5"
+            claim: "Portingale was ravaged early by the Second Great Dying in the years following 1519 N, with one fifth of the population dying within the decade."
+        action: remove_duplicates
+        keep_entry: "55.5"
+        reason: >
+          Both claims assert that Portingale was ravaged early by the Second Great Dying. The 55.5 version adds
+          the date (after 1519 N) and a quantified mortality figure (one fifth of the population within the decade),
+          making it substantially more complete. The word "mercilessly" in 15.5 is purely rhetorical and adds no
+          distinct factual content.
+
+      - claims_in_group:
+          - entry: "34.5"
+            claim: "Portingale was never part of the Drengot Collusion but occupied a peripheral position in its orbit."
+          - entry: "55.5"
+            claim: "Portingale was never a full member of the Drengot Collusion."
+          - entry: "55.5"
+            claim: "The Drengot Collusion eventually counted Portingale within its orbit during the first decades of the twentieth century."
+          - entry: "13.5"
+            claim: "Portingale's peripheral position in the orbit of the Drengot Collusion prevented more formal ownership of Roxa Comba by the Peujon Rous media guild."
+        action: merge
+        keep_entry: "34.5"
+        reason: >
+          The 34.5 claim combines the two 55.5 claims (non-membership + peripheral orbit) into a single statement,
+          and the 13.5 claim is a downstream consequence of that status rather than a restatement. The two 55.5
+          claims together repeat what 34.5 says as a unit; the 55.5 orbit claim adds a temporal anchor (early 20th c.)
+          not present in 34.5. A merge preserves all content. The 13.5 claim is a distinct downstream fact and
+          should be kept separately; it is included here only to flag the shared "peripheral orbit" language.
+        merged_claim:
+          category: polity
+          claim: >
+            Portingale was never a full member of the Drengot Collusion but occupied a peripheral position in its
+            orbit, particularly during the first decades of the twentieth century.
+          entities:
+            - name: Portingale
+              type: polity
+            - name: Drengot Collusion
+              type: polity
+          dates: early 20th c. N
+        note: >
+          Entry 13.5 ("Portingale's peripheral position in the orbit of the Drengot Collusion prevented more formal
+          ownership of Roxa Comba by the Peujon Rous media guild.") references the same peripheral-orbit status but
+          is a distinct downstream consequence claim; retain it separately.
+
+      - claims_in_group:
+          - entry: "34.5"
+            claim: "In the 1950s, Portingale funded threshold mills to supply its own astraphor."
+          - entry: "55.5"
+            claim: "In the 1950s and 60s N, Portingale became a pioneer of threshold force, building enough mills that by 1970 N it was exporting astraphor as far as Lombardy."
+          - entry: "71.5"
+            claim: "Portingale was a pioneer of threshold force in the 1950s N, funding research to reduce dependence on astraphor exported by the Drengot Collusion."
+          - entry: "71.5"
+            claim: "Portingale became a net exporter of astraphor in the 1970s N thanks to its threshold force programme."
+          - entry: "105.5"
+            claim: "In the 1950s, the Mortar coalition in Portingale funded research into using threshold force to produce astraphor, to reduce dependence on imports from the Drengot Collusion."
+          - entry: "105.5"
+            claim: "By the 1960s, Portingale was a world pioneer in constructing threshold mills, becoming a net exporter of astraphor in 1971."
+        action: merge
+        keep_entry: "55.5"
+        reason: >
+          All six claims describe the same programme: Portingale invested in threshold force/mills in the 1950s to
+          reduce Drengot Collusion dependence, became a pioneer by the 1960s, and was a net exporter of astraphor
+          by c.1970-71. The 55.5 claim is the most synthetic but omits the motivation (reducing Drengot dependence,
+          from 71.5/105.5) and the specific internal actor (Mortar coalition, from 105.5). Note a minor date
+          discrepancy: 55.5 says "by 1970 N", 71.5 says "1970s N", and 105.5 says "1971" — these are compatible
+          approximations, not contradictions, and 105.5's "1971" is the most precise. A merged claim folds in all
+          distinct details.
+        merged_claim:
+          category: technology
+          claim: >
+            From the 1950s N, Portingale (led by the Mortar coalition) funded research into threshold force to reduce
+            dependence on astraphor imported from the Drengot Collusion; by the 1960s N it had become a world pioneer
+            in constructing threshold mills, and by 1971 N it was a net exporter of astraphor, reaching as far as Lombardy.
+          entities:
+            - name: Portingale
+              type: polity
+            - name: Drengot Collusion
+              type: polity
+            - name: Lombardy
+              type: polity
+            - name: Mortar coalition
+              type: organisation
+            - name: threshold force
+              type: concept
+          dates: 1950s–1971 N
+
+    assessment: >
+      Found 5 near-duplicate groups. No outright contradictions detected; the minor date variation between 55.5
+      ("by 1970 N"), 71.5 ("1970s N"), and 105.5 ("1971") in the threshold-force group is treated as approximation
+      rather than contradiction, with 105.5's "1971" taken as most precise.
+
+  - entity: "Borlish"
+    near_duplicate_groups:
+
+      - claims_in_group:
+          - entry: "26.5"
+            claim: "Borlish is the only surviving branch of Insular Romance."
+          - entry: "117.5"
+            claim: "The dialects of Borlish are the only surviving descendants of the Insular variety of Vulgar Latin."
+        action: remove_duplicates
+        keep_entry: "117.5"
+        reason: >
+          Both claims state the same fact: Borlish alone survives from Insular Romance/the Insular variety of Vulgar
+          Latin. The 117.5 version is from the dedicated linguistic source and uses more precise terminology
+          ("descendants of the Insular variety of Vulgar Latin"), making it more complete and technically accurate.
+
+      - claims_in_group:
+          - entry: "117.5"
+            claim: "By the Old Borlish period, all number and case distinctions in Borlish nouns had been lost."
+          - entry: "121.5"
+            claim: "By the late Old Borlish period, the noun paradigm for regular Borlish nouns had completely collapsed due to loss of final vowels and case distinctions."
+        action: remove_duplicates
+        keep_entry: "121.5"
+        reason: >
+          Both claims state that the Borlish noun paradigm had collapsed by the (late) Old Borlish period through
+          loss of number/case distinctions. The 121.5 version is more specific — it says "late Old Borlish",
+          mentions "loss of final vowels" as a contributing mechanism, and applies to "regular Borlish nouns" —
+          making it the more complete statement.
+
+      - claims_in_group:
+          - entry: "117.5"
+            claim: "The Borlish words oc 'singular' and ec 'plural' derive from the Latin demonstrative hic 'this', with neuter forms hoc and haec respectively."
+          - entry: "121.5"
+            claim: "Borlish uses oc 'singular' and ec 'plural' derived from the neuter forms hoc and haec of the Latin demonstrative hic 'this'."
+        action: remove_duplicates
+        keep_entry: "117.5"
+        reason: >
+          Both claims state that Borlish oc and ec derive from Latin hic (neuter hoc/haec). The 117.5 version is
+          marginally clearer in its framing ("derive from ... with neuter forms hoc and haec") and preserves the
+          same information; either version is acceptable, but 117.5 is from the dedicated sound-change source.
+
+      - claims_in_group:
+          - entry: "117.5"
+            claim: "The Borlish word sour 'sister' is the only counterexample where the nominative singular survived over the oblique form in late Old Borlish levelling."
+          - entry: "121.5"
+            claim: "The Borlish word sour 'sister' is the only surviving example where the nominative singular form was retained over the oblique form during noun paradigm levelling."
+        action: remove_duplicates
+        keep_entry: "117.5"
+        reason: >
+          Both claims are near-identical: sour 'sister' is the sole word that retained the nominative over the
+          oblique during Old Borlish levelling. The 117.5 version uses "counterexample" and explicitly names the
+          process "late Old Borlish levelling", which is slightly more specific. Either could be kept; 117.5 is
+          preferred as it comes from the dedicated linguistic source.
+
+    assessment: >
+      Found 4 near-duplicate groups. No contradictions detected.
+
+  - entity: "Elsebeth Sneider"
+    near_duplicate_groups:
+
+      - claims_in_group:
+          - entry: "24.5"
+            claim: "Elsebeth Sneider married in 1772."
+          - entry: "24.5"
+            claim: "In 1772 Elsebeth Sneider married Otto Sneider."
+          - entry: "28.5"
+            claim: "Elsebeth Sneider (m. 1772, d. c1830) was a pioneer of the genre of parachthon romance."
+          - entry: "83.5"
+            claim: "Elsebeth Sneider (married 1772 N, d. ~1830 N) was a Saxon author and originator of the voidtale craze with her 1795 N work 'Through a Black Mirror'."
+        action: remove_duplicates
+        keep_entry: "24.5"
+        reason: >
+          The claim "Elsebeth Sneider married in 1772" and "In 1772 Elsebeth Sneider married Otto Sneider" are
+          both from entry 24.5 and state the same fact; the second is more complete (names the husband). The
+          marriage date also appears parenthetically in 28.5 and 83.5, where it is incidental to other claims.
+          Remove "Elsebeth Sneider married in 1772" (the less complete 24.5 sub-claim); the fact is fully
+          captured by "In 1772 Elsebeth Sneider married Otto Sneider."
+        note: >
+          The 28.5 and 83.5 claims are addressed in their own groups below; the marriage date within them is
+          parenthetical context, not a standalone duplicate of the marriage fact.
+
+      - claims_in_group:
+          - entry: "24.5"
+            claim: "Elsebeth Sneider died around 1830."
+          - entry: "28.5"
+            claim: "Elsebeth Sneider (m. 1772, d. c1830) was a pioneer of the genre of parachthon romance."
+          - entry: "83.5"
+            claim: "Elsebeth Sneider (married 1772 N, d. ~1830 N) was a Saxon author and originator of the voidtale craze with her 1795 N work 'Through a Black Mirror'."
+        action: remove_duplicates
+        keep_entry: "24.5"
+        reason: >
+          The death date (~1830) appears as a standalone claim in 24.5 and as parenthetical context in 28.5 and
+          83.5. The standalone 24.5 claim is the authoritative statement of the date; the parenthetical occurrences
+          in 28.5 and 83.5 are not standalone duplicates and should be evaluated with those claims' primary content.
+
+      - claims_in_group:
+          - entry: "24.5"
+            claim: "Elsebeth Sneider was a pioneer of parachthon romance."
+          - entry: "24.5"
+            claim: "Elsebeth Sneider was a pioneer of voidtale in particular."
+          - entry: "28.5"
+            claim: "Elsebeth Sneider (m. 1772, d. c1830) was a pioneer of the genre of parachthon romance."
+          - entry: "79.5"
+            claim: "The voidtale genre was pioneered by Saxon author Elsebeth Sneider with her 1795 N work 'Through a Black Mirror'."
+          - entry: "83.5"
+            claim: "Elsebeth Sneider (married 1772 N, d. ~1830 N) was a Saxon author and originator of the voidtale craze with her 1795 N work 'Through a Black Mirror'."
+        action: flag_contradiction
+        contradiction_note: >
+          Entry 24.5 describes Sneider as "a pioneer of parachthon romance" and additionally "a pioneer of voidtale
+          in particular", suggesting voidtale is a sub-genre of parachthon romance. Entry 28.5 likewise names her
+          as pioneer of parachthon romance. However, entries 79.5 and 83.5 attribute to her the pioneering of
+          voidtale specifically, with no mention of parachthon romance as the parent category, and 83.5 calls her
+          the "originator of the voidtale craze" (a stronger claim than "pioneer"). The relationship between
+          parachthon romance and voidtale is ambiguous across these entries: is voidtale a variety of parachthon
+          romance, or a distinct genre? This should be clarified before deduplication. Additionally, 28.5 and 24.5
+          agree on parachthon romance, while 79.5 and 83.5 focus exclusively on voidtale, creating an apparent
+          inconsistency in which genre is her primary pioneering contribution.
+
+      - claims_in_group:
+          - entry: "24.5"
+            claim: "Elsebeth Sneider's most successful work was the 1795 trevold 'Durgh'nen Shorzen Shower' (Through a Black Mirror)."
+          - entry: "28.5"
+            claim: "Elsebeth Sneider's pioneer parachthon romance work is 'Through a Black Mirror'."
+          - entry: "79.5"
+            claim: "The voidtale genre was pioneered by Saxon author Elsebeth Sneider with her 1795 N work 'Through a Black Mirror'."
+          - entry: "83.5"
+            claim: "Elsebeth Sneider (married 1772 N, d. ~1830 N) was a Saxon author and originator of the voidtale craze with her 1795 N work 'Through a Black Mirror'."
+        action: remove_duplicates
+        keep_entry: "24.5"
+        reason: >
+          All four claims identify the same work — "Through a Black Mirror" (Borlish title: "Durgh'nen Shorzen
+          Shower"), dated 1795 — as Sneider's landmark publication. The 24.5 version is most complete: it gives
+          the original Borlish title, the translation, the date, and characterises it as her most successful work.
+          The 28.5 and 79.5/83.5 claims add context about genre (parachthon romance / voidtale) but the work
+          identification itself is duplicated. Pending resolution of the parachthon/voidtale contradiction above,
+          retain 24.5 as the master claim for the work's identification, supplemented by whichever genre claim
+          is confirmed correct.
+
+      - claims_in_group:
+          - entry: "24.5"
+            claim: "Elsebeth Sneider wrote against the nascent Deviance movement."
+          - entry: "31.5"
+            claim: "Elsebeth Sneider herself despised Anti-Paradism."
+        action: flag_contradiction
+        contradiction_note: >
+          Entry 24.5 states Sneider wrote against "the Deviance movement." Entry 31.5 says she "despised
+          Anti-Paradism." It is unclear whether Anti-Paradism and the Deviance movement are synonymous,
+          overlapping, or distinct. If they are the same, the claims are near-duplicates (with 24.5 being
+          more behaviourally specific — "wrote against" — and 31.5 being attitudinal — "despised"). If they
+          are distinct concepts, both claims stand independently. This should be clarified. Cross-reference
+          with entry 24.5's claim that "Elsebeth Sneider's works were popular with adherents of the Deviance
+          movement" — which is not contradictory but adds nuance (she opposed it yet her readership included
+          its adherents).
+
+    assessment: >
+      Found 5 groups requiring review: 2 straightforward duplicate-removal groups (marriage date, death date),
+      1 simple duplicate group (the work "Through a Black Mirror"), and 2 contradiction/ambiguity flags.
+      The parachthon romance vs. voidtale genre relationship needs worldbuilding clarification before those
+      claims can be cleanly deduplicated. The Deviance movement vs. Anti-Paradism relationship similarly
+      needs clarification.

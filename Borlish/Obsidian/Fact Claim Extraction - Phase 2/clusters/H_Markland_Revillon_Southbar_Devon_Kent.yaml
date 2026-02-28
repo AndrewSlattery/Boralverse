@@ -1,0 +1,657 @@
+# Deduplication cluster: H_Markland_Revillon_Southbar_Devon_Kent
+
+Markland:
+- entry: '33.5'
+  title: The Wars of Fealty
+  category: event
+  claim: Almost twice as many deaths per capita are recorded in Markland and English Kent from the Second Great Dying compared
+    with Norman Kent or Willemy.
+  entities:
+  - name: Markland
+    type: polity
+  - name: Kent
+    type: polity
+  - name: Willemy
+    type: polity
+  - name: Second Great Dying
+    type: event
+- entry: '40.5'
+  title: Albion
+  category: event
+  claim: Germanic migration from the continent into Albion took place through the fifth and sixth centuries, leading to the
+    establishment of Markland, Kent, Wessex, Anglia, Northumber and several smaller kingdoms.
+  entities:
+  - name: Markland
+    type: polity
+  - name: Kent
+    type: polity
+  - name: Wessex
+    type: polity
+  - name: Anglia
+    type: polity
+  - name: Northumber
+    type: polity
+  dates:
+  - 5th century N
+  - 6th century N
+- entry: '40.5'
+  title: Albion
+  category: event
+  claim: Markland withstood the Danes, though much of its eastern territory was settled by them.
+  entities:
+  - name: Markland
+    type: polity
+- entry: 72.5
+  title: Markland
+  category: polity
+  claim: Markland is a polity of Albion, situated east of Wales, north of London and Kent, and south of Northumber and Sodrick.
+  entities:
+  - name: Markland
+    type: polity
+  - name: Albion
+    type: polity
+- entry: 72.5
+  title: Markland
+  category: place
+  claim: Markland originates with Saxon settlements in sub-Roman Britannia, forming what would go on to be named mearce land
+    ('borderland').
+  entities:
+  - name: Markland
+    type: polity
+- entry: 72.5
+  title: Markland
+  category: language
+  claim: The demonym Mierce means 'people of the border', whence the Latin name Mercia and native Merchman ('man from Markland').
+  entities:
+  - name: Markland
+    type: polity
+- entry: 72.5
+  title: Markland
+  category: event
+  claim: The petty kingdom of Anglia was annexed by Markland with the Treaty of Oxford in the late eighth century, establishing
+    the persevering border between the mouths of the Severn and the Tames.
+  entities:
+  - name: Markland
+    type: polity
+  - name: Anglia
+    type: polity
+  dates: late 8th c. N
+- entry: 72.5
+  title: Markland
+  category: event
+  claim: Markland weathered the Viking Age more successfully than neighbouring Northumber, though much of its eastern coast
+    was settled by Danes; the city of Lincon served as the de facto border of Danish rule for several decades.
+  entities:
+  - name: Markland
+    type: polity
+  - name: Northumber
+    type: polity
+  - name: Lincon
+    type: place
+- entry: 72.5
+  title: Markland
+  category: event
+  claim: Around the turn of the second millennium, Markland was conquering territory from the northern reaches of Wales, incidentally
+    leading to Pope Agatho's canonisation of Welsh St David.
+  entities:
+  - name: Markland
+    type: polity
+  - name: Agatho
+    type: person
+  dates: c. 1000 N
+- entry: 72.5
+  title: Markland
+  category: event
+  claim: In the 1483 N Battle of Rexam (during the Wars of Fealty), the Kingdom of Britain expanded its borders in the north
+    and the last Duke of Chestre was killed.
+  entities:
+  - name: Markland
+    type: polity
+  - name: Wars of Fealty
+    type: event
+  - name: Rexam
+    type: place
+  dates: 1483 N
+- entry: 72.5
+  title: Markland
+  category: event
+  claim: Poor economic conditions and population displacement in Markland following the Wars of Fealty led it to suffer almost
+    twice as many deaths per capita from the Second Great Dying compared to polities like Willemy.
+  entities:
+  - name: Markland
+    type: polity
+  - name: Second Great Dying
+    type: event
+  - name: Willemy
+    type: polity
+- entry: 72.5
+  title: Markland
+  category: event
+  claim: The spellings of various towns and cities in Markland were rationalised during the Long Peace period; for example,
+    Conster for former Colncester.
+  entities:
+  - name: Markland
+    type: polity
+  - name: Long Peace
+    type: period
+- entry: 111.5
+  title: Battle of Rexam (1483)
+  category: glossary
+  claim: Markland is approximately the Boralverse equivalent of Mercia.
+  entities:
+  - name: Markland
+    irl: Mercia
+    type: polity
+Revillon:
+- entry: '19.5'
+  title: The Winter Feast
+  category: culture
+  claim: Revillon is the Borlish term for the eve before Christide.
+  entities:
+  - name: Revillon
+    type: concept
+  - name: Christide
+    type: concept
+- entry: '19.5'
+  title: The Winter Feast
+  category: culture
+  claim: Revillon often refers to the entire day before Christide.
+  entities:
+  - name: Revillon
+    type: concept
+  - name: Christide
+    type: concept
+- entry: '19.5'
+  title: The Winter Feast
+  category: terminology
+  claim: The Borlish spelling of Revillon is 'Reveglon'.
+  entities:
+  - name: Revillon
+    type: concept
+- entry: '19.5'
+  title: The Winter Feast
+  category: culture
+  claim: Revillon refers to the specific cultural practice on Borland of the Winter Feast.
+  entities:
+  - name: Revillon
+    type: concept
+  - name: Winter Feast
+    type: concept
+  - name: Borland
+    type: place
+- entry: '19.5'
+  title: The Winter Feast
+  category: culture
+  claim: Revillon is one of the longest continuously-practised folk traditions in Europe.
+  entities:
+  - name: Revillon
+    type: concept
+- entry: '19.5'
+  title: The Winter Feast
+  category: culture
+  claim: The practice of Revillon has evolved considerably with time.
+  entities:
+  - name: Revillon
+    type: concept
+- entry: '26.5'
+  title: Borland
+  category: culture
+  claim: The celebration of Revillon is an ancient tradition in Borland, dating back to the time of the Insular Kelts.
+  entities:
+  - name: Revillon
+    type: event
+  - name: Borland
+    type: polity
+- entry: '26.5'
+  title: Borland
+  category: culture
+  claim: As part of Revillon festivities, people bring pastries and baked goods to grand Revillon Feasts held in churches
+    across the country.
+  entities:
+  - name: Revillon
+    type: event
+  - name: Borland
+    type: polity
+- entry: 96.5
+  title: osceyan
+  category: culture
+  claim: Revillon is the Borlish term for the eve (and often the entire day) before Christide.
+  entities:
+  - name: Revillon
+    type: concept
+- entry: 96.5
+  title: osceyan
+  category: culture
+  claim: 'Revillon also refers to the cultural practice of the Winter Feast (Borlish: y Fest Reveglon), a celebration held
+    on Revillon in churches across Borland to which everyone in attendance brings food.'
+  entities:
+  - name: Revillon
+    type: concept
+  - name: Borland
+    type: place
+- entry: 96.5
+  title: osceyan
+  category: language
+  claim: The Borlish name Reveglon means 'vigil,' borrowed from French reveillon, itself from Latin evigilō.
+  entities:
+  - name: Revillon
+    type: concept
+- entry: 96.5
+  title: osceyan
+  category: culture
+  claim: Evidence of winter solstice festivities involving communally-prepared feasts on Borland predates the Roman invasion,
+    making Revillon one of the longest continuously-practised folk traditions in Europe.
+  entities:
+  - name: Revillon
+    type: concept
+  - name: Borland
+    type: place
+- entry: 164.5
+  title: Kelt Borland
+  category: culture
+  claim: The Borland tradition of Revillon traces its origins to a Kelt winter feast called the Flidōlus, recorded by the
+    third-century Roman historian Ammian.
+  entities:
+  - name: Revillon
+    type: culture
+  dates: 3rd c. N (recorded)
+Southbar:
+- entry: '2.5'
+  title: Children's Curriculum, part 2
+  source_work: Report towards a Normal Teaching for Children at Mantelschool
+  category: polity
+  claim: The Germanic migrations to Borland led to the formation of the petty kingdoms of Southbar and Angland.
+  entities:
+  - name: Southbar
+    type: polity
+  - name: Angland
+    type: polity
+  - name: Borland
+    type: place
+- entry: '2.5'
+  title: Children's Curriculum, part 2
+  source_work: Report towards a Normal Teaching for Children at Mantelschool
+  category: terminology
+  claim: In Borlish, Southbar is written 'Sothbar' and Angland is written 'Anglont'.
+  entities:
+  - name: Southbar
+    type: polity
+  - name: Angland
+    type: polity
+- entry: '2.5'
+  title: Children's Curriculum, part 2
+  source_work: Report towards a Normal Teaching for Children at Mantelschool
+  category: event
+  claim: Following the Battle of Fendal, Southbar swore fealty to the unified kingdom.
+  entities:
+  - name: Southbar
+    type: polity
+  - name: Battle of Fendal
+    type: event
+- entry: '26.5'
+  title: Borland
+  category: polity
+  claim: By the end of the sixth century, Angles and Saxons had formed the Borlish petty kingdoms of Southbar and Angland.
+  entities:
+  - name: Southbar
+    type: polity
+  - name: Angland
+    type: polity
+  dates:
+  - end of 6th century N
+- entry: '26.5'
+  title: Borland
+  category: event
+  claim: Southbar pledged fealty after the circa-810 Battle of Fendal.
+  entities:
+  - name: Southbar
+    type: polity
+  - name: Battle of Fendal
+    type: event
+  dates:
+  - ca. 810 N
+- entry: '26.5'
+  title: Borland
+  category: place
+  claim: Southbar is a county in the southwest of Borland which was once an independent kingdom.
+  entities:
+  - name: Southbar
+    type: place
+  - name: Borland
+    type: polity
+- entry: 94.5
+  title: ouç
+  category: place
+  claim: Southbar is a region of Borland in the southwest of the island, with its largest population centre being the city
+    of Axbane.
+  entities:
+  - name: Southbar
+    type: place
+  - name: Borland
+    type: place
+  - name: Axbane
+    type: place
+- entry: 94.5
+  title: ouç
+  category: polity
+  claim: The petty kingdom of Southbar was founded by Anglian immigrants in the fifth century.
+  entities:
+  - name: Southbar
+    type: polity
+  dates: 5th c. N
+- entry: 94.5
+  title: ouç
+  category: event
+  claim: After the Battle of Fendal in 810, Southbar was forced to swear fealty as a subordinate kingdom to the First Kingdom
+    of Borland.
+  entities:
+  - name: Southbar
+    type: polity
+  - name: Battle of Fendal
+    type: event
+  dates: 810 N
+- entry: 94.5
+  title: ouç
+  category: event
+  claim: Southbar harboured the exiled King Jothey and his wife Brenna of Barrow after the fall of the First Kingdom of Borland.
+  entities:
+  - name: Southbar
+    type: polity
+  - name: Jothey of Borland
+    type: person
+  - name: Brenna of Barrow
+    type: person
+- entry: 94.5
+  title: ouç
+  category: event
+  claim: By the end of the tenth century, Southbar had been incorporated into Dane Borland.
+  entities:
+  - name: Southbar
+    type: polity
+  dates: late 10th c. N
+- entry: 94.5
+  title: ouç
+  category: place
+  claim: In the twelfth century Southbar had become a county with its de facto seat at Axbane; by 1190 Count Steven resided
+    year-round in the coastal town.
+  entities:
+  - name: Southbar
+    type: place
+  - name: Axbane
+    type: place
+  - name: Steven
+    type: person
+  dates: 12th c. N; 1190 N
+- entry: 175.5
+  title: Stillian
+  category: event
+  claim: Approximately seven years after the unification of Borland and Angland, Southbar was forced to pledge fealty to the
+    new unified kingdom after the Battle of Fendal.
+  entities:
+  - name: Southbar
+    type: polity
+  - name: Battle of Fendal
+    type: event
+  dates: c. 810 N
+Devon:
+- entry: '18.5'
+  title: Significant Figures, cont.
+  category: event
+  claim: Devon had been de jure under Wessaxon authority since the final defeat of the West Albic Britons at Gaulford in 656.
+  entities:
+  - name: Devon
+    type: place
+  - name: Wessaxon
+    type: polity
+  - name: West Albic Britons
+    type: group
+  - name: Gaulford
+    type: place
+  dates:
+  - 656 N
+- entry: '18.5'
+  title: Significant Figures, cont.
+  category: event
+  claim: The more remote parts of Devon are thought never to have entirely submitted to Wessaxon authority.
+  entities:
+  - name: Devon
+    type: place
+  - name: Wessaxon
+    type: polity
+- entry: '18.5'
+  title: Significant Figures, cont.
+  category: event
+  claim: The reconquest of Devon spanned over two decades of intermittent fighting with Wessex.
+  entities:
+  - name: Devon
+    type: place
+  - name: Wessex
+    type: polity
+- entry: '18.5'
+  title: Significant Figures, cont.
+  category: event
+  claim: The reconquest of Devon concluded with the victory at Petherton in 749.
+  entities:
+  - name: Devon
+    type: place
+  - name: Petherton
+    type: place
+  dates:
+  - 749 N
+- entry: '40.5'
+  title: Albion
+  category: event
+  claim: The westward encroachment of Saxons drove an emigration of Kelts from Devon to Kernow.
+  entities:
+  - name: Devon
+    type: place
+  - name: Kernow
+    type: place
+- entry: 63.5
+  title: Devon
+  category: place
+  claim: 'Devon (Welsh: Devneint; locally: Dewna; Borlish: Dorogn) refers geographically to the southwestern peninsula of
+    Albion and politically to one of the most longstanding tallaths of Britain.'
+  entities:
+  - name: Devon
+    type: place
+  - name: Albion
+    type: polity
+- entry: 63.5
+  title: Devon
+  category: place
+  claim: Devon is named for the Dumnōniī (Classical Kelt Dubnonī or Dubnantī, meaning 'people of the deep valley'), a Kelt
+    people who inhabited the region in Roman times.
+  entities:
+  - name: Devon
+    type: place
+- entry: 63.5
+  title: Devon
+  category: event
+  claim: Devon was conquered piecemeal by the Saxons, with the Battle of Gaulford in 656 N putting the area under the sole
+    authority of the Kingdom of Wessex.
+  entities:
+  - name: Devon
+    type: place
+  - name: Wessex
+    type: polity
+  dates: 656 N
+- entry: 63.5
+  title: Devon
+  category: event
+  claim: Devon remained in political union with Kernow through the Kernovan Conjuring of 1028 N and the concomitant formation
+    of the First Drengot Empire.
+  entities:
+  - name: Devon
+    type: place
+  - name: Kernow
+    type: polity
+  - name: First Drengot Empire
+    type: polity
+  dates: 1028 N
+- entry: 63.5
+  title: Devon
+  category: event
+  claim: The Realignment of 1225 N saw Devon become de facto independent from Kernow, now ruled by a cadet branch of the royal
+    family.
+  entities:
+  - name: Devon
+    type: place
+  - name: Kernow
+    type: polity
+  dates: 1225 N
+- entry: 63.5
+  title: Devon
+  category: event
+  claim: Devon's independence was ended when Ivan of Cartaw conquered Devon as part of the various Welsh territorial gains
+    of the thirteenth century.
+  entities:
+  - name: Devon
+    type: place
+  - name: Ivan of Cartaw
+    type: person
+  dates: 13th c. N
+- entry: 63.5
+  title: Devon
+  category: event
+  claim: David IV of Wales declared the Tallath of Devon and awarded rule thereof to Ivan of Cartaw's son Marduth.
+  entities:
+  - name: Devon
+    type: place
+  - name: David IV of Wales
+    type: person
+  - name: Ivan of Cartaw
+    type: person
+  - name: Marduth
+    type: person
+  relationships:
+  - type: parent
+    from: Ivan of Cartaw
+    to: Marduth
+Kent:
+- entry: '21.5'
+  title: Kent
+  category: polity
+  claim: Kent was formally known as the Bond of Kent and Normandy.
+  entities:
+  - name: Kent
+    type: polity
+  - name: Bond of Kent and Normandy
+    type: polity
+- entry: '21.5'
+  title: Kent
+  category: polity
+  claim: Kent was a state in southern Albion and northern Gaul.
+  entities:
+  - name: Kent
+    type: polity
+  - name: Albion
+    type: place
+  - name: Gaul
+    type: place
+- entry: '21.5'
+  title: Kent
+  category: polity
+  claim: In the first millennium, Kent was first an independent English kingdom.
+  entities:
+  - name: Kent
+    type: polity
+  dates:
+  - first millennium
+- entry: '21.5'
+  title: Kent
+  category: polity
+  claim: Kent became a vassal of Wessex through its ascension and decline.
+  entities:
+  - name: Kent
+    type: polity
+  - name: Wessex
+    type: polity
+  relationships:
+  - subject: Kent
+    predicate: was vassal of
+    object: Wessex
+- entry: '21.5'
+  title: Kent
+  category: polity
+  claim: Kent gained power and some autonomy as Wessex's might diminished.
+  entities:
+  - name: Kent
+    type: polity
+  - name: Wessex
+    type: polity
+- entry: '21.5'
+  title: Kent
+  category: event
+  claim: The political union of English Kent with Normandy began in 1029 with the Norman-led subjugation of the Petty Kingdom
+    of Kent.
+  entities:
+  - name: Kent
+    type: polity
+  - name: Normandy
+    type: polity
+  dates:
+  - 1029 N
+- entry: '21.5'
+  title: Kent
+  category: terminology
+  claim: The political union of Kent with Normandy is called the Kernovan Conjuring.
+  entities:
+  - name: Kent
+    type: polity
+  - name: Normandy
+    type: polity
+- entry: '21.5'
+  title: Kent
+  category: event
+  claim: The Norman-led subjugation of Kent was the first step in the creation of the First Drengotian Empire.
+  entities:
+  - name: Kent
+    type: polity
+  - name: First Drengotian Empire
+    type: polity
+- entry: '21.5'
+  title: Kent
+  category: event
+  claim: Kent came to a rapprochement with France to its south in the 1590s.
+  entities:
+  - name: Kent
+    type: polity
+  - name: France
+    type: polity
+  dates:
+  - 1590s
+- entry: '21.5'
+  title: Kent
+  category: polity
+  claim: Kent was a political centre of the Drengot Collusion of the late nineteenth and twentieth centuries.
+  entities:
+  - name: Kent
+    type: polity
+  - name: Drengot Collusion
+    type: polity
+  dates:
+  - late 19th century
+  - 20th century
+- entry: '21.5'
+  title: Kent
+  category: culture
+  claim: Kent's professional lineball team won the global tournament only once, in 1965.
+  entities:
+  - name: Kent
+    type: polity
+  dates:
+  - '1965'
+- entry: '34.5'
+  title: The Drengot Collusion
+  category: polity
+  claim: Alongside the cities of London and Paris, Kent was the political centre of the Drengot Collusion.
+  entities:
+  - name: Kent
+    type: polity
+  - name: London
+    type: place
+  - name: Paris
+    type: place
+  - name: Drengot Collusion
+    type: polity
