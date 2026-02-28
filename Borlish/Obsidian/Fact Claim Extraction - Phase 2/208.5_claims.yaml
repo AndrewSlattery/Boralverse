@@ -1,0 +1,63 @@
+entry: 208.5
+title: "Chemical Etymology (cont. 4)"
+source_work: "Veriloquace Glossary of Alchemy (Rotcham University Primers)"
+claims:
+  - category: terminology
+    claim: "Adipous means fat-soluble: able to dissolve in fats, oils, or spirits rather than water; more generally, non-polar."
+    entities:
+      - name: adipous
+        type: technology
+    dates:
+      - "early 18th century"
+
+  - category: language
+    claim: "Adipous derives from early 18th century Scholastic Latin adipōsus meaning fatty or made of fat, from Classical Latin adeps meaning fat or lard."
+    entities:
+      - name: adipous
+        type: technology
+    dates:
+      - "early 18th century"
+
+  - category: terminology
+    claim: "Essence means vitamin: any of a group of substances, either aqueous or adipous, that must be ingested in small quantities for human health because they are not produced internally."
+    entities:
+      - name: essence
+        type: technology
+    dates:
+      - "circa 1860 (alchemical use)"
+
+  - category: language
+    claim: "Essence (meaning vitamin) entered alchemical use around 1860, formed backwards from essential meaning necessary or indispensable, from Medieval Latin essentiālis, from Classical Latin essentia meaning nature or being, from esse meaning to be."
+    entities:
+      - name: essence
+        type: technology
+    dates:
+      - "circa 1860"
+
+  - category: language
+    claim: "Oromarynx was coined in 1923 via Welsh from Scholastic Latin oromarynx, combining Greek orós meaning whey (because the substance was first isolated from cow's-milk whey) and Greek marynx meaning fluorescent substance."
+    entities:
+      - name: oromarynx
+        type: technology
+    dates:
+      - "1923"
+
+  - category: terminology
+    claim: "Halvation means fluorescence or glowing emission under surblavic (UV) light."
+    entities:
+      - name: halvation
+        type: technology
+
+  - category: glossary
+    claim: "Case is the Boralverse term for cell (biological)."
+    entities:
+      - name: case
+        type: technology
+        irl: cell
+
+  - category: glossary
+    claim: "Thyreous action is the Boralverse term for immune response."
+    entities:
+      - name: thyreous action
+        type: technology
+        irl: immune response

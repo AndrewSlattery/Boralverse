@@ -1,0 +1,114 @@
+entry: 205.5
+title: "The Alphabet"
+source_work: "Concise Onomatory o'Merch (sixth edition, 2001, Utcheter Lexical Association)"
+claims:
+  - category: organisation
+    claim: "The Utcheter Lexical Association compiled the Concise Onomatory o'Merch, sixth edition, published in 2001."
+    entities:
+      - name: Utcheter Lexical Association
+        type: organisation
+    dates:
+      - "2001"
+
+  - category: terminology
+    claim: "Zito is a cloudy wine fermented from rice, brewed across Asia from northeastern Hind to Nivon."
+    entities:
+      - name: zito
+        type: culture
+    dates:
+      - "around 1700"
+
+  - category: language
+    claim: "Zito derives from around 1700, from Napolitan zito or zuto meaning rice wine, from Tenivian ʐúthó; it was respelt in the nineteenth century to align with a possible Greek cognate."
+    entities:
+      - name: zito
+        type: culture
+    dates:
+      - "around 1700"
+
+  - category: glossary
+    claim: "Tenivian is the Boralverse name for the Angami language."
+    entities:
+      - name: Tenivian
+        type: language
+        irl: Angami
+
+  - category: glossary
+    claim: "Hind is the Boralverse name for India."
+    entities:
+      - name: Hind
+        type: place
+        irl: India
+
+  - category: glossary
+    claim: "Nivon is the Boralverse name for Japan."
+    entities:
+      - name: Nivon
+        type: place
+        irl: Japan
+
+  - category: culture
+    claim: "The standard Merch alphabet has twenty-seven letters with the names: a ba ce dy e ef ge, hake i jot, kea el em; en o pa qua ro es te, u va win, ex wy zed."
+    entities:
+      - name: Merch
+        type: language
+
+  - category: language
+    claim: "Merch letter names are a mixture of Old English futhork rune names and Old Northern French names for Latin letters."
+    entities:
+      - name: Merch
+        type: language
+
+  - category: language
+    claim: "The vowel letter names a e i o u in Merch reflect Latin, descending from early Merch long vowels."
+    entities:
+      - name: Merch
+        type: language
+
+  - category: language
+    claim: "The Merch names ef el em en es come from Old Northern French, ultimately from Latin, and are unusual in ending with their associated sound rather than beginning with it."
+    entities:
+      - name: Merch
+        type: language
+
+  - category: language
+    claim: "The Merch names kea ex zed derive from Latin, there being no corresponding Old English rune for those letters."
+    entities:
+      - name: Merch
+        type: language
+
+  - category: language
+    claim: "The Merch names ce ge hake te derive from Old Northern French, ultimately from Latin."
+    entities:
+      - name: Merch
+        type: language
+
+  - category: language
+    claim: "The Merch names dy ro win descend from Old English futhork rune names dæg rād wynn; the name ro shows final-consonant deletion."
+    entities:
+      - name: Merch
+        type: language
+
+  - category: language
+    claim: "The Merch names ba pa qua derive from Old English berc perþ cƿerþ, with final-consonant deletion occurring in the early modern period as a form of regularisation."
+    entities:
+      - name: Merch
+        type: language
+
+  - category: language
+    claim: "The Merch letter name jot is an early Merch borrowing via Latin iōta from Greek iôta, used to distinguish the consonant j from the vowel i."
+    entities:
+      - name: Merch
+        type: language
+
+  - category: language
+    claim: "The Merch letter name va is an alteration of earlier vaw, borrowed in the early modern period via Latin vau from Greek waû (waw)."
+    entities:
+      - name: Merch
+        type: language
+
+  - category: language
+    claim: "The Borlish name for the letter Y is oy."
+    entities:
+      - name: Borlish
+        type: language

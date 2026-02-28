@@ -1,0 +1,102 @@
+entry: 204.5
+title: "Mathematical Etymology (cont. 2)"
+source_work: "Veriloquace Glossary o'Mathematics (Rotcham University Primers)"
+claims:
+  - category: glossary
+    claim: "Rotcham is the Boralverse name for Rochdale (Greater Manchester)."
+    entities:
+      - name: Rotcham
+        type: place
+        irl: Rochdale
+
+  - category: terminology
+    claim: "Covrend means surjective: that for a function W → X, every x in X has at least one w in W mapped to it."
+    entities:
+      - name: covrend
+        type: technology
+    dates:
+      - "1831"
+
+  - category: language
+    claim: "Covrend is a 1831 translation of Saxon deckend from Dümmeyer (1827), a participle of decken meaning cover, from Classical German thaciō."
+    entities:
+      - name: covrend
+        type: technology
+    dates:
+      - "1831"
+
+  - category: terminology
+    claim: "Horizontal means convergent: that a sequence or analogous object eventually falls within any chosen neighbourhood of a given value."
+    entities:
+      - name: horizontal
+        type: technology
+    dates:
+      - "around 1750"
+
+  - category: language
+    claim: "Horizontal (meaning convergent) derives from around 1750 from Scholastic Latin horizontālis, adjectival form of horizō meaning horizon or limit, from Greek horízō meaning divide or mark out."
+    entities:
+      - name: horizontal
+        type: technology
+    dates:
+      - "around 1750"
+
+  - category: terminology
+    claim: "Mirthon means ten thousand, and was originally used poetically for any large quantity."
+    entities:
+      - name: mirthon
+        type: technology
+    dates:
+      - "around 1400"
+
+  - category: language
+    claim: "Mirthon derives from around 1400, possibly via Kentish or Norman, from Middle Welsh myrð, from Latin mȳriadēs meaning many thousands, from Greek mūríos meaning countless."
+    entities:
+      - name: mirthon
+        type: technology
+    dates:
+      - "around 1400"
+
+  - category: terminology
+    claim: "Sevrend means injective: that for a function W → X, every x in X has at most one w in W mapped to it."
+    entities:
+      - name: sevrend
+        type: technology
+    dates:
+      - "1831"
+
+  - category: language
+    claim: "Sevrend is a 1831 translation of Saxon sondrend from Dümmeyer (1827), a participle of sondren meaning separate, from Classical German sundrō."
+    entities:
+      - name: sevrend
+        type: technology
+    dates:
+      - "1831"
+
+  - category: terminology
+    claim: "Zeffer means zero."
+    entities:
+      - name: zeffer
+        type: technology
+
+  - category: language
+    claim: "Zeffer derives from Arabic ṣifr meaning empty or void."
+    entities:
+      - name: zeffer
+        type: technology
+
+  - category: terminology
+    claim: "Zeffergoer means root: a value which a given function sends to zeffer (zero)."
+    entities:
+      - name: zeffergoer
+        type: technology
+    dates:
+      - "1897"
+
+  - category: language
+    claim: "Zeffergoer is an 1897 compound of zeffer and the verb go, from Classical German gō."
+    entities:
+      - name: zeffergoer
+        type: technology
+    dates:
+      - "1897"

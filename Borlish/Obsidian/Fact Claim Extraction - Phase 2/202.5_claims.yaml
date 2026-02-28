@@ -1,0 +1,114 @@
+entry: 202.5
+title: "Braxoch beet"
+claims:
+  - category: terminology
+    claim: "Braxoch beet is a golden beet or sugar beet with golden flesh and high sugar content."
+    entities:
+      - name: braxoch beet
+        type: technology
+
+  - category: economics
+    claim: "Braxoch beet provides over four-fifths of Albion's sugar supply by 2025."
+    entities:
+      - name: braxoch beet
+        type: technology
+      - name: Albion
+        type: place
+    dates:
+      - "by 2025"
+
+  - category: language
+    claim: "The Merch name braxoch beet is attested from the 1740s and derives from Cassuvian braxoch meaning fine beet."
+    entities:
+      - name: braxoch beet
+        type: technology
+    dates:
+      - "1740s"
+
+  - category: person
+    claim: "Tewis Camigner was a 16th-century botanist who provided the first written source recording the beet's high sugar content."
+    entities:
+      - name: Tewis Camigner
+        type: person
+    dates:
+      - "fl. 16th century"
+
+  - category: culture
+    claim: "Tewis Camigner noted the braxoch beet's billrod hue."
+    entities:
+      - name: Tewis Camigner
+        type: person
+      - name: braxoch beet
+        type: technology
+
+  - category: glossary
+    claim: "Billrod is the Boralverse term for cochineal red."
+    entities:
+      - name: billrod
+        type: culture
+        irl: cochineal red
+
+  - category: event
+    claim: "In the 1730s, Borland coordinated with the University of Pentrose to develop the braxoch beet as a hybrid of Silesian and Cassuvian stock."
+    entities:
+      - name: University of Pentrose
+        type: organisation
+      - name: braxoch beet
+        type: technology
+    dates:
+      - "1730s"
+
+  - category: glossary
+    claim: "Clause is the Boralverse term for gene."
+    entities:
+      - name: clause
+        type: technology
+        irl: gene
+
+  - category: glossary
+    claim: "Heredian volume is the Boralverse term for chromosome."
+    entities:
+      - name: heredian volume
+        type: technology
+        irl: chromosome
+
+  - category: glossary
+    claim: "Tinderbox is the Boralverse term for enzyme."
+    entities:
+      - name: tinderbox
+        type: technology
+        irl: enzyme
+
+  - category: glossary
+    claim: "Oromarynx is the Boralverse term for riboflavin (vitamin B2)."
+    entities:
+      - name: oromarynx
+        type: technology
+        irl: riboflavin (vitamin B2)
+
+  - category: glossary
+    claim: "Surblavic is the Boralverse term for UV light."
+    entities:
+      - name: surblavic
+        type: technology
+        irl: UV light
+
+  - category: glossary
+    claim: "Counterzoic is the Boralverse term for anti-microbial."
+    entities:
+      - name: counterzoic
+        type: technology
+        irl: anti-microbial
+
+  - category: glossary
+    claim: "Aqueous essence is the Boralverse term for water-soluble vitamin."
+    entities:
+      - name: aqueous essence
+        type: technology
+        irl: water-soluble vitamin
+
+  - category: terminology
+    claim: "Iron marker means sensor."
+    entities:
+      - name: iron marker
+        type: technology

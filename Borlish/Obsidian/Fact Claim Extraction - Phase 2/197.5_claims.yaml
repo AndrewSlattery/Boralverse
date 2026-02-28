@@ -1,0 +1,100 @@
+entry: 197.5
+title: "Landmarks and Legends"
+claims:
+  - category: person
+    claim: "Laurent Burnows is an author active from at least 2002."
+    entities:
+      - name: Laurent Burnows
+        type: person
+    dates:
+      - "fl. 2002+"
+
+  - category: work
+    claim: "'Back to Front' is a children's book series by Laurent Burnows."
+    entities:
+      - name: Back to Front
+        type: work
+      - name: Laurent Burnows
+        type: person
+
+  - category: work
+    claim: "'The First Thing That Went Wrong' is a 2015 trevold by Laurent Burnows, part of the An Inconvenient Armageddon series."
+    entities:
+      - name: The First Thing That Went Wrong
+        type: work
+      - name: Laurent Burnows
+        type: person
+    dates:
+      - "2015"
+
+  - category: place
+    claim: "The Library of Sobjan is Europe's oldest continuously-operating library."
+    entities:
+      - name: Library of Sobjan
+        type: place
+
+  - category: event
+    claim: "The Library of Sobjan was commissioned by King Jambor of Awry in the 12th century N."
+    entities:
+      - name: Library of Sobjan
+        type: place
+      - name: King Jambor
+        type: person
+      - name: Awry
+        type: polity
+    dates:
+      - "12th century N"
+
+  - category: work
+    claim: "The Library of Sobjan holds a 1261 N liber numerorum containing a table of arrhumb values."
+    entities:
+      - name: Library of Sobjan
+        type: place
+      - name: liber numerorum
+        type: work
+    dates:
+      - "1261 N"
+
+  - category: work
+    claim: "The Library of Sobjan holds the first folio of the Mysarnos Codex, rediscovered in 1939 and written in the form of Greek."
+    entities:
+      - name: Library of Sobjan
+        type: place
+      - name: Mysarnos Codex
+        type: work
+    dates:
+      - "1939 (rediscovery)"
+
+  - category: glossary
+    claim: "Sobjan is the Boralverse name for Pécs."
+    entities:
+      - name: Sobjan
+        type: place
+        irl: Pécs
+
+  - category: work
+    claim: "'Lux Æterna: The First Century of Threshold Force' is a 2002 work by Cawen ba Dirxen, published by Varonøw Higher Edifice, covering the history of nuclear power."
+    entities:
+      - name: "Lux Æterna: The First Century of Threshold Force"
+        type: work
+      - name: Cawen ba Dirxen
+        type: person
+      - name: Varonøw Higher Edifice
+        type: organisation
+    dates:
+      - "2002"
+
+  - category: event
+    claim: "The atomic nux was discovered in 1902 at the Nÿstad Atellier."
+    entities:
+      - name: Nÿstad Atellier
+        type: organisation
+    dates:
+      - "1902"
+
+  - category: glossary
+    claim: "Nux is the Boralverse term for nucleus."
+    entities:
+      - name: nux
+        type: technology
+        irl: nucleus

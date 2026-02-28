@@ -1,0 +1,135 @@
+entry: 198.5
+title: "Lexember 2025 - 5: orisontment"
+claims:
+  - category: terminology
+    claim: "Orisontment means set, conclusion, convergence, or old age."
+    entities:
+      - name: orisontment
+        type: culture
+
+  - category: terminology
+    claim: "Lovacq means horizon."
+    entities:
+      - name: lovacq
+        type: culture
+
+  - category: person
+    claim: "Wilhelm Brüz was the mayor of Augsburg, active in 1225."
+    entities:
+      - name: Wilhelm Brüz
+        type: person
+    dates:
+      - "fl. 1225"
+
+  - category: person
+    claim: "Paul von Burchadt was the first Pope of the Augsburg See."
+    entities:
+      - name: Paul von Burchadt
+        type: person
+      - name: Augsburg See
+        type: organisation
+
+  - category: person
+    claim: "Wilhelm Brüz was a personal friend of Paul von Burchadt."
+    entities:
+      - name: Wilhelm Brüz
+        type: person
+      - name: Paul von Burchadt
+        type: person
+
+  - category: event
+    claim: "The Pauline Denunciations took place in 1225."
+    entities:
+      - name: Pauline Denunciations
+        type: event
+    dates:
+      - "1225"
+
+  - category: work
+    claim: "'With the North Star to Guide Us' is a 1961 film directed by Hunter Noteworthy, portraying Wilhelm Brüz."
+    entities:
+      - name: With the North Star to Guide Us
+        type: work
+      - name: Hunter Noteworthy
+        type: person
+      - name: Wilhelm Brüz
+        type: person
+    dates:
+      - "1961"
+
+  - category: event
+    claim: "A statue of Wilhelm Brüz was erected in 1975."
+    entities:
+      - name: Wilhelm Brüz
+        type: person
+    dates:
+      - "1975"
+
+  - category: person
+    claim: "Ivan of Cartaw was lord of Cartaw, active around 1280."
+    entities:
+      - name: Ivan of Cartaw
+        type: person
+      - name: Cartaw
+        type: place
+    dates:
+      - "fl. ca. 1280"
+
+  - category: event
+    claim: "Ivan of Cartaw conquered Devon."
+    entities:
+      - name: Ivan of Cartaw
+        type: person
+      - name: Devon
+        type: place
+    dates:
+      - "ca. 1280"
+
+  - category: polity
+    claim: "The Tallath of Devon was created following Ivan of Cartaw's conquest of Devon."
+    entities:
+      - name: Tallath of Devon
+        type: polity
+      - name: Devon
+        type: place
+
+  - category: person
+    claim: "Marduth was the son of Ivan of Cartaw and received rule of the Tallath of Devon."
+    entities:
+      - name: Marduth
+        type: person
+      - name: Ivan of Cartaw
+        type: person
+      - name: Tallath of Devon
+        type: polity
+
+  - category: glossary
+    claim: "Cartaw is the Boralverse name for Cardiff."
+    entities:
+      - name: Cartaw
+        type: place
+        irl: Cardiff
+
+  - category: work
+    claim: "'On Unknown Areas Scribed by Arcs' (ca. 1211, Tal of Murcia) is a translation of Cairo mathematical geometry."
+    entities:
+      - name: On Unknown Areas Scribed by Arcs
+        type: work
+      - name: Tal of Murcia
+        type: person
+    dates:
+      - "ca. 1211"
+
+  - category: language
+    claim: "'On Unknown Areas Scribed by Arcs' contains the first attestation of mozate, meaning two-dimensional."
+    entities:
+      - name: On Unknown Areas Scribed by Arcs
+        type: work
+    dates:
+      - "ca. 1211"
+
+  - category: language
+    claim: "Mozate derives from Latinate muzātus, itself from Arabic musaṭṭaḥ meaning flat."
+    entities:
+      - name: mozate
+        type: terminology

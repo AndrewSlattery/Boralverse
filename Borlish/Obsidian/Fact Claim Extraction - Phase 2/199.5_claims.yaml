@@ -1,0 +1,51 @@
+entry: 199.5
+title: "Lexember 2025 - 12: valcq"
+claims:
+  - category: terminology
+    claim: "Valcq means bout, stint, or set."
+    entities:
+      - name: valcq
+        type: culture
+
+  - category: work
+    claim: "'A New History of Rust' is a 2004 work with the Borlish title Un Histoir Novel de Rougl."
+    entities:
+      - name: A New History of Rust
+        type: work
+    dates:
+      - "2004"
+
+  - category: glossary
+    claim: "Boham is the Boralverse name for Czech (language)."
+    entities:
+      - name: Boham
+        type: language
+        irl: Czech
+
+  - category: language
+    claim: "'A New History of Rust' discusses sound changes from Vulgar Latin to Old Borlish."
+    entities:
+      - name: A New History of Rust
+        type: work
+
+  - category: person
+    claim: "Buthick Morstan was a Merch linguist active in 1909."
+    entities:
+      - name: Buthick Morstan
+        type: person
+    dates:
+      - "fl. 1909"
+
+  - category: language
+    claim: "Buthick Morstan proposed in 1909 that Insular Latin *urum meant man."
+    entities:
+      - name: Buthick Morstan
+        type: person
+    dates:
+      - "1909"
+
+  - category: language
+    claim: "The Boham word wálca means war."
+    entities:
+      - name: Boham
+        type: language

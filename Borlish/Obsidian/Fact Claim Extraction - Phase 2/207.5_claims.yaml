@@ -1,0 +1,95 @@
+entry: 207.5
+title: "Lineball Global Tourney"
+claims:
+  - category: organisation
+    claim: "The Lineball Global Tourney (LGT; Borlish: Torne Mondial a Lançbal) is a knock-out international lineball competition held every five years since 1920."
+    entities:
+      - name: Lineball Global Tourney
+        type: organisation
+    dates:
+      - "from 1920"
+
+  - category: event
+    claim: "The LGT grew from about a dozen entrants at its founding to over sixty in its modern form."
+    entities:
+      - name: Lineball Global Tourney
+        type: organisation
+
+  - category: event
+    claim: "The Cup of Cappatia was first held in Awasúconda in 1908, pitting twenty city teams from various Cappatian staddomains against each other."
+    entities:
+      - name: Cup of Cappatia
+        type: event
+      - name: Awasúconda
+        type: place
+    dates:
+      - "1908"
+
+  - category: glossary
+    claim: "Cappatia is the Boralverse name for South America."
+    entities:
+      - name: Cappatia
+        type: place
+        irl: South America
+
+  - category: glossary
+    claim: "Awasúconda is the Boralverse name for approximately Paraná."
+    entities:
+      - name: Awasúconda
+        type: place
+        irl: "~Paraná"
+
+  - category: terminology
+    claim: "Staddomains are administrative or civic units from which lineball city teams are drawn."
+    entities:
+      - name: staddomains
+        type: polity
+
+  - category: event
+    claim: "The 1935 LGT was the first held in Mendeva, hosted by Hasiny."
+    entities:
+      - name: Lineball Global Tourney
+        type: organisation
+      - name: Hasiny
+        type: polity
+    dates:
+      - "1935"
+
+  - category: glossary
+    claim: "Hasiny is the Boralverse name for the polity of approximately the lower Mississippi watershed."
+    entities:
+      - name: Hasiny
+        type: polity
+        irl: "~lower Mississippi watershed"
+
+  - category: person
+    claim: "Vréqueu Margouille was a lineball player who competed for Norman Kent in the 1935 LGT."
+    entities:
+      - name: Vréqueu Margouille
+        type: person
+      - name: Norman Kent
+        type: polity
+    dates:
+      - "1935"
+
+  - category: person
+    claim: "Vincent Margouille, son of Vréqueu Margouille, was a professional lineball player who captained Kent to its only LGT victory in the 1965 tournament."
+    entities:
+      - name: Vincent Margouille
+        type: person
+      - name: Vréqueu Margouille
+        type: person
+      - name: Norman Kent
+        type: polity
+    dates:
+      - "1965"
+
+  - category: polity
+    claim: "Norman Kent was a constituent of the Drengot Collusion at the time of the 1935 LGT."
+    entities:
+      - name: Norman Kent
+        type: polity
+      - name: Drengot Collusion
+        type: polity
+    dates:
+      - "1935"
