@@ -1,0 +1,93 @@
+entry: 97.5
+title: "entrcollocq"
+claims:
+  - category: terminology
+    claim: "Entrcollocq is a Borlish word meaning 'interview' (a conversation between a journalist and their subject) and more broadly any discussion or dialogue intended for public consumption."
+    entities:
+      - name: entrcollocq
+        type: concept
+
+  - category: language
+    claim: "Entrcollocq is a nineteenth-century coinage from Borlish entr- 'between, among' and collocq 'conversation,' reflecting Latin colloquor 'I discuss, speak with'."
+    entities:
+      - name: entrcollocq
+        type: concept
+    dates: "19th c. N"
+
+  - category: polity
+    claim: "Britain is a polity of Albion centred on Wales but extending through Devon and Dunclothe and out to Kernow and parts of Ireland."
+    entities:
+      - name: Britain
+        type: polity
+      - name: Wales
+        type: polity
+      - name: Devon
+        type: place
+      - name: Dunclothe
+        type: polity
+      - name: Kernow
+        type: place
+
+  - category: event
+    claim: "The Kingdom of Britain was founded in the fifteenth century, formalising the suzerainty of Wales over the tallaths of Devon and Dunclothe."
+    entities:
+      - name: Britain
+        type: polity
+      - name: Wales
+        type: polity
+      - name: Devon
+        type: place
+      - name: Dunclothe
+        type: polity
+    dates: "15th c. N"
+
+  - category: economics
+    claim: "Britain's economic success from the Wars of Fealty drove ventures in Africa; resupply ports along the western coast eventually allowed for direct sea trade between Europe and Asia."
+    entities:
+      - name: Britain
+        type: polity
+
+  - category: event
+    claim: "In the seventeenth century Britain began founding staddomains along the southern Gulf of Mendeva, which coalesced into polities known collectively as British Mendeva."
+    entities:
+      - name: Britain
+        type: polity
+      - name: British Mendeva
+        type: polity
+    dates: "17th c. N"
+
+  - category: event
+    claim: "Britain's largest Mendevan territory is Hasiny."
+    entities:
+      - name: Britain
+        type: polity
+      - name: Hasiny
+        type: polity
+
+  - category: event
+    claim: "After the Chrysian Landfall, emigration from Britain helped form the modern polity of New Leudong."
+    entities:
+      - name: Britain
+        type: polity
+      - name: New Leudong
+        type: polity
+
+  - category: economics
+    claim: "In the latter years of the nineteenth century, British Mendeva overtook Britain in population and industry."
+    entities:
+      - name: British Mendeva
+        type: polity
+      - name: Britain
+        type: polity
+    dates: "late 19th c. N"
+
+  - category: work
+    claim: "'A Cyclopædia of British Persons' (third edition, 1870) was written by Wolfston Potter and published by the Yievle Brethin Primers."
+    entities:
+      - name: "A Cyclopædia of British Persons"
+        type: work
+      - name: Wolfston Potter
+        type: person
+      - name: Yievle Brethin Primers
+        type: organisation
+    dates: "1870 N"

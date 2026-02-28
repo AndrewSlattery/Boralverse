@@ -1,0 +1,62 @@
+entry: 79.5
+title: "Voidtale"
+claims:
+  - category: terminology
+    claim: "Voidtale (Borlish: trevogt, portmanteau of trevold 'novel' and vogt 'outer space') is a subgenre of parachthon romance which focuses on voyages through outer space visiting alien worlds."
+    entities:
+      - name: voidtale
+        type: culture
+
+  - category: person
+    claim: "The voidtale genre was pioneered by Saxon author Elsebeth Sneider with her 1795 N work 'Through a Black Mirror'."
+    entities:
+      - name: Elsebeth Sneider
+        type: person
+      - name: "Through a Black Mirror"
+        type: work
+    dates: "1795 N"
+
+  - category: culture
+    claim: "Elsebeth Sneider's 'Through a Black Mirror' sparked a three-decade-long fashion for voidtale known as the 'voidtale craze'."
+    entities:
+      - name: "Through a Black Mirror"
+        type: work
+      - name: Elsebeth Sneider
+        type: person
+
+  - category: culture
+    claim: "The first period of voidtale is characterised by a pre-empirical understanding of conditions on other worlds, with each bustling planet peopled by very human societies resembling 'geoscopic voyage' tales of the previous century."
+    entities:
+      - name: voidtale
+        type: culture
+
+  - category: period
+    claim: "The voidtale craze is usually said to end with the Second German War in the 1820s N."
+    entities:
+      - name: Second German War
+        type: event
+    dates: "1820s N"
+
+  - category: work
+    claim: "Narayanan's landscape paintings of the barren and inhospitable surfaces of the other planets orbiting the Sun are generally counted as part of the voidtale tradition."
+    entities:
+      - name: Narayanan
+        type: person
+
+  - category: culture
+    claim: "It has been claimed that the voidtale craze inculcated an enthusiasm for astronomy in its generation and contributed to cosmic discoveries of the mid-nineteenth century, including the discoveries of the planet Janus and the speed of light."
+    entities:
+      - name: voidtale
+        type: culture
+    dates: "mid-19th c. N"
+
+  - category: work
+    claim: "'New Skies, Old Stories' by Simon d'Estiala was published by Prindor Marsillès in 1980 N."
+    entities:
+      - name: "New Skies, Old Stories"
+        type: work
+      - name: Simon d'Estiala
+        type: person
+      - name: Prindor Marsillès
+        type: organisation
+    dates: "1980 N"

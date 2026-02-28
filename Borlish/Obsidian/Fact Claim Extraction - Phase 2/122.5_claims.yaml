@@ -1,0 +1,116 @@
+entry: 122.5
+title: "Vascon Ascendancy"
+claims:
+  - category: period
+    claim: "The Vascon Ascendancy refers to the polity of Vascony from the early fifteenth century until the late sixteenth, when it enjoyed a territorial maximum due to successful military conquests and general prosperity."
+    entities:
+      - name: Vascon Ascendancy
+        type: period
+      - name: Vascony
+        type: polity
+    dates: "early 15th c.–late 16th c. N"
+
+  - category: event
+    claim: "The beginning of the Vascon Ascendancy is placed at the start of the reign of Ambrose II, crowned in 1410."
+    entities:
+      - name: Ambrose II
+        type: person
+      - name: Vascony
+        type: polity
+    dates: "1410 N"
+
+  - category: event
+    claim: "Ambrose II's reign was marked by wars west into northern Portingale, taking Galice and Braga, and east into Burgundy, taking Tolose and Provence."
+    entities:
+      - name: Ambrose II
+        type: person
+      - name: Portingale
+        type: polity
+      - name: Burgundy
+        type: polity
+      - name: Tolose
+        type: place
+      - name: Provence
+        type: polity
+
+  - category: person
+    claim: "Ambrose III 'the Ascendant' succeeded his grandfather Ambrose II in 1456."
+    entities:
+      - name: Ambrose III
+        type: person
+      - name: Ambrose II
+        type: person
+    dates: "1456 N"
+
+  - category: event
+    claim: "Ambrose III established the New Navarre Enterprise in 1458, an expanded merchant fleet aimed at monopolising North Atlantic fish trade and creating trade ports along the west African coast."
+    entities:
+      - name: Ambrose III
+        type: person
+      - name: New Navarre Enterprise
+        type: organisation
+    dates: "1458 N"
+
+  - category: event
+    claim: "Vask ships travelling north past Valland encountered Brasil in the 1471 Novomundine Landfall."
+    entities:
+      - name: Brasil
+        type: place
+      - name: Valland
+        type: place
+      - name: Vascony
+        type: polity
+    dates: "1471 N"
+
+  - category: glossary
+    claim: "Valland is the Boralverse name for Greenland."
+    entities:
+      - name: Valland
+        irl: Greenland
+        type: place
+
+  - category: economics
+    claim: "Trade with the Novomund enriched Vascony and especially the port towns in Portingale and Leon; cities flourished and new artistic techniques emerged."
+    entities:
+      - name: Vascony
+        type: polity
+      - name: Portingale
+        type: polity
+      - name: Leon
+        type: polity
+
+  - category: event
+    claim: "The Vascon Ascendancy is considered over by the War of the Two Queens in the second half of the sixteenth century, by which time both Portingale and Provence had been lost."
+    entities:
+      - name: Vascon Ascendancy
+        type: period
+      - name: Vascony
+        type: polity
+    dates: "second half 16th c. N"
+
+  - category: event
+    claim: "The Second Great Dying killed almost one in seven people in Vascony, although immigration was high enough to offset the population loss by 1550."
+    entities:
+      - name: Second Great Dying
+        type: event
+      - name: Vascony
+        type: polity
+    dates: "c. 1550 N"
+
+  - category: work
+    claim: "'I am Ambrose' (Vascon: 'Sou Ambroxo', 1923) is a film in Portingale by director Agochino, a character study of King Ambrose the Ascendant."
+    entities:
+      - name: "I am Ambrose"
+        type: work
+      - name: Ambrose III
+        type: person
+    dates: "1923 N"
+
+  - category: work
+    claim: "'The Ascendant' (Welsh: 'Hwn a Guodoð', 1934) is a film by director Dormaget chronicling the years immediately after the 1471 Novomundine Landfall."
+    entities:
+      - name: "The Ascendant"
+        type: work
+      - name: Dormaget
+        type: person
+    dates: "1934 N"

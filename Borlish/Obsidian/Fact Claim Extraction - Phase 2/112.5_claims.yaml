@@ -1,0 +1,64 @@
+entry: 112.5
+title: "North American History Quiz"
+source_work: "Prove your Knowledge! (Games for Sorties and Excourses, 1930)"
+claims:
+  - category: glossary
+    claim: "Sturgovan is the Boralverse name for the Appalachian Mountains."
+    entities:
+      - name: Sturgovan Mountains
+        irl: Appalachian Mountains
+        type: place
+
+  - category: glossary
+    claim: "Aiga d'Angoixa is approximately the Boralverse name for Quebec City."
+    entities:
+      - name: Aiga d'Angoixa
+        irl: Quebec City
+        type: place
+
+  - category: glossary
+    claim: "Varonøw is approximately the Boralverse name for Vitória, Espírito Santo, Brazil."
+    entities:
+      - name: Varonøw
+        irl: "Vitória, ES"
+        type: place
+
+  - category: glossary
+    claim: "Awasúconda is approximately the Boralverse name for Paraná."
+    entities:
+      - name: Awasúconda
+        irl: Paraná
+        type: place
+
+  - category: person
+    claim: "An emperor of Tavancy whose 61-year reign from 1599 until 1660 is the longest of any monarch in Cappatian history is suspected to have been assassinated by Morrack agents."
+    entities:
+      - name: Cariwasari
+        type: person
+      - name: Tavancy
+        type: polity
+    dates: "1599–1660 N"
+
+  - category: technology
+    claim: "The Steeplepost Tapestry in the Ambrosian city of Aiga d'Angoixa was the first device capable of displaying an image communicated via the steeplemesh."
+    entities:
+      - name: Steeplepost Tapestry
+        type: technology
+      - name: Aiga d'Angoixa
+        type: place
+      - name: Ambrosia
+        type: polity
+
+  - category: place
+    claim: "The major Mashick city of Moshtar was named after an astronomical event in 1780."
+    entities:
+      - name: Moshtar
+        type: place
+    dates: "1780 N"
+
+  - category: event
+    claim: "A predecessor to the Lineball Global Tourney was first held in Awasúconda in 1909 between twenty teams."
+    entities:
+      - name: Awasúconda
+        type: place
+    dates: "1909 N"

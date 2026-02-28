@@ -1,0 +1,95 @@
+entry: 125.5
+title: "Denmark"
+claims:
+  - category: place
+    claim: "Denmark is a peninsular polity located between the North and Graven Seas."
+    entities:
+      - name: Denmark
+        type: polity
+
+  - category: polity
+    claim: "Denmark was part of the homeland of the Danes during the Dane Supremacy in the medieval period, from which viking raids and colonisation projects left."
+    entities:
+      - name: Denmark
+        type: polity
+
+  - category: event
+    claim: "During the sixteenth century Denmark was part of the Dane Concert, a monarchic union of northern states."
+    entities:
+      - name: Denmark
+        type: polity
+      - name: Dane Concert
+        type: organisation
+    dates: "16th c. N"
+
+  - category: event
+    claim: "The Dane Concert royal family undertook a grand tour of their realm around 1560, visiting places like Alburgh, during which Revitalism reached Denmark."
+    entities:
+      - name: Dane Concert
+        type: organisation
+      - name: Alburgh
+        type: place
+    dates: "c. 1560 N"
+
+  - category: event
+    claim: "Instability in Denmark during the Long Peace period led to an uptick in emigration, both to nearby polities like Borland and to the distant staddomains of Cappatia."
+    entities:
+      - name: Denmark
+        type: polity
+      - name: Borland
+        type: place
+      - name: Cappatia
+        type: place
+
+  - category: event
+    claim: "During the latter half of the nineteenth century, Denmark was drawn into the orbit of the Drengot Collusion, though never fully incorporated."
+    entities:
+      - name: Denmark
+        type: polity
+      - name: Drengot Collusion
+        type: organisation
+    dates: "late 19th c. N"
+
+  - category: person
+    claim: "Elisa Arnoutszen (fl. 1540) was a nurse in the household of Duke Roger d'Avosche and later a physician in her own right."
+    entities:
+      - name: Elisa Arnoutszen
+        type: person
+      - name: Roger d'Avosche
+        type: person
+    dates: "fl. 1540 N"
+
+  - category: person
+    claim: "Laurz Arnoutszen (fl. 1540) was a famed Danish physician whose treatise on medical handiwork revolutionised European practice."
+    entities:
+      - name: Laurz Arnoutszen
+        type: person
+    dates: "fl. 1540 N"
+
+  - category: person
+    claim: "Absolon Mortenszen (fl. 1560) was a Danish playwright and commentator who lived in Alburgh and is remembered for his play 'High Society'."
+    entities:
+      - name: Absolon Mortenszen
+        type: person
+      - name: Alburgh
+        type: place
+    dates: "fl. 1560 N"
+
+  - category: work
+    claim: "'High Society' is a play written by Absolon Mortenszen (fl. 1560)."
+    entities:
+      - name: "High Society"
+        type: work
+      - name: Absolon Mortenszen
+        type: person
+
+  - category: person
+    claim: "Gudmund and Rebecca Scrander (fl. 1677) were Danish astronomers who voyaged to Seldiva to observe a transit of Venus."
+    entities:
+      - name: Gudmund Scrander
+        type: person
+      - name: Rebecca Scrander
+        type: person
+      - name: Seldiva
+        type: place
+    dates: "fl. 1677 N"

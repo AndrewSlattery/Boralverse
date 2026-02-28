@@ -1,0 +1,94 @@
+entry: 127.5
+title: "Deadly Disasters"
+claims:
+  - category: event
+    claim: "The Great Flie Flood was a natural disaster in 1171 in Willemy that submerged or swept through large parts of Frisland."
+    entities:
+      - name: Great Flie Flood
+        type: event
+      - name: Willemy
+        type: polity
+      - name: Frisland
+        type: place
+    dates: "1171 N"
+
+  - category: event
+    claim: "The Great Flie Flood created the island of Texel and turned freshwater Lake Almere into a maritime gulf as the Rustigh Strait's waters flowed in."
+    entities:
+      - name: Great Flie Flood
+        type: event
+      - name: Texel
+        type: place
+      - name: Lake Almere
+        type: place
+
+  - category: person
+    claim: "Duke Lovis the Tall was the most famous casualty of the Great Flie Flood of 1171, having been staying in the environs of Amstel at the time."
+    entities:
+      - name: Lovis the Tall
+        type: person
+      - name: Amstel
+        type: place
+    dates: "1171 N"
+
+  - category: event
+    claim: "The Great Flie Flood killed an estimated ten thousand people."
+    entities:
+      - name: Great Flie Flood
+        type: event
+    dates: "1171 N"
+
+  - category: event
+    claim: "The destruction from the Great Flie Flood is thought to have spurred the development of Axbane on Borland as an alternative, safer harbour for traders passing through the Rustigh Strait."
+    entities:
+      - name: Great Flie Flood
+        type: event
+      - name: Axbane
+        type: place
+      - name: Borland
+        type: place
+
+  - category: event
+    claim: "The First Burning of London was a conflagration in 1290 that lasted a full week and killed approximately four hundred people."
+    entities:
+      - name: First Burning of London
+        type: event
+      - name: London
+        type: place
+    dates: "1290 N"
+
+  - category: culture
+    claim: "The First Burning of London is the earliest of several such burnings of London, at least two of which are more accurately described as sackings or conquerings."
+    entities:
+      - name: London
+        type: place
+
+  - category: event
+    claim: "The Failed Crusade was called in 1210 by Pope Just, who was a direct descendant of Lord Savino, the first Marksman of Jerusalem."
+    entities:
+      - name: Failed Crusade
+        type: event
+      - name: Pope Just
+        type: person
+      - name: Savino the Just
+        type: person
+    dates: "1210 N"
+    relationships:
+      - type: descendant
+        from: "Pope Just"
+        to: "Savino the Just"
+
+  - category: event
+    claim: "Savino the Just, the first Marksman of Jerusalem, acceded in 1119; Jerusalem fell less than seventy years later."
+    entities:
+      - name: Savino the Just
+        type: person
+    dates: "1119 N"
+
+  - category: event
+    claim: "The First Great Dying was a plague thought to have been brought to Europe by returning crusaders from the Failed Crusade, stoking discontent in Rome and elsewhere."
+    entities:
+      - name: First Great Dying
+        type: event
+      - name: Failed Crusade
+        type: event

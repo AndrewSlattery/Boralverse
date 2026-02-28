@@ -1,0 +1,170 @@
+entry: 64.5
+title: "First Drengot Empire"
+claims:
+  - category: polity
+    claim: "The First Drengot Empire, or Constant Empire, was the westernmost of the four empires comprising the Second Tetrarchy (also called the Medieval Imperia)."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: Second Tetrarchy
+        type: period
+
+  - category: polity
+    claim: "At its greatest extent, the First Drengot Empire claimed control over much of Albion and most of Gaul."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: Albion
+        type: polity
+      - name: Gaul
+        type: polity
+
+  - category: polity
+    claim: "The major vassals of the First Drengot Empire were the kingdoms of Northumber, Markland, Kent, Greater Devon, France, and Burgundy, along with several lower-ranking demesnes."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: Northumber
+        type: polity
+      - name: Markland
+        type: polity
+      - name: Kent
+        type: polity
+      - name: Devon
+        type: polity
+      - name: France
+        type: polity
+      - name: Burgundy
+        type: polity
+
+  - category: polity
+    claim: "The First Drengot Empire is named for its ruling family, House Drengot, formerly rulers of Normandy alone."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: House Drengot
+        type: organisation
+      - name: Normandy
+        type: polity
+
+  - category: polity
+    claim: "The lesser-used name 'Constant Empire' claims the prestige of the Classical-era District of Constantius, which occupied roughly the same geographical extent."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: District of Constantius
+        type: polity
+
+  - category: polity
+    claim: "The structure of the First Drengot Empire was quite decentralised; for example, the vassal Tolose kept a standing army for its perennial skirmishes with neighbouring Barcelon."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: Tolose
+        type: polity
+      - name: Barcelon
+        type: polity
+
+  - category: polity
+    claim: "The Emperor of the First Drengot Empire usually held court in Paris, moved during the eleventh century from Roun."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: Paris
+        type: place
+      - name: Roun
+        type: place
+    dates: "11th c. N"
+
+  - category: event
+    claim: "The First Drengot Empire began with the Kernovan Conjuring, through which House Drengot in Normandy invaded and conquered Kent with the support of Greater Devon's House of Kernow."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: House Drengot
+        type: organisation
+      - name: Kent
+        type: polity
+      - name: Devon
+        type: polity
+
+  - category: event
+    claim: "As recompense for their support in the Kernovan Conjuring, the Drengots helped install the House of Kernow on the Devoner throne."
+    entities:
+      - name: House Drengot
+        type: organisation
+      - name: Devon
+        type: polity
+
+  - category: event
+    claim: "The Kernovan Conjuring was triggered by the death of the elderly patriarch Rodulf of Kent, who had ruled since childhood for nearly eight decades."
+    entities:
+      - name: Rodulf of Kent
+        type: person
+      - name: Kent
+        type: polity
+
+  - category: polity
+    claim: "The First Drengot Empire was most stable in the decades around the turn of the twelfth century, having reached its greatest territorial extent."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+    dates: "c. 1100 N"
+
+  - category: event
+    claim: "By 1120 N, much of the First Drengot Empire's treasury had been spent on defending the long eastern border with Willemy, including the completion of a new Great Castle at Vésonçon."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: Willemy
+        type: polity
+      - name: Vésonçon
+        type: place
+    dates: "1120 N"
+
+  - category: event
+    claim: "In 1170 N, the Kingdom of Burgundy ceased to be a vassal of the First Drengot Empire due to the political turmoil of the Emergency at Dijon."
+    entities:
+      - name: Burgundy
+        type: polity
+      - name: First Drengot Empire
+        type: polity
+      - name: Dijon
+        type: place
+    dates: "1170 N"
+
+  - category: event
+    claim: "The First Drengot Empire formally ceased to exist in 1191 N upon the death of Daniel IV, whose demesne was divided between his immediate family and allies."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: Daniel IV
+        type: person
+    dates: "1191 N"
+
+  - category: person
+    claim: "Nathaniel II (fl. 1067 N) was a Drengot Emperor who quashed a popular uprising in Flanders."
+    entities:
+      - name: Nathaniel II
+        type: person
+      - name: First Drengot Empire
+        type: polity
+    dates: "fl. 1067 N"
+
+  - category: person
+    claim: "Roger II (fl. 1121 N) was a Drengot Emperor under whose aegis Devon attempted to invade Wales without success."
+    entities:
+      - name: Roger II
+        type: person
+      - name: First Drengot Empire
+        type: polity
+    dates: "fl. 1121 N"
+
+  - category: person
+    claim: "Daniel IV (d. 1191 N) was the last ruler of a united First Drengot Empire."
+    entities:
+      - name: Daniel IV
+        type: person
+      - name: First Drengot Empire
+        type: polity
+    dates: "d. 1191 N"

@@ -1,0 +1,11 @@
+entry: 66.5
+title: "Extract from A Door, Once Opened by Clarissa Bellamy (1920)—Borlish translation"
+claims:
+  - category: work
+    claim: "A Borlish translation of Clarissa Bellamy's 'A Door, Once Opened' (1920) exists, available as an audio extract."
+    entities:
+      - name: "A Door, Once Opened"
+        type: work
+      - name: Clarissa Bellamy
+        type: person
+    dates: "1920 N"

@@ -1,0 +1,68 @@
+entry: 129.5
+title: "Arcabil"
+claims:
+  - category: place
+    claim: "The Arcabil are a collection of islands in the Atlantic, east of Mashick, comprising hundreds of landmasses of which Cocain is the largest."
+    entities:
+      - name: Arcabil
+        type: place
+      - name: Cocain
+        type: place
+
+  - category: glossary
+    claim: "The Arcabil is the Boralverse name for the Caribbean."
+    entities:
+      - name: Arcabil
+        irl: Caribbean
+        type: place
+
+  - category: language
+    claim: "The name 'Arcabil' has traditionally been considered to derive from Arabic 'archabīl 'archipelago,' borrowed into Scholastic Latin as Arcabilia."
+    entities:
+      - name: Arcabil
+        type: place
+
+  - category: event
+    claim: "The Arcabil were first encountered by Vetomundine powers in the late fifteenth century, during the New World Company's voyages west under Malik Munir al-Hamdawi."
+    entities:
+      - name: Arcabil
+        type: place
+      - name: Malik Munir al-Hamdawi
+        type: person
+    dates: "late 15th c. N"
+
+  - category: event
+    claim: "By the early sixteenth century, Morrack had established semi-permanent outposts in the Arcabil, which were important ports for the circumnavigation of the Cynthia under Fredun al-Casmi."
+    entities:
+      - name: Arcabil
+        type: place
+      - name: Cynthia
+        type: technology
+      - name: Fredun al-Casmi
+        type: person
+    dates: "early 16th c. N"
+
+  - category: culture
+    claim: "The orange liqueur known as 'fleuse' is a genericisation of the Fleus d'Arcabil mixer first manufactured in the early nineteenth century on a Borlish-speaking island of the Arcabil."
+    entities:
+      - name: Arcabil
+        type: place
+    dates: "early 19th c. N"
+
+  - category: person
+    claim: "Judeta Barracin (fl. 1919) was an author of social comedy born in Andalus who spent her formative years in the Arcabil."
+    entities:
+      - name: Judeta Barracin
+        type: person
+      - name: Arcabil
+        type: place
+    dates: "fl. 1919 N"
+
+  - category: person
+    claim: "Loðaç Berxon (fl. 1910) grew up in the Arcabil and was an important member of the Outland Arcabil Association after emigrating to Borland."
+    entities:
+      - name: Loðaç Berxon
+        type: person
+      - name: Outland Arcabil Association
+        type: organisation
+    dates: "fl. 1910 N"

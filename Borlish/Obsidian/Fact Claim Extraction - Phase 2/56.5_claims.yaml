@@ -1,0 +1,308 @@
+entry: 56.5
+title: "Vascony"
+claims:
+  - category: polity
+    claim: "Vascony (Vascon: Vasconna), or more fully the Vascon Kingdom of Navarre and Aquitain, is a polity of western Europe occupying parts of southern Gaul and northern Spain."
+    entities:
+      - name: Vascony
+        type: polity
+
+  - category: polity
+    claim: "Vascony was formed from the political union of Aquitain and Navarre."
+    entities:
+      - name: Vascony
+        type: polity
+      - name: Aquitain
+        type: polity
+      - name: Navarre
+        type: polity
+
+  - category: event
+    claim: "Vascony later expanded to vassalise Leon in the twelfth century, during the reign of Ranolf VI."
+    entities:
+      - name: Vascony
+        type: polity
+      - name: Leon
+        type: polity
+      - name: Ranolf VI
+        type: person
+    dates: "12th c. N"
+
+  - category: period
+    claim: "The Vascon Ascendancy began during the reign of Ambrose II and reached a peak with his grandson Ambrose III."
+    entities:
+      - name: Vascon Ascendancy
+        type: period
+      - name: Ambrose II
+        type: person
+      - name: Ambrose III
+        type: person
+    relationships:
+      - type: grandchild
+        from: "Ambrose III"
+        to: "Ambrose II"
+
+  - category: polity
+    claim: "At the start of the Vascon Ascendancy, Vascony was at its territorial maximum: it had conquered northern Portingale, subjugated the rest as a client, and controlled much of southern Burgundy as far as the Italian states of Jeans and Lombardy."
+    entities:
+      - name: Vascony
+        type: polity
+      - name: Portingale
+        type: polity
+      - name: Burgundy
+        type: polity
+
+  - category: event
+    claim: "In 1458 N, Ambrose III established by royal decree the New Navarre Enterprise, whose primary aim was to solidify Vascon supremacy in the trade of North Atlantic fish through the Middlesea."
+    entities:
+      - name: Ambrose III
+        type: person
+      - name: New Navarre Enterprise
+        type: organisation
+    dates: "1458 N"
+
+  - category: event
+    claim: "Ships of the New Navarre Enterprise sighted Brasil in 1471 N and brought news of the Novomund to Europe."
+    entities:
+      - name: New Navarre Enterprise
+        type: organisation
+      - name: Brasil
+        type: place
+    dates: "1471 N"
+
+  - category: event
+    claim: "The Kingdom of Burgundy retook Provence from Vascony in 1494 N, sparking the 1497–99 War of Provincial Independence."
+    entities:
+      - name: Burgundy
+        type: polity
+      - name: Vascony
+        type: polity
+      - name: Provence
+        type: polity
+    dates: "1494 N"
+
+  - category: event
+    claim: "About a decade after losing Provence, Vascony's Middlesea coast (primarily the region of Tolose) was taken by Barcelon."
+    entities:
+      - name: Vascony
+        type: polity
+      - name: Barcelon
+        type: polity
+      - name: Tolose
+        type: place
+    dates: "c. 1504 N"
+
+  - category: event
+    claim: "During the fifteenth century, Vascony explored parts of the African coast as far south as Sant Adrian."
+    entities:
+      - name: Vascony
+        type: polity
+      - name: Sant Adrian
+        type: place
+    dates: "15th c. N"
+
+  - category: glossary
+    claim: "Sant Adrian is the Boralverse name for Bioko (island off the African coast)."
+    entities:
+      - name: Sant Adrian
+        irl: Bioko
+        type: place
+
+  - category: event
+    claim: "Vascony lost over a fifth of its population to the Second Great Dying in the years after the plague's arrival in Europe in 1519 N."
+    entities:
+      - name: Vascony
+        type: polity
+      - name: Second Great Dying
+        type: event
+    dates: "after 1519 N"
+
+  - category: economics
+    claim: "Despite plague losses, Vascony saw a population increase from 1500 to 1550 N (excluding Portingale) due to immigration driven by Novomundine profits in furs and other goods."
+    entities:
+      - name: Vascony
+        type: polity
+    dates: "1500–1550 N"
+
+  - category: period
+    claim: "The Vascon Ascendancy is generally considered to have ended with the War of the Two Queens near the end of the sixteenth century."
+    entities:
+      - name: Vascon Ascendancy
+        type: period
+      - name: War of the Two Queens
+        type: event
+    dates: "late 16th c. N"
+
+  - category: event
+    claim: "The War of the Two Queens also saw the formal end of feudalism within Vascony."
+    entities:
+      - name: War of the Two Queens
+        type: event
+      - name: Vascony
+        type: polity
+
+  - category: place
+    claim: "The parts of Mendeva first explored by Vascony—the island of Brasil and the lands westward—were named Ambrosia in honour of Ambrose III."
+    entities:
+      - name: Ambrosia
+        type: polity
+      - name: Ambrose III
+        type: person
+      - name: Brasil
+        type: place
+
+  - category: event
+    claim: "During the Romantic Wars of the mid-seventeenth century, Vascony fought primarily with Morrack to the south, and was forced to cede Portingale to Andalus after military defeats."
+    entities:
+      - name: Vascony
+        type: polity
+      - name: Morrack
+        type: polity
+      - name: Portingale
+        type: polity
+      - name: Andalus
+        type: polity
+    dates: "mid-17th c. N"
+
+  - category: event
+    claim: "A canal system connecting Bordew (in Vascony) to Audaz in Barcelon was completed in 1679 N, in an example of early international cooperation."
+    entities:
+      - name: Bordew
+        type: place
+      - name: Audaz
+        type: place
+      - name: Vascony
+        type: polity
+      - name: Barcelon
+        type: polity
+    dates: "1679 N"
+
+  - category: event
+    claim: "Once Vascony's interests in Mendeva and the East were threatened during the Second German War, King Hernand IV declared against the Northern Concert and in favour of the Convoy."
+    entities:
+      - name: Hernand IV
+        type: person
+      - name: Vascony
+        type: polity
+      - name: Second German War
+        type: event
+
+  - category: polity
+    claim: "Into the twentieth century, Vascony maintained strong ties with its neighbour Provence through shared enmity towards the Drengot Collusion."
+    entities:
+      - name: Vascony
+        type: polity
+      - name: Provence
+        type: polity
+      - name: Drengot Collusion
+        type: polity
+    dates: "20th c. N"
+
+  - category: person
+    claim: "Ranolf VI (crowned 1170 N) was a Vascon monarch during whose reign Leon became a vassal of the kingdom."
+    entities:
+      - name: Ranolf VI
+        type: person
+      - name: Vascony
+        type: polity
+    dates: "crowned 1170 N"
+
+  - category: person
+    claim: "Ambrose III 'The Ascendant' (17 March 1435–28 February 1518 N) presided over the Vascon Ascendancy."
+    entities:
+      - name: Ambrose III
+        type: person
+      - name: Vascony
+        type: polity
+    dates: "1435–1518 N"
+
+  - category: person
+    claim: "Hernand IV (fl. 1820 N) reigned during the height of the Modest Arrangement and the Second German War."
+    entities:
+      - name: Hernand IV
+        type: person
+      - name: Vascony
+        type: polity
+    dates: "fl. 1820 N"
+
+  - category: person
+    claim: "Princess Alexandra of Vascony (b. ca. 1430 N) was the first European royal to set foot in the Novomund."
+    entities:
+      - name: Alexandra of Vascony
+        type: person
+    dates: "b. ca. 1430 N"
+
+  - category: person
+    claim: "Prince Mark of Tolose (d. 1453 N) predeceased his son Ambrose III."
+    entities:
+      - name: Mark of Tolose
+        type: person
+      - name: Ambrose III
+        type: person
+    dates: "d. 1453 N"
+    relationships:
+      - type: parent
+        from: "Mark of Tolose"
+        to: "Ambrose III"
+
+  - category: person
+    claim: "Princess Natalia of Vascony (b. ca. 1440 N) was the younger sister of Ambrose III."
+    entities:
+      - name: Natalia of Vascony
+        type: person
+      - name: Ambrose III
+        type: person
+    dates: "b. ca. 1440 N"
+    relationships:
+      - type: sibling
+        from: "Natalia of Vascony"
+        to: "Ambrose III"
+
+  - category: person
+    claim: "Prince Victor of Astorga (b. ca. 1440 N) was the younger brother of Ambrose III."
+    entities:
+      - name: Victor of Astorga
+        type: person
+      - name: Ambrose III
+        type: person
+    dates: "b. ca. 1440 N"
+    relationships:
+      - type: sibling
+        from: "Victor of Astorga"
+        to: "Ambrose III"
+
+  - category: person
+    claim: "David Bensaíd (fl. 1751 N) is a Vascon author of the influential political treatise 'The Three Cities'."
+    entities:
+      - name: David Bensaíd
+        type: person
+      - name: "The Three Cities"
+        type: work
+    dates: "fl. 1751 N"
+
+  - category: person
+    claim: "Gonçala Jaubèt (fl. 1902 N) is a Vascon writer who later in life moved to Valencia."
+    entities:
+      - name: Gonçala Jaubèt
+        type: person
+      - name: Valencia
+        type: place
+    dates: "fl. 1902 N"
+
+  - category: person
+    claim: "Galarça fi Molhomé (fl. 2014 N) is a lovetale writer turned popular historian."
+    entities:
+      - name: "Galarça fi Molhomé"
+        type: person
+    dates: "fl. 2014 N"
+
+  - category: person
+    claim: "García Ramires (fl. 1920 N) translated Clarissa Bellamy's 'A Door, Once Opened' into Leon."
+    entities:
+      - name: García Ramires
+        type: person
+      - name: "A Door, Once Opened"
+        type: work
+      - name: Clarissa Bellamy
+        type: person
+    dates: "fl. 1920 N"

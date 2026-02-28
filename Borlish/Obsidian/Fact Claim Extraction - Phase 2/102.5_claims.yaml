@@ -1,0 +1,62 @@
+entry: 102.5
+title: "British Mendeva"
+claims:
+  - category: place
+    claim: "British Mendeva refers to the polities of Mendeva which have undergone significant settlement from or otherwise been significantly influenced by the Kingdom of Britain."
+    entities:
+      - name: British Mendeva
+        type: polity
+      - name: Britain
+        type: polity
+
+  - category: place
+    claim: "British Mendeva is mostly contained within the larger region of Gulf Mendeva."
+    entities:
+      - name: British Mendeva
+        type: polity
+      - name: Gulf Mendeva
+        type: place
+
+  - category: place
+    claim: "The polity of British Mendeva with the most population and global influence is Hasiny."
+    entities:
+      - name: British Mendeva
+        type: polity
+      - name: Hasiny
+        type: polity
+
+  - category: event
+    claim: "In the seventeenth century, exploratory voyages by the Kingdom of Britain founded staddomains along the Mendevan Gulf, which grew into the polities of British Mendeva."
+    entities:
+      - name: Britain
+        type: polity
+      - name: British Mendeva
+        type: polity
+    dates: "17th c. N"
+
+  - category: culture
+    claim: "The 'herdtale' tradition of storytelling originated in nineteenth-century British Mendeva and was brought to wider recognition via works published jointly in British Mendeva and Britain."
+    entities:
+      - name: British Mendeva
+        type: polity
+      - name: Britain
+        type: polity
+    dates: "19th c. N"
+
+  - category: culture
+    claim: "British Mendeva rapidly adopted the ethics of the Household Renovation in the nineteenth century."
+    entities:
+      - name: British Mendeva
+        type: polity
+      - name: Household Renovation
+        type: period
+    dates: "19th c. N"
+
+  - category: economics
+    claim: "In the nineteenth century there was significant transmigration of élites between British Mendeva and Britain, with increased intermarriage, attributed partly to faster ships and greatly-reduced travel times."
+    entities:
+      - name: British Mendeva
+        type: polity
+      - name: Britain
+        type: polity
+    dates: "19th c. N"

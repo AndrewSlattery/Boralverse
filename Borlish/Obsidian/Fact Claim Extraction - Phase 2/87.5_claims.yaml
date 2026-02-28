@@ -1,0 +1,104 @@
+entry: 87.5
+title: "Merch"
+claims:
+  - category: language
+    claim: "Merch is an English language of the German family of languages which evolved on the island of Albion."
+    entities:
+      - name: Merch
+        type: concept
+
+  - category: language
+    claim: "Merch is closely related to other English languages such as Kentish and Wessern."
+    entities:
+      - name: Merch
+        type: concept
+      - name: Kentish
+        type: concept
+      - name: Wessern
+        type: concept
+
+  - category: language
+    claim: "Merch is the primary language of the polity of Markland."
+    entities:
+      - name: Merch
+        type: concept
+      - name: Markland
+        type: polity
+
+  - category: language
+    claim: "Contemporary Merch descends from Early Merch spoken in Markland, which itself descends from Anglian varieties of Old English."
+    entities:
+      - name: Merch
+        type: concept
+
+  - category: glossary
+    claim: "Aphlox is the Boralverse term for carbon dioxide."
+    entities:
+      - name: aphlox
+        irl: carbon dioxide
+        type: concept
+
+  - category: glossary
+    claim: "Surblavick is the Merch term for ultraviolet."
+    entities:
+      - name: surblavick
+        irl: ultraviolet
+        type: concept
+
+  - category: glossary
+    claim: "Œculux is the Merch term for electromagnetic radiation."
+    entities:
+      - name: œculux
+        irl: electromagnetic radiation
+        type: concept
+
+  - category: glossary
+    claim: "Aquifex is the Boralverse term for hydrogen (the chemical element)."
+    entities:
+      - name: aquifex
+        irl: hydrogen
+        type: concept
+
+  - category: glossary
+    claim: "Behemoth is the Merch term for hippopotamus."
+    entities:
+      - name: behemoth
+        irl: hippopotamus
+        type: concept
+
+  - category: glossary
+    claim: "Coholl is the Merch term for sulfide."
+    entities:
+      - name: coholl
+        irl: sulfide
+        type: concept
+
+  - category: terminology
+    claim: "Thrift is the Merch term for energy (in the physical sense)."
+    entities:
+      - name: thrift
+        type: concept
+
+  - category: terminology
+    claim: "Eagre is the Merch term for acid."
+    entities:
+      - name: eagre
+        type: concept
+
+  - category: terminology
+    claim: "Quoit is the Merch term for a tyre or torus."
+    entities:
+      - name: quoit
+        type: concept
+
+  - category: terminology
+    claim: "Yacht is the Merch term for a cult (derived from Dutch jaght 'hunting party')."
+    entities:
+      - name: yacht
+        type: concept
+
+  - category: language
+    claim: "In Merch, the word coshow (meaning 'rubber') derives from Quechua kawchu."
+    entities:
+      - name: coshow
+        type: concept

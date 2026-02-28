@@ -1,0 +1,65 @@
+entry: 65.5
+title: "Second Roman Empire"
+claims:
+  - category: polity
+    claim: "The Second Roman Empire (also called the Empire of the Hellenes, Empire in Byzantium, Malchassian Rome, or Eastern Roman Empire) was the political and cultural continuation of the Classical Roman Empire following the reconquest of Rome from the Eastern Goths by Emperor Justinian I."
+    entities:
+      - name: Second Roman Empire
+        type: polity
+      - name: Justinian I
+        type: person
+
+  - category: polity
+    claim: "The Second Roman Empire persisted in some form for over a millennium, with its final collapse occurring in the seventeenth century."
+    entities:
+      - name: Second Roman Empire
+        type: polity
+    dates: "d. 17th c. N"
+
+  - category: religion
+    claim: "Many Christian heresies had their origins in the Second Roman Empire, especially in the first millennium, including all the so-called 'Grecian heresies' and Marmeronism."
+    entities:
+      - name: Second Roman Empire
+        type: polity
+
+  - category: religion
+    claim: "The Second Roman Empire had a propensity for exiling (rather than executing or mutilating) individuals who espoused heretical viewpoints but had acquired significant influence."
+    entities:
+      - name: Second Roman Empire
+        type: polity
+
+  - category: polity
+    claim: "During the Second Tetrarchy, the Second Roman Empire reached a territorial maximum with the capture of Derban in 1026 N, controlling lands from Corsica in the west to the Hazaran Sea in the east."
+    entities:
+      - name: Second Roman Empire
+        type: polity
+      - name: Derban
+        type: place
+    dates: "1026 N"
+
+  - category: event
+    claim: "Following the fall of the northern Lombards in Italy, the ruling family fled to the Second Roman Empire and obtained appreciable clout there, with some members appointed to administer the Empire's western themes."
+    entities:
+      - name: Second Roman Empire
+        type: polity
+      - name: Lombardy
+        type: polity
+
+  - category: event
+    claim: "In the fourteenth century, the Hagia Sophia underwent extensive reconstruction and expansion, headed by Burgund architect Nicolà s'Avignon."
+    entities:
+      - name: Hagia Sophia
+        type: place
+      - name: "Nicolà s'Avignon"
+        type: person
+    dates: "14th c. N"
+
+  - category: person
+    claim: "Nicolà s'Avignon is sometimes jocularly referred to as the 'architect of the Empire's demise' due to tragic events that would take place within the Hagia Sophia three hundred years after his reconstruction."
+    entities:
+      - name: "Nicolà s'Avignon"
+        type: person
+      - name: Hagia Sophia
+        type: place
+      - name: Second Roman Empire
+        type: polity

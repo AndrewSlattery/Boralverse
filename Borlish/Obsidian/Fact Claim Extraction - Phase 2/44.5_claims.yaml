@@ -1,0 +1,156 @@
+entry: 44.5
+title: "Cordin and Brenna"
+claims:
+  - category: place
+    claim: "Cordin is a city in Borland."
+    entities:
+      - name: Cordin
+        type: place
+      - name: Borland
+        type: place
+
+  - category: organisation
+    claim: "Cordin Editions is a prolific press based in Cordin."
+    entities:
+      - name: Cordin Editions
+        type: organisation
+      - name: Cordin
+        type: place
+
+  - category: organisation
+    claim: "From the late twentieth century onwards, Cordin Editions has provided textbooks to schools across Borland nationwide."
+    entities:
+      - name: Cordin Editions
+        type: organisation
+      - name: Borland
+        type: place
+    dates: "late 20th c. N"
+
+  - category: language
+    claim: "The name of the city Cordin is usually considered to be unrelated to the Borlish word cordin meaning 'string'."
+    entities:
+      - name: Cordin
+        type: place
+
+  - category: event
+    claim: "In the late 1660s N, the young James V of Barcelon was a ward in Cordin."
+    entities:
+      - name: James V of Barcelon
+        type: person
+      - name: Cordin
+        type: place
+    dates: "late 1660s N"
+
+  - category: place
+    claim: "By the Long Peace period, Cordin had become one of the largest cities on the island of Borland."
+    entities:
+      - name: Cordin
+        type: place
+      - name: Borland
+        type: place
+
+  - category: place
+    claim: "By the Long Peace period, Cordin had a thriving high society to rival that of the capital Damvath."
+    entities:
+      - name: Cordin
+        type: place
+      - name: Damvath
+        type: place
+
+  - category: person
+    claim: "Professor Marc Jeichey (fl. 2019 N) is a lecturer in concurrence history at the University of Cordin."
+    entities:
+      - name: Marc Jeichey
+        type: person
+      - name: University of Cordin
+        type: organisation
+    dates: "fl. 2019 N"
+
+  - category: person
+    claim: "Marc Jeichey spent some years working in peripatetico at the Dijon New School."
+    entities:
+      - name: Marc Jeichey
+        type: person
+      - name: Dijon New School
+        type: organisation
+
+  - category: person
+    claim: "Theign Roufler (fl. 2016 N) is a scholar and author."
+    entities:
+      - name: Theign Roufler
+        type: person
+    dates: "fl. 2016 N"
+
+  - category: work
+    claim: "Theign Roufler authored 'From Tablets to Slates: The Story of Education' (Borlish: 'Des Delt vars Dois : Y Stoir d'Education')."
+    entities:
+      - name: "From Tablets to Slates: The Story of Education"
+        type: work
+      - name: Theign Roufler
+        type: person
+
+  - category: person
+    claim: "Brenna of Barrow (fl. 898 N) was the cousin of King Roderick of Dunclothe."
+    entities:
+      - name: Brenna of Barrow
+        type: person
+      - name: Roderick of Dunclothe
+        type: person
+    dates: "fl. 898 N"
+    relationships:
+      - type: cousin
+        from: "Brenna of Barrow"
+        to: "Roderick of Dunclothe"
+
+  - category: event
+    claim: "Brenna of Barrow married the young King Jothey of Borland shortly before the First Kingdom of Borland fell to the Danes in 898 N."
+    entities:
+      - name: Brenna of Barrow
+        type: person
+      - name: Jothey of Borland
+        type: person
+    dates: "898 N"
+    relationships:
+      - type: spouse
+        from: "Brenna of Barrow"
+        to: "Jothey of Borland"
+
+  - category: event
+    claim: "After the fall of the First Kingdom of Borland in 898 N, Brenna of Barrow fled with her husband Jothey to Sothbar."
+    entities:
+      - name: Brenna of Barrow
+        type: person
+      - name: Jothey of Borland
+        type: person
+      - name: Sothbar
+        type: place
+    dates: "898 N"
+
+  - category: person
+    claim: "Brenna of Barrow bore several children while in Sothbar."
+    entities:
+      - name: Brenna of Barrow
+        type: person
+      - name: Sothbar
+        type: place
+
+  - category: event
+    claim: "About two decades after their arrival, Sothbar surrendered to Dane Borland, forcing Brenna and Jothey's family to flee once more to Kent."
+    entities:
+      - name: Brenna of Barrow
+        type: person
+      - name: Jothey of Borland
+        type: person
+      - name: Sothbar
+        type: place
+      - name: Kent
+        type: place
+    dates: "c. 918 N"
+
+  - category: work
+    claim: "Much of our knowledge of the remainder of Brenna of Barrow's life is preserved through Brethin copies of her correspondence with her aging uncle in Dunclothe."
+    entities:
+      - name: Brenna of Barrow
+        type: person
+      - name: Dunclothe
+        type: place

@@ -1,0 +1,106 @@
+entry: 73.5
+title: "Ambrosia"
+claims:
+  - category: polity
+    claim: "Ambrosia (Vascon/Vask: Ambroxa) is a polity of north-eastern Mendeva, comprising several islands and much of the mainland up to the Five Seas."
+    entities:
+      - name: Ambrosia
+        type: polity
+      - name: Mendeva
+        type: place
+
+  - category: polity
+    claim: "Ambrosia borders New Provence to the south."
+    entities:
+      - name: Ambrosia
+        type: polity
+      - name: New Provence
+        type: polity
+
+  - category: event
+    claim: "The story of Ambrosia begins with the Novomundine Landfall of 1471 N, when a Vask fishing expedition (part of the New Navarre Enterprise) landed on the island of Brasil."
+    entities:
+      - name: Ambrosia
+        type: polity
+      - name: New Navarre Enterprise
+        type: organisation
+      - name: Brasil
+        type: place
+    dates: "1471 N"
+
+  - category: place
+    claim: "The parts of Mendeva first explored by Vascony—Brasil and the lands westward—were named Ambrosia in honour of Ambrose III of Vascony."
+    entities:
+      - name: Ambrosia
+        type: polity
+      - name: Ambrose III
+        type: person
+      - name: Brasil
+        type: place
+
+  - category: event
+    claim: "Ambrosia achieved political and economic independence from Vascony in the early nineteenth century as part of the continent-wide phenomenon of the Mendevan Unmooring."
+    entities:
+      - name: Ambrosia
+        type: polity
+      - name: Vascony
+        type: polity
+      - name: Mendevan Unmooring
+        type: event
+    dates: "early 19th c. N"
+
+  - category: technology
+    claim: "The first long-distance transmission of an image took place in Ambrosia in 1820 N, employing the Steeplepost Tapestry (a wall of tiles painted black and white on each side)."
+    entities:
+      - name: Ambrosia
+        type: polity
+      - name: Steeplepost Tapestry
+        type: technology
+    dates: "1820 N"
+
+  - category: event
+    claim: "The Steeplepost Tapestry would soon go on to be the subject of the infamous Lies of 1824 N."
+    entities:
+      - name: Steeplepost Tapestry
+        type: technology
+      - name: Lies of 1824
+        type: event
+    dates: "1824 N"
+
+  - category: technology
+    claim: "By the 1880s N, the most urbanised parts of Ambrosia were connected by wired tachygraph, allowing messages to be sent from home to home."
+    entities:
+      - name: Ambrosia
+        type: polity
+      - name: tachygraph
+        type: technology
+    dates: "1880s N"
+
+  - category: technology
+    claim: "In 1950 N, the Japetos submarine Atlantic link conveyed its first messages, laid between Gadire in Morrack and eastern Brasil."
+    entities:
+      - name: Japetos
+        type: technology
+      - name: Morrack
+        type: polity
+      - name: Brasil
+        type: place
+    dates: "1950 N"
+
+  - category: place
+    claim: "Aiga d'Angoixa is a major city on the Oxagre River in Ambrosia and the location of the original Steeplepost Tapestry."
+    entities:
+      - name: Aiga d'Angoixa
+        type: place
+      - name: Oxagre River
+        type: place
+      - name: Ambrosia
+        type: polity
+
+  - category: place
+    claim: "Illa de Vinna Salvatge is a built-up island in the Oxagre River in Ambrosia."
+    entities:
+      - name: Illa de Vinna Salvatge
+        type: place
+      - name: Oxagre River
+        type: place

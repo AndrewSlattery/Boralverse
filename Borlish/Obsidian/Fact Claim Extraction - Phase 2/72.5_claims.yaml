@@ -1,0 +1,250 @@
+entry: 72.5
+title: "Markland"
+claims:
+  - category: polity
+    claim: "Markland is a polity of Albion, situated east of Wales, north of London and Kent, and south of Northumber and Sodrick."
+    entities:
+      - name: Markland
+        type: polity
+      - name: Albion
+        type: polity
+
+  - category: place
+    claim: "Markland originates with Saxon settlements in sub-Roman Britannia, forming what would go on to be named mearce land ('borderland')."
+    entities:
+      - name: Markland
+        type: polity
+
+  - category: language
+    claim: "The demonym Mierce means 'people of the border', whence the Latin name Mercia and native Merchman ('man from Markland')."
+    entities:
+      - name: Markland
+        type: polity
+
+  - category: event
+    claim: "The petty kingdom of Anglia was annexed by Markland with the Treaty of Oxford in the late eighth century, establishing the persevering border between the mouths of the Severn and the Tames."
+    entities:
+      - name: Markland
+        type: polity
+      - name: Anglia
+        type: polity
+    dates: "late 8th c. N"
+
+  - category: event
+    claim: "Markland weathered the Viking Age more successfully than neighbouring Northumber, though much of its eastern coast was settled by Danes; the city of Lincon served as the de facto border of Danish rule for several decades."
+    entities:
+      - name: Markland
+        type: polity
+      - name: Northumber
+        type: polity
+      - name: Lincon
+        type: place
+
+  - category: event
+    claim: "The tenth-century Elved Marriage (held near modern Leeds) ended hostilities between Markland and Dane forces in the east for almost a century."
+    entities:
+      - name: Elved Marriage
+        type: event
+      - name: Markland
+        type: polity
+    dates: "10th c. N"
+
+  - category: culture
+    claim: "The Elved Marriage was solemnised over a sandstone block later inlaid into the Redstone Chair, a low-backed wooden throne on which many subsequent Markland monarchs were crowned."
+    entities:
+      - name: Elved Marriage
+        type: event
+      - name: Redstone Chair
+        type: culture
+
+  - category: event
+    claim: "Around the turn of the second millennium, Markland was conquering territory from the northern reaches of Wales, incidentally leading to Pope Agatho's canonisation of Welsh St David."
+    entities:
+      - name: Markland
+        type: polity
+      - name: Agatho
+        type: person
+    dates: "c. 1000 N"
+
+  - category: event
+    claim: "The perennial conflicts between Markland and Wales were collectively referred to as the Mallor Wars."
+    entities:
+      - name: Mallor Wars
+        type: event
+      - name: Markland
+        type: polity
+
+  - category: event
+    claim: "The First Drengot Empire counted Markland as a major vassal, conquered from the south following the subjugation of Kent by Normandy and Greater Devon in 1029 N."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: Markland
+        type: polity
+    dates: "1029 N"
+
+  - category: event
+    claim: "The Mallor Wars were reignited by the martial-minded King Andrew II with the Sack of Rexam in 1301 N, during which the original St Brigid's Abbey burned to the ground."
+    entities:
+      - name: Andrew II
+        type: person
+      - name: Mallor Wars
+        type: event
+      - name: Rexam
+        type: place
+    dates: "1301 N"
+
+  - category: event
+    claim: "In the 1483 N Battle of Rexam (during the Wars of Fealty), the Kingdom of Britain expanded its borders in the north and the last Duke of Chestre was killed."
+    entities:
+      - name: Markland
+        type: polity
+      - name: Wars of Fealty
+        type: event
+      - name: Rexam
+        type: place
+    dates: "1483 N"
+
+  - category: technology
+    claim: "In the final years of the Wars of Fealty, King Andrew III employed a code known as Thieves' Script, apparently adapted from systems used by gangs of housebreakers in Nottingham."
+    entities:
+      - name: Andrew III
+        type: person
+      - name: Thieves' Script
+        type: technology
+      - name: Nottingham
+        type: place
+
+  - category: technology
+    claim: "Thieves' Script is remembered as a very early precursor of codes like steeplescript or modern one-zeffre encoding."
+    entities:
+      - name: Thieves' Script
+        type: technology
+
+  - category: event
+    claim: "Poor economic conditions and population displacement in Markland following the Wars of Fealty led it to suffer almost twice as many deaths per capita from the Second Great Dying compared to polities like Willemy."
+    entities:
+      - name: Markland
+        type: polity
+      - name: Second Great Dying
+        type: event
+      - name: Willemy
+        type: polity
+
+  - category: event
+    claim: "London became permanently independent following the Democratic Wars of the mid-eighteenth century."
+    entities:
+      - name: London
+        type: place
+    dates: "mid-18th c. N"
+
+  - category: event
+    claim: "The spellings of various towns and cities in Markland were rationalised during the Long Peace period; for example, Conster for former Colncester."
+    entities:
+      - name: Markland
+        type: polity
+      - name: Long Peace
+        type: period
+
+  - category: place
+    claim: "The 2010 N Œcumen Count recorded Utter Safford as the secondmost populous city in Markland proper with 4.4 million inhabitants, after the capital Tommarth."
+    entities:
+      - name: Utter Safford
+        type: place
+      - name: Tommarth
+        type: place
+      - name: Markland
+        type: polity
+    dates: "2010 N"
+
+  - category: person
+    claim: "Theodric the Awefast (fl. 800 N) was a Markland monarch and repeller of several attempted Viking incursions into Merch territory."
+    entities:
+      - name: Theodric the Awefast
+        type: person
+      - name: Markland
+        type: polity
+    dates: "fl. 800 N"
+
+  - category: person
+    claim: "Oswin the Becoming (fl. 1029 N) was the last ruler of an independent Markland before the First Drengot Empire."
+    entities:
+      - name: Oswin the Becoming
+        type: person
+      - name: Markland
+        type: polity
+    dates: "fl. 1029 N"
+
+  - category: person
+    claim: "Andrew II (fl. 1301 N) was a Markland monarch who reignited the Mallor Wars with the Sack of Rexam."
+    entities:
+      - name: Andrew II
+        type: person
+      - name: Markland
+        type: polity
+    dates: "fl. 1301 N"
+
+  - category: person
+    claim: "Andrew III (fl. 1500 N) was a Markland monarch who ruled during the latter years of the Wars of Fealty."
+    entities:
+      - name: Andrew III
+        type: person
+      - name: Markland
+        type: polity
+    dates: "fl. 1500 N"
+
+  - category: person
+    claim: "Laurent Burnows (fl. 2015 N) is famous for the children's series 'Back to Front' and the more mature series 'An Inconvenient Armageddon'."
+    entities:
+      - name: Laurent Burnows
+        type: person
+      - name: "Back to Front"
+        type: work
+      - name: "An Inconvenient Armageddon"
+        type: work
+    dates: "fl. 2015 N"
+
+  - category: person
+    claim: "Anna and Ralph Highwater (fl. 1930 N) were co-writers of the series of books 'Games for Sorties and Excourses'."
+    entities:
+      - name: Anna Highwater
+        type: person
+      - name: Ralph Highwater
+        type: person
+      - name: "Games for Sorties and Excourses"
+        type: work
+    dates: "fl. 1930 N"
+
+  - category: person
+    claim: "Challow Huddresfell (fl. 1956 N) is a historian who wrote 'Daughters of the Sea: The Northwestern Isles'."
+    entities:
+      - name: Challow Huddresfell
+        type: person
+      - name: "Daughters of the Sea: The Northwestern Isles"
+        type: work
+    dates: "fl. 1956 N"
+
+  - category: person
+    claim: "Jason Ridley (fl. 1967 N) co-wrote the quire 'A Handbook of Natural Theory'."
+    entities:
+      - name: Jason Ridley
+        type: person
+      - name: "A Handbook of Natural Theory"
+        type: work
+    dates: "fl. 1967 N"
+
+  - category: person
+    claim: "Dr Harold Westcamp (fl. 1997 N) wrote the series of textbooks 'Albic Medicine in the Workshop Decades'."
+    entities:
+      - name: Harold Westcamp
+        type: person
+      - name: "Albic Medicine in the Workshop Decades"
+        type: work
+    dates: "fl. 1997 N"
+
+  - category: person
+    claim: "Sarzan Dawkinholm (fl. c. 19th c. N) was a long-serving and much-lambasted Outland Minister."
+    entities:
+      - name: Sarzan Dawkinholm
+        type: person
+    dates: "fl. c. 19th c. N"

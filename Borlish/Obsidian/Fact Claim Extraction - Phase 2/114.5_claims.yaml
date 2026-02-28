@@ -1,0 +1,63 @@
+entry: 114.5
+title: "On the Bookshelf"
+claims:
+  - category: work
+    claim: "'In Sickness and in Health: Medicine in pre-Arnoutszen Europe' is a quire written by Andrew Knowles in the mid-twentieth century, published by Winchester Scholastic Primers in multiple editions."
+    entities:
+      - name: "In Sickness and in Health: Medicine in pre-Arnoutszen Europe"
+        type: work
+      - name: Andrew Knowles
+        type: person
+      - name: Winchester Scholastic Primers
+        type: organisation
+
+  - category: work
+    claim: "The second edition of 'In Sickness and in Health' was released in 1961 with a foreword by Dr Laura Norris, a lecturer in Heredity at Canterburgh University."
+    entities:
+      - name: "In Sickness and in Health: Medicine in pre-Arnoutszen Europe"
+        type: work
+      - name: Laura Norris
+        type: person
+      - name: Canterburgh University
+        type: organisation
+    dates: "1961 N"
+
+  - category: person
+    claim: "Laurz Arnoutszen was a sixteenth-century physician whose techniques constituted a sea-change in the effectiveness of European medicine."
+    entities:
+      - name: Laurz Arnoutszen
+        type: person
+    dates: "16th c. N"
+
+  - category: work
+    claim: "'New Skies, Old Stories' (originally published in Provincial French as 'Novè Cial, Anzan Conte', 1980) was written by Simon d'Estiala and published by Prindor Marsillès. Its thesis is that many parachthon tropes often attributed to particular authors are in fact existing tropes used in new settings."
+    entities:
+      - name: "New Skies, Old Stories"
+        type: work
+      - name: Simon d'Estiala
+        type: person
+      - name: Prindor Marsillès
+        type: organisation
+    dates: "1980 N"
+
+  - category: work
+    claim: "'Men in Black' (originally published in Parisian French as 'Hommes en Noir: une Étoire d'Espionnage', 2003) is a layperson's account of the history of spycraft, written by Agathe Bisset and published by Paris University Editions."
+    entities:
+      - name: "Men in Black"
+        type: work
+      - name: Agathe Bisset
+        type: person
+      - name: Paris University Editions
+        type: organisation
+    dates: "2003 N"
+
+  - category: work
+    claim: "'The Alphabetical Albion' (1920) is an encyclopaedia of the political history of Albion, written by a consortium including Lucas Osborne and published by Winchester Scholastic Primers."
+    entities:
+      - name: "The Alphabetical Albion"
+        type: work
+      - name: Lucas Osborne
+        type: person
+      - name: Winchester Scholastic Primers
+        type: organisation
+    dates: "1920 N"

@@ -1,0 +1,98 @@
+entry: 116.5
+title: "Kernovan Conjuring"
+claims:
+  - category: event
+    claim: "The Kernovan Conjuring was a collaboration between the Kingdom of Greater Devon and Roger Drengot, Duke of Normandy to press the Duke's claim to the throne of Kent, considered the proximate cause of the First Drengot Empire."
+    entities:
+      - name: Kernovan Conjuring
+        type: event
+      - name: Greater Devon
+        type: polity
+      - name: Roger Drengot
+        type: person
+      - name: Normandy
+        type: polity
+      - name: Kent
+        type: polity
+
+  - category: event
+    claim: "The Kernovan Conjuring was carried out in 1029, following the death of King Rodulf of Kent."
+    entities:
+      - name: Kernovan Conjuring
+        type: event
+      - name: Rodulf of Kent
+        type: person
+    dates: "1029 N"
+
+  - category: event
+    claim: "Under the Kernovan Conjuring, the House of Kernow aided Normandy in their bid for the Kentish throne in exchange for support in becoming the new ruling dynasty of Greater Devon."
+    entities:
+      - name: Kernovan Conjuring
+        type: event
+      - name: Greater Devon
+        type: polity
+      - name: Normandy
+        type: polity
+
+  - category: polity
+    claim: "Greater Devon became a vassal of the First Drengot Empire within a couple of decades of the Kernovan Conjuring."
+    entities:
+      - name: Greater Devon
+        type: polity
+      - name: First Drengot Empire
+        type: polity
+
+  - category: event
+    claim: "Roger of Normandy went on to conquer Kent's neighbours including Essex and Markland, and then annexed much of the rest of Gaul."
+    entities:
+      - name: Roger Drengot
+        type: person
+      - name: Essex
+        type: polity
+      - name: Markland
+        type: polity
+
+  - category: person
+    claim: "Roger of Normandy was crowned Emperor Roger I in 1038 in the midst of his territorial expansion."
+    entities:
+      - name: Roger Drengot
+        type: person
+    dates: "1038 N"
+
+  - category: event
+    claim: "Wales under Cadwallan (erstwhile King of Wynneth) managed to remain mostly free of Drengot control by steering a course between Greater Devon and the Drengot."
+    entities:
+      - name: Wales
+        type: polity
+      - name: Cadwallan
+        type: person
+      - name: Wynneth
+        type: polity
+
+  - category: glossary
+    claim: "Conster is the Boralverse name for Colchester."
+    entities:
+      - name: Conster
+        irl: Colchester
+        type: place
+
+  - category: glossary
+    claim: "Amstel is the Boralverse name for Amsterdam."
+    entities:
+      - name: Amstel
+        irl: Amsterdam
+        type: place
+
+  - category: glossary
+    claim: "Anvers is the Boralverse name for Antwerp."
+    entities:
+      - name: Anvers
+        irl: Antwerp
+        type: place
+
+  - category: glossary
+    claim: "Gant is the Boralverse name for Ghent."
+    entities:
+      - name: Gant
+        irl: Ghent
+        type: place

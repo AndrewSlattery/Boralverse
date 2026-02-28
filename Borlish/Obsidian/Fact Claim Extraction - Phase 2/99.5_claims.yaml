@@ -1,0 +1,120 @@
+entry: 99.5
+title: "Science Quiz"
+source_work: "Prove your Knowledge! (Games for Sorties and Excourses, 1930)"
+claims:
+  - category: work
+    claim: "The 1930 book 'Prove your Knowledge!' is part of a series called 'Games for Sorties and Excourses' and was compiled and published by the Merch couple Anna and Ralph Highwater through the Royal Tommarth Castinghouse."
+    entities:
+      - name: "Prove your Knowledge!"
+        type: work
+      - name: Anna Highwater
+        type: person
+      - name: Ralph Highwater
+        type: person
+      - name: Royal Tommarth Castinghouse
+        type: organisation
+    dates: "1930 N"
+
+  - category: glossary
+    claim: "Span is the Boralverse term for wavelength."
+    entities:
+      - name: span
+        irl: wavelength
+        type: concept
+
+  - category: glossary
+    claim: "Œculux is the Boralverse term for electromagnetic radiation."
+    entities:
+      - name: œculux
+        irl: electromagnetic radiation
+        type: concept
+
+  - category: glossary
+    claim: "Corporal is the Boralverse term for chemical element."
+    entities:
+      - name: corporal
+        irl: chemical element
+        type: concept
+
+  - category: glossary
+    claim: "Killdark is the Boralverse term for uranium."
+    entities:
+      - name: killdark
+        irl: uranium
+        type: concept
+
+  - category: glossary
+    claim: "Zebdomaschal is the Boralverse term for ibuprofen."
+    entities:
+      - name: zebdomaschal
+        irl: ibuprofen
+        type: concept
+
+  - category: glossary
+    claim: "Methodics is used in the Boralverse as a term for programming (the discipline)."
+    entities:
+      - name: methodics
+        irl: programming
+        type: concept
+
+  - category: glossary
+    claim: "Fecundation is the Boralverse term for fertilisation."
+    entities:
+      - name: fecundation
+        irl: fertilisation
+        type: concept
+
+  - category: glossary
+    claim: "Plenty is the Boralverse term for electric charge."
+    entities:
+      - name: plenty
+        irl: electric charge
+        type: concept
+
+  - category: glossary
+    claim: "Minerva is the Boralverse name for the planet Uranus."
+    entities:
+      - name: Minerva
+        irl: Uranus
+        type: place
+
+  - category: glossary
+    claim: "Ixion is the Boralverse name for the dwarf planet Ceres."
+    entities:
+      - name: Ixion
+        irl: Ceres
+        type: place
+
+  - category: glossary
+    claim: "Janus is the Boralverse name for the planet Neptune."
+    entities:
+      - name: Janus
+        irl: Neptune
+        type: place
+
+  - category: glossary
+    claim: "The cisjovial ring is the Boralverse term for the asteroid belt."
+    entities:
+      - name: cisjovial ring
+        irl: asteroid belt
+        type: place
+
+  - category: person
+    claim: "Astronomer Coscatl bint Inám discovered a celestial object (Janus) in the mid-nineteenth century."
+    entities:
+      - name: Coscatl bint Inám
+        type: person
+    dates: "mid-19th c. N"
+
+  - category: person
+    claim: "Gurjat theorist Manesh Camdar was the first person to observe the moment of fecundation."
+    entities:
+      - name: Manesh Camdar
+        type: person
+
+  - category: terminology
+    claim: "Astraphor and Light is a magnum opus fully characterising plenty (electric charge) in a single equation, written by a nineteenth-century Merch theorist."
+    entities:
+      - name: "Astraphor and Light"
+        type: work
+    dates: "19th c. N"

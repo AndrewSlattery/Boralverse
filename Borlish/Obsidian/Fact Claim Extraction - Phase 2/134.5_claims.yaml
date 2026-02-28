@@ -1,0 +1,122 @@
+entry: 134.5
+title: "A Motley Miscellany"
+claims:
+  - category: place
+    claim: "The Bahassassin River is the longest river on the continent of Mendeva, with a total length of just over two thousand leagues."
+    entities:
+      - name: Bahassassin River
+        type: place
+      - name: Mendeva
+        type: place
+
+  - category: place
+    claim: "The Bahassassin River passes through multiple polities including Sangathy and Hasiny, with its eastern tributaries descending from the Sturgovan Mountains."
+    entities:
+      - name: Bahassassin River
+        type: place
+      - name: Sangathy
+        type: polity
+      - name: Hasiny
+        type: polity
+      - name: Sturgovan Mountains
+        type: place
+
+  - category: glossary
+    claim: "The Bahassassin River comprises the Missouri River and the portion of the Mississippi River downstream of St Louis."
+    entities:
+      - name: Bahassassin River
+        irl: "Missouri and lower Mississippi"
+        type: place
+
+  - category: language
+    claim: "The name Bahassassin comes from the Carovacian name báhassássin 'mother of rivers'."
+    entities:
+      - name: Bahassassin River
+        type: place
+
+  - category: glossary
+    claim: "Carovacian is the Boralverse name for the Caddo language/people."
+    entities:
+      - name: Carovacian
+        irl: Caddo
+        type: concept
+
+  - category: person
+    claim: "Mark of Tolose (d. 1453) was the son of King Ambrose II of Vascony and the father of King Ambrose III of Vascony."
+    entities:
+      - name: Mark of Tolose
+        type: person
+      - name: Ambrose II
+        type: person
+      - name: Ambrose III
+        type: person
+    dates: "d. 1453 N"
+    relationships:
+      - type: parent
+        from: "Ambrose II"
+        to: "Mark of Tolose"
+      - type: parent
+        from: "Mark of Tolose"
+        to: "Ambrose III"
+
+  - category: person
+    claim: "Mark of Tolose married Margaret of Iscombe shortly before 1435."
+    entities:
+      - name: Mark of Tolose
+        type: person
+      - name: Margaret of Iscombe
+        type: person
+    dates: "c. 1435 N"
+    relationships:
+      - type: spouse
+        from: "Mark of Tolose"
+        to: "Margaret of Iscombe"
+
+  - category: glossary
+    claim: "Iscombe is the Boralverse name for Exeter."
+    entities:
+      - name: Iscombe
+        irl: Exeter
+        type: place
+
+  - category: person
+    claim: "Mark of Tolose and Margaret of Iscombe had four children: their first child Alexandra, then Ambrose (later Ambrose III), Victor of Astorga, and Natalia."
+    entities:
+      - name: Mark of Tolose
+        type: person
+      - name: Margaret of Iscombe
+        type: person
+      - name: Alexandra
+        type: person
+      - name: Ambrose III
+        type: person
+      - name: Victor of Astorga
+        type: person
+      - name: Natalia
+        type: person
+
+  - category: work
+    claim: "'Wings Afire' (Italian: 'Ale in Fiamme', 1824) is an opera written by Venetian composer Chiarina Bruno and first performed in the Verona Arena."
+    entities:
+      - name: "Wings Afire"
+        type: work
+      - name: Chiarina Bruno
+        type: person
+    dates: "1824 N"
+
+  - category: event
+    claim: "'Wings Afire' was the first work staged in the Verona Arena since it was shuttered at the outbreak of the Second German War."
+    entities:
+      - name: "Wings Afire"
+        type: work
+      - name: Second German War
+        type: event
+    dates: "1824 N"
+
+  - category: culture
+    claim: "The opera 'Wings Afire' features the low-pitched mournful melodies of the graveyard fiddlers from Borlish folklore."
+    entities:
+      - name: "Wings Afire"
+        type: work
+      - name: Borland
+        type: place

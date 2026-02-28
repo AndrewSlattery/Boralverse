@@ -1,0 +1,89 @@
+entry: 76.5
+title: "The Workshop Period"
+claims:
+  - category: period
+    claim: "The Workshop period, or Global Workshop, refers to the middle decades of the nineteenth century, characterised by the rapid expansion and development of industry across the world."
+    entities:
+      - name: Workshop period
+        type: period
+    dates: "mid-19th c. N"
+
+  - category: period
+    claim: "Usual historiography places the Workshop period between the Long Peace and the Good Game."
+    entities:
+      - name: Workshop period
+        type: period
+      - name: Long Peace
+        type: period
+      - name: Good Game
+        type: period
+
+  - category: economics
+    claim: "The Workshop period brought prosperity to parts of Europe devastated by the Second German War of the 1820s, such as the Riverine Cities."
+    entities:
+      - name: Workshop period
+        type: period
+      - name: Second German War
+        type: event
+      - name: Riverine Cities
+        type: polity
+
+  - category: culture
+    claim: "The Workshop period saw a shift in art away from voidtales and towards realistic portrayals of the industrial working class and optimistic speculation on future material advancements."
+    entities:
+      - name: Workshop period
+        type: period
+
+  - category: economics
+    claim: "The guild VS (Vindrons Sairzaus) sold the first widely-available aphlox wine during the Workshop period, then expanded its scope to high-pressure and sealing components in manufacture."
+    entities:
+      - name: VS
+        type: organisation
+    dates: "mid-19th c. N"
+
+  - category: technology
+    claim: "The late Workshop period saw many barrick breakthroughs, concentrated in eastern Europe and Lower Mendeva."
+    entities:
+      - name: Workshop period
+        type: period
+
+  - category: event
+    claim: "The Drengot Collusion arose among the French polities during the Workshop period."
+    entities:
+      - name: Drengot Collusion
+        type: polity
+      - name: Workshop period
+        type: period
+
+  - category: event
+    claim: "The New Urban Mesh (including London and Axbane) was subsumed by—or took control of—the nascent Drengot Collusion during the Workshop period."
+    entities:
+      - name: Drengot Collusion
+        type: polity
+      - name: London
+        type: place
+      - name: Axbane
+        type: place
+
+  - category: language
+    claim: "Several items of vocabulary were innovated in the Workshop period, including: recoil ('manufacture'), underwrit ('logo'), counterzoic ('anti-microbial'), and retainer ('IUD')."
+    entities:
+      - name: Workshop period
+        type: period
+
+  - category: glossary
+    claim: "Retainer is the Boralverse term for IUD."
+    entities:
+      - name: retainer
+        irl: IUD
+        type: concept
+
+  - category: work
+    claim: "'Albic Medicine in the Workshop Decades' is a series of volumes by Dr Harold Westcamp, published by the Conster Health Edifice and funded by the Markland Ministry for Health."
+    entities:
+      - name: "Albic Medicine in the Workshop Decades"
+        type: work
+      - name: Harold Westcamp
+        type: person
+      - name: Conster Health Edifice
+        type: organisation

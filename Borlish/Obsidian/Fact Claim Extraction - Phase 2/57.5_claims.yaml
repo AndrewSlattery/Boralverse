@@ -1,0 +1,115 @@
+entry: 57.5
+title: "Damvath"
+claims:
+  - category: place
+    claim: "Damvath is the capital city of Borland, located on the River Dam some leagues inland from the coast."
+    entities:
+      - name: Damvath
+        type: place
+      - name: Borland
+        type: polity
+      - name: River Dam
+        type: place
+
+  - category: place
+    claim: "The name Damvath derives from the Norse name Damvað, meaning 'ford on the Dam'."
+    entities:
+      - name: Damvath
+        type: place
+      - name: River Dam
+        type: place
+
+  - category: language
+    claim: "The River Dam's name is pre-Roman and is likely cognate with the Tames in Albion and the Tanga in Portingale."
+    entities:
+      - name: River Dam
+        type: place
+      - name: Tames
+        type: place
+      - name: Tanga
+        type: place
+
+  - category: event
+    claim: "Damvath was first established as the capital of Dane-ruled Borland after the exile of King Jothey to Sothbar in the last years of the ninth century."
+    entities:
+      - name: Damvath
+        type: place
+      - name: Borland
+        type: polity
+      - name: Jothey of Borland
+        type: person
+      - name: Sothbar
+        type: place
+    dates: "late 9th c. N"
+
+  - category: place
+    claim: "In the late fifteenth century, Damvath became the most-trafficked port city in Europe outside the Middlesea."
+    entities:
+      - name: Damvath
+        type: place
+    dates: "late 15th c. N"
+
+  - category: place
+    claim: "Damvath's commercial prominence in the late fifteenth century was aided by its stability compared to the cities of Albion, then embroiled in the Wars of Fealty."
+    entities:
+      - name: Damvath
+        type: place
+      - name: Albion
+        type: polity
+      - name: Wars of Fealty
+        type: event
+    dates: "late 15th c. N"
+
+  - category: event
+    claim: "The first Borlish victim of the Second Great Dying fell in the docks of Damvath in 1519 N."
+    entities:
+      - name: Damvath
+        type: place
+      - name: Second Great Dying
+        type: event
+    dates: "1519 N"
+
+  - category: event
+    claim: "During the Long Peace, the location of the Borlish parliament was fixed following the completion of the Jacobin Estates on the then-outskirts of Damvath."
+    entities:
+      - name: Damvath
+        type: place
+      - name: Jacobin Estates
+        type: place
+      - name: Long Peace
+        type: period
+
+  - category: event
+    claim: "During the Long Peace, Damvath saw increased immigration from nearby polities such as Denmark and Willemy."
+    entities:
+      - name: Damvath
+        type: place
+      - name: Denmark
+        type: polity
+      - name: Willemy
+        type: polity
+
+  - category: event
+    claim: "During the Long Peace, an early detective force known as the 'tuppence scouts' was established in Damvath."
+    entities:
+      - name: Damvath
+        type: place
+      - name: Long Peace
+        type: period
+
+  - category: culture
+    claim: "In the modern era, Damvath is renowned for extensive Christide celebrations."
+    entities:
+      - name: Damvath
+        type: place
+
+  - category: technology
+    claim: "A logbook from 1492 N records the myton 'San Tomé' travelling from Calès to Damvath, with a stop at Honeflower after Bournemouth was inaccessible due to conflict."
+    entities:
+      - name: San Tomé
+        type: technology
+      - name: Damvath
+        type: place
+      - name: Calès
+        type: place
+    dates: "1492 N"

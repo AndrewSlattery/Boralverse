@@ -1,0 +1,104 @@
+entry: 68.5
+title: "The German Secession"
+claims:
+  - category: event
+    claim: "The German Secession was a schism in Christendom which took place in the first half of the thirteenth century."
+    entities:
+      - name: German Secession
+        type: event
+    dates: "first half 13th c. N"
+
+  - category: event
+    claim: "The German Secession led to the permanent formalisation of the Augsburg See as independent from Rome, with its separate papal line beginning with Paul I/XI."
+    entities:
+      - name: German Secession
+        type: event
+      - name: Augsburg See
+        type: organisation
+      - name: Paul I/XI
+        type: person
+
+  - category: event
+    claim: "The German Secession generally refers to the period from Paul I/XI's Denunciations and declaration of the sedes sanctissima in Augsburg in 1225 N to the capitulation of Rome in 1251 N."
+    entities:
+      - name: German Secession
+        type: event
+      - name: Paul I/XI
+        type: person
+      - name: Augsburg
+        type: place
+    dates: "1225–1251 N"
+
+  - category: event
+    claim: "The 1210 N declaration of a renewed crusade for Jerusalem by Pope Just, and the military catastrophes that followed, were a major source of discontentment fuelling the German Secession."
+    entities:
+      - name: German Secession
+        type: event
+      - name: Just
+        type: person
+    dates: "1210 N"
+
+  - category: event
+    claim: "Europe was in the throes of the First Great Dying during the German Secession—a plague that would be surpassed in severity only by the Second Great Dying of the early sixteenth century."
+    entities:
+      - name: First Great Dying
+        type: event
+      - name: Second Great Dying
+        type: event
+      - name: German Secession
+        type: event
+
+  - category: event
+    claim: "The First Great Dying is thought to have arrived in Europe carried by returning crusaders."
+    entities:
+      - name: First Great Dying
+        type: event
+
+  - category: event
+    claim: "The decades after the Pauline Denunciations saw each individual duchy (and in some cases each county) declare for either Rome or Augsburg, ultimately leading to the collapse of the German Empire."
+    entities:
+      - name: German Secession
+        type: event
+      - name: German Empire
+        type: polity
+
+  - category: event
+    claim: "The ongoing Baptism of the North was inflamed by the German Secession, with fears that Augsburg might spread heresy faster than Rome could reach the northeasternmost part of Europe."
+    entities:
+      - name: Baptism of the North
+        type: event
+      - name: German Secession
+        type: event
+
+  - category: person
+    claim: "Pope Hermeneus II was a new, more totalist Roman Pope active during the German Secession period."
+    entities:
+      - name: Hermeneus II
+        type: person
+
+  - category: work
+    claim: "The German Secession has been dramatised many times, most famously in the 1961 N historical epic 'With the North Star to Guide Us'."
+    entities:
+      - name: "With the North Star to Guide Us"
+        type: work
+    dates: "1961 N"
+
+  - category: work
+    claim: "'A Mapbook Compendium of Europe, from the Division of Rome until the German Secession (450 - 1250 N)' was published by the Tommarth Open School of History in 1997 N."
+    entities:
+      - name: "A Mapbook Compendium of Europe, from the Division of Rome until the German Secession"
+        type: work
+      - name: Tommarth Open School of History
+        type: organisation
+    dates: "1997 N"
+
+  - category: work
+    claim: "'A Baptism of Fire: Christianity and the Graven' by Agata Naziunas was published in 1988 N by Leidéiai Givatés."
+    entities:
+      - name: "A Baptism of Fire: Christianity and the Graven"
+        type: work
+      - name: Agata Naziunas
+        type: person
+      - name: Leidéiai Givatés
+        type: organisation
+    dates: "1988 N"

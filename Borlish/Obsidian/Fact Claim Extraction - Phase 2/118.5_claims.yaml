@@ -1,0 +1,128 @@
+entry: 118.5
+title: "Hasiny"
+claims:
+  - category: place
+    claim: "Hasiny is the largest and most populous of the polities of British Mendeva."
+    entities:
+      - name: Hasiny
+        type: polity
+      - name: British Mendeva
+        type: polity
+
+  - category: place
+    claim: "Hasiny is centred on the lower parts of the watershed of the Bahassassin River, with its capital city of Nadacow lying on the Bahassassin."
+    entities:
+      - name: Hasiny
+        type: polity
+      - name: Nadacow
+        type: place
+      - name: Bahassassin River
+        type: place
+
+  - category: place
+    claim: "Hasiny shares a short border with New Provence along part of the Sturgovan range and borders the polity of Taisha to the west."
+    entities:
+      - name: Hasiny
+        type: polity
+      - name: New Provence
+        type: polity
+      - name: Taisha
+        type: polity
+      - name: Sturgovan Mountains
+        type: place
+
+  - category: language
+    claim: "The name Hasiny derives from a confederation of the same name, which extended across lands now part of Hasiny and Taisha."
+    entities:
+      - name: Hasiny
+        type: polity
+
+  - category: language
+    claim: "The languages of administration in Hasiny are Jaughta (Jahtá, a Mendevan language spoken by a majority of the populace) and a local variety of Welsh."
+    entities:
+      - name: Hasiny
+        type: polity
+
+  - category: culture
+    claim: "Hasiny was the homeland of the herdtale genre of fiction, which sought to depict a rural idyll with a focus on animal husbandry."
+    entities:
+      - name: Hasiny
+        type: polity
+
+  - category: place
+    claim: "The resort town of Y Davarn Heul ('The Sun Hotel') was constructed in the nineteenth century for Hasiny's ruling Tamaha dynasty."
+    entities:
+      - name: Y Davarn Heul
+        type: place
+      - name: Hasiny
+        type: polity
+    dates: "19th c. N"
+
+  - category: language
+    claim: "The word 'davarn' has entered many languages with the meaning 'grand hotel, resort,' from the fame of the resort town Y Davarn Heul in Hasiny."
+    entities:
+      - name: Y Davarn Heul
+        type: place
+
+  - category: technology
+    claim: "The first radio was built in Hasiny in 1903."
+    entities:
+      - name: Hasiny
+        type: polity
+    dates: "1903 N"
+
+  - category: event
+    claim: "The fourth Lineball Global Tourney (1935) took place in Hasiny, the first time it was held in Mendeva."
+    entities:
+      - name: Hasiny
+        type: polity
+      - name: Lineball Global Tourney
+        type: event
+    dates: "1935 N"
+
+  - category: person
+    claim: "Bayac Cosωteg (fl. 19th c.) was a diarist and political agitator from Hasiny."
+    entities:
+      - name: Bayac Cosωteg
+        type: person
+    dates: "fl. 19th c. N"
+
+  - category: person
+    claim: "Kjartan Rhysvor (fl. 1889) was a Hasiny author of spycraft work 'While Embers Cool' (Welsh: 'Pan Oera'r Glo')."
+    entities:
+      - name: Kjartan Rhysvor
+        type: person
+    dates: "fl. 1889 N"
+
+  - category: work
+    claim: "'While Embers Cool' (Welsh: 'Pan Oera'r Glo') is a spycraft work written by Kjartan Rhysvor (fl. 1889)."
+    entities:
+      - name: "While Embers Cool"
+        type: work
+      - name: Kjartan Rhysvor
+        type: person
+
+  - category: person
+    claim: "King Maldwen Tamaha (fl. 1950) was a long-reigning monarch of Hasiny."
+    entities:
+      - name: Maldwen Tamaha
+        type: person
+      - name: Hasiny
+        type: polity
+    dates: "fl. 1950 N"
+
+  - category: person
+    claim: "Peðr Tamaha (fl. 1950) was a bon-vivant prince of Hasiny notorious for perennial debt troubles."
+    entities:
+      - name: Peðr Tamaha
+        type: person
+      - name: Hasiny
+        type: polity
+    dates: "fl. 1950 N"
+
+  - category: person
+    claim: "Cadogan Torrior (fl. 1890) was a Hasiny author of the masquira work 'Men of Jet and Diamond'."
+    entities:
+      - name: Cadogan Torrior
+        type: person
+    dates: "fl. 1890 N"

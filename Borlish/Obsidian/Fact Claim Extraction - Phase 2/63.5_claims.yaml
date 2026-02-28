@@ -1,0 +1,218 @@
+entry: 63.5
+title: "Devon"
+claims:
+  - category: place
+    claim: "Devon (Welsh: Devneint; locally: Dewna; Borlish: Dorogn) refers geographically to the southwestern peninsula of Albion and politically to one of the most longstanding tallaths of Britain."
+    entities:
+      - name: Devon
+        type: place
+      - name: Albion
+        type: polity
+
+  - category: place
+    claim: "Devon is named for the Dumnōniī (Classical Kelt Dubnonī or Dubnantī, meaning 'people of the deep valley'), a Kelt people who inhabited the region in Roman times."
+    entities:
+      - name: Devon
+        type: place
+
+  - category: event
+    claim: "Devon was conquered piecemeal by the Saxons, with the Battle of Gaulford in 656 N putting the area under the sole authority of the Kingdom of Wessex."
+    entities:
+      - name: Devon
+        type: place
+      - name: Wessex
+        type: polity
+    dates: "656 N"
+
+  - category: event
+    claim: "In the eighth century, King Vigo the Magnificent of the Britons led a reconquest of Devon with the support of David I of Wynneth, obtained via his marriage to King David's daughter Guinnumar."
+    entities:
+      - name: Vigo the Magnificent
+        type: person
+      - name: David I of Wynneth
+        type: person
+      - name: Guinnumar
+        type: person
+    dates: "8th c. N"
+    relationships:
+      - type: spouse
+        from: "Vigo the Magnificent"
+        to: "Guinnumar"
+
+  - category: event
+    claim: "After over two decades of intermittent warfare, the victory at Petherton ended the reconquest of Devon, and Vigo the Magnificent was crowned first king of Greater Devon (rex Magnæ Dumnoniæ), uniting Devon with the region later known as Kernow in Gaul."
+    entities:
+      - name: Vigo the Magnificent
+        type: person
+      - name: Devon
+        type: place
+      - name: Kernow
+        type: polity
+    dates: "8th c. N"
+
+  - category: organisation
+    claim: "The Brethin religious order was founded in eighth-century Tremonnow, at that time in Devon (now in Glousing)."
+    entities:
+      - name: Brethin
+        type: organisation
+      - name: Tremonnow
+        type: place
+    dates: "8th c. N"
+
+  - category: event
+    claim: "Devon remained in political union with Kernow through the Kernovan Conjuring of 1028 N and the concomitant formation of the First Drengot Empire."
+    entities:
+      - name: Devon
+        type: place
+      - name: Kernow
+        type: polity
+      - name: First Drengot Empire
+        type: polity
+    dates: "1028 N"
+
+  - category: event
+    claim: "The Realignment of 1225 N saw Devon become de facto independent from Kernow, now ruled by a cadet branch of the royal family."
+    entities:
+      - name: Devon
+        type: place
+      - name: Kernow
+        type: polity
+    dates: "1225 N"
+
+  - category: event
+    claim: "Devon's independence was ended when Ivan of Cartaw conquered Devon as part of the various Welsh territorial gains of the thirteenth century."
+    entities:
+      - name: Devon
+        type: place
+      - name: Ivan of Cartaw
+        type: person
+    dates: "13th c. N"
+
+  - category: event
+    claim: "David IV of Wales declared the Tallath of Devon and awarded rule thereof to Ivan of Cartaw's son Marduth."
+    entities:
+      - name: Devon
+        type: place
+      - name: David IV of Wales
+        type: person
+      - name: Ivan of Cartaw
+        type: person
+      - name: Marduth
+        type: person
+    relationships:
+      - type: parent
+        from: "Ivan of Cartaw"
+        to: "Marduth"
+
+  - category: person
+    claim: "Vigo the Magnificent (Borlish: Vigo Ragórwyh, d. 761 N) led the reconquest of Devon from the Saxons."
+    entities:
+      - name: Vigo the Magnificent
+        type: person
+    dates: "d. 761 N"
+
+  - category: person
+    claim: "Cadern the Doubter (crowned 761 N) was the son of Vigo the Magnificent and successor as king of Greater Devon."
+    entities:
+      - name: Cadern the Doubter
+        type: person
+      - name: Vigo the Magnificent
+        type: person
+    dates: "crowned 761 N"
+    relationships:
+      - type: parent
+        from: "Vigo the Magnificent"
+        to: "Cadern the Doubter"
+
+  - category: person
+    claim: "Alan III (crowned 883 N) was king of Greater Devon and lost territory in Kernow to the Franks."
+    entities:
+      - name: Alan III
+        type: person
+      - name: Devon
+        type: place
+    dates: "crowned 883 N"
+
+  - category: person
+    claim: "Vigo IV (fl. 940 N) was the last monarch of Greater Devon to be crowned in the original cathedral of Nauned."
+    entities:
+      - name: Vigo IV
+        type: person
+      - name: Nauned
+        type: place
+    dates: "fl. 940 N"
+
+  - category: person
+    claim: "Vigo VII (fl. 1120 N) attempted without success to conquer the southeastern principalities of Wales."
+    entities:
+      - name: Vigo VII
+        type: person
+    dates: "fl. 1120 N"
+
+  - category: person
+    claim: "Alan VI (fl. 1225 N) orchestrated the Realignment of Devon."
+    entities:
+      - name: Alan VI
+        type: person
+      - name: Devon
+        type: place
+    dates: "fl. 1225 N"
+
+  - category: person
+    claim: "Golleck/Gorvan of Kernow (fl. c. 9th c. N) was granted dominion over Devon by his uncle Alan III."
+    entities:
+      - name: Golleck of Kernow
+        type: person
+      - name: Alan III
+        type: person
+    dates: "fl. c. 9th c. N"
+    relationships:
+      - type: nephew
+        from: "Golleck of Kernow"
+        to: "Alan III"
+
+  - category: person
+    claim: "Iseld of Devon (fl. 750 N) was the daughter of Vigo the Magnificent and the first patron of the Brethin."
+    entities:
+      - name: Iseld of Devon
+        type: person
+      - name: Vigo the Magnificent
+        type: person
+      - name: Brethin
+        type: organisation
+    dates: "fl. 750 N"
+    relationships:
+      - type: parent
+        from: "Vigo the Magnificent"
+        to: "Iseld of Devon"
+
+  - category: person
+    claim: "Margaret of Iscombe (Marerit o Gar Ix, fl. 1435 N) was the mother of Vascony's Ambrose the Ascendant."
+    entities:
+      - name: Margaret of Iscombe
+        type: person
+      - name: Ambrose III
+        type: person
+    dates: "fl. 1435 N"
+    relationships:
+      - type: parent
+        from: "Margaret of Iscombe"
+        to: "Ambrose III"
+
+  - category: person
+    claim: "Arteth Výn (fl. c. 19th c. N) was a friend of Vascon author Antòin Herrel (Tony Smith) after the latter's exile to Devon."
+    entities:
+      - name: Arteth Výn
+        type: person
+      - name: Antòin Herrel
+        type: person
+    dates: "fl. c. 19th c. N"
+
+  - category: person
+    claim: "Damian the Wise (fl. c. 12th c. N) was the first Pope to be elected from among the Brethin religious order."
+    entities:
+      - name: Damian the Wise
+        type: person
+      - name: Brethin
+        type: organisation
+    dates: "fl. c. 12th c. N"

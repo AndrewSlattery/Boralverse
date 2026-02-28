@@ -1,0 +1,45 @@
+entry: 117.5
+title: "Sound Changes from Vulgar Latin to Borlish"
+claims:
+  - category: language
+    claim: "The dialects of Borlish are the only surviving descendants of the Insular variety of Vulgar Latin."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "The Insular variety of Vulgar Latin comprised Borlish Latin and British Latin, and was not overly divergent from continental Latin of the third to fifth centuries."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "By the Old Borlish period, all number and case distinctions in Borlish nouns had been lost."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "Late Old Borlish is the stage of Borlish around the turn of the thirteenth century."
+    entities:
+      - name: Borlish
+        type: concept
+    dates: "c. 1200 N"
+
+  - category: language
+    claim: "The Borlish word sour 'sister' is the only counterexample where the nominative singular survived over the oblique form in late Old Borlish levelling."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "The Borlish words oc 'singular' and ec 'plural' derive from the Latin demonstrative hic 'this', with neuter forms hoc and haec respectively."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "Modern Borlish stoir 'story' reflects Latin historia, via Old Borlish istoir, through aphæresis of the initial vowel cluster."
+    entities:
+      - name: Borlish
+        type: concept

@@ -1,0 +1,60 @@
+entry: 110.5
+title: "Redstone Chair"
+claims:
+  - category: culture
+    claim: "The Redstone Chair was a wooden throne used by the monarchies of Albion during the medieval period, fashioned in the late tenth century around a block of sandstone."
+    entities:
+      - name: Redstone Chair
+        type: concept
+    dates: "late 10th c. N"
+
+  - category: culture
+    claim: "The block of sandstone around which the Redstone Chair was fashioned was allegedly the block upon which the Elved Marriage was solemnised, ending hostilities between Markland and Dane Northumber for almost a century."
+    entities:
+      - name: Redstone Chair
+        type: concept
+      - name: Elved Marriage
+        type: event
+
+  - category: event
+    claim: "Many subsequent monarchs of Albion, especially of Markland and Northumber, were crowned on the Redstone Chair."
+    entities:
+      - name: Redstone Chair
+        type: concept
+      - name: Markland
+        type: polity
+      - name: Northumber
+        type: polity
+
+  - category: event
+    claim: "During the Second Tetrarchy, most Drengot Emperors sat upon the Redstone Chair, and it was relocated to London."
+    entities:
+      - name: Redstone Chair
+        type: concept
+      - name: London
+        type: place
+
+  - category: event
+    claim: "Some historians have conjectured that the First Burning of London in 1290 was in part motivated by a plan to acquire the Redstone Chair."
+    entities:
+      - name: Redstone Chair
+        type: concept
+      - name: London
+        type: place
+    dates: "1290 N"
+
+  - category: event
+    claim: "According to the traditional account, a dispute over the location of the Redstone Chair sparked the Wars of Fealty, which lasted almost fifty years over the turn of the sixteenth century."
+    entities:
+      - name: Redstone Chair
+        type: concept
+      - name: Wars of Fealty
+        type: event
+    dates: "c. 16th c. N"
+
+  - category: event
+    claim: "The Redstone Chair was lost during the Wars of Fealty at some point between 1505 and 1509 and has never been recovered."
+    entities:
+      - name: Redstone Chair
+        type: concept
+    dates: "1505–1509 N"

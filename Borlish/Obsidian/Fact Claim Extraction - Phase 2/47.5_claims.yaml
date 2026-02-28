@@ -1,0 +1,120 @@
+entry: 47.5
+title: "The Modest Arrangement"
+claims:
+  - category: culture
+    claim: "The Modest Arrangement was a social movement in the eighteenth and nineteenth centuries characterised by more stringent enforcement of morality codes."
+    entities:
+      - name: Modest Arrangement
+        type: culture
+    dates: "18th–19th c. N"
+
+  - category: culture
+    claim: "The Modest Arrangement was particularly concerned with the enforcement of familial powers."
+    entities:
+      - name: Modest Arrangement
+        type: culture
+
+  - category: event
+    claim: "The Modest Arrangement saw a resurgence in the regions of Gaul and Spain in the early nineteenth century after an ebb during the Long Peace."
+    entities:
+      - name: Modest Arrangement
+        type: culture
+      - name: Long Peace
+        type: period
+    dates: "early 19th c. N"
+
+  - category: culture
+    claim: "The resurgence of the Modest Arrangement in the early nineteenth century has been attributed to the rising popularity of the Deviance movement inspiring a backlash."
+    entities:
+      - name: Modest Arrangement
+        type: culture
+      - name: Deviance movement
+        type: culture
+
+  - category: culture
+    claim: "Modest ideology in its later incarnations depicts itself as less secure and more embattled than in earlier incarnations."
+    entities:
+      - name: Modest Arrangement
+        type: culture
+
+  - category: culture
+    claim: "The Modest Arrangement was notably associated with censorship of works deemed contrary to decency."
+    entities:
+      - name: Modest Arrangement
+        type: culture
+
+  - category: person
+    claim: "Author Antòin Herrel (latterly Tony Smith) was forced to flee Vascony to Kent after attempting to publish his blasphemous work 'Earthly Scene' (Vascon: 'Vista Terrena')."
+    entities:
+      - name: Antòin Herrel
+        type: person
+      - name: Kent
+        type: polity
+      - name: Vascony
+        type: polity
+
+  - category: work
+    claim: "'Earthly Scene' (Vascon: 'Vista Terrena') by Antòin Herrel was considered blasphemous under the Modest Arrangement in Vascony."
+    entities:
+      - name: "Earthly Scene"
+        type: work
+      - name: Antòin Herrel
+        type: person
+
+  - category: event
+    claim: "The Second German War of the 1820s N saw the grip of the Modest Arrangement weaken in many places."
+    entities:
+      - name: Second German War
+        type: event
+      - name: Modest Arrangement
+        type: culture
+    dates: "1820s N"
+
+  - category: event
+    claim: "The days of Modest Vascony were numbered when its interests in Mendeva and the East were threatened and the Vallabrì administration under King Hernand declared an alliance with the Convoy."
+    entities:
+      - name: Vascony
+        type: polity
+      - name: Hernand
+        type: person
+      - name: Modest Arrangement
+        type: culture
+
+  - category: event
+    claim: "The Modest Arrangement did not survive the 1850 N Laic Declarations in Belgrade in any official capacity."
+    entities:
+      - name: Modest Arrangement
+        type: culture
+      - name: Laic Declarations
+        type: event
+      - name: Belgrade
+        type: place
+    dates: "1850 N"
+
+  - category: culture
+    claim: "Polities such as Vascony, New Provence, and Morrack retained some hallmarks of the Modest Arrangement well into the twentieth century."
+    entities:
+      - name: Vascony
+        type: polity
+      - name: New Provence
+        type: polity
+      - name: Morrack
+        type: polity
+      - name: Modest Arrangement
+        type: culture
+    dates: "20th c. N"
+
+  - category: person
+    claim: "Ruvien Baume, Marquis de Caillat (fl. 1810 N), was noted for his fervence in opposition to Deviance Theology."
+    entities:
+      - name: Ruvien Baume
+        type: person
+    dates: "fl. 1810 N"
+
+  - category: person
+    claim: "Diana Theodora Queiroz is considered to have laid the groundwork for the later Blue Marian movement."
+    entities:
+      - name: Diana Theodora Queiroz
+        type: person
+      - name: Blue Marian Society
+        type: organisation

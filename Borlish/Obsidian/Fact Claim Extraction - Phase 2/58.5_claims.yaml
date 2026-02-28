@@ -1,0 +1,103 @@
+entry: 58.5
+title: "Fiellas Dimenja"
+claims:
+  - category: work
+    claim: "Fiellas Dimenja (English: 'Sunday Sheets') is a weekly newspaper published from Marsella."
+    entities:
+      - name: Fiellas Dimenja
+        type: work
+      - name: Marsella
+        type: place
+
+  - category: work
+    claim: "Fiellas Dimenja has been almost continuously published since its incorporation in 1871 N."
+    entities:
+      - name: Fiellas Dimenja
+        type: work
+    dates: "1871 N"
+
+  - category: work
+    claim: "The notional remit of Fiellas Dimenja comprises entertainment and recreational news, although in practice it has regularly covered weightier subjects."
+    entities:
+      - name: Fiellas Dimenja
+        type: work
+
+  - category: work
+    claim: "Fiellas Dimenja was established in 1871 N by Corsican businessman Toscobardo Matutte in concert with the Guiraud Colloquium."
+    entities:
+      - name: Fiellas Dimenja
+        type: work
+      - name: Toscobardo Matutte
+        type: person
+      - name: Guiraud Colloquium
+        type: organisation
+    dates: "1871 N"
+
+  - category: technology
+    claim: "Fiellas Dimenja was an early adopter of machinal broadcast direct to homes via tachygraphs, first offering digests in this form in the 1920s N."
+    entities:
+      - name: Fiellas Dimenja
+        type: work
+      - name: tachygraph
+        type: technology
+    dates: "1920s N"
+
+  - category: work
+    claim: "By 1934 N, Fiellas Dimenja was republished synchronously in Vascony and New Provence."
+    entities:
+      - name: Fiellas Dimenja
+        type: work
+      - name: Vascony
+        type: polity
+      - name: New Provence
+        type: polity
+    dates: "1934 N"
+
+  - category: work
+    claim: "By 1950 N, Fiellas Dimenja held the record for the longest uninterrupted weekly mass-market publication, having survived both the 1937 N Veldsvindung and the Millstone War."
+    entities:
+      - name: Fiellas Dimenja
+        type: work
+      - name: Veldsvindung
+        type: event
+      - name: Millstone War
+        type: event
+    dates: "1950 N"
+
+  - category: event
+    claim: "Fiellas Dimenja briefly moved its printers to Manòsca during the worst of the Millstone War bombings."
+    entities:
+      - name: Fiellas Dimenja
+        type: work
+      - name: Manòsca
+        type: place
+      - name: Millstone War
+        type: event
+
+  - category: event
+    claim: "Fiellas Dimenja played a significant role in the Furore of 1961 N, earning it a reputation for investigative journalism."
+    entities:
+      - name: Fiellas Dimenja
+        type: work
+      - name: Furore of 1961
+        type: event
+    dates: "1961 N"
+
+  - category: person
+    claim: "Jacint Brunat (fl. 1950 N) was a reviewer of books and films for Fiellas Dimenja."
+    entities:
+      - name: Jacint Brunat
+        type: person
+      - name: Fiellas Dimenja
+        type: work
+    dates: "fl. 1950 N"
+
+  - category: work
+    claim: "Jacint Brunat reviewed the film 'The Ascendant' (1934 N) and the film 'Zachariah' (1950 N) for Fiellas Dimenja."
+    entities:
+      - name: Jacint Brunat
+        type: person
+      - name: The Ascendant
+        type: work
+      - name: Zachariah
+        type: work

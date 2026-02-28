@@ -1,0 +1,48 @@
+entry: 103.5
+title: "Making History"
+source_work: "Making History (2021 edition), Tremonnow Open School domain history course"
+claims:
+  - category: work
+    claim: "'Making History' is a domain history course at the Tremonnow Open School covering the process by which events and people are compiled into historical narratives."
+    entities:
+      - name: "Making History"
+        type: work
+      - name: Tremonnow Open School
+        type: organisation
+
+  - category: culture
+    claim: "A fourteenth-century historian first referred to the First Drengot Empire as the 'Constant Empire', linking it to the District of Constantius of the fourth-century Diocletian Tetrarchy that ruled Roman Brittania and Gaul."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+    dates: "14th c. N"
+
+  - category: period
+    claim: "The 'Long Peace' period is defined in Boralverse historiography as lasting from 1770 until 1815."
+    entities:
+      - name: Long Peace
+        type: period
+    dates: "1770–1815 N"
+
+  - category: work
+    claim: "The 1872 work 'An Incomplete Dictionary of the New London' is considered the crowning example from the Futurism period of parachthon romance, and contains the first attestation of 'slate' for a screen displaying information."
+    entities:
+      - name: "An Incomplete Dictionary of the New London"
+        type: work
+    dates: "1872 N"
+
+  - category: event
+    claim: "The Failed Crusade occurred in the early thirteenth century."
+    entities:
+      - name: Failed Crusade
+        type: event
+    dates: "early 13th c. N"
+
+  - category: event
+    claim: "The Deviance movement has been credited with contributing to the decline of the Modest Arrangement through the first half of the nineteenth century, particularly in Gaul and Spain."
+    entities:
+      - name: Deviance movement
+        type: event
+      - name: Modest Arrangement
+        type: period
+    dates: "first half 19th c. N"

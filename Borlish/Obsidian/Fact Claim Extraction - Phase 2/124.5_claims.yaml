@@ -1,0 +1,156 @@
+entry: 124.5
+title: "Who's Who (1700s Edition)"
+claims:
+  - category: person
+    claim: "Raymond al Mustafa (fl. 1750) was a mathematician and philosopher who was resident for some time in Barcelon under the Duke of Aragon's patronage."
+    entities:
+      - name: Raymond al Mustafa
+        type: person
+      - name: Barcelon
+        type: polity
+    dates: "fl. 1750 N"
+
+  - category: person
+    claim: "Raymond al Mustafa corresponded with Rachel Desselut, and their letters outline concepts that would go on to define the field of methodics."
+    entities:
+      - name: Raymond al Mustafa
+        type: person
+      - name: Rachel Desselut
+        type: person
+
+  - category: person
+    claim: "Raymond al Mustafa eventually settled in Brasil."
+    entities:
+      - name: Raymond al Mustafa
+        type: person
+      - name: Brasil
+        type: place
+
+  - category: person
+    claim: "Fabian Mostàf, grandson of Raymond al Mustafa, became an eminent astronomer at the Paratzon Observatory."
+    entities:
+      - name: Fabian Mostàf
+        type: person
+      - name: Paratzon Observatory
+        type: organisation
+    relationships:
+      - type: grandson
+        from: "Fabian Mostàf"
+        to: "Raymond al Mustafa"
+
+  - category: technology
+    claim: "Fabian Mostàf used the waveform display to compute celestial orbits, employing mathematical techniques developed in part by Raymond al Mustafa."
+    entities:
+      - name: Fabian Mostàf
+        type: person
+
+  - category: glossary
+    claim: "The waveform display is the Boralverse term for the Fourier transform."
+    entities:
+      - name: waveform display
+        irl: Fourier transform
+        type: concept
+
+  - category: person
+    claim: "Marian Siegert ~ Miller (1725–1756) was the illegitimate daughter of Elias Villingen, second Duke of Far Suebia."
+    entities:
+      - name: Marian Siegert
+        type: person
+      - name: Elias Villingen
+        type: person
+    dates: "1725–1756 N"
+    relationships:
+      - type: parent
+        from: "Elias Villingen"
+        to: "Marian Siegert"
+
+  - category: glossary
+    claim: "Far Suebia is approximately a region west of Swabia in the Boralverse."
+    entities:
+      - name: Far Suebia
+        irl: west of Swabia
+        type: place
+
+  - category: person
+    claim: "Marian Siegert married Albert Siegert, a merchant in leather and magnate of the shoemaking industry, at the age of eighteen and moved with him to Lepzi."
+    entities:
+      - name: Marian Siegert
+        type: person
+      - name: Albert Siegert
+        type: person
+      - name: Lepzi
+        type: place
+    relationships:
+      - type: spouse
+        from: "Marian Siegert"
+        to: "Albert Siegert"
+
+  - category: glossary
+    claim: "Lepzi is the Boralverse name for Leipzig."
+    entities:
+      - name: Lepzi
+        irl: Leipzig
+        type: place
+
+  - category: person
+    claim: "The eldest child of Marian Siegert and Albert Siegert would become the pioneering author Elsebeth Sneider."
+    entities:
+      - name: Marian Siegert
+        type: person
+      - name: Albert Siegert
+        type: person
+      - name: Elsebeth Sneider
+        type: person
+    relationships:
+      - type: parent
+        from: "Marian Siegert"
+        to: "Elsebeth Sneider"
+      - type: parent
+        from: "Albert Siegert"
+        to: "Elsebeth Sneider"
+
+  - category: glossary
+    claim: "Bohamish is the Boralverse term for Czech."
+    entities:
+      - name: Bohamish
+        irl: Czech
+        type: concept
+
+  - category: person
+    claim: "Lord Mathurin Carrow, Baron of Ebbasham (fl. 1763) was a traveller who published accounts of his journeys and is remembered for his mealbooks compiling recipes from places he visited."
+    entities:
+      - name: Mathurin Carrow
+        type: person
+    dates: "fl. 1763 N"
+
+  - category: glossary
+    claim: "Ebbasham is the Boralverse name for Epsom."
+    entities:
+      - name: Ebbasham
+        irl: Epsom
+        type: place
+
+  - category: glossary
+    claim: "The Northwestern Isles is the Boralverse term for Britain, Ireland and Borland collectively."
+    entities:
+      - name: Northwestern Isles
+        irl: "Britain, Ireland and Borland"
+        type: place
+
+  - category: work
+    claim: "'A Complete Assembly of the Towns and Cities of Markland for the Edification of the Good Food Amateur' was written by Lord Mathurin Carrow and was popular across the Northwestern Isles."
+    entities:
+      - name: "A Complete Assembly of the Towns and Cities of Markland"
+        type: work
+      - name: Mathurin Carrow
+        type: person
+
+  - category: work
+    claim: "'An Account of the Vittles of the Various German Peoples' and 'On the Sundry Uses of the Shadome Fruit' are later works by Lord Mathurin Carrow that were republished several times after his death."
+    entities:
+      - name: "An Account of the Vittles of the Various German Peoples"
+        type: work
+      - name: "On the Sundry Uses of the Shadome Fruit"
+        type: work
+      - name: Mathurin Carrow
+        type: person

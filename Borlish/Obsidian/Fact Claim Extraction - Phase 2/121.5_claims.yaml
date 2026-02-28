@@ -1,0 +1,39 @@
+entry: 121.5
+title: "Pluralisation"
+claims:
+  - category: language
+    claim: "Final /-s/ is lost very early in the development of Borlish, by around 500 AD, which is one of the first sound changes distinguishing Borlish from mainland Romance languages."
+    entities:
+      - name: Borlish
+        type: concept
+    dates: "c. 500 N"
+
+  - category: language
+    claim: "By the late Old Borlish period, the noun paradigm for regular Borlish nouns had completely collapsed due to loss of final vowels and case distinctions."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "Borlish uses oc 'singular' and ec 'plural' derived from the neuter forms hoc and haec of the Latin demonstrative hic 'this'."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "The Borlish word sour 'sister' is the only surviving example where the nominative singular form was retained over the oblique form during noun paradigm levelling."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "The male Borlish name Ivocq is thought to reflect Borland Celtic *iwok- 'like a yew tree'."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "The female Borlish name Jonnovar entered the language during the medieval period, is cognate with Guinevere and Jennifer, and is also used as a common noun meaning 'butterfly'."
+    entities:
+      - name: Borlish
+        type: concept

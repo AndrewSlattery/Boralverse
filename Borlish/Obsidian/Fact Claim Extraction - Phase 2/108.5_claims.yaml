@@ -1,0 +1,103 @@
+entry: 108.5
+title: "Tommarth"
+claims:
+  - category: place
+    claim: "Tommarth is the capital and largest city of Markland, with a population of over 5 million by the year 2010."
+    entities:
+      - name: Tommarth
+        type: place
+      - name: Markland
+        type: polity
+    dates: "2010 N"
+
+  - category: language
+    claim: "The dialect of Merch spoken in and around Tommarth is widely considered a standard to emulate."
+    entities:
+      - name: Tommarth
+        type: place
+      - name: Merch
+        type: concept
+
+  - category: place
+    claim: "The area of Tommarth was settled by the Angles in the sixth century; by the ninth century it had become the primary city of the nascent Merch Kingdom."
+    entities:
+      - name: Tommarth
+        type: place
+    dates: "6th c. N; 9th c. N"
+
+  - category: language
+    claim: "The name Tommarth comes from the Tome river on which it stands; formerly spelt Tomwarth, the local area was known in Old English as Tomworðig 'enclosure, field by the Tome'."
+    entities:
+      - name: Tommarth
+        type: place
+
+  - category: technology
+    claim: "Tommarth has an extensive underground rail system known locally as the Dusker."
+    entities:
+      - name: Tommarth
+        type: place
+      - name: Dusker
+        type: technology
+
+  - category: organisation
+    claim: "D'Aumesty Tellard Guild (fl. 1849) is an organisation of cartographers based in Tommarth."
+    entities:
+      - name: D'Aumesty Tellard Guild
+        type: organisation
+      - name: Tommarth
+        type: place
+    dates: "fl. 1849 N"
+
+  - category: organisation
+    claim: "The Lady Maud Orchestra (fl. 1976) is a professional group of musicians based in Tommarth that receives public funding."
+    entities:
+      - name: Lady Maud Orchestra
+        type: organisation
+      - name: Tommarth
+        type: place
+    dates: "fl. 1976 N"
+
+  - category: organisation
+    claim: "The Royal Tommarth Castinghouse (fl. 1930) is a publisher of nonfiction in Tommarth."
+    entities:
+      - name: Royal Tommarth Castinghouse
+        type: organisation
+      - name: Tommarth
+        type: place
+    dates: "fl. 1930 N"
+
+  - category: organisation
+    claim: "The Tommarth Open School of History (fl. 1997) is known for publishing reference works."
+    entities:
+      - name: Tommarth Open School of History
+        type: organisation
+      - name: Tommarth
+        type: place
+    dates: "fl. 1997 N"
+
+  - category: organisation
+    claim: "Tommarth University (fl. 1976) is the oldest institution of higher education in Tommarth."
+    entities:
+      - name: Tommarth University
+        type: organisation
+      - name: Tommarth
+        type: place
+    dates: "fl. 1976 N"
+
+  - category: person
+    claim: "Laurent Burnows (fl. 2010) is a Markland author of children's fiction including the beloved series 'Back to Front'."
+    entities:
+      - name: Laurent Burnows
+        type: person
+      - name: Markland
+        type: polity
+    dates: "fl. 2010 N"
+
+  - category: person
+    claim: "Morency Rivellerson (fl. 1976) is a clavierman and author of music textbooks based in Tommarth."
+    entities:
+      - name: Morency Rivellerson
+        type: person
+      - name: Tommarth
+        type: place
+    dates: "fl. 1976 N"

@@ -1,0 +1,47 @@
+entry: 120.5
+title: "Borland before Borlish"
+source_work: "Borland before Borlish (Istr Boral pre Borallesc), New Vithor University, 1983"
+claims:
+  - category: work
+    claim: "'Borland before Borlish' (Borlish: 'Istr Boral pre Borallesc') is a history textbook published in 1983 through the New Vithor University."
+    entities:
+      - name: "Borland before Borlish"
+        type: work
+      - name: New Vithor University
+        type: organisation
+    dates: "1983 N"
+
+  - category: culture
+    claim: "Knowledge of the Kelt peoples who lived on Borland before the Roman conquests of the Flavian period is limited by the lack of written sources."
+    entities:
+      - name: Borland
+        type: place
+
+  - category: event
+    claim: "Julius Caesar's expeditions to Britannia in the first century aN marked the onset of diplomacy and trade between Rome and the peoples of Borland."
+    dates: "1st c. aN"
+
+  - category: language
+    claim: "The Borland Kelts appear to have used the name Bora Ale to collectively distinguish themselves from the Britons."
+    entities:
+      - name: Borland
+        type: place
+
+  - category: language
+    claim: "The name Borrhaloi (given by Greek explorer Pytheas alongside Bretannike) became Latin Borālēs, possibly from Celtic bora 'East' plus ale 'people, tribe'."
+    entities:
+      - name: Borland
+        type: place
+
+  - category: culture
+    claim: "In 1932, a burial marker reading IANTUMOR ABONDUU ALE 'Jantumarus of the Abonduvii' was unearthed at the Livaucr site, proving that ales meant 'people, tribe' in Borland Celtic."
+    entities:
+      - name: Borland
+        type: place
+    dates: "1932 N"
+
+  - category: language
+    claim: "Bora Ale is reconstructed as meaning 'people of the East,' with bora 'East, sunrise' corresponding to Welsh bore 'morning' and Irish márah 'tomorrow'."
+    entities:
+      - name: Borland
+        type: place

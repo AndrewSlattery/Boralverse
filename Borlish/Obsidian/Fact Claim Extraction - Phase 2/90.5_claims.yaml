@@ -1,0 +1,65 @@
+entry: 90.5
+title: "Sandrine"
+claims:
+  - category: terminology
+    claim: "Sandrine is a soluble substance found in citrus and other fruits and vegetables."
+    entities:
+      - name: sandrine
+        type: concept
+
+  - category: terminology
+    claim: "Sandrine is one of the substances essential to mammal life; a severe defect of sandrine causes scurvy."
+    entities:
+      - name: sandrine
+        type: concept
+
+  - category: terminology
+    claim: "Mandrine is a deadly poison, not to be confused with sandrine."
+    entities:
+      - name: mandrine
+        type: concept
+
+  - category: culture
+    claim: "The curative effects of citrus fruits for scurvy were suspected as early as the fourteenth century."
+    dates: "14th c. N"
+
+  - category: event
+    claim: "King Ambrose III of Vascony instituted the Sandrine Design in 1485, requiring ships to stock dried fruits and syrups to prevent scurvy."
+    entities:
+      - name: Ambrose III
+        type: person
+      - name: Vascony
+        type: polity
+      - name: Sandrine Design
+        type: event
+    dates: "1485 N"
+
+  - category: language
+    claim: "The Sandrine Design was named for Princess Alexandra, sister of Ambrose III and the first European royal to set foot in the Novomund."
+    entities:
+      - name: Ambrose III
+        type: person
+      - name: Alexandra
+        type: person
+
+  - category: language
+    claim: "The name 'sandrine' originates from Princess Alexandra, sister of Ambrose III."
+    entities:
+      - name: sandrine
+        type: concept
+      - name: Alexandra
+        type: person
+
+  - category: technology
+    claim: "In the seventeenth century it was discovered that the guy-coney can also develop scurvy, which allowed for more rigorous testing of which preparations of fruits and vegetables prevented scurvy."
+    dates: "17th c. N"
+
+  - category: terminology
+    claim: "Humans and guys are rare among animals in not creating sandrine in their bodies from sugar."
+    entities:
+      - name: sandrine
+        type: concept
+
+  - category: culture
+    claim: "By the 1700s it had become common practice to stock lemon juice diluted with strong alcohol on long sea voyages as a prevention against scurvy."
+    dates: "18th c. N"

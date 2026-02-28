@@ -1,0 +1,77 @@
+entry: 109.5
+title: "Guillen daus Sanz"
+claims:
+  - category: person
+    claim: "Guillen daus Sanz (b. ca. 1450) was a strategist in Provence in the years leading up to the War of Provincial Independence, and became a powerful political figure in the decades afterward."
+    entities:
+      - name: Guillen daus Sanz
+        type: person
+      - name: Provence
+        type: polity
+    dates: "b. c. 1450 N"
+
+  - category: culture
+    claim: "The surname daus Sanz ('of the Saints') was widely given to children in orphanages in Provence at the time."
+    entities:
+      - name: Provence
+        type: polity
+
+  - category: person
+    claim: "Guillen daus Sanz joined the Burgund army at a young age and rose to the position of general after receiving the patronage of Daniel Menton, Lord Amigòt."
+    entities:
+      - name: Guillen daus Sanz
+        type: person
+      - name: Daniel Menton
+        type: person
+
+  - category: event
+    claim: "On the advice of Guillen daus Sanz, Lord Amigòt secured the aid of King Marc V of France, and declared independence from Burgundy on 21 June 1497."
+    entities:
+      - name: Guillen daus Sanz
+        type: person
+      - name: Daniel Menton
+        type: person
+      - name: Marc V
+        type: person
+      - name: France
+        type: polity
+    dates: "21 June 1497 N"
+
+  - category: event
+    claim: "France had reconciled with Normandy to avoid involvement in the Albion Wars of Fealty, which made it available as an ally for Provence's independence movement."
+    entities:
+      - name: France
+        type: polity
+      - name: Normandy
+        type: polity
+      - name: Wars of Fealty
+        type: event
+
+  - category: culture
+    claim: "The 21st of June is to this day a national holiday in Provence, commemorating the declaration of independence from Burgundy in 1497."
+    entities:
+      - name: Provence
+        type: polity
+    dates: "1497 N"
+
+  - category: event
+    claim: "After Daniel Menton's rule over independent Provence ended in 1517, his cousin Antoin was elected by the Concert under the close attention and martial guidance of Guillen daus Sanz."
+    entities:
+      - name: Daniel Menton
+        type: person
+      - name: Antoin
+        type: person
+      - name: Guillen daus Sanz
+        type: person
+    dates: "1517 N"
+
+  - category: place
+    claim: "Fort daus Sanz is a military base in Provence named for Guillen daus Sanz, in active use during the mid-twentieth century."
+    entities:
+      - name: Fort daus Sanz
+        type: place
+      - name: Guillen daus Sanz
+        type: person
+      - name: Provence
+        type: polity
+    dates: "mid-20th c. N"

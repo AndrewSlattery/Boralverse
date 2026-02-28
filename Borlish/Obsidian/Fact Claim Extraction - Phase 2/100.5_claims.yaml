@@ -1,0 +1,91 @@
+entry: 100.5
+title: "Voyage of the Phœbos"
+claims:
+  - category: technology
+    claim: "The Phœbos was a flagship of the Kingdom of Britain in the early sixteenth century."
+    entities:
+      - name: Phœbos
+        type: technology
+      - name: Britain
+        type: polity
+    dates: "early 16th c. N"
+
+  - category: event
+    claim: "Britain under King Howel dispatched a coterie of ships led by the Phœbos to sail as far east as possible, seeking to trade with Asia directly by sea."
+    entities:
+      - name: Phœbos
+        type: technology
+      - name: Britain
+        type: polity
+      - name: Howel
+        type: person
+
+  - category: person
+    claim: "The Phœbos was captained by Martan mac Kellot."
+    entities:
+      - name: Martan mac Kellot
+        type: person
+      - name: Phœbos
+        type: technology
+
+  - category: event
+    claim: "The voyage of the Phœbos made port in Ungotia, directed by Umanick and Chinese traders, and eventually arrived in Borune."
+    entities:
+      - name: Phœbos
+        type: technology
+      - name: Ungotia
+        type: place
+      - name: Borune
+        type: place
+
+  - category: glossary
+    claim: "Ungotia is the Boralverse term for Zanzibar."
+    entities:
+      - name: Ungotia
+        irl: Zanzibar
+        type: place
+
+  - category: glossary
+    claim: "Umanick is the Boralverse demonym for Omani."
+    entities:
+      - name: Umanick
+        irl: Omani
+        type: concept
+
+  - category: event
+    claim: "The Phœbos was present at the Great Borunesk Meeting of 1517."
+    entities:
+      - name: Phœbos
+        type: technology
+      - name: Great Borunesk Meeting
+        type: event
+    dates: "1517 N"
+
+  - category: event
+    claim: "The meeting of the Phœbos and the Morrack ship the Cynthia in the port city of Sinquan is the definitive moment of the Great Borunesk Meeting of 1517."
+    entities:
+      - name: Phœbos
+        type: technology
+      - name: Cynthia
+        type: technology
+      - name: Sinquan
+        type: place
+      - name: Great Borunesk Meeting
+        type: event
+    dates: "1517 N"
+
+  - category: culture
+    claim: "It is popularly assumed that the crews of the Phœbos and Cynthia could not understand one another, but at least a dozen crewmembers of the Phœbos spoke some Arabic, as the British and Morrack trade meshes had overlapped for centuries."
+    entities:
+      - name: Phœbos
+        type: technology
+      - name: Cynthia
+        type: technology
+
+  - category: event
+    claim: "Unlike the Cynthia, the Phœbos did not attempt to circumnavigate the globe; tales of the magnitude of the oceans ahead dissuaded Martan mac Kellot from such a course."
+    entities:
+      - name: Phœbos
+        type: technology
+      - name: Martan mac Kellot
+        type: person

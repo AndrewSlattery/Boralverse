@@ -1,0 +1,100 @@
+entry: 80.5
+title: "Tavancy"
+claims:
+  - category: polity
+    claim: "Tavancy (Merch: /təˈvan.səi/; Run'allo [Quechua]: Tawanden), formerly the Tavancine Empire, is a polity in western Cappatia occupying the coast between the Isthmus to the north and Maboutian lands to the south."
+    entities:
+      - name: Tavancy
+        type: polity
+      - name: Cappatia
+        type: place
+
+  - category: glossary
+    claim: "Run'allo is the Boralverse name for the Quechua language."
+    entities:
+      - name: Run'allo
+        irl: Quechua
+        type: concept
+
+  - category: language
+    claim: "The name Tavancy derives from the Run'allo tawantin-suyu meaning 'the quartet of provinces'."
+    entities:
+      - name: Tavancy
+        type: polity
+
+  - category: event
+    claim: "The first Vetomundine people to document the Tavancine Empire were Morrack traders with the New World Company."
+    entities:
+      - name: Tavancy
+        type: polity
+      - name: Morrack
+        type: polity
+      - name: New World Company
+        type: organisation
+
+  - category: event
+    claim: "By the time Morrack traders encountered Tavancy, they had already begun dealing with Arcabil peoples and with the Mashick Empire."
+    entities:
+      - name: Morrack
+        type: polity
+      - name: Arcabil
+        type: place
+      - name: Mashick Empire
+        type: polity
+
+  - category: glossary
+    claim: "Arcabil is the Boralverse name for the Caribbean."
+    entities:
+      - name: Arcabil
+        irl: Caribbean
+        type: place
+
+  - category: glossary
+    claim: "Mashick Empire is the Boralverse name for the Aztec Empire."
+    entities:
+      - name: Mashick Empire
+        irl: Aztec Empire
+        type: polity
+
+  - category: event
+    claim: "Through the sixteenth century, several wayports along the west Cappatian coastline were established by Morrack traders, some growing into substantial staddomain settlements."
+    entities:
+      - name: Morrack
+        type: polity
+      - name: Cappatia
+        type: place
+    dates: "16th c. N"
+
+  - category: event
+    claim: "The death of Tavancine Emperor Cariwasari in 1660 N is suspected to have been an assassination carried out on Morrack orders, purportedly to allow for more profitable trade in silver."
+    entities:
+      - name: Cariwasari
+        type: person
+      - name: Morrack
+        type: polity
+      - name: Tavancy
+        type: polity
+    dates: "1660 N"
+
+  - category: event
+    claim: "Morrack was at the time of Cariwasari's death running low on funds to support their ongoing wars in Vascony and Libya."
+    entities:
+      - name: Morrack
+        type: polity
+      - name: Vascony
+        type: polity
+      - name: Libya
+        type: polity
+
+  - category: technology
+    claim: "In the early 1930s N, a collaboration between the Branwen Sanatory in New Leudong and the University of Rimack in Tavancy led to the discovery of cozebdo-diamaschal benjamine (ibuprofen) as an effective painkiller without significant adversions."
+    entities:
+      - name: Branwen Sanatory
+        type: organisation
+      - name: University of Rimack
+        type: organisation
+      - name: New Leudong
+        type: polity
+      - name: Tavancy
+        type: polity
+    dates: "early 1930s N"

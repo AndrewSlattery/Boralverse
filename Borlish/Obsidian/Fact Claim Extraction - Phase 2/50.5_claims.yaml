@@ -1,0 +1,100 @@
+entry: 50.5
+title: "16th Lexember"
+claims:
+  - category: language
+    claim: "The primary Borlish meaning of baugl is 'camp' or 'campsite': an outdoor place acting as temporary accommodation in tents or outdoors."
+    entities:
+      - name: baugl
+        type: concept
+
+  - category: language
+    claim: "Baugl also means 'improvisation, kludge, stopgap, patch': a temporary set-up formed by convenience or time constraints, intended to be replaced with something more permanent."
+    entities:
+      - name: baugl
+        type: concept
+
+  - category: language
+    claim: "The figurative sense of baugl ('kludge, improvisation') is attested from the sixteenth century, originally referring to a room's hasty arrangement of appliances or furniture."
+    entities:
+      - name: baugl
+        type: concept
+    dates: "16th c. N"
+
+  - category: language
+    claim: "The Borlish word baugl is cognate with Cambrick pabell ('tent'), both deriving from Latin pāpiliō ('butterfly; tent') via a Kelt form."
+    entities:
+      - name: baugl
+        type: concept
+
+  - category: organisation
+    claim: "De Marnoshring is an emporium in Miszen, Saxony."
+    entities:
+      - name: De Marnoshring
+        type: organisation
+      - name: Miszen
+        type: place
+      - name: Saxony
+        type: polity
+
+  - category: glossary
+    claim: "Miszen is the Boralverse name for Meissen (in Saxony)."
+    entities:
+      - name: Miszen
+        irl: Meissen
+        type: place
+
+  - category: person
+    claim: "Dorothe Shock (fl. 1813 N) was the proprietress of the De Marnoshring emporium in Miszen."
+    entities:
+      - name: Dorothe Shock
+        type: person
+      - name: De Marnoshring
+        type: organisation
+    dates: "fl. 1813 N"
+
+  - category: person
+    claim: "Johanne is Dorothe Shock's mother, living in the village of Siorow."
+    entities:
+      - name: Johanne
+        type: person
+      - name: Siorow
+        type: place
+    relationships:
+      - type: mother
+        from: "Johanne"
+        to: "Dorothe Shock"
+
+  - category: organisation
+    claim: "De Marnoshring grew from a single shop selling trinkets to a quasipolitic guild controlling much of the market for children's toys and various material hobbies."
+    entities:
+      - name: De Marnoshring
+        type: organisation
+
+  - category: glossary
+    claim: "Quasipolitic guild is the Boralverse term for a multinational corporation."
+    entities:
+      - name: quasipolitic guild
+        irl: multinational corporation
+        type: concept
+
+  - category: glossary
+    claim: "Gravatory is the Boralverse term for archives."
+    entities:
+      - name: gravatory
+        irl: archives
+        type: concept
+
+  - category: glossary
+    claim: "Cappatia is the Boralverse name for South America."
+    entities:
+      - name: Cappatia
+        irl: South America
+        type: place
+
+  - category: place
+    claim: "Potchware is a staddomain in Cappatia, known at the time for its sugar and cocoa exports."
+    entities:
+      - name: Potchware
+        type: place
+      - name: Cappatia
+        type: place

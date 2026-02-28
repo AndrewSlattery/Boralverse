@@ -1,0 +1,60 @@
+entry: 119.5
+title: "Seventeenth Century Studies"
+source_work: "Details of the Seventeenth Century (Y Siecr Settoç a Sgart Jusser), Jacobin University of Axbane, 2024 scitation"
+claims:
+  - category: work
+    claim: "'Details of the Seventeenth Century' (Borlish: 'Y Siecr Settoç a Sgart Jusser') is an avenue of concurrence history offered by the Jacobin University of Axbane."
+    entities:
+      - name: "Details of the Seventeenth Century"
+        type: work
+      - name: Jacobin University of Axbane
+        type: organisation
+
+  - category: event
+    claim: "In 1652, groups were expelled from Moscat in the Ibadine Imamate, and a local power went on to seize the city some months later."
+    entities:
+      - name: Moscat
+        type: place
+      - name: Ibadine Imamate
+        type: polity
+    dates: "1652 N"
+
+  - category: event
+    claim: "In 1679, two rivers of Gaul were connected by a canal to link the Atlantic to the Middlesea without passing through Morrack-controlled seas."
+    entities:
+      - name: Gaul
+        type: place
+    dates: "1679 N"
+
+  - category: event
+    claim: "The Hawkirch Surrender followed an attempted invasion of Borland in the seventeenth century and took place in 1632."
+    entities:
+      - name: Hawkirch Surrender
+        type: event
+      - name: Borland
+        type: polity
+    dates: "1632 N"
+
+  - category: work
+    claim: "David Bensaíd wrote 'The Three Cities', in which he coins the political theory terms 'copperplate' and 'tinplate' in describing the court of a seventeenth-century monarch of Libya."
+    entities:
+      - name: "The Three Cities"
+        type: work
+      - name: David Bensaíd
+        type: person
+
+  - category: event
+    claim: "An astronomical event of 1677 inspired theorists from across the world to undertake long journeys, including Danish astronomers Gudmund and Rebecca Scrander's voyage to the Seldivan court."
+    entities:
+      - name: Gudmund Scrander
+        type: person
+      - name: Rebecca Scrander
+        type: person
+    dates: "1677 N"
+
+  - category: technology
+    claim: "The timehold was invented in the mid-seventeenth century, allowing people to measure accurately for the first time."
+    entities:
+      - name: timehold
+        type: technology
+    dates: "mid-17th c. N"

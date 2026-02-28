@@ -1,0 +1,124 @@
+entry: 49.5
+title: "9th Lexember"
+claims:
+  - category: language
+    claim: "The Borlish word epu means 'express, mini' (of a shop, providing a more limited but focused service than usual)."
+    entities:
+      - name: epu
+        type: concept
+
+  - category: language
+    claim: "Epu also means 'cheap, good value' in Borlish."
+    entities:
+      - name: epu
+        type: concept
+
+  - category: language
+    claim: "Epu also means 'bitesize, mini, stripped down in complexity or size for easier consumption' in Borlish."
+    entities:
+      - name: epu
+        type: concept
+
+  - category: language
+    claim: "Epu is a modern borrowing into Borlish from French épu meaning 'express, direct, unhindered, available, at hand'."
+    entities:
+      - name: epu
+        type: concept
+
+  - category: language
+    claim: "The word epu is first seen in Borlish in the names of imported shopfronts such as Panier, whose Panier Épu establishments were smaller but offered better deals than the main line."
+    entities:
+      - name: epu
+        type: concept
+      - name: Panier
+        type: organisation
+
+  - category: language
+    claim: "The Borlish word epu is cognate with Borlish speut meaning 'free, unfettered, clear'."
+    entities:
+      - name: epu
+        type: concept
+      - name: speut
+        type: concept
+
+  - category: organisation
+    claim: "The Hulm Siebenhaus runs seasonal scitation exams with questions organised by avenue (topic area) and time-limited responses."
+    entities:
+      - name: Hulm Siebenhaus
+        type: organisation
+
+  - category: event
+    claim: "The 1937 N Veldsvindung caused general poverty."
+    entities:
+      - name: Veldsvindung
+        type: event
+    dates: "1937 N"
+
+  - category: event
+    claim: "The first 'house of odyssey' to sell tickets to the public on a regular basis was established in a Riverine city in 1912 N."
+    entities:
+      - name: Riverine Cities
+        type: polity
+    dates: "1912 N"
+
+  - category: glossary
+    claim: "House of odyssey is the Boralverse term for cinema."
+    entities:
+      - name: house of odyssey
+        irl: cinema
+        type: concept
+
+  - category: glossary
+    claim: "Kerther band is the Boralverse term for orchestra."
+    entities:
+      - name: kerther band
+        irl: orchestra
+        type: concept
+
+  - category: glossary
+    claim: "Alchemic corporals is the Boralverse term for chemical elements."
+    entities:
+      - name: alchemic corporals
+        irl: chemical elements
+        type: concept
+
+  - category: work
+    claim: "The 1968 N parachthon tale 'Starsail' was written by Roun-based author Ashford Pasquier."
+    entities:
+      - name: Starsail
+        type: work
+      - name: Ashford Pasquier
+        type: person
+    dates: "1968 N"
+
+  - category: work
+    claim: "The parachthon tale 'Starsail' by Ashford Pasquier is responsible for coining the jargon term for a modern technology."
+    entities:
+      - name: Starsail
+        type: work
+      - name: Ashford Pasquier
+        type: person
+
+  - category: organisation
+    claim: "A brother-sister pair founded the Pannier market guild in 1903 N in a then-Drengot city."
+    entities:
+      - name: Pannier
+        type: organisation
+    dates: "1903 N"
+
+  - category: organisation
+    claim: "By the year 2000 N, the Pannier market guild had a presence in 69 political regions."
+    entities:
+      - name: Pannier
+        type: organisation
+    dates: "2000 N"
+
+  - category: place
+    claim: "Nadacow is the capital city of Hasiny, a Mendevan polity on the Gulf Coast."
+    entities:
+      - name: Nadacow
+        type: place
+      - name: Hasiny
+        type: polity
+      - name: Mendeva
+        type: place

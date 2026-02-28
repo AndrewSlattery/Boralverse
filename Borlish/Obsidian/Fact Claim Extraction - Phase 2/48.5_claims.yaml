@@ -1,0 +1,150 @@
+entry: 48.5
+title: "2nd Lexember"
+claims:
+  - category: language
+    claim: "The primary modern Borlish meaning of sarzin is 'buckwheat'."
+    entities:
+      - name: sarzin
+        type: concept
+
+  - category: glossary
+    claim: "Sarzin is the Boralverse term for buckwheat."
+    entities:
+      - name: sarzin
+        irl: buckwheat
+        type: concept
+
+  - category: language
+    claim: "Sarzin has an obsolete Borlish meaning of 'Muslim, Saracen' (a follower of Islam)."
+    entities:
+      - name: sarzin
+        type: concept
+
+  - category: language
+    claim: "Sarzin has an archaic or dialectal Borlish meaning of 'non-Christian, pagan'."
+    entities:
+      - name: sarzin
+        type: concept
+
+  - category: language
+    claim: "Sarzin has a historical Borlish meaning of 'cairn': a conical heap of stones placed by the pre-Roman Kelt people around Borland."
+    entities:
+      - name: sarzin
+        type: concept
+      - name: Borland
+        type: place
+
+  - category: language
+    claim: "Sarzin has a historical Borlish meaning (by extension) of 'milestone': a pillar or pile of stones placed at the side of a road to mark distance."
+    entities:
+      - name: sarzin
+        type: concept
+
+  - category: language
+    claim: "In its modern sense, sarzin is a clipping of the earlier Borlish phrase 'bla sarzin' meaning 'Saracen wheat', first attested in the fifteenth century."
+    entities:
+      - name: sarzin
+        type: concept
+    dates: "15th c. N"
+
+  - category: culture
+    claim: "The buckwheat plant was brought to Europe via the Turkish Riyalid Sultanate, or possibly via Russian Cazany."
+    entities:
+      - name: Riyalid Sultanate
+        type: polity
+      - name: Cazany
+        type: polity
+
+  - category: language
+    claim: "The Borlish word sarzin is borrowed from Old French sarrazin meaning 'Muslim, Saracen'."
+    entities:
+      - name: sarzin
+        type: concept
+
+  - category: language
+    claim: "In Horther, buckwheat is known as møurick, meaning 'Moorish wheat'."
+    entities:
+      - name: møurick
+        type: concept
+
+  - category: language
+    claim: "In Bavarn, buckwheat is known as creshke, a word originally derived from a Russian term meaning 'Greek'."
+    entities:
+      - name: creshke
+        type: concept
+
+  - category: culture
+    claim: "Farama is a buckwheat dry-pottage originating in Vallack communities."
+    entities:
+      - name: farama
+        type: concept
+
+  - category: culture
+    claim: "Farama spread west as the region was united politically under the Kingdom of the Danaw during the seventeenth and eighteenth centuries."
+    entities:
+      - name: farama
+        type: concept
+      - name: Kingdom of the Danaw
+        type: polity
+    dates: "17th–18th c. N"
+
+  - category: culture
+    claim: "After the collapse of the Kingdom of the Danaw and the rise of the Riverine Cities in the nineteenth century, farama remained an important tradition from Pojon to Gollamo."
+    entities:
+      - name: farama
+        type: concept
+      - name: Riverine Cities
+        type: polity
+      - name: Pojon
+        type: place
+      - name: Gollamo
+        type: place
+    dates: "19th c. N"
+
+  - category: glossary
+    claim: "Pojon is the Boralverse name for Bratislava."
+    entities:
+      - name: Pojon
+        irl: Bratislava
+        type: place
+
+  - category: glossary
+    claim: "Gollamo is the Boralverse name for Ruse (Bulgaria)."
+    entities:
+      - name: Gollamo
+        irl: Ruse
+        type: place
+
+  - category: culture
+    claim: "Farama seems originally to have been associated with wedding anniversaries."
+    entities:
+      - name: farama
+        type: concept
+
+  - category: culture
+    claim: "Over time, farama traditions shifted; in many places the dish is now served on birthdays."
+    entities:
+      - name: farama
+        type: concept
+
+  - category: glossary
+    claim: "Dallasine is the Boralverse term for cinnamon."
+    entities:
+      - name: dallasine
+        irl: cinnamon
+        type: concept
+
+  - category: work
+    claim: "'The Delicious Story of Dough and Oil' was published in 1963 N, originally in Awrish as 'Tésta Olaivan Vláxerte' ('A World of Dough in Oil'), by first-time writer and famed chef Shomoji Taxon."
+    entities:
+      - name: "The Delicious Story of Dough and Oil"
+        type: work
+      - name: Shomoji Taxon
+        type: person
+    dates: "1963 N"
+
+  - category: person
+    claim: "Shomoji Taxon later went on to present the first cooking programme shown simultaneously on both sides of the Atlantic."
+    entities:
+      - name: Shomoji Taxon
+        type: person

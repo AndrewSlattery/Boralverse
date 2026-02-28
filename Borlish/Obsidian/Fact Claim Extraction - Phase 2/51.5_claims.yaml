@@ -1,0 +1,140 @@
+entry: 51.5
+title: "23rd Lexember"
+claims:
+  - category: language
+    claim: "The primary Borlish meaning of taus is 'rate' or 'speed': the rapidity at which some process takes place."
+    entities:
+      - name: taus
+        type: concept
+
+  - category: language
+    claim: "Taus also means 'value' or 'worth': the quality which renders someone or something desirable or valuable."
+    entities:
+      - name: taus
+        type: concept
+
+  - category: language
+    claim: "Taus has a rare Borlish meaning of 'price' or 'cost': the monetary quantity needed to purchase an item."
+    entities:
+      - name: taus
+        type: concept
+
+  - category: language
+    claim: "The Borlish word taus derives from Old Boral taus ('tax, price'), itself a deverbal of taussar borrowed from Old French, reflecting Latin taxō."
+    entities:
+      - name: taus
+        type: concept
+
+  - category: glossary
+    claim: "Benjamine detaxion is the Boralverse term for aromatic synthesis."
+    entities:
+      - name: benjamine detaxion
+        irl: aromatic synthesis
+        type: concept
+
+  - category: glossary
+    claim: "Hebetant substances is the Boralverse term for painkillers."
+    entities:
+      - name: hebetant substances
+        irl: painkillers
+        type: concept
+
+  - category: work
+    claim: "'Modern Developments in Benjamine Detaxion' is a 1942 N quire written by alchemist Ferris Bewly through the Conster Health Edifice."
+    entities:
+      - name: "Modern Developments in Benjamine Detaxion"
+        type: work
+      - name: Ferris Bewly
+        type: person
+      - name: Conster Health Edifice
+        type: organisation
+    dates: "1942 N"
+
+  - category: technology
+    claim: "Cozebdo-diamaschal benjamine (CD) is a painkiller first synthesised in 1932 N."
+    entities:
+      - name: cozebdo-diamaschal benjamine
+        type: technology
+    dates: "1932 N"
+
+  - category: glossary
+    claim: "Cozebdo-diamaschal benjamine (CD) is the Boralverse term for ibuprofen."
+    entities:
+      - name: cozebdo-diamaschal benjamine
+        irl: ibuprofen
+        type: concept
+
+  - category: technology
+    claim: "CD was a product of collaboration between the Branwen Sanatory in New Leudong and the University of Rimack in Tavancy."
+    entities:
+      - name: cozebdo-diamaschal benjamine
+        type: technology
+      - name: Branwen Sanatory
+        type: organisation
+      - name: University of Rimack
+        type: organisation
+      - name: New Leudong
+        type: polity
+      - name: Tavancy
+        type: polity
+
+  - category: place
+    claim: "New Leudong is a polity in southeastern Chrysia."
+    entities:
+      - name: New Leudong
+        type: polity
+      - name: Chrysia
+        type: place
+
+  - category: place
+    claim: "Tavancy is a polity in northwestern Cappatia."
+    entities:
+      - name: Tavancy
+        type: polity
+      - name: Cappatia
+        type: place
+
+  - category: glossary
+    claim: "Chrysia is the Boralverse name for Australia."
+    entities:
+      - name: Chrysia
+        irl: Australia
+        type: place
+
+  - category: glossary
+    claim: "Mendeva is the Boralverse name for North America."
+    entities:
+      - name: Mendeva
+        irl: North America
+        type: place
+
+  - category: technology
+    claim: "CD surpassed salix-derivative pills in annual sales everywhere from Sangathy to Adighe."
+    entities:
+      - name: cozebdo-diamaschal benjamine
+        type: technology
+      - name: Sangathy
+        type: polity
+      - name: Adighe
+        type: polity
+
+  - category: glossary
+    claim: "Salix-derivative pills is the Boralverse term for aspirin."
+    entities:
+      - name: salix-derivative pills
+        irl: aspirin
+        type: concept
+
+  - category: place
+    claim: "Sangathy is a polity in far-inland Mendeva."
+    entities:
+      - name: Sangathy
+        type: polity
+      - name: Mendeva
+        type: place
+
+  - category: place
+    claim: "Adighe is a polity in the Caucasus."
+    entities:
+      - name: Adighe
+        type: polity

@@ -1,0 +1,62 @@
+entry: 131.5
+title: "Jeans"
+claims:
+  - category: place
+    claim: "Jeans is an Italian polity comprising the northwest Middlesea coastline of Italy bordering Provence, as well as the island of Corse."
+    entities:
+      - name: Jeans
+        type: polity
+      - name: Provence
+        type: polity
+
+  - category: language
+    claim: "The Merch name Jeans was borrowed from Old French Jannes, originally from Latin Genua, probably from the local word for 'knee' in reference to the shape of the coastline."
+    entities:
+      - name: Jeans
+        type: polity
+
+  - category: polity
+    claim: "Jeans is the oldest of the Latin Republics, having come into existence in the tenth century."
+    entities:
+      - name: Jeans
+        type: polity
+    dates: "10th c. N"
+
+  - category: polity
+    claim: "Along with Venise, Jeans serves as a counterpoint to the notion that the Second Tetrarchy period was solely comprised of great centralised empires."
+    entities:
+      - name: Jeans
+        type: polity
+      - name: Venise
+        type: polity
+
+  - category: polity
+    claim: "The leader of Jeans, known as the console, was elected from among the merchant nobility."
+    entities:
+      - name: Jeans
+        type: polity
+
+  - category: event
+    claim: "In 1207 N, Jeans invaded the Tyrrhene Isles of Corse and Sardine, wresting them from Roman control; only Corse would remain in the Jean orbit more permanently."
+    entities:
+      - name: Jeans
+        type: polity
+    dates: "1207 N"
+
+  - category: person
+    claim: "Franco Cicala (r. 1119–1122/4) was the first console of Jeans from the Cicale family."
+    entities:
+      - name: Franco Cicala
+        type: person
+      - name: Jeans
+        type: polity
+    dates: "r. 1119–1124 N"
+
+  - category: work
+    claim: "'The Latin Republics: Jewels under Tyrian Standards' (1902) is a historical reference quire by Jacob Trelaune, with 'Part III: Old Jeans' covering the early history of Jeans."
+    entities:
+      - name: "The Latin Republics: Jewels under Tyrian Standards"
+        type: work
+      - name: Jacob Trelaune
+        type: person
+    dates: "1902 N"

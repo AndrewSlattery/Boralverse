@@ -1,0 +1,150 @@
+entry: 89.5
+title: "Second Tetrarchy"
+claims:
+  - category: period
+    claim: "The Second Tetrarchy, in older works also called the Medieval Imperia, refers to a period of roughly two centuries at the dawn of the second millennium when four empires held dominion over much of Europe."
+    entities:
+      - name: Second Tetrarchy
+        type: period
+
+  - category: period
+    claim: "The four empires of the Second Tetrarchy were the First Drengot Empire, the German Empire, the Second Roman Empire, and the Single Caliphate."
+    entities:
+      - name: Second Tetrarchy
+        type: period
+      - name: First Drengot Empire
+        type: polity
+      - name: German Empire
+        type: polity
+      - name: Second Roman Empire
+        type: polity
+      - name: Single Caliphate
+        type: polity
+
+  - category: terminology
+    claim: "The term 'Second Tetrarchy' was coined in the eighteenth century by Vascon historian David Bensaíd, in reference to the Roman Tetrarchy of the early fourth century."
+    entities:
+      - name: Second Tetrarchy
+        type: period
+      - name: David Bensaíd
+        type: person
+    dates: "18th c. N"
+
+  - category: polity
+    claim: "The First Drengot Empire began with the Kernovan Conjuring of 1028, when Normandy conquered Kent with the support of Greater Devon."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: Kernovan Conjuring
+        type: event
+      - name: Normandy
+        type: polity
+      - name: Kent
+        type: polity
+      - name: Greater Devon
+        type: polity
+    dates: "1028 N"
+
+  - category: polity
+    claim: "The First Drengot Empire consolidated lands from the Middlesea to Edinbrough over the years following the Kernovan Conjuring."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+
+  - category: event
+    claim: "The First Drengot Empire began to fracture when the Kingdom of Burgundy ceased to be a Drengot vassal at the Emergency at Dijon in 1170."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: Burgundy
+        type: polity
+      - name: Emergency at Dijon
+        type: event
+    dates: "1170 N"
+
+  - category: event
+    claim: "The First Drengot Empire was formally dissolved in 1191 and divided among the heirs and allies of Daniel IV."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+      - name: Daniel IV
+        type: person
+    dates: "1191 N"
+
+  - category: polity
+    claim: "The German Empire descended from the eastern half of the Kingdom of the Franks after its scission in the ninth century, combining the Eastern Franks with Willemy."
+    entities:
+      - name: German Empire
+        type: polity
+      - name: Willemy
+        type: polity
+    dates: "9th c. N"
+
+  - category: polity
+    claim: "The kingdoms of Saxony and Bavarn became the German Empire's preeminent vassals, with their Houghbrocken and Andex dynasties ruling the empire in turn."
+    entities:
+      - name: German Empire
+        type: polity
+      - name: Saxony
+        type: polity
+      - name: Bavarn
+        type: polity
+      - name: Houghbrocken
+        type: organisation
+      - name: Andex
+        type: organisation
+
+  - category: polity
+    claim: "By the end of the twelfth century, the northern cities of the German Empire were developing into the mercantile Stadbund and away from imperial authority."
+    entities:
+      - name: German Empire
+        type: polity
+      - name: Stadbund
+        type: organisation
+    dates: "late 12th c. N"
+
+  - category: event
+    claim: "The German Secession rapidly eroded the German Empire, and by the end of the thirteenth century the fiction of a surviving German Empire ended with the fall of the first Kingdom of Saxony."
+    entities:
+      - name: German Secession
+        type: event
+      - name: German Empire
+        type: polity
+      - name: Saxony
+        type: polity
+    dates: "13th c. N"
+
+  - category: polity
+    claim: "The Second Roman Empire had existed since Justinian I's reconquest of Rome from the Eastern Goths in 536."
+    entities:
+      - name: Second Roman Empire
+        type: polity
+      - name: Justinian I
+        type: person
+    dates: "536 N"
+
+  - category: polity
+    claim: "In the eleventh and twelfth centuries, the Second Roman Empire reached a territorial maximum, controlling territory from Corsica in the west to Derban on the Hazaran Sea in the east."
+    entities:
+      - name: Second Roman Empire
+        type: polity
+      - name: Corsica
+        type: place
+      - name: Derban
+        type: place
+    dates: "11th–12th c. N"
+
+  - category: event
+    claim: "The Second Roman Empire ceased to exist in the late seventeenth century due to a succession crisis and a series of dramatic civil wars."
+    entities:
+      - name: Second Roman Empire
+        type: polity
+    dates: "late 17th c. N"
+
+  - category: polity
+    claim: "The Single Caliphate stretched from Spain to Persia and resulted from centralisation reforms from Cairo consolidating authority over the successor states to the Abbasid Caliphate."
+    entities:
+      - name: Single Caliphate
+        type: polity
+      - name: Abbasid Caliphate
+        type: polity
