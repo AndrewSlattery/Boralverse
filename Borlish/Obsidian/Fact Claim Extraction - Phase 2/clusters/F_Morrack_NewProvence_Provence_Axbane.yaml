@@ -1,0 +1,593 @@
+# Deduplication cluster: F_Morrack_NewProvence_Provence_Axbane
+
+Morrack:
+- entry: '29.5'
+  title: Morrack
+  category: polity
+  claim: Morrack is a polity primarily in northwestern Africa.
+  entities:
+  - name: Morrack
+    type: polity
+  - name: Africa
+    type: place
+- entry: '29.5'
+  title: Morrack
+  category: economics
+  claim: Morrack was a local trading power in the late medieval period, with a mercantile domain bringing it into irregular
+    conflict with the overlapping trade meshes of Britain and Borland to the north.
+  entities:
+  - name: Morrack
+    type: polity
+  - name: Britain
+    type: polity
+  - name: Borland
+    type: polity
+- entry: '29.5'
+  title: Morrack
+  category: event
+  claim: In 1457, Morrack subjugated the southern part of Portingale, which had previously enjoyed a level of autonomy under
+    Vascon stewardship.
+  entities:
+  - name: Morrack
+    type: polity
+  - name: Portingale
+    type: polity
+  - name: Vascony
+    type: polity
+  dates:
+  - 1457 N
+  relationships:
+  - subject: Morrack
+    predicate: subjugated
+    object: southern part of Portingale
+- entry: '29.5'
+  title: Morrack
+  category: polity
+  claim: At the time of the 1457 conquest, Morrack also controlled Andalus.
+  entities:
+  - name: Morrack
+    type: polity
+  - name: Andalus
+    type: polity
+  dates:
+  - 1457 N
+- entry: '29.5'
+  title: Morrack
+  category: event
+  claim: Morracan ships were the first to circumnavigate the world, having reached the Great Borunesk Meeting of 1519 via
+    Cappatia.
+  entities:
+  - name: Morrack
+    type: polity
+  - name: Great Borunesk Meeting
+    type: event
+  - name: Cappatia
+    type: place
+  dates:
+  - 1519 N
+- entry: '29.5'
+  title: Morrack
+  category: event
+  claim: Morrack was embroiled in several conflicts through the mid-eighteenth century, particularly as part of the Democratic
+    Wars.
+  entities:
+  - name: Morrack
+    type: polity
+  - name: Democratic Wars
+    type: event
+  dates:
+  - mid-18th century N
+- entry: '29.5'
+  title: Morrack
+  category: event
+  claim: Morrack's attempted war of reconquest against Andalus lasted de jure even into the years of the Long Peace.
+  entities:
+  - name: Morrack
+    type: polity
+  - name: Andalus
+    type: polity
+  - name: Long Peace
+    type: period
+- entry: '29.5'
+  title: Morrack
+  category: culture
+  claim: The Good Game period saw a brief fad for 'Morrack fashion' in countries across Europe and the Novomund, in dress,
+    architecture, and food.
+  entities:
+  - name: Morrack
+    type: polity
+  - name: Good Game
+    type: period
+- entry: '29.5'
+  title: Morrack
+  category: culture
+  claim: During the Morrack fashion fad, there was a trend for exposed stonework draped in tapestry and curtains in contemporary
+    buildings.
+  entities:
+  - name: Morrack
+    type: polity
+- entry: '29.5'
+  title: Morrack
+  category: law
+  claim: In the early twentieth century, Morrack was still in the habit of banning books containing subversive politics or
+    personal immoralities.
+  entities:
+  - name: Morrack
+    type: polity
+  dates:
+  - early 20th century N
+- entry: '29.5'
+  title: Morrack
+  category: polity
+  claim: Morrack's restrictive book-banning climate was inherited from its participation in the Modest Arrangement.
+  entities:
+  - name: Morrack
+    type: polity
+  - name: Modest Arrangement
+    type: event
+- entry: 78.5
+  title: The Good Game period
+  category: culture
+  claim: The 1880s N saw a brief fad for 'Morrack fashion' across Europe and the Novomund, in areas such as dress, architecture,
+    and food, including a trend of incorporating exposed stonework draped in tapestry and curtains.
+  entities:
+  - name: Morrack
+    type: polity
+  dates: 1880s N
+- entry: 80.5
+  title: Tavancy
+  category: event
+  claim: By the time Morrack traders encountered Tavancy, they had already begun dealing with Arcabil peoples and with the
+    Mashick Empire.
+  entities:
+  - name: Morrack
+    type: polity
+  - name: Arcabil
+    type: place
+  - name: Mashick Empire
+    type: polity
+- entry: 80.5
+  title: Tavancy
+  category: event
+  claim: Through the sixteenth century, several wayports along the west Cappatian coastline were established by Morrack traders,
+    some growing into substantial staddomain settlements.
+  entities:
+  - name: Morrack
+    type: polity
+  - name: Cappatia
+    type: place
+  dates: 16th c. N
+- entry: 80.5
+  title: Tavancy
+  category: event
+  claim: Morrack was at the time of Cariwasari's death running low on funds to support their ongoing wars in Vascony and Libya.
+  entities:
+  - name: Morrack
+    type: polity
+  - name: Vascony
+    type: polity
+  - name: Libya
+    type: polity
+New Provence:
+- entry: '27.5'
+  title: New Provence
+  category: polity
+  claim: New Provence was a coastal polity in the east of Mendeva.
+  entities:
+  - name: New Provence
+    type: polity
+  - name: Mendeva
+    type: place
+- entry: '27.5'
+  title: New Provence
+  category: polity
+  claim: New Provence is named for Provence, a small Middlesea state.
+  entities:
+  - name: New Provence
+    type: polity
+  - name: Provence
+    type: polity
+- entry: '27.5'
+  title: New Provence
+  category: polity
+  claim: New Provence bordered Ambrosia to the north.
+  entities:
+  - name: New Provence
+    type: polity
+  - name: Ambrosia
+    type: polity
+- entry: '27.5'
+  title: New Provence
+  category: polity
+  claim: New Provence bordered the states of Gulf Mendeva to the south.
+  entities:
+  - name: New Provence
+    type: polity
+  - name: Gulf Mendeva
+    type: place
+- entry: '27.5'
+  title: New Provence
+  category: polity
+  claim: New Provence shared a short border with Hasiny to the southwest.
+  entities:
+  - name: New Provence
+    type: polity
+  - name: Hasiny
+    type: polity
+- entry: '27.5'
+  title: New Provence
+  category: place
+  claim: New Provence extends inland as far as the Sturgovan Mountains in places.
+  entities:
+  - name: New Provence
+    type: polity
+  - name: Sturgovan Mountains
+    type: place
+- entry: '27.5'
+  title: New Provence
+  category: economics
+  claim: In the sixteenth and seventeenth centuries, New Provincial trading posts dealt primarily with Mastoiset peoples,
+    exchanging metal tools for beaver pelts.
+  entities:
+  - name: New Provence
+    type: polity
+  - name: Mastoiset
+    type: group
+  dates:
+  - 16th century N
+  - 17th century N
+- entry: '27.5'
+  title: New Provence
+  category: polity
+  claim: By the twentieth century, New Provence was politically independent from Provence, but cultural ties remained strong.
+  entities:
+  - name: New Provence
+    type: polity
+  - name: Provence
+    type: polity
+  dates:
+  - 20th century N
+- entry: '27.5'
+  title: New Provence
+  category: culture
+  claim: New Provence and Provence shared newspapers and substantial movement of people in both directions.
+  entities:
+  - name: New Provence
+    type: polity
+  - name: Provence
+    type: polity
+- entry: '27.5'
+  title: New Provence
+  category: law
+  claim: Until at least 1943, New Provence and Provence had more restrictive morality laws than their neighbours.
+  entities:
+  - name: New Provence
+    type: polity
+  - name: Provence
+    type: polity
+  dates:
+  - 1943 N
+- entry: '27.5'
+  title: New Provence
+  category: polity
+  claim: New Provence and Provence were the strongest remnants of the Modest Arrangement of the previous century.
+  entities:
+  - name: New Provence
+    type: polity
+  - name: Provence
+    type: polity
+  - name: Modest Arrangement
+    type: event
+- entry: '27.5'
+  title: New Provence
+  category: polity
+  claim: New Provence and Provence were notable non-signatories of the 1850 Laic Declarations of Belgrade.
+  entities:
+  - name: New Provence
+    type: polity
+  - name: Provence
+    type: polity
+  - name: Laic Declarations of Belgrade
+    type: event
+  dates:
+  - 1850 N
+- entry: 136.5
+  title: The Novomund (briefly)
+  category: place
+  claim: New Provence is a coastal polity extending westward to the Sturgovan Mountains, growing from trading posts established
+    by Provence merchants.
+  entities:
+  - name: New Provence
+    type: polity
+  - name: Sturgovan Mountains
+    type: place
+- entry: 136.5
+  title: The Novomund (briefly)
+  category: glossary
+  claim: New Provence is approximately the Boralverse name for New England, New York, and south as far as South Carolina.
+  entities:
+  - name: New Provence
+    irl: New England, New York, and south to South Carolina
+    type: polity
+Provence:
+- entry: '7.5'
+  title: The Terrene Tax
+  source_work: 'Histoir Concorrent, s16 : Mort, Vascel eð y Motion Celest (Concurrence History of the 16th Century: Death,
+    Ships and the Movement of the Heavens)'
+  category: polity
+  claim: Provence was a Latin republic.
+  entities:
+  - name: Provence
+    type: polity
+- entry: '14.5'
+  title: Ambrose III of Vascony
+  category: event
+  claim: The retaking of Provence sparked the 1497-99 War of Provincial Independence.
+  entities:
+  - name: Provence
+    type: place
+  - name: War of Provincial Independence
+    type: event
+  dates:
+  - 1497-99
+- entry: '15.5'
+  title: The Second Great Dying
+  category: event
+  claim: Provence was ravaged early and mercilessly by the Second Great Dying.
+  entities:
+  - name: Provence
+    type: place
+  - name: Second Great Dying
+    type: event
+- entry: '27.5'
+  title: New Provence
+  category: event
+  claim: Provence's trading ships first set up trading posts along the coast of Mendeva in the early sixteenth century.
+  entities:
+  - name: Provence
+    type: polity
+  - name: Mendeva
+    type: place
+  dates:
+  - early 16th century N
+- entry: 109.5
+  title: Guillen daus Sanz
+  category: culture
+  claim: The surname daus Sanz ('of the Saints') was widely given to children in orphanages in Provence at the time.
+  entities:
+  - name: Provence
+    type: polity
+- entry: 109.5
+  title: Guillen daus Sanz
+  category: culture
+  claim: The 21st of June is to this day a national holiday in Provence, commemorating the declaration of independence from
+    Burgundy in 1497.
+  entities:
+  - name: Provence
+    type: polity
+  dates: 1497 N
+- entry: 141.5
+  title: Provence
+  category: place
+  claim: Provence is a polity in the south of Gaul on the Middlesea coast, first independent in 1499, with its capital city
+    at Marsella.
+  entities:
+  - name: Provence
+    type: polity
+  - name: Marsella
+    type: place
+  dates: 1499 N
+- entry: 141.5
+  title: Provence
+  category: language
+  claim: The name Provence descends directly from Latin Provincia Romana, as it was the first Roman province established on
+    the Gaulish side of the Alps.
+  entities:
+  - name: Provence
+    type: polity
+- entry: 141.5
+  title: Provence
+  category: event
+  claim: Medieval Provence was incorporated into the Francian Empire in the sixth century and remained part of its western
+    fragment after the empire was divided in the ninth century.
+  entities:
+  - name: Provence
+    type: polity
+  - name: Franks
+    type: polity
+  dates: 6th c. N; 9th c. N
+- entry: 141.5
+  title: Provence
+  category: event
+  claim: Provence was elevated to a duchy in the thirteenth century under the house of Savoy, becoming known as the 'Burgund
+    breadbasket'.
+  entities:
+  - name: Provence
+    type: polity
+  - name: Burgundy
+    type: polity
+  dates: 13th c. N
+- entry: 141.5
+  title: Provence
+  category: event
+  claim: Provence was conquered by Vascony during the Vascon Ascendancy and returned to Burgundy in 1494 during the reign
+    of Ambrose III.
+  entities:
+  - name: Provence
+    type: polity
+  - name: Vascony
+    type: polity
+  - name: Burgundy
+    type: polity
+  - name: Ambrose III
+    type: person
+  dates: 1494 N
+- entry: 141.5
+  title: Provence
+  category: economics
+  claim: By the end of the sixteenth century, Provence's trade network reached across the Atlantic to port towns in Mendeva
+    like the newly-established Santrafew, which would eventually coalesce into New Provence.
+  entities:
+  - name: Provence
+    type: polity
+  - name: Santrafew
+    type: place
+  - name: New Provence
+    type: polity
+  dates: late 16th c. N
+- entry: 141.5
+  title: Provence
+  category: event
+  claim: By the end of the nineteenth century, New Provence's power had eclipsed that of Provence, and Provence became in
+    many respects a European outpost of New Provence.
+  entities:
+  - name: Provence
+    type: polity
+  - name: New Provence
+    type: polity
+  dates: late 19th c. N
+- entry: 141.5
+  title: Provence
+  category: event
+  claim: Provence stood with Vascony as a bulwark against Drengot hegemony until the Furore of 1961 and the collapse of the
+    Drengot Collusion.
+  entities:
+  - name: Provence
+    type: polity
+  - name: Vascony
+    type: polity
+  - name: Drengot Collusion
+    type: organisation
+  dates: 1961 N
+Axbane:
+- entry: '1.5'
+  title: Children's Curriculum
+  source_work: Report towards a Normal Teaching for Children at Mantelschool
+  category: place
+  claim: Roman baths survive in Axbane as an example of Roman architecture on Borland.
+  entities:
+  - name: Axbane
+    type: place
+- entry: '26.5'
+  title: Borland
+  category: event
+  claim: Axbane was connected to the continent at Texel in Willemy via air-steeples.
+  entities:
+  - name: Axbane
+    type: place
+  - name: Texel
+    type: place
+  - name: Willemy
+    type: polity
+- entry: '26.5'
+  title: Borland
+  category: place
+  claim: Axbane (Ausbagn) is an old Roman town on the south coast of Borland with a surviving historical baths.
+  entities:
+  - name: Axbane
+    type: place
+  - name: Borland
+    type: polity
+- entry: 105.5
+  title: Astraphor
+  category: technology
+  claim: The first undersea barric steeplepost lines were laid in the 1850s in Kent (Dover to Cales) and from Texel in Willemy
+    to Axbane in Borland.
+  entities:
+  - name: Axbane
+    type: place
+  - name: Borland
+    type: place
+  - name: Willemy
+    type: polity
+  dates: 1850s N
+- entry: 106.5
+  title: Axbane
+  category: place
+  claim: Axbane is a major city on the southwest coast of Borland, located at the narrowest part of the Rustigh Strait, less
+    than twenty leagues from Willemy on mainland Europe.
+  entities:
+  - name: Axbane
+    type: place
+  - name: Borland
+    type: place
+  - name: Rustigh Strait
+    type: place
+  - name: Willemy
+    type: polity
+- entry: 106.5
+  title: Axbane
+  category: language
+  claim: Both the Merch name Axbane and the Borlish name Ausbagn descend from the dative case of the Latin name Aquīs Balneīs,
+    meaning 'to the bathing waters'.
+  entities:
+  - name: Axbane
+    type: place
+- entry: 106.5
+  title: Axbane
+  category: place
+  claim: As a Roman city, Axbane was home to an extensive bathhouse complex, for which the city is named.
+  entities:
+  - name: Axbane
+    type: place
+- entry: 106.5
+  title: Axbane
+  category: event
+  claim: With the German migrations of the early medieval period, Axbane was demoted to a minor port in the Anglian kingdom
+    of Sothbar.
+  entities:
+  - name: Axbane
+    type: place
+  - name: Sothbar
+    type: polity
+- entry: 106.5
+  title: Axbane
+  category: place
+  claim: By the late twelfth century Axbane was the de facto seat of the County of Sothbar; by 1190 Count Steven resided year-round
+    in the coastal town.
+  entities:
+  - name: Axbane
+    type: place
+  - name: Sothbar
+    type: place
+  - name: Steven
+    type: person
+  dates: 1190 N
+- entry: 106.5
+  title: Axbane
+  category: economics
+  claim: Axbane eventually became one of the star cities of the Corvine Concert, an association of mercantile cities in the
+    region.
+  entities:
+  - name: Axbane
+    type: place
+  - name: Corvine Concert
+    type: organisation
+- entry: 106.5
+  title: Axbane
+  category: economics
+  claim: The throughput of the Axbane port accounted for over a third of European trade outside the Middlesea by 1400 N.
+  entities:
+  - name: Axbane
+    type: place
+  dates: c. 1400 N
+- entry: 106.5
+  title: Axbane
+  category: economics
+  claim: The late fourteenth century saw Axbane develop a particularly close relationship with Bremen.
+  entities:
+  - name: Axbane
+    type: place
+  - name: Bremen
+    type: place
+  dates: late 14th c. N
+- entry: 106.5
+  title: Axbane
+  category: technology
+  claim: In the 1850s, Axbane was connected to Texel in Willemy by one of the world's first undersea barric steeplepost lines.
+  entities:
+  - name: Axbane
+    type: place
+  - name: Willemy
+    type: polity
+  dates: 1850s N

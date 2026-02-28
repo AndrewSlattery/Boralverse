@@ -1,0 +1,419 @@
+# Deduplication cluster: J_MunirAlHamdawi_SecondGreatDying_Absolon_Joseph
+
+Munir al-Hamdawi:
+- entry: '14.5'
+  title: Ambrose III of Vascony
+  category: person
+  claim: Munir al-Hamdawi was King of Morrack.
+  entities:
+  - name: Munir al-Hamdawi
+    type: person
+  - name: Morrack
+    type: polity
+- entry: '14.5'
+  title: Ambrose III of Vascony
+  category: person
+  claim: Munir al-Hamdawi was born in 1429.
+  entities:
+  - name: Munir al-Hamdawi
+    type: person
+  dates:
+  - '1429'
+  _also_in_entries:
+  - '18.5'
+- entry: '14.5'
+  title: Ambrose III of Vascony
+  category: person
+  claim: Munir al-Hamdawi reigned for a comparable length of time to Ambrose III.
+  entities:
+  - name: Munir al-Hamdawi
+    type: person
+  - name: Ambrose III
+    type: person
+- entry: '18.5'
+  title: Significant Figures, cont.
+  category: person
+  claim: Munir al-Hamdawi was the ruler of Morrack during the latter half of the fifteenth century.
+  entities:
+  - name: Munir al-Hamdawi
+    type: person
+  - name: Morrack
+    type: polity
+  dates:
+  - latter half of 15th century
+- entry: '18.5'
+  title: Significant Figures, cont.
+  category: person
+  claim: Munir al-Hamdawi had a long-standing rivalry with Ambrose III of Vascony.
+  entities:
+  - name: Munir al-Hamdawi
+    type: person
+  - name: Ambrose III
+    type: person
+- entry: '18.5'
+  title: Significant Figures, cont.
+  category: person
+  claim: Munir al-Hamdawi's rivalry with Ambrose III grew from a childhood enmity to a bitter naval and martial feud.
+  entities:
+  - name: Munir al-Hamdawi
+    type: person
+  - name: Ambrose III
+    type: person
+- entry: '18.5'
+  title: Significant Figures, cont.
+  category: event
+  claim: Munir al-Hamdawi's reign included the conquest of the southern parts of Portingale in 1457.
+  entities:
+  - name: Munir al-Hamdawi
+    type: person
+  - name: Portingale
+    type: polity
+  dates:
+  - 1457 N
+  relationships:
+  - subject: Munir al-Hamdawi
+    predicate: conquered
+    object: southern parts of Portingale
+- entry: '18.5'
+  title: Significant Figures, cont.
+  category: organisation
+  claim: In 1463 Munir al-Hamdawi established the New World Company as a rival marine enterprise to Ambrose III's New Navarre
+    Enterprise.
+  entities:
+  - name: Munir al-Hamdawi
+    type: person
+  - name: New World Company
+    type: organisation
+  - name: New Navarre Enterprise
+    type: organisation
+  - name: Ambrose III
+    type: person
+  dates:
+  - '1463'
+- entry: '29.5'
+  title: Morrack
+  category: person
+  claim: Munir al-Hamdawi (b. 1429) is remembered for establishing the New World Company and for his lifelong rivalry with
+    King Ambrose III of Vascony.
+  entities:
+  - name: Munir al-Hamdawi
+    type: person
+  - name: New World Company
+    type: organisation
+  - name: Ambrose III of Vascony
+    type: person
+  dates:
+  - b. 1429 N
+- entry: 171.5
+  title: Novomundine Landfall
+  category: event
+  claim: Following the Landfall, Munir al-Hamdawi of Morrack redirected his New World Company westward, leading to the discovery
+    of the faster southern route to the Novomund and the islands of the Arcabil.
+  entities:
+  - name: Munir al-Hamdawi
+    type: person
+  - name: Morrack New World Company
+    type: organisation
+Second Great Dying:
+- entry: '15.5'
+  title: The Second Great Dying
+  category: event
+  claim: The Second Great Dying was a pandemic of bubonic plague occurring across the Vetomund.
+  entities:
+  - name: Second Great Dying
+    type: event
+  - name: Vetomund
+    type: place
+- entry: '15.5'
+  title: The Second Great Dying
+  category: event
+  claim: The Second Great Dying arrived in Europe in early 1519.
+  entities:
+  - name: Second Great Dying
+    type: event
+  dates:
+  - early 1519
+- entry: '15.5'
+  title: The Second Great Dying
+  category: event
+  claim: The Second Great Dying lasted for between five and seven years.
+  entities:
+  - name: Second Great Dying
+    type: event
+- entry: '15.5'
+  title: The Second Great Dying
+  category: event
+  claim: The first victim in Borland of the Second Great Dying was in Damvath during the 'green snowfall' of 1519.
+  entities:
+  - name: Second Great Dying
+    type: event
+  - name: Borland
+    type: place
+  - name: Damvath
+    type: place
+  dates:
+  - '1519'
+- entry: '15.5'
+  title: The Second Great Dying
+  category: event
+  claim: Coastal areas and polities with closer ties to naval trade were hit harder and more quickly by the Second Great Dying.
+  entities:
+  - name: Second Great Dying
+    type: event
+- entry: '15.5'
+  title: The Second Great Dying
+  category: culture
+  claim: There is a common misconception that people blamed cats and dogs for spreading the plague during the Second Great
+    Dying.
+  entities:
+  - name: Second Great Dying
+    type: event
+- entry: '15.5'
+  title: The Second Great Dying
+  category: culture
+  claim: The idea that people blamed cats and dogs for spreading the plague is only attested in connection with the Second
+    Great Dying several decades after the event.
+  entities:
+  - name: Second Great Dying
+    type: event
+- entry: '15.5'
+  title: The Second Great Dying
+  category: event
+  claim: Population loss due to the Second Great Dying is sometimes cited as contributing to the collapse of feudalism.
+  entities:
+  - name: Second Great Dying
+    type: event
+- entry: '26.5'
+  title: Borland
+  category: event
+  claim: The Second Great Dying reached Borland in March of 1519.
+  entities:
+  - name: Second Great Dying
+    type: event
+  - name: Borland
+    type: polity
+  dates:
+  - 1519 N
+- entry: '26.5'
+  title: Borland
+  category: event
+  claim: The first recorded death of the Second Great Dying in Borland was in Damvath during the year's green snowfall.
+  entities:
+  - name: Second Great Dying
+    type: event
+  - name: Damvath
+    type: place
+- entry: 122.5
+  title: Vascon Ascendancy
+  category: event
+  claim: The Second Great Dying killed almost one in seven people in Vascony, although immigration was high enough to offset
+    the population loss by 1550.
+  entities:
+  - name: Second Great Dying
+    type: event
+  - name: Vascony
+    type: polity
+  dates: c. 1550 N
+Absolon Mortenszen:
+- entry: '15.5'
+  title: The Second Great Dying
+  category: person
+  claim: Absolon Mortenszen is a Dane playwright.
+  entities:
+  - name: Absolon Mortenszen
+    type: person
+- entry: '15.5'
+  title: The Second Great Dying
+  category: event
+  claim: The wife and brothers of the grandfather of Absolon Mortenszen died in the Second Great Dying.
+  entities:
+  - name: Absolon Mortenszen
+    type: person
+  - name: Second Great Dying
+    type: event
+- entry: '16.5'
+  title: Adaillé Nassow & Absolon Mortenszen
+  category: person
+  claim: Absolon Mortenszen was a playwright and commentator in the Dane Concert of the sixteenth century.
+  entities:
+  - name: Absolon Mortenszen
+    type: person
+  - name: Dane Concert
+    type: polity
+  dates:
+  - 16th century
+- entry: '16.5'
+  title: Adaillé Nassow & Absolon Mortenszen
+  category: person
+  claim: Absolon Mortenszen lived in Alburg, Denmark in the year 1560.
+  entities:
+  - name: Absolon Mortenszen
+    type: person
+  - name: Alburg
+    type: place
+  - name: Denmark
+    type: polity
+  dates:
+  - '1560'
+- entry: '16.5'
+  title: Adaillé Nassow & Absolon Mortenszen
+  category: person
+  claim: Absolon Mortenszen's grandfather is thought to have lost his wife and at least two brothers in the Second Great Dying.
+  entities:
+  - name: Absolon Mortenszen
+    type: person
+  - name: Second Great Dying
+    type: event
+- entry: '16.5'
+  title: Adaillé Nassow & Absolon Mortenszen
+  category: person
+  claim: Absolon Mortenszen married a woman named Clara at some point before 1560.
+  entities:
+  - name: Absolon Mortenszen
+    type: person
+  - name: Clara
+    type: person
+  dates:
+  - before 1560
+- entry: '16.5'
+  title: Adaillé Nassow & Absolon Mortenszen
+  category: person
+  claim: Absolon Mortenszen and Clara did not have any children.
+  entities:
+  - name: Absolon Mortenszen
+    type: person
+  - name: Clara
+    type: person
+- entry: '16.5'
+  title: Adaillé Nassow & Absolon Mortenszen
+  category: person
+  claim: Absolon Mortenszen had a brother who married a woman named Beatrys.
+  entities:
+  - name: Absolon Mortenszen
+    type: person
+  - name: Beatrys
+    type: person
+- entry: '16.5'
+  title: Adaillé Nassow & Absolon Mortenszen
+  category: work
+  claim: Absolon Mortenszen wrote a play titled 'High Society' shortly before 1560.
+  entities:
+  - name: Absolon Mortenszen
+    type: person
+  - name: High Society
+    type: work
+  dates:
+  - shortly before 1560
+  relationships:
+  - subject: Absolon Mortenszen
+    predicate: wrote
+    object: High Society
+- entry: 125.5
+  title: Denmark
+  category: person
+  claim: Absolon Mortenszen (fl. 1560) was a Danish playwright and commentator who lived in Alburgh and is remembered for
+    his play 'High Society'.
+  entities:
+  - name: Absolon Mortenszen
+    type: person
+  - name: Alburgh
+    type: place
+  dates: fl. 1560 N
+Joseph III:
+- entry: '7.5'
+  title: The Terrene Tax
+  source_work: 'Histoir Concorrent, s16 : Mort, Vascel eð y Motion Celest (Concurrence History of the 16th Century: Death,
+    Ships and the Movement of the Heavens)'
+  category: person
+  claim: Joseph III died in 1534.
+  entities:
+  - name: Joseph III
+    type: person
+  dates:
+  - 1534 N
+  _also_in_entries:
+  - '17.5'
+- entry: '7.5'
+  title: The Terrene Tax
+  source_work: 'Histoir Concorrent, s16 : Mort, Vascel eð y Motion Celest (Concurrence History of the 16th Century: Death,
+    Ships and the Movement of the Heavens)'
+  category: person
+  claim: Accusations of an unnatural demise have been sporadically levelled at Joseph III but are unsubstantiable.
+  entities:
+  - name: Joseph III
+    type: person
+- entry: '7.5'
+  title: The Terrene Tax
+  source_work: 'Histoir Concorrent, s16 : Mort, Vascel eð y Motion Celest (Concurrence History of the 16th Century: Death,
+    Ships and the Movement of the Heavens)'
+  category: person
+  claim: Joseph III never succeeded in producing a natural-born heir, despite several illegitimate children by his various
+    mistresses.
+  entities:
+  - name: Joseph III
+    type: person
+- entry: '15.5'
+  title: The Second Great Dying
+  category: person
+  claim: Joseph III ruled Borland at the time of the Second Great Dying.
+  entities:
+  - name: Joseph III
+    type: person
+  - name: Borland
+    type: place
+  - name: Second Great Dying
+    type: event
+- entry: '17.5'
+  title: Significant Figures
+  category: person
+  claim: Joseph III was king of Borland.
+  entities:
+  - name: Joseph III
+    type: person
+  - name: Borland
+    type: polity
+- entry: '17.5'
+  title: Significant Figures
+  category: person
+  claim: Joseph III is remembered for ruling the kingdom through the ravages of the Second Great Dying.
+  entities:
+  - name: Joseph III
+    type: person
+  - name: Second Great Dying
+    type: event
+- entry: '17.5'
+  title: Significant Figures
+  category: person
+  claim: Joseph III never succeeded in producing a natural-born heir, despite several recognised yet illegitimate children
+    by his various mistresses.
+  entities:
+  - name: Joseph III
+    type: person
+- entry: '26.5'
+  title: Borland
+  category: person
+  claim: Joseph III (d. 1534) ruled through the ravages of the Second Great Dying.
+  entities:
+  - name: Joseph III
+    type: person
+  - name: Second Great Dying
+    type: event
+  dates:
+  - 1534 N
+- entry: 139.5
+  title: Monarchs of Borland
+  category: person
+  claim: Joseph III (d. 1534) was king of Borland who ruled through the ravages of the Second Great Dying; he was succeeded
+    by his nephew Brandon II as he produced no natural-born heir.
+  entities:
+  - name: Joseph III
+    type: person
+  - name: Brandon II
+    type: person
+  - name: Borland
+    type: polity
+  dates: d. 1534 N
+  relationships:
+  - type: nephew
+    from: Brandon II
+    to: Joseph III

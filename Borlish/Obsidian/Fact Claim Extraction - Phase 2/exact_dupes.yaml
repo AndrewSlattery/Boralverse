@@ -1,0 +1,553 @@
+# 25 normalised claim texts appearing in >1 entry
+
+duplicates:
+- normalised_text: arrhumb is the boralverse term for cosine.
+  count: 3
+  occurrences:
+  - entry: '41.5'
+    title: Gurjat
+    category: glossary
+    claim: Arrhumb is the Boralverse term for cosine.
+    entities:
+    - name: arrhumb
+      irl: cosine
+      type: concept
+  - entry: 46.5
+    title: Channels
+    category: glossary
+    claim: Arrhumb is the Boralverse term for cosine.
+    entities:
+    - name: arrhumb
+      irl: cosine
+      type: concept
+  - entry: 128.5
+    title: Mathematical Etymology
+    source_work: Veriloquace Glossary of Mathematics (Rotcham University Primers)
+    category: glossary
+    claim: Arrhumb is the Boralverse term for cosine.
+    entities:
+    - name: arrhumb
+      irl: cosine
+      type: concept
+- normalised_text: killdark is the boralverse term for uranium.
+  count: 3
+  occurrences:
+  - entry: 52.5
+    title: 30th Lexember
+    category: glossary
+    claim: Killdark is the Boralverse term for uranium.
+    entities:
+    - name: killdark
+      irl: uranium
+      type: concept
+  - entry: 99.5
+    title: Science Quiz
+    source_work: Prove your Knowledge! (Games for Sorties and Excourses, 1930)
+    category: glossary
+    claim: Killdark is the Boralverse term for uranium.
+    entities:
+    - name: killdark
+      irl: uranium
+      type: concept
+  - entry: 126.5
+    title: Chemical Etymology
+    source_work: Veriloquace Glossary of Alchemy (Rotcham University Primers)
+    category: glossary
+    claim: Killdark is the Boralverse term for uranium.
+    entities:
+    - name: killdark
+      irl: uranium
+      type: concept
+- normalised_text: mysarnos is located at the western end of the athenian way.
+  count: 2
+  occurrences:
+  - entry: '5.5'
+    title: The Mysarnos Codex
+    source_work: 'The Mysarnos Problem: the Enigma of an Inconvenient Codex'
+    category: place
+    claim: Mysarnos is located at the western end of the Athenian Way.
+    entities:
+    - name: Mysarnos
+      type: place
+    - name: Athenian Way
+      type: place
+  - entry: 62.5
+    title: The Mysarnos Codex
+    category: place
+    claim: Mysarnos is located at the western end of the Athenian Way.
+    entities:
+    - name: Mysarnos
+      type: place
+- normalised_text: joseph iii died in 1534.
+  count: 2
+  occurrences:
+  - entry: '7.5'
+    title: The Terrene Tax
+    source_work: 'Histoir Concorrent, s16 : Mort, Vascel eð y Motion Celest (Concurrence History of the 16th Century: Death,
+      Ships and the Movement of the Heavens)'
+    category: person
+    claim: Joseph III died in 1534.
+    entities:
+    - name: Joseph III
+      type: person
+    dates:
+    - 1534 N
+  - entry: '17.5'
+    title: Significant Figures
+    category: person
+    claim: Joseph III died in 1534.
+    entities:
+    - name: Joseph III
+      type: person
+    dates:
+    - '1534'
+- normalised_text: kernow is the boralverse name for brittany.
+  count: 2
+  occurrences:
+  - entry: '8.5'
+    title: Vikings in Dumnonia
+    source_work: On the Dane Supremacy in Kernow and the Creation of Normandy
+    category: glossary
+    claim: Kernow is the Boralverse name for Brittany.
+    entities:
+    - name: Kernow
+      irl: Brittany
+      type: place
+  - entry: 111.5
+    title: Battle of Rexam (1483)
+    category: glossary
+    claim: Kernow is the Boralverse name for Brittany.
+    entities:
+    - name: Kernow
+      irl: Brittany
+      type: place
+- normalised_text: tartover is the boralverse term for potatoes.
+  count: 2
+  occurrences:
+  - entry: '10.5'
+    title: Middlesea Meals
+    source_work: Pasti Mezziterreni (Middlesea Meals)
+    category: glossary
+    claim: Tartover is the Boralverse term for potatoes.
+    entities:
+    - name: tartover
+      irl: potatoes
+      type: concept
+  - entry: 77.5
+    title: Continents and Conjugality
+    category: glossary
+    claim: Tartover is the Boralverse term for potatoes.
+    entities:
+    - name: tartover
+      irl: potatoes
+      type: concept
+- normalised_text: paratzon is the boralverse name for st john's, newfoundland.
+  count: 2
+  occurrences:
+  - entry: '13.5'
+    title: Roxa Comba Newspaper
+    source_work: Roxa Comba
+    category: glossary
+    claim: Paratzon is the Boralverse name for St John's, Newfoundland.
+    entities:
+    - name: Paratzon
+      irl: St John's, Newfoundland
+      type: place
+  - entry: 171.5
+    title: Novomundine Landfall
+    category: glossary
+    claim: Paratzon is the Boralverse name for St John's, Newfoundland.
+    entities:
+    - name: Paratzon
+      irl: St John's, NL
+      type: place
+- normalised_text: astraphor is the boralverse term for electricity.
+  count: 2
+  occurrences:
+  - entry: '13.5'
+    title: Roxa Comba Newspaper
+    source_work: Roxa Comba
+    category: glossary
+    claim: Astraphor is the Boralverse term for electricity.
+    entities:
+    - name: astraphor
+      irl: electricity
+      type: concept
+  - entry: 71.5
+    title: Threshold force
+    category: glossary
+    claim: Astraphor is the Boralverse term for electricity.
+    entities:
+    - name: astraphor
+      irl: electricity
+      type: concept
+- normalised_text: munir al-hamdawi was born in 1429.
+  count: 2
+  occurrences:
+  - entry: '14.5'
+    title: Ambrose III of Vascony
+    category: person
+    claim: Munir al-Hamdawi was born in 1429.
+    entities:
+    - name: Munir al-Hamdawi
+      type: person
+    dates:
+    - '1429'
+  - entry: '18.5'
+    title: Significant Figures, cont.
+    category: person
+    claim: Munir al-Hamdawi was born in 1429.
+    entities:
+    - name: Munir al-Hamdawi
+      type: person
+    dates:
+    - '1429'
+- normalised_text: many governmental buildings of the drengot collusion were located in rone.
+  count: 2
+  occurrences:
+  - entry: '21.5'
+    title: Kent
+    category: place
+    claim: Many governmental buildings of the Drengot Collusion were located in Rone.
+    entities:
+    - name: Rone
+      type: place
+    - name: Drengot Collusion
+      type: polity
+  - entry: '34.5'
+    title: The Drengot Collusion
+    category: place
+    claim: Many governmental buildings of the Drengot Collusion were located in Rone.
+    entities:
+    - name: Rone
+      type: place
+    - name: Drengot Collusion
+      type: polity
+- normalised_text: jothey, king of borland (fl. 898), was the last ruler of the first kingdom of borland before it fell to
+    the danes in 898.
+  count: 2
+  occurrences:
+  - entry: '32.5'
+    title: Monarchs of Borland
+    category: person
+    claim: Jothey, King of Borland (fl. 898), was the last ruler of the First Kingdom of Borland before it fell to the Danes
+      in 898.
+    entities:
+    - name: Jothey of Borland
+      type: person
+    - name: First Kingdom of Borland
+      type: polity
+    dates:
+    - fl. 898 N
+  - entry: 139.5
+    title: Monarchs of Borland
+    category: person
+    claim: Jothey, King of Borland (fl. 898), was the last ruler of the First Kingdom of Borland before it fell to the Danes
+      in 898.
+    entities:
+    - name: Jothey of Borland
+      type: person
+    - name: Borland
+      type: polity
+    dates: 898 N
+- normalised_text: the kingdom of britain was formed of wales and its outlying tallaths, along with kernow and sodrick.
+  count: 2
+  occurrences:
+  - entry: '33.5'
+    title: The Wars of Fealty
+    category: polity
+    claim: The Kingdom of Britain was formed of Wales and its outlying tallaths, along with Kernow and Sodrick.
+    entities:
+    - name: Britain
+      type: polity
+    - name: Wales
+      type: polity
+    - name: Kernow
+      type: polity
+    - name: Sodrick
+      type: polity
+  - entry: 111.5
+    title: Battle of Rexam (1483)
+    category: polity
+    claim: The Kingdom of Britain was formed of Wales and its outlying tallaths, along with Kernow and Sodrick.
+    entities:
+    - name: Britain
+      type: polity
+    - name: Wales
+      type: polity
+    - name: Kernow
+      type: place
+    - name: Sodrick
+      type: place
+- normalised_text: drengot astraphor supplied much of the baric needs of portingale via undersea powerline, relying on vascon
+    goodwill not to interfere.
+  count: 2
+  occurrences:
+  - entry: '34.5'
+    title: The Drengot Collusion
+    category: economics
+    claim: Drengot astraphor supplied much of the baric needs of Portingale via undersea powerline, relying on Vascon goodwill
+      not to interfere.
+    entities:
+    - name: Drengot Collusion
+      type: polity
+    - name: Portingale
+      type: polity
+    - name: Vascony
+      type: polity
+  - entry: 55.5
+    title: Portingale
+    category: technology
+    claim: Drengot astraphor supplied much of the baric needs of Portingale via undersea powerline, relying on Vascon goodwill
+      not to interfere.
+    entities:
+    - name: Portingale
+      type: polity
+    - name: Drengot Collusion
+      type: polity
+    - name: Vascony
+      type: polity
+- normalised_text: after the democratic wars, the city of london found itself newly independent for one final, lasting time.
+  count: 2
+  occurrences:
+  - entry: '36.5'
+    title: Wars and Rumours of Wars
+    category: event
+    claim: After the Democratic Wars, the city of London found itself newly independent for one final, lasting time.
+    entities:
+    - name: London
+      type: place
+    - name: Democratic Wars
+      type: event
+  - entry: '40.5'
+    title: Albion
+    category: event
+    claim: After the Democratic Wars, the city of London found itself newly independent for one final, lasting time.
+    entities:
+    - name: London
+      type: place
+    - name: Democratic Wars
+      type: event
+- normalised_text: madray is the boralverse name for madurai.
+  count: 2
+  occurrences:
+  - entry: '41.5'
+    title: Gurjat
+    category: glossary
+    claim: Madray is the Boralverse name for Madurai.
+    entities:
+    - name: Madray
+      irl: Madurai
+      type: place
+  - entry: 155.5
+    title: Everywhere and Everything
+    source_work: 'Everywhere and Everything: the Third Millenium (Jallondes y Jallisca: la Terça Milada, 2000)'
+    category: glossary
+    claim: Madray is the Boralverse name for Madurai.
+    entities:
+    - name: Madray
+      irl: Madurai
+      type: place
+- normalised_text: heredian acid is the boralverse term for dna.
+  count: 2
+  occurrences:
+  - entry: 46.5
+    title: Channels
+    category: glossary
+    claim: Heredian acid is the Boralverse term for DNA.
+    entities:
+    - name: heredian acid
+      irl: DNA
+      type: concept
+  - entry: 59.5
+    title: 19th-century Espionage and the Invention of Software
+    category: glossary
+    claim: Heredian acid is the Boralverse term for DNA.
+    entities:
+    - name: heredian acid
+      irl: DNA
+      type: concept
+- normalised_text: pojon is the boralverse name for bratislava.
+  count: 2
+  occurrences:
+  - entry: 48.5
+    title: 2nd Lexember
+    category: glossary
+    claim: Pojon is the Boralverse name for Bratislava.
+    entities:
+    - name: Pojon
+      irl: Bratislava
+      type: place
+  - entry: 168.5
+    title: And Good And Gay
+    source_work: Birds Yet Sing (Ja Cantan Aucèis, 1986)
+    category: glossary
+    claim: Pojon is the Boralverse name for Bratislava.
+    entities:
+    - name: Pojon
+      irl: Bratislava
+      type: place
+- normalised_text: house of odyssey is the boralverse term for cinema.
+  count: 2
+  occurrences:
+  - entry: 49.5
+    title: 9th Lexember
+    category: glossary
+    claim: House of odyssey is the Boralverse term for cinema.
+    entities:
+    - name: house of odyssey
+      irl: cinema
+      type: concept
+  - entry: 165.5
+    title: The 1910s
+    category: glossary
+    claim: House of odyssey is the Boralverse term for cinema.
+    entities:
+    - name: house of odyssey
+      irl: cinema
+      type: concept
+- normalised_text: cappatia is the boralverse name for south america.
+  count: 2
+  occurrences:
+  - entry: 50.5
+    title: 16th Lexember
+    category: glossary
+    claim: Cappatia is the Boralverse name for South America.
+    entities:
+    - name: Cappatia
+      irl: South America
+      type: place
+  - entry: 136.5
+    title: The Novomund (briefly)
+    category: glossary
+    claim: Cappatia is the Boralverse name for South America.
+    entities:
+    - name: Cappatia
+      irl: South America
+      type: place
+- normalised_text: chrysia is the boralverse name for australia.
+  count: 2
+  occurrences:
+  - entry: 51.5
+    title: 23rd Lexember
+    category: glossary
+    claim: Chrysia is the Boralverse name for Australia.
+    entities:
+    - name: Chrysia
+      irl: Australia
+      type: place
+  - entry: 151.5
+    title: War and Peace
+    category: glossary
+    claim: Chrysia is the Boralverse name for Australia.
+    entities:
+    - name: Chrysia
+      irl: Australia
+      type: place
+- normalised_text: '''new skies, old stories'' by simon d''estiala was published by prindor marsillès in 1980 n.'
+  count: 2
+  occurrences:
+  - entry: 61.5
+    title: Parachthony
+    category: work
+    claim: '''New Skies, Old Stories'' by Simon d''Estiala was published by Prindor Marsillès in 1980 N.'
+    entities:
+    - name: New Skies, Old Stories
+      type: work
+    - name: Simon d'Estiala
+      type: person
+    - name: Prindor Marsillès
+      type: organisation
+    dates: 1980 N
+  - entry: 79.5
+    title: Voidtale
+    category: work
+    claim: '''New Skies, Old Stories'' by Simon d''Estiala was published by Prindor Marsillès in 1980 N.'
+    entities:
+    - name: New Skies, Old Stories
+      type: work
+    - name: Simon d'Estiala
+      type: person
+    - name: Prindor Marsillès
+      type: organisation
+    dates: 1980 N
+- normalised_text: brasil is the boralverse name for newfoundland.
+  count: 2
+  occurrences:
+  - entry: 77.5
+    title: Continents and Conjugality
+    category: glossary
+    claim: Brasil is the Boralverse name for Newfoundland.
+    entities:
+    - name: Brasil
+      irl: Newfoundland
+      type: place
+  - entry: 171.5
+    title: Novomundine Landfall
+    category: glossary
+    claim: Brasil is the Boralverse name for Newfoundland.
+    entities:
+    - name: Brasil
+      irl: Newfoundland
+      type: place
+- normalised_text: aphlox is the boralverse term for carbon dioxide.
+  count: 2
+  occurrences:
+  - entry: 87.5
+    title: Merch
+    category: glossary
+    claim: Aphlox is the Boralverse term for carbon dioxide.
+    entities:
+    - name: aphlox
+      irl: carbon dioxide
+      type: concept
+  - entry: 163.5
+    title: Like Oil and Water
+    category: glossary
+    claim: Aphlox is the Boralverse term for carbon dioxide.
+    entities:
+    - name: aphlox
+      irl: carbon dioxide
+      type: concept
+- normalised_text: corporal is the boralverse term for chemical element.
+  count: 2
+  occurrences:
+  - entry: 99.5
+    title: Science Quiz
+    source_work: Prove your Knowledge! (Games for Sorties and Excourses, 1930)
+    category: glossary
+    claim: Corporal is the Boralverse term for chemical element.
+    entities:
+    - name: corporal
+      irl: chemical element
+      type: concept
+  - entry: 140.5
+    title: Chemical Etymology (cont. 2)
+    source_work: Veriloquace Glossary of Alchemy (Rotcham University Primers)
+    category: glossary
+    claim: Corporal is the Boralverse term for chemical element.
+    entities:
+    - name: corporal
+      irl: chemical element
+      type: concept
+- normalised_text: ablate is the boralverse term for negative (as a mathematical quantity).
+  count: 2
+  occurrences:
+  - entry: 123.5
+    title: Dart Geometry
+    source_work: 'Drawing in the Sand: the History of Calculation (Agenza Scholaria Fodgesa, 1954)'
+    category: glossary
+    claim: Ablate is the Boralverse term for negative (as a mathematical quantity).
+    entities:
+    - name: ablate
+      irl: negative
+      type: concept
+  - entry: 128.5
+    title: Mathematical Etymology
+    source_work: Veriloquace Glossary of Mathematics (Rotcham University Primers)
+    category: glossary
+    claim: Ablate is the Boralverse term for negative (as a mathematical quantity).
+    entities:
+    - name: ablate
+      irl: negative
+      type: concept

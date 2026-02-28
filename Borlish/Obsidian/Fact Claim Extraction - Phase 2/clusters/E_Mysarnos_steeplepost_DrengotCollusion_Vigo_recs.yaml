@@ -1,0 +1,294 @@
+# Recommendations for cluster E
+entity_reviews:
+
+  - entity: "Mysarnos"
+    near_duplicate_groups:
+
+      - claims_in_group:
+          - entry: "5.5"
+            claim: "Mysarnos is the former capital of the Principality of Mystra."
+          - entry: "62.5"
+            claim: "Mysarnos was the capital of Mystra, a mordether vassal of the Roman Empire."
+        action: flag_contradiction
+        contradiction_note: >
+          Both claims identify Mysarnos as the capital of Mystra, but they describe the polity differently.
+          Entry 5.5 calls it the "Principality of Mystra", while 62.5 calls it "Mystra, a mordether vassal
+          of the Roman Empire." These framings may be compatible (a principality that was also a vassal)
+          but the discrepancy in political characterisation needs authorial resolution. Additionally, 5.5
+          uses "former capital" (implying Mysarnos is no longer the capital), while 62.5 uses simple past
+          without that implication.
+
+      - claims_in_group:
+          - entry: "5.5"
+            claim: "At its height in the sixteenth century, Mysarnos had a population of nearly thirty thousand."
+          - entry: "5.5"
+            claim: "Mysarnos received the majority of all trade imports in Greece."
+          - entry: "62.5"
+            claim: "During the sixteenth century Revitalist movement, Mysarnos received half of all Greece's imports and had a population of nearly thirty thousand."
+        action: flag_contradiction
+        contradiction_note: >
+          Entry 62.5 is a condensed combination of two separate 5.5 claims (population and trade imports),
+          but introduces a contradiction: 5.5 says Mysarnos received "the majority of all trade imports in
+          Greece", while 62.5 says it received "half of all Greece's imports." Majority (>50%) and half
+          (exactly 50%) are not equivalent, and "the majority" typically implies more than half. The correct
+          figure needs authorial confirmation. If resolved, keep the more specific/authoritative phrasing
+          and remove 62.5's conflated version.
+
+      - claims_in_group:
+          - entry: "5.5"
+            claim: "Mysarnos was a hub for the Revitalist movement at its height in the sixteenth century."
+          - entry: "62.5"
+            claim: "During the sixteenth century Revitalist movement, Mysarnos received half of all Greece's imports and had a population of nearly thirty thousand."
+        action: merge
+        keep_entry: "5.5"
+        merged_claim: >
+          At its height during the sixteenth century Revitalist movement, Mysarnos was a hub for that
+          movement, had a population of nearly thirty thousand, and received [the majority / half] of all
+          trade imports in Greece.
+        reason: >
+          62.5 bundles the Revitalist movement context together with population and trade figures already
+          present in separate 5.5 claims. Once the trade-share contradiction (majority vs half) is resolved,
+          these can be merged into a single summary claim or left as distinct 5.5 claims. The 62.5 version
+          adds no new verified information and should be retired in favour of the granular 5.5 claims.
+
+      - claims_in_group:
+          - entry: "5.5"
+            claim: "The name 'Mysarnos' has retrospectively been applied to a nearby pre-existing Greek town known in antiquity as Pylos, which was later officially incorporated as a municipality of Mysarnos."
+          - entry: "151.5"
+            claim: "Mysarnos is the Boralverse name for Pylos."
+        action: merge
+        keep_entry: "5.5"
+        merged_claim: >
+          Mysarnos is the Boralverse equivalent of Pylos: the name 'Mysarnos' was retrospectively applied
+          to a nearby pre-existing Greek town known in antiquity as Pylos, which was later officially
+          incorporated as a municipality of Mysarnos.
+        reason: >
+          151.5 is a bare glossary-style mapping ("Mysarnos is the Boralverse name for Pylos") that is
+          fully subsumed by the richer 5.5 claim, which explains the relationship in detail. Retain 5.5
+          as the canonical statement; 151.5 can be kept as a short cross-reference tag but is not an
+          independent fact requiring a separate claim record.
+
+    assessment: "Found 4 near-duplicate/contradiction groups. Key issues: (1) 'Principality of Mystra' vs 'mordether vassal' framing needs authorial clarification; (2) 'majority of imports' vs 'half of imports' is an outright contradiction requiring a definitive figure; (3) entry 62.5 is a condensed conflation of multiple 5.5 claims and introduces the imports contradiction — it should be retired once the contradiction is resolved; (4) entry 151.5 is subsumed by 5.5's Pylos claim."
+
+  - entity: "steeplepost"
+    near_duplicate_groups:
+
+      - claims_in_group:
+          - entry: "36.5"
+            claim: "The earliest incarnations of steeplepost technology were seen during the Democratic Wars."
+          - entry: "38.5"
+            claim: "The earliest incarnations of the steeplemesh arose during the Democratic Wars of the mid-eighteenth century."
+        action: merge
+        keep_entry: "38.5"
+        merged_claim: >
+          The earliest incarnations of steeplepost technology (also called the steeplemesh) arose during
+          the Democratic Wars of the mid-eighteenth century.
+        reason: >
+          Both claims make the same assertion about origins during the Democratic Wars. Entry 38.5 is
+          more informative, adding the date (mid-eighteenth century) and the alternate term "steeplemesh."
+          Entry 36.5 is redundant. Note: "steeplepost" and "steeplemesh" appear to be used interchangeably
+          across entries — this terminology should be standardised (see also 38.5's definition entry which
+          lists steeplepost as a group of technologies).
+
+      - claims_in_group:
+          - entry: "36.5"
+            claim: "One advanced and permanent steeplepost system was used to connect Cordova to Malaga in Andalus during their conflict with Morrack."
+          - entry: "38.5"
+            claim: "One early steeplepost line in Andalus, from Cordova to Málaga, is usually given as the first line connecting two major cities."
+          - entry: "39.5"
+            claim: "A signalling line from Cordova to Málaga set up during Andalus's conflict with Morrack developed into the world's first steeplepost connection between two major cities."
+        action: merge
+        keep_entry: "39.5"
+        merged_claim: >
+          During Andalus's conflict with Morrack, an advanced and permanent signalling line from Cordova
+          to Málaga was established; this line is usually given as the world's first steeplepost connection
+          between two major cities.
+        reason: >
+          All three claims describe the same Cordova-Málaga line. Entry 39.5 is the most complete, combining
+          the military context (conflict with Morrack, from 36.5) and the historical significance (first
+          inter-city connection, from 38.5). Note that 36.5 spells the city "Malaga" while 38.5 and 39.5
+          use "Málaga" — standardise to "Málaga."
+
+      - claims_in_group:
+          - entry: "38.5"
+            claim: "The first cross-sea steeplepost lines were air-steeples in the Rustigh Strait, connecting Borland to Willemy, established in the 1830s."
+          - entry: "46.5"
+            claim: "In the 1830s N, an air-steeple connection was established across the Rustigh Strait from Nausçod on Borland to Laicouche (now Lagcóch) in French Guillenne."
+        action: flag_contradiction
+        contradiction_note: >
+          Both claims place the Rustigh Strait air-steeple in the 1830s and agree on Borland as one
+          terminus, but disagree on the other endpoint: 38.5 says it connected to "Willemy", while 46.5
+          says it connected to "Laicouche (now Lagcóch) in French Guillenne." These may be compatible if
+          Laicouche/Lagcóch is a town within Willemy or French Guillenne is part of Willemy, but as
+          written they appear to name different polities. Additionally, 38.5 calls this the "first
+          cross-sea steeplepost lines" (plural), while 46.5 describes a single line. Authorial
+          clarification is needed on the destination polity.
+
+      - claims_in_group:
+          - entry: "38.5"
+            claim: "The two-arm steeplepost system, allowing up to nine separate states to be transmitted, was first tested in Thynen, a town in Willemy."
+          - entry: "45.5"
+            claim: "The two-arm system for sending steeplepost was first deployed in Willem in the early nineteenth century."
+        action: flag_contradiction
+        contradiction_note: >
+          Both claims describe the two-arm steeplepost system's first deployment/testing, but 38.5
+          locates it in "Thynen, a town in Willemy" while 45.5 says it was "deployed in Willem." It is
+          possible that "Willem" in 45.5 is a variant spelling/abbreviation of "Willemy" (the country)
+          rather than a town, but this is ambiguous. More critically, 38.5 says it was "first tested"
+          while 45.5 says "first deployed", which may indicate different phases of the same development.
+          Authorial confirmation of the location name and whether tested/deployed refers to the same event
+          is needed.
+
+    assessment: "Found 4 near-duplicate/contradiction groups. Key issues: (1) 'steeplepost' vs 'steeplemesh' terminology is used inconsistently across entries and should be standardised; (2) the Cordova-Málaga claims across three entries can be merged into one; (3) the Rustigh Strait endpoint (Willemy vs French Guillenne) is a genuine factual discrepancy; (4) the two-arm system location (Thynen/Willemy vs Willem) needs clarification."
+
+  - entity: "Drengot Collusion"
+    near_duplicate_groups:
+
+      - claims_in_group:
+          - entry: "21.5"
+            claim: "The dissolution of the Drengot Collusion inspired the Kentish ostracon reforms."
+          - entry: "34.5"
+            claim: "One effect of the collapse of the Drengot Collusion was the implementation of the Kentish ostracon reforms."
+        action: remove_duplicates
+        keep_entry: "34.5"
+        reason: >
+          Both claims assert the same causal relationship between the end of the Drengot Collusion and
+          the Kentish ostracon reforms. Entry 34.5 is marginally more precise ("collapse" and
+          "implementation" are slightly more specific than "dissolution" and "inspired"). Both come from
+          different source titles (Kent vs The Drengot Collusion) so the claim in 21.5 can be retired
+          as redundant.
+
+      - claims_in_group:
+          - entry: "34.5"
+            claim: "The Drengot Collusion arose among the French polities of the Global Workshop period."
+          - entry: "76.5"
+            claim: "The Drengot Collusion arose among the French polities during the Workshop period."
+        action: merge
+        keep_entry: "34.5"
+        merged_claim: >
+          The Drengot Collusion arose among the French polities during the Global Workshop period.
+        reason: >
+          These two claims are near-identical, differing only in that 34.5 says "Global Workshop period"
+          and 76.5 says "Workshop period." These are almost certainly the same period referred to by
+          different degrees of specificity (the full name vs a shortened form). Entry 34.5 uses the fuller
+          name and comes from the dedicated Drengot Collusion article; retain it and retire 76.5's version
+          of this claim.
+
+      - claims_in_group:
+          - entry: "34.5"
+            claim: "Tensions between the Drengot Collusion and Vascony and Provence grew particularly tense in the two decades following the Millstone War."
+          - entry: "91.5"
+            claim: "After the Millstone War, relations between the Drengot Collusion and their southern neighbours of Vascony and Provence quickly soured."
+        action: merge
+        keep_entry: "34.5"
+        merged_claim: >
+          After the Millstone War, relations between the Drengot Collusion and their southern neighbours
+          of Vascony and Provence grew particularly tense over the following two decades.
+        reason: >
+          Both claims describe the same post-Millstone War deterioration in relations with Vascony and
+          Provence. Entry 34.5 specifies the duration ("two decades") while 91.5 uses "quickly soured,"
+          which may be a slight tension (a gradual two-decade souring vs a quick deterioration). The
+          merged claim preserves both the timeframe and the direction of change. Keep 34.5 as the base.
+
+      - claims_in_group:
+          - entry: "34.5"
+            claim: "The Drengot Collusion grew from various treaties in the mid-nineteenth century into the principal power in the region until its collapse in 1961."
+          - entry: "78.5"
+            claim: "The Drengot Collusion was established during the Good Game period, with its expansion concluding in 1894 N with the accession of Borland."
+          - entry: "190.5"
+            claim: "The Drengot Collusion was an alliance-federacy of northwest Europe active from the 1800s until 1961 whose administration comprised twenty-four ministries."
+        action: flag_contradiction
+        contradiction_note: >
+          These three claims all address the founding/active period of the Drengot Collusion but give
+          different framings: 34.5 says it "grew from treaties in the mid-nineteenth century"; 78.5 says
+          it was "established during the Good Game period" and that expansion concluded in 1894 with
+          Borland's accession; 190.5 says it was "active from the 1800s." These are broadly compatible
+          (mid-19th century treaties leading to gradual establishment, with a final expansion in 1894),
+          but they are not identical. The relationship between the "Global Workshop period" (34.5, 76.5)
+          when it "arose" and the "Good Game period" (78.5) when it was "established" is unclear — these
+          may be different phases. All three agree on collapse/end in 1961. Authorial clarification of
+          the founding timeline (when did it officially come into being vs when did it expand) is needed.
+
+    assessment: "Found 4 near-duplicate/contradiction groups. Key issues: (1) Kentish ostracon reforms claim is a clean duplicate — retire 21.5 version; (2) 'Global Workshop' vs 'Workshop' period is a minor terminology inconsistency, likely the same period; (3) post-Millstone War souring with Vascony/Provence can be merged; (4) the founding timeline across 34.5, 78.5, and 190.5 needs authorial clarification to distinguish 'arose', 'established', and 'active from' phases."
+
+  - entity: "Vigo the Magnificent"
+    near_duplicate_groups:
+
+      - claims_in_group:
+          - entry: "18.5"
+            claim: "King Vigo the Magnificent is remembered primarily for leading the reconquest of Devon."
+          - entry: "63.5"
+            claim: "Vigo the Magnificent (Borlish: Vigo Ragórwyh, d. 761 N) led the reconquest of Devon from the Saxons."
+        action: merge
+        keep_entry: "63.5"
+        merged_claim: >
+          King Vigo the Magnificent (Borlish: Vigo Ragórwyh, d. 761 N) is remembered primarily for
+          leading the reconquest of Devon from the Saxons.
+        reason: >
+          Both claims state Vigo led the reconquest of Devon. Entry 63.5 is more informative, adding the
+          Borlish name, the death date, and specifying "from the Saxons." The merged claim incorporates
+          "is remembered primarily for" from 18.5, which adds useful characterisation not present in 63.5.
+
+      - claims_in_group:
+          - entry: "18.5"
+            claim: "Vigo the Magnificent married Guinnumar, daughter to King David I of Wynneth, in approximately 725."
+          - entry: "18.5"
+            claim: "Vigo the Magnificent's marriage to Guinnumar is likely what allowed him to secure Welsh assistance with the invasion."
+          - entry: "63.5"
+            claim: "In the eighth century, King Vigo the Magnificent of the Britons led a reconquest of Devon with the support of David I of Wynneth, obtained via his marriage to King David's daughter Guinnumar."
+        action: merge
+        keep_entry: "18.5"
+        merged_claim: >
+          Vigo the Magnificent married Guinnumar, daughter to King David I of Wynneth, in approximately
+          725; this marriage likely secured Welsh assistance for his reconquest of Devon.
+        reason: >
+          Entry 63.5 rolls up Vigo's marriage to Guinnumar, her parentage, and the strategic consequence
+          into a single narrative sentence, covering the same ground as two separate 18.5 claims. Retain
+          the two distinct 18.5 claims (which preserve the date ca. 725 and the interpretive hedge "likely")
+          and retire the 63.5 version of this information, since 63.5's marriage details are subsumed by
+          18.5. (The broader 63.5 narrative claim about the reconquest is handled separately below.)
+
+      - claims_in_group:
+          - entry: "18.5"
+            claim: "With the victory at Petherton, Vigo the Magnificent was crowned rex Magnæ Dumnoniæ 'King of Greater Devon'."
+          - entry: "63.5"
+            claim: "After over two decades of intermittent warfare, the victory at Petherton ended the reconquest of Devon, and Vigo the Magnificent was crowned first king of Greater Devon (rex Magnæ Dumnoniæ), uniting Devon with the region later known as Kernow in Gaul."
+        action: merge
+        keep_entry: "63.5"
+        merged_claim: >
+          After over two decades of intermittent warfare, the victory at Petherton ended the reconquest
+          of Devon, and Vigo the Magnificent was crowned rex Magnæ Dumnoniæ ('King of Greater Devon'),
+          uniting Devon with the region later known as Kernow in Gaul.
+        reason: >
+          Both claims describe the same event: the Battle of Petherton and Vigo's coronation as rex
+          Magnæ Dumnoniæ. Entry 63.5 is substantially richer, adding the duration of warfare ("over two
+          decades"), the scope of unification (Devon and Kernow), and Kernow's location in Gaul. Retain
+          63.5's full version; the 18.5 claim is subsumed.
+
+      - claims_in_group:
+          - entry: "18.5"
+            claim: "Vigo the Magnificent unified Devon with Kernow."
+          - entry: "63.5"
+            claim: "After over two decades of intermittent warfare, the victory at Petherton ended the reconquest of Devon, and Vigo the Magnificent was crowned first king of Greater Devon (rex Magnæ Dumnoniæ), uniting Devon with the region later known as Kernow in Gaul."
+        action: remove_duplicates
+        keep_entry: "63.5"
+        reason: >
+          The 18.5 claim "Vigo the Magnificent unified Devon with Kernow" is entirely subsumed by the
+          richer 63.5 claim, which states the same unification in its fuller historical context (Petherton,
+          coronation, Kernow in Gaul). Retire the 18.5 version.
+
+      - claims_in_group:
+          - entry: "18.5"
+            claim: "Vigo the Magnificent was later king of Greater Devon."
+          - entry: "18.5"
+            claim: "With the victory at Petherton, Vigo the Magnificent was crowned rex Magnæ Dumnoniæ 'King of Greater Devon'."
+          - entry: "63.5"
+            claim: "After over two decades of intermittent warfare, the victory at Petherton ended the reconquest of Devon, and Vigo the Magnificent was crowned first king of Greater Devon (rex Magnæ Dumnoniæ), uniting Devon with the region later known as Kernow in Gaul."
+        action: remove_duplicates
+        keep_entry: "63.5"
+        reason: >
+          The claim "Vigo the Magnificent was later king of Greater Devon" (18.5) is a bare statement
+          fully subsumed by the more detailed Petherton/coronation claims. It can be retired once the
+          richer Petherton claim (63.5) is kept as canonical.
+
+    assessment: "Found 5 near-duplicate groups, all between the granular 18.5 claims and the narrative 63.5 claims which recombine the same information. No outright contradictions on Vigo — dates (d. 761, accession 720, marriage ca. 725) are consistent across entries. The main work is retiring 18.5 sub-claims that are subsumed by fuller 63.5 equivalents, or vice versa where 18.5 preserves detail (dates, hedges) that 63.5 drops."
