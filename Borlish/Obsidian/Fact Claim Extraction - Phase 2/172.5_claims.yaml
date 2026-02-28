@@ -1,0 +1,44 @@
+entry: 172.5
+title: "How to spell Borlish"
+claims:
+  - category: language
+    claim: "The standard Borlish alphabet has twenty-seven letters."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "The Borlish letter w is called vescon meaning 'second-vee' and is pronounced like v; it is used in foreign words and some names."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "The Borlish ligatures æ and œ are called æsc and œthel respectively and are pronounced like e; they are primarily used in Classical loanwords."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "The Borlish character ï is called i jammel meaning 'twin i' and is pronounced like yi."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "In Borlish orthography, the letter ð is pronounced /θ/ word-finally and /ð/ otherwise; x denotes the sequence /ks/."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "In Borlish, the letter c is pronounced /ts/ before e, i, y and /k/ otherwise; g may be pronounced as either /g/ or /ʒ/ before e, i, y and is pronounced /g/ otherwise."
+    entities:
+      - name: Borlish
+        type: concept
+
+  - category: language
+    claim: "In Borlish, the consonant digraphs sc, ch, th denote /x/, /k/, /θ/ respectively; sch is read /sk/ and cq is pronounced /k/."
+    entities:
+      - name: Borlish
+        type: concept

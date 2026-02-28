@@ -1,0 +1,40 @@
+entry: 176.5
+title: "The Light that Casts a Thousand Shadows"
+claims:
+  - category: work
+    claim: "'The Light that Casts a Thousand Shadows' (Borlish: Un Flam, Mil Ombr, 2017) by Ollamec Vamncoury is a work of pop history, economics, and philosophy published by a subsidiary of the Peujon Rous media guild."
+    entities:
+      - name: "The Light that Casts a Thousand Shadows"
+        type: work
+      - name: Ollamec Vamncoury
+        type: person
+      - name: Peujon Rous
+        type: organisation
+    dates: "2017 N"
+
+  - category: terminology
+    claim: "Ubiquity is a political ideology standing for equality, universalism, and homogeneity."
+    entities:
+      - name: Ubiquity
+        type: concept
+
+  - category: terminology
+    claim: "Vicinity is a political ideology valorising liberty, localism, and diversity."
+    entities:
+      - name: Vicinity
+        type: concept
+
+  - category: organisation
+    claim: "The Runeplate Body, headquartered in Lengrod, determines the global standard for glyphs in almost all known writing systems."
+    entities:
+      - name: Runeplate Body
+        type: organisation
+      - name: Lengrod
+        type: place
+
+  - category: glossary
+    claim: "Lengrod is the Boralverse name for Lviv."
+    entities:
+      - name: Lengrod
+        irl: Lviv
+        type: place

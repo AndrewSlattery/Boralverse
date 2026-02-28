@@ -1,0 +1,86 @@
+entry: 177.5
+title: "C is for Chronology"
+claims:
+  - category: person
+    claim: "Coscatl bint Inám (fl. 1869) was a Mashick astronomer born in Moshtar; she received her further education at the University of Anawack and the nearby observatory at Chapel Hill."
+    entities:
+      - name: Coscatl bint Inám
+        type: person
+      - name: Moshtar
+        type: place
+      - name: University of Anawack
+        type: organisation
+    dates: "fl. 1869 N"
+
+  - category: glossary
+    claim: "Anawack is the Boralverse name for Mexico City."
+    entities:
+      - name: Anawack
+        irl: Mexico City
+        type: place
+
+  - category: glossary
+    claim: "Chapel Hill is the Boralverse name for Chapultepec."
+    entities:
+      - name: Chapel Hill
+        irl: Chapultepec
+        type: place
+
+  - category: glossary
+    claim: "Phares is the Boralverse term for the Galilean moons of Jupiter."
+    entities:
+      - name: phares
+        irl: Galilean moons
+        type: concept
+
+  - category: person
+    claim: "Coscatl bint Inám's calculations of the timing of the jovial phares in their transits of Jupiter helped to pin down the speed of light."
+    entities:
+      - name: Coscatl bint Inám
+        type: person
+
+  - category: place
+    claim: "Crain (Bavarn: krɑːn; Borlish: Carniol) is a region of Central Europe, east of Furlain and north of Crovatia."
+    entities:
+      - name: Crain
+        type: place
+      - name: Furlain
+        type: polity
+      - name: Crovatia
+        type: place
+
+  - category: glossary
+    claim: "Crovatia is the Boralverse name for Croatia."
+    entities:
+      - name: Crovatia
+        irl: Croatia
+        type: place
+
+  - category: event
+    claim: "During the Second Tetrarchy, Crain was a march in the southeasternmost part of the German Empire, initially autonomous but later subordinate to Bavarn; it was prosperous due to trade through its coastal city of Trieste."
+    entities:
+      - name: Crain
+        type: place
+      - name: German Empire
+        type: polity
+      - name: Bavarn
+        type: polity
+      - name: Trieste
+        type: place
+
+  - category: event
+    claim: "During the German Secession of the thirteenth century, the duchy of Crain supported the Roman Papacy and became an important Roman stronghold and the base for the Baptism of the North."
+    entities:
+      - name: Crain
+        type: place
+    dates: "13th c. N"
+
+  - category: person
+    claim: "Cuonrat Aihuosc (fl. c. 8th century, often Latinised to Corradus Aevoscus) was the dubiously historical founder of the noble house of Avosche and namesake of the region of Avosche in Willemy."
+    entities:
+      - name: Cuonrat Aihuosc
+        type: person
+      - name: Avosche
+        type: place
+      - name: Willemy
+        type: polity

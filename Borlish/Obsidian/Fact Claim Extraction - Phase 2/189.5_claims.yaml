@@ -1,0 +1,33 @@
+entry: 189.5
+title: "The Three Rs"
+claims:
+  - category: person
+    claim: "Radulf 'the Kite' (Borlish Radolf y Buttr; r. 951–) was the last English king of the rump Northumber, ruling from the castle at Edinbrough; his reign ended with Dane expansion from Yorwick, and by the turn of the millennium the entire Neck was under Dane authority."
+    entities:
+      - name: Radulf
+        type: person
+      - name: Northumber
+        type: polity
+    dates: "r. 951 N"
+
+  - category: person
+    claim: "Ricardo Ivarrachezurí (fl. 1824) was a Vascon farm theorist who was the first to record copper's ability to kill sperm, noting in 1824 that the same mechanism by which copper prevented infections also made livestock seed impotent."
+    entities:
+      - name: Ricardo Ivarrachezurí
+        type: person
+    dates: "fl. 1824 N"
+
+  - category: organisation
+    claim: "The Runeplate Body (Borlish: Corp a Runment) is a charitable organisation with multinational funding, formally established in 1942 and headquartered in the Kiewan city of Lengrod; its purpose is to compile information on world writing systems and recommend standard glyph encodings."
+    entities:
+      - name: Runeplate Body
+        type: organisation
+      - name: Lengrod
+        type: place
+    dates: "established 1942 N"
+
+  - category: language
+    claim: "The word runeplate originally referred to a sheet of metal into which the shapes of writing have been etched."
+    entities:
+      - name: runeplate
+        type: concept

@@ -1,0 +1,68 @@
+entry: 178.5
+title: "Campottonì and Gorram"
+claims:
+  - category: place
+    claim: "Campottonì is a coastal city on the southern bank of the Guittoc river, in the Nappejoquin region of New Provence; it was founded in the late seventeenth century as a Provincial staddomain intended as a major trading port."
+    entities:
+      - name: Campottonì
+        type: place
+      - name: Guittoc
+        type: place
+      - name: New Provence
+        type: polity
+    dates: "late 17th c. N"
+
+  - category: glossary
+    claim: "Guittoc is the Boralverse name for the Delaware River."
+    entities:
+      - name: Guittoc
+        irl: Delaware River
+        type: place
+
+  - category: glossary
+    claim: "Nappe is the Boralverse term for the Unami language."
+    entities:
+      - name: Nappe
+        irl: Unami
+        type: concept
+
+  - category: glossary
+    claim: "Esquanna is the Boralverse name for the Susquehanna River."
+    entities:
+      - name: Esquanna
+        irl: Susquehanna River
+        type: place
+
+  - category: event
+    claim: "In the nineteenth century, Campottonì's fortunes improved when a major shipping canal connecting the Guittoc to the Esquanna river system was dug, and surrounding marshlands were canalised and drained."
+    entities:
+      - name: Campottonì
+        type: place
+    dates: "19th c. N"
+
+  - category: culture
+    claim: "Campottonì gained a fashionable reputation during the Good Game Period and was briefly known as the 'Venice of Mendeva'."
+    entities:
+      - name: Campottonì
+        type: place
+
+  - category: place
+    claim: "Gorram is a coastal city on the northern bank of the Guittoc river in the Nappejoquin region of New Provence; its name derives from Provincial dialect gorra meaning 'goat' and gorram meaning 'herd of goats'."
+    entities:
+      - name: Gorram
+        type: place
+      - name: New Provence
+        type: polity
+
+  - category: event
+    claim: "Gorram participated in the convoy craze of the mid-nineteenth century, serving as the terminus of an arterial line to the northeast."
+    entities:
+      - name: Gorram
+        type: place
+    dates: "mid 19th c. N"
+
+  - category: terminology
+    claim: "Convoy is the Boralverse term for train or rail."
+    entities:
+      - name: convoy
+        type: concept

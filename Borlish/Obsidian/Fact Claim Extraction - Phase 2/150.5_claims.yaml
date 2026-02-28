@@ -1,0 +1,88 @@
+entry: 150.5
+title: "H is for History"
+claims:
+  - category: language
+    claim: "Hasinic Welsh (Cambroec Hasinia) is one of the primary languages of Hasiny, along with the Mendevan language of Jaughta; it is mutually intelligible with other varieties of Welsh."
+    entities:
+      - name: Hasinic Welsh
+        type: concept
+      - name: Hasiny
+        type: polity
+      - name: Jaughta
+        type: concept
+
+  - category: glossary
+    claim: "Jaughta is the Boralverse term for the Choctaw language."
+    entities:
+      - name: Jaughta
+        irl: Choctaw
+        type: concept
+
+  - category: language
+    claim: "The word herdtale is a calque of the Hasinic Welsh jadełath meaning 'herd-dom'."
+    entities:
+      - name: herdtale
+        type: concept
+
+  - category: language
+    claim: "The word sobot meaning 'radio' originates in the Jaughta word çobota meaning 'message'."
+    entities:
+      - name: sobot
+        type: concept
+      - name: Jaughta
+        type: concept
+
+  - category: organisation
+    claim: "The Hatfell Honours are prizes awarded since the early twentieth century to artists across the Drengot Collusion and, after its collapse in 1961, across Gaul and the Northwestern Isles."
+    entities:
+      - name: Hatfell Honours
+        type: organisation
+      - name: Drengot Collusion
+        type: organisation
+    dates: "early 20th c. N"
+
+  - category: organisation
+    claim: "The Hatfell Honours are named for Hatfell, a northern town in London near the border with Markland, which was home to a collective of renowned authors in the nineteenth century."
+    entities:
+      - name: Hatfell Honours
+        type: organisation
+      - name: Hatfell
+        type: place
+    dates: "19th c. N"
+
+  - category: glossary
+    claim: "Hatfell is the Boralverse name for Hatfield, Hertfordshire."
+    entities:
+      - name: Hatfell
+        irl: "Hatfield, Hertfordshire"
+        type: place
+
+  - category: person
+    claim: "In 1918, the writer Dorotha Quistack won a Hatfell Honour for one of her adolescences."
+    entities:
+      - name: Dorotha Quistack
+        type: person
+      - name: Hatfell Honours
+        type: organisation
+    dates: "1918 N"
+
+  - category: person
+    claim: "Hostilian (Borlish Stiglan; Latin Hostīliānus) was a ninth-century Borlish monk considered the father of Borlish history."
+    entities:
+      - name: Hostilian
+        type: person
+    dates: "9th c. N"
+
+  - category: work
+    claim: "Hostilian's most famous work, Historiæ Terrarum Boralensium ('Histories of the Borlish Lands'), is a semi-mythic account of five centuries of Borland since the arrival of Germanic peoples, including a continuous list of rulers from Prase Victor Rossetus."
+    entities:
+      - name: "Historiæ Terrarum Boralensium"
+        type: work
+      - name: Hostilian
+        type: person
+
+  - category: person
+    claim: "Some historiographers believe Hostilian was commissioned by the contemporary monarchy to legitimise their rule, as several rulers in his list are not attested in any other source."
+    entities:
+      - name: Hostilian
+        type: person

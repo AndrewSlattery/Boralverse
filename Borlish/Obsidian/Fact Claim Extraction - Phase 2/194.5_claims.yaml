@@ -1,0 +1,56 @@
+entry: 194.5
+title: "False Friends (cont. 3)"
+source_work: "Concise Onomatory o'Merch (fifth edition, Utcheter Lexical Association, 1961)"
+claims:
+  - category: glossary
+    claim: "Coke is the Boralverse term for carbon (the element)."
+    entities:
+      - name: coke
+        irl: carbon
+        type: concept
+
+  - category: glossary
+    claim: "Pencil-coke is the Boralverse term for graphite."
+    entities:
+      - name: pencil-coke
+        irl: graphite
+        type: concept
+
+  - category: language
+    claim: "The Merch word coke meaning 'carbon' derives from colk meaning 'apple core; heartwood; lump of coal', attested in the seventeenth century."
+    entities:
+      - name: coke
+        type: concept
+    dates: "17th c. N"
+
+  - category: language
+    claim: "The Merch word iliad means glance or ogle, especially a flirtatious one; it derives from Roun French uilliad meaning 'ogle', from uil 'eye', from Latin oculus."
+    entities:
+      - name: iliad
+        type: concept
+    dates: "16th c. N"
+
+  - category: language
+    claim: "The Merch word oakcorn means acorn; it derives from Old English æcern meaning 'oakcorn, tree-mast'."
+    entities:
+      - name: oakcorn
+        type: concept
+
+  - category: terminology
+    claim: "The Danaw deck is a regional deck of playing cards from the Danube area, with oakcorn as one of its suits."
+    entities:
+      - name: Danaw deck
+        type: concept
+
+  - category: glossary
+    claim: "Burris is the Boralverse term for clitoris."
+    entities:
+      - name: burris
+        irl: clitoris
+        type: concept
+
+  - category: language
+    claim: "The Merch word urchin means hedgehog; it derives from Drengot French irechon, from Vulgar Latin ērīciō, from Classical Latin ērīcius."
+    entities:
+      - name: urchin
+        type: concept

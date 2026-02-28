@@ -1,0 +1,47 @@
+entry: 195.5
+title: "Borland in the First Millennium"
+claims:
+  - category: event
+    claim: "Roman emperors Claudius and Hadrian personally visited Borland; Claudius orchestrated the conquests of Britain and Borland, while Hadrian's tour led to the creation of a Borlish province (Īnsula Borālum or Borālia) separate from Britain."
+    entities:
+      - name: Borland
+        type: place
+
+  - category: event
+    claim: "Diocletian's administrative reforms created the Diocese of Borland from the former Borlish province."
+    entities:
+      - name: Borland
+        type: place
+
+  - category: event
+    claim: "By the third century, Borland was more secure than Britain, having been conquered entirely, and thus required fewer fortifications against incursions."
+    entities:
+      - name: Borland
+        type: place
+
+  - category: event
+    claim: "The First Roman Empire abandoned Borland around 400 N."
+    entities:
+      - name: Borland
+        type: place
+    dates: "c. 400 N"
+
+  - category: person
+    claim: "Victor Rossetus (r. ca. 420–?) was the first ruler of a reconstituted Diocese of Borland after the island was abandoned by Rome around 400 N, while Germanic peoples were settling the west and south of the island."
+    entities:
+      - name: Victor Rossetus
+        type: person
+      - name: Borland
+        type: polity
+    dates: "r. ca. 420 N"
+
+  - category: polity
+    claim: "The Rosseð dynasty, the first royal house of the First Kingdom of Borland, claimed descent from Victor Rossetus; their genealogy only becomes historically plausible around 620 N."
+    entities:
+      - name: Rosseð dynasty
+        type: polity
+      - name: Victor Rossetus
+        type: person
+      - name: Borland
+        type: polity
+    dates: "plausible from c. 620 N"

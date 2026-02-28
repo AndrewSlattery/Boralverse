@@ -1,0 +1,103 @@
+entry: 154.5
+title: "Northumber"
+claims:
+  - category: place
+    claim: "Northumber (Borlish Norðumbr) is a polity on the east coast of Albion, bordering Markland, Dunclothe, and Scotland, with its capital at Yorwick and another major city at Edinbrough."
+    entities:
+      - name: Northumber
+        type: polity
+      - name: Yorwick
+        type: place
+      - name: Edinbrough
+        type: place
+      - name: Markland
+        type: polity
+      - name: Dunclothe
+        type: polity
+      - name: Scotland
+        type: polity
+
+  - category: glossary
+    claim: "Yorwick is the Boralverse name for York."
+    entities:
+      - name: Yorwick
+        irl: York
+        type: place
+
+  - category: glossary
+    claim: "Edinbrough is the Boralverse name for Edinburgh."
+    entities:
+      - name: Edinbrough
+        irl: Edinburgh
+        type: place
+
+  - category: polity
+    claim: "Northumber originated as a pair of English kingdoms settled through the fifth and sixth centuries."
+    entities:
+      - name: Northumber
+        type: polity
+    dates: "5th–6th c. N"
+
+  - category: event
+    claim: "From the late ninth century, Northumber was invaded and conquered by forces from Denmark and Horther; the city of Yorwick is alleged to have offered itself to Dane rule to avoid destruction."
+    entities:
+      - name: Northumber
+        type: polity
+      - name: Yorwick
+        type: place
+      - name: Denmark
+        type: polity
+      - name: Horther
+        type: polity
+    dates: "late 9th c. N"
+
+  - category: event
+    claim: "The Elved Marriage in the tenth century between a Merch princess and the king of Northumber ended direct hostilities between Northumber and Markland for nearly a century."
+    entities:
+      - name: Northumber
+        type: polity
+      - name: Markland
+        type: polity
+    dates: "10th c. N"
+
+  - category: event
+    claim: "Northumber captured the city of Edinbrough, then called Eidin, from Dunclothe in 928."
+    entities:
+      - name: Northumber
+        type: polity
+      - name: Edinbrough
+        type: place
+      - name: Dunclothe
+        type: polity
+    dates: "928 N"
+
+  - category: event
+    claim: "By the end of the tenth century, Northumber was united under Dane rule from Yorwick and became first among equals in a confederation of local Dane kingdoms including Dunclothe, Sodrick, and Dublin."
+    entities:
+      - name: Northumber
+        type: polity
+      - name: Yorwick
+        type: place
+      - name: Dunclothe
+        type: polity
+      - name: Sodrick
+        type: polity
+    dates: "late 10th c. N"
+
+  - category: event
+    claim: "In the eleventh and twelfth centuries, Northumber became the northernmost vassal of the First Drengot Empire."
+    entities:
+      - name: Northumber
+        type: polity
+      - name: First Drengot Empire
+        type: polity
+    dates: "11th–12th c. N"
+
+  - category: person
+    claim: "Wolfstan II (fl. 9th century) was the last English monarch of Northumber before it fell to Dane forces."
+    entities:
+      - name: Wolfstan II
+        type: person
+      - name: Northumber
+        type: polity
+    dates: "fl. 9th c. N"

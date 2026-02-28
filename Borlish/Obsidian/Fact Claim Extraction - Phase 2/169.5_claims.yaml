@@ -1,0 +1,78 @@
+entry: 169.5
+title: "Time for T"
+claims:
+  - category: person
+    claim: "Tewis Camigner (fl. 16th century) was a botanist from Willemy during the Revitalist period, sometimes called the father of farm theory; his writings include the first reference to the high sugar content of beet syrup."
+    entities:
+      - name: Tewis Camigner
+        type: person
+      - name: Willemy
+        type: polity
+    dates: "fl. 16th c. N"
+
+  - category: event
+    claim: "Camigner's work on beet syrup inspired the 1730s Pentrose survey, a search for a domestic alternative to sugarcane, which resulted in the braxoch, a hybrid of Silesian and Cassuvian beets with a characteristic gold colour and ancestor of almost all modern sugar beets."
+    entities:
+      - name: Tewis Camigner
+        type: person
+    dates: "1730s N"
+
+  - category: work
+    claim: "'Tightrope Walking: a Linguistic History of Borland' (1991, Ghendaline Cecchino, Edizore Università Napule; originally in Napolitan as 'Funamblisme: n'Istorio Lingual d'e Isule Bural') chronicles the Borlish language from the Roman period to the modern day."
+    entities:
+      - name: "Tightrope Walking: a Linguistic History of Borland"
+        type: work
+      - name: Ghendaline Cecchino
+        type: person
+    dates: "1991 N"
+
+  - category: place
+    claim: "Tolose is a city and region in the south of Gaul, formerly an independent polity that was a march and then a duchy, a vassal of the First Drengot Empire in the eleventh and twelfth centuries, bordering Barcelon to the south."
+    entities:
+      - name: Tolose
+        type: place
+      - name: Barcelon
+        type: polity
+      - name: First Drengot Empire
+        type: polity
+    dates: "11th–12th c. N"
+
+  - category: event
+    claim: "Tolose was conquered by Vascony from the west in the fifteenth century; Prince Mark of Tolose, heir to the Vascon throne, predeceased his father in 1453."
+    entities:
+      - name: Tolose
+        type: place
+      - name: Vascony
+        type: polity
+      - name: Mark of Tolose
+        type: person
+    dates: "15th c. N; 1453 N"
+
+  - category: event
+    claim: "In the first decade of the sixteenth century, Barcelon conquered Tolose from Vascony, and Tolose has been Barcelon territory since."
+    entities:
+      - name: Tolose
+        type: place
+      - name: Barcelon
+        type: polity
+      - name: Vascony
+        type: polity
+    dates: "early 16th c. N"
+
+  - category: place
+    claim: "Tuscany is an Italian polity on the Tyrrhene Sea, bordering Jeans, Lombardy, and Rome, with its capital at Florence; between the tenth and thirteenth centuries it was ruled by the Pisan dynasty."
+    entities:
+      - name: Tuscany
+        type: polity
+      - name: Florence
+        type: place
+    dates: "10th–13th c. N"
+
+  - category: person
+    claim: "Duchess Matilda of Tuscany (r. 1102–1146) was a renowned ruler of the Pisan dynasty of Tuscany."
+    entities:
+      - name: Matilda
+        type: person
+      - name: Tuscany
+        type: polity
+    dates: "r. 1102–1146 N"

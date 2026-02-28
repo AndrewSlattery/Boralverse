@@ -1,0 +1,64 @@
+entry: 146.5
+title: "6th Lexember - lançbal"
+claims:
+  - category: language
+    claim: "The Borlish word lançbal, meaning lineball and loosely other team sports or hot potato, was coined in the eighteenth century from lançar meaning 'throw' and bal meaning 'ball'."
+    entities:
+      - name: lançbal
+        type: concept
+    dates: "18th c. N"
+
+  - category: language
+    claim: "The Borlish word caugtrbal means kickball or football."
+    entities:
+      - name: caugtrbal
+        type: concept
+
+  - category: glossary
+    claim: "Sobot is the Boralverse term for radio."
+    entities:
+      - name: sobot
+        irl: radio
+        type: concept
+
+  - category: glossary
+    claim: "Adolescences is the Boralverse term for coming-of-age novels as a genre."
+    entities:
+      - name: adolescences
+        irl: coming-of-age novels
+        type: concept
+
+  - category: glossary
+    claim: "Deganny is the Boralverse name for Deganwy."
+    entities:
+      - name: Deganny
+        irl: Deganwy
+        type: place
+
+  - category: event
+    claim: "Sobot transmitters were invented in 1903 in a Mendevan polity."
+    entities:
+      - name: sobot
+        type: concept
+    dates: "1903 N"
+
+  - category: event
+    claim: "The painkiller known as 'Tommy pills' is zebdomaschal, first synthesised in 1932."
+    entities:
+      - name: zebdomaschal
+        type: concept
+    dates: "1932 N"
+
+  - category: event
+    claim: "A Hasiny monarch died in a convoy accident in 1950."
+    entities:
+      - name: Hasiny
+        type: polity
+    dates: "1950 N"
+
+  - category: event
+    claim: "Deganny hosted a restored steamship from 1991 to 1995."
+    entities:
+      - name: Deganny
+        type: place
+    dates: "1991–1995 N"

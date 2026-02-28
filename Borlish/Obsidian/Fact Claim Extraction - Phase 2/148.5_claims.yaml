@@ -1,0 +1,67 @@
+entry: 148.5
+title: "20th Lexember - incommorant"
+claims:
+  - category: language
+    claim: "The Borlish word incommorant means immediate, expeditious, proactive, or punctual."
+    entities:
+      - name: incommorant
+        type: concept
+
+  - category: language
+    claim: "Incommorant was borrowed in Middle Borlish from Scholastic Latin incommorāns meaning 'not lingering; not delaying'."
+    entities:
+      - name: incommorant
+        type: concept
+
+  - category: person
+    claim: "Nicolas of Avignon (fl. 1347) was a renowned Burgund architect who led the renovation and expansion of Saint Sophia's Cathedral in Stamboul, capital of the Second Roman Empire."
+    entities:
+      - name: Nicolas of Avignon
+        type: person
+      - name: Saint Sophia's Cathedral
+        type: place
+      - name: Stamboul
+        type: place
+      - name: Second Roman Empire
+        type: polity
+    dates: "fl. 1347 N"
+
+  - category: event
+    claim: "Saint Sophia's Cathedral in Stamboul collapsed during a coronation ceremony approximately three hundred years after Nicolas of Avignon's renovations, killing most of the imperial family and hundreds of others and sparking the unrest that ended the Second Roman Empire."
+    entities:
+      - name: Saint Sophia's Cathedral
+        type: place
+      - name: Second Roman Empire
+        type: polity
+      - name: Stamboul
+        type: place
+
+  - category: organisation
+    claim: "The Noccair Lyceum was established in the early 1300s in the town of Noccair as the first institute of higher learning on Borland; it initially taught the Five Romantic Arts of literature, argument, reckoning, geometry, and songcraft, with alchemy added by the end of the century."
+    entities:
+      - name: Noccair Lyceum
+        type: organisation
+      - name: Borland
+        type: place
+    dates: "early 1300s N"
+
+  - category: terminology
+    claim: "The Five Romantic Arts are the subjects of literature, argument, reckoning, geometry, and songcraft, which formed the traditional curriculum of early European universities."
+    entities:
+      - name: Five Romantic Arts
+        type: concept
+
+  - category: work
+    claim: "'The Tales of Enfield Wood' was a compendium of folk tales compiled in Kent in the late fourteenth century, usually credited to John of Yare; it contains stories of the Farmer Duke folk hero and demonstrates the growing divergence between Kentish and Merch tongues."
+    entities:
+      - name: "The Tales of Enfield Wood"
+        type: work
+      - name: John of Yare
+        type: person
+    dates: "late 14th c. N"
+
+  - category: culture
+    claim: "The Farmer Duke is a folk hero common to English-speaking peoples."
+    entities:
+      - name: Farmer Duke
+        type: person

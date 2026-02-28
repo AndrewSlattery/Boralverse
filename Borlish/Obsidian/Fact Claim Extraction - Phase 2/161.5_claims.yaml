@@ -1,0 +1,91 @@
+entry: 161.5
+title: "Dunclothe"
+claims:
+  - category: place
+    claim: "Dunclothe (Merch Dunclothe; Welsh Dincluth) is a political and cultural region of western Albion, located south of Scotland and north of Markland, extending from the Clothe river valley down along the coast to the Bay of Morcambe."
+    entities:
+      - name: Dunclothe
+        type: polity
+      - name: Scotland
+        type: polity
+      - name: Markland
+        type: polity
+
+  - category: language
+    claim: "The name Dunclothe derives from the early medieval petty kingdom known alternately as Alt Clud, Strad Clud, or Din Clud, meaning 'cliff, valley, or fort of the river Clothe' in ancient British or Guile."
+    entities:
+      - name: Dunclothe
+        type: polity
+
+  - category: event
+    claim: "Dunclothe was partially conquered by Dane invaders during the ninth century but was not subsumed into the Dane Supremacy as fully as neighbouring Sodrick and Northumber."
+    entities:
+      - name: Dunclothe
+        type: polity
+      - name: Dane Supremacy
+        type: period
+    dates: "9th c. N"
+
+  - category: event
+    claim: "Dunclothe controlled the fort at Eidin (modern Edinbrough) until it was sacked by Northumber in 928."
+    entities:
+      - name: Dunclothe
+        type: polity
+      - name: Edinbrough
+        type: place
+      - name: Northumber
+        type: polity
+    dates: "928 N"
+
+  - category: event
+    claim: "Under King Roderick, Dunclothe conquered the isles of Arran and Mann by 942."
+    entities:
+      - name: Dunclothe
+        type: polity
+      - name: Roderick
+        type: person
+    dates: "by 942 N"
+
+  - category: person
+    claim: "Atre of Cheswic, bride of King Radulf of Northumber (r. 951–), may have been a daughter of King Roderick of Dunclothe."
+    entities:
+      - name: Atre of Cheswic
+        type: person
+      - name: Radulf
+        type: person
+      - name: Roderick
+        type: person
+    relationships:
+      - type: spouse
+        from: "Atre of Cheswic"
+        to: "Radulf"
+    dates: "r. 951 N"
+
+  - category: event
+    claim: "In the early eleventh century Dunclothe was part of a confederation of Dane Kingdoms, but grew closer to Wales as an ally against the expanding First Drengot Empire."
+    entities:
+      - name: Dunclothe
+        type: polity
+      - name: Wales
+        type: polity
+      - name: First Drengot Empire
+        type: polity
+    dates: "early 11th c. N"
+
+  - category: economics
+    claim: "In the fourteenth and fifteenth centuries, Dunclothe-led fisheries in the North Atlantic were a major exporter of dried and cured cod, selling it as far afield as the Eastern Middlesea via the meshes of Borland and Vascony."
+    entities:
+      - name: Dunclothe
+        type: polity
+    dates: "14th–15th c. N"
+
+  - category: event
+    claim: "The Kingdom of Britain was founded in the fifteenth century, formalising Wales' suzerainty over the tallaths of Devon and Dunclothe."
+    entities:
+      - name: Britain
+        type: polity
+      - name: Wales
+        type: polity
+      - name: Dunclothe
+        type: polity
+    dates: "15th c. N"

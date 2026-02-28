@@ -1,0 +1,95 @@
+entry: 158.5
+title: "Roun"
+claims:
+  - category: place
+    claim: "Roun is a port on the Seine river and the capital city of Kent."
+    entities:
+      - name: Roun
+        type: place
+      - name: Kent
+        type: polity
+
+  - category: event
+    claim: "Roun was founded by the Gauls, known to the Romans as Rotomagus, and became the seat of the local bishopric in the early medieval period."
+    entities:
+      - name: Roun
+        type: place
+
+  - category: event
+    claim: "By 850 Roun was under Norman control as part of the wider Dane Supremacy."
+    entities:
+      - name: Roun
+        type: place
+      - name: Dane Supremacy
+        type: period
+    dates: "by 850 N"
+
+  - category: event
+    claim: "By the eleventh century Roun had become the seat of the Drengot family, ruling the Duchy of Normandy as a semi-autonomous vassal of the Kingdom of the Franks."
+    entities:
+      - name: Roun
+        type: place
+      - name: Drengot
+        type: polity
+    dates: "11th c. N"
+
+  - category: event
+    claim: "After the Kernovan Conjuring and the formation of the First Drengot Empire, the Drengot Emperors moved their court to Paris but continued to personally own the duchies of Normandy and Kent, beginning the persistent political union of these two regions."
+    entities:
+      - name: Roun
+        type: place
+      - name: First Drengot Empire
+        type: polity
+      - name: Normandy
+        type: polity
+      - name: Kent
+        type: polity
+
+  - category: person
+    claim: "King Vincent II of Kent (fl. mid-15th century) oversaw the expansion of the city keep of Roun; his twin sons, known as the 'Two Henries', ruled jointly after his death."
+    entities:
+      - name: Vincent II
+        type: person
+      - name: Kent
+        type: polity
+    dates: "fl. mid 15th c. N"
+
+  - category: language
+    claim: "During the period of Norman Kent, Roun French developed fully as one standard written form of the language alongside Parisian and Burgund French."
+    entities:
+      - name: Roun
+        type: place
+
+  - category: event
+    claim: "Roun was the administrative centre of the Drengot Collusion from the nineteenth century until its collapse in 1961, housing the 'Red House', the headquarters of the Collusion's Ministry for Information."
+    entities:
+      - name: Roun
+        type: place
+      - name: Drengot Collusion
+        type: organisation
+    dates: "19th c. N–1961 N"
+
+  - category: person
+    claim: "Mark Deuthex (fl. 1973) was an author whose spycraft tale 'We Wake to Broken Windows' draws on his own experiences in the Red House in Roun."
+    entities:
+      - name: Mark Deuthex
+        type: person
+      - name: "We Wake to Broken Windows"
+        type: work
+    dates: "fl. 1973 N"
+
+  - category: person
+    claim: "Josephene Foilliers (fl. 1913) was a writer whose work was the first work of fiction to sell over a million copies in a single year."
+    entities:
+      - name: Josephene Foilliers
+        type: person
+    dates: "fl. 1913 N"
+
+  - category: person
+    claim: "Ashford Pasquier (fl. 1968) invented the term 'pistol mesh' in his parachthon work 'Starsail'."
+    entities:
+      - name: Ashford Pasquier
+        type: person
+      - name: Starsail
+        type: work
+    dates: "fl. 1968 N"

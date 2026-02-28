@@ -1,0 +1,84 @@
+entry: 139.5
+title: "Monarchs of Borland"
+claims:
+  - category: person
+    claim: "Victor Rossetus 'the Red-haired' (fl. 6th c.) was the first Prase of the Boral Diocese and unified the urbanised east of Borland after the fall of the First Roman Empire."
+    entities:
+      - name: Victor Rossetus
+        type: person
+      - name: Borland
+        type: place
+    dates: "fl. 6th c. N"
+
+  - category: polity
+    claim: "By the late sixth century, the Diocese of Boral had become a monarchy retrospectively described as the First Kingdom of Borland, whose ruling dynasty claimed descent from Victor Rossetus."
+    entities:
+      - name: Borland
+        type: polity
+    dates: "late 6th c. N"
+
+  - category: person
+    claim: "Jothey, King of Borland (fl. 898), was the last ruler of the First Kingdom of Borland before it fell to the Danes in 898."
+    entities:
+      - name: Jothey of Borland
+        type: person
+      - name: Borland
+        type: polity
+    dates: "898 N"
+
+  - category: person
+    claim: "Jothey was married to Brenna of Barrow, cousin of King Roderick of Dunclothe; they fled to Southbar and then to Kent after the Danish conquest."
+    entities:
+      - name: Jothey of Borland
+        type: person
+      - name: Brenna of Barrow
+        type: person
+      - name: Roderick of Dunclothe
+        type: person
+    relationships:
+      - type: spouse
+        from: "Jothey of Borland"
+        to: "Brenna of Barrow"
+
+  - category: person
+    claim: "In the first decade of the fifteenth century, Queen Natalia I and King Joseph I ruled Borland jointly; their dynasty ended with their deaths in 1411 and 1416 after all their male heirs predeceased them."
+    entities:
+      - name: Natalia I
+        type: person
+      - name: Joseph I
+        type: person
+      - name: Borland
+        type: polity
+    dates: "1411 N; 1416 N"
+
+  - category: polity
+    claim: "From the succession crisis after Natalia I and Joseph I rose the Saulestran lineage, whose banner showed a white bar cutting a twilight-blue field; this dynasty lasted over four hundred years until the dissolution of the Borlish monarchy."
+    entities:
+      - name: Borland
+        type: polity
+
+  - category: person
+    claim: "Joseph III (d. 1534) was king of Borland who ruled through the ravages of the Second Great Dying; he was succeeded by his nephew Brandon II as he produced no natural-born heir."
+    entities:
+      - name: Joseph III
+        type: person
+      - name: Brandon II
+        type: person
+      - name: Borland
+        type: polity
+    dates: "d. 1534 N"
+    relationships:
+      - type: nephew
+        from: "Brandon II"
+        to: "Joseph III"
+
+  - category: person
+    claim: "Natalia II (abd. 1894) was the last queen of Borland before the dissolution of the monarchy; she abdicated on Revillon of 1894 during the political upheaval of Borland joining the Drengot Collusion."
+    entities:
+      - name: Natalia II
+        type: person
+      - name: Borland
+        type: polity
+      - name: Drengot Collusion
+        type: organisation
+    dates: "1894 N"

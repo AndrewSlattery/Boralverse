@@ -1,0 +1,67 @@
+entry: 156.5
+title: "Through the Ages"
+claims:
+  - category: person
+    claim: "Franco Cicala served as console of the maritime republic of Jeans from 1119 until 1122 or 1124 (records differ); he was followed intermittently by over a dozen consoli from among his descendants."
+    entities:
+      - name: Franco Cicala
+        type: person
+      - name: Jeans
+        type: polity
+    dates: "r. 1119–1122/4 N"
+
+  - category: person
+    claim: "Andrew II was a martial-minded king of Markland in the early fourteenth century who succeeded his more diplomatic uncle; he oversaw the Sack of Rexam in 1301, which reignited the on-again off-again Mallor Wars between Markland and Wales."
+    entities:
+      - name: Andrew II
+        type: person
+      - name: Markland
+        type: polity
+    dates: "fl. early 14th c. N"
+
+  - category: event
+    claim: "During the Sack of Rexam in 1301, the original medieval building at St Brigid's Abbey was razed."
+    entities:
+      - name: Sack of Rexam
+        type: event
+      - name: St Brigid's Abbey
+        type: place
+    dates: "1301 N"
+
+  - category: person
+    claim: "Dewock Barclythe (1452–1539) was Friar of Tremonnow and prime Factor of Records at Brethin House; his surviving correspondence with clergy and academics includes some of the earliest attestations of dart geometry, marking the beginnings of the unification of geometry and computation."
+    entities:
+      - name: Dewock Barclythe
+        type: person
+      - name: Brethin House
+        type: organisation
+    dates: "1452–1539 N"
+
+  - category: person
+    claim: "Lord Simon, the sixth Baron Monçating (b. 1770), was an intellectual, a notorious libertine, and an early proponent of Deviance Theology in Borland; he was of Warnine descent through his mother."
+    entities:
+      - name: Lord Simon
+        type: person
+    dates: "b. 1770 N"
+
+  - category: glossary
+    claim: "Warnine is the Boralverse term for the Guaraní language and people."
+    entities:
+      - name: Warnine
+        irl: Guaraní
+        type: concept
+
+  - category: terminology
+    claim: "The torriot is a bassoon-like wind instrument."
+    entities:
+      - name: torriot
+        type: concept
+
+  - category: work
+    claim: "'Galatheus, or the Knowledge of Good and Evil' (1930) by Marcio Dourao is a collection of short stories pastiching Greek mythology, written during the Portingale Anarchy; it was banned in Vascony and Morrack for its politics and themes of gender exploration."
+    entities:
+      - name: "Galatheus, or the Knowledge of Good and Evil"
+        type: work
+      - name: Marcio Dourao
+        type: person
+    dates: "1930 N"

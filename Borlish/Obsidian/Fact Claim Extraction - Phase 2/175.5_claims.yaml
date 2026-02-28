@@ -1,0 +1,68 @@
+entry: 175.5
+title: "Stillian"
+claims:
+  - category: person
+    claim: "Stillian of Borland (Borlish Stiglan; r. ca. 790–823) was king of Roman Borland in the late eighth and early ninth centuries."
+    entities:
+      - name: Stillian
+        type: person
+      - name: Borland
+        type: polity
+    dates: "r. ca. 790–823 N"
+
+  - category: language
+    claim: "The name Stillian descends from Latin Hostīliānus, which was also the name of a Roman emperor who ruled briefly in 251 N."
+    entities:
+      - name: Stillian
+        type: person
+    dates: "251 N (Roman emperor)"
+
+  - category: polity
+    claim: "The First Kingdom of Borland grew out of the sub-Roman Diocese of Boral in the early medieval period, becoming a monarchy in tandem with the new petty kingdoms settled by Germanic peoples in the west and south of the island."
+    entities:
+      - name: Borland
+        type: polity
+
+  - category: event
+    claim: "Stillian is remembered for ending the Tripartite Wars and unifying Borland under one polity for the first time since the Roman Empire."
+    entities:
+      - name: Stillian
+        type: person
+      - name: Borland
+        type: polity
+
+  - category: period
+    claim: "The Tripartite Wars were a centuries-long series of conflicts principally between Roman Borland, Southbar, and Angland over territory and fealty."
+    entities:
+      - name: Tripartite Wars
+        type: period
+      - name: Borland
+        type: polity
+      - name: Southbar
+        type: polity
+      - name: Angland
+        type: polity
+
+  - category: event
+    claim: "In 803, Stillian's son Marc was married to the only child of Alfegh of Angland (recorded as Raunilt or Raunvig, from Old English hræfn 'raven'), uniting the two royal dynasties."
+    entities:
+      - name: Marc
+        type: person
+      - name: Stillian
+        type: person
+      - name: Alfegh of Angland
+        type: person
+    relationships:
+      - type: parent
+        from: "Stillian"
+        to: "Marc"
+    dates: "803 N"
+
+  - category: event
+    claim: "Approximately seven years after the unification of Borland and Angland, Southbar was forced to pledge fealty to the new unified kingdom after the Battle of Fendal."
+    entities:
+      - name: Southbar
+        type: polity
+      - name: Battle of Fendal
+        type: event
+    dates: "c. 810 N"

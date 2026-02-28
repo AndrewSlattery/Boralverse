@@ -1,0 +1,85 @@
+entry: 144.5
+title: "Mashick"
+claims:
+  - category: place
+    claim: "Mashick is the largest polity in Mendeva by land area."
+    entities:
+      - name: Mashick
+        type: polity
+      - name: Mendeva
+        type: place
+
+  - category: economics
+    claim: "The Morrack New World Company established trading relations with Mashick in the late fifteenth century, through which crops including tashban and shockle spread to the Old World."
+    entities:
+      - name: Morrack New World Company
+        type: organisation
+      - name: Mashick
+        type: polity
+    dates: "late 15th c. N"
+
+  - category: event
+    claim: "Mashick explored the Ax region and controlled the Arcabil islands."
+    entities:
+      - name: Mashick
+        type: polity
+      - name: Arcabil
+        type: place
+
+  - category: culture
+    claim: "Mashick was a hotbed of Ubiquity philosophy in the nineteenth century."
+    entities:
+      - name: Mashick
+        type: polity
+    dates: "19th c. N"
+
+  - category: event
+    claim: "The Lovac Wars of the 1920s and 1930s saw the first major bombing of civilians, including the city of Moshtar."
+    entities:
+      - name: Lovac Wars
+        type: event
+      - name: Mashick
+        type: polity
+      - name: Moshtar
+        type: place
+    dates: "1920s–1930s N"
+
+  - category: person
+    claim: "Mollam Bushta was a composer associated with the torriot instrument."
+    entities:
+      - name: Mollam Bushta
+        type: person
+
+  - category: person
+    claim: "Yollamaniza Elcabir (fl. 1943) was a Mashick spy and author."
+    entities:
+      - name: Yollamaniza Elcabir
+        type: person
+      - name: Mashick
+        type: polity
+    dates: "fl. 1943 N"
+
+  - category: person
+    claim: "Tazim Gennun (fl. 1823) wrote 'The Witch of Tebjacka'."
+    entities:
+      - name: Tazim Gennun
+        type: person
+      - name: "The Witch of Tebjacka"
+        type: work
+    dates: "fl. 1823 N"
+
+  - category: person
+    claim: "Sólin Izcoál (fl. 18th century) produced the first scientific account of evolution and coined the terms 'Iscovalian variation' and 'living web'."
+    entities:
+      - name: Sólin Izcoál
+        type: person
+    dates: "fl. 18th c. N"
+
+  - category: person
+    claim: "Poshack Nerwaman (fl. 1848) was a lady explorer from Mashick."
+    entities:
+      - name: Poshack Nerwaman
+        type: person
+      - name: Mashick
+        type: polity
+    dates: "fl. 1848 N"

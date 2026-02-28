@@ -1,0 +1,40 @@
+entry: 159.5
+title: "Cambrick Codices"
+claims:
+  - category: work
+    claim: "'Children of the Battle of Rexam' (1931) by Jon Paldreth is a fictionalised account of the orphaned children of the Duke of Chester in the decades following his death at the 1483 Battle of Rexam; the eldest child was briefly a hostage of the then-prince Andrew of Markland."
+    entities:
+      - name: "Children of the Battle of Rexam"
+        type: work
+      - name: Jon Paldreth
+        type: person
+    dates: "1931 N"
+
+  - category: work
+    claim: "'Children of the Battle of Rexam' was published in Welsh as 'Pa Ðywdan y Plant Car Vantel' meaning 'What the Children of Rexam Said', and released in Merch as 'Chulder oth Feight at Rexam'."
+    entities:
+      - name: "Children of the Battle of Rexam"
+        type: work
+
+  - category: work
+    claim: "'The Grimmer Hall' (1999) by Cai Sonquo, written during his tenure at the University of Mehannin, is a scholastic reference on developments in early methodics, covering algorithms from antiquity through to the grimmer halls of the early twentieth century."
+    entities:
+      - name: "The Grimmer Hall"
+        type: work
+      - name: Cai Sonquo
+        type: person
+      - name: University of Mehannin
+        type: organisation
+    dates: "1999 N"
+
+  - category: work
+    claim: "'The Grimmer Hall' was originally published in Welsh as 'Łis y Grimrageð', meaning 'The Computing-Women's Hall'."
+    entities:
+      - name: "The Grimmer Hall"
+        type: work
+
+  - category: terminology
+    claim: "A grimmer hall was a room of many people, usually women, performing calculations longhand in the early twentieth century."
+    entities:
+      - name: grimmer hall
+        type: concept

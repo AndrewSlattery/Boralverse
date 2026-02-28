@@ -1,0 +1,124 @@
+entry: 141.5
+title: "Provence"
+claims:
+  - category: place
+    claim: "Provence is a polity in the south of Gaul on the Middlesea coast, first independent in 1499, with its capital city at Marsella."
+    entities:
+      - name: Provence
+        type: polity
+      - name: Marsella
+        type: place
+    dates: "1499 N"
+
+  - category: glossary
+    claim: "Marsella is the Boralverse name for Marseille."
+    entities:
+      - name: Marsella
+        irl: Marseille
+        type: place
+
+  - category: language
+    claim: "The name Provence descends directly from Latin Provincia Romana, as it was the first Roman province established on the Gaulish side of the Alps."
+    entities:
+      - name: Provence
+        type: polity
+
+  - category: language
+    claim: "The Doccian language derives its name from the lengas d'oc (Southern French languages), in contrast to the lengas d'oil (Northern French, including Roun and Paris French)."
+    entities:
+      - name: Doccian
+        type: concept
+
+  - category: glossary
+    claim: "Roun is the Boralverse name for Rouen."
+    entities:
+      - name: Roun
+        irl: Rouen
+        type: place
+
+  - category: event
+    claim: "Medieval Provence was incorporated into the Francian Empire in the sixth century and remained part of its western fragment after the empire was divided in the ninth century."
+    entities:
+      - name: Provence
+        type: polity
+      - name: Franks
+        type: polity
+    dates: "6th c. N; 9th c. N"
+
+  - category: event
+    claim: "Provence was elevated to a duchy in the thirteenth century under the house of Savoy, becoming known as the 'Burgund breadbasket'."
+    entities:
+      - name: Provence
+        type: polity
+      - name: Burgundy
+        type: polity
+    dates: "13th c. N"
+
+  - category: event
+    claim: "Provence was conquered by Vascony during the Vascon Ascendancy and returned to Burgundy in 1494 during the reign of Ambrose III."
+    entities:
+      - name: Provence
+        type: polity
+      - name: Vascony
+        type: polity
+      - name: Burgundy
+        type: polity
+      - name: Ambrose III
+        type: person
+    dates: "1494 N"
+
+  - category: event
+    claim: "On 21 June 1497, Daniel Menton (Lord Amigòt) led the local aristocracy in declaring independence from Burgundy; the War of Provincial Independence lasted two years until Burgundy's defeat at the Battle of Margès."
+    entities:
+      - name: Daniel Menton
+        type: person
+      - name: Burgundy
+        type: polity
+      - name: Provence
+        type: polity
+    dates: "21 June 1497 N; 1499 N"
+
+  - category: person
+    claim: "Daniel Menton led the new Provençal republic for eighteen years; his successor and cousin Antoin ruled for only three years before the Second Great Dying ravaged the Amigòt dynasty."
+    entities:
+      - name: Daniel Menton
+        type: person
+      - name: Antoin
+        type: person
+      - name: Guillen daus Sanz
+        type: person
+    relationships:
+      - type: cousin
+        from: "Antoin"
+        to: "Daniel Menton"
+
+  - category: economics
+    claim: "By the end of the sixteenth century, Provence's trade network reached across the Atlantic to port towns in Mendeva like the newly-established Santrafew, which would eventually coalesce into New Provence."
+    entities:
+      - name: Provence
+        type: polity
+      - name: Santrafew
+        type: place
+      - name: New Provence
+        type: polity
+    dates: "late 16th c. N"
+
+  - category: event
+    claim: "By the end of the nineteenth century, New Provence's power had eclipsed that of Provence, and Provence became in many respects a European outpost of New Provence."
+    entities:
+      - name: Provence
+        type: polity
+      - name: New Provence
+        type: polity
+    dates: "late 19th c. N"
+
+  - category: event
+    claim: "Provence stood with Vascony as a bulwark against Drengot hegemony until the Furore of 1961 and the collapse of the Drengot Collusion."
+    entities:
+      - name: Provence
+        type: polity
+      - name: Vascony
+        type: polity
+      - name: Drengot Collusion
+        type: organisation
+    dates: "1961 N"

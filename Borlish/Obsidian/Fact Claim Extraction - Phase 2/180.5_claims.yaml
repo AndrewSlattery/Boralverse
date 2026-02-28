@@ -1,0 +1,61 @@
+entry: 180.5
+title: "19th Century Novels"
+claims:
+  - category: work
+    claim: "'The Red Man' (originally in Bulgar as Мaжaт вЧервено 'The Man in Red') is a fright tale by Petcov written in Sreddies in the 1830s, set in the aftermath of the Second German War; it codified many vampire tropes including fire, blood, and butterflies."
+    entities:
+      - name: "The Red Man"
+        type: work
+      - name: Petcov
+        type: person
+      - name: Sreddies
+        type: place
+    dates: "1830s N"
+
+  - category: glossary
+    claim: "Sreddies is the Boralverse name for Sofia."
+    entities:
+      - name: Sreddies
+        irl: Sofia
+        type: place
+
+  - category: glossary
+    claim: "Stamboul is the Boralverse name for Istanbul."
+    entities:
+      - name: Stamboul
+        irl: Istanbul
+        type: place
+
+  - category: work
+    claim: "'Rasgatto' (originally in Zahid Russian as Разгадто 'Unknotting') is a mystery romance of the 1870s by Olexi Harchenko, set in Boxa; its title was borrowed into Venise Italian to mean 'resolution of a mystery' and eventually 'dénouement', spreading to many European languages."
+    entities:
+      - name: Rasgatto
+        type: work
+      - name: Olexi Harchenko
+        type: person
+    dates: "1870s N"
+
+  - category: work
+    claim: "'Flaxen Hearts' (originally in Mostara as Querdos Llineros 'Flaxen Hearts') (1919) by Judeta Barracin is a sensation trevold in the social comedy genre, set in early-nineteenth-century Cordova."
+    entities:
+      - name: "Flaxen Hearts"
+        type: work
+      - name: Judeta Barracin
+        type: person
+    dates: "1919 N"
+
+  - category: glossary
+    claim: "Cordova is the Boralverse name for Cordoba."
+    entities:
+      - name: Cordova
+        irl: Cordoba
+        type: place
+
+  - category: work
+    claim: "'Earthly Scene' (originally in Vascon as Vista Terrena 'Landscape') (1809) by Antòin Herrel was banned for obscenity in Vascony; Herrel fled to Portsmouth where he published it in Kentish under the name Tony Smith; the original manuscript was published in 1870."
+    entities:
+      - name: "Earthly Scene"
+        type: work
+      - name: Antòin Herrel
+        type: person
+    dates: "1809 N; original ms. published 1870 N"

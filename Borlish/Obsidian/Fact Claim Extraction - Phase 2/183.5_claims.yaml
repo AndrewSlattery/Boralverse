@@ -1,0 +1,79 @@
+entry: 183.5
+title: "Defining the Dime"
+source_work: "Pa's Hyd Raf? / How Long is a Piece of String? (Łew ab Ennis, 2026, mesh)"
+claims:
+  - category: terminology
+    claim: "The dime second was originally defined as 1/86,400 of the mean solar day; the Secular Second Undertaking redefined it as 1/31,556,926 of the tropical year from summer solstice 1900 to that of 1901."
+    entities:
+      - name: dime measures
+        type: concept
+      - name: Secular Second Undertaking
+        type: organisation
+    dates: "defined from 1900–1901 N"
+
+  - category: terminology
+    claim: "The dime length units are: inch, foot (10 inches), chain (100 feet), and league (100 chains); units of area and volume are defined by squares and cubes of base lengths."
+    entities:
+      - name: dime measures
+        type: concept
+
+  - category: terminology
+    claim: "The farthing is a dime unit of area equal to a square chain, formerly defined as one quarter of an acre."
+    entities:
+      - name: farthing
+        type: concept
+
+  - category: glossary
+    claim: "Iron-baxon is the Boralverse term for nickel."
+    entities:
+      - name: iron-baxon
+        irl: nickel
+        type: concept
+
+  - category: glossary
+    claim: "Tammombay is the Boralverse name for Mumbai."
+    entities:
+      - name: Tammombay
+        irl: Mumbai
+        type: place
+
+  - category: event
+    claim: "In the early twentieth century, the foot was officially defined as the length of a particular rod of iron-baxon alloy kept in Tammombay; in 1946 it was redefined so that the normal speed equals precisely ten great leagues per second."
+    entities:
+      - name: dime measures
+        type: concept
+    dates: "1946 N"
+
+  - category: glossary
+    claim: "Cadence is the Boralverse term for frequency (in physics)."
+    entities:
+      - name: cadence
+        irl: frequency
+        type: concept
+
+  - category: glossary
+    claim: "Threshold point is the Boralverse term for triple point."
+    entities:
+      - name: threshold point
+        irl: triple point
+        type: concept
+
+  - category: terminology
+    claim: "The dime ounce was originally defined as the mass of a cube of distilled water of side one dime inch at its threshold point."
+    entities:
+      - name: dime measures
+        type: concept
+
+  - category: glossary
+    claim: "Joracker is the Boralverse term for platinum."
+    entities:
+      - name: joracker
+        irl: platinum
+        type: concept
+
+  - category: event
+    claim: "By the 1920s the tabre was fixed to a particular joracker alloy puck weighing one tabre."
+    entities:
+      - name: tabre
+        type: concept
+    dates: "1920s N"

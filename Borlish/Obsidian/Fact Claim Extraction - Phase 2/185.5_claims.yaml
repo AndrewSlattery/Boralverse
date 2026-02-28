@@ -1,0 +1,46 @@
+entry: 185.5
+title: "England"
+claims:
+  - category: place
+    claim: "England (Merch: England; Norman: Engleterre; Welsh: Łoegr; Borlish: Larry) is a loosely demarcated region of Albion; politically it comprises Northumber, Markland, London, and (Albic) Kent."
+    entities:
+      - name: England
+        type: place
+
+  - category: glossary
+    claim: "Larry is the Boralverse Borlish name for England."
+    entities:
+      - name: Larry
+        irl: England
+        type: place
+
+  - category: language
+    claim: "There are four English languages spoken on Albion: Northumber, Wessern, Kentish, and Merch, in order of number of speakers; the name England in most languages derives from Medieval Latin Anglonia, from Angli meaning 'Angles'."
+    entities:
+      - name: England
+        type: place
+
+  - category: language
+    claim: "Merch is the most widely spoken English language, official in both Markland and London; the London standard did not participate in the 1870 orthographic reforms."
+    entities:
+      - name: Merch
+        type: concept
+      - name: Markland
+        type: polity
+    dates: "1870 N (reforms)"
+
+  - category: language
+    claim: "Kentish is one of the two languages of Kent, alongside Norman; it has had significantly more French influence than other English languages over the past millennium and is the only English language within the 'roral ambit', featuring a uvular rhotic."
+    entities:
+      - name: Kentish
+        type: concept
+      - name: Kent
+        type: polity
+
+  - category: language
+    claim: "Wessern is the English language of eastern Devon and the downstream Severn in Britain; it features geminate consonants, simplified coda clusters, and fricative voicing between vowels and at the start of words."
+    entities:
+      - name: Wessern
+        type: concept
+      - name: Britain
+        type: polity

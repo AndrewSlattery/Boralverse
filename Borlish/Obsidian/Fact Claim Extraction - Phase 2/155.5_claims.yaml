@@ -1,0 +1,67 @@
+entry: 155.5
+title: "Everywhere and Everything"
+source_work: "Everywhere and Everything: the Third Millenium (Jallondes y Jallisca: la Terça Milada, 2000)"
+claims:
+  - category: work
+    claim: "'Everywhere and Everything: the Third Millenium' (2000) is a popular nonfiction work by Justino Silvera, originally written in Leon as 'Jallondes y Jallisca: la Terça Milada', purporting to contain two thousand pieces of unusual trivia about the world."
+    entities:
+      - name: "Everywhere and Everything: the Third Millenium"
+        type: work
+      - name: Justino Silvera
+        type: person
+    dates: "2000 N"
+
+  - category: glossary
+    claim: "Threshold force mill is the Boralverse term for nuclear power plant."
+    entities:
+      - name: threshold force mill
+        irl: nuclear power plant
+        type: concept
+
+  - category: glossary
+    claim: "Groin is the Boralverse name for A Coruña."
+    entities:
+      - name: Groin
+        irl: "A Coruña"
+        type: place
+
+  - category: glossary
+    claim: "Waduz is the Boralverse name for Vaduz."
+    entities:
+      - name: Waduz
+        irl: Vaduz
+        type: place
+
+  - category: religion
+    claim: "Due to the region's janual religious history, the archbishop of Waduz is the only Christian official who can vote as a cardinal in conclaves for electing both the Augsburgher and Roman Popes."
+    entities:
+      - name: Waduz
+        type: place
+      - name: Bavarn
+        type: polity
+
+  - category: terminology
+    claim: "The tabre unit of heft, equal to one hundred dime ounces, was first introduced in its modern form in the 1820s with the rest of the dime system."
+    entities:
+      - name: tabre
+        type: concept
+    dates: "1820s N"
+
+  - category: glossary
+    claim: "Madray is the Boralverse name for Madurai."
+    entities:
+      - name: Madray
+        irl: Madurai
+        type: place
+
+  - category: event
+    claim: "The Draconic Age ended abruptly sixty-six hundred myriad years ago when a cisjovial sax over three leagues across struck the Earth."
+    entities:
+      - name: Draconic Age
+        type: period
+
+  - category: terminology
+    claim: "A cisjovial sax is an asteroid whose orbit lies within that of Jupiter."
+    entities:
+      - name: cisjovial sax
+        type: concept

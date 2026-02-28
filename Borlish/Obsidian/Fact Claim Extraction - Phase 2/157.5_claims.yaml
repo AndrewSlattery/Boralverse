@@ -1,0 +1,90 @@
+entry: 157.5
+title: "Painkiller Philology"
+claims:
+  - category: glossary
+    claim: "Hebetant is the Boralverse term for painkilling (as an adjective) or painkiller (as a noun)."
+    entities:
+      - name: hebetant
+        irl: painkiller
+        type: concept
+
+  - category: glossary
+    claim: "Adversions is the Boralverse term for side effects (of medicine)."
+    entities:
+      - name: adversions
+        irl: side effects
+        type: concept
+
+  - category: glossary
+    claim: "Benjamine is the Boralverse term for benzene."
+    entities:
+      - name: benjamine
+        irl: benzene
+        type: concept
+
+  - category: language
+    claim: "The word benjamine, meaning benzene, was borrowed via Scholastic Latin and Vascon from Arabic lubān jāwiyy meaning 'Jawan frankincense', corrupted at some point by the name Benjamin."
+    entities:
+      - name: benjamine
+        type: concept
+
+  - category: glossary
+    claim: "Jawan is the Boralverse term for Javanese."
+    entities:
+      - name: Jawan
+        irl: Javanese
+        type: concept
+
+  - category: glossary
+    claim: "Cozebdone branch is the Boralverse term for isobutyl."
+    entities:
+      - name: cozebdone branch
+        irl: isobutyl
+        type: concept
+
+  - category: glossary
+    claim: "Cozebdone spirit is the Boralverse term for isobutane."
+    entities:
+      - name: cozebdone spirit
+        irl: isobutane
+        type: concept
+
+  - category: glossary
+    claim: "Zebdone spirit is the Boralverse term for butane."
+    entities:
+      - name: zebdone spirit
+        irl: butane
+        type: concept
+
+  - category: glossary
+    claim: "Zebdone acid is the Boralverse term for butyric acid."
+    entities:
+      - name: zebdone acid
+        irl: butyric acid
+        type: concept
+
+  - category: language
+    claim: "The prefix zebdo- meaning 'four carbon atoms' derives from Cairene Arabic zébda meaning 'butter', first used when zebdone acid was isolated from milk fat."
+    entities:
+      - name: zebdone acid
+        type: concept
+
+  - category: glossary
+    claim: "Rimack is the Boralverse name for Lima."
+    entities:
+      - name: Rimack
+        irl: Lima
+        type: place
+
+  - category: event
+    claim: "Cozebdo-diamaschal benjamine was first synthesised in 1932 as a result of collaboration between the Branwen Sanatory in New Leudong and the University of Rimack in Tavancy; a decade later it had surpassed salix derivatives in sales worldwide."
+    entities:
+      - name: cozebdo-diamaschal benjamine
+        type: concept
+      - name: Branwen Sanatory
+        type: organisation
+      - name: University of Rimack
+        type: organisation
+      - name: Tavancy
+        type: polity
+    dates: "1932 N"

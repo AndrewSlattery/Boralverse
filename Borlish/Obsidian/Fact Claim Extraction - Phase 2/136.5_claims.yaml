@@ -1,0 +1,201 @@
+entry: 136.5
+title: "The Novomund (briefly)"
+claims:
+  - category: terminology
+    claim: "The term Novomund for the great landmasses of the western hemisphere is attested from the early sixteenth century, reflecting a univerbation of Latin novus mundus 'new world'."
+    entities:
+      - name: Novomund
+        type: place
+    dates: "early 16th c. N"
+
+  - category: language
+    claim: "The name Mendeva was formed backwards from Latin Mendevalēnsis 'from Mendeva,' appearing already on maps made during the 1471 Landfall, and derives from Vask mendeval 'west.'"
+    entities:
+      - name: Mendeva
+        type: place
+    dates: "1471 N"
+
+  - category: glossary
+    claim: "Lovaqua is the Boralverse name for the Pacific Ocean."
+    entities:
+      - name: Lovaqua
+        irl: Pacific Ocean
+        type: place
+
+  - category: place
+    claim: "Ambrosia is a Vascony-settled polity in NE Mendeva named for King Ambrose III of Vascony."
+    entities:
+      - name: Ambrosia
+        type: polity
+      - name: Ambrose III
+        type: person
+
+  - category: place
+    claim: "Zangathy is a landlocked polity occupying the upriver Bahassassin directly west of the Five Seas. Its name reflects Daccotan zaŋathi 'flint region'."
+    entities:
+      - name: Zangathy
+        type: polity
+
+  - category: glossary
+    claim: "Zangathy is approximately the Boralverse name for the region comprising the Dakotas, Minnesota, Iowa, Wisconsin, Winnipeg, and Ontario."
+    entities:
+      - name: Zangathy
+        irl: "Dakotas, Minnesota, Iowa, Wisconsin, Winnipeg, Ontario"
+        type: polity
+
+  - category: glossary
+    claim: "Daccotan is the Boralverse name for the Dakota language/people."
+    entities:
+      - name: Daccotan
+        irl: Dakota
+        type: concept
+
+  - category: glossary
+    claim: "The Five Seas is the Boralverse term for the Great Lakes."
+    entities:
+      - name: Five Seas
+        irl: Great Lakes
+        type: place
+
+  - category: place
+    claim: "New Provence is a coastal polity extending westward to the Sturgovan Mountains, growing from trading posts established by Provence merchants."
+    entities:
+      - name: New Provence
+        type: polity
+      - name: Sturgovan Mountains
+        type: place
+
+  - category: glossary
+    claim: "New Provence is approximately the Boralverse name for New England, New York, and south as far as South Carolina."
+    entities:
+      - name: New Provence
+        irl: "New England, New York, and south to South Carolina"
+        type: polity
+
+  - category: glossary
+    claim: "Hasiny is approximately the Boralverse name for the region comprising Louisiana, Texas, Mississippi, Arkansas, and Oklahoma."
+    entities:
+      - name: Hasiny
+        irl: "Louisiana, Texas, Mississippi, Arkansas, Oklahoma"
+        type: polity
+
+  - category: language
+    claim: "Hasiny takes its name from the Ractish name Hasíne 'our people' for one of the nations the modern polity is descended from."
+    entities:
+      - name: Hasiny
+        type: polity
+
+  - category: glossary
+    claim: "Ractish is the Boralverse name for the Caddo language/people."
+    entities:
+      - name: Ractish
+        irl: Caddo
+        type: concept
+
+  - category: place
+    claim: "Taisha is a minor polity of Gulf Mendeva at the crossroads of British and Morrack influences; its name comes via Arabic Tayisha' from Ractish taísha' 'welcome'."
+    entities:
+      - name: Taisha
+        type: polity
+
+  - category: glossary
+    claim: "Taisha is approximately the Boralverse name for the Texas/Coahuila region."
+    entities:
+      - name: Taisha
+        irl: "Texas, Coahuila"
+        type: polity
+
+  - category: place
+    claim: "Mivock is a minor coastal polity on the Lovaqua known for its congenial climate; its name reflects the name miwoc of local Mendevan peoples."
+    entities:
+      - name: Mivock
+        type: polity
+
+  - category: glossary
+    claim: "Mivock is approximately the Boralverse name for northern California."
+    entities:
+      - name: Mivock
+        irl: northern California
+        type: polity
+
+  - category: place
+    claim: "Mashick is the largest polity in Lower Mendeva, descended from the Mashick (Aztec) Empire with heavy Morrack influence; its name derives via Arabic from Nawat meshi'ca' 'Mashick people'."
+    entities:
+      - name: Mashick
+        type: polity
+
+  - category: glossary
+    claim: "Nawat is the Boralverse name for Nahuatl."
+    entities:
+      - name: Nawat
+        irl: Nahuatl
+        type: concept
+
+  - category: glossary
+    claim: "Cocain is approximately the Boralverse name for Cuba."
+    entities:
+      - name: Cocain
+        irl: Cuba
+        type: place
+
+  - category: language
+    claim: "Cocain is the largest of the Arcabil islands; its name comes from the European folk tradition of a 'land of plenty' (compare pays de Cocaigne)."
+    entities:
+      - name: Cocain
+        type: place
+
+  - category: glossary
+    claim: "Cappatia is the Boralverse name for South America."
+    entities:
+      - name: Cappatia
+        irl: South America
+        type: place
+
+  - category: language
+    claim: "The name Cappatia comes from Latin Cappātia, via Arabic from Run'allo cappacha 'this world'."
+    entities:
+      - name: Cappatia
+        type: place
+
+  - category: glossary
+    claim: "Run'allo is the Boralverse name for Quechua."
+    entities:
+      - name: Run'allo
+        irl: Quechua
+        type: concept
+
+  - category: place
+    claim: "Tavancy is a major polity on the western coast of Cappatia, descended from the Tavancine (Inca) Empire; its name comes from Latin imperium tavantīnum, from Run'allo tawantin-suyu 'the quartet of provinces'."
+    entities:
+      - name: Tavancy
+        type: polity
+
+  - category: glossary
+    claim: "Tavancy is approximately the Boralverse name for the region comprising Colombia, Ecuador, Peru, Bolivia, and northern Chile."
+    entities:
+      - name: Tavancy
+        irl: "Colombia, Ecuador, Peru, Bolivia, northern Chile"
+        type: polity
+
+  - category: glossary
+    claim: "Tavancine is the Boralverse name for Inca (people/empire)."
+    entities:
+      - name: Tavancine
+        irl: Inca
+        type: concept
+
+  - category: place
+    claim: "Dowahine is a minor polity at the southern tip of Cappatia, named from the Arabic word for 'smoke' after smoke-towers sighted there by Captain al-Casmi in 1513."
+    entities:
+      - name: Dowahine
+        type: polity
+      - name: Fredun al-Casmi
+        type: person
+    dates: "1513 N"
+
+  - category: glossary
+    claim: "Dowahine is approximately the Boralverse name for southern Patagonia and Tierra del Fuego."
+    entities:
+      - name: Dowahine
+        irl: "southern Patagonia, Tierra del Fuego"
+        type: polity

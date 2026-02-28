@@ -1,0 +1,58 @@
+entry: 160.5
+title: "Diversions and Dilettantes"
+claims:
+  - category: person
+    claim: "Diana Theodora Queiroz (fl. 1810) was a writer and polemicist from Vascony, active during the Long Peace; she was a major figure in opposition to Deviance theology, an ally of the Modest Arrangement, and a precursor to the Blue Marian movement."
+    entities:
+      - name: Diana Theodora Queiroz
+        type: person
+      - name: Vascony
+        type: polity
+    dates: "fl. 1810 N"
+
+  - category: culture
+    claim: "The Blue Marian movement sought to advance the status of women within a highly religious and stratified framework."
+    entities:
+      - name: Blue Marian
+        type: concept
+
+  - category: terminology
+    claim: "The Merch and English number terms ace, duce, trey, cater, cink, sice, sept, hute, nuve, and dice (meaning one through ten) were borrowed from Norman during the First Drengot Empire in the early second millennium."
+    entities:
+      - name: First Drengot Empire
+        type: polity
+    dates: "early 2nd millennium N"
+
+  - category: terminology
+    claim: "A dice is a value or score of ten in a game or sport; in lineball the maximum points scorable at once is ten, and the word dice appears in idioms meaning sudden good fortune or an impressive feat."
+    entities:
+      - name: dice
+        type: concept
+
+  - category: event
+    claim: "Dimus (the larger moon of Mars) and Phobus were discovered in 1869 by Mashick astronomer Coscatl bint Inám, who named them after the twin sons of Mars personifying dread and panic respectively."
+    entities:
+      - name: Coscatl bint Inám
+        type: person
+      - name: Dimus
+        type: concept
+      - name: Phobus
+        type: concept
+    dates: "1869 N"
+
+  - category: person
+    claim: "Dion Becolla (fl. 1968) was a Borlish author who grew up in the industrial city of Neuvort and wrote trevolds capitalising on the General Italian Fervour of the 1960s."
+    entities:
+      - name: Dion Becolla
+        type: person
+      - name: Neuvort
+        type: place
+    dates: "fl. 1968 N"
+
+  - category: work
+    claim: "Dion Becolla's most famous work is 'Waging World Peace' (Borlish: Paç Mondial Accommettent), a period piece set during the 1880s Good Game period in the masquira genre."
+    entities:
+      - name: "Waging World Peace"
+        type: work
+      - name: Dion Becolla
+        type: person

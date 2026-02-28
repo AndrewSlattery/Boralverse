@@ -1,0 +1,45 @@
+entry: 137.5
+title: "The Dangers of DHMO"
+claims:
+  - category: language
+    claim: "Merch is the most widely-spoken language in the polity of Markland."
+    entities:
+      - name: Merch
+        type: concept
+      - name: Markland
+        type: polity
+
+  - category: language
+    claim: "Merch lacks the 'three-letter rule' of IRL English, so function words like al, ar and dy can be very short."
+    entities:
+      - name: Merch
+        type: concept
+
+  - category: language
+    claim: "Merch has less French influence than IRL English, while Kentish has somewhat more, due to the incomplete replacement of the English nobility during the First Drengot Empire period."
+    entities:
+      - name: Merch
+        type: concept
+      - name: Kentish
+        type: concept
+      - name: First Drengot Empire
+        type: polity
+
+  - category: terminology
+    claim: "In Merch, leigh (< Old English lēag) means 'any hydroxide substance,' having been generalised from the original sense of 'lye; potassium/sodium hydroxide'."
+    entities:
+      - name: leigh
+        type: concept
+
+  - category: glossary
+    claim: "Aquifex is the Boralverse term for hydrogen."
+    entities:
+      - name: aquifex
+        irl: hydrogen
+        type: concept
+
+  - category: language
+    claim: "Aquifex is a Scholastic Latin coinage meaning 'water-maker' used as the Boralverse term for hydrogen."
+    entities:
+      - name: aquifex
+        type: concept

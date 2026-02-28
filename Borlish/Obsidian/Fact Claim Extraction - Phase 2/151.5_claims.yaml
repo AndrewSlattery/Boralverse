@@ -1,0 +1,136 @@
+entry: 151.5
+title: "War and Peace"
+claims:
+  - category: glossary
+    claim: "Mordether is the Boralverse term for crusader."
+    entities:
+      - name: mordether
+        irl: crusader
+        type: concept
+
+  - category: place
+    claim: "Mystra (the Principality of Mystra) was a mordether state founded in the eleventh century in the Peloponnese, named for its then-capital the city of Mystras."
+    entities:
+      - name: Mystra
+        type: polity
+    dates: "11th c. N"
+
+  - category: event
+    claim: "The Convoy Australier was instrumental in conquering the Peloponnese as a staging post for further conquest in the Masreck."
+    entities:
+      - name: Convoy Australier
+        type: organisation
+      - name: Mystra
+        type: polity
+      - name: Masreck
+        type: place
+
+  - category: event
+    claim: "Mystra was reincorporated into the resurgent Roman Empire after some decades of independence, with its capital eventually moving to Mysarnos."
+    entities:
+      - name: Mystra
+        type: polity
+      - name: Second Roman Empire
+        type: polity
+      - name: Mysarnos
+        type: place
+
+  - category: glossary
+    claim: "Mysarnos is the Boralverse name for Pylos."
+    entities:
+      - name: Mysarnos
+        irl: Pylos
+        type: place
+
+  - category: event
+    claim: "Mystra was formally dissolved in the mid-seventeenth century as a result of the Romantic Wars."
+    entities:
+      - name: Mystra
+        type: polity
+      - name: Romantic Wars
+        type: event
+    dates: "mid 17th c. N"
+
+  - category: place
+    claim: "New Leudong is a polity covering the southeast portion of Chrysia, named for the Cathayan state of Leudong."
+    entities:
+      - name: New Leudong
+        type: polity
+      - name: Chrysia
+        type: place
+      - name: Leudong
+        type: polity
+
+  - category: glossary
+    claim: "Chrysia is the Boralverse name for Australia."
+    entities:
+      - name: Chrysia
+        irl: Australia
+        type: place
+
+  - category: event
+    claim: "New Leudong has experienced significant Cathayan nation-building alongside British settlement since the late seventeenth century."
+    entities:
+      - name: New Leudong
+        type: polity
+    dates: "late 17th c. N"
+
+  - category: economics
+    claim: "In the early eighteenth century the trade network of Gurjat extended as far as New Leudong."
+    entities:
+      - name: Gurjat
+        type: polity
+      - name: New Leudong
+        type: polity
+    dates: "early 18th c. N"
+
+  - category: glossary
+    claim: "Gurjat is the Boralverse name for Gujarat."
+    entities:
+      - name: Gurjat
+        irl: Gujarat
+        type: place
+
+  - category: person
+    claim: "Pether Hetsong was born in New Leudong and penned the semi-autobiographical 'The Land of Golden Lies and Sugared Fire' in 1864, often considered the first Chrysian work of literature to enjoy Vetomundine success."
+    entities:
+      - name: Pether Hetsong
+        type: person
+      - name: "The Land of Golden Lies and Sugared Fire"
+        type: work
+      - name: New Leudong
+        type: polity
+    dates: "1864 N"
+
+  - category: technology
+    claim: "A collaboration involving the Branwen Sanatory in New Leudong's capital invented the chemical painkiller cozebdo-diamaschal benjamine."
+    entities:
+      - name: Branwen Sanatory
+        type: organisation
+      - name: cozebdo-diamaschal benjamine
+        type: concept
+      - name: New Leudong
+        type: polity
+
+  - category: glossary
+    claim: "Cozebdo-diamaschal benjamine is the Boralverse term for ibuprofen."
+    entities:
+      - name: cozebdo-diamaschal benjamine
+        irl: ibuprofen
+        type: concept
+
+  - category: event
+    claim: "In the late twentieth century the New Leudong city of Mehannin became a technological hub, spurring developments in grimmer design and methodics."
+    entities:
+      - name: Mehannin
+        type: place
+      - name: New Leudong
+        type: polity
+    dates: "late 20th c. N"
+
+  - category: glossary
+    claim: "Mehannin is the Boralverse name for Brisbane."
+    entities:
+      - name: Mehannin
+        irl: Brisbane
+        type: place

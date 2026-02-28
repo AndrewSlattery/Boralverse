@@ -1,0 +1,51 @@
+entry: 187.5
+title: "The Void"
+claims:
+  - category: event
+    claim: "The Superdraconic Apocalypse (Borlish: Apocalyps Surdraconic) was the fall of a cisjovial sax approximately sixty-six hundred myriad years ago, which caused the eradication of roughly three-quarters of all animal species including all dragons bar the ancestors of modern birds."
+    entities:
+      - name: Superdraconic Apocalypse
+        type: event
+
+  - category: glossary
+    claim: "Dragon is the Boralverse term for dinosaur."
+    entities:
+      - name: dragon
+        irl: dinosaur
+        type: concept
+
+  - category: period
+    claim: "The Draconic Age lasted from approximately 2.5 to 0.66 great myriad years ago."
+    entities:
+      - name: Draconic Age
+        type: period
+
+  - category: terminology
+    claim: "The waveform display (Borlish: despley ondatim) is the presentation of a mathematical function as the sum of vater and arrhumb functions; it was developed in the eighteenth century for computing celestial orbits, in part by Barcelon mathematician Raymond al Mustafa."
+    entities:
+      - name: waveform display
+        type: concept
+      - name: Raymond al Mustafa
+        type: person
+    dates: "18th c. N"
+
+  - category: glossary
+    claim: "Barrick steeplepost is the Boralverse term for electric telegraph."
+    entities:
+      - name: barrick steeplepost
+        irl: electric telegraph
+        type: concept
+
+  - category: event
+    claim: "The Auroric Anomaly of 1859 (Borlish: Anomaly Auroric) was an intense sunstorm that caused auroras and malfunctioning barrick steeplepost equipment across the world."
+    entities:
+      - name: Auroric Anomaly
+        type: event
+    dates: "1859 N"
+
+  - category: event
+    claim: "The first tachygraph capable of sending messages on the steeplemesh was tested by Tomas Vilmanas on Michael's Day 1859, less than a month after the Auroric Anomaly."
+    entities:
+      - name: Tomas Vilmanas
+        type: person
+    dates: "Michael's Day, 1859 N"
