@@ -14912,7 +14912,7 @@ Several polities and vassal states did not survive the Romantic Wars; for exampl
 
 Willemy was the focal point of the Blue Trans-Willem War (not to be confused with the White Trans-Willem War), which indirectly led to the dissolution of the Kingdom of Burgundy and the creation of the Duchy of Far Suebia in Bavarn.
 
-Borland's involvement in the Romantic Wars was restricted to a failed invasion (culminating in the Hawkirch Surrender of 1623), along with unstable arrangements with neighbouring polities regarding military aid in their conquests.
+Borland's involvement in the Romantic Wars was restricted to a failed invasion (culminating in the Hawkirch Surrender of 1632), along with unstable arrangements with neighbouring polities regarding military aid in their conquests.
 
 Much has been made of the involvement of pirates (to a greater or lesser extend endorsed by political powers) in the Romantic Wars, although recent historiography tends to downplay how much impact these factions really had.
 
@@ -26156,8 +26156,8 @@ As a whole they are sometimes considered the last truly localised conflicts, sin
 L'ec an des 1640 vars 1670 afferjarn l'eç conflict 'central' dy Rix Romannesc, con tan certan abatment peripherallessem fonn paravent ben apres.
 The years 1640 to 1670 cover the 'central' conflicts of the Romantic Wars, although some more peripheral fights may spill earlier or later.
 
-L'envou d'Istr Boral cas y Rix Romannesc no sta limitað for an envajon imparyent den (ersteigon faint ag Capitulaçon a Haukirç d'an 1623), jos concort commotual con polity collindant sur auxigl militer por lorry concarnç.
-Borland's involvement in the Romantic Wars was restricted to a failed invasion (culminating in the Hawkirch Surrender of 1623), along with unstable arrangements with neighbouring polities regarding military aid in their conquests.
+L'envou d'Istr Boral cas y Rix Romannesc no sta limitað for an envajon imparyent den (ersteigon faint ag Capitulaçon a Haukirç d'an 1632), jos concort commotual con polity collindant sur auxigl militer por lorry concarnç.
+Borland's involvement in the Romantic Wars was restricted to a failed invasion (culminating in the Hawkirch Surrender of 1632), along with unstable arrangements with neighbouring polities regarding military aid in their conquests.
 
 ##
 
@@ -29693,7 +29693,17 @@ I picked the mag up off the low table.
 
 ##
 
-210.5:
+210.5: Journeys and Junctures
+
+notes on various aspects of the Boralverse alternate history setting which begin with the letter J.
+
+Jaibos Breweries (Borlish: Yeustman Jaibos) is a beer-making guild based in the southwestern Borlish city of Axbane operating under the ownership of the Jacobin Fraternity. The Fraternity was founded in tenth-century Flanders under the patronage of Amelia of Bruges, but was forced to flee to Borland in 1067 N after being implicated in a popular uprising against Drengot Emperor Geoffrey II; it thereafter established its principal seat at the Peninsular Monastery on a promontory overlooking Axbane.
+
+Japetos III is an barric steeplepost line [telegraph cable] running undersea between the port of Gadire [Agadir] in Morrack and the city of Paratzon [Saint John] in Brasil [Newfoundland], a distance of some 1,500 leagues. It is the third cable to bear the name Iapetos, a Titan who as the father of Atlas has supplied a ready name for successive endeavours to span the Atlantic by wire. The project was jointly conceived in 1943 N by the Morrack and Ambrosian governments, but was set back first by protracted disagreements over funding between the two administrations and then by the outbreak of war, before the cable at last conveyed its first messages in October 1950 N.
+
+Josforo Sant'Angelo was a traveller and writer from Tuscany, and the youngest son of the last Marksman of Cremuna—a title that lapsed when the Lombard marquisates were abolished in the 1860s. Sant'Angelo recorded one of his travels in Pasti Mezziterreni (Middlesea Meals, 1880 N), a mealbook documenting a single sunward journey along the full arc of the Middlesea [Mediterranean] coast, from Tarifa in Andalus to the Atlantic-facing port of X̀r l Joas [Ksar es-Seghir] in Morrack.
+
+Judeta Barracin  was a novelist born in Andalus who spent her formative years among the islands of the Arcabil [the Caribbean], the daughter of a trading family with commercial interests in those ports. She returned to Andalus as an adult with a sharp eye for the social textures of its cities. Her 1919 N trevold [novel] Querdos Llineros (Flaxen Hearts) made was n immediate sensation: set in early-nineteenth-century Cordova [Córdoba] and following a cast of market traders, minor gentry, and household staff through a web of interconnected small dramas, it is now considered a founding text of social comedy alongside the contemporaneous output of Dorotha Quistack.
 
 ##
 
