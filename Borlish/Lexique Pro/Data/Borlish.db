@@ -1090,15 +1090,6 @@
 \lx accordar
 \ps ar v
 
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
-
-\lx accordar
-\ps ar v
-
 \ge agree
 \ge accord
 \ge harmonise
@@ -1106,6 +1097,15 @@
 \ge go
 
 \et Middle Borlish < Latin
+
+\lx accordar
+\ps ar v
+
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -2073,7 +2073,7 @@
 \ge alternatively
 \ge actually
 
-\et Old Borlish < Latin
+\et Old Borlish, from Latin aliunde "from elsewhere".
 
 \lx agnel
 \ps n
@@ -5238,6 +5238,24 @@
 
 \et via Parisian from Tuscan avventoresco.
 
+\lx aventur
+\ps n
+
+\ge adventure
+\ge quest
+\ge affair
+
+\et Vulgar Latin adventūra < advenió
+
+\lx aventurer
+\ps n
+
+\ge adventurer
+\ge explorer
+
+\et Latin adventurarius, cf. aventur "adventure".
+\mn aventur
+
 \lx averjon
 \ps n
 
@@ -8280,6 +8298,14 @@
 
 \et Latin canālis
 
+\lx canalfeyar
+\ps ar v
+
+\ge canalise
+
+\et causative derivative of canal "canal".
+\mn canal
+
 \lx canç
 \ps n
 
@@ -9548,6 +9574,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \mn cent
 \mn murðon
+
+\lx centessem
+\ps n
+
+\ge hundredth
+\ge in a hundred
+\ge per cent
+\ge percent
+
+\et from cent "hundred" and the ordinal suffix -essem.
+\mn cent
 
 \lx centr
 \ps n
@@ -12046,17 +12083,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge conspirator
-\ge abettor
+\ge accomplice
 
-\mn conjuraçonnar
+\et Middle Borlish
 
 \lx conjuraçonnour
 \ps n
 
 \ge conspirator
-\ge accomplice
+\ge abettor
 
-\et Middle Borlish
+\mn conjuraçonnar
 
 \lx connardaç
 \ps n
@@ -13872,7 +13909,23 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \ge believe
 
-\et Old Borlish < Latin
+\et Old Borlish, directly from Latin crēdō "I believe"
+
+\lx creir n'aglon
+\ps r v
+
+\ge disagree
+\ge dissent
+\ge think otherwise
+\ge hold out hope
+\ge have hope
+
+\xv Jo's creint n'aglon ig sy fraðr vel reapparir.
+\xe I'm holding out hope that her brother turns up.
+
+\et idiom meaning "believe in [a different thing] instead" attested from the eighteenth century.
+\mn creir
+\mn aglon
 
 \lx crem
 \ps n
@@ -15027,6 +15080,14 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \mn defens
 \mn langour
 
+\lx defensibr
+\ps adj
+
+\ge defensible
+
+\et from defendr "defend".
+\mn defendr
+
 \lx defey
 \ps n
 
@@ -15868,19 +15929,19 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps ar v
 
 \ge decipher
-\ge make out
-\ge translate
-\ge simplify
+\ge decode
 
-\et Old Borlish < Medieval Latin < Arabic
+\mn scifr
 
 \lx descifrar
 \ps ar v
 
 \ge decipher
-\ge decode
+\ge make out
+\ge translate
+\ge simplify
 
-\mn scifr
+\et Old Borlish < Medieval Latin < Arabic
 
 \lx descombr
 \ps r v
@@ -18086,6 +18147,17 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 
 \et Middle Borlish < Italian
 
+\lx drastic
+\ps adj
+
+\ge major
+\ge efficient
+\ge thorough
+\ge drastic
+\ge rapid
+
+\et Scholastic Latin < Greek δρᾱστῐκός 
+
 \lx dreçar
 \ps ar v
 
@@ -18318,21 +18390,21 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps adj
 
 \ge durable
-\ge stiff
-\ge lasting
-\ge permanent
-\ge resilient
+\ge long-lasting
 
-\et adjective from durar "last"
+\et Adjective from durar
 \mn durar
 
 \lx durabr
 \ps adj
 
 \ge durable
-\ge long-lasting
+\ge stiff
+\ge lasting
+\ge permanent
+\ge resilient
 
-\et Adjective from durar
+\et adjective from durar "last"
 \mn durar
 
 \lx durant
@@ -19590,15 +19662,6 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \lx ensign
 \ps n
 
-\ge engraving
-\ge carving
-\ge suit
-
-\et Old Borlish < Latin
-
-\lx ensign
-\ps n
-
 \ge emblem
 \ge logo
 \ge symbol
@@ -19616,6 +19679,15 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \xe I will recommend you for a higher position.
 
 \et Middle Borlish, a semilearned borrowing from Latin insignia "emblem, badge", a noun formation from adjective insignis "marked, distinguished". The word has been used metonymically to refer to the position conferred or represented by an insignia since the fifteenth century, and it has been used in card games from approximately the same time.
+
+\lx ensign
+\ps n
+
+\ge engraving
+\ge carving
+\ge suit
+
+\et Old Borlish < Latin
 
 \lx ensignar
 \ps ar v
@@ -23148,18 +23220,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossau
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossaveyaçon
 \ps n
@@ -23357,6 +23429,14 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 
 \et Old Borlish < Late Latin
 
+\lx frige
+\ps adj
+
+\ge chilly
+\ge frigid
+
+\et Scholastic Latin frigeus, from Latin frigidus
+
 \lx frigsað
 \ps adj
 
@@ -23489,6 +23569,13 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps ar v
 
 \ge rub
+
+\et Old Borlish < Old French < Latin
+
+\lx frottar
+\ps ar v
+
+\ge rub
 \ge chafe
 \ge scour
 \ge scrub
@@ -23504,13 +23591,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
-
-\lx frottar
-\ps ar v
-
-\ge rub
-
-\et Old Borlish < Old French < Latin
 
 \lx fruit
 \ps n
@@ -31619,6 +31699,15 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Old Borlish < Latin
 
+\lx laur cavir
+\ps ir1 v
+
+\ge be hired
+\ge get a job
+
+\mn laur
+\mn cavir
+
 \lx laur d'asn
 \ps n
 
@@ -35083,6 +35172,22 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Old Borlish < Old English mersc
 
+\se merscaç
+\ps n
+
+\ge marshland
+\ge fenland
+
+\lx merscous
+\ps adj
+
+\ge marshy
+\ge boggy
+\ge squishy
+
+\et adjectival derivation from mersc "marsh"
+\mn mersc
+
 \lx mert
 \ps adj
 
@@ -36076,6 +36181,16 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 \ge mountain
 
 \et Old Borlish < Vulgar Latin
+
+\lx montagnous
+\ps adj
+
+\ge mountainous
+\ge lofty
+\ge rugged
+
+\et from montagn "mountain"
+\mn montagn
 
 \lx montar
 \ps ar v
@@ -37898,6 +38013,17 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 \mn nom
 \mn deïr
 
+\lx nomad
+\ps n
+
+\ge nomad
+\ge wanderer
+\ge wayfarer
+\ge traveller
+\ge itinerant
+
+\et Latin Nomas "wandering shepherd"
+
 \lx nombr
 \ps n
 
@@ -38425,6 +38551,22 @@ The second sense is seen from as early as the sixteenth century; the last only i
 \ge behave
 
 \et Old Borlish < Latin
+
+\lx obeïscenç
+\ps n
+
+\ge obedience
+\ge compliance
+\ge service
+
+\et noun from obeïr "obey"
+\mn obeïr
+
+\se obeïscenç dar
+\ps ar v
+
+\ge do a service
+\ge obey
 
 \lx object
 \ps n
@@ -38994,6 +39136,12 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge eighteen
 
 \et Old Borlish < Vulgar Latin
+
+\se ogtoçad
+\ps n
+
+\ge eighteensome
+\ge group of eighteen
 
 \lx oïr
 \ps ir1 v
@@ -40313,6 +40461,14 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Old Borlish < Latin
 
+\lx pænultem
+\ps n
+
+\ge second last
+\ge penultimate
+
+\et Latin paenultimus
+
 \lx pagin
 \ps n
 
@@ -40882,6 +41038,17 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge skirting
 
 \et Middle Borlish < Old Borlish
+
+\lx parenç
+\ps n
+
+\ge kinship
+\ge relationship
+\ge relatedness
+\ge parenthood
+\ge ancestry
+
+\et Scholastic Latin parentia, from parens "parent"
 
 \lx parent
 \ps n
@@ -41661,6 +41828,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
+
+\lx paus
 \ps interj
 
 \ge hang on
@@ -41669,15 +41845,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
-
-\lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -42062,6 +42229,8 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge schedule
 \ge itinerary
 \ge timetable
+\ge period
+\ge timespan
 
 \et Middle Borlish < Latin < Ancient Greek
 
@@ -42080,6 +42249,23 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \mn period
 \mn trevagl
+
+\lx periodeyar
+\ps ar v
+
+\ge schedule
+\ge timetable
+\ge periodise
+
+\et from period "period"
+\mn period
+
+\se periodeyaçon
+\ps n
+
+\ge scheduling
+\ge timetabling
+\ge periodisation
 
 \lx peripaton
 \ps n
@@ -48270,6 +48456,14 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Old Borlish < Latin
 
+\lx reyaltað
+\ps n
+
+\ge royalty
+\ge majesty
+
+\et akin to Latin regalitas "royalty"
+
 \lx reyaum
 \ps n
 
@@ -50460,6 +50654,14 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge document
 
 \et Middle Borlish
+
+\lx scaunç historic
+\ps n
+
+\ge historiography
+
+\mn scaunç
+\mn historic
 
 \lx scaur
 \hm 1
@@ -57050,6 +57252,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Middle Borlish < Larin terrenus
 
+\lx terrentað
+\ps n
+
+\ge terrain
+\ge landscape
+\ge outlook
+
+\et noun from terren "earthly"
+\mn terren
+
 \lx tersur
 \ps n
 
@@ -57193,6 +57405,13 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \xe A moorland frolic has got my clothes dirty.
 
 \et Middle Borlish derivation from noun teur "tar" with the suffix -feyar (< Latin -ficō) which forms verbs meaning "to make/render _". The noun teur is an Old Borlish borrowing from Old English teoru "tar, resin, earwax", which is related to "tree". Almost immediately we see use of the verb, particularly in contemporary legal cases.
+\mn teur
+
+\se teurfeyour
+\ps n
+
+\ge slanderer
+\ge detractor
 
 \lx tey
 \ps pron
@@ -58359,19 +58578,19 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge transmigration
-\ge relocate
+\ge relocation
+\ge nomadism
 
-\et noun from tramigrar "transmigrate".
+\et noun from tramigrar
 \mn tramigrar
 
 \lx tramigraçon
 \ps n
 
 \ge transmigration
-\ge relocation
-\ge nomadism
+\ge relocate
 
-\et noun from tramigrar
+\et noun from tramigrar "transmigrate".
 \mn tramigrar
 
 \lx tramigrar
@@ -59116,6 +59335,15 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge spring onion
 
 \et Old Borlish < Old English < Latin
+
+\lx ultem
+\ps adj
+
+\ge ultimate
+\ge final
+\ge last
+
+\et Latin ultimus
 
 \lx un
 \ps num
@@ -61016,6 +61244,15 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Middle Borlish < Latin
 
+\lx victour
+\ps n
+
+\ge victor
+\ge winner
+\ge champion
+
+\et Latin victor
+
 \lx við
 \ps n
 
@@ -61386,6 +61623,36 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge downtime
 
 \et Middle Borlish < Old Dutch
+
+\lx vivotar
+\ps ar v
+
+\ge languish
+\ge rot
+\ge pine away
+\ge get by
+\ge struggle
+\ge make ends meet
+
+\xv L'autour vivota com inconnuð prell'oc livr.
+\xe L'autour vivota com inconnuð prell'oc livr.
+
+\et early Modern Borlish, borrowed from contemporary French vivoter "to be ill; to languish". This is a diminutive formation from vivre "live", from Latin vīvō "I live".
+\mn veur
+
+\lx vlangr
+\ps n
+
+\ge fence
+\ge receiver
+\ge middleman
+\ge accessory
+\ge abettor
+
+\xv Sy vlangr porra noc y diamant vendr pre annað.
+\xe Her fence won't be able to sell the diamonds for years.
+
+\et mid-19C in underworld slang, imported from the slightly earlier British form recorded in the Glamour of Deganny. This in turn reflects Suahile [Swahili] valanguri, plural of mlanguri "healer", used in Ongutian [Zanzibari] argot to mean "profiteer, black marketeer". The Borlish term was popularised outside criminal circles by its use in a series of high-profile mob trials in the first decade of the twentieth century.
 
 \lx vleutaç
 \ps adj

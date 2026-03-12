@@ -21735,7 +21735,7 @@ I've forgotten which locker my clothes are in.
 
 134.5: A Motley Miscellany
 
-The Bahassassin River [1] is the longest river on the continent of Mendeva [North America], with a total length of just over two thousand leagues. The river passes through multiple polities, including Sangathy and Hasiny, and its eastern tributaries descend from the Sturgovan Mountains [the Appalachians]. The largest city on the banks of the Bahassassin is Nadacow, the capital city of Hasiny. The name of the river comes from the Carovacian [Caddo] name báhassássin "mother of rivers".
+The Bahassassin River [1] is the longest river on the continent of Mendeva [North America], with a total length of just over two thousand leagues. The river passes through multiple polities, including Zangathy and Hasiny, and its eastern tributaries descend from the Sturgovan Mountains [the Appalachians]. The largest city on the banks of the Bahassassin is Nadacow, the capital city of Hasiny. The name of the river comes from the Carovacian [Caddo] name báhassássin "mother of rivers".
 
 [1] comprising the Missouri River and the portion of the Mississippi River downstream of St Louis.
 
@@ -21923,8 +21923,8 @@ The name Mendeva was formed backwards from Latin Mendevalēnsis "from Mendeva", 
     Ambrosia [~Quebec, the Maritimes, New England] is a Vascony-settled polity named for King Ambrose III of Vascony (r. 1456–1518).
     Zangathy [~the Dakotas, Minnesota, Iowa, Wisconsin, Winnipeg, Ontario] is a landlocked polity occupying the upriver Bahassassin [Mississippi] directly west of the Five Seas [Great Lakes]. Its name reflects Daccotan [Dakota] zaŋathi "flint region".
     New Provence [~New England, New York, and south as far as South Carolina] is a coastal polity extending westward to the Sturgovan Mountains [Appalachians] which grew from a series of trading post established by Provence merchants.
-    Hasiny [~Louisiana, Texas, Mississippi, Arkansas, Oklahoma] is the largest polity in so-called British Mendeva, a few states along the Gulf settled by the Kingdom of Britain [~Wales, etc]. It takes its name from the Ractish [Caddo] name Hasíne "our people" for one of the previous nations the modern polity is descended from.
-    Taisha [~Texas, Coahuila] is a minor polity of Gulf Mendeva at the crossroads of British and Morrack [Moroccan] influences. Its name comes via Arabic Tayisha' from Ractish taísha' "welcome".
+    Hasiny [~Louisiana, Texas, Mississippi, Arkansas, Oklahoma] is the largest polity in so-called British Mendeva, a few states along the Gulf settled by the Kingdom of Britain [~Wales, etc]. It takes its name from the Carovacian [Caddo] name Hasíne "our people" for one of the previous nations the modern polity is descended from.
+    Taisha [~Texas, Coahuila] is a minor polity of Gulf Mendeva at the crossroads of British and Morrack [Moroccan] influences. Its name comes via Arabic Tayisha' from Carovacian [Caddo] taísha' "welcome".
     Mivock [~northern California] is a minor coastal polity on the Lovaqua [Pacific] known for its congenial climate. Of exceedingly sundry influence, its name reflects the name miwoc of the local Mendeva peoples and languages.
     Mashick [~Mexico, southern California, New Mexico, Arizona] is the largest polity in Lower Mendeva, the descendant of the Mashick [Aztec] Empire with heavy Morrack influence. Its name derives via Arabic from the Nawat [Nahuatl] meshi'ca' "Mashick people".
 
@@ -30043,4 +30043,60 @@ How well did the novices rise to the occasion?
 
 ##
 
-216.2:
+216.2: vlangr "fence"
+
+vlangr /ˈvlan.gr̩/ [ˈvlaŋ.gɐ]
+- fence, receiver, middleman, someone who buys and sells stolen goods;
+- accessory, abettor, a person not present at a crime but bearing some responsibility for it as an assistant or instigator
+
+Etymology: mid-19C in underworld slang, imported from the slightly earlier British form recorded in the Glamour of Deganny. This in turn reflects Suahile [Swahili] valanguri, plural of mlanguri "healer", used in Ongutian [Zanzibari] argot to mean "profiteer, black marketeer". The Borlish term was popularised outside criminal circles by its use in a series of high-profile mob trials in the first decade of the twentieth century.
+
+Sy vlangr porra noc y diamant vendr pre annað.
+/si ˈvlan.gr̩ pɔˈra nɔk i djaˈmant ˈvɛn.dr̩ pre aˈnaθ/
+[si ˈvlaŋ.gɐ pʊˈʀa nɔg i djɐˈmant ˈvɛn.dɐ pʀe ɐˈnaθ]
+3s.gn fence can-fut ng df diamond sell-inf before year
+Her fence won't be able to sell the diamonds for years.
+
+##
+
+216.3: vivotar "languish"
+
+vivotar /ˌvi.voˈtar/ [ˌvi.vʊˈtɐː]
+- languish, rot, pine away, to live without accomplishing anything;
+- get by, struggle, make ends meet, to live in miserable conditions or generally with very limited means
+
+Etymology: early Modern Borlish, borrowed from contemporary French vivoter "to be ill; to languish". This is a diminutive formation from vivre "live", from Latin vīvō "I live".
+
+L'autour vivota com inconnuð prell'oc livr.
+/loˈtur ˌvi.voˈta kɔm ˌɪn.kɔˈnɪθ prɛ.lɔk ˈlɪ.vr̩/
+[lʊˈtʊː ˌvi.ʊˈta kɔm ˌɪŋ.kʊˈnɪθ ˌpʀɛ.lʊg ˈlɪ.vɐ]
+df=author languish-ipf as unknown before-df=s.px book
+The author languished in obscurity until this book.
+
+##
+
+216.4: creir n'aglon "hold out hope"
+
+creir n'aglon /krir nɛjˈlɔn/ [kʀi.jɐ nɪjˈlɔn]
+- disagree, dissent, to express a different opinion;
+- have hope, hold out hope, to not be resigned to some negative outcome
+
+Etymology: idiom meaning "believe in [a different thing] instead" attested from the eighteenth century. The verb creir "believe" descends directly from Latin crēdō "I believe", while the adverb aglon "instead, rather, alternatively" comes from Latin aliunde "from elsewhere".
+
+Jo's creint n'aglon ig sy fraðr vel reapparir.
+/ʒɔz krint nɛjˈlɔn aj si ˈfraðr̩ vɛl reˌa.paˈrɪr/
+[ʝɔz kʀint nɪjˈlɔn aj si ˈfʀa.ðɐ vɛl ʀɪˌja.pɐˈʀɪː]
+1s=be believe-p.prs in=instead cmp 3s.gn brother will.sbj reappear-inf
+I'm holding out hope that her brother turns up.
+
+##
+
+216.5:
+
+##
+
+217.1:
+
+##
+
+217.2:
