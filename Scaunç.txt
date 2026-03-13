@@ -29857,7 +29857,30 @@ The suspect visited this medium on Tuesday.
 
 ##
 
-212.5:
+212.5: German languages
+
+paragraphs excerpted in translation from a page on Borland's distributed library about the German languages, as it stood in February 2021 N.
+
+…descended from Classical German [Proto-Germanic], which was spoken in roughly the same time period as Classical Latin. It fractured during the first millennium N into three major lineages, which we label Dutch German, Gothic German and Norrish German [West, East, and North Germanic].
+
+It is uncertain whether the language of the Goths is truly the only member of its lineage. Its possible contemporary relatives (the languages of the Vandals, the Burgundians, and some others) are too little attested in writing to be certain, and the proposed modern relatives (the German languages in Halich, Kiew or Vallack [regions of southeatern Europe], mostly) are too far displaced in time and too much influenced by the Dutch languages to connect definitively to Gothic.
+
+Dutch German is the most widespread lineage, and can further be divided geographically into the Mainlander Dutch languages and the English languages. Some of the Mainlander Dutch languages are the official languages of a polity or polities, like Willem, Saxon or Bavarn (the last of which is official in both Bavarn and Ruritania), while others enjoy at most regional recognition (for example Frise).
+
+Here is an example of a sentence in various modern Dutch languages, along with reconstructions for older forms.
+
+Classial German: Gultham flōidi thurhu quenōnom ēthrōnum.
+First Dutch: Golþ flōidi þuruh quenōnō ādrōn.
+
+Old English: Gold flēwþ þurh þāra wīfa ǣdran.
+Old W Dutch: Gold fluoieth thuro thero wīvo ātheran.
+Old N Dutch: Gold fliuted thuruh thero wīvō ātheran.
+Old S Dutch: Golt fliuzit duruh dero wībo ādaran.
+
+Merch: Gold flows through the womens veins.
+Willem: Goud vloyeth thór the vrown aren.
+Saxon: Gold fletet durgh de fruen odren.
+Bavarn: Goit fliest drugh der frauen adern.
 
 ##
 
@@ -30035,30 +30058,7 @@ How well did the novices rise to the occasion?
 
 ##
 
-215.5: German languages
-
-paragraphs excerpted in translation from a page on Borland's distributed library about the German languages, as it stood in February 2021 N.
-
-…descended from Classical German [Proto-Germanic], which was spoken in roughly the same time period as Classical Latin. It fractured during the first millennium N into three major lineages, which we label Dutch German, Gothic German and Norrish German [West, East, and North Germanic].
-
-It is uncertain whether the language of the Goths is truly the only member of its lineage. Its possible contemporary relatives (the languages of the Vandals, the Burgundians, and some others) are too little attested in writing to be certain, and the proposed modern relatives (the German languages in Halich, Kiew or Vallack [regions of southeatern Europe], mostly) are too far displaced in time and too much influenced by the Dutch languages to connect definitively to Gothic.
-
-Dutch German is the most widespread lineage, and can further be divided geographically into the Mainlander Dutch languages and the English languages. Some of the Mainlander Dutch languages are the official languages of a polity or polities, like Willem, Saxon or Bavarn (the last of which is official in both Bavarn and Ruritania), while others enjoy at most regional recognition (for example Frise).
-
-Here is an example of a sentence in various modern Dutch languages, along with reconstructions for older forms.
-
-Classial German: Gultham flōidi thurhu quenōnom ēthrōnum.
-First Dutch: Golþ flōidi þuruh quenōnō ādrōn.
-
-Old English: Gold flēwþ þurh þāra wīfa ǣdran.
-Old W Dutch: Gold fluoieth thuro thero wīvo ātheran.
-Old N Dutch: Gold fliuted thuruh thero wīvō ātheran.
-Old S Dutch: Golt fliuzit duruh dero wībo ādaran.
-
-Merch: Gold flows through the womens veins.
-Willem: Goud vloyeth thór the vrown aren.
-Saxon: Gold fletet durgh de fruen odren.
-Bavarn: Goit fliest drugh der frauen adern.
+215.5: 
 
 ##
 
