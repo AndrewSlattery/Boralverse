@@ -210,7 +210,7 @@ The soldier and the shepherdess killed the dragon and lived happily ever after.
 
 scurvog /xɪʀˈvɔj/ [çɪːˈvɔj] scurvy, pathological lack of sandrine*
 
-< Old Boral skurvuȝ et al., presumably from Old Norse skyrbjúgr “sour-milk tumour”. Discovered in the late 15C to be caused by diet, following the famed voyage to Mendeva** of Princess Alexandra of Vascony (the first time a European royal set foot in the Novomund), after whom sandrine is indirectly named.
+< Old Boral skurvuȝ et al., presumably from Old Norrish skyrbjúgr “sour-milk tumour”. Discovered in the late 15C to be caused by diet, following the famed voyage to Mendeva** of Princess Alexandra of Vascony (the first time a European royal set foot in the Novomund), after whom sandrine is indirectly named.
 
 Rey Ambrosc commandau casc vascel port frugt sandrin, ma faloy moneð demay.
 King Ambrose required each ship to carry citrus fruits, but the cost was too high.
@@ -506,7 +506,7 @@ Despite losing Vascony's Middlesea coast to Burgundy and Barcelon, and despite n
 
 japot /ʒaˈpɔt/ gap, break, opening
 
-< attested 14C from Middle Boral jap “break, gap” plus the diminutive -ot (uncertain origin, probably a variant of -et imported from continental Romance; either French or Burgund). The word jap is from Old Boral ȝap, iapp, borrowed from Old English ġeap “open space, expanse”, with semantic influence from Old Norse gap “gap, break”.
+< attested 14C from Middle Boral jap “break, gap” plus the diminutive -ot (uncertain origin, probably a variant of -et imported from continental Romance; either French or Burgund). The word jap is from Old Boral ȝap, iapp, borrowed from Old English ġeap “open space, expanse”, with semantic influence from Old Norrish gap “gap, break”.
 
 I vos menara an japot ny mur oyon j'ay un livr scos.
 He will take you to a gap in the wall where I have hidden a book.
@@ -919,9 +919,9 @@ Relations with the Kingdom of Northumber cooled from the moment Edinbrough fell;
 
 —
 
-[1] Recent research calls into question the then-prevailing theory that Alba (and in turn Scotland) only experienced significant Norse influence during and after the eleventh-century migrations. Placename analysis (see F. Berger, 1977) has been correlated with dig sites and suggests that the kingdom had a significant Norse subtrate from its inception.
+[1] Recent research calls into question the then-prevailing theory that Alba (and in turn Scotland) only experienced significant Norrish influence during and after the eleventh-century migrations. Placename analysis (see F. Berger, 1977) has been correlated with dig sites and suggests that the kingdom had a significant Norrish subtrate from its inception.
 
-[2] This is a simplification: the Norse ascendancy through the ninth century and the beginning of the tenth had at last reached its peak, and politics further east (as well as the interference of the French Normans) diminished the resources that the Sodrick kings had at their disposal.
+[2] This is a simplification: the Norrish ascendancy through the ninth century and the beginning of the tenth had at last reached its peak, and politics further east (as well as the interference of the French Normans) diminished the resources that the Sodrick kings had at their disposal.
 
 [3] That is, the various states making up what are now Denmark and Horth, and so on.
 
@@ -2938,7 +2938,7 @@ The second and more involved change to the Julian calendar regarded the placemen
 
 tarsc /taʀx/ [tɑːx] card, note, small paper, memo
 
-< 11C from Old French targe “small shield, buckler”, itself from Frankish targa with the same meaning. Probably conflated with the Norse and English cognates, which would alone have given *tarc or *targ. The shift in sense to paper dates to 16C, from clipping of fougl tarsc “buckler sheet”, the term for the paper size one-half of a trevold. Specific meaning “memo” from 19C.
+< 11C from Old French targe “small shield, buckler”, itself from Frankish targa with the same meaning. Probably conflated with the Norrish and English cognates, which would alone have given *tarc or *targ. The shift in sense to paper dates to 16C, from clipping of fougl tarsc “buckler sheet”, the term for the paper size one-half of a trevold. Specific meaning “memo” from 19C.
 
 See also:
 
@@ -3414,7 +3414,7 @@ more generally something characteristic of a person, place or group
 
 havan /haˈvan/ harbour, port, docks
 
-< 10C, from Old Boral havan “harbour” (in southern dialects), from Old Dutch havana with the same meaning. The motivation for the stress shift onto the second syllable is unclear, although compare the cognate haun “haven, safety” – being in Old Boral havn “harbour” – used at that time in the north and borrowed from Norse.
+< 10C, from Old Boral havan “harbour” (in southern dialects), from Old Dutch havana with the same meaning. The motivation for the stress shift onto the second syllable is unclear, although compare the cognate haun “haven, safety” – being in Old Boral havn “harbour” – used at that time in the north and borrowed from Norrish.
 
     Y havan aye aug calm, e sta profont a mar bas meðes.
 
@@ -4173,7 +4173,7 @@ This year is the last in pre-Drengotian Albion. 1029 will bring the Kernovan Con
 
 In the south, Kent under Rodulf is stable and much expanded from its position in the 9th and early 10th centuries, having subdued Wessex (minus Anglia, already lost to Markland in the Treaty of Oxford) but suffered renewed Dumnonian pushes from the west. Canterbury's most powerful vassals lie to the north in Essex across the Thames, ably run by Alfred the Tall. The elderly patriarch Rodulf of Kent lingers on his deathbed after eight decades of political manœuvring.
 
-To the west we have the ever-fractious kingdoms of Ireland, lately unified as but four (with the breaking of the Ultagh in the north-east): Tyrconnal, Connaght, Lenster and Munster. The tales of Tyrconnal and Lenster are dominated by wars at once with the Norse to the east and the other Irish to the west, while the houses of Connaght and Munster vie for the position of High King of Ireland.
+To the west we have the ever-fractious kingdoms of Ireland, lately unified as but four (with the breaking of the Ultagh in the north-east): Tyrconnal, Connaght, Lenster and Munster. The tales of Tyrconnal and Lenster are dominated by wars at once with the Norrish to the east and the other Irish to the west, while the houses of Connaght and Munster vie for the position of High King of Ireland.
 
 The north holds the confederate Kingdoms of the Danes, newly untethered from overseas rule. The once-mighty kingdom of Northumbria is rendered but one province of the whole, yet the city of Yorwick remains the richest city on Albion (thanks to economic ties in all directions). Still more northerly lie the two-minded Kingdom of Scotland and the last remains of Horther rule in Albion persist in Orkney and Shetland.
 
@@ -4419,7 +4419,7 @@ davarn /daˈvaʀn/ [dɐˈvɑːn] resort, grand hotel
 
 pladisc /plaˈdix/ [plɐˈdɪç] bar, counter, esp. one serving alcohol
 
-< 12C in Old Boral as pladdisc or earlier plat disc /ˌplad:iʃ/, “counter”, literally “flat board”. The adjective is from Vulgar Latin plattus “flat”, from Greek πλατύς; the noun is from Norse diskr “plate”, which is probably cognate with Latin discus “discus, dish”.
+< 12C in Old Boral as pladdisc or earlier plat disc /ˌplad:iʃ/, “counter”, literally “flat board”. The adjective is from Vulgar Latin plattus “flat”, from Greek πλατύς; the noun is from Norrish diskr “plate”, which is probably cognate with Latin discus “discus, dish”.
 
     I lançau un pavar sur pladisc lon y tarner sgardant.
 
@@ -5841,7 +5841,7 @@ Salt the strips of fish and push them into the sauce. Cover the pan and leave fo
 
 flannar /flaˈnar/ [flɐˈnɑː] to amble, stroll, saunter; to walk leisurely with little intent
 
-< attested from late 10C in Old Boral flanar “rush, act rashly”, probably getting to its modern sense via “stray, go off course” (see the parallel developments in Norman French flanner). The word is most likely borrowed directly from Old Norse flana “get into a bad situation heedlessly”, or possibly via the Norman.
+< attested from late 10C in Old Boral flanar “rush, act rashly”, probably getting to its modern sense via “stray, go off course” (see the parallel developments in Norman French flanner). The word is most likely borrowed directly from Old Norrish flana “get into a bad situation heedlessly”, or possibly via the Norman.
 
     Tandic jo flanna ny bourg encontrau jo Mary.
 
@@ -6080,7 +6080,7 @@ temporane /tɛmˌpo.raˈne/ [tɪmˌpo.ʀɐˈne] contemporary, concurrent, simlut
 
 scencar /xɛnˈkar/ [çɪŋˈkɑː] to pour (out), to give or offer a drink, to toast (with preposition scencar a)
 
-< 10C in Old Boral scencar /ʃenˈkar/ "to pour, serve a drink", from Old English scencian with the same sense (palatal dissimilation may have occured, or there may be Norse influence; see also Kentish shink "to spill"). Its use meaning "to toast (someone)" is attested from the thirteenth century.
+< 10C in Old Boral scencar /ʃenˈkar/ "to pour, serve a drink", from Old English scencian with the same sense (palatal dissimilation may have occured, or there may be Norrish influence; see also Kentish shink "to spill"). Its use meaning "to toast (someone)" is attested from the thirteenth century.
 
     Vayað ny salon e scencheð tey un dragm a brandvin.
 
@@ -6269,7 +6269,7 @@ stivað /stiˈvaθ/ [stɪˈvah] crowded, stuffed; fed up, frustrated
 
 quarf /ˈkwarf/ wharf, quay, jetty, pier; also (train) station
 
-< attested from 10C in Old Boral western dialects (various forms) carf, querf “breakwater, riverbank; langing place for boats”, from Old English hwearf “heap, embankment, wharf”. There was possible influence from Old Norse hverf “turning, curve” (the cognate to hwearf), although this is contested. The semantics of quarf broadened to pile-supported structures like piers by the seventeenth century, displacing biðr “pier, jetty” (from Vulgar Latin petricus, related to petra “stone”).
+< attested from 10C in Old Boral western dialects (various forms) carf, querf “breakwater, riverbank; langing place for boats”, from Old English hwearf “heap, embankment, wharf”. There was possible influence from Old Norrish hverf “turning, curve” (the cognate to hwearf), although this is contested. The semantics of quarf broadened to pile-supported structures like piers by the seventeenth century, displacing biðr “pier, jetty” (from Vulgar Latin petricus, related to petra “stone”).
 
     Dou picq najel yemen ag quarf, cargað de pescot.
 
@@ -6991,7 +6991,7 @@ In any case, it is worth remembering that all models are only approximations. Th
 
 coroncr /koˈrɔnk/ [kʊˈʀɔŋk] pretender, claimant to a throne; impostor, fraud, person under a false identity or profession false qualifications; hypocrite, person whose words and deeds diverge
 
-Etymology: uncertain, but old—the first meaning of "claimant" is attested from the ninth century during the ascendancy of Dane Borland. One theory proposes a connection with coroun "crown, kingship" < Latin corōna "garland, wreath, crown", perhaps via a diminutive *corōnucula, although the accent being on the second syllable is hard to explain (we would expect coronoil). Another links it to the Dane rule and suggests dissimilation from earlier *conong < Norse konungr "king".
+Etymology: uncertain, but old—the first meaning of "claimant" is attested from the ninth century during the ascendancy of Dane Borland. One theory proposes a connection with coroun "crown, kingship" < Latin corōna "garland, wreath, crown", perhaps via a diminutive *corōnucula, although the accent being on the second syllable is hard to explain (we would expect coronoil). Another links it to the Dane rule and suggests dissimilation from earlier *conong < Norrish konungr "king".
 
 Cascif parmist vos coroncr remainn e lou blasmaust noc?
 /kaˈxɪf parˈmɪst vo koˈrɔnk reˈme.nn̩ e lu blaˈsmost nɔk/
@@ -7005,7 +7005,7 @@ excerpt from Shepherds of Hambrick: the Small History of Dane Borland, a 2008 bo
 
 …to be distracted by king-in-exile Jothey and his wife the queen Brenna of Barrow, no matter how intriguing their exploits in Sothbar and latterly overseas in Kent, nor how precious the Brethin copies of Brenna's correspondence with her uncle King Roderick.
 
-What, for example, can we make of the influx of Norse vocabulary in the field of archery from the early ninth century? We see <bers> "target, quarry" in a 834 N parabolic addendum from the Marvil chronicle; soon after are <boger> "archer", <arn> "fletch" and <scutar> "shoot" attested also. What is clear is that the bow and arrow were commonplace weapons available to any freeman in the Dane lands; consider the legend of Fithrischelve, who was said to have to outwitted the far-seer Quasir by striking him with an arrow fired from four thousand paces, beyond even his sight.
+What, for example, can we make of the influx of Norrish vocabulary in the field of archery from the early ninth century? We see <bers> "target, quarry" in a 834 N parabolic addendum from the Marvil chronicle; soon after are <boger> "archer", <arn> "fletch" and <scutar> "shoot" attested also. What is clear is that the bow and arrow were commonplace weapons available to any freeman in the Dane lands; consider the legend of Fithrischelve, who was said to have to outwitted the far-seer Quasir by striking him with an arrow fired from four thousand paces, beyond even his sight.
 
 Techniques in bowmaking must also have spread rapidly throughout the Dane territories, or at least bows obtained in raids east of Idel made their way expediently westward. Recent unearthings at the Voglat trove include a sapwood bow with carvings some scholars have connected to Awrish languages, but…
 
@@ -7115,7 +7115,7 @@ How long have your cousins been missing?
 
 excerpted from Ghendaline Cecchino's scholastic quire Tightrope Walking: a Linguistic History of Borland, a work (published originally in Napolitan as Funamblisme: n'Istorio Lingual d'e Isule Bural) distributed via the Edizore Università Napule in 1991 and chronicling the various changes in the Borlish language from the Roman period to the modern day.
 
-…a borrowing from Norse or English by considering which softenings have occured within the word—but be careful! If you don't know the source of the loanword precisely you can fail to take into account its original pronunciation. For example, one might suppose Boral <fruyar> "to dance" must be a very early borrowing from Old English frician, to have done away with the /k/ completely. But in fact evidence of Sothbar dialect particularities suggests that in the proximate source the verb was already pronounced /ˈfriːjːan/, from which we can only conclude that the word enters Boral at some point after the evolution of /dʒ/ (textual evidence dates it to at least the ninth century).
+…a borrowing from Norrish or English by considering which softenings have occured within the word—but be careful! If you don't know the source of the loanword precisely you can fail to take into account its original pronunciation. For example, one might suppose Boral <fruyar> "to dance" must be a very early borrowing from Old English frician, to have done away with the /k/ completely. But in fact evidence of Sothbar dialect particularities suggests that in the proximate source the verb was already pronounced /ˈfriːjːan/, from which we can only conclude that the word enters Boral at some point after the evolution of /dʒ/ (textual evidence dates it to at least the ninth century).
 
 Later on (see chapter 6) we will also see how sound changes have no memory—later sound changes can reverse the effects of earlier ones, even centuries later. The most impressive example of this process in Boral must be the early deletion of Latin <v> between vowels (hypothesised to have been underway even in the late Classical period), together with the circa seventeenth-century insertion of <v> to break up hiatus between /o/ and another vowel. For example, the Latin novellus "young, newly made" yields Old Boral noel "fresh, newborn", and Modern Boral novel "new". Often, however, such reversals affect only a portion…
 
@@ -7175,7 +7175,7 @@ No composer delighted more in the torriot than Mollam Bushta, ally of the early 
 
 ---
 
-[1] This etymology (relating it to Norse þórr "thunder) is disputed, although the alternative in Latin taurus "bull" is no less controversial.
+[1] This etymology (relating it to Norrish þórr "thunder) is disputed, although the alternative in Latin taurus "bull" is no less controversial.
 
 ##
 
@@ -7381,7 +7381,7 @@ page taken from the appendices of Jout Boral a Toð Cainç "Borlish Construction
 
 jout /ʒut/ mould, cast, die, a hollow form or frame for shaping a melted substance; pattern, template, stencil, an object whose shape is used as a guide; motif, figure, repeated element of a design in art, texiles or music
 
-Etymology: an early Middle Boral deverbal of joutar "to cast (metal), to use a mould" first attested in the early thirteenth century. The verb is older, a tenth-century borrowing from Old Norse gjóta "to pour, cast, mould". Extension of the noun to contexts other than metallurgy is seen from the late fifteenth century in textiles, and slightly later in more metaphorical use.
+Etymology: an early Middle Boral deverbal of joutar "to cast (metal), to use a mould" first attested in the early thirteenth century. The verb is older, a tenth-century borrowing from Old Norrish gjóta "to pour, cast, mould". Extension of the noun to contexts other than metallurgy is seen from the late fifteenth century in textiles, and slightly later in more metaphorical use.
 
 Il ern armað a pont costroir enter ne far jout.
 /ɪl ɛrn̩ arˈmaθ a pɔnt koˈstrɔjr ɛnˈtɛr ne far ʒut/
@@ -7411,7 +7411,7 @@ Marin put his hand on top of Vanna's, spreading his slim fingers over the harden
 
 brogmoð /brɔjˈmɔθ/ [bʀʊjˈmɔh] mead, alcoholic beverage made from fermented honey and spices
 
-Etymology: attested from the late ninth century in northern Old Boral bromiod et al. "bragget, mixture of mead and malt ale". The second half of the name is clearly a borrowing from Old Norse mjóðr "mead", while the first suggests a Latin *brocis (malt?). This could come from Gaulish bracis "malt" or perhaps a Borland Celtic *brax (?); either way it is almost cerainly of Celtic origin. The semantic shift to meaning just "mead" is hard to date, but is complete no later than the fifteenth century.
+Etymology: attested from the late ninth century in northern Old Boral bromiod et al. "bragget, mixture of mead and malt ale". The second half of the name is clearly a borrowing from Old Norrish mjóðr "mead", while the first suggests a Latin *brocis (malt?). This could come from Gaulish bracis "malt" or perhaps a Borland Celtic *brax (?); either way it is almost cerainly of Celtic origin. The semantic shift to meaning just "mead" is hard to date, but is complete no later than the fifteenth century.
 
 Nos sereu tout brogmoð beint e tort dell'ivan pascent.
 /no seˈraw tut brɔjˈmɔθ bint e tɔrt ˌde.liˈvan ˈpa.xɛnt/
@@ -7535,7 +7535,7 @@ Via merchant ships and via troops, along the rivers of Persia and the Russias, t
 
 askouð /aˈskuθ/ (dated or historical) box, chest, trunk, especially a strong container used to store valuables; (specifically) treasure chest, either at a royal/noble court storing the treasury or belonging to thieves/pirates; vault, strongroom, room used to store and secure currency or similar items; (by extension, metaphorically) goldmine, a plentiful stockpile of something (often knowledge or ideas) sought after
 
-Etymology: attested in Middle Boral as ascouð "secure box, chest" but likely earlier, thought to derive from an unattested Norse compound asc-húðr "ashwood-skin", which presumably draws on the imagery of one's hide as a protective layer.
+Etymology: attested in Middle Boral as ascouð "secure box, chest" but likely earlier, thought to derive from an unattested Norrish compound asc-húðr "ashwood-skin", which presumably draws on the imagery of one's hide as a protective layer.
 
 Il voltisceurn nell'askouð irront, tragç carnt.
 /ɪl ˌvɔl.tiˈxaw.rn̩ ˌne.laˈskuθ iˈrɔnt | trɛjts ˈka.rn̩t/
@@ -7830,11 +7830,11 @@ What follows is an enumeration of the "also-rans", primarily all the vocab I cre
 
 - staddenzan /ˌsta.dɛnˈzan/ [ˌsta.dɪnˈzan] staddenzen, local inhabitant of one of the polities that grew from early trading posts along the coasts of Cappatia [South America] and Africa; a direct borrowing from Saxon staddenzen, respelt to align with existing Boral denzan "local, denizen, citizen".
 
-- bog /bɔj/ bow, weapon made of curved wood with ends connected by string and used for shooting arrows; borrowed from Old Norse bogi "bow". The word displaces native arc < Latin arcus, relegated in the modern language to the senses "arch (architecture), curve, part of a circle".
+- bog /bɔj/ bow, weapon made of curved wood with ends connected by string and used for shooting arrows; borrowed from Old Norrish bogi "bow". The word displaces native arc < Latin arcus, relegated in the modern language to the senses "arch (architecture), curve, part of a circle".
 
 - bogher /bɔjˈɛr/ [bʊˈjɛː] archer, bowman, one who fights with a bow and arrow; a regular agentive derivation of the above.
 
-- arn /ˈa.rn̩/ [ɑːn] fletch, vane, the part toward the back of an arrow, used for stabilisation during flight; probably also from Old Norse (cf. Ydreç 2008) but the etymon is unclear.
+- arn /ˈa.rn̩/ [ɑːn] fletch, vane, the part toward the back of an arrow, used for stabilisation during flight; probably also from Old Norrish (cf. Ydreç 2008) but the etymon is unclear.
 
 - heredical /heˌre.diˈkal/ [hɪˌʀe.dɪˈkaw] genetic, hereditary, relating to biological descent; a Scholastic Latin derivation of heres "heir, heiress".
 
@@ -8169,9 +8169,9 @@ No-one had installed a switch for the light.
 
 3.5: Dane Settlements in the Isles
 
-excerpted from the scitation questions given in January 2014 N for the Tremonnow Open School (formerly the Brethin Mesh Institute)'s course in concurrence history titled 844–900: Early Dane Kingdom-Building across the Northwestern Isles, which covers the transition from viking raids along the coasts of Borland, Albion and Ireland to the establishment of permanent Norse communities in those regions.
+excerpted from the scitation questions given in January 2014 N for the Tremonnow Open School (formerly the Brethin Mesh Institute)'s course in concurrence history titled 844–900: Early Dane Kingdom-Building across the Northwestern Isles, which covers the transition from viking raids along the coasts of Borland, Albion and Ireland to the establishment of permanent Norrish communities in those regions.
 
-…writings on language, and discuss to what extent the 'father's name, mother's tongue' hypothesis adequately explains the persistence of Norse names long after the populations of Guile [Gael] and British Danelands were otherwise speaking the local language.
+…writings on language, and discuss to what extent the 'father's name, mother's tongue' hypothesis adequately explains the persistence of Norrish names long after the populations of Guile [Gael] and British Danelands were otherwise speaking the local language.
 
 Question 7 (thirty minutes)
 Answer any two of the following three questions.
@@ -8565,7 +8565,7 @@ sviðour /sviˈður/ [zvɪˈðʊː]
 
 Etymology: originally in the first sense (all the newer senses are attested from the late nineteenth century only), having shifted slightly from the more specific "(itinerant) farm labourer". In this use it is an agentive derivation from earlier (and similarly archaic) svið "area of farmland, especially one that has been newly-cleared for cultivation".
 
-This noun descends from Old Boral svið(re) "field cleared by burning; the practice of clearing fields for cultivation by burning", which is a borrowing either from Old Norse sviða "to burn" or from sviðna "to be burnt".
+This noun descends from Old Boral svið(re) "field cleared by burning; the practice of clearing fields for cultivation by burning", which is a borrowing either from Old Norrish sviða "to burn" or from sviðna "to be burnt".
 
 Jo no sta jamay sviðour de fic.
 /ʒo no sta ʒaˈme sviˈður de fɪk/
@@ -8944,7 +8944,7 @@ moðnaut /mɔðˈnot/ [mʊðˈnot]
 
 Etymology: from Middle Boral moðnaut "sailor", of uncertain origin. Most likely, although somewhat phonetically implausible, is that is descends from Middle Dutch matenout "bunkmate" < mate "mat, hammock" and henout "companion" (whence also Middle French matelot "sailor" and thus Kentish mattlet "(lower) seaman, below-decks shipworker".
 
-Alternatively, an earlier origin in the (probably Horther) Old Norse compound møtu-nautr "food companion" has been proposed; some also claim that this is the original etymon later influenced in meaning by the Middle Dutch above. Despite superficial similarity, certainly unrelated to Latin nauta or Greek ναύτης <naútes> "sailor".
+Alternatively, an earlier origin in the (probably Horther) Old Norrish compound møtu-nautr "food companion" has been proposed; some also claim that this is the original etymon later influenced in meaning by the Middle Dutch above. Despite superficial similarity, certainly unrelated to Latin nauta or Greek ναύτης <naútes> "sailor".
 
 Tre moðnaut ern y cordamn laðrant.
 /tre mɔðˈnot ɛrn i kɔrˈda.mn̩ laðˈrant/
@@ -9049,7 +9049,7 @@ jolleistr /ʒoˈlistr̩/ [ʒʊˈli.stɐ]
 - excursion, jaunt, outing, night out, a recreational trip especially lasting the evening and into the night;
 - (obsolete) the Revillon, the evening meal eaten the night before Christmas usually in a public hall
 
-Etymology: from Middle Boral jolveisr "Revillon", itself from Old Boral iolveisle with the same sense. Possibly influenced in form by Old French jolif "merry, joyful" (which may have been borrowed into southwestern dialects of Middle Boral; attestations are alleged but uncertain). The source of the Old Boral is in Norse jólveizla "Yule feast", a transparent compound (cf. modern Horther veizel "banquet").
+Etymology: from Middle Boral jolveisr "Revillon", itself from Old Boral iolveisle with the same sense. Possibly influenced in form by Old French jolif "merry, joyful" (which may have been borrowed into southwestern dialects of Middle Boral; attestations are alleged but uncertain). The source of the Old Boral is in Norrish jólveizla "Yule feast", a transparent compound (cf. modern Horther veizel "banquet").
 
 Nos coum tout eurað par un grand jolleistr.
 /nɔz kum tut awˈraθ par ɪn grant ʒoˈlistr̩/
@@ -9110,7 +9110,7 @@ gimmoldr /giˈmɔl.dr̩/ [gɪˈmɔw.dɐ]
 - to be responsible for the accomplishment of an ongoing endeavour or event, especially of a religious ritual
 - to preside over an instance of such an event or ritual
 
-Etymology: from Old Boral gimmolre "to perform the Eucharist", from a conflation of Latin verb immolō "I sacrifice, immolate" (cf. modern immolar "to destroy by fire") with the related molō "I grind, mill". Excrescence of the initial g- is unexplained, leading some to propose an alternative origin in an unattested phrase gib molre, in which the first word is borrowed from Old Norse gipt "gift, good luck". The shift in Middle Boral to mean "endeavour, toil" is likely due to semantic influence from parallel moldr "to grind".
+Etymology: from Old Boral gimmolre "to perform the Eucharist", from a conflation of Latin verb immolō "I sacrifice, immolate" (cf. modern immolar "to destroy by fire") with the related molō "I grind, mill". Excrescence of the initial g- is unexplained, leading some to propose an alternative origin in an unattested phrase gib molre, in which the first word is borrowed from Old Norrish gipt "gift, good luck". The shift in Middle Boral to mean "endeavour, toil" is likely due to semantic influence from parallel moldr "to grind".
 
 Vos gimmoloist a remanir ne cognit.
 /vɔz ˌgi.moˈlɔjst a ˌre.maˈnɪr ne kɔjˈnɪt/
@@ -9643,7 +9643,7 @@ I commend you on the loyalty of the henchmen.
 
 Revillon (Borlish Reveglon /ˌre.vijˈlɔn/) is the Borlish term for the eve (and often the entire day) before Christide. It refers also to the specific cultural practice on the island of the Winter Feast (y Fest Reveglon), a celebration held on Revillon in churches across the land to which everyone in attendance brings food.
 
-The Borlish name Reveglon means "vigil", and is a Middle Boral borrowing from the synonymous French reveillon, itself originally from Latin evigilō "I wake up". Earlier names include jolveisre, taken from Old Norse jólveizla "Yule feast", and fleðoul (of unknown etymology), both of which referred specifically to the celebrations.
+The Borlish name Reveglon means "vigil", and is a Middle Boral borrowing from the synonymous French reveillon, itself originally from Latin evigilō "I wake up". Earlier names include jolveisre, taken from Old Norrish jólveizla "Yule feast", and fleðoul (of unknown etymology), both of which referred specifically to the celebrations.
 
 Evidence of similar winter solstice festivities involving communally-prepared feasts on Borland predates even the Roman invasion, making Revillon one of the longest continuously-practised folk traditions in Europe (bearing in mind that the practice has evolved considerably with time). Third-century Roman historian Ammian Marcellinus provides us with an early written mention of the Winter Feast, which appears (under its original name Flidōlus, which gave the aforementioned fleðoul) in one of his asides on the Northern Isles. Post-imperial sources in the first millennium almost exclusively criticise the tradition as pagan and unholy; however, by the twelfth century the practice is fully appropriated by the Church.
 
@@ -9717,7 +9717,7 @@ doujug veunt /duˈʒaj vawnt/ [dʊˈʝaj vawnt]
 
 Etymology: attested from the Long Peace in the late eighteenth century to translate Mashick zawalli ca'irát "web of living things", from the work of Iscoval or his contemporaries.
 
-The noun doujug "spiderweb" descends from northern dialect phrase doun jug /dundʒəj/ "July's down feathers" (standard pluot jugler /pljɔt ʒajˈlɛr/); the noun doun "soft, immature feathers" is borrowed from synonymous Old Norse dúnn, while jug reflects Latin Iūlius "July".
+The noun doujug "spiderweb" descends from northern dialect phrase doun jug /dundʒəj/ "July's down feathers" (standard pluot jugler /pljɔt ʒajˈlɛr/); the noun doun "soft, immature feathers" is borrowed from synonymous Old Norrish dúnn, while jug reflects Latin Iūlius "July".
 
 L'eç mersc recievn un doujug veunt frail.
 /lɛts mɛrx reˈtsjɛvn̩ ɪn duˈʒaj vawnt frel/
@@ -10109,7 +10109,7 @@ gaddar /gaˈdar/ [gɐˈdɑː]
 - to hang on to, to grasp a surface tightly so as not to be pulled off;
 - to propel oneself through water or air by the action of a screw propeller
 
-Etymology: verbal derivation from obsolete gad (modern Boral gaddet "screw"), descending from Old Boral gad(d) "rivet, bolt". This in turn is a medieval borrowing from Old English gád "metal point, spearhead" or Old Norse gaddr "spike".
+Etymology: verbal derivation from obsolete gad (modern Boral gaddet "screw"), descending from Old Boral gad(d) "rivet, bolt". This in turn is a medieval borrowing from Old English gád "metal point, spearhead" or Old Norrish gaddr "spike".
 
 Nos erau y Nil gaddant aval n'auror.
 /nɔz eˈro i nɪl gaˈdant aˈval noˈrɔr/
@@ -10447,7 +10447,7 @@ The figures of the graveyard fiddlers are a folk tradition peculiar to Borland. 
 A related group are the Wild Hunt (Cauç Ragnt), a party of hunters passing overhead said to be responsible for the sound of thunder and strong winds. A children's story common to many cultures across Europe, the Wild Hunt in Borland shows clear signs of a Dane origin—not least that it is traditionally led by Balegr, a kenning of Odin.
 Language
 
-By far the most commonly-spoken language in Borland is the Borlish language, the only surviving branch of Insular Romance. It share many features with Gallo-Romance, including loss of case and intervocalic lenition. It was also heavily influenced in the first millennium by Old English and Old Norse.
+By far the most commonly-spoken language in Borland is the Borlish language, the only surviving branch of Insular Romance. It share many features with Gallo-Romance, including loss of case and intervocalic lenition. It was also heavily influenced in the first millennium by Old English and Old Norrish.
 Geography
 
 Regions and territories
@@ -11931,7 +11931,7 @@ The Guithle kingdom of Scotland was established in the ninth century with the he
 
 Sodrick lost much of its territory to the kingdom of Dunclothe in the tenth century, as it had been weakened by extended vikings to the east and the short-term decline in the Dane Supremacy.
 
-By the turn of the second millennium, the south of the island is dominated by an expanded Kent (having recently subdued the remains of Wessex) below Markland and a now-unified Kingdom of Wales. To the north lie the confederate kingdoms of the Danes and then a Scotland even now influenced by Norse and English peoples.
+By the turn of the second millennium, the south of the island is dominated by an expanded Kent (having recently subdued the remains of Wessex) below Markland and a now-unified Kingdom of Wales. To the north lie the confederate kingdoms of the Danes and then a Scotland even now influenced by Norrish and English peoples.
 
 Much of southern Albion was conquered in the eleventh century by Normandy (with the aid of Devon in the form of the Kernovan Conjuring), consolidating the island bar Wales as far north as Edinbrough into what would become the First Drengot Empire.
 
@@ -13940,7 +13940,7 @@ I envied my brother's globe-trotting tales.
 Damvath is the capital city of Borland, located on the River Dam some leagues inland from the coast.
 
 Toponymy
-The name Damvath derives from the Norse name Damvað "ford on the Dam". The river's name is pre-Roman and is likely cognate with the Tames in Albion and the Tanga in Portingale.
+The name Damvath derives from the Norrish name Damvað "ford on the Dam". The river's name is pre-Roman and is likely cognate with the Tames in Albion and the Tanga in Portingale.
 
 History
 Damvath was established first as the capital of Dane-ruled Borland after the exile of King Jothey to Sothbar in the last years of the ninth century.
@@ -14772,7 +14772,7 @@ sucquar /sɔˈkwar/ [sʊˈkwɑː]
 - flag, tire, to begin to show signs of exhaustion;
 - have enough, run out of patience, to no longer have the energy to deal with some nuisance
 
-Etymology: from Old Boral sucquar "to sink, sag, slump", from synonymous søcqua in Old Norse. Seen in the last use especially in the phrase jo sucq den "I've had enough" from the sixteenth century. The latter meanings may have been influenced by Dane sʉg "ill, weary, fed up" or a similar cognate.
+Etymology: from Old Boral sucquar "to sink, sag, slump", from synonymous søcqua in Old Norrish. Seen in the last use especially in the phrase jo sucq den "I've had enough" from the sixteenth century. The latter meanings may have been influenced by Dane sʉg "ill, weary, fed up" or a similar cognate.
 
 Jo sucq de ty connardaç!
 /ʒo sɪk de ti ˌkɔ.narˈdats/
@@ -15507,7 +15507,7 @@ Ambrosia (Vascon/Vask Ambroxa) is a polity of north-eastern Mendeva, comprising 
 
 History
 
-The story of Ambrosia begins with the Novomundine Landfall of 1471, when Vetomundine travellers encountered Mendeva for the first time since sporadic visits by the Norse. A Vask fishing expedition (part of the New Navarre Enterprise) landed on the island of Brasil, which would go on to host the first European settlements in Mendeva.
+The story of Ambrosia begins with the Novomundine Landfall of 1471, when Vetomundine travellers encountered Mendeva for the first time since sporadic visits by the Norrish. A Vask fishing expedition (part of the New Navarre Enterprise) landed on the island of Brasil, which would go on to host the first European settlements in Mendeva.
 
 The parts of Mendeva first explored by (and whose trade was monopolised by) Vascony—to wit, the island of Brasil and the lands westward thereof—was named Ambrosia in honour of Ambrose III of Vascony.
 
@@ -17562,10 +17562,10 @@ There were hardly any sandwiches left on the buffet table.
 Sodrick (Merch /ˈsɔ.drɪk/, Welsh Heleð /heˈlɛð/) is a region of the Northwestern Isles comprising many small islands north of Wales and west of Scotland.
 
 Toponymy
-The name Sodrick was originally a demonym for the people of Soder (Old English Sodor), which descends from the Old Norse suðreyjar "southern islands".
+The name Sodrick was originally a demonym for the people of Soder (Old English Sodor), which descends from the Old Norrish suðreyjar "southern islands".
 
 History
-Sodrick was settled during the Norse ascendancy of the eighth and ninth centuries, at the same time as Danes arrived on the shores of Albion and Ireland. Harald the Blue of Sodrick contributed to the establishment of the Kingdom of Scotland in the ninth century. Even the Welsh island of Mondwell was half controlled by Sodrick for some time after a partition agreed between Sodrick and Wynneth that was recorded in both the Ulstre and Carlile chronicles.
+Sodrick was settled during the Norrish ascendancy of the eighth and ninth centuries, at the same time as Danes arrived on the shores of Albion and Ireland. Harald the Blue of Sodrick contributed to the establishment of the Kingdom of Scotland in the ninth century. Even the Welsh island of Mondwell was half controlled by Sodrick for some time after a partition agreed between Sodrick and Wynneth that was recorded in both the Ulstre and Carlile chronicles.
 
 During the tenth century, the kingdom of Dunclothe under Roderick invaded and conquered many of the isles of Sodrick from the Danes, including Arran in 934 and (most significantly, as a power centre) the isle of Man in 942. The decline of Dane power in Sodrick has been connected to the decreased efficiency of obtaining wealth by raiding over time.
 
@@ -18028,7 +18028,7 @@ Revillon
 
 Revillon (Borlish Reveglon /ˌre.vijˈlɔn/) is the Borlish term for the eve (and often the entire day) before Christide. It refers also to the specific cultural practice on the island of the Winter Feast (y Fest Reveglon), a celebration held on Revillon in churches across the land to which everyone in attendance brings food.
 
-The Borlish name Reveglon means "vigil", and is a Middle Boral borrowing from the synonymous French reveillon, itself originally from Latin evigilō "I wake up". Earlier names include jolveisre (modern jolleistr "excursion, jaunt"), taken from Old Norse jólveizla "Yule feast", and fleðoul (of unknown ultimate etymology), both of which referred specifically to the celebrations.
+The Borlish name Reveglon means "vigil", and is a Middle Boral borrowing from the synonymous French reveillon, itself originally from Latin evigilō "I wake up". Earlier names include jolveisre (modern jolleistr "excursion, jaunt"), taken from Old Norrish jólveizla "Yule feast", and fleðoul (of unknown ultimate etymology), both of which referred specifically to the celebrations.
 
 Evidence of similar winter solstice festivities involving communally-prepared feasts on Borland predates even the Roman invasion, making Revillon one of the longest continuously-practised folk traditions in Europe (bearing in mind that the practice has evolved considerably with time). Third-century Roman historian Ammian Marcellinus provides us with an early written mention of the Winter Feast, which appears (under its original name Flidōlus, which gave the aforementioned fleðoul) in one of his asides on the Northwestern Isles. Post-imperial sources in the first millennium almost exclusively criticise the tradition as pagan and unholy; however, by the twelfth century the practice is fully appropriated by the Church.
 
@@ -19923,7 +19923,7 @@ veðrvent /ˌvɛ.ðr̩ˈvɛnt/ [ˌvɛ.ðɐˈvɛnt]
 - anemometer, windmeter, a more sophisticated device for measuring and recording the speed and direction of the wind;
 - (metaphorically) volte-face, about-face, U-turn, flip-flop, a sudden reversal of opinion or strategy
 
-Etymology: folk-etymological alteration of Old Borlish veðrevit "vane" under the influence of vent "wind" < synonymous ventus in Latin. The Old Borlish is a borrowing from Old Norse veðrviti "vane", literally "weather knower". Synchronically interpretable as "wind-glass"; though they are not normally made of glass, the word has been analysed as referring to glassware used for measurement. In metaphorical usage the word is seen from the eighteenth century.
+Etymology: folk-etymological alteration of Old Borlish veðrevit "vane" under the influence of vent "wind" < synonymous ventus in Latin. The Old Borlish is a borrowing from Old Norrish veðrviti "vane", literally "weather knower". Synchronically interpretable as "wind-glass"; though they are not normally made of glass, the word has been analysed as referring to glassware used for measurement. In metaphorical usage the word is seen from the eighteenth century.
 
 Y torvegl indugs ec mesuranç suprem de veðrvent tras istr.
 /i tɔrˈvijl ɪnˈdajz ɛk ˌme.ziˈrants siˈprɛm de ˌvɛ.ðr̩ˈvɛnt traz ˈɪ.str̩/
@@ -21234,7 +21234,7 @@ I found nothing useful in the journalist's paraphernalia.
 kirt ag madou /kɪrt ɛj maˈdu/ [kɪːt ɛj mɐˈdu]
 - catalyst, trigger, spark, inciting incident, a thing or event that sets something (especially something of outsized impact) into motion;
 
-Etymology: idiom attested from the 18C, literally "spark to the kindling". The noun kirt "spark" descends from synonymous kirte in Old Borlish, and is probably onomatopoeic in origin. The noun madou "tinder, kindling" is a borrowing from Middle French (a)madou "lure, bait; kindling, touchwood", a deverbal of amadouer "coax, lure; kindle". This verb is thought to descend via Old Norse mata "lure, feed" from Classical German *matōnam "feed".
+Etymology: idiom attested from the 18C, literally "spark to the kindling". The noun kirt "spark" descends from synonymous kirte in Old Borlish, and is probably onomatopoeic in origin. The noun madou "tinder, kindling" is a borrowing from Middle French (a)madou "lure, bait; kindling, touchwood", a deverbal of amadouer "coax, lure; kindle". This verb is thought to descend via Old Norrish mata "lure, feed" from Classical German *matōnam "feed".
 
 Cay rix un kirt ag madou por defas machinaçonal.
 /ke rɪks ɪn kɪrt ɛj maˈdu pɔr deˈfaz ˌma.kiˈna.tsoˈnal/
@@ -21507,7 +21507,7 @@ run /rɪn/ [ʀɪn]
 - symbol, glyph, any non-verbal representation which imparts information;
 - (historical, specifically) rune, a letter in one of the German writing systems
 
-Etymology: originally in the last sense, descending from Old Borlish run /ryn/ "rune". This was borrowed either from Old Norse rún "secret, rune" or Old English rūn "mystery, rune". In the Middle Borlish period this word retained senses like "magic spell" and "talisman", but these became obsolete in the sixteenth century (although derivatives like runam "secretly" and runastr "sorcerer" survive to the modern day).
+Etymology: originally in the last sense, descending from Old Borlish run /ryn/ "rune". This was borrowed either from Old Norrish rún "secret, rune" or Old English rūn "mystery, rune". In the Middle Borlish period this word retained senses like "magic spell" and "talisman", but these became obsolete in the sixteenth century (although derivatives like runam "secretly" and runastr "sorcerer" survive to the modern day).
 
 Jo ney a l'oc run final yembr ny scarrad yarcer.
 /ʒo ni a lɔk rɪn fiˈnal jɛmbr̩ ni xaˈrad jarˈtsɛr/
@@ -22537,7 +22537,7 @@ oundrar /unˈdrar/ [ʊnˈdʀɐː]
 - damage, break, impair, to cause not to function correctly;
 - offend, spite, insult, to hurt the feelings or honour of
 
-Etymology: from Old Borlish (v)ounrar, oundar "wound, injure", a conflation of the descendant of Latin vulnerō "I wound" and the borrowing of Old Norse unda "to wound" (which are unrelated). The loss of the initial consonant would be unexpected if the Latin etymon was the only one; however, this was a regular feature of Old Norse.
+Etymology: from Old Borlish (v)ounrar, oundar "wound, injure", a conflation of the descendant of Latin vulnerō "I wound" and the borrowing of Old Norrish unda "to wound" (which are unrelated). The loss of the initial consonant would be unexpected if the Latin etymon was the only one; however, this was a regular feature of Old Norrish.
 
 M'orruð un hom ay my bos oundrað.
 /mɔˈrɪθ ɪn ɔm e mi bɔz unˈdraθ/
@@ -22624,7 +22624,7 @@ rasamar /ˌra.zaˈmar/ [ˌʀa.zɐˈmɐː]
 - tsunami, tidal wave, a very large and destructive wave as caused by an earthquake or eruption;
 - flood, onslaught, onrush, the sudden appearance of a large number or mass of things or people
 
-Etymology: Middle Borlish, a univerbation of the earlier phrase ras a mar "onrush of sea". The now-obsolete word ras "rush, stampede, running" was borrowed either from Old English or Norse. In metaphorical use the word rasamar is attested from as early as the fifteenth century.
+Etymology: Middle Borlish, a univerbation of the earlier phrase ras a mar "onrush of sea". The now-obsolete word ras "rush, stampede, running" was borrowed either from Old English or Norrish. In metaphorical use the word rasamar is attested from as early as the fifteenth century.
 
 Sceye un rasamar de conement pront la y varous cof yert.
 /xiˈje ɪn ˌra.zaˈmar de ˌko.neˈmɛnt prɔnt la i vaˈruz kɔf jɛːt/
@@ -22740,8 +22740,8 @@ Etymology: from Scholastic Latin congenēscō "I bring into being", a regularise
 Y parol 'sauð' e 'veð' son congenið de Veðr Norresc.
 /i paˈrɔl soθ e vɛθ sɔn ˌkɔn.ʒeˈnɪθ de vɛðr̩ nɔˈrɛx/
 [i pɐˈʀɔl so‿ðe vɛh sɔŋ ˌkɔɲ.ʝɪˈnɪh de ˈvɛ.ðɐ nʊˈʀɛç]
-df word ewe and ram be.3p beget-p.pst of old Norse
-The words 'ewe' and 'ram' descend from Old Norse.
+df word ewe and ram be.3p beget-p.pst of old Norrish
+The words 'ewe' and 'ram' descend from Old Norrish.
 
 ##
 
@@ -23063,7 +23063,7 @@ bount /bunt/ [bunt]
 - determined, willing, intent, bent, wanting to do something;
 - set, set up, ready, prepared, arranged as necessary ahead of time
 
-Etymology: from Old Borlish boun "ready, willing", altered to bount by analogy with the present participle ending -nt by the early modern period. This is a borrowing from Old Norse búinn "adapted, fit", the past participle of búa "reside, prepare, decorate". In archaic or poetic use the word may be used as a preposition meaning "about to; approaching".
+Etymology: from Old Borlish boun "ready, willing", altered to bount by analogy with the present participle ending -nt by the early modern period. This is a borrowing from Old Norrish búinn "adapted, fit", the past participle of búa "reside, prepare, decorate". In archaic or poetic use the word may be used as a preposition meaning "about to; approaching".
 
 I me quistau por m'addocir ig bount son il ag quarf.
 /i me kwɪˈsto pɔr ˌma.doˈtsɪr ai bunt sɔn ɪl ɛi kwarf/
@@ -24682,7 +24682,7 @@ I kept playing, ignoring the giggles.
 - surprise, bombshell, bolt from the blue, an unexpected event or arrival that is felt to come out of nowhere;
 - inspiration, flash of insight, a sudden realisation or deduction
 
-Etymology: verb-noun compound formed in the twentieth century by analogy to earlier analogous words like caugtrbal "football", lit. "kick-ball". The noun bal "ball" comes from a variety of Germanic sources and potentially via Medieval Latin—cf. Old English beall, Old Norse bòllr, Frankish bal "ball". The verb ðesmar "aim, target, direct" reflects Old Borlish ðestmar "work out, consider, turn one's attention to", which descends from an extension of Classical Latin æstimō "I determine the worth of, I value"; thus, ðesmar is a doublet of semi-learned stimar "consider, deem". The word has been used metaphorically for unexpected things since the 1990s.
+Etymology: verb-noun compound formed in the twentieth century by analogy to earlier analogous words like caugtrbal "football", lit. "kick-ball". The noun bal "ball" comes from a variety of Germanic sources and potentially via Medieval Latin—cf. Old English beall, Old Norrish bòllr, Frankish bal "ball". The verb ðesmar "aim, target, direct" reflects Old Borlish ðestmar "work out, consider, turn one's attention to", which descends from an extension of Classical Latin æstimō "I determine the worth of, I value"; thus, ðesmar is a doublet of semi-learned stimar "consider, deem". The word has been used metaphorically for unexpected things since the 1990s.
 
 All'oc ostendour fey jougl y ðesmbal d'Apollon.
 /a.lɔk ˌɔ.stɛnˈdur fi ʒuil i ðɛzm̩ˈbal ˌda.pɔˈlɔn/
@@ -24795,7 +24795,7 @@ gapir /gaˈpɪr/ [gɐˈpɪː]
 - pop up, crop up, to appear (multiple times) without warning;
 - be flaky, shilly-shally, to behave unpredictably or unreliably
 
-Etymology: verbal derivative from gap "patch", apparently borrowed in the Middle Borlish period from Welsh gap "hole; patch, a distinct section of some larger whole". This in turn was taken from Old Norse gap "empty space, gap, chasm", deverbal from gapa "to gape, be open wide".
+Etymology: verbal derivative from gap "patch", apparently borrowed in the Middle Borlish period from Welsh gap "hole; patch, a distinct section of some larger whole". This in turn was taken from Old Norrish gap "empty space, gap, chasm", deverbal from gapa "to gape, be open wide".
 
 L'oç astuçour es gapiscent par toð y lasc.
 /lɔts ˌa.stiˈtsur ɛz ˌga.piˈxɛnt par tɔθ i lax/
@@ -24817,7 +24817,7 @@ Though the noxious effects of breathing the air in closed spaces where a coal fi
 
 The Graven Sea (Merch /ˈgɾɛː.vən ˈseː/) [Baltic Sea], formerly or poetically also the Eastmere, is an arm of the Atlantic Ocean in northern Europe east of Denmark and enclosed by several polities.
 
-The name derives from Scholastic Latin Gravinia, a term for the region around this sea. This is a backformation from gravinicus, graunicus "from or pertaining to the Graven Sea". In turn, this appears to have been a minim error by a late medieval scribe from former granvicus, a borrowing from Old Norse Gandvik. This placename, identified with the Graven Sea since the fourteenth century, may have originally referred to any of several bodies of water, including the Arctic Ocean.
+The name derives from Scholastic Latin Gravinia, a term for the region around this sea. This is a backformation from gravinicus, graunicus "from or pertaining to the Graven Sea". In turn, this appears to have been a minim error by a late medieval scribe from former granvicus, a borrowing from Old Norrish Gandvik. This placename, identified with the Graven Sea since the fourteenth century, may have originally referred to any of several bodies of water, including the Arctic Ocean.
 
 The archaic synonym Eastmere is a calque from the name in various German languages; for instance, in Frise [Frisian] the sea is called the Astmar "east sea".
 
@@ -25176,7 +25176,7 @@ further excerpts from the Veriloquace Glossary of Alchemy, a reference quire com
 
 calamine /ˈka.lɐ.məin/ [calamine] conventionalised name for the chalk [carbonate] of jast [zinc], a mineral known since antiquity, used in the smelting of brass and the treatment of rashes. 1645 < Scholastic Latin calamīna < sporadic alteration of Classical cadmīa "calamine; slag, dross" < Ancient Greek Κᾰ́δμος • Kắdmos "Cadmus, legendary founder of Thebes".
 
-od configure /ˈɔd ˈkɔn.fɪˌgjəuə/ [diastereoisomer] one of two or more configures [stereoisomers] of a substance which cannot be superimposed upon each other or upon each other's mirror images. Contrast with a mirrored pair of even configures [enantiomers]. 1922, compound of od "unpaired, indivisible by two" and configure "shape, arrangement". The first < Early Merch odde < Old Norrish [Norse] oddi "third; odd" < oddr "sharp point; triangle" < Classical German usdas "sharp point; position". The second < Scholastic Latin cōnfigūra "moulding, shape" < Classical cōnfigūrō "I mould" < figūrō "I form, shape" < figūra "shape, form".
+od configure /ˈɔd ˈkɔn.fɪˌgjəuə/ [diastereoisomer] one of two or more configures [stereoisomers] of a substance which cannot be superimposed upon each other or upon each other's mirror images. Contrast with a mirrored pair of even configures [enantiomers]. 1922, compound of od "unpaired, indivisible by two" and configure "shape, arrangement". The first < Early Merch odde < Old Norrish [Norrish] oddi "third; odd" < oddr "sharp point; triangle" < Classical German usdas "sharp point; position". The second < Scholastic Latin cōnfigūra "moulding, shape" < Classical cōnfigūrō "I mould" < figūrō "I form, shape" < figūra "shape, form".
 
 palaquate /ˈpa.lɐˌkwɛːt/ [oxalic acid] the simplest twice-acid oil [dicarboxylic acid], containing only two atoms of coke [carbon] and being a colourless and crystalline substance found in plants. 1834 < Scholastic Latin palaquātum < Sanscrit पालक्यावत् • pālaciāvat or its Gurjat [Gujarati] reflex પાલકવાડો • pālacvād̦o "characterised by spinach" < Gurjat પાલક • pālac "spinach" < Sanscrit पालक्या • pālaciā "beet, leafy vegetable". The substance was first extracted from the leaves of spinach during the Long Peace period.
 
@@ -25525,7 +25525,7 @@ She seems worth the benefit of the doubt.
 
 171.5: Novomundine Landfall
 
-The Novomundine Landfall (Borlish Abanc Novomondin) occurred in 1471 N, when a ship that was part of a New Navarre Enterprise fishing expedition in the North Atlantic sighted and made landfall on the island of Brasil [Newfoundland]. It marks the start of prolonged contact between the Vetomund [Afroeurasia] and the Novomund [Americas] (notwithstanding evidence of sporadic Norrish [Norse] contact with the region), and the first century following the Landfall is known to historians as the Intertwining Century.
+The Novomundine Landfall (Borlish Abanc Novomondin) occurred in 1471 N, when a ship that was part of a New Navarre Enterprise fishing expedition in the North Atlantic sighted and made landfall on the island of Brasil [Newfoundland]. It marks the start of prolonged contact between the Vetomund [Afroeurasia] and the Novomund [Americas] (notwithstanding evidence of sporadic Norrish [Norrish] contact with the region), and the first century following the Landfall is known to historians as the Intertwining Century.
 
 The terms Novomund and Mendeva [North America] date to this voyage; a surviving map from the Landfall voyage itself is marked terrae mendevalensis, after the Vask [Basque] mendeval "west".
 
@@ -26540,7 +26540,7 @@ broðoquin /ˌbro.ðoˈkwɪn/ [ˌbʀo.ðʊˈkwɪn]
 - gibberish, gobbledegook, nonsense, babble, double Dutch, speech without meaning;
 - bullshit, tosh, balderdash, poppycock, blatant falsehoods
 
-Etymology: fourteenth century with various spellings, originally meaning "the language of non-Borlish speakers on Borland, especially of the northern Norse speakers". Both Norse and English languages had been spoken for several centuries on the north and west of the island, respectively. The word is presumed to be an adaptation of the Borland Norse phrase broð oc vin "bread and wine" (the alternative broðr oc ven "brother and friend" is considered less plausible).
+Etymology: fourteenth century with various spellings, originally meaning "the language of non-Borlish speakers on Borland, especially of the northern Norrish speakers". Both Norrish and English languages had been spoken for several centuries on the north and west of the island, respectively. The word is presumed to be an adaptation of the Borland Norrish phrase broð oc vin "bread and wine" (the alternative broðr oc ven "brother and friend" is considered less plausible).
 
 Jo vay noc a l'ec broðoquin scoutar.
 /ʒo ve nɔk a lɛk ˌbro.ðoˈkwɪn xuˈtar/
@@ -26943,7 +26943,7 @@ England (Merch /ˈɛn.glənd/, Norman Engleterre /ˈɛ̃ng.tɛʀ/, Welsh Łoegr 
 
 The majority of languages not listed above refer to this region by some borrowing or adaptation of Medieval Latin Anglōnia "England". This was formed by analogy to e.g. Saxōnia "Saxony" from the root Anglī "Angles", one of the German peoples who populated the region in the sub-Roman and early medieval period. The exceptional Welsh and Borlish toponyms are presumably cognate (see Old Borlish variant form Laȝr "Englishman"), reflecting a hypothesised Classical Kelt word laecor "warriors".
 
-There are (according to mainstream analysis) four English languages spoken on Albion; in order of number of speakers these are Northumber, Wessern, Kentish and Merch. The polity of Northumber extends from the Humber to Edinbrough along the eastern side of Albion, but its local tongue, which has more Norse influence than other Englishes, competes for use there with the more prestigious Merch. Wessern is predominantly spoken in Britain [Wales, Devon, etc], where it enjoys co-official status in some tallaths [~provinces] but a decidedly subordinate role. Wessern features geminate consonants and the simplification of coda clusters (compare Merch dark /daːk/ to Wessern darick /ˈda.ɾək/ "dark"), as well as fricative voicing between vowels and at the start of words.
+There are (according to mainstream analysis) four English languages spoken on Albion; in order of number of speakers these are Northumber, Wessern, Kentish and Merch. The polity of Northumber extends from the Humber to Edinbrough along the eastern side of Albion, but its local tongue, which has more Norrish influence than other Englishes, competes for use there with the more prestigious Merch. Wessern is predominantly spoken in Britain [Wales, Devon, etc], where it enjoys co-official status in some tallaths [~provinces] but a decidedly subordinate role. Wessern features geminate consonants and the simplification of coda clusters (compare Merch dark /daːk/ to Wessern darick /ˈda.ɾək/ "dark"), as well as fricative voicing between vowels and at the start of words.
 
 Kentish is one of the two languages of Kent along with Norman. Kent is a polity divided by the Kentish Channel [English Channel], both geographically and linguistically. Nonetheless, Kentish has had much more French influence over the past millennium than other Englishes, which continues to this day. For example, Kentish is the only English language within the so-called "roral ambit", having a uvular rhotic.
 
@@ -27064,7 +27064,7 @@ feurðon /faurˈðɔn/ [ˌfa.wɐˈðɔn]
 - rood, vergée, a traditional unit of land area equal to one quarter of an acre;
 - decare, a modern metric unit of land area defined as ten thousand square feet
 
-Etymology: originally in the first sense, part of the traditional system of area measures used on Borland along with the acr "acre" (also called the jur in the east). The word reflects Old Borlish feorðon, forðin "rood", from Old English féorðing or Old Norrish [Norse] fiórðungr "quarter, fourth part". The word was redefined in the nineteenth century with the adoption of dime [metric] units, being the numerically closest measure available (compare the Turk دونوم • dönüm or the Nivoner [Japanese] たんぶ • tambu, units which were similarly adjusted to this new dime measure).
+Etymology: originally in the first sense, part of the traditional system of area measures used on Borland along with the acr "acre" (also called the jur in the east). The word reflects Old Borlish feorðon, forðin "rood", from Old English féorðing or Old Norrish [Norrish] fiórðungr "quarter, fourth part". The word was redefined in the nineteenth century with the adoption of dime [metric] units, being the numerically closest measure available (compare the Turk دونوم • dönüm or the Nivoner [Japanese] たんぶ • tambu, units which were similarly adjusted to this new dime measure).
 
 Y majon terraun set nell'oc feurðon.
 /i maˈʒɔn tɛˈron sɛt nɛˈlɔk faurˈðɔn/
@@ -27081,7 +27081,7 @@ yauvnar /jovˈnar/ [ʝʊvˈnɐː/
 - tamp down, flatten, to hit or push against from above to make smooth or flat;
 - unruffle, smooth out, to remove the bumpiness from by e.g. stretching out;
 
-Etymology: originally in the latter senses, descendant of Old Borlish iawnar "to smooth, even, flatten". This is a borrowing from Old Norrish [Norse] jafna "to make even", a verbal derivative of jafn "even; equal, same". Specialisation to the act of tapping the flat of one's hand against something is seen from the fifteenth century.
+Etymology: originally in the latter senses, descendant of Old Borlish iawnar "to smooth, even, flatten". This is a borrowing from Old Norrish [Norrish] jafna "to make even", a verbal derivative of jafn "even; equal, same". Specialisation to the act of tapping the flat of one's hand against something is seen from the fifteenth century.
 
 I s'yauvnau y cavel sborreyað cos van.
 /i sjovˈno i kaˈvɛl ˌsbɔ.riˈjaθ kɔz van/
@@ -27335,7 +27335,7 @@ He was as snug as a bug in a rug.
 
 Etymology: disputed. The word is often presumed to be a metathetic reflex of Old Borlish (a)ieðar [(a)dʒiˈðar] "ram, drive, push forward". This descends from Latin arietō "strike, batter", a verbal derivative from ariēs "ram; battering ram". However, this verb is last attested over two centuries before the first evidence of ðejar in the Middle Borlish period.
 
-The alternative with the most backing is that the word reflects Latin adiciō "I throw at; I attach, augment", which has semantic and phonetic plausibility, although no intermediate forms are in evidence. Other suggestions, like a first-conjugation variant of Latin adigō "I drive, hurl, compel" or a Norrish [Norse] verb like þjá "force" or þeisa "thrust, rush", have rarely been credited.
+The alternative with the most backing is that the word reflects Latin adiciō "I throw at; I attach, augment", which has semantic and phonetic plausibility, although no intermediate forms are in evidence. Other suggestions, like a first-conjugation variant of Latin adigō "I drive, hurl, compel" or a Norrish [Norrish] verb like þjá "force" or þeisa "thrust, rush", have rarely been credited.
 
 Jo ðejau y pie neðan y port closisceus.
 /ʒo ðeˈʒo i pje neˈðan i pɔrt ˌklo.ziˈxauz/
@@ -27462,7 +27462,7 @@ hoðic /hoˈðɪk/ [hʊˈðɪk]
 - chief, chieftain, the leader of a clan or tribe;
 - councillor, alderman, a member of a local governmental body
 
-Etymology: descendant of Old Borlish houðic, hoðinc "village leader; esp. leader of a Norse settlement in the north of Borland". This is a borrowing from Old Norse hǫfðingi "chief, lord", which is a derivation of hǫfuð "head". The term was first used for elected positions in town or city councils in the fifteenth century.
+Etymology: descendant of Old Borlish houðic, hoðinc "village leader; esp. leader of a Norrish settlement in the north of Borland". This is a borrowing from Old Norrish hǫfðingi "chief, lord", which is a derivation of hǫfuð "head". The term was first used for elected positions in town or city councils in the fifteenth century.
 
 Y bourg deleu l'oc hoðic ne souc d'un courstray.
 /i burg deˈlaw lɔk hoˈðɪk ne suk dɪn kurˈstre/
@@ -28371,7 +28371,7 @@ ereðmfeyar /eˌrɛð.m̩ˈfjar/ [ɪˌʀɛ.ðɐmˈfjɐː]
 - regularise, normalise, standardise, to make more consistent or unexceptional; 
 - superimpose, overlap, to place one atop another so that particular parts are in alignment
 
-Etymology: Middle Borlish derivative of ereðm "symmetry; coincidence; happenstance" with the factitive suffix -feyar < Latin -ficō "I make _". The noun descends from Old Borlish eredme "alignment, order, regularity", of uncertain origin. The word has traditionally been connected to Latin rhythmus "rhythm, cadence", ignoring the phonetic problems and the lack of cognates in other Romance languages, mostly due to a dearth of other options. Neither a hypothetical Old English *ġerǣdedōm "readiness" nor Old Norse *ǫrrǫðsemi "straight-line-ness" have been much credited.
+Etymology: Middle Borlish derivative of ereðm "symmetry; coincidence; happenstance" with the factitive suffix -feyar < Latin -ficō "I make _". The noun descends from Old Borlish eredme "alignment, order, regularity", of uncertain origin. The word has traditionally been connected to Latin rhythmus "rhythm, cadence", ignoring the phonetic problems and the lack of cognates in other Romance languages, mostly due to a dearth of other options. Neither a hypothetical Old English *ġerǣdedōm "readiness" nor Old Norrish *ǫrrǫðsemi "straight-line-ness" have been much credited.
 
 J'ereðmfeyau l'orlosc ne traiscn a tre minut lon theu.
 /ʒeˌrɛð.m̩ˈfjo lɔrˈlɔx ne ˈtrex.n̩ a tre miˈnɪt lɔn θau/
@@ -28827,7 +28827,7 @@ ormal /ɔrˈmal/ [ʊːˈmal]
 - salvo, volley, an instance of concentrated fire from artillery;
 - programme, set, the scheduled list of pieces of music that are to be played at a concert (or a similar timeline of discrete events)
 
-Etymology: an Old Borlish borrowing from Old Norse ǫrmalr "quiver". This is a compound of ǫr "arrow" and malr "case"; the former is from Classical German arhuō "arrow", while the latter is likely allied with malhō "leather bag" (although the change of declension is unexplained). The vulgar sense was current in the Middle Borlish period and enjoyed a brief resurgence in the 19th century due to conscious use in historical novels. The musical senses are attested from the 1920s, originally in reference to recorded music played over the radio.
+Etymology: an Old Borlish borrowing from Old Norrish ǫrmalr "quiver". This is a compound of ǫr "arrow" and malr "case"; the former is from Classical German arhuō "arrow", while the latter is likely allied with malhō "leather bag" (although the change of declension is unexplained). The vulgar sense was current in the Middle Borlish period and enjoyed a brief resurgence in the 19th century due to conscious use in historical novels. The musical senses are attested from the 1920s, originally in reference to recorded music played over the radio.
 
 L'ormal dy baðrment fey commet par vrolliscour.
 /lɔrˈmal di ˌbað.r̩ˈmɛnt fi kɔˈmɛt par ˌvrɔ.liˈxur/
@@ -29099,7 +29099,7 @@ alant a haun /aˈlant a hon/ [ɐˈlant a hon]
 - homecoming, the act of returning to one's home;
 - (by extension) safe habour, deliverance, sanctuary, respite, the attaining of a position of safety after an extended period of danger or uncertainty
 
-Etymology: collocation originating in Kigman's fifteenth-century poetry, literally meaning "docking at a haven". The noun alant "landfall" is a deverbal from alandar "arrive, turn up, dock"; this was borrowed in the Old Borlish period from Old English ġelendan "approach, arrive". The noun haun "haven, port" was borrowed from Old Norse hǫfn "harbour".
+Etymology: collocation originating in Kigman's fifteenth-century poetry, literally meaning "docking at a haven". The noun alant "landfall" is a deverbal from alandar "arrive, turn up, dock"; this was borrowed in the Old Borlish period from Old English ġelendan "approach, arrive". The noun haun "haven, port" was borrowed from Old Norrish hǫfn "harbour".
 
 The phrase was used by Kigman already to mean a return to a metaphorical homeland; it had become synonymous with safe places more generally by the end of the following century.
 
@@ -29383,7 +29383,7 @@ nougl /nujl/ [nwɪl]
 - spinning, fibrecraft, the art of making things like textiles or rope;
 - (regional, poetic) cattail, teasel, mullein, foxtail, or various other herbs and reeds with distaff-shaped flower spikes or seedheads
 
-Etymology: from late Old Borlish noȝl "distaff". This is though to conflate two earlier forms: (1) conoȝl "distaff" < synonymous conucula in Late Latin, dissimilatory derivative of Classical colus "distaff"; (2) rocle "distaff" < synonymous rokkill in Old Norse. Dialects differ greatly on which particular plants may be referred to by this term; its meaning is not clarified by its indiscriminate use in poetry.
+Etymology: from late Old Borlish noȝl "distaff". This is though to conflate two earlier forms: (1) conoȝl "distaff" < synonymous conucula in Late Latin, dissimilatory derivative of Classical colus "distaff"; (2) rocle "distaff" < synonymous rokkill in Old Norrish. Dialects differ greatly on which particular plants may be referred to by this term; its meaning is not clarified by its indiscriminate use in poetry.
 
 L'oç mersc verdeya de nougl spinous.
 /lɔts mɛrx vɛrˈdja de nujl spiˈnuz/
@@ -29753,7 +29753,7 @@ lon mensc /lɔn ˈmɛnx/ [lɔm ˈmɛŋx]
 - without a reference, without a character, not being entitled to an employer's testimony when applying to a new job;
 - (by extension) cold turkey, abruptly and without consideration for comfort
 
-Etymology: originally in legal expressions such as destourm lon mensc "dishonourable discharge", the phrase literally means "without honour". The preposition lon "without" reflects Latin longē "far away"; the archaic noun mensc "honour; mercy; courtesy; decorum" was borrowed in the Old Borlish period from Old Norse mennska "humanity". Extension to non-miltary and non-employment contexts occurred in the mid-twentieth century.
+Etymology: originally in legal expressions such as destourm lon mensc "dishonourable discharge", the phrase literally means "without honour". The preposition lon "without" reflects Latin longē "far away"; the archaic noun mensc "honour; mercy; courtesy; decorum" was borrowed in the Old Borlish period from Old Norrish mennska "humanity". Extension to non-miltary and non-employment contexts occurred in the mid-twentieth century.
 
 L'es attenent a caffay salir lon mensc.
 /lɛz ˌa.teˈnɛnt a kaˈfe saˈlɪr lɔn mɛnx/
@@ -30035,7 +30035,30 @@ How well did the novices rise to the occasion?
 
 ##
 
-215.5:
+215.5: German languages
+
+paragraphs excerpted in translation from a page on Borland's distributed library about the German languages, as it stood in February 2021 N.
+
+…descended from Classical German [Proto-Germanic], which was spoken in roughly the same time period as Classical Latin. It fractured during the first millennium N into three major lineages, which we label Dutch German, Gothic German and Norrish German [West, East, and North Germanic].
+
+It is uncertain whether the language of the Goths is truly the only member of its lineage. Its possible contemporary relatives (the languages of the Vandals, the Burgundians, and some others) are too little attested in writing to be certain, and the proposed modern relatives (the German languages in Halich, Kiew or Vallack [regions of southeatern Europe], mostly) are too far displaced in time and too much influenced by the Dutch languages to connect definitively to Gothic.
+
+Dutch German is the most widespread lineage, and can further be divided geographically into the Mainlander Dutch languages and the English languages. Some of the Mainlander Dutch languages are the official languages of a polity or polities, like Willem, Saxon or Bavarn (the last of which is official in both Bavarn and Ruritania), while others enjoy at most regional recognition (for example Frise).
+
+Here is an example of a sentence in various modern Dutch languages, along with reconstructions for older forms.
+
+Classial German: Gultham flōidi thurhu quenōnom ēthrōnum.
+First Dutch: Golþ flōidi þuruh quenōnō ādrōn.
+
+Old English: Gold flēwþ þurh þāra wīfa ǣdran.
+Old W Dutch: Gold fluoieth thuro thero wīvo ātheran.
+Old N Dutch: Gold fliuted thuruh thero wīvō ātheran.
+Old S Dutch: Golt fliuzit duruh dero wībo ādaran.
+
+Merch: Gold flows through the womens veins.
+Willem: Goud vloyeth thór the vrown aren.
+Saxon: Gold fletet durgh de fruen odren.
+Bavarn: Goit fliest drugh der frauen adern.
 
 ##
 
