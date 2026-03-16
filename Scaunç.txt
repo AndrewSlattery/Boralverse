@@ -29869,7 +29869,7 @@ Dutch German is the most widespread lineage, and can further be divided geograph
 
 Here is an example of a sentence in various modern Dutch languages, along with reconstructions for older forms.
 
-Classial German: Gultham flōidi thurhu quenōnom ēthrōnum.
+Classial German: Gultham flōidi thurhu quenōnom ēthrōnuns.
 First Dutch: Golþ flōidi þuruh quenōnō ādrōn.
 
 Old English: Gold flēwþ þurh þāra wīfa ǣdran.
@@ -29884,7 +29884,18 @@ Bavarn: Goit fliest drugh der frauen adern.
 
 ##
 
-213.1: 
+213.1: Historiography Questions 2
+
+continued excerpt in translation from shortform scitation questions in the 2021 edition of the Tremonnow Open School's domain history course 'Making History', which covers the process by which events and people are compiled into historical narratives.
+
+-4. A mesur de cal dezein dy siecr veintessem figheu loy l'Anarchy Portingal? Cal fanglanç mandaðer dell'eç annað preluyent se courn raussið cos desconnex com issent entrig dy sfrondranç cas auteç politic?
+-4. During which decades of the twentieth century did the Portingale Anarchy take place? Which legal developments of the prior years were abruptly reversed as a result of the breakdown of state control?
+
+-5. Compareð y stabiltað dy stat chrestan ny Tar Sagnt pre e posc y Mordeth Disceint ny siecr treç primal. L'autortað de cal colluy sur Antioch e sur Havan Simon fos dessoclað par Pap Just d'an 1208, cossy lou errevent des l'oç mesaventur soumont amont?
+-5. Compare the stability of the Christian states in the Holy Land before and after the Failed Crusade in the early thirteenth century. Which organisation had their authority over Antioch and Port Simon revoked by Pope Just in 1208, thus saving them from said debacle?
+
+-6. Ascreut ag commouð a Desveyanç es ig lo contriboyeu vars y diminuçon dell'Apprestment Modest durant y preu demeg dy siecr novoç, cos particuler ne Gaul e ne Spagn. Diçr alcot l'oc narrað es basant sur y tesmogn?
+-6. The Deviance movement has been credited with contributing to the decline of the Modest Arrangement through the first half of the nineteenth century, particularly in Gaul and Spain. To what extent is this narrative supported by the evidence?
 
 ##
 
