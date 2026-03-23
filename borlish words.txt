@@ -1,17 +1,21 @@
 laðr "plough"
 ognt "bribe, sop"
 bosty "brothel" < prostibulum?
+focar "breed"
 scrim "swordplay, fencing" < escrime
 vasir "vizier" < arabic
 zaloc "bail" < slavic
 cambir "change"
 cubicr "bedsit, studio"
 empory "economy"
+morvaç "brat, snot" < morbus
 nancir "contract (an illness)"
 regres "return journey"
 sabler "hourglass" < sabr
 chthony "geology" | chthonic "underground, geological"
+focment "breeding, husbandry"
 gradual "titular, entailed, pertaining to a noble title; hierarchical"
+lunatic "lunatic"
 mojolon "destination, hub, attraction"
 oraçoir "stormy weather, thunderstorm, a storm zone"
 pharmac "drug"
@@ -51,6 +55,7 @@ bogr ðesmbal "unsurprising"
 domn dy jorn "mistress"
 domn dy noit "prostitute (f.)"
 aucoum forcer "powerhouse"
+mescomprenjon "misunderstanding"
 
 fought, contested
 gone, missing, used up
