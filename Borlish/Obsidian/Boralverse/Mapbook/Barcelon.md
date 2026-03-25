@@ -1,4 +1,4 @@
-Barcelon is a Middlesea polity in the east of the Spanish peninsula.
+Barcelon is a [[Middlesea]] polity in the east of the Spanish peninsula.
 
 # History
 
@@ -19,4 +19,4 @@ The longest-reigning monarch of the Kingdom of Barcelon is James VI (*Jaume VI*)
 - [[James V of Barcelon|James V]] (*Jaume V*, fl. 1670), who spent much of his childhood in a Cordin wardship in [[Borland]] 
 - James VI (*Jaume VI*, reigned 1691–1749), longest-reigning monarch in the history of the Kingdom of Barcelon
 ## Other
-- Raymond al Mustafa (fl. 1750), mathematician who worked with [[Rachel Desselut]] on the nascent field of [[Methodics|methodics]] while he was under the patronage of the Duke of [[Aragon]]
+- [[Raymond al Mustafa]] (fl. 1750), mathematician who worked with [[Rachel Desselut]] on the nascent field of [[Methodics|methodics]] while he was under the patronage of the Duke of [[Aragon]]

@@ -4,7 +4,7 @@ Unlike the name Mendeva, it is not known when the name Brasil was first used for
 
 The Princess [[Alexandra of Vascony]] (sister of [[Ambrose III of Vascony|Ambrose the Ascendant]]) was the first Vetomundine royal to set foot in the Novomund, landing in Brasil in 1477.
 
-By the mid-20th century Brasil had been fully incorporated as a region of [[Ambrosia]], retaining only a few vestiges of local political independence. In 1950 the Brasil town of  Paratzon formed one end of a new Atlantic link between Ambrosia and Morrack.
+By the mid-20th century Brasil had been fully incorporated as a region of [[Ambrosia]], retaining only a few vestiges of local political independence. In 1950 the Brasil town of  Paratzon formed one end of a new Atlantic link between Ambrosia and [[Morrack]].
 
 # Places
 - Paratzon, a coastal town in eastern Brasil which is home to an observatory

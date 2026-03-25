@@ -23,4 +23,4 @@ The two-arm system for sending [[Steeplepost|steeplepost]] was first deployed in
 - Carlyn van Stede (fl. 1965), author of parachthon giftale 'While Gold Yet Runs in My Veins' (*Zolang Gout dór myn Ádren Noh Vlóye*)
 - Dr Mickel Cráyenschot (fl. c19), noted early supporter of the [[Deviance movement]] and public tovarick even as France embraced the [[Modest Arrangement]]. 
 - Niklás der Fecht (fl. 1828), a mathematician in the city of Axton
-- Tewis Camigner (fl. c16), theorist who noted the high sugar content of beet syrup, though betraver sugar would not be produced commercially for another two centuries
+- [[Tewis Camigner]] (fl. c16), theorist who noted the high sugar content of beet syrup, though betraver sugar would not be produced commercially for another two centuries

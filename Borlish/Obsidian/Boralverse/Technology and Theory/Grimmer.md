@@ -4,5 +4,5 @@ Calculating devices from the earliest abaci prefigure the grimmer, but its true 
 ## Etymology
 The word *grimmer* is a clipping of *augrimmer*, literally "one who calculates, one who performs mathematical computation"; the word referred to a profession until the mid-twentieth century. This derives from noun *augrim* "computation, calculation", which originally meant "calculation using Arabic numerals" in particular, and which was a loan via French *augrisme* from Medieval Latin *algorismus*. This reflects the name of Persian mathematician al-Khwarismi, whose works introduced the positional number system to [[Europe]].
 ## References
-- Parable of the Mute Bookbinder, 1743 philosophical treatise by noblewoman Rachel Desselut
-- The Grimmer Hall: Developments in Early Methodics, 1999 scholastic quire written by [[New Leudong]] historian and methodist Cai Sonquo during his tenure at the University of Mehannin
+- [[The Parable of the Mute Bookbinder|Parable of the Mute Bookbinder]], 1743 philosophical treatise by noblewoman Rachel Desselut
+- [[The Grimmer Hall]]: Developments in Early Methodics, 1999 scholastic quire written by [[New Leudong]] historian and methodist Cai Sonquo during his tenure at the University of Mehannin

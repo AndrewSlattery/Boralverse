@@ -26,7 +26,7 @@ However, Devon's independence would not last long; [[Ivan of Cartau]] conquered 
 ### Nobility
 - Golleck/Gorvan of Kernow (fl. c9), granted dominion over Devon by his uncle Alan III
 - Iseld of Devon (fl. 750), daughter of Vigo the Magnificent and first patron of the Brethin 
-- Margaret of Iscombe (**Marerit o Gar Ix**, fl. 1435), mother of [[Vascony]]'s [[Ambrose III of Vascony|Ambrose the Ascendant]]
+- [[Margaret of Iscombe]] (**Marerit o Gar Ix**, fl. 1435), mother of [[Vascony]]'s [[Ambrose III of Vascony|Ambrose the Ascendant]]
 ### Others
 - Arteth Výn (fl. c19), friend of Vascon author Antòin Herrel (Tony Smith) after the latter's exile to Devon
 - Damian the Wise (fl. c12), the first Pope to be elected from among the Brethin religious order

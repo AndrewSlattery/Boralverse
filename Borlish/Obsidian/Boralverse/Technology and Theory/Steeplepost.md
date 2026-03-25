@@ -5,7 +5,7 @@ The very earliest incarnations of the steeplemesh arose during the [[Democratic 
 
 These early wartime towers usually relied on lampfire and thus were reliable only at night, or else a collection of patterned flags, which were usable at day but required a shorter distance between watchtowers. The two-arm system, allowing up to nine separate states to be transmitted, was first tested in Thynen (a town in [[Willemy]]), where the church's weathervane was reportedly commandeered to send the first lines of the Pater Noster to the neighbouring town Bost. (Hence, probably, the name “steeplepost”.)
 
-By 1820 [[Ambrosia]] had unveiled its Steeplepost Tapestry in Aiga d'Angoixa, which promised to allow the (very slow) transmission of images along the lines by communicating the brightness of each pip in an enormous grid, in the manner of a cross-stitch. It was on the Tapestry that the infamous [[Lies of 1824]] were first displayed.
+By 1820 [[Ambrosia]] had unveiled its [[Steeplepost Tapestry]] in Aiga d'Angoixa, which promised to allow the (very slow) transmission of images along the lines by communicating the brightness of each pip in an enormous grid, in the manner of a cross-stitch. It was on the Tapestry that the infamous [[Lies of 1824]] were first displayed.
 
 The very first cross-sea steeplepost lines were established around the same time, with air-steeples in the [[Rustigh Strait]] connecting [[Borland]] to Willemy during the 1830s. This link would last only until 1854, however, when it was replaced with a barrick line.
 

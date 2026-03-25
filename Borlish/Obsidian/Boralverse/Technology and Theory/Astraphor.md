@@ -10,4 +10,4 @@ At this time, the earlier flag-lamp [[Steeplepost|steeplemesh]] was in the proce
 
 The first undersea barric lines were laid in the 1850s in [[Kent]] (Dover to Cales), and from Texel in [[Willemy]] to [[Axbane]] in [[Borland]], each distances of less than twenty leagues. By the following century hundreds of such lines crossed the world's oceans.
 
-In the 1950s, the Mortar coalition in [[Portingale]] funded research into using threshold force to produce astraphor so as to reduce dependence on imports from the [[Drengot Collusion]]; by the 1960s the polity was a world pioneer in constructing threshold mills, becoming a net exporter of astraphor in 1971.
+In the 1950s, the Mortar coalition in [[Portingale]] funded research into using [[Threshold force|threshold force]] to produce astraphor so as to reduce dependence on imports from the [[Drengot Collusion]]; by the 1960s the polity was a world pioneer in constructing threshold mills, becoming a net exporter of astraphor in 1971.

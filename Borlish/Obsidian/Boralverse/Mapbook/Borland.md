@@ -101,13 +101,13 @@ The location of the Borlish parliament had until this point not been fixed to on
 
 During the inflamed period of [[Reaction War]] which followed the Long Peace, Borland participated in the [[Second German War]]. Borlish soldiers were present at the disastrously mismanaged [[Battle of Hulm (1821)|Battle of Hulm]] in 1821, and they fought alongside troops from many nearby countries, such as [[Furlain]] and [[Crovatia]]. The war and Borland's alliance with the [[Northern Concert]] sparked major mozard protests in cities across the country.
 ### Borland in the Workshop decades
-The [[Steeplepost|steeplepost]] arrived late to Borland, with most of the island's flag-lamp lines being erected in the 1810s and 1820s (somewhat accelerated by strategic military considerations). Axbane was later connected to the continent at Texel in Willemy via air-steeples, but by 1860 this had been replaced (along with much of the island's steeplemesh) by a barrick line.
+The [[Steeplepost|steeplepost]] arrived late to Borland, with most of the island's flag-lamp lines being erected in the 1810s and 1820s (somewhat accelerated by strategic military considerations). Axbane was later connected to the continent at Texel in [[Willemy]] via air-steeples, but by 1860 this had been replaced (along with much of the island's steeplemesh) by a barrick line.
 
 The spelling reform of 1870 (the last major revision to Borlish spelling conventions) primarily acted to standardise—at the time, many words had multiple forms in use reflecting more or fewer of the sound changes of the last few centuries.
 ### The [[Good Game]] period
 The genre of [[Masquira romance|masquira]] which originated in Spain flourished in Borland in the late nineteenth century. The particular popularity of kevler romance (**romanç kevlar**) on the island produced several sensation trevolds and lead to the term being borrowed into several other languages.
 
-The 1890s saw Borland join the growing [[Drengot Collusion]] (several Borlish cities, although not the capital, had already joined as part of the [[New Urban Mesh]]); Queen Natalia II abdicated on 1894's [[Revillon]] due to the political upheaval of this process.
+The 1890s saw Borland join the growing [[Drengot Collusion]] (several Borlish cities, although not the capital, had already joined as part of the [[New Urban Mesh]]); Queen [[Natalia II of Borland|Natalia II]] abdicated on 1894's [[Revillon]] due to the political upheaval of this process.
 
 In 1981 Borland had an anthracite administration.
 ## Culture
@@ -181,7 +181,7 @@ By far the most commonly-spoken language in Borland is the [[Borlish language]],
 ### Other nobility
 - Queen Brenna of Barrow (fl. 920), wife of King Jothey of Borland and cousin of King Roderick of Dunclothe 
 - Lord Josua, fifth Baron Monçating (fl. 1770), notable for being embroiled in a decade-long legal dispute over inheritance
-- Lord Simon, sixth Baron Monçating (b. 1770), intellectual and early proponent of [[Deviance movement|Anti-Paradise theology]]
+- [[Simon, Baron Monçating|Lord Simon, sixth Baron Monçating]] (b. 1770), intellectual and early proponent of [[Deviance movement|Anti-Paradise theology]]
 - Count Steign of Sothbar (fl. c12), who moved his court from Heitriç to Axbane
 
 ### Theorists and scholars

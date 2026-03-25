@@ -7,7 +7,7 @@ The parts of Mendeva first explored by (and whose trade was monopolised by) [[Va
 
 Ambrosia achieved political and economic independence from Vascony in the early nineteenth century as part of the continent-wide phenomenon of the [[Mendevan Unmooring]].
 
-The first long-distance transmission of an image took place in Ambrosia in 1820, employing the so-called Steeplepost Tapestry (consisting of a wall of tiles painted black and white on each side). This device would soon go on to be the subject of the infamous [[Lies of 1824]].
+The first long-distance transmission of an image took place in Ambrosia in 1820, employing the so-called [[Steeplepost Tapestry]] (consisting of a wall of tiles painted black and white on each side). This device would soon go on to be the subject of the infamous [[Lies of 1824]].
 
 By the 1880s the most urbanised parts of Ambrosia were connected by wired [[Tachygraph|tachygraph]], allowing messages to be sent from home to home.
 

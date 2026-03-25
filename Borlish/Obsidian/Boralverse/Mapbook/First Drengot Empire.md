@@ -5,7 +5,7 @@ The Empire is named for its ruling family House Drengot, formerly rulers of [[No
 The structure of the Empire was quite decentralised; see for example the standing army kept by vassal [[Tolose]] for its perennial skirmishes with neighbouring [[Barcelon]]. The emperor usually held court in [[Paris]] (moved during the eleventh century from [[Roun]]).
 
 ## History
-The beginnings of the First Drengot Empire lie with the [[Kernovan Conjuring]], through which the House of Drengot in Normandy invaded and conquered [[Kent]] with the support of Greater Devon's House of Kernow. As recompense for their support, the Drengots helped install the House of Kernow on the Devoner throne. This invasion was triggered by the death of the elderly patriarch [[Rodulf of Kent]], who had ruled since childhood for nearly eight decades.
+The beginnings of the First Drengot Empire lie with the [[Kernovan Conjuring]], through which the House of Drengot in Normandy invaded and conquered [[Kent]] with the support of Greater Devon's House of [[Kernow]]. As recompense for their support, the Drengots helped install the House of Kernow on the Devoner throne. This invasion was triggered by the death of the elderly patriarch [[Rodulf of Kent]], who had ruled since childhood for nearly eight decades.
 
 The Empire was most stable in the decades around the turning of the twelfth century, having reached its greatest territorial extent. However, by 1120 much of the treasury had been spent on defending the long eastern border with [[Willemy]]. In particular, the construction of a new Great Castle at Vésonçon had been completed the year before, the last point in a defensive line spanning from Flanders to the Alps.
 

@@ -8,7 +8,7 @@ The voidtale craze persisted until the 1820s, at which point its optimistic and 
 
 The mid-nineteenth century was somewhat of a nadir for parachthon art. Romance moved on to [[Masquira romance|masquira]] and herdtale's more mundane settings, while historical revivals populated the world's stages. With the maturation of genres in the twentieth century we begin to see purposeful melding of parachthon elements in stories of other sorts, like lovetales and ænigmata; this and the incorporation of related movements like Futurism brought parachthony back into popular art for good.   
 
-The progress of technology was often presaged by parachthon works, and so many items of vocabulary for modern contrivances have their origin there. As examples, the 'pistol mesh' (now usually just the 'mesh') is lifted from the pages of Ashford Pasquier's 1968 trevold *Starsail*, and the use of 'slate' for a flat surface displaying information can be traced all the way back to Hadasse Docquerl's 1872 work 'Dealsome Onomatory of the New London' (originally published in Borlish as **Un Onomatoir Partial dy Novel Londr**). 
+The progress of technology was often presaged by parachthon works, and so many items of vocabulary for modern contrivances have their origin there. As examples, the '[[Pistol Mesh|pistol mesh]]' (now usually just the 'mesh') is lifted from the pages of Ashford Pasquier's 1968 trevold *Starsail*, and the use of 'slate' for a flat surface displaying information can be traced all the way back to Hadasse Docquerl's 1872 work 'Dealsome Onomatory of the New London' (originally published in Borlish as **Un Onomatoir Partial dy Novel Londr**). 
 
 # References
-- *New Skies, Old Stories* by Simon d'Estiala, published by Prindor Marsillès, 1980
+- *[[New Skies, Old Stories]]* by Simon d'Estiala, published by Prindor Marsillès, 1980

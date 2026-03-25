@@ -3,7 +3,7 @@ Fiellas Dimenja (English: Sunday Sheets) is a weekly newspaper almost continuous
 ## History
 Fiellas Dimenja was established in 1871 by Corsican businessman Toscobardo Matutte in concert with the Guiraud Colloquium.
 
-Fiellas was an early adopter of machinal broadcast direct to homes via their tachygraphs, first offering digests in this form in the 1920s.
+Fiellas was an early adopter of machinal broadcast direct to homes via their [[Tachygraph|tachygraphs]], first offering digests in this form in the 1920s.
 
 The paper developed a significant international readership through the twentieth century—by 1934 it was republished synchronously in [[Vascony]] and [[New Provence]], and was even read in Collusion territory, despite the rising tensions of the post-[[Millstone War|Millstone]] Europe. 
 

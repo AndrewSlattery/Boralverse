@@ -4,4 +4,4 @@ The political structure of the Riverine Cities grew out of the ashes of the [[Ki
 
 The Cities were a hotbed for underground or subversive organisations, including the [[Deviance movement]], and were host to several semi-public tovarick communities. This environment was likely fostered by the presence of significant religious minorities and the strong ties between the Church and the local urban authorities.
 
-Members of the Riverine Cities included Belgrade, Boxa, Gollamo and Pojon.
+Members of the Riverine Cities included Belgrade, [[Boxa]], Gollamo and Pojon.

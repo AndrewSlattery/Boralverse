@@ -10,5 +10,5 @@ The [[Kevler romance|kevler romance]] arose as a distinct subgenre of masquira i
 
 The 1880s saw a brief fad for '[[Morrack]] fashion' in countries across Europe and the [[Novomund]], in areas such as dress, architecture and food. There was, for example, a trend of incorporating exposed stonework draped in tapestry and curtains in contemporary buildings.
 
-Scientific and technological advances of the Good Game period include discovering other galaxies, determining the normal speed, the first household mesh-linked tachygraphs, and stauron retainers. 
+Scientific and technological advances of the Good Game period include discovering other galaxies, determining the normal speed, the first household mesh-linked [[Tachygraph|tachygraphs]], and stauron retainers. 
 

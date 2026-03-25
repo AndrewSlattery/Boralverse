@@ -25,6 +25,6 @@ Supporters of the early Deviance movement are often portrayed as wearing lewd or
 
 # Notable supporters
 - Dr Mickel Cráyenschot (fl. c19), physician in French [[Willemy]] and early public tovarick
-- Lord Simon, sixth Baron Monçating (b. 1770), infamous libertine of the [[Damvath]] melee
+- [[Simon, Baron Monçating|Lord Simon, sixth Baron Monçating]] (b. 1770), infamous libertine of the [[Damvath]] melee
 - Poshack Nerwaman (fl. c19), famed lady explorer originally of [[Mashick]], sister to the composer Mollam Bushta
 - Ton Cráyenschot (fl. c19), composer remembered for the opera *Ad Pentaculum*, marked entirely in five

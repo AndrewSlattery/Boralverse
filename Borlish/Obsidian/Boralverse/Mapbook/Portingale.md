@@ -23,6 +23,6 @@ For a time, Drengot [[Astraphor|astraphor]] supplied (via undersea powerline) mu
 # People
 - Eustace II (fl. c12, crowned 1151), longest-ruling monarch of Portingale
 - [[Ezio Carvallo]] (fl. 1860), author credited with the invention of the genre of [[Masquira romance|masquira romance]]
-- Marcio Dourao (fl. 1930), author of lovetale _Galatheo_ which was banned in both Vascony and Morrack
+- [[Marcio Dourao]] (fl. 1930), author of lovetale _Galatheo_ which was banned in both Vascony and Morrack
 - Victor Fidalgo (fl. 1950), collocker for the Roxa Comba
 - Maya Tavares (fl. 1950), political theorist for the de Sarumptice Diplomatic Edifice

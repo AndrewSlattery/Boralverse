@@ -50,7 +50,7 @@ Europe is a continental peninsula in the northern hemisphere.
 - [[Denmark]]
 - [[Drengot Collusion]]
 - [[First Drengot Empire]]
-- Dunclothe
+- [[Dunclothe]]
 - Florence
 - [[Kingdom of the Franks]]
 - [[Furlain]]

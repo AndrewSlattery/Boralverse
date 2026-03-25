@@ -11,5 +11,5 @@ The expansion of suffrage in Denmark took place through the latter half of the n
 ## People
 - [[Elisa Arnoutszen]] (fl. 1540), nurse in the household of Duke [[Roger d'Avosche]] and later a physician in her own right
 - [[Laurz Arnoutszen]] (fl. 1540), famed physician whose treatise on medical handiwork revolutionised European practice
-- Absolon Mortenszen (fl. 1560), playwright and commentator who lived in Alburgh and is remembered for his play High Society
+- [[Absolon Mortenszen]] (fl. 1560), playwright and commentator who lived in Alburgh and is remembered for his play [[High Society]]
 - Gudmund & Rebecca Scrander (fl. 1677), astronomers who voyaged to [[Seldiva]] to observe a transit of Venus

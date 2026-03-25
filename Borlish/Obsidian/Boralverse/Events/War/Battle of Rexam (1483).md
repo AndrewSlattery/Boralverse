@@ -6,4 +6,4 @@ The relatively-new Kingdom of Britain (formed of Wales and its outlying tallaths
 
 After this battle, Britain was able to take lasting control of the area around Rexam (though the attack on the city of Chester shortly thereafter was rebuffed). The polity then managed to recuse itself from the continued conflicts of the Wars of Fealty; the other polities of [[Albion]] would remain embroiled for another thirty years.
 
-The battle and its aftermath were portrayed in 1931 work "Children of the Battle of Rexam" (released originally in Cambric as *Pa Ðywdon y Plant Car Vanteł* "What the Children of Car Vantel Said"), a fictionalised account of the three orphaned children of the Duke of Chester.
+The battle and its aftermath were portrayed in 1931 work "[[Children of the Battle of Rexam]]" (released originally in Cambric as *Pa Ðywdon y Plant Car Vanteł* "What the Children of Car Vantel Said"), a fictionalised account of the three orphaned children of the Duke of Chester.

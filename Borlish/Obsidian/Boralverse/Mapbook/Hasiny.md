@@ -16,4 +16,4 @@ The first radio was built in Hasiny in 1903. The fourth Lineball Global Tourney 
 - Kjartan Rhysvor (fl. 1889), author of spycraft work While Embers Cool (**Pan Oera'r Glo**)
 - King Maldwen Tamaha (fl. 1950), long-reigning monarch
 - Peðr Tamaha (fl. 1950), bon-vivant prince notorious for perennial debt troubles
-- Cadωgan Torriωr (fl. 1890), author of [[Masquira romance|masquira]] work Men of Jet and Diamond (**Dynnon o Vuhuð a Diamont**)
+- Cadωgan Torriωr (fl. 1890), author of [[Masquira romance|masquira]] work [[Men of Jet and Diamond]] (**Dynnon o Vuhuð a Diamont**)

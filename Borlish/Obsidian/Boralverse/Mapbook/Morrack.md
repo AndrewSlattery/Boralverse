@@ -5,7 +5,7 @@ Morrack was a local trading power in the late medieval period, with a mercantile
 
 In 1457, Morrack (which at this time controlled also [[Andalus]]) subjugated the southern part of [[Portingale]], which had previously enjoyed a level of autonomy under Vascon stewardship.
 
-Morrack was one of the earliest Vetomundine powers to undertake extensive exploration of the Novomund. The prophetically-named [[New World Company]] was established by Malik [[Munir al-Hamdawi of Morrack|Munir al-Hamdawi]] in 1463, and almost as soon as news of the [[Novomundine Landfall]] had reached court were ships of the Company sent westward. It was this fleet which made contact with the peoples of the [[Arcabil]], as well as the [[Mashick]] and [[Tavantine]] empires.
+Morrack was one of the earliest Vetomundine powers to undertake extensive exploration of the [[Novomund]]. The prophetically-named [[New World Company]] was established by Malik [[Munir al-Hamdawi of Morrack|Munir al-Hamdawi]] in 1463, and almost as soon as news of the [[Novomundine Landfall]] had reached court were ships of the Company sent westward. It was this fleet which made contact with the peoples of the [[Arcabil]], as well as the [[Mashick]] and [[Tavantine]] empires.
 
 Morracan ships were the first to circumnavigate the world, having reached the [[Great Borunesk Meeting]] of 1519 via [[Cappatia]].
 

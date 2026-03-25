@@ -11,7 +11,7 @@ Vikings raids began in Albion with the destruction of Halgrive in 824, although 
 
 The Guile kingdom of Scotland was established in the ninth century with the help of Harald the Blue of [[Sodrick]], displacing or merging with the existing Pict culture and language.
 
-Sodrick lost much of its territory to the kingdom of Dunclothe in the tenth century, as it had been weakened by extended vikings to the east and the short-term decline in the [[Dane Supremacy]]. 
+Sodrick lost much of its territory to the kingdom of [[Dunclothe]] in the tenth century, as it had been weakened by extended vikings to the east and the short-term decline in the [[Dane Supremacy]]. 
 
 By the turn of the second millennium, the south of the island is dominated by an expanded Kent (having recently subdued the remains of Wessex) below Markland and a now-unified Kingdom of Wales. To the north lie the confederate kingdoms of the Danes and then a Scotland even now influenced by Norse and English peoples.
 
@@ -44,6 +44,6 @@ The [[Long Peace]] around the turn of the nineteenth century saw the [[Deviance 
 # References
 - *An Abridged History of Northern Albion* by Aidan Donblane, published by Cloddale Primers, 1940 (with commentary by his daughter Anhart, 1980)
 - *Daughters of the Sea: The Northwestern Isles* by Challow Huddresfell, published by Safford University Primers
-- *The Alphabetical Albion* by Lucas Osborne et al., published by Winchester Scholastic Primers, 1920
+- *[[The Alphabetical Albion]]* by Lucas Osborne et al., published by Winchester Scholastic Primers, 1920
 - *Post-Drengotian Albion: the Long Thirteenth Century* by Professor Nuraddin Venzer, published by the New Lincoln School, 1973
 - *Albick Medicine in the Workshop Decades* by Dr Harold Westcamp, published by the Conster Health Edifice, 1992

@@ -1,4 +1,4 @@
-The Vascon Ascendancy (Vascon: **L'Ascendença Vasconna**; Vask: **Igualdea Vascoina**) refers to the polity of Vascony from the early fifteenth century until the late sixteenth. At this time it enjoyed a territorial maximum due to several successful military conquests, as well as a general increase in prosperity.
+The Vascon Ascendancy (Vascon: **L'Ascendença Vasconna**; Vask: **Igualdea Vascoina**) refers to the polity of [[Vascony]] from the early fifteenth century until the late sixteenth. At this time it enjoyed a territorial maximum due to several successful military conquests, as well as a general increase in prosperity.
 
 ![[Vascony 1456.png]]
 (Vascon, 1456 N)

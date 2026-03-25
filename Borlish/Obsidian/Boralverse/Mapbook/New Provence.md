@@ -9,7 +9,7 @@ Although by the 20th century the polity was politically independent from Provenc
 - Becouin River, the northernmost major river in New Provence
 - [[Santrafew]] (**Sant-Rafeu**), an early trading post along the New Provincial coast, founded in 1564 and located at the mouth of the Becouin River
 ## Media
-- Jet White (**Blanc Sabaje**), a 1951 masquira film adapted from Cadωgan Torriωr's 1890 trevold 'Men of Jet and Diamond'
+- Jet White (**Blanc Sabaje**), a 1951 masquira film adapted from Cadωgan Torriωr's 1890 trevold '[[Men of Jet and Diamond]]'
 
 ## People
 ### Political figures

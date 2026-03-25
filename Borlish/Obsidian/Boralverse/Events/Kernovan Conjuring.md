@@ -2,7 +2,7 @@ The Kernovan Conjuring (Borlish *Conjuraçon Cornovan* /kʊnˈʒi.raˈdzɔn ˌk�
 
 The Conjuring was carried out in 1029, following the death of King [[Rodulf of Kent]]. Kent under the long-reigning Rodulf had prospered, with recognised supremacy over the rump [[Wessex]] (albeit not uncontested by [[Devon]]) and over [[Essex]] to the north. After eight decades of political manoeuvring, Rodulf lingered on his deathbed and the succession was deeply uncertain.
 
-Although no references to a written treaty have survived, it is presumed that the House of Kernow aided Normandy in their bid for the Kentish throne in exchange for support in becoming the new ruling dynasty of Greater Devon. This bargain was upheld, but it only took a couple of decades for  Greater Devon to become a vassal of the First Drengot Empire.
+Although no references to a written treaty have survived, it is presumed that the House of [[Kernow]] aided Normandy in their bid for the Kentish throne in exchange for support in becoming the new ruling dynasty of Greater Devon. This bargain was upheld, but it only took a couple of decades for  Greater Devon to become a vassal of the First Drengot Empire.
 
 In what was either impressive long-term strategy or merely opportunism, the victorious Roger of Normandy would go on to conquer Kent's neighbours, including Essex and [[Markland]], and then venture south to annex much of the rest of Gaul. He was crowned Emperor Roger I in the midst of this territorial expansion in 1038.
 
