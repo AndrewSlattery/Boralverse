@@ -19077,6 +19077,7 @@ The Axbane of the late twelfth century is the de facto seat of the County of Sot
 Axbane eventually became one of the star cities of the Corvine Concert, an association of mercantile cities in the region. The throughput of the Axbane port is thought to have accounted for over a third of European trade outside the Middlesea by 1400 N. The late fourteenth century also saw this Borlish city develop a particularly close relationship with Bremen.
 
 The 1850s saw the Axbane-Texel undersea barric line, one of the world's first such steeplepost connections across the sea. At this time, Axbane was part of the New Urban Mesh along with independent cities like London.
+
 References
 
     The Secret Guide to Axbane (Y Gið Scos por Ausbagn), published first in 1962 on behalf of the Maglen Formeuç Caritativia, as part of a series of tourist guidebooks for cities along both coasts of the Rustigh Strait.
@@ -19242,11 +19243,11 @@ Heads up dude, you're making this duel a bit homoerotic.
 
 108.5: Tommarth
 
-Tommarth (Merch /ˈta.məθ/) is the capital and largest city of Markland. It had a population of over 5 million people by the year 2010. The dialect of Merch spoken by many in Tommarth is widely considered a standard to emulate.
+Tommarth (Merch /ˈtɔ.məθ/) is the capital and largest city of Markland. It had a population of over 5 million people by the year 2010. The dialect of Merch spoken by many in Tommarth is widely considered a standard to emulate.
 
 The area was settled by the Angles in the sixth century; by the ninth it had become the primary city of the nascent Merch Kingdom. It was fortified significantly over the next centuries in defence against the Welsh to the west and then against the Danes to the East.
 
-By the modern day Tommarth has an extensive underground rail system known locally as the Dusker, with stops including Kibbrough and Cathedral.
+In the modern day Tommarth has an extensive underground rail system known locally as the Dusker, with stops including Kibbrough and Cathedral.
 
 Toponymy
 
@@ -30058,7 +30059,22 @@ Isida of Aldegia (fl. 1280; feast day December 21; known locally as Siterø) was
 
 ##
 
-215.1:
+215.1: The Red Man
+
+notes in translation on the horror story The Red Man (originally in Bulgar as Мaжaт вЧервено "The Man in Red").
+
+Y Segr Roug es un cont spagent scaut par Petcov ne Sreddies dy dezein 1830 e jagatteyað un dezein paravant.
+The Red Man is a fright tale written by Petcov in 1830s Sreddies [Sofia] and set a decade earlier.
+
+L'oc interman y souc dy Var Theudesc Dovem eð y scadriscenç cogernt dy Reyaum ag Danau.
+This is the aftermath of the Second German War and the concomitant disintegration of the Kingdom of the Danaw [Danube].
+
+Y livr abransc y Boxa nou sovran, y ruin se recostroyent de Stamboul, e plusour dy citað ny region ec volent alcant aposc unir por y "Citað Floyan" noncupað stablir.
+The book features newly-independent Boxa [Novi Sad], the recovering shell of Stamboul [Istanbul], and many of the cities of the region which would eventually band together to form the so-called "Riverine Cities".
+
+Ny Segr Roug scein heros ec attenent a l'enigma descifrar dy parson dignant Zechariah, un vampyr; l'oc ouvr tannisceu bempart dy jout cas y vampyr, ig inclus for, sanc e jonnovar.
+The Red Man has heroes trying to decipher the mysterious figure known as Zechariah, a vampire; this work codified many of the tropes of the vampire, such as fire, blood and butterflies.
+
 
 ##
 
@@ -30114,11 +30130,39 @@ How well did the novices rise to the occasion?
 
 ##
 
-215.5: 
+215.5: Ministry for Consequences
+
+excerpt from The Structure of Twentieth-Century Polities, a 2024 reference work by Neuwillem historian Mbaiara Hormelingh, translated from the original Willem (Stellingen van Twintixtéw Státsvorm) into Merch by Jet Torpenhow.
+
+…first Ministry for Consequences to be established was that of the Drengot Collusion, the alliance-federacy of northwestern Europe whose dramatic collapse in 1961 is covered in more detail in the section of Ministries for Information in chapter 4. The last of the twenty-four ministries of the Collusion to be created, it was set up in 1932 under the leadership of Runcibal Sawyer-Boon (nowadays eclipsed in fame by his grand-daughter Vendetta Boon). 
+
+The original remit of the Ministry for Consequences was purely reactive: it was to monitor the impact of policies implemented by laws and by the decrees of other ministries (e.g. Family, Farming or Wealth) and to publish reports on their effects. Institutions with similar functions had existed in many governments for centuries (and arguably millennia, in the cases of Cathay, China and the Persias), though they were rarely so centralised and so independent in their activities. Despite its later failings, the Collusion's anthracite government in the 1930s recognised that Consequences would have to maintain editorial autonomy or else be subject to censorship from the very government it was intended to monitor.
+
+At the time of writing, Ministries for Consequences have been established in several dozen polities worldwide, from the Ministry for Effectiveness in Tavancy [~Incan Empire] to the Ministry for the Future in Nackon Dai [Thailand]. The concept spread most rapidly in the late 1960s and through the 1970s, as the fallout of the Furore of 1961 revealed how important…
 
 ##
 
-216.1:
+216.1: Axbane and Commerce
+
+notes in translation on the Borlish city of Axbane, located on the southwestern coast of the island.
+
+Nell'oc epoc, Ausbagn se situant all'un cost dy Stuer Rustig vale immens cas eðegl.
+At this time, the location of Axbane on one side of the Rustigh Strait was of immense strategic value.
+
+Ausbagn denoy tandem un entr y citað protagoneyour ny Concert Corvin, un colluy de citað marcander ny region.
+Axbane eventually became one of the star cities of the Corvine Concert, an association of mercantile cities in the region. 
+
+Cossirað es ig d'an 1400N, y colanç de sdroy tras y havan d'Ausbagn teye may d'un tarç de commarç European deur y Miterran.
+The throughput of the Axbane port is thought to have accounted for over a third of European trade outside the Middlesea by 1400N. 
+
+Ny siecr catorç nuverrem caye tan ig l'oc citað Borallesc corrogau un alleyanç cordial cos particuler con Bremen.
+The late fourteenth century also saw this Borlish city develop a particularly close relationship with Bremen.
+
+Ny dezein d'an 1850 sceye y lign barric sou mar entr Ausbagn e Texel, un dy primer tal connexion campaner ny mont tras un mar. 
+The 1850s saw the Axbane-Texel undersea barric line, one of the world's first such steeplepost connections across the sea.
+
+Nell'oc epoc, Ausbagn sta sodal ny Nou Sar Urban cosogr citað autonom com Londr.
+At this time, Axbane was part of the New Urban Mesh along with independent cities like London.
 
 ##
 
