@@ -30216,15 +30216,17 @@ I'm holding out hope that her brother turns up.
 
 216.5: False Friends (cont. 5)
 
-some more dictionary entries from the Concise Onomatory o'Merch (fifth edition) defining technologies, a reference work published in 1961 and compiled by the Utcheter Lexical Association.
+some more dictionary entries, this time defining technologies, from the Concise Onomatory o'Merch (seventh edition), a reference work published in 2011 and compiled by the Utcheter [Uttoxeter] Lexical Association.
 
-phasm [/ˈfa.zəm/ "TV"] n. 
+diacustor [/ˈdja.kʊ.stə/ "microphone"] n. a device for transferring sound into a signal in another medium for storage or transmission. 1891 < Scholastic Latin diacūstor < Greek δια- • diα- "through", ᾰ̓κούω • ăkoúō "I hear" and agent suffix -τωρ • -tōr. Primarily in military use until the 1910s. See also colloquial jack "diacustor", a clipping.
 
-quister [/ˈkwɪ.stə/ "phone"] n. 
+phasm [/ˈfa.zəm/ "TV"] n. the technology of transmitting and storing moving images with audio to be displayed on devices in e.g. households; in historical use, an apparition or spectre. 1620 in the latter sense < Latin phasma < Ancient Greek φάσμα • phásma "phantom, portent, monster". Out of use for some time before its reintroduction in 1927.
 
-sobot [/sʊˈbɔt/ "radio"] n. 
+quister [/ˈkwɪ.stə/ "phone"] n. a device for real-time communication via speech over great distances. 1915, agent derivative of quist v. "use a quister", itself from 1899 quist n. < 1888 perloquist < Scholastic Latin per- "completely", loquor "I speak" and agent suffix -ista.
 
-veronic [/vɪˈɾɔ.nɪk/ "plastic"] n. 
+sobot [/sʊˈbɔt/ "radio"] n. the technology of converting information such as sound into longform light [radio waves] for transmission; a device performing this conversion in either direction. 1909 < backwards from earlier adjective sobottal (e.g. 1904 sobottal sender) < Hasinic Welsh sobotał "signal" < Jaughtá [Choctaw] çobota "smoke; message".
+
+veronic [/vɪˈɾɔ.nɪk/ "plastic"] n. any of manifold substances with an extended chain [polymer] structure widely used in manufacturing, which may be drawn out or moulded when liquid, and which set in a rigid or elastic form; adj. made of veronic; (often overly) willing to comply or change one's view without objection. 1854, tradename in Veronic shellack < Medieval Latin veronīx "resin, varnish", perhaps < Greek Βερενῑ́κη • Berenī́kē, a city of Libya. As an adjective, the word is seen from 1922.
 
 ##
 
