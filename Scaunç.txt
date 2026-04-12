@@ -29789,7 +29789,7 @@ Mark Deuthex (fl. 1973) was born in Roun [Rouen], the administrative capital of 
 
 Johan Pamfey (fl. 1971) was a collocker [journalist] for the Borlish Sunday magazine Niacer (a word meaning "pertaining to nests or, metaphorically, to households"), where he contributed most notably a column of political and cultural observation over roughly two decades. He was famous for a reliable willingness to voice unpopular positions, and for various exposés of corporate malfeasance. One of his articles revealed that the Ministry of Health had taken money to downplay the effects of impure imports of detergent chemicals by large companies including Pax and Chandler.
 
-Maldwen Tamaha (b. 1890, fl. 1950) was a long-reigning king of Hasiny [lower watershed of the Mississippi]. He acceded to the throne in 1916 and presided over an unusually steady few decades in Hasiny's history. His reign saw the expansion of the country's sobot [radio] network, and contributed personally in the form of patronage in exchange for weekly speeche broadcast to the nation via the technology. He is also remembered for a personal investment in the expansion of universal primary schooling to the rural parts of the country.
+Maldwen Tamaha (b. 1890, fl. 1950) was a long-reigning king of Hasiny [lower watershed of the Mississippi]. He acceded to the throne in 1916 and presided over an unusually steady few decades in Hasiny's history. His reign saw the expansion of the country's sobot [radio] network, and contributed personally in the form of patronage in exchange for weekly speeches broadcast to the nation via the technology. He is also remembered for a personal investment in the expansion of universal primary schooling to the rural parts of the country.
 
 ##
 
@@ -29864,7 +29864,7 @@ paragraphs excerpted in translation from a page on Borland's distributed library
 
 …descended from Classical German [Proto-Germanic], which was spoken in roughly the same time period as Classical Latin. It fractured during the first millennium N into three major lineages, which we label Dutch German, Gothic German and Norrish German [West, East, and North Germanic].
 
-It is uncertain whether the language of the Goths is truly the only member of its lineage. Its possible contemporary relatives (the languages of the Vandals, the Burgundians, and some others) are too little attested in writing to be certain, and the proposed modern relatives (the German languages in Halich, Kiew or Vallack [regions of southeatern Europe], mostly) are too far displaced in time and too much influenced by the Dutch languages to connect definitively to Gothic.
+It is uncertain whether the language of the Goths is truly the only member of its lineage. Its possible contemporary relatives (the languages of the Vandals, the Burgundians, and some others) are too little attested in writing to be certain, and the proposed modern relatives (the German languages in Halich, Kiew or Vallack [regions of southeastern Europe], mostly) are too far displaced in time and too much influenced by the Dutch languages to connect definitively to Gothic.
 
 Dutch German is the most widespread lineage, and can further be divided geographically into the Mainlander Dutch languages and the English languages. Some of the Mainlander Dutch languages are the official languages of a polity or polities, like Willem, Saxon or Bavarn (the last of which is official in both Bavarn and Ruritania), while others enjoy at most regional recognition (for example Frise).
 
@@ -30214,7 +30214,17 @@ I'm holding out hope that her brother turns up.
 
 ##
 
-216.5:
+216.5: False Friends (cont. 5)
+
+some more dictionary entries from the Concise Onomatory o'Merch (fifth edition) defining technologies, a reference work published in 1961 and compiled by the Utcheter Lexical Association.
+
+phasm [/ˈfa.zəm/ "TV"] n. 
+
+quister [/ˈkwɪ.stə/ "phone"] n. 
+
+sobot [/sʊˈbɔt/ "radio"] n. 
+
+veronic [/vɪˈɾɔ.nɪk/ "plastic"] n. 
 
 ##
 
