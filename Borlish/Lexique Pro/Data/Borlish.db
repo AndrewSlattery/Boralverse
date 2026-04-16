@@ -1090,6 +1090,15 @@
 \lx accordar
 \ps ar v
 
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
+
+\lx accordar
+\ps ar v
+
 \ge agree
 \ge accord
 \ge harmonise
@@ -1097,15 +1106,6 @@
 \ge go
 
 \et Middle Borlish < Latin
-
-\lx accordar
-\ps ar v
-
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -11716,7 +11716,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge condemnation
 \ge sentence
 
-\et Latin condemnatio, noun from condamnar "condemn"
+\et noun from condamnar "condemn"
 \mn condamnar
 
 \lx condamnment
@@ -11725,7 +11725,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge condemnation
 \ge sentence
 
-\et noun from condamnar "condemn"
+\et Latin condemnatio, noun from condamnar "condemn"
 \mn condamnar
 
 \lx condensar
@@ -18390,21 +18390,21 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps adj
 
 \ge durable
-\ge long-lasting
-
-\et Adjective from durar
-\mn durar
-
-\lx durabr
-\ps adj
-
-\ge durable
 \ge stiff
 \ge lasting
 \ge permanent
 \ge resilient
 
 \et adjective from durar "last"
+\mn durar
+
+\lx durabr
+\ps adj
+
+\ge durable
+\ge long-lasting
+
+\et Adjective from durar
 \mn durar
 
 \lx durant
@@ -23569,13 +23569,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps ar v
 
 \ge rub
-
-\et Old Borlish < Old French < Latin
-
-\lx frottar
-\ps ar v
-
-\ge rub
 \ge chafe
 \ge scour
 \ge scrub
@@ -23591,6 +23584,13 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
+
+\lx frottar
+\ps ar v
+
+\ge rub
+
+\et Old Borlish < Old French < Latin
 
 \lx fruit
 \ps n
@@ -35782,6 +35782,21 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Latin
 
+\lx mixallar
+\ps ar v
+
+\ge guillotine
+\ge behead
+\ge decapitate
+\ge disable
+\ge neutralise
+\ge incapacitate
+
+\xv Y regnanç er ec hom mixallant a casc jorn.
+\xe The regime was beheading people every day.
+
+\et 19th century, borrowed via Vascon from Mashick [Mexican] Arabic مِقْصَلَة • miẋ-ala "guillotine", literally "severer", from the verb قَصَلَ • ċas-ala "cut off, sever". Extension to metaphorical heads, either leaders or critical components, is seen from the mid-19th century.
+
 \lx moçon
 \ps n
 
@@ -35935,7 +35950,22 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge origin
 \ge variable
 
-\et Old Borlish < Latin. In the computing sense, partly from Arabic مَجْهُول • majhūl "unknown".
+\et Old Borlish < Latin modiolus "small cup, hub of a wheel", diminutive of modius, a unit of dry volume. In the computing sense, partly from Arabic مَجْهُول • majhūl "unknown".
+
+\lx mojolon
+\ps n
+
+\ge nexus
+\ge hub
+\ge interchange
+\ge destination
+\ge attraction
+
+\xv Scerra un trasson de deg minut ag mojolon.
+\xe There's a ten-minute layover at the interchange.
+
+\et 18th century, augmentative derivative of mojol "hub of a wheel, centrepoint". Originally a term of art in cartographic circles, it entered common use with the spread of convoy [rail] networks.
+\mn mojol
 
 \lx mol
 \ps adj
@@ -40754,11 +40784,9 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx par boc
 \ps adv
 
-\ge apparently
-\ge allegedly
-\ge it is said
-\ge they say
-\ge I hear
+\ge spoken
+\ge by mouth
+\ge hearsay
 
 \mn par
 \mn boc
@@ -40766,9 +40794,11 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx par boc
 \ps adv
 
-\ge spoken
-\ge by mouth
-\ge hearsay
+\ge apparently
+\ge allegedly
+\ge it is said
+\ge they say
+\ge I hear
 
 \mn par
 \mn boc
@@ -41828,15 +41858,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
-
-\lx paus
 \ps interj
 
 \ge hang on
@@ -41845,6 +41866,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
+
+\lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v

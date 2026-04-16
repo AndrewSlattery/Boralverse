@@ -26590,7 +26590,7 @@ He seems to think he can have it both ways.
 
 notes on several works of writing published during the 1880s.
 
-Pasti Mezziterreni is an 1880 mealbook which compiles recipes from around the Middlesea [Mediterranean]. It was authored by Josforo Sant'Angelo (or at least on his behalf), a traveller from Tuscany who had already garnered significant renown due to his travels, including a near-fatal circumnavigation. The book doubles as an itinerary of a continuous sunward journey along the Middlesea coast from Tarifa in Andalus to X̀r l Joas in Morrack [Ksar es-Seghir, Morocco]. Dozens of translations were published over the subsequent years, including a bilingual Kernish–Wessern [minority Welsh and English languages] version by Iscombe Editors in 1892.
+Pasti Mezziterreni is an 1880 mealbook which compiles recipes from around the Middlesea [Mediterranean]. It was authored by Josforo Sant'Angelo (or at least on his behalf), a traveller from Tuscany who had already garnered significant renown due to his travels, including a near-fatal circumnavigation. The book doubles as an itinerary of a continuous sunward journey along the Middlesea coast from Tarifa in Andalus to Ẋr l Joas in Morrack [Ksar es-Seghir, Morocco]. Dozens of translations were published over the subsequent years, including a bilingual Kernish–Wessern [minority Welsh and English languages] version by Iscombe Editors in 1892.
 
 Cludor ncar Vantel "A Postman in Wrexham" is an 1882 trevold parachthon trevold [SFF novel]. It chronicles the misadventures of the titular postman who becomes trapped experiencing the same week over and over. It is notable for being the origin of the Welsh phrase speid dolenu "time loop, lit. coiling timespan", which has been calqued into many other language (compare e.g. liesc bouclant in Borlish).
 
@@ -30257,4 +30257,75 @@ Many trade goods originated in Lower Mendeva, including billrod dye [cochineal],
 
 ##
 
-217.2: 
+217.2: mixallar "guillotine"
+
+mixallar /ˌmɪ.ksaˈlar/ [ˌmɪ.ksɐˈlɐː]
+- decapitate, behead, to execute by removing the head;
+- (specifically) guillotine, to do so using a partially automated mechanism;
+- to oust or otherwise remove the person or people in charge of;
+- disable, neutralise, incapacitate, to damage so as to render no longer operational
+
+Etymology: 19th century, borrowed via Vascon from Mashick [Mexican] Arabic مِقْصَلَة • miẋ-ala "guillotine", literally "severer", from the verb قَصَلَ • ċas-ala "cut off, sever". Extension to metaphorical heads, either leaders or critical components, is seen from the mid-19th century.
+
+Y regnanç er ec hom mixallant a casc jorn.
+/i rijˈnants ɛr ɛk ɔm ˌmɪ.ksaˈlant a kax ʒɔrn/
+[i ʀɪjˈnants ɛː‿ʀɛ‿gɔm ˌmɪ.ksɐˈlant a kax ʝɔːn]
+df reign cop.ipf p.px person guillotine-p.prs at each day 
+The regime was beheading people every day.
+
+##
+
+217.3: mojolon "nexus"
+
+mojolon /ˌmo.ʒoˈlɔn/ [ˌmo.ʝʊˈlɔn]
+- nexus, hub, interchange, a point on many transit routes and thus where many travellers pass through;
+- destination, attraction, a location that draws visitors from afar for an entertaining or otherwise enriching experience
+
+Etymology: 18th century, augmentative derivative of mojol "hub of a wheel, centrepoint". This is itself from Latin modiolus "small cup, hub of a wheel", diminutive of modius, a unit of dry volume. Originally a term of art in cartographic circles, it entered common use with the spread of convoy [rail] networks.
+
+Scerra un trasson de deg minut ag mojolon.
+/xɛˈra ɪn traˈsɔn de dij miˈnɪt ɛj ˌmo.ʒoˈlɔn/
+[çɪˈʀa ɪn tʀɐˈsɔn de dɪj mɪˈnɪt ɛj ˌmo.ʝʊˈlɔn]
+there.be-fut indf transit of ten minute at.df nexus
+There's a ten-minute layover at the interchange.
+
+##
+
+217.4: morvaç "snot"
+
+morvaç /mɔrˈvats/ [mʊːˈvats]
+- snot, mucus, bogey, boogers, a secretion from the nose;
+- glanders, strangles, any of several infectious diseases of e.g. horses presenting with nasal discharge;
+- brat, rascal, imp, urchin, scamp, a child regarded as unruly or selfish
+
+Etymology: pejorative derivation from earlier morf "snot". Possibly a direct descendant of Latin morbus "disease", but also connected to Old French morve "snot, glanders", which may instead be a metathetic borrowing from Old Doccian vorm (compare Barcelon vorm "glanders, jellyfish"), from Frankish wurm "worm". The word has been used for misbehaving children since the 16th century.
+
+J'ascovau e jey morvaç sur my camis.
+/ˌʒa.xoˈvo e ʒi mɔrˈvats sɪr mi kaˈmɪz/
+[ˌʝa.xʊˈvo e ʝi mʊːˈvats sɪː mi kɐˈmɪz]
+1s=sneeze-pst and throw.pst snot on 1s.gn shirt
+I sneezed and got snot on my shirt.
+
+##
+
+217.5: Anna-Dorota's Discovery
+
+excerpt from Light and Learning in the Long Peace (Chapter 7: The Glade of Iris), by Merch historian Wilwyn Droppett, published in 1928 through Rotcham [Rochdale] University Primers
+
+…a few years earlier, even in 1816 the span-glass remained primarily a workshop novelty. Hunnady had made thorough observations of the sun during his tenure as Second Lecturer at the Library of Sobjan [Pécs], and his demonstration hall that April was filled with a dozen scholars witnessing the dark bands in the sun's iris [spectrum].
+
+Among them was a young Stiláge Anna-Dorota (1788–1863N), already known for papers on the alignment [polarisation] of reflected light. She remained in Sobjan through the summer, assisting with the grinding of more lenses and the construction of a more portable model. She appears to have been the one to notice the opportunity to observe the sun during an overshadowing [eclipse] later that year in the course of her calculating the timing of additional celestial events for the library's archives.
+
+Stiláge reached Lengrod [Lviv] on November 2 with three assistants. At the time it was a frontier city in the Kingdom of the Danaw contested with Poland. The weather was finer here than to the west, where the Two-Years' Winter was ruining harvests and contributing to political instability, and via a cousin contact she was able to hire a shepherd's hut in the hills of Vennike [Vynnyky], two leagues outside the city and along the projected path of the overshadowing.
+
+With dictation and a maid watching a pendulum clock, Stiláge recorded an obscuration [totality] of 101 seconds. She recounted her observations in a letter in Latin to Hunnady that day, excerpted in translation here.
+
+…extinguished the sun, a wreath appeared at once, drawn into rays as if combed. Tracing at once the aperture, I saw at once the two marks of aquiferous air [hydrogen], yet further (between the 39th and 40th points) a golden spark nearly as bright. Though I am not an alchemist, Lector, I would venture no air [gas] of my acquaintance blazes with such…
+
+This golden spark is, of course, the primary band of the corporal we now call aureol [helium], from the Latin aureola, the crown of saints and of the overshadowed sun). Stiláge and her collaborators in Sobjan published these observations the following year, but were not widely read for another decade due to the disruption of the Second German War and the collapse of the Kingdom of the Danaw.
+
+Stiláge went on to several other discoveries and close correspondence with Wexter Hathwall, whose magnum opus Astraphor [Electricity] and Light included her…
+
+##
+
+218.1:
