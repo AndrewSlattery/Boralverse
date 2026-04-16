@@ -2429,7 +2429,7 @@ Jo me cou destourmað n'Avril d'an 1909.|I was demobbed in April 1909.
 Augrimeð y locomoçon entr y dou termin dy camin.|Find the displacement between the path's endpoints.
 No sceye l'hour por commorar ne malestr.|There wasn't time to linger in discomfort.
 Tu te hoccovau y voç e cou ouç.|You went "ahem" and silence fell.
-J'ama y martelment sur huyaç nell'oraçon|I liked the speech's focus on corruption
+J'ama y martelment sur huyaç nell'oraçon.|I liked the speech's focus on corruption.
 Jo fey pat ag cla con deit çosc.|I fumbled the key with stubby fingers.
 Nos ayau l'indagour scos ne sell'azig.|We'd hidden the tracker in his shoe.
 Jo vil te rannuðar an ensign extolliðessem.|I will recommend you for a higher position.
