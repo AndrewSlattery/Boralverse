@@ -8,7 +8,6 @@ zaloc "bail" < slavic
 cambir "change"
 cubicr "bedsit, studio"
 empory "economy"
-morvaç "brat, snot" < morbus
 nancir "contract (an illness)"
 regres "return journey"
 sabler "hourglass" < sabr
