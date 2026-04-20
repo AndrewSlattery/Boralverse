@@ -1090,15 +1090,6 @@
 \lx accordar
 \ps ar v
 
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
-
-\lx accordar
-\ps ar v
-
 \ge agree
 \ge accord
 \ge harmonise
@@ -1106,6 +1097,15 @@
 \ge go
 
 \et Middle Borlish < Latin
+
+\lx accordar
+\ps ar v
+
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -7173,6 +7173,24 @@
 
 \et Old Borlish
 
+\lx bosty
+\ps n
+
+\ge brothel
+\ge bordello
+\ge whorehouse
+\ge mess
+\ge shambles
+\ge jumble
+\ge disorder
+\ge what the hell
+\ge what the fuck
+
+\xv Y sleut hamta mout y bosty.
+\xe The politician frequented the brothel.
+
+\et from Middle Borlish bosty "brothel", further origin disputed. Possibly from an unattested northern dialect *bosteul, *bostib, which would reflect Latin prostibulum "prostitute, brothel". Alternatively from an unattested southern dialect *bosty borrowed from a contemporary Welsh compound of bos "lump, knob; (poss.) penis?" and ty "house", the former element itself coming via Old French boce "lump". Metaphorical extension to situations considered similar to a notional brothel is attested from the seventeenth century.
+
 \lx bot
 \ps n
 
@@ -11700,6 +11718,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -11708,7 +11727,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
 
 \lx condamnment
 \ps n
@@ -12083,17 +12101,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge conspirator
-\ge accomplice
+\ge abettor
 
-\et Middle Borlish
+\mn conjuraçonnar
 
 \lx conjuraçonnour
 \ps n
 
 \ge conspirator
-\ge abettor
+\ge accomplice
 
-\mn conjuraçonnar
+\et Middle Borlish
 
 \lx connardaç
 \ps n
@@ -18390,21 +18408,21 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps adj
 
 \ge durable
-\ge stiff
-\ge lasting
-\ge permanent
-\ge resilient
+\ge long-lasting
 
-\et adjective from durar "last"
+\et Adjective from durar
 \mn durar
 
 \lx durabr
 \ps adj
 
 \ge durable
-\ge long-lasting
+\ge stiff
+\ge lasting
+\ge permanent
+\ge resilient
 
-\et Adjective from durar
+\et adjective from durar "last"
 \mn durar
 
 \lx durant
@@ -22362,6 +22380,39 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 
 \et Middle Borlish < Scholastic Latin
 
+\lx focar
+\ps ar v
+
+\ge breed
+\ge husband
+\ge curate
+\ge select
+\ge shortlist
+\ge rear
+\ge raise
+
+\xv Y focment d'ollom ny relicquat m'ajoutaç.
+\xe I appreciate the museum's relic curation.
+
+\et a Middle Borlish borrowing from contemporary Willem focken "breed (animals)". This descends, possibly via Norse, from Classical German fuccō "I strike, hit; I have sex with".
+
+\lx focment
+\ps n
+
+\ge breeding
+\ge husbandry
+\ge animal husbandry
+\ge curation
+\ge selection
+\ge nurture
+\ge upbringing
+
+\xv Y focment d'ollom ny relicquat m'ajoutaç.
+\xe I appreciate the museum's relic curation.
+
+\et noun derivative of focar "breed". Extension to other winnowing processes is seen from the sixteenth century; in the last senses it is contrasted with engin "nature, innate character".
+\mn focar
+
 \lx fojon
 \ps n
 
@@ -23220,18 +23271,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossau
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossaveyaçon
 \ps n
@@ -34489,6 +34540,19 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Middle Borlish < Dutch < Classical German
 
+\lx masmorrat
+\ps n
+
+\ge cellar
+\ge basement
+\ge dungeon
+\ge bunker
+
+\xv Rumorað es ig l'oç prinç sey zamicað an masmorrat.
+\xe That prince is rumoured to be locked in a dungeon.
+
+\et Middle Borlish, via a Spanish language (e.g. Barcelon adjective masmorrat "stored underground") from Morrove [Maghrebi] Arabic مَطْمُورة • mathmūra "underground granary". Doublet of mathmoir "refrigerator". Military use is attested from the nineteenth century.
+
 \lx masq
 \ps n
 
@@ -41858,6 +41922,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
+
+\lx paus
 \ps interj
 
 \ge hang on
@@ -41866,15 +41939,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
-
-\lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -49765,8 +49829,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx sandrinal
 \ps adj
 
-\ge antiscorbutic
-\ge pertaining to vitamin C
+\ge containing vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -49774,7 +49837,8 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx sandrinal
 \ps adj
 
-\ge containing vitamin C
+\ge antiscorbutic
+\ge pertaining to vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -58608,19 +58672,19 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge transmigration
-\ge relocation
-\ge nomadism
+\ge relocate
 
-\et noun from tramigrar
+\et noun from tramigrar "transmigrate".
 \mn tramigrar
 
 \lx tramigraçon
 \ps n
 
 \ge transmigration
-\ge relocate
+\ge relocation
+\ge nomadism
 
-\et noun from tramigrar "transmigrate".
+\et noun from tramigrar
 \mn tramigrar
 
 \lx tramigrar
@@ -61874,16 +61938,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge volcano
-\ge hothead
 
-\et Italian < Latin Vulcanus
+\et Italian, from Latin Vulcanus
 
 \lx volcan
 \ps n
 
 \ge volcano
+\ge hothead
 
-\et Italian, from Latin Vulcanus
+\et Italian < Latin Vulcanus
 
 \lx volir
 \ps ir1 v
