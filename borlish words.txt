@@ -1,5 +1,6 @@
 laðr "plough"
 ognt "bribe, sop"
+engin "nature" < ingenium
 scrim "swordplay, fencing" < escrime
 vasir "vizier" < arabic
 zaloc "bail" < slavic
@@ -50,6 +51,7 @@ domn dy jorn "mistress"
 domn dy noit "prostitute (f.)"
 aucoum forcer "powerhouse"
 mescomprenjon "misunderstanding"
+sine sanguine "morganatic"
 
 fought, contested
 gone, missing, used up
