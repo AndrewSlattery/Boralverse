@@ -8128,6 +8128,24 @@
 
 \et Old Borlish < Latin
 
+\lx cambir
+\ps ir2 v
+
+\ge exchange
+\ge switch
+\ge swap
+\ge permute
+\ge rearrange
+\ge reorder
+\ge change
+\ge replace
+\ge substitute
+
+\xv Ðe son cuidant vars tostrman cambir.
+\xe They're thinking of changing barber.
+
+\et from Old Borlish cambir "exchange", itself descending from Vulgar Latin cambiō "I change, exchange" (in a regionally retained fourth conjugation). Along with contemporaneous cambium "a change" this was borrowed from a Gaulish descendant of Classical Kelt cambos "twisted, crooked". Formerly used also to mean "barter, trade", it was supplanted in these senses by trocar, from French.
+
 \lx cambovart
 \ps n
 
@@ -11718,7 +11736,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -11727,6 +11744,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnment
 \ps n
@@ -19680,6 +19698,15 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \lx ensign
 \ps n
 
+\ge engraving
+\ge carving
+\ge suit
+
+\et Old Borlish < Latin
+
+\lx ensign
+\ps n
+
 \ge emblem
 \ge logo
 \ge symbol
@@ -19697,15 +19724,6 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \xe I will recommend you for a higher position.
 
 \et Middle Borlish, a semilearned borrowing from Latin insignia "emblem, badge", a noun formation from adjective insignis "marked, distinguished". The word has been used metonymically to refer to the position conferred or represented by an insignia since the fifteenth century, and it has been used in card games from approximately the same time.
-
-\lx ensign
-\ps n
-
-\ge engraving
-\ge carving
-\ge suit
-
-\et Old Borlish < Latin
 
 \lx ensignar
 \ps ar v
@@ -37210,6 +37228,21 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \et Old Borlish < Medieval Latin
 
+\lx nancir
+\ps ir2 v
+
+\ge contract
+\ge catch
+\ge incur
+\ge bring on
+\ge meet with
+\ge be saddled with
+
+\xv Sell'heir a sculd demay nancið.
+\xe Her son's incurred too much debt.
+
+\et Middle Borlish, borrowed from medical Latin nancīscō "I contract (an illness)", a non-deponent variant of Classical nancīscor "I encounter, stumble on". The word is seen in non-medical contexts from the eighteenth century.
+
 \lx nargel
 \ps n
 
@@ -49829,7 +49862,8 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx sandrinal
 \ps adj
 
-\ge containing vitamin C
+\ge antiscorbutic
+\ge pertaining to vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -49837,8 +49871,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx sandrinal
 \ps adj
 
-\ge antiscorbutic
-\ge pertaining to vitamin C
+\ge containing vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -51275,6 +51308,24 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge distinct
 
 \et Old Borlish < Latin
+
+\lx scouðir
+\ps ir1 v
+
+\ge rescue
+\ge save
+\ge deliver
+\ge redeem
+\ge buy back
+\ge bail out
+\ge pull out
+\ge snap out of
+\ge jolt out of
+
+\xv Scouð tey den neðan un hom caif oundr.
+\xe Snap out of it before someone gets hurt.
+
+\et via Old Borlish directly from Latin excutio "I drive out, throw off" (via the notion of causing someone to leave their current circumstances). In modern use the word usually implies that the rescuee either got themselves into trouble or that they were unfairly tricked into a bad situation.
 
 \lx scoul
 \hm 1

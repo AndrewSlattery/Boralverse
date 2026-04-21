@@ -30441,7 +30441,104 @@ If one had to be married to an Elphberg, one really would want to get the benefi
 
 cambir /kamˈbɪr/ [kɐmˈbɪː]
 - exchange, switch, swap, to place in each other's positions;
-- trade, barter, to give away in order to receive;
-- permute, rearrange, reorder, to change the order or layout of
+- permute, rearrange, reorder, to change the order or layout of;
+- change, replace, substitute, to stop employing and to pick up something different
 
-Etymology:
+Etymology: from Old Borlish cambir "exchange", itself descending from Vulgar Latin cambiō "I change, exchange" (in a regionally retained fourth conjugation). Along with contemporaneous cambium "a change" this was borrowed from a Gaulish descendant of Classical Kelt cambos "twisted, crooked". Formerly used also to mean "barter, trade", it was supplanted in these senses by trocar, from French.
+
+Ðe son cuidant vars tostrman cambir.
+/ðe sɔn kaiˈdant varz ˌtɔ.str̩ˈman kamˈbɪr/
+[ðe sɔn kɐiˈdant vɐːz ˌtɔ.stɐˈman kɐmˈbɪː]
+3p be.3p think-p.prs towards barber change-inf
+They're thinking of changing barber.
+
+##
+
+219.3: nancir "contract"
+
+nancir /nanˈtsɪr/ [nɐnˈtsɪː]
+- contract, catch, to become infected or afflicted with;
+- incur, bring on, meet with, to become affected by (some negative condition or consequence);
+- be saddled with, to be required to be in the possession of (something one would rather not have)
+
+Etymology: Middle Borlish, borrowed from medical Latin nancīscō "I contract (an illness)", a non-deponent variant of Classical nancīscor "I encounter, stumble on". The word is seen in non-medical contexts from the eighteenth century.
+
+Sell'heir a sculd demay nancið.
+/sɛˈlir a xɪld deˈme nanˈtsɪθ/
+[sɪˈli.jɐ‿ʀa çɪld dɪˈme nɐnˈtsɪθ]
+3s.gn=son have debt too contract-p.pst
+Her son's incurred too much debt.
+
+##
+
+219.4: scouðir "rescue"
+
+scouðir /xuˈðɪr/ [xʊˈðɪː]
+- rescue, save, deliver, to remove from a dangerous situation;
+- buy back, redeem, to convert some security back into (e.g. cash, a prize or a pawned item);
+- bail out, pull out, to withdraw someone from a commitment before it worsens;
+- snap out of, jolt out of, to abruptly end a confused or mistaken psychological state
+
+Etymology: via Old Borlish directly from Latin excutio "I drive out, throw off" (via the notion of causing someone to leave their current circumstances). In modern use the word usually implies that the rescuee either got themselves into trouble or that they were unfairly tricked into a bad situation.
+
+Scouð tey den neðan un hom caif oundr.
+/xuθ ti dɛn neˈðan ɪn ɔm kef undr̩/
+[xuθ ti dɛn nɪˈðan ɪn ɔm kef ˈun.dɐ]
+rescue 2s.dsj thereof lest indf person get.sbj wound
+Snap out of it before someone gets hurt.
+
+##
+
+219.5: Good — direction is clear. Quick memory note before I draft: you've clarified Merch is an English-family language (I had it loosely filed as Welsh-adjacent). Let me correct that, then post the draft.
+
+Now the draft. Matching 83.5/28.5 register — plain prose, section headings on their own line, no markdown.
+
+---
+
+**219.5: Lumbridge**
+
+Lumbridge (Saxon *Lümbrügge*, historical *Lūneborch*; Merch /ˈlʊm.bɾɪdʒ/) is a city in the northern plains of the former first Kingdom of Saxony, situated on the Elmenaw river. It is one of the three founding-core cities of the Stadbund, alongside Hamburg and Bardwick, and has hosted the Schazhaus since that institution's foundation in the fifteenth century.
+
+History
+
+The city's earliest recorded wealth stems from the salt-springs of the Sültzberg, a gypsum hill overlooking the Elmenaw whose brine was already being worked under royal Saxon licence in the twelfth century. Toll agreements with Bardwick and Bremen in the 1120s and 1130s, largely restricting levies on salt-barges bound downstream, are among the earliest mercantile contracts between the cities that would later form the Stadbund.
+
+Lumbridge formally seceded from the First German Empire in 1214, seven years after Hamburg and six after Dorstad. Despite this, the city remained nominally a subject of the Kingdom of Saxony, and the ducal keep atop the Sültzberg continued to be garrisoned by officers of the Hoghbrocken dynasty into the latter half of the thirteenth century. The religious disruption of the German Secession briefly returned imperial pretensions to parts of Saxony but had little effect on Lumbridge itself, already operating as a mercantile rather than a vassal city.
+
+With the collapse of the first Kingdom of Saxony at the close of the thirteenth century and the reduction of the Hoghbrocken to their upstream lands in Lepzi and Magdeburg, Lumbridge's salt merchants seized the Sültzberg keep and razed it. A stone platform at the summit, left bare, remains as a civic monument to the revolt. By the first years of the fourteenth century, the city was a fully autonomous member of the Corvine Concert.
+
+Over the following half-century Lumbridge undertook its single most ambitious public work, the Bridge of Salt: a fortified stone span completed in 1348 over the Elmenaw, originally to control the flow of salt-barges. The bridge would replace the lost keep as the city's dominant landmark, and would be directly responsible for the city's renaming (see Toponymy below). In 1341, shortly before the bridge was completed, Lumbridge's delegation voted for the admission of Wrozlav into the Corvine Concert, against the protests of Bardwick and Bremen.
+
+Under the second German Empire, Lumbridge preserved its mercantile independence with minimal concession. Emperor Matthias II (r. 1542–1568), attempting to direct Stadbund trade policy, secured only symbolic statements of loyalty from the city council; in reality, the Schazhaus's loans to the imperial treasury gave Lumbridge far more leverage than vice versa. The situation was comparable to that of the contemporaneous Drachman merchant dynasty, whose dealings with the French, Provincial and Malchassian crowns alike were conducted from a position of structural creditor-supremacy.
+
+Saxony's ascendancy following the First German War of 1770 brought substantive limits on Stadbund autonomy for the first time since the fourteenth century. Lumbridge retained its seat on the Concert but was obliged to concede customs oversight and a fraction of its salt-monopoly revenues to the Saxon crown at Lepzi. This arrangement held until the reconstitution of the Stadbund as a supranational trade institution in the early twentieth century.
+
+The Schazhaus, during the nineteenth-century Workshop period, funded the city's transition from raw-salt export to a refined-chemical industry based on sodium and cuprose products. It has since become a leading patron of Stadbund historiography, most famously funding David Huhn's 1923 *Stadstahten: Sichrer Haven*.
+
+Toponymy
+
+The modern name records two sound-changes that took place in parallel in the local Saxon and in Merch-speaking trade correspondence, converging on near-identical forms by the end of the sixteenth century.
+
+In Saxon, the earlier form *Lūneborch* (attested in eleventh-century chronicles; the first element is of uncertain origin, though an Old Saxon *hliuni* "shelter" is most often proposed) underwent nasal assimilation in rapid speech: the /n/ of *Lūne-* shifted to /m/ under the influence of the following /b/, giving *Lümborch*, attested in merchant correspondence from the early thirteenth century. After the razing of the Sültzberg keep and the subsequent completion of the Bridge of Salt, the suffix *-borch* (< Proto-Germanic *\*burgz* "fortified place") became an etymological ghost; there was no longer a burg to refer to. By the middle of the fifteenth century, local speech had replaced it with the phonetically similar *-brügge* (< Proto-Germanic *\*brugjǭ* "bridge"), a toponymic replacement motivated by the Bridge of Salt's dominance over the cityscape. *Lümbrügge* appears in Stadbund registry documents from 1467 and is the official Saxon form thereafter.
+
+In Merch, the borrowing path was independent but produced a parallel result. Fourteenth-century Merch-speaking salt-factors trading out of the Humber encountered the Saxon form *Lümborch*, and approximated the Saxon front-rounded /y/ with native short /ʊ/, giving the written *Lumburgh* during the fifteenth century. In rapid speech the unstressed /-bʊɾx/ further reduced to something like /-bədʒ/, which chancery scribes re-etymologised by analogy with the native productive suffix *-bridge*. The spelling *Lumbridge* is attested in Tommarth customs records from 1587 and becomes dominant through the seventeenth century.
+
+The convergence of Saxon and Merch forms on a *-brügge*/*-bridge* shape by the early modern period is largely coincidental — the native development responded to the physical reality of the Bridge of Salt, while the foreign development responded to Merch phonotactic and orthographic pressure — but the coincidence served to stabilise the modern form on both sides of the North Sea.
+
+People
+
+Aldwin Sültz (fl. 1293), burgomaster at the time of the razing of the Sültzberg keep, traditionally credited with organising the salt-merchants' action against the Hoghbrocken garrison.
+
+Heinke Vortung (fl. 1348), master-builder of the Bridge of Salt, whose lost pattern-book *Bruggenriss* is sometimes attributed to her on stylistic grounds.
+
+Jakob Feldweiser (1847–1921), Schazhaus scholar whose *Die Ansprüche der Stadbund* (1884) established the modern tripartite periodisation of Stadbund history into pre-autonomy, Concert, and imperial phases.
+
+---
+
+**What's invented vs. canonical**, flagged for you to edit:
+
+- **Canon-faithful:** the three founding-core cities; Hoghbrocken reduction and Hamburg/Dorstad dates; Wrozlav 1341 vote; Matthias II (1542–68); First German War 1770 ascendancy; Schazhaus funding *Stadstahten*; 87.5 Merch phonology used for the exonym path.
+- **Inventions I committed to:** 1214 Lumbridge secession; 1293 razing of the Sültzberg keep; 1348 Bridge of Salt completion; Schazhaus founded 15C; 1467 Saxon-name stabilisation; 1587 Tommarth customs attestation; the Sültzberg itself and its name; the three named figures and their dates; the Drachman-dynasty comparison to French/Provincial/Malchassian crowns (your quiz line left the specific counterparties open).
+- **Not included, but available if you want:** a Danish/Northern Concert angle (I skipped it rather than invent canon); a map-sketch of the city; a more detailed single vignette from the Sültzberg revolt.
+
+Let me know what to tweak — dates, named figures, the Drachman gloss, or anything in the Toponymy walkthrough you'd phrase differently.

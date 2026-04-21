@@ -4,10 +4,8 @@ engin "nature" < ingenium
 scrim "swordplay, fencing" < escrime
 vasir "vizier" < arabic
 zaloc "bail" < slavic
-cambir "change"
 cubicr "bedsit, studio"
 empory "economy"
-nancir "contract (an illness)"
 regres "return journey"
 sabler "hourglass" < sabr
 chthony "geology" | chthonic "underground, geological"
@@ -34,7 +32,6 @@ depoussar "cashier, fire"
 entrjainç "section, interjection, excerpt"
 gentilhom "gentleman, gentlewoman"
 lon mensc "dishonourable"
-masmorrat "dungeon, jail cell" cf masmorra
 panditour "intellectual, thinker" cf pundit
 rimbangam "garter"
 sogn fair "dream, act irrationally"
