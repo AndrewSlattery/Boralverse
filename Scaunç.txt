@@ -4291,7 +4291,7 @@ History V: Europe from the Imperia to the Fracture (answers on sheet 233)
 3. The First Burning of London was in 1290, but approximately how many people were killed in the week-long disaster?
 (ɑ) 60 (β) 400 (ɣ) 1200
 
-4. Under whose mayorship was the city of Wrozlav admitted into the Corvine Concert in 1341, despite the protestations of Bardwick and Bremen?
+4. Under whose mayorship was the city of Wrozlav admitted into the Stadbund in 1341, despite the protestations of Bardwick and Bremen?
 
 5. In what year was the New Navarre Enterprise established by King Ambrose III of Vascony?
 
@@ -7082,7 +7082,7 @@ They had gone on holiday in the sun belt of Mivock.
 
 ---
 
-paragraphs excerpted from the 1902 compendium On the Cities of the Corvine Concert before the Landfall, a reference work written by Saxon author Witkind Defenter (originally in Saxon as Bezug der Cräherbunds städde for'n Ancuft) on behalf of the Bardwick Library of Trade.
+paragraphs excerpted from the 1902 compendium On the Cities of the Stadbund before the Landfall, a reference work written by Saxon author Witkind Defenter (originally in Saxon as Bezug der Cräherbunds städde for'n Ancuft) on behalf of the Bardwick Library of Trade.
 
 …goods through the Amagre Gap, making Middlesea fruits more available in whole form—with some speculation that even more distant foods like Bamackon mause and gorray nuts [1] could occasionally be found.
 
@@ -10761,7 +10761,7 @@ Theorists and scholars
 
 Writers
 
-    Witkind Defenter (fl. 1902), who wrote 'Cities of the Corvine Concert before the Landfall' on behalf of the Bardick Library of Trade
+    Witkind Defenter (fl. 1902), who wrote 'Cities of the Stadbund before the Landfall' on behalf of the Bardick Library of Trade
     Elke Hannawald (fl. 1946), writer during the Spring Tide of masquira works known for her trevold 'Outrun the Dawn'
     Elsebeth Sneider (m. 1772, d. c1830), pioneer of the genre of parachthon romance with her work Through a Black Mirror
 
@@ -19074,7 +19074,7 @@ The Peninsular Monastery which overlooks the city was erected in the name of the
 
 The Axbane of the late twelfth century is the de facto seat of the County of Sothbar; by 1190 the earl Steven (Steign) is known to have resided year-round in the coastal town, bequeathing the old house in Heitriç to his younger brother. At this time, the location of Axbane on one side of the Rustigh Strait was of immense strategic value. The Great Flie Flood of 1171 swept away much of Lower Frisland, and Axbane was for several decades afterward the obvious choice of harbour for any trader moving from the Danish lands through the Drengot domain and onward to Spain.
 
-Axbane eventually became one of the star cities of the Corvine Concert, an association of mercantile cities in the region. The throughput of the Axbane port is thought to have accounted for over a third of European trade outside the Middlesea by 1400 N. The late fourteenth century also saw this Borlish city develop a particularly close relationship with Bremen.
+Axbane eventually became one of the star cities of the Stadbund, an association of mercantile cities in the region. The throughput of the Axbane port is thought to have accounted for over a third of European trade outside the Middlesea by 1400 N. The late fourteenth century also saw this Borlish city develop a particularly close relationship with Bremen.
 
 The 1850s saw the Axbane-Texel undersea barric line, one of the world's first such steeplepost connections across the sea. At this time, Axbane was part of the New Urban Mesh along with independent cities like London.
 
@@ -30149,8 +30149,8 @@ notes in translation on the Borlish city of Axbane, located on the southwestern 
 Nell'oc epoc, Ausbagn se situant all'un cost dy Stuer Rustig vale immens cas eðegl.
 At this time, the location of Axbane on one side of the Rustigh Strait was of immense strategic value.
 
-Ausbagn denoy tandem un entr y citað protagoneyour ny Concert Corvin, un colluy de citað marcander ny region.
-Axbane eventually became one of the star cities of the Corvine Concert, an association of mercantile cities in the region. 
+Ausbagn denoy tandem un entr y citað protagoneyour ny Stadbond, un colluy de citað marcander ny region.
+Axbane eventually became one of the star cities of the Stadbund, an association of mercantile cities in the region. 
 
 Cossirað es ig d'an 1400N, y colanç de sdroy tras y havan d'Ausbagn teye may d'un tarç de commarç European deur y Miterran.
 The throughput of the Axbane port is thought to have accounted for over a third of European trade outside the Middlesea by 1400N. 
@@ -30489,56 +30489,36 @@ Snap out of it before someone gets hurt.
 
 ##
 
-219.5: Good — direction is clear. Quick memory note before I draft: you've clarified Merch is an English-family language (I had it loosely filed as Welsh-adjacent). Let me correct that, then post the draft.
+219.5: Lumbridge
 
-Now the draft. Matching 83.5/28.5 register — plain prose, section headings on their own line, no markdown.
-
----
-
-**219.5: Lumbridge**
-
-Lumbridge (Saxon *Lümbrügge*, historical *Lūneborch*; Merch /ˈlʊm.bɾɪdʒ/) is a city in the northern plains of the former first Kingdom of Saxony, situated on the Elmenaw river. It is one of the three founding-core cities of the Stadbund, alongside Hamburg and Bardwick, and has hosted the Schazhaus since that institution's foundation in the fifteenth century.
-
-History
-
-The city's earliest recorded wealth stems from the salt-springs of the Sültzberg, a gypsum hill overlooking the Elmenaw whose brine was already being worked under royal Saxon licence in the twelfth century. Toll agreements with Bardwick and Bremen in the 1120s and 1130s, largely restricting levies on salt-barges bound downstream, are among the earliest mercantile contracts between the cities that would later form the Stadbund.
-
-Lumbridge formally seceded from the First German Empire in 1214, seven years after Hamburg and six after Dorstad. Despite this, the city remained nominally a subject of the Kingdom of Saxony, and the ducal keep atop the Sültzberg continued to be garrisoned by officers of the Hoghbrocken dynasty into the latter half of the thirteenth century. The religious disruption of the German Secession briefly returned imperial pretensions to parts of Saxony but had little effect on Lumbridge itself, already operating as a mercantile rather than a vassal city.
-
-With the collapse of the first Kingdom of Saxony at the close of the thirteenth century and the reduction of the Hoghbrocken to their upstream lands in Lepzi and Magdeburg, Lumbridge's salt merchants seized the Sültzberg keep and razed it. A stone platform at the summit, left bare, remains as a civic monument to the revolt. By the first years of the fourteenth century, the city was a fully autonomous member of the Corvine Concert.
-
-Over the following half-century Lumbridge undertook its single most ambitious public work, the Bridge of Salt: a fortified stone span completed in 1348 over the Elmenaw, originally to control the flow of salt-barges. The bridge would replace the lost keep as the city's dominant landmark, and would be directly responsible for the city's renaming (see Toponymy below). In 1341, shortly before the bridge was completed, Lumbridge's delegation voted for the admission of Wrozlav into the Corvine Concert, against the protests of Bardwick and Bremen.
-
-Under the second German Empire, Lumbridge preserved its mercantile independence with minimal concession. Emperor Matthias II (r. 1542–1568), attempting to direct Stadbund trade policy, secured only symbolic statements of loyalty from the city council; in reality, the Schazhaus's loans to the imperial treasury gave Lumbridge far more leverage than vice versa. The situation was comparable to that of the contemporaneous Drachman merchant dynasty, whose dealings with the French, Provincial and Malchassian crowns alike were conducted from a position of structural creditor-supremacy.
-
-Saxony's ascendancy following the First German War of 1770 brought substantive limits on Stadbund autonomy for the first time since the fourteenth century. Lumbridge retained its seat on the Concert but was obliged to concede customs oversight and a fraction of its salt-monopoly revenues to the Saxon crown at Lepzi. This arrangement held until the reconstitution of the Stadbund as a supranational trade institution in the early twentieth century.
-
-The Schazhaus, during the nineteenth-century Workshop period, funded the city's transition from raw-salt export to a refined-chemical industry based on sodium and cuprose products. It has since become a leading patron of Stadbund historiography, most famously funding David Huhn's 1923 *Stadstahten: Sichrer Haven*.
+Lumbridge (Merch /ˈlʊm.bɾɪdʒ/; Saxon Lümbrügh) is a city in the northern plains of Saxony, situated on the Elmenaw river. It is one of the three founding cities of the Stadbund, alongside Hamburgh and Bardwick, and hosts the headquarters of the Shethous, a quasipolitic banking guild.
 
 Toponymy
 
-The modern name records two sound-changes that took place in parallel in the local Saxon and in Merch-speaking trade correspondence, converging on near-identical forms by the end of the sixteenth century.
+The earliest attestation of the town's name is in the form Luniburc (tenth century). The first element is usually identified with the placename Hliuni attested two centuries earlier; the second is burg "castle; walled town". The forms Lümbörgh and Lümbrügh (using the component brügh "bridge") competed for some time, but already by the end of the fifteenth century the latter was predominant. This is likely due to the storming and razing of the keep in the thirteenth century and the subsequent completion of the Bridge of Salt landmark (see below), which rendered "castle" an etymological ghost.
 
-In Saxon, the earlier form *Lūneborch* (attested in eleventh-century chronicles; the first element is of uncertain origin, though an Old Saxon *hliuni* "shelter" is most often proposed) underwent nasal assimilation in rapid speech: the /n/ of *Lūne-* shifted to /m/ under the influence of the following /b/, giving *Lümborch*, attested in merchant correspondence from the early thirteenth century. After the razing of the Sültzberg keep and the subsequent completion of the Bridge of Salt, the suffix *-borch* (< Proto-Germanic *\*burgz* "fortified place") became an etymological ghost; there was no longer a burg to refer to. By the middle of the fifteenth century, local speech had replaced it with the phonetically similar *-brügge* (< Proto-Germanic *\*brugjǭ* "bridge"), a toponymic replacement motivated by the Bridge of Salt's dominance over the cityscape. *Lümbrügge* appears in Stadbund registry documents from 1467 and is the official Saxon form thereafter.
+History
 
-In Merch, the borrowing path was independent but produced a parallel result. Fourteenth-century Merch-speaking salt-factors trading out of the Humber encountered the Saxon form *Lümborch*, and approximated the Saxon front-rounded /y/ with native short /ʊ/, giving the written *Lumburgh* during the fifteenth century. In rapid speech the unstressed /-bʊɾx/ further reduced to something like /-bədʒ/, which chancery scribes re-etymologised by analogy with the native productive suffix *-bridge*. The spelling *Lumbridge* is attested in Tommarth customs records from 1587 and becomes dominant through the seventeenth century.
+Founded and fortified with a keep on the Sültberg hill by the tenth century, Lumbridge first grew rich from the export of salt. Toll agreements with Bardwick and Bremen in the 1120s, aiming to restrict levies on salt-barges bound downstream, are among the earliest mercantile contracts between the cities that would later form the Stadbund (also known as the Corvine Concert).
 
-The convergence of Saxon and Merch forms on a *-brügge*/*-bridge* shape by the early modern period is largely coincidental — the native development responded to the physical reality of the Bridge of Salt, while the foreign development responded to Merch phonotactic and orthographic pressure — but the coincidence served to stabilise the modern form on both sides of the North Sea.
+Lumbridge formally renounced the authority of the First German Empire in 1214, seven years after Hamburgh and six after Dorstad. Despite this, the city remained nominally a subject of the Kingdom of Saxony. The religious disruption of the German Secession in subsequent decades had little direct effect on Lumbridge itself, already operating as a mercantile rather than a vassal city. However, the raising of levies to fight against Saxony's in two successive years is what led the city to revolt and destroy the keep in 1251.
+
+By the close of the thirteenth century the Kingdom of Saxony had been reduced to upstream lands in Lepzi and Magdeburgh. Lumbridge became a fully autonomous member of the Stadbund, and by 1326 it had completed the ambitious public work of constructing the Bridge of Salt, a fortified stone span over the Elmenaw which still stands to this day, making it the oldest river-crossing bridge in Europe.
+
+In 1341, Lumbridge's delegation voted in favour of the admission of Wrozlav into the Corvine Concert, unlike its neighbours, having formed an alliance with the Borlish city of Axbane.
+
+Although by the sixteenth century Lumbridge was once again vassal to an empire (the Second German Empire), the city preserved much of its mercantile independence. Emperor Matthias II (r. 1542–1568), attempting to direct Stadbund trade policy, secured only symbolic statements of loyalty from the city council; in reality, the Shethous loans to the imperial treasury gave the merchant nobility of Lumbridge significant leverage. Compare the contemporaneous Drachman merchant dynasty, who dealt similarly with the French, Provincial and Malchassian crowns.
+
+Saxony's ascendancy following the First German War of 1770 brought substantive limits on Stadbund autonomy for the first time since the fourteenth century. Lumbridge retained its seat on the Concert but was obliged to concede customs oversight and a fraction of its salt-monopoly revenues to the Saxon crown at Lepzi.
+
+During the nineteenth-century Workshop period, the Shethous helped to fund Lumbridge's transition from the salt industry to the production more refined alchemical substances.
 
 People
 
-Aldwin Sültz (fl. 1293), burgomaster at the time of the razing of the Sültzberg keep, traditionally credited with organising the salt-merchants' action against the Hoghbrocken garrison.
+Aldwin Sült (fl. 1251), burgh mayor who took part in the razing of the Sültberg keep
 
-Heinke Vortung (fl. 1348), master-builder of the Bridge of Salt, whose lost pattern-book *Bruggenriss* is sometimes attributed to her on stylistic grounds.
+Janin Feldweiser (1847–1921), a scholar funded by the Shethous whose 1884 work Volk out Sülver (People of Silver) established the modern periodisation of Stadbund history
 
-Jakob Feldweiser (1847–1921), Schazhaus scholar whose *Die Ansprüche der Stadbund* (1884) established the modern tripartite periodisation of Stadbund history into pre-autonomy, Concert, and imperial phases.
+##
 
----
-
-**What's invented vs. canonical**, flagged for you to edit:
-
-- **Canon-faithful:** the three founding-core cities; Hoghbrocken reduction and Hamburg/Dorstad dates; Wrozlav 1341 vote; Matthias II (1542–68); First German War 1770 ascendancy; Schazhaus funding *Stadstahten*; 87.5 Merch phonology used for the exonym path.
-- **Inventions I committed to:** 1214 Lumbridge secession; 1293 razing of the Sültzberg keep; 1348 Bridge of Salt completion; Schazhaus founded 15C; 1467 Saxon-name stabilisation; 1587 Tommarth customs attestation; the Sültzberg itself and its name; the three named figures and their dates; the Drachman-dynasty comparison to French/Provincial/Malchassian crowns (your quiz line left the specific counterparties open).
-- **Not included, but available if you want:** a Danish/Northern Concert angle (I skipped it rather than invent canon); a map-sketch of the city; a more detailed single vignette from the Sültzberg revolt.
-
-Let me know what to tweak — dates, named figures, the Drachman gloss, or anything in the Toponymy walkthrough you'd phrase differently.
+220.1: 
