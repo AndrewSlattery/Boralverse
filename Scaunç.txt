@@ -24629,7 +24629,7 @@ The British territory of Dunclothe was partially conquered settled by Dane invad
 
 Dunclothe appears to have controlled the fort at Eidin (modern Edinbrough) until it was sacked by Northumber in 928. Meanwhile Sodrick's power was waning; under King Roderick, Dunclothe conquered the isles of Arran and Mann by 942. The bride of King Radulf of Northumber (r. 951–), one Atre of Cheswic, may perhaps be one of King Roderick's daughters.
 
-In the early eleventh century, Dunclothe is part of a confederation of Dane Kingdoms. However, this would shortly collapse with the rapid expansion of the First Drengot Empire to the south, which incorporated Northumber along with most of southern Albion. This period sees Dunclothe grow closer to newly-united Wales, allies in opposition to Drengot power.
+In the early eleventh century, Dunclothe was part of a confederation of Dane Kingdoms. However, this state of affairs was about to collapse with the rapid expansion of the First Drengot Empire to the south, which incorporated Northumber along with most of southern Albion. The following century saw Dunclothe grow closer to newly-united Wales, allies in opposition to Drengot power.
 
 In the fourteenth and fifteenth centuries, Dunclothe-led fisheries in the North Atlantic were a major exporter of dried and/or cured cod, selling it via the meshes of Borland and Vascony as far afield as the Eastern Middlesea. This trade was a notable source of specie for the vicinity.
 
@@ -24812,7 +24812,7 @@ collected notes on two unrelated topics.
 
 Psolic aphlox (Merch /ˈsɔ.lɪk ˈa.flɔks/) [carbon monoxide] is a colourless, odourless and toxic air formed by burning organic material without enough ignifex [oxygen].
 
-Though the noxious effects of breathing the air in closed spaces where a coal fire is burning have been known since antiquity (and likely since prehistory), truly theoretical investigation did not begin until the seventeenth century, and the air was not isolated from the acid oil palacy [oxalic acid] until the Long Peace period at the turn of the nineteenth century. Its modern name, first used in 1854, comprises the adjective psolic [deoxygenated, with a lower oxidation number] from Greek ψόλος • psólos "soot, smoke" and the noun aphlox [carbon dioxide] from Greek ᾰ̓φλόξ  • ăphlóx "without flame".
+Though the noxious effects of breathing the air in closed spaces where a coal fire is burning have been known since antiquity (and likely since prehistory), truly theoretical investigation did not begin until the seventeenth century, and the air was not isolated from the acid oil palaquate [oxalic acid] until the Long Peace period at the turn of the nineteenth century. Its modern name, first used in 1854, comprises the adjective psolic [deoxygenated, with a lower oxidation number] from Greek ψόλος • psólos "soot, smoke" and the noun aphlox [carbon dioxide] from Greek ᾰ̓φλόξ  • ăphlóx "without flame".
 
 ---
 
@@ -25540,7 +25540,7 @@ The first Vetomundine royal to set foot in the Novomund was King Ambrose's elder
 
 notes in translation on the subject of a coveted artistic accolade.
 
-Honour de Hatfell son veðrdon plusour soupleyað de posc y siecr veintem primal a artejan ne sce divers y Collujon Drengoçan hamtant (e, posc ig l'oç alleyanç-federaç sfondrau d'an 1961, l'entertað de Gal e l'eç Istr Norðovester).
+Honour de Hatfell son veðrdon plusour soupleyað de posc y siecr veint primal a artejan ne sce divers y Collujon Drengoçan hamtant (e, posc ig l'oç alleyanç-federaç sfondrau d'an 1961, l'entertað de Gal e l'eç Istr Norðovester).
 Hatfell Honours refer to several prizes awarded since the early twentieth century to artists in various fields across the Drengot Collusion (and, after that alliance-federacy collapsed in 1961, across all of Gaul and the Northwestern Isles [Ireland, GB, Borland]).
 
 Y dou Honour ne literatur e ne dram son abrangið par y cougl original de veðrdon, cant novel art ern admis tan recent com y dezein 2010.
@@ -30521,4 +30521,25 @@ Janin Feldweiser (1847–1921), a scholar funded by the Shethous whose 1884 work
 
 ##
 
-220.1: 
+220.1: Dunclothe
+
+notes in translation on Dunclothe [~Strathclyde, Cumbria], a political and cultural region of western Albion [Great Britain], located south of Scotland and north of Markland [Mercia].
+
+Ny siecr onç primal, Duncloð sta un sodal entr un collujon de reyaum Dannesc.
+In the early eleventh century, Dunclothe was part of a confederation of Dane kingdoms.
+
+Interim, l'oc statu quo borjonna sur sfondrar a mesur dy spanjon veloç dy Preu Empir Drengoçan vars y souð, oç Norðhumbr sousument cosogr y majortað dell'Albion souðer.
+However, this state of affairs was about to collapse with the rapid expansion of the First Drengot Empire to the south, which incorporated Northumber along with most of southern Albion.
+
+Lonc y siecr sevent Duncloð dene amiablessem con Cambry nou unið, ec alley se ponent oppos de possenç Drengoçan.
+The following century saw Dunclothe grow closer to newly-united Wales, allies in opposition to Drengot power.
+
+Ny siecr catorç e quinç, pescment nell'Atlantic Norðer dirigið par Duncloð stan un enajour diçr de bacalau issugt e/ben tannið, lo vençant tras y sar d'Istr Boral e de Vascony vars allors lontan com y Miterran Auster.
+In the fourteenth and fifteenth centuries, Dunclothe-led fisheries in the North Atlantic were a major exporter of dried and/or cured cod, selling it via the meshes of Borland and Vascony as far afield as the Eastern Middlesea.
+
+L'oc commarç intermane un poið excellent de moneð por y vecintað.
+This trade was a notable source of specie for the vicinity.
+
+##
+
+220.2:
