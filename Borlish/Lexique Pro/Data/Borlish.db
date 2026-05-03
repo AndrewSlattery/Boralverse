@@ -2285,13 +2285,32 @@
 
 \et Middle Borlish < Latin
 
+\lx akirtanç
+\ps n
+
+\ge sparking
+\ge ignition
+\ge flare-up
+\ge outbreak
+\ge outburst
+\ge eruption
+\ge hit
+\ge breakout success
+
+\xv Caye un akirtanç de pennachet a Novembr.
+\xe There was a cholera outbreak in November.
+
+\et Etymology: Middle Borlish, noun derivation from akirtar "spark, kindle, ignite". The word has been used of diseases both within an individual and across a population since the seventeenth century, and in the last senses it first appeared in the Good Game period of the late nineteenth century.
+\mn akirtar
+
 \lx akirtar
 \ps ar v
 
 \ge spark
 \ge ignite
 
-\et Old Borlish
+\et Old Borlish, from kirt "spark".
+\mn kirt
 
 \lx al
 \ps n
@@ -6161,6 +6180,26 @@
 \ge in-law
 
 \et Old Borlish < Latin
+
+\lx bel declar
+\ps n
+
+\ge words of wisdom
+\ge adage
+\ge proverb
+\ge saying
+\ge maxim
+\ge cliché
+\ge saw
+\ge chestnut
+\ge platitude
+
+\xv Orruð y reverend parol for ne bel declar.
+\xe The minister seems to speak in clichés.
+
+\et early modern idiom, literally "beautiful claim". The phrase was potentially influenced by earlier parol de beldomn "gentlewomen's words". Negative or derisory usagee is attested from the nineteenth century.
+\mn bel
+\mn declar
 
 \lx bel min a menaç
 \ps n
@@ -11736,6 +11775,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -11744,16 +11784,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
-
-\lx condamnment
-\ps n
-
-\ge condemnation
-\ge sentence
-
-\et noun from condamnar "condemn"
-\mn condamnar
 
 \lx condamnment
 \ps n
@@ -11762,6 +11792,15 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemnatio, noun from condamnar "condemn"
+\mn condamnar
+
+\lx condamnment
+\ps n
+
+\ge condemnation
+\ge sentence
+
+\et noun from condamnar "condemn"
 \mn condamnar
 
 \lx condensar
@@ -18426,21 +18465,21 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps adj
 
 \ge durable
-\ge long-lasting
-
-\et Adjective from durar
-\mn durar
-
-\lx durabr
-\ps adj
-
-\ge durable
 \ge stiff
 \ge lasting
 \ge permanent
 \ge resilient
 
 \et adjective from durar "last"
+\mn durar
+
+\lx durabr
+\ps adj
+
+\ge durable
+\ge long-lasting
+
+\et Adjective from durar
 \mn durar
 
 \lx durant
@@ -19698,15 +19737,6 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \lx ensign
 \ps n
 
-\ge engraving
-\ge carving
-\ge suit
-
-\et Old Borlish < Latin
-
-\lx ensign
-\ps n
-
 \ge emblem
 \ge logo
 \ge symbol
@@ -19724,6 +19754,15 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \xe I will recommend you for a higher position.
 
 \et Middle Borlish, a semilearned borrowing from Latin insignia "emblem, badge", a noun formation from adjective insignis "marked, distinguished". The word has been used metonymically to refer to the position conferred or represented by an insignia since the fifteenth century, and it has been used in card games from approximately the same time.
+
+\lx ensign
+\ps n
+
+\ge engraving
+\ge carving
+\ge suit
+
+\et Old Borlish < Latin
 
 \lx ensignar
 \ps ar v
@@ -23289,18 +23328,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossau
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossaveyaçon
 \ps n
@@ -23638,6 +23677,13 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps ar v
 
 \ge rub
+
+\et Old Borlish < Old French < Latin
+
+\lx frottar
+\ps ar v
+
+\ge rub
 \ge chafe
 \ge scour
 \ge scrub
@@ -23653,13 +23699,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
-
-\lx frottar
-\ps ar v
-
-\ge rub
-
-\et Old Borlish < Old French < Latin
 
 \lx fruit
 \ps n
@@ -40881,9 +40920,11 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx par boc
 \ps adv
 
-\ge spoken
-\ge by mouth
-\ge hearsay
+\ge apparently
+\ge allegedly
+\ge it is said
+\ge they say
+\ge I hear
 
 \mn par
 \mn boc
@@ -40891,11 +40932,9 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx par boc
 \ps adv
 
-\ge apparently
-\ge allegedly
-\ge it is said
-\ge they say
-\ge I hear
+\ge spoken
+\ge by mouth
+\ge hearsay
 
 \mn par
 \mn boc
@@ -49862,8 +49901,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx sandrinal
 \ps adj
 
-\ge antiscorbutic
-\ge pertaining to vitamin C
+\ge containing vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -49871,7 +49909,8 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx sandrinal
 \ps adj
 
-\ge containing vitamin C
+\ge antiscorbutic
+\ge pertaining to vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -61989,16 +62028,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge volcano
+\ge hothead
 
-\et Italian, from Latin Vulcanus
+\et Italian < Latin Vulcanus
 
 \lx volcan
 \ps n
 
 \ge volcano
-\ge hothead
 
-\et Italian < Latin Vulcanus
+\et Italian, from Latin Vulcanus
 
 \lx volir
 \ps ir1 v
