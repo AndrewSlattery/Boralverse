@@ -135,7 +135,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 28.2	dictionary	y parol robar "to choose one's words"	y parol robar	to choose one's words	True	2	133	856	dictionary/28.2_y_parol_robar_to_choose_one's_words.md
 28.3	dictionary	jamir "complain"	jamir	complain	True	2	84	578	dictionary/28.3_jamir_complain.md
 28.4	dictionary	neðolmar "comply"	neðolmar	comply	True	3	115	684	dictionary/28.4_neðolmar_comply.md
-28.5	notes	Saxony and Libya			False	0	478	2993	notes/28.5_Saxony_and_Libya.md
+28.5	notes	Saxony and Libya			False	0	477	2986	notes/28.5_Saxony_and_Libya.md
 29.1	excerpt	A Letter from Bervisson			False	0	272	1609	excerpt/29.1_A_Letter_from_Bervisson.md
 29.2	dictionary	treublar "annoy"	treublar	annoy	True	2	123	770	dictionary/29.2_treublar_annoy.md
 29.3	dictionary	vessonary "catalogue"	vessonary	catalogue	True	3	139	959	dictionary/29.3_vessonary_catalogue.md
@@ -156,7 +156,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 32.3	dictionary	oblimanç "passion"	oblimanç	passion	True	2	184	1207	dictionary/32.3_oblimanç_passion.md
 32.4	dictionary	vraseyant "impressive"	vraseyant	impressive	True	2	117	830	dictionary/32.4_vraseyant_impressive.md
 32.5	notes	Monarchs of Borland			False	0	247	1460	notes/32.5_Monarchs_of_Borland.md
-33.1	excerpt	Film Review			False	0	232	1386	excerpt/33.1_Film_Review.md
+33.1	excerpt	Film Review			False	0	232	1387	excerpt/33.1_Film_Review.md
 33.2	dictionary	çavel "brain"	çavel	brain	True	3	118	753	dictionary/33.2_çavel_brain.md
 33.3	dictionary	zantr "zenith"	zantr	zenith	True	4	158	965	dictionary/33.3_zantr_zenith.md
 33.4	dictionary	gur "dread"	gur	dread	True	3	142	812	dictionary/33.4_gur_dread.md
@@ -543,7 +543,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 106.2	dictionary	crochet "biscuit"	crochet	biscuit	True	2	104	653	dictionary/106.2_crochet_biscuit.md
 106.3	dictionary	nux "nucleus"	nux	nucleus	True	3	102	589	dictionary/106.3_nux_nucleus.md
 106.4	dictionary	cottegl "skirt"	cottegl	skirt	True	3	110	643	dictionary/106.4_cottegl_skirt.md
-106.5	notes	Axbane			False	0	422	2499	notes/106.5_Axbane.md
+106.5	notes	Axbane			False	0	421	2492	notes/106.5_Axbane.md
 107.1	excerpt	Convoy Australier			False	0	246	1481	excerpt/107.1_Convoy_Australier.md
 107.2	dictionary	autour "owner"	autour	owner	True	2	82	552	dictionary/107.2_autour_owner.md
 107.3	dictionary	soustançal "material"	soustançal	material	True	2	89	646	dictionary/107.3_soustançal_material.md
@@ -826,7 +826,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 161.2	dictionary	sbayour "bystander"	sbayour	bystander	True	3	147	938	dictionary/161.2_sbayour_bystander.md
 161.3	dictionary	senglottaç "whine"	senglottaç	whine	True	3	112	802	dictionary/161.3_senglottaç_whine.md
 161.4	dictionary	avoccaçon "fun"	avoccaçon	fun	True	2	103	759	dictionary/161.4_avoccaçon_fun.md
-161.5	notes	Dunclothe			False	0	323	2010	notes/161.5_Dunclothe.md
+161.5	notes	Dunclothe			False	0	328	2036	notes/161.5_Dunclothe.md
 162.1	excerpt	Raymond al Mustafa			False	0	214	1388	excerpt/162.1_Raymond_al_Mustafa.md
 162.2	dictionary	glouç "giggle"	glouç	giggle	True	3	122	798	dictionary/162.2_glouç_giggle.md
 162.3	dictionary	ðesmbal "bombshell"	ðesmbal	bombshell	True	4	193	1272	dictionary/162.3_ðesmbal_bombshell.md
@@ -836,7 +836,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 163.2	dictionary	flasq "pathetic"	flasq	pathetic	True	3	138	932	dictionary/163.2_flasq_pathetic.md
 163.3	dictionary	cedar "guitar"	cedar	guitar	True	3	157	925	dictionary/163.3_cedar_guitar.md
 163.4	dictionary	gapir "pop up"	gapir	pop up	True	3	115	727	dictionary/163.4_gapir_pop_up.md
-163.5	notes	Like Oil and Water			False	0	316	1973	notes/163.5_Like_Oil_and_Water.md
+163.5	notes	Like Oil and Water			False	0	316	1976	notes/163.5_Like_Oil_and_Water.md
 164.1	excerpt	The Zenda Manuscript			False	0	337	1987	excerpt/164.1_The_Zenda_Manuscript.md
 164.2	dictionary	cardonar "unknot"	cardonar	unknot	True	5	152	924	dictionary/164.2_cardonar_unknot.md
 164.3	dictionary	stig "pang"	stig	pang	True	3	136	777	dictionary/164.3_stig_pang.md
@@ -877,7 +877,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 171.3	dictionary	visnous "gnarly"	visnous	gnarly	True	3	114	766	dictionary/171.3_visnous_gnarly.md
 171.4	dictionary	ne minemini "eeny meeny miney moe"	ne minemini	eeny meeny miney moe	True	3	200	1281	dictionary/171.4_ne_minemini_eeny_meeny_miney_moe.md
 171.5	notes	Novomundine Landfall			False	0	289	1907	notes/171.5_Novomundine_Landfall.md
-172.1	excerpt	Hatfell Honours			False	0	233	1411	excerpt/172.1_Hatfell_Honours.md
+172.1	excerpt	Hatfell Honours			False	0	233	1409	excerpt/172.1_Hatfell_Honours.md
 172.2	dictionary	allocquar "address"	allocquar	address	True	3	141	825	dictionary/172.2_allocquar_address.md
 172.3	dictionary	incombir "loom"	incombir	loom	True	4	116	742	dictionary/172.3_incombir_loom.md
 172.4	dictionary	ostendar "blog"	ostendar	blog	True	3	125	780	dictionary/172.4_ostendar_blog.md
@@ -1104,7 +1104,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 215.3	dictionary	sabler reuvr "turn back time"	sabler reuvr	turn back time	True	4	164	1029	dictionary/215.3_sabler_reuvr_turn_back_time.md
 215.4	dictionary	y gra valir "measure up"	y gra valir	measure up	True	4	172	1058	dictionary/215.4_y_gra_valir_measure_up.md
 215.5	notes	Ministry for Consequences			False	0	271	1762	notes/215.5_Ministry_for_Consequences.md
-216.1	excerpt	Axbane and Commerce			False	0	243	1433	excerpt/216.1_Axbane_and_Commerce.md
+216.1	excerpt	Axbane and Commerce			False	0	241	1420	excerpt/216.1_Axbane_and_Commerce.md
 216.2	dictionary	vlangr "fence"	vlangr	fence	True	2	147	922	dictionary/216.2_vlangr_fence.md
 216.3	dictionary	vivotar "languish"	vivotar	languish	True	2	90	634	dictionary/216.3_vivotar_languish.md
 216.4	dictionary	creir n'aglon "hold out hope"	creir n'aglon	hold out hope	True	2	107	715	dictionary/216.4_creir_n'aglon_hold_out_hope.md
@@ -1123,3 +1123,9 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 219.2	dictionary	cambir "swap"	cambir	swap	True	3	123	842	dictionary/219.2_cambir_swap.md
 219.3	dictionary	nancir "contract"	nancir	contract	True	3	104	684	dictionary/219.3_nancir_contract.md
 219.4	dictionary	scouðir "rescue"	scouðir	rescue	True	4	150	858	dictionary/219.4_scouðir_rescue.md
+219.5	notes	Lumbridge			False	0	580	3710	notes/219.5_Lumbridge.md
+220.1	excerpt	Dunclothe			False	0	242	1502	excerpt/220.1_Dunclothe.md
+220.2	dictionary	bel declar "words of wisdom"	bel declar	words of wisdom	True	2	128	831	dictionary/220.2_bel_declar_words_of_wisdom.md
+220.3	dictionary	akirtanç "outbreak"	akirtanç	outbreak	True	4	144	952	dictionary/220.3_akirtanç_outbreak.md
+220.4	dictionary	quid "credits"	quid	credits	True	3	223	1373	dictionary/220.4_quid_credits.md
+220.5	notes	Events of 1950			False	0	429	2728	notes/220.5_Events_of_1950.md
