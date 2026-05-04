@@ -30576,4 +30576,25 @@ There was a cholera outbreak in November.
 
 ##
 
-220.4: 
+220.4: quid "credits"
+
+quid /kwɪd/ [kwɪd]
+- credits, money in some (usually) future or space-set piece of fiction;
+- in economic writing, a placeholder name for an arbitrary currency;
+- (colloquially) dosh, greens, dough, the local currency
+
+Etymology: late nineteenth century, introduced by Borlish author Hadassa Docquerl in her 1872 trevold An Incomplete Dictionary of the New London (a Futurist work touring a rebuilt London decades after a war). This book also contains the first attestation of ardois "slate" for a large screen displaying digital information.
+
+The word is presumed to be a clipping of Latin phrase quid pro quo "this for that", referring to an abstracted trade. The Pentrose slang term quid "lump of coal", which comes via Devoner cuit "firewood" from Classical Kelt caetos "forest", is probably unrelated.
+
+In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books in dozens of languages worldwide by the turn of the century. It was usually represented symbolically with the Greek qoppa ϟ by this time. It is attested in academic writing from the 1910s, and in common use in various languages since the 1950s.
+
+Y xiphar accataurn bos por tre quid a cascun.
+/i ksiˈfar ˌa.kaˈtorn̩ bɔz pɔr tre kwɪd a kaˈxɪn/
+[i ksɪˈfɐː‿ˌʀa.kɐˈtoːn bɔz pɔː tre kwɪd a kɐˈçɪn]
+df merc buy-pst-3p gun for three credit at each
+The mercs bought guns for three credits each.
+
+##
+
+220.5: 

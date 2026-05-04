@@ -1090,6 +1090,15 @@
 \lx accordar
 \ps ar v
 
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
+
+\lx accordar
+\ps ar v
+
 \ge agree
 \ge accord
 \ge harmonise
@@ -1097,15 +1106,6 @@
 \ge go
 
 \et Middle Borlish < Latin
-
-\lx accordar
-\ps ar v
-
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -4707,6 +4707,16 @@
 \ge crowd
 
 \et Old Borlish < Vulgar Latin
+
+\lx aucoum forcer
+\ps n
+
+\ge powerhouse
+\ge hotbed
+\ge dynamo
+
+\mn aucoum
+\mn forç
 
 \lx audaç
 \ps n
@@ -9948,20 +9958,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \ge period of fifty years
 
-\lx cinqueç
-\ps num
-
-\ge fifteen
-
-\et Old Borlish < Latin
-
-\lx cint
-\ps adj
-
-\ge fifth
-
-\et Old Borlish < Latin
-
 \lx circol
 \ps n
 
@@ -11775,7 +11771,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -11784,6 +11779,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnment
 \ps n
@@ -19737,6 +19733,15 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \lx ensign
 \ps n
 
+\ge engraving
+\ge carving
+\ge suit
+
+\et Old Borlish < Latin
+
+\lx ensign
+\ps n
+
 \ge emblem
 \ge logo
 \ge symbol
@@ -19754,15 +19759,6 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \xe I will recommend you for a higher position.
 
 \et Middle Borlish, a semilearned borrowing from Latin insignia "emblem, badge", a noun formation from adjective insignis "marked, distinguished". The word has been used metonymically to refer to the position conferred or represented by an insignia since the fifteenth century, and it has been used in card games from approximately the same time.
-
-\lx ensign
-\ps n
-
-\ge engraving
-\ge carving
-\ge suit
-
-\et Old Borlish < Latin
 
 \lx ensignar
 \ps ar v
@@ -23328,18 +23324,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossau
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossaveyaçon
 \ps n
@@ -23677,13 +23673,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps ar v
 
 \ge rub
-
-\et Old Borlish < Old French < Latin
-
-\lx frottar
-\ps ar v
-
-\ge rub
 \ge chafe
 \ge scour
 \ge scrub
@@ -23699,6 +23688,13 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
+
+\lx frottar
+\ps ar v
+
+\ge rub
+
+\et Old Borlish < Old French < Latin
 
 \lx fruit
 \ps n
@@ -46076,6 +46072,24 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Old Borlish < Old English
 
+\lx quid
+\ps n
+
+\ge credits
+\ge dosh
+\ge quid
+\ge greens
+\ge dough
+
+\xv Y xiphar accataurn bos por tre quid a cascun.
+\xe The mercs bought guns for three credits each.
+
+\et late nineteenth century, introduced by Borlish author Hadassa Docquerl in her 1872 trevold An Incomplete Dictionary of the New London (a Futurist work touring a rebuilt London decades after a war). This book also contains the first attestation of ardois "slate" for a large screen displaying digital information.
+
+The word is presumed to be a clipping of Latin phrase quid pro quo "this for that", referring to an abstracted trade. The Pentrose slang term quid "lump of coal", which comes via Devoner cuit "firewood" from Classical Kelt caetos "forest", is probably unrelated.
+
+In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books in dozens of languages worldwide by the turn of the century. It was usually represented symbolically with the Greek qoppa ϟ by this time. It is attested in academic writing from the 1910s, and in common use in various languages since the 1950s.
+
 \lx quïð
 \ps adj
 
@@ -46177,6 +46191,20 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge collide
 \ge bump into
 \ge chisel
+
+\et Old Borlish < Latin
+
+\lx quinç
+\ps num
+
+\ge fifteen
+
+\et Old Borlish < Latin
+
+\lx quint
+\ps adj
+
+\ge fifth
 
 \et Old Borlish < Latin
 
@@ -58762,19 +58790,19 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge transmigration
-\ge relocate
+\ge relocation
+\ge nomadism
 
-\et noun from tramigrar "transmigrate".
+\et noun from tramigrar
 \mn tramigrar
 
 \lx tramigraçon
 \ps n
 
 \ge transmigration
-\ge relocation
-\ge nomadism
+\ge relocate
 
-\et noun from tramigrar
+\et noun from tramigrar "transmigrate".
 \mn tramigrar
 
 \lx tramigrar
@@ -62028,16 +62056,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge volcano
-\ge hothead
 
-\et Italian < Latin Vulcanus
+\et Italian, from Latin Vulcanus
 
 \lx volcan
 \ps n
 
 \ge volcano
+\ge hothead
 
-\et Italian, from Latin Vulcanus
+\et Italian < Latin Vulcanus
 
 \lx volir
 \ps ir1 v
