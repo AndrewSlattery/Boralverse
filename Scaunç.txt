@@ -3724,7 +3724,7 @@ There is little discussion of the kernel until the long peace at the end of the 
 Par surcresc, inconnuð es l'hom preu apponent ig ny nouç assey y lengaç vital a Desselut, ma l'idea au y maglur scholastic parvas cos enter (dy Vetomund toð cas) pre annað 1813.
 Moreover, it is unclear who first proposed that the kernel might house Desselut's vital language, but the idea had thoroughly percolated at least the Vetomundine scholastic mesh by 1813.
 
-L'oc annað, y theorist Gorjatic Manesc Camdar editau sull'interrogment de fecondation a spogn marin, parcevent ig y nouç casel de sperm unisc coll'ig nouç dell'ou.
+L'oc annað, y theorist Gorjatic Manesc Camdar editau sull'interrogment ny fecondation a spogn marin, parcevent ig y nouç casel de sperm unisc coll'ig nouç dell'ou.
 In this year, Gurjat theorist Manesh Camdar published his research on fecundation [fertilisation] in marine sponges, observing that the kernel of sperm unites with that of the egg.
 
 ##
@@ -9971,7 +9971,7 @@ In parallel were alchemical discoveries, including many new elements. For exampl
 
 The Long Peace saw the inception of the Deviance Movement (also called Anti-Paradise Theology), including the incendiary 1799 publication Et Nous Amerons les Fux (And We Will Love the Fire).
 
-The armourcloth fashion (of women's evening dress decorated in the style of military uniform) has its beginnings early in this period, and is still most strongly associated with it, despite several revivals. The advent of Straightforward Fashion occurs somewhat later, beginning in the first decade of the nineteenth century.
+The armourcloth fashion (of women's dress decorated in the style of military uniform) has its beginnings early in this period, and is still most strongly associated with it, despite several revivals. The advent of Straightforward Fashion occurs somewhat later, beginning in the first decade of the nineteenth century.
 
 ##
 
@@ -22906,7 +22906,7 @@ The Deviance movement
 notes in translation on the subject of the Deviance movement (also called Anti-Paradise Theology).
 
 Un ouvr primal signfeyant por y commouð a Desveyanç sta l'ediçon lon nom 'E Nos Amareu y Foy', ençant a s'evolgar d'an 1799 eð offiruð par sdegn cas rigteç incommorant.
-An important early work to the Deviance movementhm was the anonymously-published 'And We Will Love the Fire', which began circulating in 1799 to immediate moral outrage.
+An important early work to the Deviance movement was the anonymously-published 'And We Will Love the Fire', which began circulating in 1799 to immediate moral outrage.
 
 Con tan scein pres un doçan de possibiltað creibr soumis cos serious por cuscon sta sy scrittour, jamay no scey alcun accort acavað sull'oc them.
 Though almost a dozen plausible candidates for its authorship have been seriously proposed, no consensus has ever been reached on the issue.
@@ -30613,4 +30613,37 @@ The derailment of a private convoy [train] on 1950 January 29 occurred on the li
 
 ##
 
-221.1:
+221.1: The Long Peace
+
+notes in translation on the subject of the Long Peace period (1770–1815).
+
+Cayen fanglanç diçr cas y theory de við nell'oc epoc, ig inclus y descovart ig y cundr caser hamta y "lengaç vital" de Desselut.
+There were major advancements in biology in this period, including the discovery that the cell nucleus housed Desselut's "vital language".
+
+L'oc sta complið par y theorist Manesc Camdar d'an 1813 par meyan d'interrogment ny fecondaçon a spogn marin, yon le parceveu ig y nouç casel de sperm unisc coll'oç dell'ou.
+This was achieved by theorist Manesh Camdar in 1813 via research on marine sponge fertilisation, in which he observed that the nucleus of sperm unites with that of the egg.
+
+Simoltane sceyen descovart alchemic, ig inclus bempart corporal novel. Com bustr, janthin er descovart ne Zampanagar d'an 1778, e machovin ne Pologn an dezein apres.
+In parallel were chemical discoveries, including many new elements. For example, iodine was discovered in Zampanagar in 1778, and strontium in Poland a decade later.
+
+A mesur dy Paç Lonc caye l'inceuçon dy Commouð a Desveyanç, ig inclus l'ediçon incendier d'an 1799 E Nos Amareu y Foy.
+The Long Peace saw the inception of the Deviance Movement, including the incendiary 1799 publication And We Will Love the Fire.
+
+L'eutað de voinaçal (por vesson a domn adornað lonc ornat militer) se mette afaç primallessem nell'oc epoc, e ja lo's alligað y starchessem con ac, ig degnant plusour resorgenç.
+The armourcloth fashion (of women's dress decorated in the style of military uniform) has its beginnings early in this period, and is still most strongly associated with it, despite several revivals.
+
+##
+
+221.2: zaloc "bail"
+
+zaloc /zaˈlɔk/ [zaˈlɔk]
+- pawn, hock, the state of being held as security for a loan;
+- collateral, security, something used to secure a loan;
+- bail, a sum of money exchanged for the release of an arrested person as a guarantee of that person's appearance for trial;
+- (colloquial) leverage, bargaining chip, an abstract or physical source of advantage over some situation
+
+Etymology: 18th century in underworld slang, borrowed from Willem Dutch zalock, zalogh "pawn". This and related terms originate in zaloh "pawn" in Bohamer [Czech], a descendant of a synonymous zalogo in Classical Slavone. By the twentieth century the term had displaced the offical legalese vad "bail" in all but the most rarefied settings.
+
+Y lettr volað interman nossell'un soul zaloc.
+/i lɛtr̩
+The stolen letter is our only bargaining chip.

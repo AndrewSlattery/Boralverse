@@ -1,5 +1,3 @@
-broucanç "enjoyment, indulgence"
-annexment "extension, enhancement"
 zaloc "bail" < slavic
 teisment "scheme, project"
 reliquy "fossil, remains"
@@ -45,6 +43,8 @@ sogn fair "dream, act irrationally"
 domn dy noit "prostitute (f.)"
 domn dy jorn "mistress"
 lucraðeu "profitable, lucrative, wealthy, rich"
+cundr "kernel" < cyrnel
+ornat "livery, uniform" < ornatus
 
 fought, contested
 gone, missing, used up
