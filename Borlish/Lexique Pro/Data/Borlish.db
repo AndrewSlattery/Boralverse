@@ -11794,7 +11794,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -11803,15 +11802,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-
-\lx condamnment
-\ps n
-
-\ge condemnation
-\ge sentence
-
-\et Latin condemnatio, noun from condamnar "condemn"
-\mn condamnar
+\mn damnar
 
 \lx condamnment
 \ps n
@@ -11820,6 +11811,15 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et noun from condamnar "condemn"
+\mn condamnar
+
+\lx condamnment
+\ps n
+
+\ge condemnation
+\ge sentence
+
+\et Latin condemnatio, noun from condamnar "condemn"
 \mn condamnar
 
 \lx condensar
@@ -12177,17 +12177,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge conspirator
-\ge accomplice
+\ge abettor
 
-\et Middle Borlish
+\mn conjuraçonnar
 
 \lx conjuraçonnour
 \ps n
 
 \ge conspirator
-\ge abettor
+\ge accomplice
 
-\mn conjuraçonnar
+\et Middle Borlish
 
 \lx connardaç
 \ps n
@@ -42013,15 +42013,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
-
-\lx paus
 \ps interj
 
 \ge hang on
@@ -42030,6 +42021,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
+
+\lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -47755,6 +47755,22 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \ge holy
 
 \et Middle Borlish < Latin
+
+\lx reliquy
+\ps n
+
+\ge relic
+\ge remainder
+\ge fossil
+\ge throwback
+\ge holdover
+\ge atavism
+\ge skeuomorph
+
+\xv La trovau doçan de reliquy sur y play.
+\xe She found dozens of fossils on the beach.
+
+\et Middle Borlish, reclassicised form of Old Borlish relic after the Latin reliquiae "remains, leftovers, survivors", from relinquō "I leave behind". The term has been used in mathematics since the fifteenth century, in geology since the seventeenth, and in product design since the late nineteenth.
 
 \lx reloð
 \ps adj
@@ -57214,6 +57230,29 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Old Borlish < Latin
 
+\lx teisment
+\ps n
+
+\ge braid
+\ge plait
+\ge wreath
+\ge device
+\ge stratagem
+\ge scheme
+\ge deduction
+\ge inference
+\ge narrative
+\ge story
+\ge plot
+\ge project
+\ge undertaking
+
+\xv Victour portaraun teisment laureller.
+\xe Champions will wear laurel wreaths.
+
+\et Old Borlish, a nominalisation in all senses of the verb teissir "weave; concoct; infer; narrate".
+\mn teissir
+
 \lx teissir
 \ps ir1 v
 
@@ -58813,19 +58852,19 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge transmigration
-\ge relocate
+\ge relocation
+\ge nomadism
 
-\et noun from tramigrar "transmigrate".
+\et noun from tramigrar
 \mn tramigrar
 
 \lx tramigraçon
 \ps n
 
 \ge transmigration
-\ge relocation
-\ge nomadism
+\ge relocate
 
-\et noun from tramigrar
+\et noun from tramigrar "transmigrate".
 \mn tramigrar
 
 \lx tramigrar
@@ -63340,6 +63379,22 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge assorted
 
 \et Middle Borlish < Mostara < Arabic
+
+\lx zaloc
+\ps n
+
+\ge pawn
+\ge hock
+\ge collateral
+\ge security
+\ge bail
+\ge leverage
+\ge bargaining chip
+
+\xv Y lettr volað interman nossell'un soul zaloc.
+\xe The stolen letter is our only bargaining chip.
+
+\et 18th century in underworld slang, borrowed from Willem Dutch zalock, zalogh "pawn". This and related terms originate in zaloh "pawn" in Bohamer [Czech], a descendant of a synonymous zalogo in Classical Slavone. By the twentieth century the term had displaced the offical legalese vad "bail" in all but the most rarefied settings.
 
 \lx zamic
 \ps n

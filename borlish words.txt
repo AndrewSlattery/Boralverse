@@ -1,6 +1,3 @@
-zaloc "bail" < slavic
-teisment "scheme, project"
-reliquy "fossil, remains"
 scrim "swordplay, fencing" < escrime
 engin "nature" < ingenium
 gradual "titular, entailed, pertaining to a noble title; hierarchical"
@@ -45,6 +42,7 @@ domn dy jorn "mistress"
 lucraðeu "profitable, lucrative, wealthy, rich"
 cundr "kernel" < cyrnel
 ornat "livery, uniform" < ornatus
+laureller "laurel" < laurus
 
 fought, contested
 gone, missing, used up
