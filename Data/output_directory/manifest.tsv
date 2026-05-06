@@ -105,7 +105,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 22.2	dictionary	quaðeglad "campus"	quaðeglad	campus	True	2	116	822	dictionary/22.2_quaðeglad_campus.md
 22.3	dictionary	soumonir "reference"	soumonir	reference	True	2	119	771	dictionary/22.3_soumonir_reference.md
 22.4	dictionary	hey "fence"	hey	fence	True	3	154	908	dictionary/22.4_hey_fence.md
-22.5	notes	The Long Peace			False	3	346	2231	notes/22.5_The_Long_Peace.md
+22.5	notes	The Long Peace			False	3	345	2223	notes/22.5_The_Long_Peace.md
 23.1	excerpt	The Girdled World			False	0	266	1591	excerpt/23.1_The_Girdled_World.md
 23.2	dictionary	augrimar "to calculate"	augrimar	to calculate	True	3	128	936	dictionary/23.2_augrimar_to_calculate.md
 23.3	dictionary	annexar "supplement"	annexar	supplement	True	3	116	789	dictionary/23.3_annexar_supplement.md
@@ -739,7 +739,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 145.4	dictionary	emblemat "mosaic"	emblemat	mosaic	True	3	111	848	dictionary/145.4_emblemat_mosaic.md
 145.5	notes	Furlain			False	0	245	1555	notes/145.5_Furlain.md
 145.7	dictionary	1st Lexember - des caucet "utterly"	1st Lexember - des caucet	utterly	True	3	134	851	dictionary/145.7_1st_Lexember_-_des_caucet_utterly.md
-146.1	excerpt	2nd Lexember - deunx "close shave"			True	3	441	2760	excerpt/146.1_2nd_Lexember_-_deunx_close_shave.md
+146.1	excerpt	2nd Lexember - deunx "close shave"			True	3	441	2758	excerpt/146.1_2nd_Lexember_-_deunx_close_shave.md
 146.2	dictionary	3rd Lexember - collindar "abut"	3rd Lexember - collindar	abut	True	3	109	710	dictionary/146.2_3rd_Lexember_-_collindar_abut.md
 146.3	dictionary	4th Lexember - verdeyant "lush"	4th Lexember - verdeyant	lush	True	3	108	770	dictionary/146.3_4th_Lexember_-_verdeyant_lush.md
 146.4	dictionary	5th Lexember - roç "cabbie"	5th Lexember - roç	cabbie	True	2	133	806	dictionary/146.4_5th_Lexember_-_roç_cabbie.md
@@ -1129,3 +1129,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 220.3	dictionary	akirtanç "outbreak"	akirtanç	outbreak	True	4	144	952	dictionary/220.3_akirtanç_outbreak.md
 220.4	dictionary	quid "credits"	quid	credits	True	3	223	1373	dictionary/220.4_quid_credits.md
 220.5	notes	Events of 1950			False	0	429	2728	notes/220.5_Events_of_1950.md
+221.1	excerpt	The Long Peace			False	0	269	1650	excerpt/221.1_The_Long_Peace.md
+221.2	dictionary	zaloc "bail"	zaloc	bail	True	4	152	957	dictionary/221.2_zaloc_bail.md
+221.3	dictionary	teisment "braid"	teisment	braid	True	6	126	858	dictionary/221.3_teisment_braid.md
+221.4	dictionary	reliquy "fossil"	reliquy	fossil	True	5	161	1014	dictionary/221.4_reliquy_fossil.md
