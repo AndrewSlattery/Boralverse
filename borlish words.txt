@@ -43,6 +43,11 @@ lucraðeu "profitable, lucrative, wealthy, rich"
 cundr "kernel" < cyrnel
 ornat "livery, uniform" < ornatus
 laureller "laurel" < laurus
+tar noxal "sal ammoniac" < L terra noxāl, noxaterra < Greek < Persian nošâdor
+noxal "nitrogen" ^
+sentenç "worldview, viewpoint, ethos" < sententia
+sposar "espouse" < spōnsō
+monastic "monastic"
 
 fought, contested
 gone, missing, used up
