@@ -1,6 +1,3 @@
-scrim "swordplay, fencing" < escrime
-engin "nature" < ingenium
-gradual "titular, entailed, pertaining to a noble title; hierarchical"
 panelleyar "theme"
 enmigtað "enmity, rivalry"
 regres "return journey"
