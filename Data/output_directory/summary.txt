@@ -1,21 +1,21 @@
 Phase 1 Split & Classify — Summary
 ========================================
 
-Total entries:      1134
-Distinct posts:     221
+Total entries:      1139
+Distinct posts:     222
 
 By type:
-  excerpt         219
-  dictionary      696
-  notes           219
+  excerpt         220
+  dictionary      699
+  notes           220
 
 Word count by type:
-  excerpt        60,013 words
-  dictionary     95,813 words
-  notes          79,346 words
-  total         235,172 words
+  excerpt        60,242 words
+  dictionary     96,205 words
+  notes          79,684 words
+  total         236,131 words
 
-Post range:         1 – 221
+Post range:         1 – 222
 
 Source: Scaunç.txt
 Blocks without header skipped: 424

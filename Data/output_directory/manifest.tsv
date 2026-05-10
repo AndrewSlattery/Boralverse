@@ -1109,7 +1109,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 216.3	dictionary	vivotar "languish"	vivotar	languish	True	2	90	634	dictionary/216.3_vivotar_languish.md
 216.4	dictionary	creir n'aglon "hold out hope"	creir n'aglon	hold out hope	True	2	107	715	dictionary/216.4_creir_n'aglon_hold_out_hope.md
 216.5	notes	False Friends (cont. 5)			False	0	314	2034	notes/216.5_False_Friends_(cont._5).md
-217.1	excerpt	Lower Mendeva			False	0	322	2006	excerpt/217.1_Lower_Mendeva.md
+217.1	excerpt	Lower Mendeva			False	0	322	2007	excerpt/217.1_Lower_Mendeva.md
 217.2	dictionary	mixallar "guillotine"	mixallar	guillotine	True	4	130	846	dictionary/217.2_mixallar_guillotine.md
 217.3	dictionary	mojolon "nexus"	mojolon	nexus	True	2	127	810	dictionary/217.3_mojolon_nexus.md
 217.4	dictionary	morvaç "snot"	morvaç	snot	True	3	133	853	dictionary/217.4_morvaç_snot.md
@@ -1133,3 +1133,8 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 221.2	dictionary	zaloc "bail"	zaloc	bail	True	4	152	957	dictionary/221.2_zaloc_bail.md
 221.3	dictionary	teisment "braid"	teisment	braid	True	6	126	858	dictionary/221.3_teisment_braid.md
 221.4	dictionary	reliquy "fossil"	reliquy	fossil	True	5	161	1014	dictionary/221.4_reliquy_fossil.md
+221.5	notes	Chemical Symbols			False	0	338	2165	notes/221.5_Chemical_Symbols.md
+222.1	excerpt	Second Roman Empire			False	0	229	1517	excerpt/222.1_Second_Roman_Empire.md
+222.2	dictionary	scrim "swordplay"	scrim	swordplay	True	3	125	873	dictionary/222.2_scrim_swordplay.md
+222.3	dictionary	engin "nature"	engin	nature	True	4	157	1028	dictionary/222.3_engin_nature.md
+222.4	dictionary	panelleyar "theme"	panelleyar	theme	True	3	110	774	dictionary/222.4_panelleyar_theme.md
