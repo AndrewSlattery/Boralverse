@@ -1,14 +1,11 @@
-enmigtað "enmity, rivalry"
 regres "return journey"
-extirpar "eradicate, extirpate"
+extirpar "eradicate, extirpate" | extirpaçon "eradication, extinction"
 destourm "discharge, demobbing"
 trocour "trader, investor, stockbroker"
 depoussar "cashier, fire"
 chthony "geology" | chthonic "underground, geological"
 pharmac "drug"
 entrjainç "section, interjection, excerpt"
-sine sanguine "morganatic"
-extirpaçon "eradication, extinction"
 lunatic "lunatic"
 accoglir "welcome, receive gladly" | accoglent "welcoming, hospitable"
 mescomprenjon "misunderstanding"
@@ -44,6 +41,12 @@ noxal "nitrogen" ^
 sentenç "worldview, viewpoint, ethos" < sententia
 sposar "espouse" < spōnsō
 monastic "monastic"
+cauf "bald" | cauvar "to bald" | cauvant "balding" | cauvanç "balding"
+salbrut "saltpeter" < L sal brūtus < folk etym Ar بَارُود • (bārūd) "saltpeter"
+ligaçon "link, relationship, relations"
+seget "crop" < L seges
+geoscopy "exploration, globe-trotting"
+carteyar "map, chart"
 
 fought, contested
 gone, missing, used up

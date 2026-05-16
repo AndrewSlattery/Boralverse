@@ -1090,15 +1090,6 @@
 \lx accordar
 \ps ar v
 
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
-
-\lx accordar
-\ps ar v
-
 \ge agree
 \ge accord
 \ge harmonise
@@ -1106,6 +1097,15 @@
 \ge go
 
 \et Middle Borlish < Latin
+
+\lx accordar
+\ps ar v
+
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -16023,19 +16023,19 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps ar v
 
 \ge decipher
-\ge make out
-\ge translate
-\ge simplify
+\ge decode
 
-\et Old Borlish < Medieval Latin < Arabic
+\mn scifr
 
 \lx descifrar
 \ps ar v
 
 \ge decipher
-\ge decode
+\ge make out
+\ge translate
+\ge simplify
 
-\mn scifr
+\et Old Borlish < Medieval Latin < Arabic
 
 \lx descombr
 \ps r v
@@ -18484,21 +18484,21 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps adj
 
 \ge durable
-\ge stiff
-\ge lasting
-\ge permanent
-\ge resilient
+\ge long-lasting
 
-\et adjective from durar "last"
+\et Adjective from durar
 \mn durar
 
 \lx durabr
 \ps adj
 
 \ge durable
-\ge long-lasting
+\ge stiff
+\ge lasting
+\ge permanent
+\ge resilient
 
-\et Adjective from durar
+\et adjective from durar "last"
 \mn durar
 
 \lx durant
@@ -19649,6 +19649,22 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \ge enemy
 
 \et Old Borlish < Latin
+
+\lx enmigtað
+\ps n
+
+\ge enmity
+\ge hostility
+\ge rivalry
+\ge competitiveness
+\ge rancour
+\ge animosity
+
+\xv L'accommission se cof interront par y sounç d'enmigtað.
+\xe The project was interrupted by the outbreak of hostilities.
+
+\et Middle Borlish, noun derivation from enmig "enemy, rival". For the sense developments, compare parallel constructions in other Romance languages such as Portingale nemizade or Norman enmisté "rivalry".
+\mn enmig
 
 \lx ennoyar
 \ps ar v
@@ -23716,6 +23732,13 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps ar v
 
 \ge rub
+
+\et Old Borlish < Old French < Latin
+
+\lx frottar
+\ps ar v
+
+\ge rub
 \ge chafe
 \ge scour
 \ge scrub
@@ -23731,13 +23754,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
-
-\lx frottar
-\ps ar v
-
-\ge rub
-
-\et Old Borlish < Old French < Latin
 
 \lx fruit
 \ps n
@@ -42825,6 +42841,27 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Middle Borlish < Latin < Ancient Greek
 
+\lx pharmac
+\ps n
+
+\ge medication
+\ge pharmaceutical
+\ge drug
+\ge medicine
+\ge charm
+\ge talisman
+\ge amulet
+\ge fetish
+\ge remedy
+\ge fix
+\ge solution
+\ge silver bullet
+
+\xv Jo suim un pharmac contr cauvanç.
+\xe I take a hair loss medication.
+
+\et Medieval Borlish, borrowed from Latin pharmacum "drug; poison", from Greek φάρμακον • phármakon "drug; potion; dye". The historical use persists in parachthon writing, having fallen into disuse in post-Arnoutszen medicine; the metaphorical extension is attested from as early as the sixteenth century.
+
 \lx phasm
 \ps n
 
@@ -52705,6 +52742,21 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \et Old Borlish < Latin
 
+\lx sine sanguine
+\ps adj
+
+\ge morganatic
+\ge life
+\ge for life
+\ge second-rate
+\ge second-class
+\ge B-tier
+
+\xv Y nobr sine sanguine intermainn noc un clou innað.
+\xe The life peers don't constitute a natural voting bloc.
+
+\et Middle Borlish, legal jargon from Latin from sine sanguine "morganatic", literally "without blood". The ablative sanguine is a byform of sanguis "blood", which via a Vulgar accusative sanguem gave Borlish sanc "blood". In extended use the phrase is seen from the nineteenth century.
+
 \lx sinoc
 \ps conj
 
@@ -58917,19 +58969,19 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge transmigration
-\ge relocate
+\ge relocation
+\ge nomadism
 
-\et noun from tramigrar "transmigrate".
+\et noun from tramigrar
 \mn tramigrar
 
 \lx tramigraçon
 \ps n
 
 \ge transmigration
-\ge relocation
-\ge nomadism
+\ge relocate
 
-\et noun from tramigrar
+\et noun from tramigrar "transmigrate".
 \mn tramigrar
 
 \lx tramigrar

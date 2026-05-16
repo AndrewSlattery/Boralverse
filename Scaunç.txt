@@ -30834,4 +30834,95 @@ L'oc sta y period yon Revitalism cof presenç a Danmarc, con interrogaçon alche
 
 ##
 
-223.2:
+223.2: enmigtað "rivalry"
+
+enmigtað /ˌɛn.maiˈtaθ/ [ˌɛn.mɐiˈtaθ]
+- enmity, hostility, the condition of being enemies or at cross-purposes;
+- rivalry, competitiveness, a desire to defeat one's opponents;
+- rancour, animosity, a feeling of ire for someone over a perceived wrongdoing
+
+Etymology: Middle Borlish, noun derivation from enmig "enemy, rival". This descends directly from Latin inimīcus "enemy", literally "un-friend". For the sense developments, compare parallel constructions in other Romance languages such as Portingale nemizade or Norman enmisté "rivalry".
+
+L'accommission se cof interront par y sounç d'enmigtað.
+/ˌla.kɔ.mɪˈsjɔn se kɔf ˌɪn.tɛˈrɔnt par i sunts ˌdɛn.maiˈtaθ/
+[ˌla.kʊ.mɪˈsjɔn sɪ kɔf ˌɪn.tɪˈʀɔnt pɐ‿ʀi suns ˌdɛn.mɐiˈtaθ]
+df=undertaking rfl get.pst interrupt.p.pst by df release of=rivalry
+The project was interrupted by the outbreak of hostilities.
+
+##
+
+223.3: sine sanguine "morganatic"
+
+sine sanguine /siˈne ˌsan.gaiˈne/ [sɪˈne ˌsaŋ.gɐiˈne]
+- morganatic, (of a marriage) not entitling the children of the marriage to inherit the property or titles of the father;
+- life, (of a position or role) not automatically passed on to one's heir upon one's death;
+- second-rate, second-class, B-tier, lacking features of the best or most prestigious alternatives
+
+Etymology: Middle Borlish, legal jargon from Latin from sine sanguine "morganatic", literally "without blood". The ablative sanguine is a byform of sanguis "blood", which via a Vulgar accusative sanguem gave Borlish sanc "blood". In extended use the phrase is seen from the nineteenth century.
+
+Y nobr sine sanguine intermainn noc un clou innað.
+/i ˈnɔbr̩ siˈne ˌsan.gaiˈne ˌɪn.tɛrˈmenn̩ nɔk ɪn klu ɪˈnaθ/
+[i ˈnɔ.bɐ sɪˈne ˌsaŋ.gɐiˈne ˌɪn.tɪːˈme.nɐn nɔ‿gɪŋ ˈklu ɪˈnaθ]
+df noble morganatic make.up-3p ng indf clove innate
+The life peers don't constitute a natural voting bloc.
+
+##
+
+223.4: pharmac "drug"
+
+pharmac /farˈmak/ [fɐːˈmak]
+- medication, pharmaceutical, drug, medicine, a substance ingested or injected to heal or otherwise affect the health of a patient;
+- (historical) charm, talisman, fetish, amulet, an item which has been enchanted to have a magical effect (espeically promoting harm or healing);
+- remedy, fix, solution, silver bullet, an unexpected method of solving a seemingly intractable problem
+
+Etymology: Medieval Borlish, borrowed from Latin pharmacum "drug; poison", from Greek φάρμακον • phármakon "drug; potion; dye". The historical use persists in parachthon [e.g. fantasy] writing, having fallen into disuse in post-Arnoutszen medicine; the metaphorical extension is attested from as early as the sixteenth century.
+
+Jo suim un pharmac contr cauvanç.
+/ʒo saim ɪn farˈmak kɔntr̩ koˈvants/
+[ʝo saim ɪn fɐːˈmak ˈkɔn.tɐ kʊˈvans]
+1s take.1s indf drug against balding
+I take a hair loss medication.
+
+##
+
+223.5: Chemical Etymology (cont. 5)
+
+further excerpts about gases from the Veriloquace Glossary of Alchemy, a reference quire compiled by Rotcham University Primers [1].
+
+- aphlox n. [/ˈa.flɔks/ "carbon dioxide"] a colourless and unsmelling air which is the principal product of the burning of e.g. plant matter in fresh air, exhaled by animals. 1699 < Scholastic Latin āēr aphlox "aphlox air" < Greek ἀφλόξ • aphlóx "flameless". The term formerly referred to any air in which burning could not occur, gaining its current sense in the late eighteenth century.
+
+- aureol n. [/ˈəu.ʒɔl/ "helium"] the corporal [element] whose atoms have 2 mora [protons], a colourless and unsmelling air which is sparser than any air except aquifer [hydrogen]. 1831 < Scholastic Latin corōna aureola "aureol crown" < Classical aureolus "gilded, golden" < aurum "gold". This is a doublet of aureole [/əuˈʒuːl/ "halo; corona"], which refers both to the crown of light worn by saints and to the crown of light wreathing the sun. The corporal aureol was first observed in the sun's aureole via its iris [spectrum] in 1816.
+
+- ignifer n. [/ˈai.nɪ.fə/ "oxygen"] the corporal whose atoms have 8 mora, a colourless and unsmelling air occurring as one-fifth of air in tesquo and necessary for animal life and for burning. 1699 < Scholastic Latin āēr ignifer "igniferous air" < Classical ignis "flame". The term formerly referred to any air in which burning could occur, gaining its current sense in the late eighteenth century.
+
+- noxal n. [/ˈnɔ.ksəl/ "nitrogen"] the corporal whose atoms have 7 mora, a colourless and unsmelling air occurring as almost four-fifths of air in tesquo. 1772 < Scholastic Latin āēr noxālis "noxal air" < 1674 terra noxālis "muriate of ammony" [NH₄Cl] < c1550 noxaterra < adapted to terra "earth" from c13C Malchassian νοξάτερα < Classical Persian نُشَادِر • nushádir "æq". Noxal air was first isolated in 1772 by combining muriate of ammony with psolic salbrute [KNO₂].
+
+[1] a publishing house based in the city of Rotcham [Rochdale, Greater Manchester] and affiliated with the local university.
+
+##
+
+224.1: Mashick
+
+notes in translation on the Mendevan [North American] polity of Mashick [~Mexico].
+
+Vascel Morracan ny Colluy dy Nou Mont stablisceurn ligaçon commarcer ny siecr quinç jagerrem coll'Empir Mascic joun naðusc, oc stant nell'oç epoc fort circonscreutessem cos geographic.
+Morrack vessels of the New World Company established trading relations in the late fifteenth century with the relatively-new Mashick Empire, which at that time was much more geographically restricted.
+
+Ny dezein prosequent seget Novomondin monfeyað se correurn tras l'occeyan Atlantic des Mascic, com bustr tascban e scoclet.
+The next decades saw many Novomundine crops make their way across the Atlantic from Mashick, including tashban and shockle.
+
+Mascic e Tavancy luïsceurn sona de mojol por y geoscopy dy païsaç Mendevan.
+Mashick and Tavancy served as bases for exploration of Mendevan lands.
+
+Flottisc carteyaurn cos slognað allors jusc l'Ax, e Mascic sarveu a gournanç issarr sur porçon dell'Arcabil e lorry risceç aðoyent.
+Fleets charted as far afield as the Ax, and Mashick was used to exercise control over parts of the Arcabil and their growing riches.
+
+Mascic ny siecr novoç intermane un entrell'amaçgat ðescnat dell'Ubictað, y doctrin politic smargent.
+Nineteenth-century Mashick was one of the hotbeds of the nascent political philosophy of Ubiquity.
+
+Lo traiscnau Mendeva Brittannesc cas l'adopçon dy novel moraltað des y Renovellaçon Famigler, ma con tan ny siecr veintem primal l'aye lou attegnt.
+It lagged behind British Mendeva in the adoption of the new morals of the Household Renovation, although by the early twentieth century it had caught up.
+
+##
+
+224.2:
