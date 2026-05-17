@@ -1090,6 +1090,15 @@
 \lx accordar
 \ps ar v
 
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
+
+\lx accordar
+\ps ar v
+
 \ge agree
 \ge accord
 \ge harmonise
@@ -1097,15 +1106,6 @@
 \ge go
 
 \et Middle Borlish < Latin
-
-\lx accordar
-\ps ar v
-
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -11810,7 +11810,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge condemnation
 \ge sentence
 
-\et noun from condamnar "condemn"
+\et Latin condemnatio, noun from condamnar "condemn"
 \mn condamnar
 
 \lx condamnment
@@ -11819,7 +11819,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge condemnation
 \ge sentence
 
-\et Latin condemnatio, noun from condamnar "condemn"
+\et noun from condamnar "condemn"
 \mn condamnar
 
 \lx condensar
@@ -16023,19 +16023,19 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps ar v
 
 \ge decipher
-\ge decode
-
-\mn scifr
-
-\lx descifrar
-\ps ar v
-
-\ge decipher
 \ge make out
 \ge translate
 \ge simplify
 
 \et Old Borlish < Medieval Latin < Arabic
+
+\lx descifrar
+\ps ar v
+
+\ge decipher
+\ge decode
+
+\mn scifr
 
 \lx descombr
 \ps r v
@@ -19792,15 +19792,6 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \lx ensign
 \ps n
 
-\ge engraving
-\ge carving
-\ge suit
-
-\et Old Borlish < Latin
-
-\lx ensign
-\ps n
-
 \ge emblem
 \ge logo
 \ge symbol
@@ -19818,6 +19809,15 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \xe I will recommend you for a higher position.
 
 \et Middle Borlish, a semilearned borrowing from Latin insignia "emblem, badge", a noun formation from adjective insignis "marked, distinguished". The word has been used metonymically to refer to the position conferred or represented by an insignia since the fifteenth century, and it has been used in card games from approximately the same time.
+
+\lx ensign
+\ps n
+
+\ge engraving
+\ge carving
+\ge suit
+
+\et Old Borlish < Latin
 
 \lx ensignar
 \ps ar v
@@ -23383,18 +23383,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossau
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossaveyaçon
 \ps n
@@ -23732,13 +23732,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps ar v
 
 \ge rub
-
-\et Old Borlish < Old French < Latin
-
-\lx frottar
-\ps ar v
-
-\ge rub
 \ge chafe
 \ge scour
 \ge scrub
@@ -23754,6 +23747,13 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
+
+\lx frottar
+\ps ar v
+
+\ge rub
+
+\et Old Borlish < Old French < Latin
 
 \lx fruit
 \ps n
@@ -27761,7 +27761,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \ge there
 
-\ps part
+\ps conj
 
 \ge that
 \ge complement clause marker
@@ -50053,8 +50053,7 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge antiscorbutic
-\ge pertaining to vitamin C
+\ge containing vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -50062,7 +50061,8 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge containing vitamin C
+\ge antiscorbutic
+\ge pertaining to vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -57574,7 +57574,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge hold
 \ge keep
 
-\ps rfl v
+\ps v rfl
 
 \ge remain
 \ge stay
@@ -59746,7 +59746,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge a
 \ge an
 
-\ps determiner
+\ps det
 
 \ge some
 
@@ -62235,16 +62235,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge volcano
-\ge hothead
 
-\et Italian < Latin Vulcanus
+\et Italian, from Latin Vulcanus
 
 \lx volcan
 \ps n
 
 \ge volcano
+\ge hothead
 
-\et Italian, from Latin Vulcanus
+\et Italian < Latin Vulcanus
 
 \lx volir
 \ps ir1 v
