@@ -1,10 +1,9 @@
-regres "return journey"
+regres "return journey" | regres fair "journey back"
 extirpar "eradicate, extirpate" | extirpaçon "eradication, extinction"
 destourm "discharge, demobbing"
 trocour "trader, investor, stockbroker"
 depoussar "cashier, fire"
 chthony "geology" | chthonic "underground, geological"
-pharmac "drug"
 entrjainç "section, interjection, excerpt"
 lunatic "lunatic"
 accoglir "welcome, receive gladly" | accoglent "welcoming, hospitable"
@@ -15,7 +14,6 @@ sabler "hourglass" < sabr
 quinment "impact, strike, collision"
 contrsalubr "disadvantageous, unfavourable"
 semblant "like(s), ilk"
-regres fair "journey back"
 lon mensc "dishonourable"
 laðr "plough"
 oraçoir "stormy weather, thunderstorm, a storm zone"
@@ -33,7 +31,7 @@ sogn fair "dream, act irrationally"
 domn dy noit "prostitute (f.)"
 domn dy jorn "mistress"
 lucraðeu "profitable, lucrative, wealthy, rich"
-cundr "kernel" < cyrnel
+cuindr "kernel" < cyrnel
 ornat "livery, uniform" < ornatus
 laureller "laurel" < laurus
 tar noxal "sal ammoniac" < L terra noxāl, noxaterra < Greek < Persian nošâdor
@@ -47,8 +45,6 @@ ligaçon "link, relationship, relations"
 seget "crop" < L seges
 geoscopy "exploration, globe-trotting"
 carteyar "map, chart"
-pighar "fuck, bugger" | pedico or piglar
-coricheyar "furnish with chintz" < Calicut
 
 fought, contested
 gone, missing, used up
