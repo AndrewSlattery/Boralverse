@@ -47,6 +47,8 @@ ligaçon "link, relationship, relations"
 seget "crop" < L seges
 geoscopy "exploration, globe-trotting"
 carteyar "map, chart"
+pighar "fuck, bugger" | pedico or piglar
+coricheyar "furnish with chintz" < Calicut
 
 fought, contested
 gone, missing, used up
