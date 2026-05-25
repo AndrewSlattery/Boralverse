@@ -7684,6 +7684,14 @@
 
 \et Old Borlish < Latin
 
+\lx brut
+\ps n
+
+\ge nitrate
+
+\et 18C, extracted from salbrut "saltpetre".
+\mn salbrut
+
 \lx brutal
 \ps adj
 
@@ -11794,7 +11802,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -11803,6 +11810,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnment
 \ps n
@@ -12884,6 +12892,33 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge crow
 
 \et Old Borlish < Latin
+
+\lx coricheyar
+\ps ar v
+
+\ge pattern with chintz
+\ge dress in chintz
+\ge furnish with chintz
+\ge zhoosh
+\ge spruce
+\ge finesse
+\ge spice up
+
+\xv Sy femn a y cambr coricheyað.
+\xe His wife has fillled his house with chintz.
+
+\et 19C, verbal derivation from noun coricot "chintz (fabric, clothing, furniture)", as though the -ot ending were a diminutive suffix. In metaphorical usage the term is seen from the 1950s.
+\mn coricot
+
+\lx coricot
+\ps n
+
+\ge calico
+\ge chintz
+\ge decoration
+\ge ornament
+
+\et from the city of Coricot [Kozhikode] in Limerick [~Kerala, India], from where the fabric was exported.
 
 \lx corn
 \ps n
@@ -17811,6 +17846,27 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 
 \et Old Borlish < Latin
 
+\lx domn dy jorn
+\ps n
+
+\ge mistress
+\ge concubine
+
+\et idiom, literally "lady of the day".
+\mn domn
+\mn jorn
+
+\lx domn dy noit
+\ps n
+
+\ge prostitute
+\ge whore
+\ge sex worker
+
+\et idiom, literally "lady of the night".
+\mn domn
+\mn jorn
+
 \lx donaçon
 \ps n
 
@@ -18484,21 +18540,21 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps adj
 
 \ge durable
-\ge long-lasting
-
-\et Adjective from durar
-\mn durar
-
-\lx durabr
-\ps adj
-
-\ge durable
 \ge stiff
 \ge lasting
 \ge permanent
 \ge resilient
 
 \et adjective from durar "last"
+\mn durar
+
+\lx durabr
+\ps adj
+
+\ge durable
+\ge long-lasting
+
+\et Adjective from durar
 \mn durar
 
 \lx durant
@@ -24570,8 +24626,17 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge nice
 \ge friendly
 \ge agreeable
+\ge well-born
 
 \et Latin
+
+\lx gentilhom
+\ps n
+
+\ge gentleman
+\ge gentlewoman
+
+\et compound of gentil
 
 \lx geographic
 \ps adj
@@ -31915,6 +31980,18 @@ Old Borlish < Latin illa
 \mn laure
 \mn cavir
 
+\lx laureller
+\ps n
+
+\ge laurel
+\ge laurel tree
+
+\ps adj
+
+\ge laurel
+
+\et Vulgar Latin laurellus < Latin laurea, re-classicised from Middle Borlish loreller
+
 \lx lauric
 \ps adj
 
@@ -36206,6 +36283,13 @@ Old Borlish < Latin illa
 \ge royalty
 
 \et Middle Borlish < Latin < Ancient Greek
+
+\lx monastic
+\ps adj
+
+\ge monastic
+
+\et Latin < Greek 
 
 \lx monastir
 \ps n
@@ -40992,9 +41076,11 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx par boc
 \ps adv
 
-\ge spoken
-\ge by mouth
-\ge hearsay
+\ge apparently
+\ge allegedly
+\ge it is said
+\ge they say
+\ge I hear
 
 \mn par
 \mn boc
@@ -41002,11 +41088,9 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx par boc
 \ps adv
 
-\ge apparently
-\ge allegedly
-\ge it is said
-\ge they say
-\ge I hear
+\ge spoken
+\ge by mouth
+\ge hearsay
 
 \mn par
 \mn boc
@@ -43029,6 +43113,24 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \mn pievr
 \mn sec
+
+\lx pighar
+\ps ar v
+
+\ge bugger
+\ge top
+\ge fuck
+\ge tup
+\ge screw
+\ge cheat
+\ge ruin
+\ge fuck over
+\ge screw over
+
+\xv A tug tesqual le pig jo sur y paið.
+\xe To keep it real I fuck him on the floor.
+
+\et disputed. Attested since the eleventh century in late Old Borlish piȝar "bugger", making it the second-oldest vulgarity for intercourse after foutr "fuck" < Latin futuō "I fuck". Possibly the word is a dialectal form of piglar "plunder, pillage"—compare Old Borlish caiȝ "toggle" < Vulgar Latin cavicla "latch". Alternatively, it might derive directly from Latin pēdīcō "I bugger" (although the word has no other descendants).
 
 \lx piglar
 \ps ar v
@@ -49866,6 +49968,18 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \ge salt
 
 \et Old Borlish < Latin
+
+\lx salbrut
+\ps n
+
+\ge saltpetre
+\ge saltpeter
+
+\xv Y pouvr contien salbrut, carbon e brunstan.
+\xe The powder contains saltpetre, charcoal and sulphur.
+
+\et Middle Borlish, borrowed from Scholastic Latin sāl brūtus "dull salt". This is a folk-etymological adaption of Arabic بَارُود • bārūd "saltpetre; gunpowder", which is of uncertain origin. The term brut for a general nitrate was derived from the name of this substance in the eighteenth century.
+\mn sal
 
 \lx saler
 \ps n
@@ -59769,7 +59883,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge official
 
 \mn affer
-\mn prent
+\mn premir
 
 \lx un bon trenc valir
 \ps ir1 v
@@ -62245,16 +62359,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge volcano
+\ge hothead
 
-\et Italian, from Latin Vulcanus
+\et Italian < Latin Vulcanus
 
 \lx volcan
 \ps n
 
 \ge volcano
-\ge hothead
 
-\et Italian < Latin Vulcanus
+\et Italian, from Latin Vulcanus
 
 \lx volir
 \ps ir1 v

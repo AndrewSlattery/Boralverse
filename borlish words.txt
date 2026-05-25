@@ -22,23 +22,18 @@ parnommanç "reputation"
 bogr ðesmbal "unsurprising"
 tranqment "exactness, accuracy, precision, reliability"
 ognt "bribe, sop"
-gentilhom "gentleman, gentlewoman"
 empory "economy"
 stoccour "thug" | stoccar "bludgeon, club"
 vasir "vizier" < arabic
 panditour "intellectual, thinker" cf pundit
 sogn fair "dream, act irrationally"
-domn dy noit "prostitute (f.)"
-domn dy jorn "mistress"
 lucraðeu "profitable, lucrative, wealthy, rich"
 cuindr "kernel" < cyrnel
 ornat "livery, uniform" < ornatus
-laureller "laurel" < laurus
 tar noxal "sal ammoniac" < L terra noxāl, noxaterra < Greek < Persian nošâdor
 noxal "nitrogen" ^
 sentenç "worldview, viewpoint, ethos" < sententia
 sposar "espouse" < spōnsō
-monastic "monastic"
 cauf "bald" | cauvar "to bald" | cauvant "balding" | cauvanç "balding"
 salbrut "saltpeter" < L sal brūtus < folk etym Ar بَارُود • (bārūd) "saltpeter"
 ligaçon "link, relationship, relations"
