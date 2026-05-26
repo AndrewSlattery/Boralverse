@@ -1090,15 +1090,6 @@
 \lx accordar
 \ps ar v
 
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
-
-\lx accordar
-\ps ar v
-
 \ge agree
 \ge accord
 \ge harmonise
@@ -1106,6 +1097,15 @@
 \ge go
 
 \et Middle Borlish < Latin
+
+\lx accordar
+\ps ar v
+
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -6599,7 +6599,10 @@
 \ge rook
 \ge castle
 
-\et
+\xv Cargeð y boist ny big ða ðe voun lo quottar.
+\xe Load the boxes into the boot if they'll fit.
+
+\et direct descendant via Old Borlish biȝ "wagon, haycart" from Latin bīga "chariot" (reflecting a reduced bi-iuga "two-yokes"). Revived in the sixteenth century in its historical sense, by which time it had shifted to "a platform for loading cargo", from which the other vehicular senses stem. Applied to the chess piece since the seventeenth century (formerly we see roc < Arabic رُخّ "rook").
 
 \lx bilrod
 \ps n
@@ -11802,7 +11805,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -11811,15 +11813,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-
-\lx condamnment
-\ps n
-
-\ge condemnation
-\ge sentence
-
-\et Latin condemnatio, noun from condamnar "condemn"
-\mn condamnar
+\mn damnar
 
 \lx condamnment
 \ps n
@@ -11828,6 +11822,15 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et noun from condamnar "condemn"
+\mn condamnar
+
+\lx condamnment
+\ps n
+
+\ge condemnation
+\ge sentence
+
+\et Latin condemnatio, noun from condamnar "condemn"
 \mn condamnar
 
 \lx condensar
@@ -12185,17 +12188,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge conspirator
-\ge abettor
+\ge accomplice
 
-\mn conjuraçonnar
+\et Middle Borlish
 
 \lx conjuraçonnour
 \ps n
 
 \ge conspirator
-\ge accomplice
+\ge abettor
 
-\et Middle Borlish
+\mn conjuraçonnar
 
 \lx connardaç
 \ps n
@@ -16058,19 +16061,19 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps ar v
 
 \ge decipher
-\ge make out
-\ge translate
-\ge simplify
+\ge decode
 
-\et Old Borlish < Medieval Latin < Arabic
+\mn scifr
 
 \lx descifrar
 \ps ar v
 
 \ge decipher
-\ge decode
+\ge make out
+\ge translate
+\ge simplify
 
-\mn scifr
+\et Old Borlish < Medieval Latin < Arabic
 
 \lx descombr
 \ps r v
@@ -19848,15 +19851,6 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \lx ensign
 \ps n
 
-\ge engraving
-\ge carving
-\ge suit
-
-\et Old Borlish < Latin
-
-\lx ensign
-\ps n
-
 \ge emblem
 \ge logo
 \ge symbol
@@ -19874,6 +19868,15 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \xe I will recommend you for a higher position.
 
 \et Middle Borlish, a semilearned borrowing from Latin insignia "emblem, badge", a noun formation from adjective insignis "marked, distinguished". The word has been used metonymically to refer to the position conferred or represented by an insignia since the fifteenth century, and it has been used in card games from approximately the same time.
+
+\lx ensign
+\ps n
+
+\ge engraving
+\ge carving
+\ge suit
+
+\et Old Borlish < Latin
 
 \lx ensignar
 \ps ar v
@@ -23439,18 +23442,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossau
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossaveyaçon
 \ps n
@@ -59152,19 +59155,19 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge transmigration
-\ge relocate
+\ge relocation
+\ge nomadism
 
-\et noun from tramigrar "transmigrate".
+\et noun from tramigrar
 \mn tramigrar
 
 \lx tramigraçon
 \ps n
 
 \ge transmigration
-\ge relocation
-\ge nomadism
+\ge relocate
 
-\et noun from tramigrar
+\et noun from tramigrar "transmigrate".
 \mn tramigrar
 
 \lx tramigrar

@@ -123,7 +123,7 @@ trocar entr /tʀoˈkaʀ ɛntʀ̩/ [tʀʊˈkɑː‿ʀɛntɐ] to reciprocate, to r
 
 < “to trade between”. Preposition from Latin inter “between, among”; verb possibly from an Old Boral trocar “to trade”, either an alternation of torcar < Latin torqueō “I twist, bend”, or more likely from Old Spanish trocar via Old French, of uncertain origin.
 
-Ða meðes nos poðau lou fornir d'aïðanç, il trocausn noc entr tardessem. 
+Ða meðes nos poðau lou fornir d'aïðanç, ðe trocausn noc entr tardessem. 
 Even if we provided them with aid, they would not reciprocate later.
 /ða meˈðɛz no poˈðo lu fɔʀˈnɪʀ dɛjiˈðants | ɪl tʀoˈkosn̩ nɔk ɛntʀ̩ taʀˈdɛsɛm/
 [ða mɪˈðɛz no pʊˈðo lu fʊːˈnɪː dɛjˈðants | ɪw tʀʊˈkosn̩ nɔ‿gɛntɐ tɐːˈdɛsm̩]
@@ -136,7 +136,7 @@ bakilau /ˌbakiˈlo/ [ˌbakɪˈlo] cod, marine fish of the family Gadidae
 
 < Origin contested. Extant from 9C as cabeilau, bacalau (among other variants), from Middle Dutch (Mi-Willem), cf. French cabillaud “cod”. Entered Middle Dutch either from some derivation of baculum “stick, rod”, or else from Basque kabailao “cod”. Formerly assumed to be a direct loan from Vask into Boral – see also other naval/fishing terminology like hagr “mast" – but this is now considered phonetically untenable.
 
-J'oyeu ne Horð il pascn for bakilau.
+J'oyeu ne Horð ðe pascn for bakilau.
 I heard that in Horth they only eat cod.
 /ʒoˈjaw ne hɔʀˈða ɪl ˈpaxn̩ fɔʀ ˌbakiˈlo/
 [ʒʊˈjaw nɪ hʊːˈða ɪw ˈpaxn̩ fɔː ˌbakɪˈlo] 
@@ -199,7 +199,7 @@ barvier /baʀˈvjɛʀ/ [bɑːvɪˈjɛː] shepherd(ess), one who guides a flock
 
 < many forms are attested in Old Boral (approximately 7C-11C); barviar and varvȝair, for example. All are from Vulgar Latin vervecārius, from Latin vervēx “wether, castrated ram”.
 
-Y soldart eð y barvier vencoirn y dragon e soulor allagr vescoirn il.
+Y soldart eð y barvier vencoirn y dragon e soulor allagr vescoirn ðe.
 The soldier and the shepherdess killed the dragon and lived happily ever after.
 /i sɔlˈdaʀt eθ i baʀˈvjɛʀ vɛnˈkɔjʀn̩ i dʀaˈgɔn e suˈlɔʀ aˈlɛjʀ veˈxɔjʀn̩ ɪl/
 [i sʊwˈdɑːt e‿ði bɑːvɪˈjɛː vɪŋˈkɔjɐn i dʀɐˈgɔn e sʊˈlɔː‿ʀɐˈlɛjɐ vɪˈxɔjɐn ɪw] 
@@ -1102,7 +1102,7 @@ L'oc jorn, mama es mort. Ben parcanç yer, jo saif noc. Lonc y parol campaner me
 
 L'edifiç a hom veil se situ a Goday, a novant stadion de Damvað. Jo montaray sur y vectoir l'hour dou e j'hiembray l'edifiç ag ralley. Cossy jo farray surveil toð y nogt e soulor y repaðr tardessem a souscen. J'ay dou jorn crous rovað de my caf e stant y contingent i poðe noc m'en privar. Toð mod i parisce noc allagr, donc j'ay dit meðes : “A mey la no's falt.” ; i no's respos. Apres j'ay saut noc deïr le digr. Luy val y sorc me beudar, a loy. Lon hougr i le farra souscen doutr, candon i me verra a cordogl. Oy meðes, tout es un pog com ða mama no sey mort. Posc nos arreu le sevelið, malgrað, i sera un affer prent, oc a digr robað d'un accostur reallessem.
 
-Jo so montað sur y vectoir l'hour dou. Caye magn calt. J'ay repasc fait ag tarn cas Celest, par usual. Casc gent ayen tendreç bempart por mey, e Celest a me dit : “O n'a maðr for l'un.”. Cant jo parte, il aun me colluïð vars y port. Jo so hastað com picq n'y fugnt complir, car all'hour final me fale pausar cas Emmanuel por i me prest y capel plat e manc neir. Sull'yam follau y sougl deur plusour monð.
+Jo so montað sur y vectoir l'hour dou. Caye magn calt. J'ay repasc fait ag tarn cas Celest, par usual. Casc gent ayen tendreç bempart por mey, e Celest a me dit : “O n'a maðr for l'un.”. Cant jo parte, ðe aun me colluïð vars y port. Jo so hastað com picq n'y fugnt complir, car all'hour final me fale pausar cas Emmanuel por i me prest y capel plat e manc neir. Sull'yam follau y sougl deur plusour monð.
 
 Jo so cors fin a pie mettr ag vectoir. L'oc hast, l'oc porsief meðes, fus accougl certan coll'eç rouð peyaçant, oc puð a foyail montant, no dign oc lumner rebondiscent dy rout e dy ciel, desig tout j'ay m'assovið. A mesur dy sojorn pres enter so jo dormið. Cant apres j'ay sveilað, jo sta pressað a cost d'un soldart ; luy a m'entrovað a souriar ða j'er venuð de lontan. Jo n'ay dit for : “Vray.”, desirant besogn plu aïr de parolar.
 
@@ -1619,7 +1619,7 @@ also kestour beggar, panhandler
 
 < 9C from Old Boral kestar, quastar “to search for” (primarily in northern dialects), from Late Latin quæstō “I seek, I pursue”, from past participle quæstus of Latin quærō “I seek”. Modern sense in use from 13C; sense of “to look for” displaced by similar verb carr.
 
-Ne spien il dinn noc kestant la sey calscon, sy paðr au un majon caut a Londr.
+Ne spien ðe dinn noc kestant la sey calscon, sy paðr au un majon caut a Londr.
 /ne ˈspjɛn ɪl ˈdɪnn nɔk keˈstant la ˌsi kalˈxɔn | si ˈpaðʀ‿o ɪn maˈʒɔn kot a ˈlɔndʀ̩/
 So that they wouldn't be ruined no matter what, his father bought a London house.
 
@@ -2560,7 +2560,7 @@ slognað /slɔjˈnaθ/ [zlʊjˈnah] remote, unlikely, distant
 
 < past participle of slognar “to recede, to distance, to move away”, via Old Boral isloȝnar from Vulgar Latin exlongō, with the same meaning. The Latin is a late derivation from longē “far off”. Nowadays usually either meaning “distant in time” (the spatial sense mostly reserved by lontan) or else the metaphorical “unlikely”, which is first attested 18C.
 
-    Slognað comoscon ig nos parvendreu allagr-vescoirn-il, jo vil te colluïr.
+    Slognað comoscon ig nos parvendreu allagr-vescoirn-ðe, jo vil te colluïr.
 
     I will stay by your side, no matter how unlikely it is that we'll get our happy ending.
 
@@ -2759,7 +2759,7 @@ also beautiful person
 Toð pris accougl, Marc no'r certan de noc faïr y tuyaut recevir, ma ancour l'oc no sta total extrane. Prefaibr untal aucoum par gent aye lou sgardað e pesað a lour y jorn a cortisment meðes, n'y bel per admirant.
 On balance, Mark wasn't sure that he wouldn't rather have had the cigar, but there was still something in it. Probably any number of people had looked at them and thought of their own courting days, admiring the handsome couple.
 
-“Vos eð y fest broucað ?” rovau Anna, posc il aurn ci may follað.
+“Vos eð y fest broucað ?” rovau Anna, posc ðe aurn ci may follað.
 “Did you have a nice time?” Anna asked, once they'd walked a bit more.
 
 “Oc fort, vray,” admis i. “Dig le noc a alcun hom.”
@@ -2780,7 +2780,7 @@ If only that were true.  “I'm really not.”
 I soupirau, pariscent a pognt d'uncos digr, ma se taçoy.
 She sighed, seeming about to say something, but chose not to.
 
-Il follaurn y sougl kieð ; Marc fey verroil ag port ados. Candon il yemoy la oyon l'eç segr eð eç domn stan a asmuth sevrar—e posc il ascuraurn ig Magret e Willaum se parteurn toð idone e con poliðeç maxim—Anna se pos a ortegl e bascau raut, cast, sy gien.
+Il follaurn y sougl kieð ; Marc fey verroil ag port ados. Candon ðe yemoy la oyon l'eç segr eð eç domn stan a asmuth sevrar—e posc ðe ascuraurn ig Magret e Willaum se parteurn toð idone e con poliðeç maxim—Anna se pos a ortegl e bascau raut, cast, sy gien.
 They let themselves in quietly, Mark locking the door behind them.  When they reached the place where the men and women went their separate way—and after they'd seen that Daisy and William parted with no funny business—Anna rose up on her toes and quickly, chastely, kissed his cheek.
 
 L'er partið pall'ig scagl domn pre Marc sceus y façon decidr de sy reaction.
@@ -3083,7 +3083,7 @@ in formal writing to envelop, to swaddle
 
 < from 8C in Old Boral envovre, ivouvre “to wrap up, to involve, to devote” (in early sources we see primarily the religious “to devote oneself to a cause”, but this is presumably just a function of the available sources), from Latin involvō “to roll up, to envelop”. Sense “to interest” from 14C; generally “to surround” from 16C. Northern Old Boral dialect form eunoir leads to modern eunovir “to pledge, to swear”.
 
-    Jo vusc il envoloirn noc y bourgmer all'oc delusion.
+    Jo vusc ðe envoloirn noc y bourgmer all'oc delusion.
 
     I wish they hadn't involved the mayor in this deception.
 
@@ -3095,7 +3095,7 @@ in formal writing to envelop, to swaddle
 
     extract from the Borlish translation of We Wake to Broken Windows, by Norman author Mark Deuthex. It was published by Maison Bateller (Ferryman House) in 1973, in the hey-day of the spycraft romance. It draws on the author's own experience working for the Red House in Roun, whose activities were revealed to the public as part of the Furore of 1961. The events of that year led to the collapse of the Drengot Collusion (in particular, Darchild's tinplate government) and eventually to the Kentish ostracon reforms, used as a model in several polities around the globe.
 
-Lourell'ouçon remanent, parisc i toð cas final, es l'oc administration e cultur fugr ag saluçon d'ig il aun tout oblatað deull'eç við.
+Lourell'ouçon remanent, parisc i toð cas final, es l'oc administration e cultur fugr ag saluçon d'ig ðe aun tout oblatað deull'eç við.
 So their remaining option, as it stands, is running from the very government and society that they have given everything but their lives to save.
 
 L'oc es indigndað, ma Paul Lacan es hom prest a savir ig bempart dy mont en es.
@@ -3104,7 +3104,7 @@ It isn't fair, but Paul Lacan, of all people, knows that most things aren't.
 Par moment pes i dy ci ogl a Hector situað ne visaç blanc eð incertan, agr apen.
 He thinks for a while about Hector's eyes in a pale, uncertain face, almost eager.
 
-Paul s'entrouf oyon porraun il var, e comoscon un við enter laiscar, costroit a catr man des y fondamen – y soul act dont Paul acaf a star fier.
+Paul s'entrouf oyon porraun ðe var, e comoscon un við enter laiscar, costroit a catr man des y fondamen – y soul act dont Paul acaf a star fier.
 Paul wonders where they will go, and how they will possibly just drop a whole life built from ground up – the only thing Paul has ever been proud of.
 
 Ma vray direct, Paul porra eð i vil. I vil Albion e famigl eð y Minister fugr ne Hector amant, e Hector en vil ne við amant.
@@ -3443,7 +3443,7 @@ Besides that, there was the question of whether Lady Mackay was, in fact, expect
 Ða l'en er, volois i noc luy digr la yon se situa sy cambr ?
 If she were, wouldn't she have told him where her bedroom was?
 
-Gou Makei se creye starc – e Matheu stima y domn pos un bon defis leyar por loit contr un joun domn de bel figleç calscon, s'il surcayeurn con rasc e cavel remorcað – ma pos i l'un leyar por loit contr un segr adult ?
+Gou Makei se creye starc – e Matheu stima y domn pos un bon defis leyar por loit contr un joun domn de bel figleç calscon, s'ðe surcayeurn con rasc e cavel remorcað – ma pos i l'un leyar por loit contr un segr adult ?
 Lady Mackay thought she was tough—and Matthew reckoned she could hold her own against any other gently-reared young lady, if it came to scratching and pulling hair—but would she be able to against a grown man?
 
 Or, toll'oc for s'i no'r total raut de sy host nocturnal recevir, com ja pos i star.
@@ -3546,7 +3546,7 @@ The path from the tavern snaked past the forge and the herbalists, past clusters
 Pre poðe Tomaş parolar, Andŗey tornau luy spiar, e la sta uncos pogntous e rendent tait ne sull'ogl. Sou y fosc meðes, Tomaş n'aye alcun defy ne l'acier ag massoir d'Andŗey ben l'ort de sy menton veint.
 Before Tomaş could speak, Andŗey turned to look at him, and there was something sharp and silencing in his eyes. Even in the darkness, Tomaş had no trouble seeing the steely set to Andŗey's jaw, the lift of his chin. 
 
-“Jo crey deïr te digr ig jo's t'amoraçað,” dis Andŗey, e con tan Tomaş forn condoit a y ci pousson de sy cour rendr stabr, il luy scapaurn comoscon slançant. “Me compt noc ða scey un part de tey, oc y bempart usant meðes, ancour Alexia amant ; saivað ig j'ay my gant jait dessou. Ða jamay te dis jo noc ig mell'auror e mell'occas son y tien, jo sceus noc me pardonnar.”
+“Jo crey deïr te digr ig jo's t'amoraçað,” dis Andŗey, e con tan Tomaş forn condoit a y ci pousson de sy cour rendr stabr, ðe luy scapaurn comoscon slançant. “Me compt noc ða scey un part de tey, oc y bempart usant meðes, ancour Alexia amant ; saivað ig j'ay my gant jait dessou. Ða jamay te dis jo noc ig mell'auror e mell'occas son y tien, jo sceus noc me pardonnar.”
 “I think I ought to tell you that I'm in love with you,” Andŗey said, and though Tomaş had been trained to steady the beating of his heart, he found it racing away from him. “It doesn't matter to me if part of you, even most of you, still loves Alexia; know that my gauntlet is cast. If I never told you that my sun rises and sets with you, I should never forgive myself.”
 
 ##
@@ -3575,7 +3575,7 @@ in formal writing to shun, to not acknowledge
 
 < 12C in Old Boral desmetre “to send away, to reject”, modelled after Latin dīmittō “I dismiss”, from dis- “apart, away” and mittō “I send, I release”. Senses of shunning from 14C in religious contexts and 16C more generally. Modern meaning from 19C, replacing laiscar “to leave, to let go”.
 
-    Horreð vos il veln vos desmettr ða vos lou refusað ?
+    Horreð vos ðe veln vos desmettr ða vos lou refusað ?
 
     Are you scared they'll fire you if you refuse?
 
@@ -3904,7 +3904,7 @@ and fil maglur lace (fabric), literally meshwork thread
 
 < 15C, early Middle Boral maȝlur(e) “net, meshwork”, from magl “mesh, net” < Vulgar Latin macla < Latin macula “link, mesh, hole, cell, spot”. Derivation with nominal suffix -ur(e) creating usually-abstract nouns, from Latin -(ā)tūra with rebracketing.
 
-    Covrað vossy ci plant mogn con manton a maglur fin cas ig il cain paut.
+    Covrað vossy ci plant mogn con manton a maglur fin cas ig ðe cain paut.
 
     Cover your shorter plants with a fine mesh sheet so that animals don't eat them.
 
@@ -4122,7 +4122,7 @@ Calamine, or igniac jast [zinc oxide], is a substance known since antiquity acro
 Ig inclus, ag siecr 3aN ja ern y Roman calamin benoçant por bras forgar, n'oc fondent con cuivr.
 For example, as early as the 3rd century aN the Romans were using calamine to make brass, by smelting it with copper.
 
-Plusour scet, y sestertius parmig (veyað y starç, un scet borlesc postimperial) fosn quinað ne bras posc y reform augustin de 23aN—il ig nommaurn orichalcum.
+Plusour scet, y sestertius parmig (veyað y starç, un scet borlesc postimperial) fosn quinað ne bras posc y reform augustin de 23aN—ðe ig nommaurn orichalcum.
 Several coins, including the sestertius (cf. the starce, an early Borlish coin) were minted from brass after the 23aN Augustine reforms—they called it orichalcum.
 
 Calamin a y parsan d'orteyanç eð autr machy a piel soutenuð ny remed tras annað millener, eð ancour sarf i de nossy jorn com part ne crem a cavel.
@@ -4586,7 +4586,7 @@ informally, un stauron or (rarely) un retenour
 
 y plurem /i ˈpli.ʀɛm/ [ɪ ˈpli.ʀɪm] for the most part, particularly, especially
 
-< 14C in Middle Boral i plurm “mostly” (various spellings), literally “the greatest amount”. The determiner from Old Boral il “the”, from Latin ille “that”, probably via a vulgar form īle. The noun is a direct descendant of Latin adjective plūrimus “the most, very many”, suppletive superlative form of multus “many” (modern Boral mout “often”).
+< 14C in Middle Boral i plurm “mostly” (various spellings), literally “the greatest amount”. The determiner from Old Boral ðe “the”, from Latin ille “that”, probably via a vulgar form īle. The noun is a direct descendant of Latin adjective plūrimus “the most, very many”, suppletive superlative form of multus “many” (modern Boral mout “often”).
 
     J'am noc y plurem raðar a Ausçagm ; la son tombr demay.
 
@@ -4634,7 +4634,7 @@ It is during the fourteenth century that we see true standardisation of the medi
 Y Reyaum a Boral dell'oc hour triant parmig, Lyce Noccair addoceu sy studiant nell'eç Cinq Art Romannesc.
 For example, in the Kingdom of Borland at this time, Noccair Lyceum taught its students the Five Romantic Arts.
 
-L'eç stan de natur l'art prosequent dy set domain classic a studiar (e fort ern il tan connuð contemporane par nom d'art classic ben liberal).
+L'eç stan de natur l'art prosequent dy set domain classic a studiar (e fort ern ðe tan connuð contemporane par nom d'art classic ben liberal).
 These were in essence the descendants of the seven Classical areas of study (and indeed they were also known at the time as the Classical or liberal arts).
 
 Y Cinq Art ern Literatur, Argument, Accont, Geometry e Music.
@@ -5273,7 +5273,7 @@ variant in -s of -r conjugation (past participle spas)
 suggernt ig, com outem, i no'r for comfiabr tandic y ci envou a JY no fosn y ci a Collujon combattent sou ciel ovart.
 suggesting that, at best, he could only be trusted as long as JY's interests weren't in open conflict with the Collusion's.
 
-Parveg s'entrova Benjamin carraçon il apponen tout ig, s'y Bel Joy denoy violent, JY vel obligað sociar con Vascony.
+Parveg s'entrova Benjamin carraçon ðe apponen tout ig, s'y Bel Joy denoy violent, JY vel obligað sociar con Vascony.
 Benjamin sometimes wondered why they assumed that, if the Good Game became violent, JY would automatically side with Vascony.
 
 I sta un organisment tras tarm, cas final. Calscon parmy pos fieltað descovrir sevrað.
@@ -5787,7 +5787,7 @@ At six he could almost always guarantee a seat on the Dusker, even if it was in 
 Certan un hour surrun vole i se habituar a sveilar tost diabr sou y ciel gris-aur a Tommarth e pre un trot freit e soltumesc vars y termin Kibbrogh.
 Surely at some point he would get used to waking up morbidly early to the grey-gold Tommarth sky and a chilly, lonely walk to the Kibbrogh stop.
 
-Challow appis ados e tirau des sy cromn sell'ardois ; la sta dey minut seyon usabr pre il parvenois Cathedral.
+Challow appis ados e tirau des sy cromn sell'ardois ; la sta dey minut seyon usabr pre ðe parvenois Cathedral.
 Challow leant back and reached into his pocket for his slate; he had ten minutes to waste before they'd pull in at Cathedral.
 
 ##
@@ -6461,7 +6461,7 @@ ovrar /oˈvrar/ [ʊˈvʀɑː] to function, to work correctly, to proceed without
 
 < from Old Boral ovrar “to work, to function, to labour”, from both of Latin operō and operor “I work” (see also ouvr “work, act, deed, labour”, from the corresponding noun opus, opera “work”). The “toil, labour” sense had by the Middle Boral period been displaced by laurar < labōrō and, briefly, trevaglar < Vulgar Latin tripaliō (now obsolete). In the sense of “to follow etiquette or instruction” (that is, as applied to people), the word is attested from the seventeenth century.
 
-    Veg alcot jo dig a mell'ivan d'ovrar, il voun un regul trovar a rompr.
+    Veg alcot jo dig a mell'ivan d'ovrar, ðe voun un regul trovar a rompr.
 
     However much I tell my kids to behave, they find some rule to break.
 
@@ -6570,7 +6570,7 @@ Just as the Danes attributed thunder to the wrath of Thor, so too we can imagine
 Y vent hurlant, val admettr, appariscn noc tan autr a ci hurl de can cauçour.
 The howling winds, after all, sound not so different from the howls of hunting dogs.
 
-Entr hammel istrað a norð de Humbr e toun covart de ney alpin, paregl son y suajon maternal dað a casc ivan candon oin il y Gran Cauç Ragnt (ben y Herlathing, ben y Wütendes Heer) passant dessur : remanir afont, ogl tornar, attendr outem de creir il no sin la.
+Entr hammel istrað a norð de Humbr e toun covart de ney alpin, paregl son y suajon maternal dað a casc ivan candon oin ðe y Gran Cauç Ragnt (ben y Herlathing, ben y Wütendes Heer) passant dessur : remanir afont, ogl tornar, attendr outem de creir ðe no sin la.
 From isolated hamlets north of the Humber to snow-blanketed Alpine villages, the motherly advice given to all children when they hear the Great Wild Hunt (or the Herlathing, or the Wütendes Heer) passing overheard is the same: stay inside, look away, do your best to pretend they aren't there.
 
 Scholer majortaðer reconnoscn oy y cont pouvr d'un cauç gaster divers aun un stemn unic d'antictað, n'Europ toð cas (y racont lanhiaçan comportant son certan desjognt).
@@ -6586,7 +6586,7 @@ also graçant /graˈtsant/ merciful, compassionate, charitable
 
 < verb from the late Old Boral period graçar “to show mercy, to be kind”, derived from (and still synchronically a simple derivation of) graç “kindness > favour”, which comes from Latin grātia “thankfulness, grace”. The adjective is an obvious step to make, but is not evidenced in text until well into the fourteenth century, in Heudar Fiðaut's Catreðuejnt Lagrem (Twenty-four Laments).
 
-    Ig degnant, il graçaurn y domn ant braç coupað apart.
+    Ig degnant, ðe graçaurn y domn ant braç coupað apart.
 
     Nonetheless, they pitied the woman whose arm was cut off.
 
@@ -7449,19 +7449,19 @@ The hawks and ravens around him are symbols of prophecy.
 
 translation into Borlish and English of an excerpt from Estevan Mazon's 1893 work The Man from Everywhere (originally published in Leonese as El Hombre de Jallondes), released near the end of the Good Game period. The book's subject matter was subject to significant public scandal, and only the outbreak of the Millstone War could overshadow the senatorial debates over governmental funding of bookstores. Despite the scandal, the public's less-univerally negative reaction is a testament to the shifts since even the 1840s (see the flight of Antòin Herrel).
 
-Ma ja es David y diabr d'annel portant; sell'ensignment haucetr e vign lousc des y brant cant il s'appenn contr y mur, tait soutan.
+Ma ja es David y diabr d'annel portant; sell'ensignment haucetr e vign lousc des y brant cant ðe s'appenn contr y mur, tait soutan.
 But David still has the damn ring, its hawk-vine engraving catching the firelight as they lean against the wall, suddenly silent.
 
 Ag moment just ig Marc yem scið l'oc saluð (sey vray l'es cossy nommabr; sur sy jalicq ancour sechiscent es sanc des cavir occis) harmon bogr coll'ig seyon creut cos primer, luy es i dont y dors caf appoyað vars y mur.
 Just as Mark is realizing that this welcome (if it can be called that; he has blood from being murdered still drying on his jalick) is of an entirely different key than what he first thought, he is the one with his back up against the wall.
 
-David es tojorn le tenent pognað, il son combat parsount e soulor—
+David es tojorn le tenent pognað, ðe son combat parsount e soulor—
 David is still clutching onto him, they're fighting and then—
 
 Soulor—
 Then—
 
-Soulor, posc cent annað, il no le son.
+Soulor, posc cent annað, ðe no le son.
 Then, after a hundred years, they are not.
 
 ##
@@ -7676,7 +7676,7 @@ Ports are one of the best places for thieves. Everyone there is in a hurry, bust
 La son y marcant desirant for repaðrir cas lou; maðr annoyað attenent a lourell'ivan appreuçar.
 There are the tired businessmen just wanting to get home; harried mothers trying to corral their kids.
 
-Tant de diversion e sorc a assistr coin bempart a gent de cur demay dar ag vertað ig il vien de denir osc de rouvaç.
+Tant de diversion e sorc a assistr coin bempart a gent de cur demay dar ag vertað ig ðe vien de denir osc de rouvaç.
 So many distractions and concerns keep most people from paying too close attention to the fact they've just had their money lifted.
 
 Bempart a gent.
@@ -7943,7 +7943,7 @@ idoneïsar /ˌi.doˌni.iˈzar/ [ˌi.dʊˌnɪ.jɪˈzɑː]
 
 Etymology: nineteenth-century derivation unique to Boral from adjective idone /ˌi.doˈne/ "suitable, appropriate, fit, apt, proper", itself borrowed directly from Latin idoneus "suitable, convenient".
 
-Cal voun il por lourell'erraç idoneïsar?
+Cal voun ðe por lourell'erraç idoneïsar?
 /kal vun ɪl pɔr luˌrɛ.lɛˈrats ˌi.doˌni.iˈzar/
 [kaw ˈvu.nɪw pɔː lʊˌʀɛ.lɪˈʀats ˌi.dʊˌnɪ.jɪˈzɑː]
 what will-3p 3p for 3p.gen=def=mistake adjust
@@ -8362,7 +8362,7 @@ Though he was not particularly martial-minded, Andrew's uncompromising tactical 
 Val pog; y cambr sta calt cos bel degnant y morostað de janver tras port, ant un foy kirtant eudæmon sou tapeçment lonc un victoir markesc ancour descreint—j'appone—tandy y pardastr afont no sta bogr discernibr.
 No matter; the room was warm despite the January gloom outside, a merrily-crackling fire under a long tapestry depicting—I assumed—another Merch victory, though it was anyone's guess against whom. 
 
-Ag mur atras, jo saveu des y clartað dy ci quarrel ig il forn cos recent affis all'oc ans veil, accas plausibr ne carganç des y hal dy praxitel bavarn.
+Ag mur atras, jo saveu des y clartað dy ci quarrel ig ðe forn cos recent affis all'oc ans veil, accas plausibr ne carganç des y hal dy praxitel bavarn.
 On the other wall, the clarity of the panes suggested they were a recent addition to this old wing, possibly commissioned from the Bavarn masters.
 
 Allors aye jo plusour fenestr parceut y veðr zajadau dy siecr derran tenent tojorn, un vert obægr surcaint just inequivalibr par y lumner a tijon.
@@ -9665,7 +9665,7 @@ Wine and other fermented drinks had been noted as a preventative of infection si
 Y ci avanç dy Paç Lonc menau ag descovart de solution ja effectuallessem.
 The advances of the Long Peace led to the discovery of yet more effective solutions. 
 
-Y molin por salpeðr (costroit por lou fornir con poið dy kynous a pouvr neir cant il mancaurn depost tesqual) ne Zampanagar e Tacday Ancor pres se sarvoirn de vreic marin com matier cru.
+Y molin por salpeðr (costroit por lou fornir con poið dy kynous a pouvr neir cant ðe mancaurn depost tesqual) ne Zampanagar e Tacday Ancor pres se sarvoirn de vreic marin com matier cru.
 The saltpetre mills (built to provide a source of the gunpowder component in the absence of natural deposits) of Zampanagar and neighbouring Tacday Ancore made use of sea wrack as a raw ingredient.
 
 Ne 1778, lonc y narrað dy surveilour por y ci molin a Contare, un vapour onðiçastr er remarcað montant des cuf rejeitancer y despart con vitriol seyon maneyað afont.
@@ -9793,7 +9793,7 @@ uvrautr /iˈvro.tr̩/ [ɪˈvʀotɐ]
 
 Etymology: from Old Boral uvrautre /yˈvraw.təɾ/ "(of land) fertile", extended variant of synonymous uvre via suffixing -autre, an adjectival ending of dubious origin (often simply presented as reflecting Latin adverbial ending -āliter, but this presents issues). The earlier uvre descends directly from Latin ūber "productive, full, rich" and is still in agricultural use in some modern rural dialects.
 
-Jamay n'ayen il un bourg uvrauterrem vis.
+Jamay n'ayen ðe un bourg uvrauterrem vis.
 /ʒaˈme nɛˈjɛn ɪl ɪn burg ˌi.vroˈtɛrm̩ vɪz/
 [ʝɐˈme nɪˈjɛn ɪw mˈbʊːg ˌi.vʀʊˈtɛ.ʀɐm vɪz]
 never neg-have-pst.3p 3p indef town bucolic-comp see.ptcp.pst
@@ -10072,7 +10072,7 @@ Saint Victor of Dunkirk, d. 1245 N
 
 extract in translation from late classical historian Robiaut Scarvon's 1952 textbook The Boral Province in the century after Hadrian (Y Provinç Boral par Siecr posc Hadrian).
 
-Lonc y façon la ageurn y Roman allors tras l'empir, y ci traitment sagntað e ci divintað ja existant all'Istr Boral tradugsern il ny caglou e reforgaurn il ny jout dy pantheon romannesc.
+Lonc y façon la ageurn y Roman allors tras l'empir, y ci traitment sagntað e ci divintað ja existant all'Istr Boral tradugsern ðe ny caglou e reforgaurn ðe ny jout dy pantheon romannesc.
 Much as the Romans did across the rest of the empire, the pre-existing sacred practices and divinities on Borland were interpreted through the lens of and recast in the mould of the Roman pantheon.
 
 L'oc poðe font aïr des comport magn naðusc doujugher—com bustr, y veðerrem veneraçon por Nahalennia lonc y rimmot souðer eð auster all'istr, luy stant un deves de commarç e dell'ocean, denoy incorporað de raçon inconnuð con y cult por Pluton e luy deves runið vars sy femn Proserpina.
@@ -10789,10 +10789,10 @@ Monarchs
 
 excerpt in translation from a missive sent by Michael Bervisson to his editors as he worked on his great work An Eternal Rome: Ships of Theseus.
 
-Samuel e Clovia son megl s'aðelent casc veg lonc ig il reun a repaðr de schol, malgrað y noçon de lourell'instroyour sur y sfondranç dell'Empir Mitað-Asc sein vreçous.
+Samuel e Clovia son megl s'aðelent casc veg lonc ig ðe reun a repaðr de schol, malgrað y noçon de lourell'instroyour sur y sfondranç dell'Empir Mitað-Asc sein vreçous.
 Samuel and Clovia do better for themselves every time they return from school, although their history tutor's opinions on the collapse of the Medieval Imperia are execrable.
 
-Jo prefay il seraun y dou entrað ny melle pre poðir l'oc tom a diabr editar, a sgart calscon; Hilgart es deja y vessonary depegntað examinant ne spien ig nos veleu se mostrar ne barstant pre Març (jo pieð neðan tu svoc capel jos luy!).
+Jo prefay ðe seraun y dou entrað ny melle pre poðir l'oc tom a diabr editar, a sgart calscon; Hilgart es deja y vessonary depegntað examinant ne spien ig nos veleu se mostrar ne barstant pre Març (jo pieð neðan tu svoc capel jos luy!).
 I expect they shall both be in the melee before this blasted book is published, in any case; Hilgart is already reading the illustrated costumery in the hopes that we might all be fashionable by March (kindly do not mention hats in her company!).
 
 Dou opinion soul dey jo rescaur, y volum partenent.
@@ -10993,7 +10993,7 @@ We Will Burn Together, written by Takach Domoko and notable for its openly tovar
 
     excerpt in translation from the correspondence of Dewock Barclythe (1452-1539 N),Friar of Tremonnow; these lines are from a missive sent to his acquaintance Lluprando da Treviso at the University of Saint Marinus.
 
-Quemant es locutionnar ig cas y plan d'Euclid, dou form mozað calscon son tojorn parallel, oc a digr il hamtn un plan parey.
+Quemant es locutionnar ig cas y plan d'Euclid, dou form mozað calscon son tojorn parallel, oc a digr ðe hamtn un plan parey.
 It is good to remark that in the context of Euclid’s plane, all mozate forms are parallel, which is to say that they are coplanar.
 
 L'oc parceuçon a nossy Jarleð menað all'apponment ig form mozað posn un ongit por asmuth posseïr innað, cos equal com se poð un tramou fornir con l'un asmuth des dou ouçon.
@@ -11275,7 +11275,7 @@ extract in translation from Ezio Carvallo's 1860 trevold Tejan de Masquira ou Ja
 Ny dal dessou splendisce y floy l'arrimbandant con azauc, tandic repars dereðr stan y collin parmy crevoscr raðunant.
 In the valley below, the river shone like a ribbon of quicksilver, while on the far side the hills were lost in the gathering dusk.
 
-pog lumner lougen dagaðy, ma il sarven soul a y vogdeç dell'œcumen remartellar.
+pog lumner lougen dagaðy, ma ðe sarven soul a y vogdeç dell'œcumen remartellar.
 A few lights twinkled here and there, but they only served to emphasize the emptiness of the land.
 
 Matthias soupirau eð ençau tornant a rentrar, ma paravant l'yeme a parcevet cavir d'uncos movent tras l'ombr dy ci arbr.
@@ -11571,7 +11571,7 @@ She had always loved this house; it had been like a second home to her during th
 I tornau par un cogn e lor yeme paus avant un portrait larc sy granpaðr depegntant.
 She turned a corner and came to a stop in front of a large portrait of her grandfather. 
 
-Y vesson reit noc obstroint, y segr ny pegntur luy apparisc magn; il ern meðes fornið d'ogl parey.
+Y vesson reit noc obstroint, y segr ny pegntur luy apparisc magn; ðe ern meðes fornið d'ogl parey.
 Besides the stiff dress, the man in the painting looked much like her; they even had the same eyes.
 
 ##
@@ -11848,7 +11848,7 @@ excerpt in translation from reference quire On the Dane Supremacy in Kernow [Bri
 Y premendessem sta l'aðoinç de commovenç viking lonc y rimmot.
 Most pressing was the inexorable rise in Viking activity along the coast. 
 
-Gazou ag banc dy Sein e l'Orn ern inceut ci meis paravant, ma dagormay il spanoirn ag vest; y monastir a Landvennick meðes se cof incendiað a cainç l'an 888 N. 
+Gazou ag banc dy Sein e l'Orn ern inceut ci meis paravant, ma dagormay ðe spanoirn ag vest; y monastir a Landvennick meðes se cof incendiað a cainç l'an 888 N. 
 Raids along the Seine and the Orne had begun in earnest some decades prior, but now spread west; even the monastery at Landvennick was burned to the ground in 888 N. 
 
 Necun no'rn y commovenç dy dannesc vecinað com piglment; ag dou cost dy Canal caf batman benoçaurn l'instabiltað politic (oc a digr y sfondranç Wessaxon ag norð eð y ci querel lombard ag souð) por eðegl concarr e fragossau instançar.
@@ -12130,7 +12130,7 @@ nervous /nɛrˈvuz/
 
 Etymology: from Middle Boral nervous "sinewy; vigorous", borrowed from synonymous Latin nervōsus along with noun nerf < Latin nervus "nerve, sinew; vigour". The extension in meaning from "vigorous" to "bold" and then to "confident" had taken place by the start of the nineteenth century.
 
-Son il nervous d'issaur ny cors?
+Son ðe nervous d'issaur ny cors?
 /sɔn ɪl nɛrˈvuz diˈsor ni kɔrz/
 [sʊˈni nɛːˈvuz dɪˈsoː ni ˈkɔːz]
 be.3p 3p confident of-great.success in-def contest
@@ -12820,7 +12820,7 @@ As Hortense is certainly reading, I shall pass on Clara's well-wishes and reiter
 Y scourm de Pether son tan voluð, parisc i, a partir de bel Albion traiçonous.
 Pether's lot are also destined, it seems, to leave fair, perfidious Albion.
 
-Ig degnant jo lour day ascuranç continu de xeny oy il son resoluð sur najar lonc y gran flou mendevan vars un ventur calscon seyon trovabr a Hasiny.
+Ig degnant jo lour day ascuranç continu de xeny oy ðe son resoluð sur najar lonc y gran flou mendevan vars un ventur calscon seyon trovabr a Hasiny.
 Despite my continuing assurances of welcome here they are determined to sail the great Mendevan river to whatever future they can find in Hasiny.
 
 Jo dey admettr ig y sigt de murðon de lau teir entr mey e casc hom Theudesc es formous naðusc.
@@ -12998,7 +12998,7 @@ Etymology: verbal derivation of jannest "broom, cleaning brush", from Old Boral 
 Jo's oyent ig l'area ne Veron se recarra ovart a parform ancour—dit es Al Igne, l'ouvr de Bruno, sera y primer la parformað posc y var!
 I hear they shall reopen the arena in Verona to performances—they say Bruno's Wings Afire will be the first shown there since the war!
 
-Jo broucau con hugt sy fraðr Jacom connoscr pre jamay sta i reconnuð cos mondiallessem (ne pariscenç il aun y dou un heu equal cos stoniscent, ða meðes stant jammel); nos eyeu a loit accougl a Houlm ne 21.
+Jo broucau con hugt sy fraðr Jacom connoscr pre jamay sta i reconnuð cos mondiallessem (ne pariscenç ðe aun y dou un heu equal cos stoniscent, ða meðes stant jammel); nos eyeu a loit accougl a Houlm ne 21.
 I had the pleasure of knowing her brother Jacom before she was ever known to the wider world (apparently they are astonishingly similar in appearance, even for twins); we fought together at Hulm in 21.
 
 L'ig gazou a se caut mesgournað cos horfiant eð lon alcun fegnment y var prolongað lonc meis—pu jo no dey l'oc invectif souvr neðan jamay le quïr.
@@ -14676,7 +14676,7 @@ Even the windows glittered with jackdaw glass the colour—if not the clarity—
 A starn dy mur citaðer naja cos lent y gamblas de sy paðr lonc y canal argent sceint just con y rout leyað, trencant a biasc cos artificial par y mersc paneller.
 Outside the city walls her father's barge proceeded slowly along the silver canal which ran parallel to the raised road, cutting at an unnatural angle through the patchwork fenland.
 
-Vray, jusc oy ern il passaç faint de tal tardiscenç ig ða y costoscment ern porsief lour dant lor il voloisn ja certan star attegnt eð oncað alcheðr vars Tisholm.
+Vray, jusc oy ern ðe passaç faint de tal tardiscenç ig ða y costoscment ern porsief lour dant lor ðe voloisn ja certan star attegnt eð oncað alcheðr vars Tisholm.
 In fact, they had been making such slow progress that if the authorities were pursuing them they would surely already have been caught and dragged back to Tisholm.
 
 ##
@@ -14808,7 +14808,7 @@ tandem /tanˈdɛm/ [tɐnˈdɛm]
 
 Etymology: Middle Boral borrowing from Latin tandem "at last", related to tam "so, so much". Apparently once pronounced with initial stress, but the stress had shifted to the final syllable by the seventeenth century at the latest.
 
-Tandem il pardoirn nis e fegrn repaðr.
+Tandem ðe pardoirn nis e fegrn repaðr.
 /tanˈdɛm ɪl parˈdɔjrn̩ nɪz e ˈfijrn̩ reˈpa.ðr̩/
 [tɐnˈdɛm ɪw pɐːˈdɔjɐn nɪz e ˈfi.jɐn ʀɪˈpa.ðɐ]
 eventually 3p lose-pst-3p effort and do.pst-3p home
@@ -14967,7 +14967,7 @@ teissir /tiˈsɪr/ [tɪˈsɪː]
 
 Etymology: originally in the first senses, from Old Boral teissir, tistre, teȝsre (among many other forms) "to weave, work with thread". These all derive from either Latin texere "to weave" or a Late Latin texēre exhibiting a change of conjugation. Use in the narrative sense is attested as far back as the Classical period; much of the metaphorical usage is likely extended from this first idiom.
 
-Cal mocry son il teissent oy?
+Cal mocry son ðe teissent oy?
 /kal moˈkri sɔn ɪl tiˈsɛnt ɔj/
 [kaw mʊˈkʀi sɔn ɪw tɪˈsɛnt ɔj]
 which nonsense be.3p 3p weave-p.prs now
@@ -15446,7 +15446,7 @@ The Vascon Ascendancy is no new ground for the screen, with Agochino's more pers
 Nentamen, jo stim L'Ascenent delicat com renarranç por y ci annað commotual posc l'Abanc d'an 1471, maxime graç a sy decijon vars caglou irrayar sur y gent pettiessem ny cort d'Ambrosc.
 Nevertheless, I find The Ascendant to be a charming retelling of those turbulent years after the 1471 Landfall, not least in its choice to focus on the more minor personages of Ambrose's court.
 
-Com bustr (ig degnant i parol voug cas vask ny ci pog belem yon il vain deur cambresc), Lyneth Madox hamt Jata, un tissour eð y femn d'un moðnaut nell'Entrpris.
+Com bustr (ig degnant i parol voug cas vask ny ci pog belem yon ðe vain deur cambresc), Lyneth Madox hamt Jata, un tissour eð y femn d'un moðnaut nell'Entrpris.
 As an example (though her Vask is terrible in the few scenes they stray from Cambrick), Lyneth Madox plays Jata, the seamstress-wife of an Enterprise sailor.
 
 ##
@@ -15784,7 +15784,7 @@ errevir /ˌɛ.reˈvɪr/ [ˌɛ.ʀɪˈvɪː]
 
 Etymology: from Old Boral erevre, ereveir, from Latin ēripiō "I rescue, save, deliver, set free". Some forms show a conjugation shift from Classical ēripere to *ēripēre (compare cavir < *capēre < capere). Cognate with Barcelon erebre "to protect, guard".
 
-M'orruð il ain l'oc sorty erreut cos pernix.
+M'orruð ðe ain l'oc sorty erreut cos pernix.
 /mɔˈrɪθ ɪl en lɔk sɔrˈti ɛˈrawt kɔz pɛrˈnɪks/
 [mʊˈʀɪ‿ðɪl en lɔ sʊːˈti ɪˈʀawt kɔz pɪːˈnɪks]
 1s.obl=amount 3p have.sbj-3p def-s.px party rescue-p.pst adv nimble
@@ -16102,7 +16102,7 @@ The town remains as dull since you departed as it was before we met, you will be
 Ja galað, y casatabr dijarbr sull'ig rif meðes surcay issugtessem posc toð gent de nis nell'oc bourg ablegar;
 In point of fact, even the decent lodging-house on the strand is poorer for having banned all the interesting people in town;
 
-parcanç ig il me parmet jug d'entrar es mal me desconent, malgrað jo vil toð mod me sarvir dy ci sigt la tandic possibr.
+parcanç ig ðe me parmet jug d'entrar es mal me desconent, malgrað jo vil toð mod me sarvir dy ci sigt la tandic possibr.
 perhaps it speaks poorly of me that they yet allow me entrance, though I will at least avail myself of the views while I can.
 
 ##
@@ -16183,7 +16183,7 @@ You like boats, but you don't like deep water
 E tu a hougr de narr, eð y fin dell'oc mont
 And you're afraid of clowns, and the end of the world
 
-E tu am lasc, ma general tu vel il sein a pog belem bressem
+E tu am lasc, ma general tu vel ðe sein a pog belem bressem
 And you like films, but as a rule you think they should be ten minutes shorter
 
 Eð ant eld novoç bajau tu un doncel eð oc t'ajoutaçau la noc y plurem
@@ -16219,7 +16219,7 @@ E tu a hougr de narr, eð y fin dell'oc mont
 and 2s have fear of clown | and def end of-def=s.px world
 And you're afraid of clowns, and the end of the world
 
-E tu am lasc, ma general tu vel il sein a pog belem bressem
+E tu am lasc, ma general tu vel ðe sein a pog belem bressem
 /e ti am lax | pi ˌʒe.neˈral ti vɛl ɪl sin a pɔj beˈlɛm ˈbrɛ.sɛm/
 and 2s like film | but general 2s will.sbj 3p be.sbj-3p at few scene short-comp
 And you like films, but generally you'd have them be a few scenes shorter
@@ -16818,7 +16818,7 @@ Marian Siegert ~ Miller (1725-1756), illegitimate daughter of Elias Villingen
 
 scitation questions in translation from the 2007 course Religion in the Second Millenium: Belief, Community and Division, set by the  University Faculty of Domain History.
 
-(ii) Nell'istr Albion eð y reyaum Danau y dou temporane sceyen mendranç moulous cas religion eð y Cligs (e lorry gendr calscon) stan ligað cos starc accougl con autortað vecin. Desig l'eç qualtað commun ben ceter denoirn il amaçgat ðescant por cogtaçon Contr-Paradis?
+(ii) Nell'istr Albion eð y reyaum Danau y dou temporane sceyen mendranç moulous cas religion eð y Cligs (e lorry gendr calscon) stan ligað cos starc accougl con autortað vecin. Desig l'eç qualtað commun ben ceter denoirn ðe amaçgat ðescant por cogtaçon Contr-Paradis?
 (ii) In both Albion and the Danaw kingdom at this time there were significant religious minorities and the Church (of whichever stripe) was strongly associated with local authority. Was it these commonalities that made them fertile ground for Anti-Paradise thought?
 
 (iii) Diçr alcot sta y resmargenç dell'Apprestanç Modest ne Spagn e Gaul com effeit dell'eç novel idea religious? Compareð y farvenç de cuidour modest ig inclus y Marchis de Caillat ben Diana Theodora Queiroz y pro-Marian Azur contr y philosoph de commouð preluïscent cosvour a Modest.
@@ -17376,7 +17376,7 @@ From 1981 on, he authored his best-known series (beginning with Upstairs, Downst
 
 excerpt in translation from 1997 work Barruèc by Ambrosian author Roger Cusallas.
 
-Y castel es gran. L'es tojorn tars dec Yam Mott parsou ig gent veln le targr, e candon Halinne lour beut bonjorn il faun cortiseç e sourey eð exeunt.
+Y castel es gran. L'es tojorn tars dec Yam Mott parsou ig gent veln le targr, e candon Halinne lour beut bonjorn ðe faun cortiseç e sourey eð exeunt.
 The castle is big. It's always clean because Uncle Mott pays people to clean it, and when Halinne says hello to them they bow and smile and move on.
 
 Parveg ða i se ren invisibr i vil lou sevir; i n'a alcun pretension vars spionnaç ben lorry secret jamay descondr, ma scey uncos consolant ny viscr de collocq entr hom crescuð.
@@ -17789,7 +17789,7 @@ The inn had fourteen guests at the time of the murder.
 
 Celtic Borland
 
-Y pouvlanç celtesc d'Istr Boral (y Bora Ale noncupað temporane) no's fort mis a regest. Y pog bustr tesmogn de lorry lengaç sousonn an dehiscenç for recent des y lengaç britton; creut es ig il alandau sull'istr des Albion, e noc des y tarmagn cos direct.
+Y pouvlanç celtesc d'Istr Boral (y Bora Ale noncupað temporane) no's fort mis a regest. Y pog bustr tesmogn de lorry lengaç sousonn an dehiscenç for recent des y lengaç britton; creut es ig ðe alandau sull'istr des Albion, e noc des y tarmagn cos direct.
 The Celt population of Borland (self-described as the Bora Ale) is poorly documented. The few attestations of their language suggest only a recent divergence from the Briton tongue; they are thought to have arrived on the island from Albion, not directly from the continent.
 
 L'oc cultur er conjognt ag sar marcer d'Europ par mejan dell'enascment de stan e de far. Jarry innajað dell'oc epoc es yent trovað tras toll'istr des loy allors remot com Egypt e Pers.
@@ -18069,7 +18069,7 @@ haçot /haˈtsɔt/ [hɐˈtsɔt]
 
 Etymology: Middle Borlish diminutive of haç "bundle", borrowed in nautical use from synonymous haç in Vascon. This reflects Latin fascis "packet, package; burden, load".
 
-Cosogr il taussan men an haçot a maus.
+Cosogr ðe taussan men an haçot a maus.
 /koˈzɔjr̩ ɪl toˈsan mɛn an haˈtsɔt a moz/
 [kʊˈzɔj‿ʀɪl tʊˈsan mɛn an hɐˈtsɔt a moz]
 as.one 3p cost-ipf.3p less at-indf bunch at banana
@@ -18463,7 +18463,7 @@ This took place at the Nÿstad Atellier (then privately owned and run by substan
 Y corporal benoçað ny majortað imman de molin a sougl, kildarc, er preu cadarað ag siecr novoç mi ny scir irðonnesc de Killdara (dont vien y nom dy soustanç, tras y parol cambresc kildárc 'de Killdara').
 The corporal [element] used in the vast majority of threshold mills [plants], killdark [uranium], was first isolated in the mid-nineteenth century in the Irish shire of Killdara (whence, via Welsh kildárc 'from Killdara', the substance's name).
 
-Portingal sta un tarromour cas forç a sougl, interrogment sur sy laboriostað ag dezein 1950 parsount neðan mantenir ig il basn par astraphor enajað des y Collujon Drengot.
+Portingal sta un tarromour cas forç a sougl, interrogment sur sy laboriostað ag dezein 1950 parsount neðan mantenir ig ðe basn par astraphor enajað des y Collujon Drengot.
 Portingale was a pioneer of threshold force, funding research into its effectivity in the 1950s in a bid to reduce their dependence on astraphor [electricity] exported by the Drengot Collusion.
 
 ##
@@ -18626,7 +18626,7 @@ Mr Desarden, Prince Consort (1968), a film based on the 1887 scandal around Jame
 Y Fraterntað Jagovin, cos historic tan connuð sou nom dell'Orn a Sagnt Jagm, es un communtað religious y citað Ausbagn hamtant ag rimot souðer n'Istr Boral.
 The Jacobin Fraternity, historically also known as the Order of Saint James, is a religious organisation based in the city of Axbane on the south coast of Borland.
 
-Y Fraterntað er instaurað ne Flandr ag siecr deg sou y patronnement d'Amegl de Brug. Ag siecr onç l'oc er envoluð com conjuraçonnour n'un smout pouvlancer vecin contrell'Emperour Drengoçan Joffrey II eð obligað a enfugr tras mar vars Istr Boral. La costroyeurn il y Monastir Peninsoler ancour Ausbagn surplombant.
+Y Fraterntað er instaurað ne Flandr ag siecr deg sou y patronnement d'Amegl de Brug. Ag siecr onç l'oc er envoluð com conjuraçonnour n'un smout pouvlancer vecin contrell'Emperour Drengoçan Joffrey II eð obligað a enfugr tras mar vars Istr Boral. La costroyeurn ðe y Monastir Peninsoler ancour Ausbagn surplombant.
 The Fraternity was founded in tenth-century Flanders under the patronage of Amelia of Bruges. In the eleventh century it was implicated in a local popular uprising against Drengot Emperor Geoffry II and forced to flee over the sea to Borland. There they built the Peninsular Monastery which still overlooks Axbane.
 
 Moneð des y Fraterntað droughau ag Palaç Jagovin ny ci bandlau atorn de Damvað, eç posc lorry compliscenç ag siecr ogtoç nuverrem denent y posson fis por y parolment borallesc.
@@ -18706,7 +18706,7 @@ Unlike earlier centuries, the nineteenth century saw significant transmigration 
 Y viol cemtir intermann un jout cyclant ny cont a pouvr borallesc.
 The graveyard fiddlers are a recurring motif in the folklore of Borland. 
 
-Postulað es ig il sein gast a mort sont ovittað con y broit enigmatic e lontan de baðr viol oïð cos particular jos cemtir eð all'hour prell'ort sol.
+Postulað es ig ðe sein gast a mort sont ovittað con y broit enigmatic e lontan de baðr viol oïð cos particular jos cemtir eð all'hour prell'ort sol.
 They are said to be death spirits responsible for the mysterious sound of string instruments in the air heard especially near cemeteries and in the hour before dawn.
 
 Lorry melody son cos usual descrit com mogn e dolorous.
@@ -18715,7 +18715,7 @@ Their melodies are usually described as low-pitched and mournful.
 Orruð y viol cemtir sein un costum peculier n'Istr Boral, dec ustol pouvlancer local no son abrangent d'alcun figur parallel cos ovart.
 The fiddlers appear to be a tradition peculiar to Borland, as neighbouring folk traditions do not include any obviously analogous figures.
 
-Il son ottem reconnuð allors lonc ig il forn svoccað ny melodram Al Igne (Ale in Fiamme) par Chiarina Bruno.
+Il son ottem reconnuð allors lonc ig ðe forn svoccað ny melodram Al Igne (Ale in Fiamme) par Chiarina Bruno.
 They are most known abroad from their inclusion in opera Wings Afire (Ale in Fiamme) by Chiarina Bruno.
 
 Disc l'oyeus y cont dy viol cemtir des sy fraðr, oc ayent abattuð a cost de soldart borallesc a mesur dy Var Theudesc Dovem.
@@ -20127,7 +20127,7 @@ ismargre /ɪsˈmar.gr̩/ "arise" < ɛjsˈmar.grə < ejsˈmer.grə < ɛksˈmɛr.g
 
 This is the stage, around the turn of the thirteenth century, usually referred to as late Old Borlish:
 
-    …sovravnt il deft nostre saȝntaðesem eð atavalesem n iȝ atrevre golfhavn seȝ hamar dont y verb divin ismetre ac povre paian. peðev soul ez font istovent por vn nov cliȝs d istroienz istablir…
+    …sovravnt ðe deft nostre saȝntaðesem eð atavalesem n iȝ atrevre golfhavn seȝ hamar dont y verb divin ismetre ac povre paian. peðev soul ez font istovent por vn nov cliȝs d istroienz istablir…
     /soˈvront ɪl dɛwt ˈnostr̩ ˌsajn.taˈðɛsɛm ɛð aˌta.vaˈlɛsɛm nəj aˈtrəwr̩ gɔlfˈhon sej haˈmar dɔnt i vɛrb diˈvɪn ɪsˈme.tr̩ ak ˈpovr̩ paˈʒan ‖ peˈðəw sul ets fɔnt ɪs.toˈvɛnt pɔr yn nu cləjs dɪsˈtrɔjənts is.taˈblɪr/
     …uphold our most sacred and ancient duty to let Gulfhaven be the centre from which we will send the Word of God to pagan lands. We ask only for the necessary funds for a new teachinghouse…
 
@@ -20373,13 +20373,13 @@ excerpt in translation from the historical trevold Rearguard, set during the ele
 Dec orruð i carra noc un respos contr sy convoc a pan rompr accougl, e dec i sera attent reunt ag garnçon toð cas, Omar quauc vars y donjon.
 Since it seems his invitation to eat together will not be accepted, and since he is expected back at the garrison anyway, Omar hurries to the tower.
 
-Ac son y soldart nuvr ðorant, sur lorrell'assignment aglon de ny masquet cosogr y païsan, deut ag besogn ig il noun se situar lontan demay dy gran port condon y toxen incoïbr sorc por avartr ig y preu rostr Roman son detectað.
+Ac son y soldart nuvr ðorant, sur lorrell'assignment aglon de ny masquet cosogr y païsan, deut ag besogn ig ðe noun se situar lontan demay dy gran port condon y toxen incoïbr sorc por avartr ig y preu rostr Roman son detectað.
 The soldiers have been praying here, at their posts rather than in the mosque with the people, because they cannot be caught too far from the gates when the inevitable alarm goes up that the first Roman vanguards have been spotted.
 
 Lonc y commant dy gournour, band aun toð y poið enverimmað ben coyençað, eç arbr tos, eð y feu tars de tout calscon benoçabr com vitagl e vegr.
 By order of the governor, men have poisoned or blocked all the wells, cut down trees, and scourged the land of anything that could be used for provisions and fodder.
 
-Y barbarin son dolent sou y caldour bruslant, ma il son avançant nentamen.
+Y barbarin son dolent sou y caldour bruslant, ma ðe son avançant nentamen.
 The barbarians are suffering in the scorching heat, but they advance nonetheless.
 
 ##
@@ -20590,7 +20590,7 @@ lastumnesc /ˌla.stɪmˈnɛx/ [ˌla.stɪmˈnɛç]
 
 Etymology: fifteenth century, adjectival derivation from noun lastumn "exhaustion, weariness, stress". This is either a secondary derivation in the Old Borlish period from adjective las "tired, faint, spent" from synonymous lassus in Latin, or else a direct descendant of the Latin noun lassitūdō "faintness, weariness". In its use for things other than people the word is attested from the eighteenth century.
 
-Il ayen heu lastumnesc, com ig il n'ayen for pog dormið.
+Il ayen heu lastumnesc, com ig ðe n'ayen for pog dormið.
 /ɪl ɛˈjɛn haw ˌla.stɪmˈnɛx | kɔm aj ɪl nɛˈjɛn fɔr pɔj dɔrˈmɪθ/
 [ɪl ɪˈʝɛn haw ˌla.stɪmˈnɛç | kɔm aj ɪl nɪˈʝɛn fɔː pɔj dʊːˈmɪh]
 3p have-ipf-3p look weary | as cmp 3p ng=have-ipf-3p only few sleep-p.pst
@@ -21493,7 +21493,7 @@ big /baj/ [baj]
 
 Etymology: direct descendant via Old Borlish biȝ "wagon, haycart" from Latin bīga "chariot" (reflecting a reduced bi-iuga "two-yokes"). Revived in the sixteenth century in its historical sense, by which time it had shifted to "a platform for loading cargo", from which the other vehicular senses stem. Applied to the chess piece since the seventeenth century (formerly we see roc < Arabic رُخّ "rook").
 
-Cargeð y boist ny big ða il voun le quottar.
+Cargeð y boist ny big ða ðe voun le quottar.
 /karˈgɛθ i bɔist ni baj ða ɪl vun le kwɔˈtar/
 [kɐːˈdɛ‿ði bɔis nɪˈbaj ðal vun le kwʊˈtɐː]
 load-2p.sbj df box in-df boot if 3p will-3p 3s fit-inf
@@ -22579,7 +22579,7 @@ Dewock Barclythe (1452-1539 N), Friar of Tremonnow and for several decades the p
 
 excerpt from the 1981 Report towards a Normal Teaching for Children at Mantleschool, a public report from the Ministry for Schools within Borland's contemporary anthracite administratration, which was intended to standardise the education of children up to the age of twelve.
 
-Posc il ain schol lajarn complið, val ig stuðant broucn un recordaçon mozað ag mendrem cas y defas des prell'aubon de scrittur jusc l'epoc dy Scon Tetrachy, con tan casc schol son hortaminað a them recendessem admettr lonc y bustr d'envou vecin.
+Posc ðe ain schol lajarn complið, val ig stuðant broucn un recordaçon mozað ag mendrem cas y defas des prell'aubon de scrittur jusc l'epoc dy Scon Tetrachy, con tan casc schol son hortaminað a them recendessem admettr lonc y bustr d'envou vecin.
 Upon completing mantleschool, pupils should have at least a surface-level understanding of the development from prehistory until the time of the Second Tetrarchy, although individual schools are encouraged to include more recent material as it relates to vicine matters.
 
 Masctighað es ig l'ec them sein abrangent dy costumn ag toun ben muncef local, aglon cainç diçr (battagl, descovart eð aval) ayent avenuð cos veçin.
@@ -23048,7 +23048,7 @@ inquillin /ˌɪn.kwɪˈlɪn/ [ˌɪŋ.kwɪˈlɪn]
 
 Etymology: from Latin inquilīnus "sojourner, lodger; inmate", related to incolō "I inhabit". Influenced in sense by the unrelated noun quil "bed" and verb inquillir "embed"; these descend from Latin cubīle "bed, lair, kennel", which is related to cubō "I lie down". The euphemistic sexual sense has a possible citation in the seventeenth century, but is only securely attested in the nineteenth.
 
-Deu mien, il s'ayen por inquillin!
+Deu mien, ðe s'ayen por inquillin!
 /dau mjɛn | ɪl sɛˈjɛn pɔr ˌɪn.kwɪˈlɪn/
 [dau mjɛn | ɪl sɪˈʝɛn pɔː‿ˌʀɪŋ.kwɪˈlɪn]
 God mine | 3p rfl=have-ipf-3p for roommate
@@ -23066,7 +23066,7 @@ bount /bunt/ [bunt]
 
 Etymology: from Old Borlish boun "ready, willing", altered to bount by analogy with the present participle ending -nt by the early modern period. This is a borrowing from Old Norrish búinn "adapted, fit", the past participle of búa "reside, prepare, decorate". In archaic or poetic use the word may be used as a preposition meaning "about to; approaching".
 
-I me quistau por m'addocir ig bount son il ag quarf.
+I me quistau por m'addocir ig bount son ðe ag quarf.
 /i me kwɪˈsto pɔr ˌma.doˈtsɪr ai bunt sɔn ɪl ɛi kwarf/
 [i me kwɪˈsto pɔː ˌma.dʊˈtsɪː‿ʀai bunt sɔn ɪl ɛi kwɐːf]
 3s 1s.obl phone-pst for 1s.obl=inform cmp en.route be.3p 3p to-df station
@@ -23244,7 +23244,7 @@ Honestly I'm surprised he consents to use even the mechanical methods, but I sup
 Es tu pretenent vars eir ne souð l'oc stað?
 Have you any plans to go south this summer?
 
-J'oy il voun l'area ne Veron rallumar alcheðr por parform—rumorað es ig Al Igne par Bruno sera y primer la scenað posc y var!
+J'oy ðe voun l'area ne Veron rallumar alcheðr por parform—rumorað es ig Al Igne par Bruno sera y primer la scenað posc y var!
 I hear they shall reopen the arena in Verona to performances—they say Bruno's Wings Afire will be the first shown there since the war!
 
 ##
@@ -23652,7 +23652,7 @@ striving wholeheartedly for his life and his comrades' homecoming.
 Ma noc cossy sceus i sy commilton errevir, meðes auvorn oblimant;
 But not like this could he save his comrades, even longing to so much;
 
-lou desig lorry fol temertað il perisceurn;
+lou desig lorry fol temertað ðe perisceurn;
 they, for their foolish recklessness, perished;
 
 borel, eç des y kiveu dy sol Hyperion
@@ -23733,13 +23733,13 @@ Everyone's children came back from the country changed. They were older, for a s
 Certan entr lou stan çoucherrem, e certan mancan ustolment—certan stan metamorphosað vars joun dy campagn lon alcun residu de Paris entarn, parfait con y vernacr.
 Some of them were wilder, and some had no manners—some had transmogrified into country children with not a trace of Paris in them, complete with accent.
 
-Toð y mont souprenent y jammel Tovat stan reuluð fort ustolent ant un zeltað a gimmoldr, ig degnant il stan paravant eç picq beuscr.
+Toð y mont souprenent y jammel Tovat stan reuluð fort ustolent ant un zeltað a gimmoldr, ig degnant ðe stan paravant eç picq beuscr.
 To everyone's surprise the Tovat twins had come back well-behaved with a strong work ethic, despite the little louts they had been.
 
 Y joun Pinze, interim, reuluð stragn. Caye noc un autranç vecinabr cos fagl.
 The Pinzé children, though, came back odd. It wasn't something readily identifiable.
 
-Il ayen cortiseç eð ovranç aðief por surcrescr de coðelostað, ma tojorn il pariscen gasar vars nuton mental par ogl ayent ancour may vis meðes all'eç dy soldart excavað. 
+Il ayen cortiseç eð ovranç aðief por surcrescr de coðelostað, ma tojorn ðe pariscen gasar vars nuton mental par ogl ayent ancour may vis meðes all'eç dy soldart excavað. 
 They were polite and tactful to the point of overcaution, but they always seemed to look into the middle distance with eyes that had seen even more than the hollowed-out soldiers.
 
 ##
@@ -24460,7 +24460,7 @@ Will Darling was outnumbered by books.
 Noc jug no'r i sentent cossy.
 It hadn’t always felt this way.
 
-Candon l'au primer sell'yam visitað cas Carin por Antic e Rediveu, i n'au for ig stimað Ac scein stroy de livr, e candon i fo ençað a martel ac prendr, il intermanen for hayen.
+Candon l'au primer sell'yam visitað cas Carin por Antic e Rediveu, i n'au for ig stimað Ac scein stroy de livr, e candon i fo ençað a martel ac prendr, ðe intermanen for hayen.
 When he’d first visited his uncle at Darling’s Used & Antiquarian, he’d simply thought That’s a lot of books, and when he’d started helping here, they were just work.
 
 Tandic l'accare gournanç sull'edifiç durant l'egrtumn final de sell'yam, interim, i dene a mesur coðelosessem den eç l'incombiscent atorn, emplið par saivenç e secret e mençon.
@@ -26151,7 +26151,7 @@ notes in translation on the Romantic Wars.
 Y Rix Romannesc intermanen un cougl circonscreut cos flois de var, de smout e d'autr conflict tras Europ ec ayent loy fis a mesur atorn dy mojol dy siecr settoç.
 The Romantic Wars were a loosely-circumscribed collection of wars, uprisings and other conflicts across Europe which took place through the middle of the seventeenth century.
 
-Com un entertað il son cossirað parveg com y derran conflict vecinabr veram, dec ny siecr sevent tal rix de magntumn comportant volen y Novomont envouvr, e tan volen alleyanç abrangir entr y possenç n'Europ, Africa eð Asia cos parey.
+Com un entertað ðe son cossirað parveg com y derran conflict vecinabr veram, dec ny siecr sevent tal rix de magntumn comportant volen y Novomont envouvr, e tan volen alleyanç abrangir entr y possenç n'Europ, Africa eð Asia cos parey.
 As a whole they are sometimes considered the last truly localised conflicts, since by the next century wars of similar scales would begin to involve the Novomund, and would feature alliances between the powers of Europe, Africa and Asia alike.
 
 L'ec an des 1640 vars 1670 afferjarn l'eç conflict 'central' dy Rix Romannesc, con tan certan abatment peripherallessem fonn paravent ben apres.
