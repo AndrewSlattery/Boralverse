@@ -31014,10 +31014,86 @@ To your question. I have a name for you, though it has not yet left my workshop.
 
 …a disadvantage. My Madray [~Madurai] correspondent, of the medical school, has convinced me that the progress of life theory here in Barcelon is dead. I have considered Roun [Rouen], or (to my mother's delight) the new observatory in Mashick [~Mexico]; I no longer believe I will die in Huesca.
 
-I will look for the Vallakis. If it is in Spain I will hear of it by summer. — R.
+I will look for the Vallakis. If it is in Spain [Iberia] I will hear of it by summer. — R.
 
 [6] al Mustafa had had the Duke of Aragon as his patron for the last two decades.
 
 ##
 
-225.1:
+225.1: Medieval Rouen
+
+notes in translation on the Norman city of Roun [Rouen].
+
+Fondað par y Gallesc, lonc y Roman y citað digna Rotomagus e lonc y mesur l'intermane y sce dell'evesquað vecin nell'epoc dy Mitað-Asc primal.
+Founded by the Gauls, the city was known to the Romans as Rotomagus and it became the seat of the local bishopric in the early medieval period.
+
+Ny siecr nouf sceye l'envajon dy Normant afont dy region cosogr y Paramontað Dannesc modo magno; d'an 850 Roun er seyon gournað.
+The ninth century saw the incursion of the Normans into the region as part of the wider Dane Supremacy; by 850 Roun was under their control.
+
+Ag siecr onç er Roun denuð yon sceye y cort dy dynasty Drengot, oc y Ducað a Normandy regnant com vassal meg autonom.
+By the eleventh century Roun had become the seat of the Drengot family, ruling the Duchy of Normandy as a semi-autonomous vassal of the Kingdom of the Franks.
+
+Posc y Conjuraçon Cornovan e lor y nastiscenç dy Preu Empir Drengoçan oc y bempart d'Albion eð y plurem de Gal abrangent, Roun er maugrfeyað.
+After the Kernovan Conjuring and the formation of the First Drengot Empire covering much of Albion and most of Gaul, Roun was sidelined.
+
+L'Emperour Drengoçan tramigraurn lorry cort a Paris, con tan ðe parmaneurn a y ducað a Normandy eð a Cantuer posseïr lou meðes.
+The Drengot Emperors moved their court to Paris, although they continued to personally own the duchies of Normandy and Kent.
+
+L'oc epoc oscey y commet dell'union politic pardurant dell'ec dou region y Canal Cantuer parlocant.
+This period marks the beginning of the persistent political union of these two regions on either side of the English Channel.
+
+##
+
+225.2: sentenç "worldview"
+
+sentenç /sɛnˈtɛnts/ [sɪnˈtɛns]
+- worldview, ethos, outlook, the framework of values and assumptions through which a person interprets the world;
+- (formal) opinion, view, stated position on a particular matter;
+- maxim, aphorism, dictum, a pithy saying with moral or didactic force;
+- (legal, archaic) sentence, judgement, judgment, the formal pronouncement of a court
+
+Etymology: borrowed from Latin sententia "opinion, judgment; thought", itself a derivative of sentiō "I feel, perceive, think". The term was first attested in the Middle Boral period in juridical contexts. The "maxim" sense flowered in the moralising literature of the early modern period, when collections of aphorisms circulated widely as pedagogical tools.
+
+Lorry sentenç no son autrað tras un carantein.
+/lɔˈri sɛnˈtɛnts no sɔn oˈtraθ traz ɪn ˌka.ranˈtin/
+[lʊˈʀi sɪnˈtɛns no sɔn uˈtʀaθ traz ɪŋ ˌka.ʀɐnˈtin]
+3p.gn ethos ng be.3p change-p.pst across indf forty.year.period
+Their beliefs haven't changed in forty years.
+
+##
+
+225.3: sposar "vouch for"
+
+sposar /spoˈzar/ [spʊˈzɐː]
+- espouse, embrace, take up, to declare oneself committed to (a stance, doctrine or cause);
+- (legal) marry, wed, to take as a spouse;
+- vouch for, back, to confirm the good character of
+
+Etymology: Old Borlish, from Latin spōnsō "I promise", the frequentative of spondeō "I pledge solemnly, give my word". The specifically matrimonial reading, not seen until the fifteenth century, may be a later back-formation from related spous "husband, wife".
+
+Y collocquour spuðau a sy paðr sposar.
+/i ˌkɔ.lɔˈkwur spiˈðo a si paðr̩ spoˈzar/
+[i ˌkɔ.lʊˈkwuː spɪˈðo a si ˈpa.ðɐ spʊˈzɐː]
+df journalist abhor-pst at 3s.gn father espouse
+The journalist refused to vouch for her father.
+
+##
+
+225.4: semblant "ilk"
+
+semblant /sɛmˈblant/ [sɪmˈblan(t)]
+- ilk, kind, sort, type, a category to which something belongs;
+- appearance, look, aspect, the visible form something or someone presents to others;
+- mien, countenance, expression, the look on a person's face or (by extension) their presumed emotional state
+
+Etymology: from Old French semblant "appearance; resemblance; the look on one's face", originally the present participle of sembler "to seem, resemble", itself from synonymous similāre in Vulgar Latin, a refashioning of Classical similis "like, similar". In the modern language the term usually has dismissive or otherwise deprecating connotations.
+
+Jo poð ceu segr de tal semblant pacentar.
+/ʒo pɔθ tsau sijr̩ de tal sɛmˈblant ˌpa.tsɛnˈtar/
+[ʝo pɔθ tsau ˈsɪ.jɐ de tal sɪmˈblant ˌpa.tsɪnˈtɐː]
+1s can barely man of such type be.patient.to-inf
+I have little patience for men of that ilk.
+
+##
+
+225.5:

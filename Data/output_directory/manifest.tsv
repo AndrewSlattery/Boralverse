@@ -175,7 +175,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 36.2	dictionary	goðou "tunnel"	goðou	tunnel	True	3	147	966	dictionary/36.2_goðou_tunnel.md
 36.3	dictionary	flagitar "insist"	flagitar	insist	True	3	107	714	dictionary/36.3_flagitar_insist.md
 36.4	dictionary	smuïr "shatter"	smuïr	shatter	True	3	116	731	dictionary/36.4_smuïr_shatter.md
-36.5	notes	Wars and Rumours of Wars			False	0	310	1942	notes/36.5_Wars_and_Rumours_of_Wars.md
+36.5	notes	Wars and Rumours of Wars			False	0	294	1849	notes/36.5_Wars_and_Rumours_of_Wars.md
 37.1	excerpt	The Letters in the Study			False	0	235	1340	excerpt/37.1_The_Letters_in_the_Study.md
 37.2	dictionary	seucq "footpath"	seucq	footpath	True	4	162	996	dictionary/37.2_seucq_footpath.md
 37.3	dictionary	svattour "scout"	svattour	scout	True	3	178	1157	dictionary/37.3_svattour_scout.md
@@ -1148,3 +1148,5 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 224.2	dictionary	coricheyar "zhoosh"	coricheyar	zhoosh	True	4	123	786	dictionary/224.2_coricheyar_zhoosh.md
 224.3	dictionary	pighar "bugger"	pighar	bugger	True	3	146	837	dictionary/224.3_pighar_bugger.md
 224.4	dictionary	salbrut "saltpetre"	salbrut	saltpetre	True	2	120	776	dictionary/224.4_salbrut_saltpetre.md
+224.5	notes	Missives through Marsella			False	0	732	4210	notes/224.5_Missives_through_Marsella.md
+225.1	excerpt	Medieval Rouen			False	0	286	1654	excerpt/225.1_Medieval_Rouen.md

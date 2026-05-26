@@ -1090,6 +1090,15 @@
 \lx accordar
 \ps ar v
 
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
+
+\lx accordar
+\ps ar v
+
 \ge agree
 \ge accord
 \ge harmonise
@@ -1097,15 +1106,6 @@
 \ge go
 
 \et Middle Borlish < Latin
-
-\lx accordar
-\ps ar v
-
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -11802,6 +11802,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -11810,16 +11811,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
-
-\lx condamnment
-\ps n
-
-\ge condemnation
-\ge sentence
-
-\et noun from condamnar "condemn"
-\mn condamnar
 
 \lx condamnment
 \ps n
@@ -11828,6 +11819,15 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemnatio, noun from condamnar "condemn"
+\mn condamnar
+
+\lx condamnment
+\ps n
+
+\ge condemnation
+\ge sentence
+
+\et noun from condamnar "condemn"
 \mn condamnar
 
 \lx condensar
@@ -18540,21 +18540,21 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps adj
 
 \ge durable
-\ge stiff
-\ge lasting
-\ge permanent
-\ge resilient
+\ge long-lasting
 
-\et adjective from durar "last"
+\et Adjective from durar
 \mn durar
 
 \lx durabr
 \ps adj
 
 \ge durable
-\ge long-lasting
+\ge stiff
+\ge lasting
+\ge permanent
+\ge resilient
 
-\et Adjective from durar
+\et adjective from durar "last"
 \mn durar
 
 \lx durant
@@ -23439,18 +23439,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossau
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossaveyaçon
 \ps n
@@ -38670,6 +38670,15 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \et Latin novus mundus "new world"
 
+\lx noxal
+\ps n
+
+\ge nitrogen
+\ge nitrogen gas
+\ge N₂
+
+\et Scholastic Latin āēr noxālis "noxal air" < 1674 terra noxālis "muriate of ammony" [NH₄Cl] < c1550 noxaterra < adapted to terra "earth" from c13C Malchassian νοξάτερα < Classical Persian نُشَادِر • nushádir "æq". Noxal air was first isolated in 1772 by combining muriate of ammony with psolic salbrute [KNO₂].
+
 \lx nu
 \ps adj
 
@@ -41076,11 +41085,9 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx par boc
 \ps adv
 
-\ge apparently
-\ge allegedly
-\ge it is said
-\ge they say
-\ge I hear
+\ge spoken
+\ge by mouth
+\ge hearsay
 
 \mn par
 \mn boc
@@ -41088,9 +41095,11 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx par boc
 \ps adv
 
-\ge spoken
-\ge by mouth
-\ge hearsay
+\ge apparently
+\ge allegedly
+\ge it is said
+\ge they say
+\ge I hear
 
 \mn par
 \mn boc
@@ -42150,6 +42159,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
+
+\lx paus
 \ps interj
 
 \ge hang on
@@ -42158,15 +42176,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
-
-\lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -50156,8 +50165,7 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge antiscorbutic
-\ge pertaining to vitamin C
+\ge containing vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -50165,7 +50173,8 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge containing vitamin C
+\ge antiscorbutic
+\ge pertaining to vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -52409,6 +52418,28 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge experience
 
 \et Old Borlish < Latin
+
+\lx sentenç
+\ps n
+
+\ge worldview
+\ge ethos
+\ge outlook
+\ge opinion
+\ge view
+\ge line
+\ge maxim
+\ge aphorism
+\ge dictum
+\ge sentence
+\ge judgement
+\ge judgment
+
+\xv Lorry sentenç no son autrað tras un carantein.
+\xe Their beliefs haven't changed in forty years.
+
+\et borrowed from Latin sententia "opinion, judgment; thought", itself a derivative of sentiō "I feel, perceive, think". The term was first attested in the Middle Boral period in juridical contexts. The "maxim" sense flowered in the moralising literature of the early modern period, when collections of aphorisms circulated widely as pedagogical tools.
+\mn sentir
 
 \lx sentir
 \ps ir1 v
@@ -55094,6 +55125,23 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \et Old Borlish < Old English
 
+\lx sposar
+\ps ar v
+
+\ge espouse
+\ge embrace
+\ge take up
+\ge marry
+\ge wed
+\ge vouch for
+\ge back
+
+\xv Y collocquour spuðau a sy paðr sposar.
+\xe The journalist refused to vouch for her father.
+
+\et Old Borlish, from Latin spōnsō "I promise", the frequentative of spondeō "I pledge solemnly, give my word". The specifically matrimonial reading, not seen until the fifteenth century, may be a later back-formation from related spous "husband, wife".
+\mn spous
+
 \lx spous
 \ps n
 
@@ -57022,6 +57070,17 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \mn tar
 
 \sd Planets
+
+\lx tar noxal
+\ps n
+
+\ue historical
+\ge sal ammoniac
+\ge ammonium chloride
+\ge NH₄Cl
+
+\et terra noxālis "muriate of ammony" [NH₄Cl] < c1550 noxaterra < adapted to terra "earth" from c13C Malchassian νοξάτερα < Classical Persian نُشَادِر • nushádir "æq". Noxal air was first isolated in 1772 by combining muriate of ammony with psolic salbrute [KNO₂].
+\mn noxal
 
 \lx tar yembr
 \ps r v
