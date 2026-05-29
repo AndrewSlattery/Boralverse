@@ -38,7 +38,7 @@ evesquað "bishopric"
 modo magno "writ large"
 maugrfeyar "marginalise, sideline"
 pardurar "endure, persist" | pardurant "enduring, long-lasting, persistent"
-pacentar "be patient to"
+pacentar "be patient to, put up with"
 
 fought, contested
 gone, missing, used up
