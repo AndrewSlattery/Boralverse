@@ -15,7 +15,8 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 3.5	notes	Dane Settlements in the Isles			False	0	252	1684	notes/3.5_Dane_Settlements_in_the_Isles.md
 4.1	excerpt	Rise of the Stadbund			False	0	253	1583	excerpt/4.1_Rise_of_the_Stadbund.md
 4.2	dictionary	spait "scared"	spait	scared	True	3	138	833	dictionary/4.2_spait_scared.md
-4.3	dictionary	autoschedon "hand-to-hand combat"	autoschedon	hand-to-hand combat	True	6	296	1913	dictionary/4.3_autoschedon_hand-to-hand_combat.md
+4.3	dictionary	autoschedon "hand-to-hand combat"	autoschedon	hand-to-hand combat	True	2	124	867	dictionary/4.3_autoschedon_hand-to-hand_combat.md
+4.4	dictionary	belem "scene"	belem	scene	True	4	168	1019	dictionary/4.4_belem_scene.md
 4.5	notes	Early Borlish Heresy			False	0	251	1711	notes/4.5_Early_Borlish_Heresy.md
 5.1	excerpt	Convoluted Schemes			False	0	300	1823	excerpt/5.1_Convoluted_Schemes.md
 5.2	dictionary	praxitel "sculptor"	praxitel	sculptor	True	5	236	1495	dictionary/5.2_praxitel_sculptor.md
@@ -55,7 +56,8 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 12.1	excerpt	Flaxen Hearts			False	0	267	1650	excerpt/12.1_Flaxen_Hearts.md
 12.2	dictionary	scarrad yarcer "crossword"	scarrad yarcer	crossword	True	3	150	1053	dictionary/12.2_scarrad_yarcer_crossword.md
 12.3	dictionary	moðnaut "sailor"	moðnaut	sailor	True	2	161	1098	dictionary/12.3_moðnaut_sailor.md
-12.4	dictionary	flaðrar "climb"	flaðrar	climb	True	3	398	2587	dictionary/12.4_flaðrar_climb.md
+12.4	dictionary	flaðrar "climb"	flaðrar	climb	True	3	133	861	dictionary/12.4_flaðrar_climb.md
+12.5	notes	Linguistic Exam Questions			False	0	260	1686	notes/12.5_Linguistic_Exam_Questions.md
 13.1	excerpt	Early Borlish History			False	0	239	1354	excerpt/13.1_Early_Borlish_History.md
 13.2	dictionary	hortumesc "filthy"	hortumesc	filthy	True	2	135	942	dictionary/13.2_hortumesc_filthy.md
 13.3	dictionary	groglon "brook"	groglon	brook	True	2	145	837	dictionary/13.3_groglon_brook.md
@@ -150,7 +152,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 31.2	dictionary	vellisquar “scheme”			True	2	132	905	dictionary/31.2_vellisquar_“scheme”.md
 31.3	dictionary	guyer “anti-clockwise”			True	2	120	831	dictionary/31.3_guyer_“anti-clockwise”.md
 31.4	dictionary	bacchabond “Dionysian”			True	2	146	1001	dictionary/31.4_bacchabond_“Dionysian”.md
-31.5	notes	The Deviance movement			False	0	559	3665	notes/31.5_The_Deviance_movement.md
+31.5	notes	The Deviance movement			False	0	559	3663	notes/31.5_The_Deviance_movement.md
 32.1	excerpt	A Bookshop			False	0	229	1285	excerpt/32.1_A_Bookshop.md
 32.2	dictionary	suðel "patch"	suðel	patch	True	3	133	801	dictionary/32.2_suðel_patch.md
 32.3	dictionary	oblimanç "passion"	oblimanç	passion	True	2	184	1207	dictionary/32.3_oblimanç_passion.md
@@ -220,10 +222,11 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 45.2	dictionary	sortir ag vousc "to tryst"	sortir ag vousc	to tryst	True	2	187	1178	dictionary/45.2_sortir_ag_vousc_to_tryst.md
 45.3	dictionary	ollem "elm"	ollem	elm	True	2	169	959	dictionary/45.3_ollem_elm.md
 45.4	dictionary	birgasq "apricot"	birgasq	apricot	True	4	169	1101	dictionary/45.4_birgasq_apricot.md
-45.5	notes	Willemy			False	0	425	2587	notes/45.5_Willemy.md
+45.5	notes	Willemy			False	0	425	2586	notes/45.5_Willemy.md
 46.1	excerpt	Wearing a Mask or a Suit (cont.)			False	0	232	1261	excerpt/46.1_Wearing_a_Mask_or_a_Suit_(cont.).md
 46.2	dictionary	bro "dude"	bro	dude	True	2	164	1036	dictionary/46.2_bro_dude.md
-46.3	dictionary	descorçar "peer"	descorçar	peer	True	6	320	2065	dictionary/46.3_descorçar_peer.md
+46.3	dictionary	descorçar "peer"	descorçar	peer	True	3	162	1028	dictionary/46.3_descorçar_peer.md
+46.4	dictionary	gevou "watch out!"	gevou	watch out!	True	3	153	1004	dictionary/46.4_gevou_watch_out!.md
 46.5	notes	Channels			False	0	427	2773	notes/46.5_Channels.md
 47.1	excerpt	King James Stew			False	0	250	1428	excerpt/47.1_King_James_Stew.md
 47.2	dictionary	un tarç dagr "neither fish nor fowl"	un tarç dagr	neither fish nor fowl	True	3	209	1261	dictionary/47.2_un_tarç_dagr_neither_fish_nor_fowl.md
@@ -593,7 +596,8 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 116.2	dictionary	ðar "farming"	ðar	farming	True	3	156	1010	dictionary/116.2_ðar_farming.md
 116.3	dictionary	veðrvent "vane"	veðrvent	vane	True	3	178	1215	dictionary/116.3_veðrvent_vane.md
 116.4	dictionary	clou "segment"	clou	segment	True	3	148	843	dictionary/116.4_clou_segment.md
-116.5	notes	Kernovan Conjuring			False	0	536	3348	notes/116.5_Kernovan_Conjuring.md
+116.5	notes	Kernovan Conjuring			False	0	271	1675	notes/116.5_Kernovan_Conjuring.md
+117.1	excerpt	New Urban Mesh			False	0	260	1643	excerpt/117.1_New_Urban_Mesh.md
 117.2	dictionary	mallovicher "naïve"	mallovicher	naïve	True	2	175	1091	dictionary/117.2_mallovicher_naïve.md
 117.3	dictionary	grabattour "paramedic"	grabattour	paramedic	True	2	124	881	dictionary/117.3_grabattour_paramedic.md
 117.4	dictionary	extollir "elevate"	extollir	elevate	True	3	106	688	dictionary/117.4_extollir_elevate.md
@@ -1001,7 +1005,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 196.2	dictionary	entrjair "interpose"	entrjair	interpose	True	3	113	750	dictionary/196.2_entrjair_interpose.md
 196.3	dictionary	irruniscabiltað "contradiction"	irruniscabiltað	contradiction	True	3	133	960	dictionary/196.3_irruniscabiltað_contradiction.md
 196.4	dictionary	droughanç "contribution"	droughanç	contribution	True	3	108	745	dictionary/196.4_droughanç_contribution.md
-196.5	notes	Alster Almanac			False	0	300	1857	notes/196.5_Alster_Almanac.md
+196.5	notes	Alster Almanac			False	0	300	1856	notes/196.5_Alster_Almanac.md
 197.1	excerpt	If I Believed			False	0	552	3011	excerpt/197.1_If_I_Believed.md
 197.2	dictionary	aðm "treasure"	aðm	treasure	True	4	158	1039	dictionary/197.2_aðm_treasure.md
 197.3	dictionary	plouçastr "theatre"	plouçastr	theatre	True	4	133	959	dictionary/197.3_plouçastr_theatre.md
@@ -1030,7 +1034,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 201.1	excerpt	Lexember 2025 - 22: niveu "set"			True	2	348	2216	excerpt/201.1_Lexember_2025_-_22_niveu_set.md
 201.2	dictionary	Lexember 2025 - 23: jahesment "set"	Lexember 2025 - 23: jahesment	set	True	2	119	814	dictionary/201.2_Lexember_2025_-_23_jahesment_set.md
 201.3	dictionary	Lexember 2025 - 24: jagatteyar "set"	Lexember 2025 - 24: jagatteyar	set	True	3	116	787	dictionary/201.3_Lexember_2025_-_24_jagatteyar_set.md
-201.4	dictionary	Lexember 2025 - 25: Suthocq "Set"	Lexember 2025 - 25: Suthocq	Set	True	3	235	1503	dictionary/201.4_Lexember_2025_-_25_Suthocq_Set.md
+201.4	dictionary	Lexember 2025 - 25: Suthocq "Set"	Lexember 2025 - 25: Suthocq	Set	True	3	235	1502	dictionary/201.4_Lexember_2025_-_25_Suthocq_Set.md
 201.5	notes	Lexember 2025 - 26: bot "set"			True	3	451	2831	notes/201.5_Lexember_2025_-_26_bot_set.md
 201.6	dictionary	Lexember 2025 - 27: ormal "set"	Lexember 2025 - 27: ormal	set	True	4	193	1207	dictionary/201.6_Lexember_2025_-_27_ormal_set.md
 201.7	dictionary	Lexember 2025 - 28: uscar "set"	Lexember 2025 - 28: uscar	set	True	4	163	996	dictionary/201.7_Lexember_2025_-_28_uscar_set.md
@@ -1084,7 +1088,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 211.3	dictionary	lon mensc "dishonourable"	lon mensc	dishonourable	True	3	140	948	dictionary/211.3_lon_mensc_dishonourable.md
 211.4	dictionary	haval fair "play pretend"	haval fair	play pretend	True	3	125	784	dictionary/211.4_haval_fair_play_pretend.md
 211.5	notes	Who's Who (1900s Edition)			False	0	298	1885	notes/211.5_Who's_Who_(1900s_Edition).md
-212.1	excerpt	Spring Sorties			False	0	335	2037	excerpt/212.1_Spring_Sorties.md
+212.1	excerpt	Spring Sorties			False	0	335	2035	excerpt/212.1_Spring_Sorties.md
 212.2	dictionary	routuron "commoner"	routuron	commoner	True	2	119	834	dictionary/212.2_routuron_commoner.md
 212.3	dictionary	quoncein "young adulthood"	quoncein	young adulthood	True	3	173	1152	dictionary/212.3_quoncein_young_adulthood.md
 212.4	dictionary	benoyour "medium"	benoyour	medium	True	2	174	1129	dictionary/212.4_benoyour_medium.md
@@ -1150,3 +1154,11 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 224.4	dictionary	salbrut "saltpetre"	salbrut	saltpetre	True	2	120	776	dictionary/224.4_salbrut_saltpetre.md
 224.5	notes	Missives through Marsella			False	0	732	4210	notes/224.5_Missives_through_Marsella.md
 225.1	excerpt	Medieval Rouen			False	0	286	1654	excerpt/225.1_Medieval_Rouen.md
+225.2	dictionary	sentenç "worldview"	sentenç	worldview	True	4	145	990	dictionary/225.2_sentenç_worldview.md
+225.3	dictionary	sposar "vouch for"	sposar	vouch for	True	3	111	696	dictionary/225.3_sposar_vouch_for.md
+225.4	dictionary	semblant "ilk"	semblant	ilk	True	3	133	881	dictionary/225.4_semblant_ilk.md
+225.5	notes	Cráyenschot in Context			False	0	415	2555	notes/225.5_Cráyenschot_in_Context.md
+226.1	excerpt	The Heir and the Spare			False	0	346	1932	excerpt/226.1_The_Heir_and_the_Spare.md
+226.2	dictionary	cateu "nasty"	cateu	nasty	True	5	177	1151	dictionary/226.2_cateu_nasty.md
+226.3	dictionary	ligaçon "link"	ligaçon	link	True	4	158	988	dictionary/226.3_ligaçon_link.md
+226.4	dictionary	vasir "vizier"	vasir	vizier	True	4	146	998	dictionary/226.4_vasir_vizier.md
