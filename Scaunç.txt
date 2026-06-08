@@ -31195,4 +31195,36 @@ The vizier continued accruing influence.
 
 ##
 
+226.5: London after the Democratic Wars
 
+    from The Alphabetical Albion, an encyclopedia of the political history of Albion [Great Britain] published in 1920 by Winchester Scholastic Primers. It compiled the work of a consortium of historians; section D (The Democratic Wars), from which the below has been excerpted, was principally composed by Heleth Bellamy, sister of the more famous author Clarissa Bellamy.
+
+…a global crisis of legitimacy for the concept of hereditary rule. The deposition of the Kentish monarchy over the course of 1741 to 1746 is perhaps the region's most spectacular development. Nonetheless, the same forces that drove the revolutions and wars to the south also gave London the impetus to declare independence in 1748 (and for its independence to be recognised by its neighbours the following year).
+
+Is it important that London's first monarch as an independent polity, Queen Margaret, was a woman? Any royal who could, as she could, claim familial connections to both the house of Markland and the recently attainted house of Kent would likely have sufficed, but the political convenience of Margaret's specific position cannot be overstated. Markland had been in the habit of bestowing rule of London onto the younger sons of its kings and queens (as Margaret's father was) for the last two centuries. For its part, Kent had never been so much in the habit of queens as Markland was, and so despite the fact that Margaret's mother was the executed Kentish king's sister, she was not considered a likely candidate for revanchist pro-monarchist factions in Kent to rally around.
+
+In any case, like many of the royals who managed to retain their positions in the aftermath of the Democratic Wars (compare the kings of Madray [Madurai] or Nackon Dai [Thailand]), Queen Margaret's political powers were significantly trammelled. The elected position of Lord Mayor, which had garnered ever more influence since the days of the Medieval Imperia, was…
+
+[attached: a map of the borders of the polity of London in 1755 N, some years following the end fo the Democratic Wars in Albion. Its neighbours are Markland to the north, Britain to the west, and Kent to the south.]
+
+##
+
+227.1: King Stillian
+
+notes in translation on a medieval king.
+
+Stiglan d'Istr Boral sta rey sur Istr Boral Roman ny siecr ogt nuverrem e nouf primal.
+Stillian of Borland was king of Roman Borland in the late eighth and early ninth centuries.
+
+L'oc Preu Reyaum d'Istr Boral noncupað aye se grandið des y Dioces Boral dell'asc sou y Roman durant y Mitað-Asc joun, stant denuð un monarchy cos parallel con (e plausibr influïð par) y reyaum petty novel instançað par pouvlanç Germannesc nell'ovest e ny souð d'Istr Boral.
+This so-called First Kingdom of Borland had grown out of the sub-Roman Diocese of Boral in the early medieval period, having become a monarchy in tandem with (and possibly influenced by) the new petty kingdoms settled by Germanic peoples in the west and south of the island of Borland.
+
+Com toð y rey d'Istr Boral Roman, Stiglan da pretenjon ig star un prosequent de Victor Rossetus, y parson meg mythic oc ayent bempart l'eiðel uinð posc autortað Roman de starn slognau ny siecr cinq.
+Like all kings of Roman Borland, Stillian claimed to be descended from Victor Rossetus, the semi-mythic figure who united much of the land once external Roman authority receded in the fifth century.
+
+Y nom Stiglan es congenið dy parol Latin Hostīliānus, ant bustr tesmogn tan com y nom d'un emperour Roman oc regnant brey d'an 251 N.
+The name Stillian descends from Latin Hostīliānus, attested also as the name of a Roman emperor who ruled briefly in 251 N.
+
+##
+
+227.2: 

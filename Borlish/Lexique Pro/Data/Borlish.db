@@ -11832,6 +11832,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -11840,7 +11841,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
 
 \lx condamnment
 \ps n
@@ -12100,6 +12100,22 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et noun derivation from confraðr
 \mn confraðr
+
+\lx congenir
+\ps ir2 v
+
+\ge conceive
+\ge beget
+\ge be the ancestor of
+\ge create
+\ge generate
+\ge originate
+\ge invent
+
+\xv Y parol 'sauð' e 'veð' son congenið de Veðr Norresc.
+\xe The words 'ewe' and 'ram' descend from Old Norrish.
+
+\et from Scholastic Latin congenēscō "I bring into being", a regularised derivative of gignō "I beget" (past participle genitus "begotten"). Originally restricted to familial legal contexts, the word had entered the wider lexicon via patent law by the early modern period. In modern usage the verb is preferentially used as an infinitive or participle, although conjugated forms are still well attested.
 
 \lx congeries
 \ps n
@@ -23469,18 +23485,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossau
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossaveyaçon
 \ps n
@@ -50236,7 +50252,8 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge containing vitamin C
+\ge antiscorbutic
+\ge pertaining to vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -50244,8 +50261,7 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge antiscorbutic
-\ge pertaining to vitamin C
+\ge containing vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -62509,16 +62525,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge volcano
-\ge hothead
 
-\et Italian < Latin Vulcanus
+\et Italian, from Latin Vulcanus
 
 \lx volcan
 \ps n
 
 \ge volcano
+\ge hothead
 
-\et Italian, from Latin Vulcanus
+\et Italian < Latin Vulcanus
 
 \lx volir
 \ps ir1 v
