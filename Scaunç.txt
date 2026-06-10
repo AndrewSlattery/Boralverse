@@ -31227,4 +31227,90 @@ The name Stillian descends from Latin Hostīliānus, attested also as the name o
 
 ##
 
-227.2: 
+227.2: keyottar "pamper"
+
+keyottar /kjɔˈtar/ [kjʊˈtɐː]
+- pamper, spoil, coddle, indulge, to treat with excessive care or leniency;
+- cosset, mollycoddle, overprotect, to shield someone from hardship or worldly experience to an excessive degree;
+- nurse, baby, treat gingerly, to handle a delicate object or smarting body part with exaggerated care;
+- humour, pander to, to refrain from pushing back against [someone's] whims or demands
+
+Etymology: Middle Borlish, diminutive formation from older keyar (also caiȝar) "look after, tend to". This descends from Vulgar Latin cavicō "take care of", frequentative derivation from Classical caveō "beware of, look out for".
+
+Skig le keyottar; luy stou noc un douçur may.
+/skaj le kjɔˈtar | laj stu nɔk ɪn duˈtsɪr me/
+[skai le kjʊˈtɐː | laj stu nɔ‿gɪn dʊˈtsɪː me]
+refrain 3s.m spoil-inf | 3s.obl need ng indf dessert more
+Don't pamper him; he doesn't need more pudding.
+
+##
+
+227.3: ognt "bribe"
+
+ognt /ɔjnt/ [ɔint]
+- bribe, kickback, sweetener, a payment or favour given to corrupt another's conduct;
+- sop, inducement, palliative, a small concession offered to placate or quieten someone;
+- (literal, formal) grease, ointment, salve, unguent, a fatty substance used to lubricate or anoint;
+- (figurative) unction, flattery, blandishment, soft soap, smooth or unctuous talk meant to ingratiate
+
+Etymology: direct descendant of Latin ūnctus "anointment", nominal derivation from ungō "I anoint, smear with oil". Rarely used for actual anointing substances in the modern language, except in ceremonial contexts. Metaphorical extension to favours and concessions is attested since the early Middle Borlish period.
+
+Y greffour encromnau l'ognt e "pardeu" y delt.
+/i grɛˈfur ˌɛn.krɔmˈno lɔjnt e parˈdaw i dɛlt/
+[i gʀɪˈfʊː‿ˌʀɛŋ.kʀʊmˈno lɔint e pɐːˈdaw i dɛlt]
+df clerk pocket-pst df=sop and lose-pst df record
+The clerk pocketed the bribe and "lost" the file.
+
+##
+
+227.4: bleic "wan"
+
+bleic /blik/ [blik]
+- wan, pallid, ashen, drained of healthy colour;
+- faint, feeble, washed-out, lacking brightness or saturation;
+- weak, half-hearted, lacking warmth or conviction;
+- bleak, cheerless, desolate, offering little comfort
+
+Etymology: from Old Borlish bleic "pale, whitish", a borrowing of synonymous bleikr in Old Norse, which reflects Classical German blaecas "white". The word was crowded out of neutral usage by blanc "white" in the Middle Borlish period, and now carries contemptuous or unpromising connotations.
+
+Y sol yemal splendisce con for un lumner bleic.
+/i sɔl jeˈmal ˌsplɛn.diˈxe kɔn fɔr ɪn lɪmˈnɛr blik/
+[i sɔl ʝɪˈmal ˌsplɛn.dɪˈçe kɔɱ fɔː‿ʀɪn lɪmˈnɛː blik]
+df sun wintry shine-ipf with only indf light wan
+The winter sun shone with a washed-out light.
+
+##
+
+227.5: Merch Colours
+
+excerpt from the afterwords of the Concise Onomatory o'Merch (sixth edition), a reference work published in 2001 and compiled by the Utcheter [Uttoxeter] Lexical Association.
+
+…februum "offerings as a means of purification".
+
+5. Colours
+
+There are generally considered to be twelve fundaminal colour words in Merch; that is, colour words which are not merely specific kinds of a more general colour (for example, the colour "butter" is a pale kind of yellow).
+
+Half of these terms descend almost unchanged in meaning from Classical German [Proto-Germanic] adjectives through Old English.
+
+Merch | white black grene yellow brown grey [/fəit blak griːn ˈjɛ.lə brəun grəi/]
+Old English | hwīt blæc grœ̄ne geolu brūn grēg
+Classical German | ƕītas blacas grōnis gelvas brūnas grēvas
+
+Two more are German but have undergone minor shifts in meaning. Rud [/ɾʊd/] reflects the Old English noun rudu "rudness", from synonymous rudō in Classical German. Glear [/gleː/] appears to reflect Old English glær "amber", presumably influenced in sense by Old Norrish glær "clear, see-through"; the former comes from Classical German glēsam "amber; glass", related to the latter's origin in glaevis "shining, bright".
+
+Blew [/bləu/] is German in origin—its ancestor is Classical German blēvas "blew"—but it made its way via Frankish into Old French bleu and then via Norman into early Merch bleu; the word's native sibling blo survives in Northumber with the sense "dark-skinned".
+
+The remaining three colour words are of non-German origin. Rose [/ɾuːz/] is seen in the flower sense as early as the tenth century, borrowed from synonymous rosa in Latin, itself presumably connected to the Greek ῥόδον • rhódon "rose". It is first seen as a colour word in the early Merch of the thirteenth century. 
+
+Pursy [/ˈpoː.zi/] is a hybrid form combining two older words. The first is Old English purpul, a borrowing from Latin purpura "the purple shellfish, or a dye produced from it". The second is early Merch perse "a dark blew colour, or a fabric in this colour", a borrowing from synonymous pers in Norman and persecum in contemporary Latin, perhaps referring to a cloth or dye imported from the Persias. These two words merged and acquired the adjective suffix -y (from Old English -ig) to produce the modern form.
+
+Narage [/ˈna.ɾədʒ/] entered early Merch in reference to the fruit, borrowed from Norman narage, narange, which made its way across Europe from Arabic نارنج • nāranj, itself coming via Persian from Sanscrit नारङ्ग • nāranga "narage tree".
+
+6. Dime measures
+
+While the foot and league pre-date the modern system of dime measures by…
+
+##
+
+228.1:

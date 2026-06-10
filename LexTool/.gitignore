@@ -1,5 +1,0 @@
-# Session backups and transient write artifacts — never commit these.
-backups/
-*.bak
-*.tmp
-_httptest.db

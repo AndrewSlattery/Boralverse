@@ -1162,3 +1162,8 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 226.2	dictionary	cateu "nasty"	cateu	nasty	True	5	177	1151	dictionary/226.2_cateu_nasty.md
 226.3	dictionary	ligaçon "link"	ligaçon	link	True	4	158	988	dictionary/226.3_ligaçon_link.md
 226.4	dictionary	vasir "vizier"	vasir	vizier	True	4	146	998	dictionary/226.4_vasir_vizier.md
+226.5	notes	London after the Democratic Wars			False	0	352	2148	notes/226.5_London_after_the_Democratic_Wars.md
+227.1	excerpt	King Stillian			False	0	248	1440	excerpt/227.1_King_Stillian.md
+227.2	dictionary	keyottar "pamper"	keyottar	pamper	True	4	141	885	dictionary/227.2_keyottar_pamper.md
+227.3	dictionary	ognt "bribe"	ognt	bribe	True	4	142	957	dictionary/227.3_ognt_bribe.md
+227.4	dictionary	bleic "wan"	bleic	wan	True	4	120	781	dictionary/227.4_bleic_wan.md

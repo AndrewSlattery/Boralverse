@@ -6740,6 +6740,26 @@
 
 \et Old Borlish < Old English
 
+\lx bleic
+\ps adj
+
+\ge wan
+\ge pallid
+\ge ashen
+\ge faint
+\ge feeble
+\ge washed-out
+\ge weak
+\ge half-hearted
+\ge bleak
+\ge cheerless
+\ge desolate
+
+\xv Y sol yemal splendisce con for un lumner bleic.
+\xe The winter sun shone with a washed-out light.
+
+\et from Old Borlish bleic "pale, whitish", a borrowing of synonymous bleikr in Old Norse, which reflects Classical German blaecas "white". The word was crowded out of neutral usage by blanc "white" in the Middle Borlish period, and now carries contemptuous or unpromising connotations.
+
 \lx bloc
 \ps n
 
@@ -11832,7 +11852,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -11841,6 +11860,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnment
 \ps n
@@ -16104,19 +16124,19 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps ar v
 
 \ge decipher
-\ge make out
-\ge translate
-\ge simplify
+\ge decode
 
-\et Old Borlish < Medieval Latin < Arabic
+\mn scifr
 
 \lx descifrar
 \ps ar v
 
 \ge decipher
-\ge decode
+\ge make out
+\ge translate
+\ge simplify
 
-\mn scifr
+\et Old Borlish < Medieval Latin < Arabic
 
 \lx descombr
 \ps r v
@@ -18586,21 +18606,21 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps adj
 
 \ge durable
-\ge long-lasting
-
-\et Adjective from durar
-\mn durar
-
-\lx durabr
-\ps adj
-
-\ge durable
 \ge stiff
 \ge lasting
 \ge permanent
 \ge resilient
 
 \et adjective from durar "last"
+\mn durar
+
+\lx durabr
+\ps adj
+
+\ge durable
+\ge long-lasting
+
+\et Adjective from durar
 \mn durar
 
 \lx durant
@@ -19894,6 +19914,15 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \lx ensign
 \ps n
 
+\ge engraving
+\ge carving
+\ge suit
+
+\et Old Borlish < Latin
+
+\lx ensign
+\ps n
+
 \ge emblem
 \ge logo
 \ge symbol
@@ -19911,15 +19940,6 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \xe I will recommend you for a higher position.
 
 \et Middle Borlish, a semilearned borrowing from Latin insignia "emblem, badge", a noun formation from adjective insignis "marked, distinguished". The word has been used metonymically to refer to the position conferred or represented by an insignia since the fifteenth century, and it has been used in card games from approximately the same time.
-
-\lx ensign
-\ps n
-
-\ge engraving
-\ge carving
-\ge suit
-
-\et Old Borlish < Latin
 
 \lx ensignar
 \ps ar v
@@ -20760,6 +20780,14 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ge bishop
 
 \et Old Borlish < Old French < Late Latin episcopus < Ancient Greek ἐπίσκοπος
+
+\lx evesquað
+\ps n
+
+\ge bishopric
+
+\et derivation from evesq "bishop"
+\mn evesq
 
 \lx evidenç
 \ps n
@@ -31164,6 +31192,27 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et from Old Borlish key, keȝ, caiȝ "toggle, dowel, pin for securing rope or fabric", a dialect form of stanard caiȝle /ke(j)ʎə/ (soon lost). This reflects Vulgar Latin cavicla (cf. French cheville, Venisian caúcia), from Classical Latin clavicula "bolt, bar, small key".
 
+\lx keyottar
+\ps ar v
+
+\ge pamper
+\ge spoil
+\ge coddle
+\ge indulge
+\ge cosset
+\ge mollycoddle
+\ge overprotect
+\ge nurse
+\ge baby
+\ge treat gingerly
+\ge humour
+\ge pander to
+
+\xv Skig le keyottar; luy stou noc un douçur may.
+\xe Don't pamper him; he doesn't need more pudding.
+
+\et Middle Borlish, diminutive formation from older keyar (also caiȝar) "look after, tend to". This descends from Vulgar Latin cavicō "take care of", frequentative derivation from Classical caveō "beware of, look out for".
+
 \lx kic
 \ps n
 
@@ -37294,6 +37343,16 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \et Old Borlish < Latin
 
+\lx mythic
+\ps adj
+
+\ge mythical
+\ge mythic
+\ge legendary
+
+\et Scholastic Latin < Greek
+\mn mythos
+
 \lx mythos
 \ps n
 
@@ -39510,6 +39569,29 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Old Borlish < Latin
 
+\lx ognt
+\ps n
+
+\ge bribe
+\ge kickback
+\ge sweetener
+\ge sop
+\ge inducement
+\ge palliative
+\ge grease
+\ge ointment
+\ge salve
+\ge unguent
+\ge soft soap
+\ge unction
+\ge flattery
+\ge blandishment
+
+\xv Y greffour encromnau l'ognt e "pardeu" y delt.
+\xe The clerk pocketed the bribe and "lost" the file.
+
+\et direct descendant of Latin ūnctus "anointment", nominal derivation from ungō "I anoint, smear with oil". Rarely used for actual anointing substances in the modern language, except in ceremonial contexts. Metaphorical extension to favours and concessions is attested since the early Middle Borlish period.
+
 \lx ogt
 \ps num
 
@@ -41172,11 +41254,9 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx par boc
 \ps adv
 
-\ge apparently
-\ge allegedly
-\ge it is said
-\ge they say
-\ge I hear
+\ge spoken
+\ge by mouth
+\ge hearsay
 
 \mn par
 \mn boc
@@ -41184,9 +41264,11 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx par boc
 \ps adv
 
-\ge spoken
-\ge by mouth
-\ge hearsay
+\ge apparently
+\ge allegedly
+\ge it is said
+\ge they say
+\ge I hear
 
 \mn par
 \mn boc
@@ -42246,6 +42328,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
+
+\lx paus
 \ps interj
 
 \ge hang on
@@ -42254,15 +42345,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
-
-\lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -59239,19 +59321,19 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge transmigration
-\ge relocation
-\ge nomadism
+\ge relocate
 
-\et noun from tramigrar
+\et noun from tramigrar "transmigrate".
 \mn tramigrar
 
 \lx tramigraçon
 \ps n
 
 \ge transmigration
-\ge relocate
+\ge relocation
+\ge nomadism
 
-\et noun from tramigrar "transmigrate".
+\et noun from tramigrar
 \mn tramigrar
 
 \lx tramigrar
@@ -62525,16 +62607,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge volcano
+\ge hothead
 
-\et Italian, from Latin Vulcanus
+\et Italian < Latin Vulcanus
 
 \lx volcan
 \ps n
 
 \ge volcano
-\ge hothead
 
-\et Italian < Latin Vulcanus
+\et Italian, from Latin Vulcanus
 
 \lx volir
 \ps ir1 v

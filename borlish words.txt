@@ -1,70 +1,43 @@
-regres "return journey" | regres fair "journey back"
+accoglir "welcome, receive gladly" | accoglent "welcoming, hospitable" < accolligo
+bogr ðesmbal "unsurprising" < procul + adaestimo + ball
+carteyar "map, chart" < charta
+cauf "bald" | cauvar "to bald" | cauvant "balding" | cauvanç "balding" < calvus
+chthony "geology" | chthonic "underground, geological" < greek
+contrsalubr "disadvantageous, unfavourable" < contra + salubrius
+cubicr "bedsit, studio" < cubiculum
+cuindr "kernel" < cyrnel in OE
+depoussar "cashier, fire" < depulso
+desracinar "uproot" | desracinað "rootless" < des- + racin "root" < radicina
+destourm "discharge, demobbing" < turma
+empory "economy" < emporium
+entrjainç "section, interjection, excerpt" < jacio "throw"
 extirpar "eradicate, extirpate" | extirpaçon "eradication, extinction"
-destourm "discharge, demobbing"
-trocour "trader, investor, stockbroker"
-depoussar "cashier, fire"
-chthony "geology" | chthonic "underground, geological"
-entrjainç "section, interjection, excerpt"
+geoscopy "exploration, globe-trotting"
+glonscellous "knotty, problematic" < glonscel "tangle"
+greffour "clerk" < graphium
+laðr "plough"
+lon mensc "dishonourable"
+lucraðeu "profitable, lucrative, wealthy, rich"
 lunatic "lunatic"
-accoglir "welcome, receive gladly" | accoglent "welcoming, hospitable"
+maugrfeyar "marginalise, sideline"
 mescomprenjon "misunderstanding"
-desracinar "uproot" | desracinað "rootless"
+meyaular "meow, pule, whine" < onom
+modo magno "writ large"
+narc "step-" < noverca
+oraçoir "stormy weather, thunderstorm, a storm zone"
+ornat "livery, uniform" < ornatus
+pacentar "be patient to, put up with"
+panditour "intellectual, thinker" cf pundit
+pardurar "endure, persist" | pardurant "enduring, long-lasting, persistent"
+parnommanç "reputation"
+quinment "impact, strike, collision"
+regres "return journey" | regres fair "journey back"
 rimbangam "garter"
 sabler "hourglass" < sabr
-quinment "impact, strike, collision"
-contrsalubr "disadvantageous, unfavourable"
-lon mensc "dishonourable"
-laðr "plough"
-oraçoir "stormy weather, thunderstorm, a storm zone"
-cubicr "bedsit, studio"
-parnommanç "reputation"
-bogr ðesmbal "unsurprising"
-tranqment "exactness, accuracy, precision, reliability"
-ognt "bribe, sop"
-empory "economy"
-stoccour "thug" | stoccar "bludgeon, club"
-vasir "vizier" < arabic
-panditour "intellectual, thinker" cf pundit
-sogn fair "dream, act irrationally"
-lucraðeu "profitable, lucrative, wealthy, rich"
-cuindr "kernel" < cyrnel
-ornat "livery, uniform" < ornatus
-cauf "bald" | cauvar "to bald" | cauvant "balding" | cauvanç "balding"
 seget "crop" < L seges
-geoscopy "exploration, globe-trotting"
-carteyar "map, chart"
-evesquað "bishopric"
-modo magno "writ large"
-maugrfeyar "marginalise, sideline"
-pardurar "endure, persist" | pardurant "enduring, long-lasting, persistent"
-pacentar "be patient to, put up with"
-glonscellous "knotty, problematic" < glonscel "tangle"
-spagent "fearful" < spagir < expaveo
-bleic "wan, pallid" < OE or ON cf bleak
+sogn fair "dream, act irrationally"
 souðurr "smoulder" < ðurr "light on fire" < adūrō
-meyaular "meow, pule, whine" < onom
-keyottar "pamper" < cavicō < caveō
-narc "step-" < noverca
-
-fought, contested
-gone, missing, used up
-gotten
-had
-heard
-held
-kept
-laid
-led
-met, satisfied
-paid
-said
-sat, sitting, seated
-seen
-sent, ecstatic
-stood, standing, erect
-struck, taken aback
-taken
-told
-understood, roger, wilco
-woke
-won
+spagent "fearful" < spagir < expaveo
+stoccour "thug" | stoccar "bludgeon, club"
+tranqment "exactness, accuracy, precision, reliability"
+trocour "trader, investor, stockbroker"
