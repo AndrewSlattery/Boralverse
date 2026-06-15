@@ -5647,7 +5647,7 @@
 
 \ge cod
 
-\xv J'oyeu ne Horð il pascn for bakilau.
+\xv J'oyeu ne Horð ðe pascn for bakilau.
 \xe I heard that in Horth they only eat cod.
 
 \et contested. Extant from 9C as cabeilau, bacalau (among other variants), from Middle Dutch (Mi-Willem), cf. French cabillaud “cod”. Entered Middle Dutch either from some derivation of baculum “stick, rod”, or else from Basque kabailao “cod”. Formerly assumed to be a direct loan from Vask into Boral – see also other naval/fishing terminology like hagr “mast" – but this is now considered phonetically untenable.
@@ -5908,7 +5908,7 @@
 \ge shepherdess
 \ge guide
 
-\xv Y soldart eð y barvier vencoirn y dragon e soulor allagr vescoirn il.
+\xv Y soldart eð y barvier vencoirn y dragon e soulor allagr vescoirn ðe.
 \xe The soldier and the shepherdess killed the dragon and lived happily ever after.
 
 \et many forms are attested in Old Boral (approximately 7C-11C); barviar and varvȝair, for example. All are from Vulgar Latin vervecārius, from Latin vervēx “wether, castrated ram”
@@ -7171,7 +7171,7 @@
 \ge scholarship
 \ge grant
 
-\xv Il voun calscon stovent fair por l'oc bors scholer cavir.
+\xv Ðe voun calscon stovent fair por l'oc bors scholer cavir.
 \xe They will do whatever it takes to get this grant.
 
 \et first attested 15C in reference to the New School in Vithor (Viðor).
@@ -7396,7 +7396,7 @@
 \ge ready
 \ge prepared
 
-\xv I me quistau por m'addocir ig bount son il ag quarf.
+\xv I me quistau por m'addocir ig bount son ðe ag quarf.
 \xe She phoned me to say they're en route to the station.
 
 \et from Old Borlish boun "ready, willing", altered to bount by analogy with the present participle ending -nt by the early modern period. This is a borrowing from Old Norse búinn "adapted, fit", the past participle of búa "reside, prepare, decorate". In archaic or poetic use the word may be used as a preposition meaning "about to; approaching".
@@ -9121,14 +9121,6 @@
 
 \et Old Borlish, directly from Vulgar Latin cascūnum "each one", a conflation of Classical quisque ūnum and Late Latin cata ūnum "each one". 
 
-\lx casdir
-\ps adj
-
-\ge left wing
-\ge socialist
-
-\et Arabic
-
 \lx casel
 \ps n
 
@@ -10407,7 +10399,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge party
 \ge bloc
 
-\xv Il aun cascun dou clou a vastel ja paut.
+\xv Ðe aun cascun dou clou a vastel ja paut.
 \xe They've eaten two pieces of cake each.
 
 \et from Old Borlish clou /klu(v)/ "clove (of garlic)", borrowed from synonymous clufu in Old English. The meaning was extended to other portions of things in the Middle Borlish period; in the phrase clou politic "political party" it is attested from the seventeenth century.
@@ -10640,7 +10632,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge neighbourhood
 \ge angle
 
-\xv Il ern l'imascry descorçant ag cogn jagerrem.
+\xv Ðe ern l'imascry descorçant ag cogn jagerrem.
 \xe They were peering at the sculpture in the far corner.
 
 \et Old Borlish < Latin
@@ -12251,17 +12243,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge conspirator
-\ge abettor
+\ge accomplice
 
-\mn conjuraçonnar
+\et Middle Borlish
 
 \lx conjuraçonnour
 \ps n
 
 \ge conspirator
-\ge accomplice
+\ge abettor
 
-\et Middle Borlish
+\mn conjuraçonnar
 
 \lx connardaç
 \ps n
@@ -14544,6 +14536,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \sd Corporals
 
+\lx cuivrmenter
+\ps adj
+
+\ge right-wing
+\ge conservative
+
+\xv Stou y Duc coy l'eç cuivrmenter parmy sull'administration d'autortað may accarr.
+\xe The Duke must stop the right-wing in his regime gaining more influence.
+
+\et 1751, from Arabic نحاس (nuḥās) with the same sense, and originally “copper”. Inspired by the Copper faction in the court of Malik Hisham Al-Rashid (reigned 1601-1610) of Libya, who petitioned against the poor reforms he oversaw. The Copper, and their opposition, the Tin, took their names from the two principal colours of the Libyan banner at the time, which was quartered into two black, one white, and one orange field. These two terms – nohas and casdir – were borrowed into various European languages through the success of the Vascon writer David Bensaíd's treatise on statecraft The Three Cities, which was translated into over twenty languages. Compare for example French nouase, kasdir.
+
 \lx cul
 \ps n
 
@@ -16124,19 +16127,19 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps ar v
 
 \ge decipher
-\ge decode
-
-\mn scifr
-
-\lx descifrar
-\ps ar v
-
-\ge decipher
 \ge make out
 \ge translate
 \ge simplify
 
 \et Old Borlish < Medieval Latin < Arabic
+
+\lx descifrar
+\ps ar v
+
+\ge decipher
+\ge decode
+
+\mn scifr
 
 \lx descombr
 \ps r v
@@ -16176,7 +16179,7 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ge peel
 \ge shell
 
-\xv Il ern l'imascry descorçant ag cogn jagerrem.
+\xv Ðe ern l'imascry descorçant ag cogn jagerrem.
 \xe They were peering at the sculpture in the far corner.
 
 \et originally in the last sense, either a native formation in the Middle Borlish period from noun scorç "bark, peel" and prefix de- indicating reversal or movement away, or else a calque of Latin dēcorticō "I remove the bark or peel" formed in the same way. Metaphorical use is seen almost immediately and by the eighteenth century the verb has almost entirely been supplanted in its literal sense by periphrastic construction scorç delir de "to remove bark/peel from".
@@ -19914,15 +19917,6 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \lx ensign
 \ps n
 
-\ge engraving
-\ge carving
-\ge suit
-
-\et Old Borlish < Latin
-
-\lx ensign
-\ps n
-
 \ge emblem
 \ge logo
 \ge symbol
@@ -19940,6 +19934,15 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \xe I will recommend you for a higher position.
 
 \et Middle Borlish, a semilearned borrowing from Latin insignia "emblem, badge", a noun formation from adjective insignis "marked, distinguished". The word has been used metonymically to refer to the position conferred or represented by an insignia since the fifteenth century, and it has been used in card games from approximately the same time.
+
+\lx ensign
+\ps n
+
+\ge engraving
+\ge carving
+\ge suit
+
+\et Old Borlish < Latin
 
 \lx ensignar
 \ps ar v
@@ -20572,7 +20575,7 @@ Cognate with Borlish speut "free, unfettered, clear", the word épu reflects Old
 \ge extricate
 \ge steal
 
-\xv M'orruð il ain l'oc sorty erreut cos pernix.
+\xv M'orruð ðe ain l'oc sorty erreut cos pernix.
 \xe I think they really turned this party around.
 
 \et from Old Borlish erevre, ereveir, from Latin ēripiō "I rescue, save, deliver, set free". Some forms show a conjugation shift from Classical ēripere to *ēripēre (compare cavir < *capēre < capere). Cognate with Barcelon erebre "to protect, guard".
@@ -20991,7 +20994,7 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ge walk away
 \ge resign
 
-\xv Il aun ig rekestað jo faç exeunt lon massant.
+\xv Ðe aun ig rekestað jo faç exeunt lon massant.
 \xe They've asked me to bow out without a fuss.
 
 \mn exeunt
@@ -23513,18 +23516,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossau
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossaveyaçon
 \ps n
@@ -25509,7 +25512,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \ge volunteer
 
-\xv Il se ponden a plaç mi ny rout, graðleur e donaçon rovant.
+\xv Ðe se ponden a plaç mi ny rout, graðleur e donaçon rovant.
 \xe They were standing in the street asking for money and volunteers.
 
 \et from Old Borlish (a) grad liure “freely, voluntarily”, literally “with free will”, from Latin grātus “will” and līber “free, unrestricted”.
@@ -26051,7 +26054,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge lode
 \ge parcel
 
-\xv Cosogr il taussan men an haçot a maus.
+\xv Cosogr ðe taussan men an haçot a maus.
 \xe The set cost less than a bunch of bananas.
 
 \et Middle Borlish diminutive of haç "bundle", borrowed in nautical use from synonymous haç in Vascon. This reflects Latin fascis "packet, package; burden, load".
@@ -26974,7 +26977,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge demeanour
 \ge bearing
 
-\xv Il aun heu equal cos stoniscent, ða meðes jammel.
+\xv Ðe aun heu equal cos stoniscent, ða meðes jammel.
 \xe They look astonishingly similar, even for twins.
 
 \et from Old Borlish hiu "form, appearance", borrowed from Old English hiew "shape, appearance, colour". Specialisation to the appearance and comportment of people occurred in the Middle Borlish period.
@@ -28089,7 +28092,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge sculpture
 \ge statue
 
-\xv Il ern l'imascry descorçant ag cogn jagerrem.
+\xv Ðe ern l'imascry descorçant ag cogn jagerrem.
 \xe They were peering at the sculpture in the far corner.
 
 \et Middle Borlish < Old French
@@ -29114,7 +29117,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge mistress
 \ge paramour
 
-\xv Deu mien, il s'ayen por inquillin!
+\xv Deu mien, ðe s'ayen por inquillin!
 \xe Oh my God, they were roommates!
 
 \et from Latin inquilīnus "sojourner, lodger; inmate", related to incolō "I inhabit". Influenced in sense by the unrelated noun quil "bed" and verb inquillir "embed". The euphemistic sexual sense has a possible citation in the seventeenth century, but is only securely attested in the nineteenth.
@@ -29956,7 +29959,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge utmost
 \ge far
 
-\xv Il ern l'imascry descorçant ag cogn jagerrem.
+\xv Ðe ern l'imascry descorçant ag cogn jagerrem.
 \xe They were peering at the sculpture in the far corner.
 
 \et Superlative of jagr
@@ -31913,7 +31916,7 @@ Old Borlish < Latin illa
 \ge tumbledown
 \ge bedraggled
 
-\xv Il ayen heu lastumnesc, com ig il n'ayen for pog dormið.
+\xv Ðe ayen heu lastumnesc, com ig ðe n'ayen for pog dormið.
 \xe They looked haggard, as though they hadn't had much sleep.
 
 \et fifteenth century, from lastumn. For things other than people, from the 18th century.
@@ -33787,7 +33790,7 @@ Old Borlish < Latin illa
 \ge educate
 \ge instruct
 
-\xv Il le macquaurn vars surcair un tarç dagr.
+\xv Ðe le macquaurn vars surcair un tarç dagr.
 \xe They raised her to be neither fish nor fowl.
 
 \et from Old Borlish ma(c)quar "to raise (a child)", from synonymous Insular Latin maquō, maccō, likely of Kelt origin. If so, cognate with Irish mac "son" and Welsh magωr "cowherd" (formerly "breeder of animals").
@@ -37985,7 +37988,7 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 \ge fibrous
 \ge stringy
 
-\xv Son il nervous d'issaur ny cors?
+\xv Son ðe nervous d'issaur ny cors?
 \xe Are they sure they'll win the contest?
 
 \et from Middle Boral nervous "sinewy; vigorous", borrowed from synonymous Latin nervōsus along with noun nerf < Latin nervus "nerve, sinew; vigour". The extension in meaning from "vigorous" to "bold" and then to "confident" had taken place by the start of the nineteenth century.
@@ -38390,17 +38393,6 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 \ge injure
 
 \et Old Borlish < Latin
-
-\lx nohas
-\ps adj
-
-\ge right-wing
-\ge conservative
-
-\xv Stou y Duc coy l'eç nohas parmy sull'administration d'autortað may accarr.
-\xe The Duke must stop the right-wing in his regime gaining more influence.
-
-\et 1751, from Arabic نحاس (nuḥās) with the same sense, and originally “copper”. Inspired by the Copper faction in the court of Malik Hisham Al-Rashid (reigned 1601-1610) of Libya, who petitioned against the poor reforms he oversaw. The Copper, and their opposition, the Tin, took their names from the two principal colours of the Libyan banner at the time, which was quartered into two black, one white, and one orange field. These two terms – nohas and casdir – were borrowed into various European languages through the success of the Vascon writer David Bensaíd's treatise on statecraft The Three Cities, which was translated into over twenty languages. Compare for example French nouase, kasdir.
 
 \lx nohaser
 \ps n
@@ -41383,7 +41375,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge suzerainty
 \ge liegedom
 
-\xv Il affirmn y paramontað de rigteç sur ley.
+\xv Ðe affirmn y paramontað de rigteç sur ley.
 \xe They assert the primacy of ethics over law.
 
 \et nominal derivation from paramont "supreme, primary". This is a borrowing from Old French, a univerbation of par amont "by upward", from Latin per "through" and ad montem "to a mountain; upwards". The word was originally used in the thirteenth century to describe the relation of the Drengot Emperor over the kings in his demesne.
@@ -42558,7 +42550,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge inane
 \ge silly
 
-\xv Il passaurn y ralley par jacas pegr.
+\xv Ðe passaurn y ralley par jacas pegr.
 \xe They spent the afternoon chatting idly.
 
 \et via Old Borlish peir "unintelligent; idle; lazy" from Latin piger "dull, lazy, sluggish; loth, averse". Use of physical appearance is attested from the sixteenth century; in the latter more general senses the word is seen from the early nineteenth century.
@@ -45004,7 +44996,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge instantly
 \ge in one fell swoop
 
-\xv Il se courn mariðað pre un cocoro.
+\xv Ðe se courn mariðað pre un cocoro.
 \xe They got married unexpectedly.
 
 \et idiom attested from the 16th century, literally "before a cockcrow". The noun cocoro "cockcrow", here used figuratively to denote "first light, daybreak, dawn", is assuredly onomatopoeic in origin (as, ultimately, one assumes coq "cock, rooster" was).
@@ -50334,8 +50326,7 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge antiscorbutic
-\ge pertaining to vitamin C
+\ge containing vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -50343,7 +50334,8 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge containing vitamin C
+\ge antiscorbutic
+\ge pertaining to vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -52502,7 +52494,7 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge content
 \ge in a good mood
 
-\xv Il parmettoirn nos entraum semprað.
+\xv Ðe parmettoirn nos entraum semprað.
 \xe They cheerfully let us come in.
 
 \et past participle of semprar “to be cheerful, to celebrate” (now only in certain dialects), from some variant of the salutation sempr! “always!”, traditionally said at feasts and other get-togethers.
@@ -55510,6 +55502,14 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \mn stancour
 \mn fair
 
+\lx stanmenter
+\ps adj
+
+\ge left wing
+\ge socialist
+
+\et Arabic
+
 \lx stant y contingent
 \ps adv
 
@@ -57151,7 +57151,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge in the end
 \ge interminably
 
-\xv Tandem il pardoirn nis e fegrn repaðr.
+\xv Tandem ðe pardoirn nis e fegrn repaðr.
 \xe Eventually they gave up and went home.
 
 \et Middle Borlish borrowing from Latin tandem "at last", related to tam "so, so much". Apparently once pronounced with initial stress, but the stress had shifted to the final syllable by the seventeenth century at the latest.
@@ -57745,7 +57745,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge tell
 \ge narrate
 
-\xv Cal mocry son il teissent oy?
+\xv Cal mocry son ðe teissent oy?
 \xe What nonsense are they spouting now?
 
 \et originally in the first senses, from Old Borlish teissir, tistre, teȝsre (among many other forms) "to weave, work with thread". These all derive from either Latin texere "to weave" or a Late Latin texēre exhibiting a change of conjugation. Use in the narrative sense is attested as far back as the Classical period; much of the metaphorical usage is likely extended from this first idiom.
@@ -59471,7 +59471,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge puzzle
 \ge tangram
 
-\xv Il son y trave costroint toð y jorn.
+\xv Ðe son y trave costroint toð y jorn.
 \xe They've been doing the jigsaw all day.
 
 \et from a specialised use of Middle French travé "crossed with wooden beams", via noun traf, tref "beam, mast" from Latin trabs "timber, beam, rafter". The puzzle sense is attested from the late nineteenth century.
@@ -59839,7 +59839,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge retaliate
 \ge repay
 
-\xv Ða meðes nos poðau lou fornir d'aïðanç, il trocausn noc entrig tardessem.
+\xv Ða meðes nos poðau lou fornir d'aïðanç, ðe trocausn noc entrig tardessem.
 \xe Even if we provided them with aid, they would not reciprocate later.
 
 \et “to trade between”. Preposition from Latin inter “between, among”; verb possibly from an Old Boral trocar “to trade”, either an alternation of torcar < Latin torqueō “I twist, bend”, or more likely from Old Spanish trocar via Old French, of uncertain origin.
@@ -62305,7 +62305,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge knobbly
 \ge bumpy
 
-\xv Il ern zaquesc visnous a tatover pascent.
+\xv Ðe ern zaquesc visnous a tatover pascent.
 \xe They were eating knobbly potato snacks.
 
 \et Middle Borlish, adjectival derivation from now-obsolete verb visnar "to wither". This descends from an Old Borlish borrowing from Old English wisnian "dry up, shrivel". The arboreal senses (literally or figuratively) are now the most current, with a noun visn "knot in wood" having been backformed from the adjective.
