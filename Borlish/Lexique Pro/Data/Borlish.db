@@ -1090,6 +1090,15 @@
 \lx accordar
 \ps ar v
 
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
+
+\lx accordar
+\ps ar v
+
 \ge agree
 \ge accord
 \ge harmonise
@@ -1097,15 +1106,6 @@
 \ge go
 
 \et Middle Borlish < Latin
-
-\lx accordar
-\ps ar v
-
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -12243,17 +12243,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge conspirator
-\ge accomplice
+\ge abettor
 
-\et Middle Borlish
+\mn conjuraçonnar
 
 \lx conjuraçonnour
 \ps n
 
 \ge conspirator
-\ge abettor
+\ge accomplice
 
-\mn conjuraçonnar
+\et Middle Borlish
 
 \lx connardaç
 \ps n
@@ -19917,6 +19917,15 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \lx ensign
 \ps n
 
+\ge engraving
+\ge carving
+\ge suit
+
+\et Old Borlish < Latin
+
+\lx ensign
+\ps n
+
 \ge emblem
 \ge logo
 \ge symbol
@@ -19934,15 +19943,6 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \xe I will recommend you for a higher position.
 
 \et Middle Borlish, a semilearned borrowing from Latin insignia "emblem, badge", a noun formation from adjective insignis "marked, distinguished". The word has been used metonymically to refer to the position conferred or represented by an insignia since the fifteenth century, and it has been used in card games from approximately the same time.
-
-\lx ensign
-\ps n
-
-\ge engraving
-\ge carving
-\ge suit
-
-\et Old Borlish < Latin
 
 \lx ensignar
 \ps ar v
@@ -23516,18 +23516,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossau
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossaveyaçon
 \ps n
@@ -25712,6 +25712,26 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge circle
 
 \et Middle Borlish < Latin
+
+\lx greffour
+\ps n
+
+\ge clerk
+\ge functionary
+\ge office worker
+\ge secretary
+\ge registrar
+\ge scribe
+\ge copyist
+\ge amanuensis
+\ge pen-pusher
+\ge bureaucrat
+\ge scarecrow
+
+\xv J'am l'oc cochiglot tragçað dy greffour.
+\xe I like this snail the scribe drew.
+
+\et Middle Borlish, originally in legal use for scribes of court, an alteration of synonymous greffer via contemporary French greffier from Medieval Latin graphiārius "scribe, secretary". This is a derivative of graphium "stylus", whence also obsolete gref "office of a court registrar" (which may alternatively be the term's direct origin). The pejorative metaphorical extension the term is seen from the nineteenth century. The agricultural usage is of obscure motivation.
 
 \lx greim
 \ps n
@@ -33609,6 +33629,26 @@ Old Borlish < Latin illa
 
 \et Old Borlish < Latin
 
+\lx lunatic
+\ps n
+
+\ge lunatic
+\ge madman
+\ge madwoman
+\ge epileptic
+\ge sleepwalker
+
+\ps adj
+
+\ge lunatic
+\ge mad
+\ge crazed
+\ge epileptic
+\ge moody
+\ge sleepwalking
+
+\et Latin lunaticus
+
 \lx lunel
 \ps n
 
@@ -37578,6 +37618,27 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \et Middle Borlish, borrowed from medical Latin nancīscō "I contract (an illness)", a non-deponent variant of Classical nancīscor "I encounter, stumble on". The word is seen in non-medical contexts from the eighteenth century.
 
+\lx narc
+\ps adj
+
+\ge step-
+\ge step
+\ge pseudo-
+\ge quasi-
+\ge -ish
+\ge surrogate
+\ge ersatz
+\ge faux
+\ge grudging
+\ge cold
+\ge unkind
+\ge partial
+
+\xv L'ec fraðr narc se feirn acconnosc eld veint catr.
+\xe The stepbrothers met when they were twenty-four.
+
+\et attributive use of Old Borlish noarc "stepmother; step-", reflecting Latin noverca "stepmother, surrogate mother", from novus "new". Extended use is from the fifteenth century in poetry and two centuries later in common use; since the nineteenth century especially for products like food and clothes. As a character trait the term modifies actions or words, not people.
+
 \lx nargel
 \ps n
 
@@ -40235,6 +40296,23 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge patterned
 
 \et Middle Borlish < Latin
+
+\lx ornat
+\ps n
+
+\ge livery
+\ge uniform
+\ge regalia
+\ge finery
+\ge fancy dress
+\ge apparel
+\ge costume
+\ge getup
+
+\xv La porta l'ornat com cognit.
+\xe She wore the uniform as a disguise.
+
+\et Middle Borlish, borrowed from Latin ōrnātus "decoration, furniture", a noun derivation of ōrnō "I equip, decorate". Originally specialised to insignia and other superficial identifying features, the word has generalised to uniforms as a whole by the seventeenth century.
 
 \lx orner
 \ps n
@@ -50326,7 +50404,8 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge containing vitamin C
+\ge antiscorbutic
+\ge pertaining to vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -50334,8 +50413,7 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge antiscorbutic
-\ge pertaining to vitamin C
+\ge containing vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -59321,19 +59399,19 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge transmigration
-\ge relocate
+\ge relocation
+\ge nomadism
 
-\et noun from tramigrar "transmigrate".
+\et noun from tramigrar
 \mn tramigrar
 
 \lx tramigraçon
 \ps n
 
 \ge transmigration
-\ge relocation
-\ge nomadism
+\ge relocate
 
-\et noun from tramigrar
+\et noun from tramigrar "transmigrate".
 \mn tramigrar
 
 \lx tramigrar
@@ -62607,16 +62685,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge volcano
-\ge hothead
 
-\et Italian < Latin Vulcanus
+\et Italian, from Latin Vulcanus
 
 \lx volcan
 \ps n
 
 \ge volcano
+\ge hothead
 
-\et Italian, from Latin Vulcanus
+\et Italian < Latin Vulcanus
 
 \lx volir
 \ps ir1 v

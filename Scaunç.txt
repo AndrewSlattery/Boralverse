@@ -31334,4 +31334,58 @@ that none of this is guaranteed, and there’s no such thing as “ordinary life
 
 ##
 
-228.2: 
+228.2: greffour "clerk"
+
+greffour /grɛˈfur/ [gʀɪˈfʊː]
+- clerk, functionary, office worker, secretary, registrar, one employed in managing records of e.g. accounts or correspondence;
+- scribe, copyist, amanuensis, one who writes out documents or takes dictation by hand;
+- pen-pusher, bureaucrat, a petty official preoccupied with procedure and forms;
+- (dialect, archaic) scarecrow, a straw effigy placed in a field to deter birds from eating the crops planted there
+
+Etymology: Middle Borlish, originally in legal use for scribes of court, an alteration of synonymous greffer via contemporary French greffier from Medieval Latin graphiārius "scribe, secretary". This is a derivative of graphium "stylus", whence also obsolete gref "office of a court registrar" (which may alternatively be the term's direct origin). The pejorative metaphorical extension the term is seen from the nineteenth century. The agricultural usage is of obscure motivation.
+
+J'am l'oc cochiglot tragçað dy greffour.
+/ʒam lɔk ˌko.kajˈlɔt trɛjˈtsaθ par i grɛˈfur/
+[ʝam lɔk ˌko.kɐjˈlɔt tʀɪjˈtsaθ pɐː‿ʀi gʀɪˈfʊː]
+1s=like df=s.px snail draw-p.pst of-df clerk
+I like this snail the scribe drew.
+
+##
+
+228.3: narc "ersatz"
+
+narc /nark/ [nɐːk]
+- step-, marking a family relationship created by a parent's remarriage rather than by blood;
+- (by extension) pseudo-, quasi-, surrogate, marking something that occupies a role without the standing or authenticity of the genuine article;
+- ersatz, faux, (of a material or consumer good) made with an inferior replacement substance due to issues with supply;
+- grudging, cold, unkind, partial, behaving with the harshness or favouritism proverbially ascribed to a stepparent;
+- (adverb) ish, somewhat, to only a partial extent
+
+Etymology: attributive use of Old Borlish noarc "stepmother; step-", reflecting Latin noverca "stepmother, surrogate mother", from novus "new". Extended use is from the fifteenth century in poetry and two centuries later in common use; since the nineteenth century especially for products like food and clothes. As a character trait the term modifies actions or words, not people.
+
+L'ec fraðr narc se feirn acconnosc eld veint catr.
+/lɛk fraðr̩ nark se firn̩ ˌa.kɔˈnɔx ɛld vint katr̩/
+[lɛk ˈfʀa.ðɐ nɐːk se ˈfɪjɐn ˌa.kʊˈnɔx ɛld vint ˈka.tɐ]
+df=p.px brother step- rfl do.pst-3p meeting at.age twenty four
+The stepbrothers met when they were twenty-four.
+
+##
+
+228.4: ornat "uniform"
+
+ornat /ɔrˈnat/ [ʊːˈnat]
+- livery, uniform, a distinctive outfit which serves to identify members of a particular group of people;
+- regalia, finery, magnificent or expensive garments or accessories;
+- fancy dress, apparel, costume, getup, a distinctive set of clothes worn for a particular purpose (especially entertainment)
+
+Etymology: Middle Borlish, borrowed from Latin ōrnātus "decoration, furniture", a noun derivation of ōrnō "I equip, decorate". Originally specialised to insignia and other superficial identifying features, the word has generalised to uniforms as a whole by the seventeenth century.
+
+La porta l'ornat com cognit.
+/la pɔrˈta lɔrˈnat kɔm kɔjˈnɪt/
+[la pʊːˈta lʊːˈnat kɔm kʊjˈnɪt]
+3s.f wear-ipf df=uniform as disguise
+She wore the uniform as a disguise.
+
+##
+
+228.5:

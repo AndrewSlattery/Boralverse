@@ -14,18 +14,14 @@ entrjainç "section, interjection, excerpt" < jacio "throw"
 extirpar "eradicate, extirpate" | extirpaçon "eradication, extinction"
 geoscopy "exploration, globe-trotting"
 glonscellous "knotty, problematic" < glonscel "tangle"
-greffour "clerk" < graphium
 laðr "plough"
 lon mensc "dishonourable"
 lucraðeu "profitable, lucrative, wealthy, rich"
-lunatic "lunatic"
 maugrfeyar "marginalise, sideline"
 mescomprenjon "misunderstanding"
 meyaular "meow, pule, whine" < onom
 modo magno "writ large"
-narc "step-" < noverca
 oraçoir "stormy weather, thunderstorm, a storm zone"
-ornat "livery, uniform" < ornatus
 pacentar "be patient to, put up with"
 panditour "intellectual, thinker" cf pundit
 pardurar "endure, persist" | pardurant "enduring, long-lasting, persistent"
@@ -53,3 +49,5 @@ svellanç "expression, pronouncement, statement"
 nosthubrist "chauvinist"
 belligrman "warmonger" < belliger + -man
 inaltour "elitist" < inaltō
+cochigl "shell" < conchylium, coccus | cochiglot "snail; jockstrap"
+limaç "slug" < limax
