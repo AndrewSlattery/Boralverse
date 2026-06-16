@@ -1167,3 +1167,8 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 227.2	dictionary	keyottar "pamper"	keyottar	pamper	True	4	141	885	dictionary/227.2_keyottar_pamper.md
 227.3	dictionary	ognt "bribe"	ognt	bribe	True	4	142	957	dictionary/227.3_ognt_bribe.md
 227.4	dictionary	bleic "wan"	bleic	wan	True	4	120	781	dictionary/227.4_bleic_wan.md
+227.5	notes	Merch Colours			False	0	422	2624	notes/227.5_Merch_Colours.md
+228.1	excerpt	Lachesism (cont.)			False	0	211	1211	excerpt/228.1_Lachesism_(cont.).md
+228.2	dictionary	greffour "clerk"	greffour	clerk	True	4	166	1139	dictionary/228.2_greffour_clerk.md
+228.3	dictionary	narc "ersatz"	narc	ersatz	True	5	184	1198	dictionary/228.3_narc_ersatz.md
+228.4	dictionary	ornat "uniform"	ornat	uniform	True	3	113	774	dictionary/228.4_ornat_uniform.md
