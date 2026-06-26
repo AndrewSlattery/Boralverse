@@ -31406,5 +31406,81 @@ He did not keep the name, whether or not it was truly his. Crowned at Damvath, h
 
 ##
 
-229.1:
+229.1: Match of the Day
 
+report in translation from the sports pages of a Tommarth daily, on the previous weekend's lineball matches.
+
+Scein catr murðon stivað nell'arena ag ðaugr de Sou je Saðorn por spiar ig Badginton OG repous un offir voud d'Alster e retien donc lorry plaç sur y zantr dy canvaskel.
+Forty thousand pack the Sow embankment arena on Saturday to watch Badginton OG hold off a furious Alster comeback and keep their place at the top of the league.
+
+Y çod hospital se caun tramou doç a zefr durant y preu tarç, ðe pasn roug contr y sdruçol de ploy eð un parform compos dy joun Resketh de Badginton.y 
+The visitors go twelve-nothing down inside the first third, struggling with rain slick and a confident showing from Badginton's young Resketh.
+
+Posc y caffay, Alster se ponn pedesterrem sur vason caugtrað, e licol de Johns eð Anvelds parein l'enombr.
+After the coffee, Alster find their feet on churned turf, and braces from Johns and Anvelds even the score.
+
+Mer minut ig remanent, y laçour jaçol poll'OG Whitby recief y step de man e spingr y bal vars un vangart hermetic a deg droc.
+With mere minutes to spare, the OG veteran catcher Whitby gets the leg-up and pins the ball for an unassailable ten-point lead.
+
+Y heloit inelüibr dy cançon triomphal de Badginton gal y partejan n'eç tarn tras y toun fin an hour tart dy crevoscr.
+The inevitable chanting of Badginton's triumph-song follows the supporters into pubs townwide late into the evening.
+
+##
+
+229.2: souðurr "smoulder"
+
+souðurr /suˈðɪr.r̩/ [sʊˈðɪ.ʀɐ]
+- smoulder, to undergo flameless combustion or to burn slowly beneath the surface;
+- ferment, compost, to generate internal heat through biological decay or chemical breakdown;
+- incubate, fester, to spread silently and multiply before manifesting symptoms;
+- oppress, stifle, to trap heat or humidity to an uncomfortable extent;
+- to secretly undermine the effectiveness of an organisation or undertaking
+
+Etymology: Middle Borlish derivation of ðurr "kindle, set fire to" with the prefix sou "under". The root descends from Vulgar Latin adūrō "I singe, scorch", itself a prefixed extension of ūrō "I burn", while the prefix descends from Latin preposition sub "under". The sense appearing to have spread from firewood via compost to disease by the eighteenth century, while the weather sense is attested earlier from the sixteenth century. Use in espionage appears in the 1940s as a calque of Welsh marwlosca "I smoulder; I act as a double-agent" in spycraft fiction.
+
+Nos erau astr mirant cant y banfoy souðure.
+/nɔz eˈro ˈastr̩ miˈrant kant i banˈfɔi ˌsu.ðiˈre/
+[ˌnɔ.zɪˈʀo ˈas.tɐ mɪˈʀant kant i bɐɱˈfɔi ˌsu.ðɪˈʀe]
+1p cp.ipf-1p star gaze-p.prs when df campfire smouder-ipf
+We stargazed as the campfire smouldered.
+
+##
+
+229.3: boðel "intestines"
+
+boðel /boˈðɛl/ [bʊˈðɛl]
+- intestines, guts, bowels, the lower digestive tract of a person or animal;
+- piping, pipe, hose, conduit, a flexible tube for conveying e.g. fluids or wires;
+- labyrinth, warren, maze, a complex network of passages;
+- (culinary) the casing of a sausage; (by extension) a receptacle stuffed to bursting or an overcrowded room
+
+Etymology: via Old Borlish boðel "intestines" from Vulgar Latin botellus "small sausage", diminutive of Classical botulus "sausage, black pudding". Metaphorical extension to other items resembling the bowels either in form or arrangement is seen from as early as the thirteenth century.
+
+Y moudrer es Dn Blanc ny scrittour con y boðel ne plom.
+/i muˈdrɛr ɛz dɔmn̩ blank ni xrɪˈtur kɔn i boˈðɛl ne plɔm/
+[i mʊˈdʀɛː‿ʀɪz ˈdɔ.mɐn blaŋk ni xʀɪˈtʊː kɔn i bʊˈðɛl ne plɔm]
+df murderer be Mrs White in-df study with df guts in lead
+The killer is Mrs White in the study with the lead piping.
+
+##
+
+229.4: pedestr "assured"
+
+pedestr /peˈdɛstr̩/ [pɪˈdɛs.tɐ]
+- (archaic or historical) on foot, afoot, going or fighting as a footman rather than mounted;
+- down-to-earth, grounded, unpretentious, with both feet on the ground;
+- clear-sighted, realistic, pragmatic, objective, seeing things as they really are and not blinded by artifice or showmanship;
+- at ease, familiar, unfazed, comfortable where another might be daunted;
+- sure-footed, assured, self-possessed, acting with the steadiness of one on firm ground
+
+Etymology: Middle Borlish, borrowed from Latin pedester "walking; pertaining to foot-soldiers" to refer to non-mounted combatants in war; this is a derivative of pēs "foot", whence synonymous pie in Borlish. The image of a person standing on two feet lingers on in the metaphorical extensions even as the literal sense has fallen out of use.
+
+Sy femn parisce pedestr contr y pylon ny gardin.
+/si ˈfɛmn̩ ˌpa.riˈxe peˈdɛstr̩ kɔntr̩ i piˈlɔn ni garˈdɪn/
+[si ˈfɛ.mɐn ˌpa.ʀɪˈçe pɪˈdɛs.tɐ ˈkɔn.tʀ‿i pɪˈlɔn ni gɐːˈdɪn]
+3s.gn wife seem-ipf assured against df portal in-df garden
+Her wife seemed unfazed by the portal in the garden.
+
+##
+
+229.5: 

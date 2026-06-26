@@ -6836,6 +6836,27 @@
 
 \et from Old Borlish, a verbal derivative of bouð (also boðour) "messenger, courier" (modern "signal, message"), which is borrowed from Old English boda "messenger".
 
+\lx boðel
+\ps n
+
+\ge intestines
+\ge guts
+\ge bowels
+\ge piping
+\ge pipe
+\ge tube
+\ge hose
+\ge conduit
+\ge labyrinth
+\ge maze
+\ge warren
+\ge sausage case
+
+\xv Y moudrer es Dn Blanc ny scrittour con y boðel ne plom.
+\xe The killer is Mrs White in the study with the lead piping.
+
+\et via Old Borlish boðel "intestines" from Vulgar Latin botellus "small sausage", diminutive of Classical botulus "sausage, black pudding". Metaphorical extension to other items resembling the bowels either in form or arrangement is seen from as early as the thirteenth century.
+
 \lx bog
 \ps n
 
@@ -11829,7 +11850,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -11838,6 +11858,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnment
 \ps n
@@ -12228,17 +12249,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge conspirator
-\ge accomplice
+\ge abettor
 
-\et Middle Borlish
+\mn conjuraçonnar
 
 \lx conjuraçonnour
 \ps n
 
 \ge conspirator
-\ge abettor
+\ge accomplice
 
-\mn conjuraçonnar
+\et Middle Borlish
 
 \lx connardaç
 \ps n
@@ -16112,19 +16133,19 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps ar v
 
 \ge decipher
-\ge make out
-\ge translate
-\ge simplify
+\ge decode
 
-\et Old Borlish < Medieval Latin < Arabic
+\mn scifr
 
 \lx descifrar
 \ps ar v
 
 \ge decipher
-\ge decode
+\ge make out
+\ge translate
+\ge simplify
 
-\mn scifr
+\et Old Borlish < Medieval Latin < Arabic
 
 \lx descombr
 \ps r v
@@ -18397,6 +18418,7 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ge indent
 \ge indentation
 \ge cut
+\ge point
 
 \et of obscure origin. Putative connections with English trough or Welsh rhych "furrow" have too many issues to be workable, and nobody credits a link with draucus "strongman" in Latin; perhaps the word (which is first attested in the Old Borlish period) is simply onomatopoeia.
 
@@ -23866,6 +23888,13 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps ar v
 
 \ge rub
+
+\et Old Borlish < Old French < Latin
+
+\lx frottar
+\ps ar v
+
+\ge rub
 \ge chafe
 \ge scour
 \ge scrub
@@ -23881,13 +23910,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
-
-\lx frottar
-\ps ar v
-
-\ge rub
-
-\et Old Borlish < Old French < Latin
 
 \lx fruit
 \ps n
@@ -42502,6 +42524,31 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Old Borlish < Latin
 
+\lx pedestr
+\ps adj
+
+\ge on foot
+\ge afoot
+\ge down-to-earth
+\ge unpretentious
+\ge grounded
+\ge clear-eyed
+\ge clear-sighted
+\ge realistic
+\ge pragmatic
+\ge objective
+\ge at ease
+\ge familiar
+\ge unfazed
+\ge sure-footed
+\ge assured
+\ge self-possessed
+
+\xv Sy femn parisce pedestr contr y pylon ny gardin.
+\xe Her wife seemed unfazed by the portal in the garden.
+
+\et Middle Borlish, borrowed from Latin pedester "walking; pertaining to foot-soldiers" to refer to non-mounted combatants in war; this is a derivative of pēs "foot", whence synonymous pie in Borlish. The image of a person standing on two feet lingers on in the metaphorical extensions even as the literal sense has fallen out of use.
+
 \lx peðir
 \ps ir1 v
 
@@ -54293,6 +54340,25 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \et Middle Borlish
 
+\lx souðurr
+\ps r v
+
+\ge smoulder
+\ge ferment
+\ge fester
+\ge compost
+\ge incubate
+\ge oppress
+\ge stifle
+\ge be double-agent
+
+\xv Nos erau astr mirant cant y banfoy souðure.
+\xe We stargazed as the campfire smouldered.
+
+\et Middle Borlish derivation of ðurr "kindle, set fire to" with the prefix sou "under". The sense appearing to have spread from firewood via compost to disease by the eighteenth century, while the weather sense is attested earlier from the sixteenth century. Use in espionage appears in the 1940s as a calque of Welsh marwlosca "I smoulder; I act as a double-agent" in spycraft fiction.
+\mn ðurr
+\mn sou
+
 \lx soufa
 \ps n
 
@@ -62686,16 +62752,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge volcano
-\ge hothead
 
-\et Italian < Latin Vulcanus
+\et Italian, from Latin Vulcanus
 
 \lx volcan
 \ps n
 
 \ge volcano
+\ge hothead
 
-\et Italian, from Latin Vulcanus
+\et Italian < Latin Vulcanus
 
 \lx volir
 \ps ir1 v
