@@ -1176,4 +1176,5 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 229.1	excerpt	Match of the Day			False	0	250	1441	excerpt/229.1_Match_of_the_Day.md
 229.2	dictionary	souðurr "smoulder"	souðurr	smoulder	True	5	192	1247	dictionary/229.2_souðurr_smoulder.md
 229.3	dictionary	boðel "intestines"	boðel	intestines	True	4	157	933	dictionary/229.3_boðel_intestines.md
-229.4	dictionary	pedestr "assured"	pedestr	assured	True	5	172	1116	dictionary/229.4_pedestr_assured.md
+229.4	dictionary	pedestr "assured"	pedestr	assured	True	5	171	1112	dictionary/229.4_pedestr_assured.md
+229.5	notes	Who's Who (1800s Edition)			False	0	369	2406	notes/229.5_Who's_Who_(1800s_Edition).md

@@ -12,39 +12,38 @@ destourm "discharge, demobbing" < turma
 empory "economy" < emporium
 entrjainç "section, interjection, excerpt" < jacio "throw"
 extirpar "eradicate, extirpate" | extirpaçon "eradication, extinction"
-geoscopy "exploration, globe-trotting"
-glonscellous "knotty, problematic" < glonscel "tangle"
-laðr "plough"
-lon mensc "dishonourable"
-lucraðeu "profitable, lucrative, wealthy, rich"
-maugrfeyar "marginalise, sideline"
+geoscopy "exploration, globe-trotting" < geo- + scopos
+glonscellous "knotty, problematic" < glonscel "tangle" < glomiscellus
+laðr "plough" < Insular Latin alatrum < aratrum
+lon mensc "dishonourable" < longe "without" + mensc "honour" < ON mennskr
+lucraðeu "profitable, lucrative, wealthy, rich" < lucrativus
+maugrfeyar "marginalise, sideline" < maugr "edge" < marginem
 mescomprenjon "misunderstanding"
-meyaular "meow, pule, whine" < onom
-modo magno "writ large"
-oraçoir "stormy weather, thunderstorm, a storm zone"
-pacentar "be patient to, put up with"
+meyaular "meow, pule, whine" < onomatopoeia
+modo magno "writ large" < Latin
+oraçoir "stormy weather, thunderstorm, a storm zone" < oraç "storm" < Vulgar Latin *aurāticum
+pacentar "be patient to, put up with" < patiens
 panditour "intellectual, thinker" cf pundit
-pardurar "endure, persist" | pardurant "enduring, long-lasting, persistent"
-parnommanç "reputation"
-quinment "impact, strike, collision"
-regres "return journey" | regres fair "journey back"
-rimbangam "garter"
-sabler "hourglass" < sabr
+pardurar "endure, persist" | pardurant "enduring, long-lasting, persistent" < perduro
+parnommanç "reputation" < parnommar "highly esteem" < nommar "to name" < nom "name"
+quinment "impact, strike, collision" < quinar "collide, whack" < Latin cuneō
+regres "return journey" | regres fair "journey back" < regressus
+rimbangam "garter" < rimband "ribbon", gam "leg"
+sabler "hourglass" < sabr "sand"
 seget "crop" < L seges
-sogn fair "dream, act irrationally"
+sogn fair "dream, act irrationally" < somnium, facio
 spagent "fearful" < spagir < expaveo
 stoccour "thug" | stoccar "bludgeon, club"
-tranqment "exactness, accuracy, precision, reliability"
+tranqment "exactness, accuracy, precision, reliability" < tranq "accurate"
 trocour "trader, investor, stockbroker"
 authicanopoesy "complacency" | authican "self-sufficient" | authicanopoetic "complacent" < Gk
 se tenir calm "sit still, stay still, not move"
-youdað "numb, unfeeling"
-pendramnougr "full tilt, headlong, at full speed"
-civiltað "civility, civilisation"
-contemplar "view, watch, contemplate"
-revelaçon "revelation"
+pendramnougr "full tilt, headlong, at full speed" < Welsh pendramwnwgl
+civiltað "civility, civilisation" < civilitas
+contemplar "view, watch, contemplate" < contemplo
+revelaçon "revelation" < revelar < re- velō
 svellanç "expression, pronouncement, statement"
-nosthubrist "chauvinist"
+nosthubrist "chauvinist" < Gk nostos, hubris
 belligrman "warmonger" < belliger + -man
 inaltour "elitist" < inaltō
 cochigl "shell" < conchylium, coccus | cochiglot "snail; jockstrap"
@@ -62,3 +61,7 @@ laçour "catcher" < laçar
 step de man "leg-up"
 spinglar "pin down"
 pylon "portal" < Gk
+fancy "idea, fantasy, dream"
+inspirar "inspire" | inspiraçon "inspiration"
+yarçment "latticework, grid pattern" < yarç
+nonçaminal "newsworthy, pertaining to the news" < nonçamen
