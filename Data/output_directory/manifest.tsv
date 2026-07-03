@@ -55,7 +55,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 11.5	notes	14C Manoscard Music			False	0	317	2007	notes/11.5_14C_Manoscard_Music.md
 12.1	excerpt	Flaxen Hearts			False	0	267	1650	excerpt/12.1_Flaxen_Hearts.md
 12.2	dictionary	scarrad yarcer "crossword"	scarrad yarcer	crossword	True	3	150	1053	dictionary/12.2_scarrad_yarcer_crossword.md
-12.3	dictionary	moðnaut "sailor"	moðnaut	sailor	True	2	161	1098	dictionary/12.3_moðnaut_sailor.md
+12.3	dictionary	moðnaut "sailor"	moðnaut	sailor	True	2	161	1099	dictionary/12.3_moðnaut_sailor.md
 12.4	dictionary	flaðrar "climb"	flaðrar	climb	True	3	133	861	dictionary/12.4_flaðrar_climb.md
 12.5	notes	Linguistic Exam Questions			False	0	260	1686	notes/12.5_Linguistic_Exam_Questions.md
 13.1	excerpt	Early Borlish History			False	0	239	1354	excerpt/13.1_Early_Borlish_History.md
@@ -1146,7 +1146,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 223.1	excerpt	Medieval Denmark			False	0	218	1347	excerpt/223.1_Medieval_Denmark.md
 223.2	dictionary	enmigtað "rivalry"	enmigtað	rivalry	True	3	113	848	dictionary/223.2_enmigtað_rivalry.md
 223.3	dictionary	sine sanguine "morganatic"	sine sanguine	morganatic	True	3	144	942	dictionary/223.3_sine_sanguine_morganatic.md
-223.4	dictionary	pharmac "drug"	pharmac	drug	True	3	135	915	dictionary/223.4_pharmac_drug.md
+223.4	dictionary	pharmac "drug"	pharmac	drug	True	3	135	919	dictionary/223.4_pharmac_drug.md
 223.5	notes	Chemical Etymology (cont. 5)			False	4	333	2059	notes/223.5_Chemical_Etymology_(cont._5).md
 224.1	excerpt	Mashick			False	0	248	1636	excerpt/224.1_Mashick.md
 224.2	dictionary	coricheyar "zhoosh"	coricheyar	zhoosh	True	4	123	786	dictionary/224.2_coricheyar_zhoosh.md
@@ -1158,7 +1158,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 225.3	dictionary	sposar "vouch for"	sposar	vouch for	True	3	111	696	dictionary/225.3_sposar_vouch_for.md
 225.4	dictionary	semblant "ilk"	semblant	ilk	True	3	133	881	dictionary/225.4_semblant_ilk.md
 225.5	notes	Cráyenschot in Context			False	0	415	2555	notes/225.5_Cráyenschot_in_Context.md
-226.1	excerpt	The Heir and the Spare			False	0	346	1932	excerpt/226.1_The_Heir_and_the_Spare.md
+226.1	excerpt	The Heir and the Spare			False	0	346	1930	excerpt/226.1_The_Heir_and_the_Spare.md
 226.2	dictionary	cateu "nasty"	cateu	nasty	True	5	177	1151	dictionary/226.2_cateu_nasty.md
 226.3	dictionary	ligaçon "link"	ligaçon	link	True	4	158	988	dictionary/226.3_ligaçon_link.md
 226.4	dictionary	vasir "vizier"	vasir	vizier	True	4	146	998	dictionary/226.4_vasir_vizier.md
@@ -1178,3 +1178,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 229.3	dictionary	boðel "intestines"	boðel	intestines	True	4	157	933	dictionary/229.3_boðel_intestines.md
 229.4	dictionary	pedestr "assured"	pedestr	assured	True	5	171	1112	dictionary/229.4_pedestr_assured.md
 229.5	notes	Who's Who (1800s Edition)			False	0	369	2406	notes/229.5_Who's_Who_(1800s_Edition).md
+230.1	excerpt	Steeplepost Tapestry			False	0	266	1685	excerpt/230.1_Steeplepost_Tapestry.md
+230.2	dictionary	inaltour "elitist"	inaltour	elitist	True	3	123	786	dictionary/230.2_inaltour_elitist.md
+230.3	dictionary	canvaskel "league, conference"	canvaskel	league, conference	True	4	183	1162	dictionary/230.3_canvaskel_league,_conference.md
+230.4	dictionary	nosthybrist "chauvinist"	nosthybrist	chauvinist	True	3	153	990	dictionary/230.4_nosthybrist_chauvinist.md

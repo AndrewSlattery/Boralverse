@@ -987,6 +987,24 @@
 \mn accis
 \mn aer
 
+\lx accoglent
+\ps adj
+
+\ge welcoming
+\ge hospitable
+
+\et present participle of accoglir "welcome"
+\mn accoglir
+
+\lx accoglir
+\ps ir1 v
+
+\ge welcome
+\ge receive
+\ge embrace
+
+\et Old Borlish < Vulgar Latin accolligō "I gather" < colligō
+
 \lx accomblar
 \ps ar v
 
@@ -6929,6 +6947,16 @@
 
 \et Old Borlish < Latin
 
+\lx bogr ðesmbal
+\ps adj
+
+\ge on brand
+\ge unsurprising
+\ge expected
+
+\mn bogr
+\mn ðesmbal
+
 \lx boist
 \ps n
 
@@ -8188,6 +8216,15 @@
 
 \et Old French < Italian < Ancient Greek
 
+\se se tenir calm
+\ps ir1 v
+
+\ge stay still
+\ge rest
+\ge be at rest
+\ge sit still
+\ge not move
+
 \lx calmar
 \ps ar v
 
@@ -8592,6 +8629,23 @@
 
 \et Old Borlish < Latin
 
+\lx canvaskel
+\ps n
+
+\ge league
+\ge conference
+\ge ranking
+\ge leaderboard
+\ge scoreboard
+\ge league table
+\ge hierarchy
+\ge totem pole
+
+\xv Cal çod hamt y coyol dy canvaskel sceint oy?
+\xe Which team is leading the league right now?
+
+\et nineteenth century in a sports context (originally lineball), a borrowing from Welsh canvaskel, a compound of canva "stile, rung, footstool" and skel "ladder". The former is a derivation of cam "step, footstep", while the latter is an early Middle Welsh borrowing from Norman French eskele "ladder". Metaphorical extension is seen from the early twentieth century, while the final sense came out of the Mehannin [Brisbane] academic school in the 1970s.
+
 \lx capabiltað
 \ps n
 
@@ -8992,6 +9046,18 @@
 
 \et Old Borlish < Latin
 
+\lx carteyar
+\ps ar v
+
+\ge map
+\ge chart
+\ge describe
+\ge plan
+\ge outline
+
+\et verb from cart "map"
+\mn cart1
+
 \lx cartograph
 \ps n
 
@@ -9367,6 +9433,18 @@
 
 \et Old Borlish < Old French < Latin
 
+\lx cauf
+\ps adj
+
+\ge bald
+\ge hairless
+\ge bare
+\ge barren
+\ge treeless
+\ge unforested
+
+\et Old Borlish < Latin calvus
+
 \lx caug
 \ps n
 
@@ -9443,6 +9521,32 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge limestone
 
 \et Old Borlish < Latin
+
+\lx cauveyanç
+\ps n
+
+\ge balding
+\ge hair loss
+
+\et noun from cauveyar "go bald"
+\mn cauveyar
+
+\lx cauveyant
+\ps adj
+
+\ge balding
+
+\et present participle from cauveyar "go bald"
+\mn cauveyar
+
+\lx cauveyar
+\ps ar v
+
+\ge bald
+\ge go bald
+
+\et Middle Borlish, verbal derivaton from cauf "bald".
+\mn cauf
 
 \lx cavel
 \ps n
@@ -9937,6 +10041,23 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et Old Borlish < Latin < Ancient Greek
 
+\lx chthonic
+\ps adj
+
+\ge geological
+\ge underground
+
+\et Greek, adjectival derivative from chthony
+\mn chthony
+
+\lx chthony
+\ps n
+
+\ge geology
+\ge landscape
+
+\et Greek χθών • (khthṓn) "ground, soil"
+
 \lx chym
 \ps n
 
@@ -10149,6 +10270,32 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge city
 
 \et Old Borlish < Latin
+
+\lx civil
+\ps adj
+
+\ge civic
+\ge civil
+\ge courteous
+\ge polite
+\ge sophisticated
+\ge urbane
+
+\et Middle Borlish < Latin cīvīlis 
+
+\lx civiltað
+\ps n
+
+\ge civility
+\ge politeness
+\ge politesse
+\ge civilisation
+\ge culture
+\ge sophistication
+\ge urbaneness
+
+\et Middle Borlish < Latin cīvīlitās
+\mn civil
 
 \lx cla
 \ps n
@@ -10424,6 +10571,18 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge polyvinyl chloride
 
 \et an initialism for catener a mitigor muriac “chained muriac mitigor”. Catener “polymer” is a direct borrowing of Latin catēnārius “of a chain”, referring to the molecular structure thereof; mitigor** is likewise from mītigōr “ripener”, after its ability to ripen fruits; muriac*** is from muriacus “briny”.
+
+\lx cochigl
+\ps n
+
+\ge shell
+\ge husk
+\ge pod
+\ge carapace
+\ge spiral
+\ge whorl
+
+\et < Vulgar Latin conchilia < Latin conchȳlium < Greek
 
 \lx cocin
 \ps n
@@ -11850,6 +12009,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -11858,16 +12018,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
-
-\lx condamnment
-\ps n
-
-\ge condemnation
-\ge sentence
-
-\et Latin condemnatio, noun from condamnar "condemn"
-\mn condamnar
 
 \lx condamnment
 \ps n
@@ -11876,6 +12026,15 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et noun from condamnar "condemn"
+\mn condamnar
+
+\lx condamnment
+\ps n
+
+\ge condemnation
+\ge sentence
+
+\et Latin condemnatio, noun from condamnar "condemn"
 \mn condamnar
 
 \lx condensar
@@ -12498,6 +12657,22 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et Old Borlish < Latin
 
+\lx contemplar
+\ps ar v
+
+\ge contemplate
+\ge regard
+\ge watch
+\ge view
+\ge survey
+\ge behold
+\ge consider
+\ge observe
+\ge think about
+\ge face
+
+\et Middle Borlish < Latin contemplor "I gaze at"
+
 \lx contemporane
 \ps adj
 
@@ -12714,6 +12889,20 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge summary
 
 \et Old Borlish
+
+\lx contrsalubr
+\ps adj
+
+\ge disadvantageous
+\ge unhelpful
+\ge unfavourable
+\ge unpromising
+\ge unvirtuous
+\ge injurious
+
+\et from contr "against" and salubr "advatageous".
+\mn contr
+\mn salubr
 
 \lx contrvenir
 \ps ir1 v
@@ -16609,6 +16798,30 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 
 \et descending from Old Borlish desponre "distribute, set out" or reborrowed during the Middle Borlish period from its source in Latin dispōnō "I arrange". The latter senses, likely influenced by cognates in other Romance languages, are intransitive and used with preposition de "of, from".
 
+\lx desracinað
+\ps adj
+
+\ge uprooted
+\ge dislodged
+\ge rootless
+\ge vagabond
+\ge wandering
+\ge adrift
+
+\et past participle from desracinar "uproot"
+\mn desracinar
+
+\lx desracinar
+\ps ar v
+
+\ge uproot
+\ge dislodge
+\ge displace
+\ge evict
+
+\et Middle Borlish, from racin "root"
+\mn racin
+
 \lx dessevelir
 \ps ir2 v
 
@@ -16706,6 +16919,17 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ge hold in low regard
 
 \et Old Borlish
+
+\lx destourm
+\ps n
+
+\ge demob
+\ge demobbing
+\ge discharge
+\ge demobilisation
+
+\et 19C, deverbal from destourmar "demobilise"
+\mn destourmar
 
 \lx destourmar
 \ps ar v
@@ -20148,6 +20372,17 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 
 \et Old Borlish < Latin
 
+\lx entrjainç
+\ps n
+
+\ge interjection
+\ge parenthentical
+\ge interlude
+\ge entr'acte
+
+\et noun from entrjair "interpose"
+\mn entrjair
+
 \lx entrjair
 \ps r v
 
@@ -21166,6 +21401,27 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 
 \et Noun from expondr
 \mn expondr
+
+\lx extirpaçon
+\ps n
+
+\ge eradication
+\ge annihilation
+\ge destruction
+\ge extinction
+
+\et noun from extirpar "extirpate".
+\mn extirpar
+
+\lx extirpar
+\ps ar v
+
+\ge extirpate
+\ge eradicate
+\ge wipe out
+\ge annihilate
+
+\et early modern Borlish < Latin exstirpō "I uproot".
 
 \lx extollir
 \ps ir2 v
@@ -24777,6 +25033,15 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et early modern formation as if from Ancient Greek γεωσκοπῐκός "world-beholding", originally in the last sense. Metaphorical extension of the term is seen from the nineteenth century.
 
+\lx geoscopy
+\ps n
+
+\ge globe-trotting
+\ge exploration
+
+\et backformation from geoscopic "worldwide".
+\mn geoscopic
+
 \lx gesp
 \ps n
 
@@ -25071,6 +25336,17 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \xe How will we get out of this mess?
 
 \et originally in the first sense only, from Old Borlish glomscel "yarn, tangle". This descends from Vulgar Latin glomiscellus "ball of thread", a popular diminutive of Classical glomus.
+
+\lx glonscellous
+\ps adj
+
+\ge knotty
+\ge problematic
+\ge tangled
+\ge snarled
+
+\et adjective from glonscel "knot, tangle"
+\mn glonscel
 
 \lx glorfeyar
 \ps ar v
@@ -27419,6 +27695,14 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Old Borlish < Old English hosan "trousers"
 
+\lx hospital
+\ps adj
+
+\ge guest
+\ge visiting
+
+\et Middle Borlish < Latin hospitālis
+
 \lx host
 \ps n
 
@@ -28547,6 +28831,33 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Middle Borlish < Latin
 
+\lx inaltar
+\ps ar v
+
+\ge highly esteem
+\ge esteem
+\ge put on a pedestal
+\ge idolise
+
+\et borrowed from Latin inaltō "I raise high; I exalt", from altus "high".
+
+\lx inaltour
+\ps n
+
+\ge elitist
+\ge snob
+\ge gatekeeper
+\ge arbiter
+\ge shibboleth
+\ge marker
+\ge status symbol
+
+\xv For un inaltour vel y lasc amar.
+\xe Only a snob would like the film.
+
+\et early modern period, agentive derivation from inaltar "highly esteem, put on a pedestal". Extension to people or things which separate an in-group from everyone else is seen from the early twentieth century.
+\mn inaltar
+
 \lx incaint
 \ps adj
 
@@ -29303,6 +29614,25 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge rise up
 
 \et Old Borlish < Latin
+
+\lx inspiraçon
+\ps n
+
+\ge inspiration
+\ge instilling
+
+\et noun from inspirar "inspire"
+\mn inspirar
+
+\lx inspirar
+\ps ar v
+
+\ge inspire
+\ge instill
+\ge imbue
+\ge inflate
+
+\et Middle Borlish < Latin inspīrō
 
 \lx instabiltað
 \ps n
@@ -31565,6 +31895,15 @@ Old Borlish < Latin illa
 
 \et Old Borlish < Old English
 
+\lx laçour
+\ps n
+
+\ge catcher
+\ge receiver
+
+\et agentive from laçar "catch"
+\mn laçar
+
 \lx laçploy
 \ps n
 
@@ -33068,6 +33407,21 @@ Old Borlish < Latin illa
 
 \mn hiat
 
+\lx lon mensc
+\ps adj
+
+\ge dishonourable
+\ge without a reference
+\ge without a character
+\ge cold turkey
+
+\xv L'es attenent a caffay salir lon mensc.
+\xe She's trying to quit coffee cold turkey.
+
+\et originally in legal expressions such as destourm lon mensc "dishonourable discharge", the phrase literally means "without honour". Extension to non-miltary and non-employment contexts occurred in the mid-twentieth century.
+\mn lon
+\mn mensc
+
 \lx lon nom
 \ps adj
 
@@ -33526,6 +33880,18 @@ Old Borlish < Latin illa
 
 \mn lucr
 \mn fair
+
+\lx lucraðeu
+\ps adj
+
+\ge profitable
+\ge gainful
+\ge lucrative
+\ge wealthy
+\ge rich
+
+\et late Old Borlish < Latin lucrātīvus "lucrative"
+\mn lucr
 
 \lx lugclocq
 \ps n
@@ -35134,6 +35500,15 @@ Old Borlish < Latin illa
 
 \et via Old Borlish marȝr, mauȝr "margin, edge" from Latin margō "border, margin, edge". In the geographical sense originaly referring specifically to the rural areas near to the city of Damvath. The term is seen in the last metaphorical sense from the eighteenth century onward.
 
+\lx maugrfeyar
+\ps ar v
+
+\ge marginalise
+\ge sideline
+
+\et derivation from maugr "margin"
+\mn maugr
+
 \lx maus
 \ps n
 
@@ -35697,6 +36072,15 @@ Old Borlish < Latin illa
 
 \et Old Borlish, from comprendr
 
+\lx mescomprenjon
+\ps n
+
+\ge misunderstanding
+\ge misapprehending
+
+\et derivation from comprenjon "understanding"
+\mn comprenjon
+
 \lx mesdugr
 \ps r v
 
@@ -35952,6 +36336,16 @@ Old Borlish < Latin illa
 
 \mn mey
 \mn meðes
+
+\lx meyaular
+\ps ar v
+
+\ge meow
+\ge mew
+\ge pule
+\ge whine
+
+\et onomatopoeia; compare Fr miauler
 
 \lx meyon
 \ps pron
@@ -36319,6 +36713,14 @@ Old Borlish < Latin illa
 \ge chap
 
 \et Middle Borlish < Middle Dutch, Old Norse
+
+\lx modo magno
+\ps adj
+
+\ge writ large
+\ge in a wider context
+
+\et Latin
 
 \lx moðr gostar
 \ps ar v
@@ -38606,6 +39008,16 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \et Middle Borlish < Italian < Latin
 
+\lx nonçaminal
+\ps adj
+
+\ge newsworthy
+\ge in the news
+\ge journalistic
+
+\et adjectival from nonçamen "news"
+\mn nonçamen
+
 \lx noncupað
 \ps adj
 
@@ -38725,7 +39137,7 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \et Old Borlish
 
-\lx nosthubr
+\lx nosthybr
 \ps n
 
 \ge parochialism
@@ -38735,7 +39147,25 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 \ge sympathies
 \ge bias
 
-\et 19C, from Ancient Greek νόστος • (nóstos) "the act of returning home" and ῠ̔́βρις • (húbris) "pride, insolence".
+\et 18C, from Scholastic Latin nosthybris, from Greek νόστος • (nóstos) "return, arrival; homecoming" and ύβρις • (hýbris) "pride, insolence".
+
+\lx nosthybrist
+\ps adj
+
+\ge chauvinistic
+\ge jingoistic
+\ge parochial
+\ge ethnocentric
+\ge homer
+\ge partisan
+\ge traditionalist
+\ge regressive
+
+\xv Nos moliscau a y bau nosthybrist noc scoutar.
+\xe We strove not to listen to the jingoistic chanting.
+
+\et eighteenth-century derviation from nosthybr "chauvinism, bias towards familiar or local things". Briefly in positive use, the term was quickly adopted as a term of disdain and by the late nineteenth century could be used to attack almost any ideology with any principles at all.
+\mn nosthybr
 
 \lx nostr
 \ps pron
@@ -41195,6 +41625,27 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Latin pantex
 
+\lx panditar
+\ps ar v
+
+\ge philosophise
+\ge pontificate
+\ge speechify
+\ge expound
+\ge hold forth
+
+\et early Modern < ... < Sanscrit
+
+\lx panditour
+\ps n
+
+\ge intellectual
+\ge thinker
+\ge philosopher
+
+\et agentive from panditar "philosophise".
+\mn panditar
+
 \lx panel
 \ps n
 
@@ -41596,6 +42047,24 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Old Borlish < Latin
 
+\lx pardurant
+\ps adj
+
+\ge enduring
+\ge long-lasting
+\ge persistent
+
+\et present participle from pardurar "persist"
+\mn pardurar
+
+\lx pardurar
+\ps ar v
+
+\ge endure
+\ge persist
+
+\et Middle Borlish < Latin perdūrō
+
 \lx pareïr
 \ps ir1 v
 
@@ -41759,6 +42228,17 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge well-known
 
 \et Old Borlish < Latin
+
+\lx parnommanç
+\ps n
+
+\ge reputation
+\ge esteem
+\ge celebrity
+\ge idolisation
+
+\et noun from parnommar "highly esteem"
+\mn parnommar
 
 \lx parnommar
 \ps ar v
@@ -42404,6 +42884,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
+
+\lx paus
 \ps interj
 
 \ge hang on
@@ -42412,15 +42901,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
-
-\lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -46679,6 +47159,16 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 
 \et Old Borlish < Latin
 
+\lx quinment
+\ps n
+
+\ge impact
+\ge strike
+\ge collision
+
+\et noun from quinar "whack"
+\mn quinar
+
 \lx quint
 \ps adj
 
@@ -46840,7 +47330,7 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 
 \ge root
 
-\et Old Borlish < Latin
+\et Old Borlish < Latin radicina
 
 \lx racin figr
 \ps r v
@@ -48113,6 +48603,23 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 
 \et Old Borlish < Old English
 
+\lx regres
+\ps n
+
+\ge return
+\ge way back
+\ge return journey
+\ge homecoming
+
+\et Middle Borlish < Latin regressus
+
+\se regres fair
+\ps r v
+
+\ge return
+\ge go back
+\ge journey back
+
 \lx regul
 \ps n
 
@@ -49066,6 +49573,16 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 
 \et Old Borlish < Latin
 
+\lx revelaçon
+\ps n
+
+\ge revelation
+\ge discovery
+\ge realisation
+
+\et noun from revelar "reveal"
+\mn revelar
+
 \lx revelar
 \ps ar v
 
@@ -49298,6 +49815,15 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \ge strap
 
 \et Old Borlish < Old Dutch
+
+\lx rimbangam
+\ps n
+
+\ge garter
+
+\et compound of rimband "ribbon" and gam "leg"
+\mn rimband
+\mn gam
 
 \lx rimmer
 \ps adj
@@ -49976,10 +50502,17 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sabler
 \ps n
 
+\ge pounce-pot
+\ge sand-caster
 \ge hourglass
 \ge sand timer
+\ge stopwatch
+\ge timer
+\ge stint
+\ge spell
 
-\et I'll pay you 50⍚, take it or leave it.
+\et Middle French sablier or directly from Old Borlish sable "sand", from Latin
+\mn sabr
 
 \lx sabler reuvr
 \ps r v
@@ -50435,7 +50968,8 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge containing vitamin C
+\ge antiscorbutic
+\ge pertaining to vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -50443,8 +50977,7 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge antiscorbutic
-\ge pertaining to vitamin C
+\ge containing vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -53686,6 +54219,12 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \et Old Borlish < Latin
 
+\se sogn fair
+\ps r v
+
+\ge dream
+\ge act irrationally
+
 \lx sognar
 \ps ar v
 
@@ -55002,6 +55541,15 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \et Old Borlish < Latin
 
+\lx spagent
+\ps adj
+
+\ge frightening
+\ge scary
+
+\et present participle of spagir "frighten"
+\mn spagir
+
 \lx spagir
 \ps ir1 v
 
@@ -55994,6 +56542,7 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \ge truncheon
 \ge club
+\ge cosh
 \ge rapier
 
 \et Middle Borlish < Dutch
@@ -56023,6 +56572,27 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \et verbal derivative from stoccad "a lunge, thrust" either in Middle Borlish or in the synonymous French estoccade, estoccader before their adoption into Borlish. In either case the noun comes from Italian stoccato "thrust", past participle of stoccar "to thrust (with a sword)", itself from now-obsolete stocco "rapier, shortsword". This noun, which is a borrowing from Dutch stooken "to poke, stab", is reflected in Borlish stoc "truncheon, club".
 \mn stoccad
+
+\lx stoccar
+\ps ar v
+
+\ge bludgeon
+\ge club
+\ge pound
+\ge cosh
+
+\et verb from stoc "club"
+\mn stoc
+
+\lx stoccour
+\ps n
+
+\ge thug
+\ge henchmen
+\ge enforcer
+
+\et agentive noun from stoccar "to bludgeon"
+\mn stoccar
 
 \lx stoðr
 \ps n
@@ -56923,6 +57493,18 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \xe We need to thin out the crowd before the real competition.
 
 \et from Old Borlish isveldre "to pluck, remove parts of", a pleonastic derivative of a presumed *veldre descending directly from Latin vellō "I pluck, depilate, demolish". Extension to woodworking is attested by the thirteenth century, in abstract use it is seen from the fifteenth, and the colloquial sense first arose in the late eighteenth before a revival (or re-coining) in the twentieth.
+
+\lx svellanç
+\ps n
+
+\ge expression
+\ge disclosure
+\ge announcement
+\ge pronouncement
+\ge statement
+
+\et noun from svellar "express"
+\mn svellar
 
 \lx svellar
 \ps ar v
@@ -59482,6 +60064,13 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge shortfall
 \ge insufficiency
 
+\se tramou se cavir
+\ps ir1 v
+
+\ge go down
+\ge be insufficient
+\ge not have enough
+
 \et Middle Borlish < Welsh
 
 \lx tramutar
@@ -59503,6 +60092,18 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge narrow
 
 \et Old Borlish < Old Norse
+
+\lx tranqment
+\ps n
+
+\ge accuracy
+\ge precision
+\ge exactitude
+\ge exactness
+\ge reliability
+
+\et noun derivation from tranq "exact, accurate"
+\mn tranq
 
 \lx transcendr
 \ps r v
@@ -59919,6 +60520,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Old Borlish < Old French < Italian < Latin < Ancient Greek
 
+\lx triomphal
+\ps adj
+
+\ge triumphal
+\ge boastful
+\ge celebrating
+
+\et adjective from triomph "triumph"
+\mn triomph
+
 \lx trist
 \ps adj
 
@@ -59986,6 +60597,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et adjective from troc "trade"
 \mn troc
+
+\lx trocour
+\ps n
+
+\ge trader
+\ge investor
+\ge stockbroker
+
+\et agentive derivation from trocar "trade"
+\mn trocar
 
 \lx troðr
 \ps n
@@ -60983,6 +61604,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge problem
 
 \et Old Borlish < Old Norse
+
+\lx vangard
+\ps n
+
+\ge vanguard
+\ge pioneer
+\ge lead
+\ge forward position
+
+\et Old French avangarde "before guard"
 
 \lx vangard
 \ps n
@@ -63670,6 +64301,15 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge grill-shaped
 
 \et Old Borlish
+
+\lx yarçment
+\ps n
+
+\ge latticework
+\ge grid
+
+\et derivation from yarç "lattice"
+\mn yarç
 
 \lx yarn
 \ps n

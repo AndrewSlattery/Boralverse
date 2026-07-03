@@ -18551,7 +18551,7 @@ The Drengot Collusion arose among the French polities of the Global Workshop per
 pog asc apres er y Nou Sar Urban (un congeries de citað autonom naðusc oc Londr sovran abrangent, tan com Ausbagn n'Istr Boral)
 Shortly thereafter the New Urban Mesh (a collection of somewhat-autonomous cities including independent London, as well as Axbane on Borland)
 
-caut sousunt—ben denuð autour, lonc y nosthubr idiosyncras seyon aut—dy Collujon smargent.
+caut sousunt—ben denuð autour, lonc y nosthybr idiosyncras seyon aut—dy Collujon smargent.
 was subsumed by—or took control of, depending on one's personal biases—the nascent Collusion.
 
 ##
@@ -19808,7 +19808,7 @@ The Numeric Week - Saturday 14th October 1950
 1500: Y lonctum par lau de Japetos III, y novel conjogntur Atlantic oy depos des Morrac vars Ambrosia eð ayent sy preu boðanç augtað je Maucr derran. Vellisquað cos original pall'eç administraçon a catr man d'an 1943, l'accommission dene demorað veg monfeyað deut ag confluyenç de hey cas bors e, lon digr, y sounç dy var. Y snar conjogn y citað de Gadir ag floy Soux e Paratzon ne Brasil auster.
 1500: The length in leagues of Japetos III, the new Atlantic link laid down between Morrack and Ambrosia which conveyed its first messages this last Wednesday. Originally conceived by the two administrations in concert in 1943, the endeavour was delayed several times due both to budgetary concerns and, of course, the outbreak of war. The cable connects the cities of Gadire on the river Soux [Agadir, Morocca] and Paratzon in eastern Brasil [St John's, Newfoundland].
 
-3: L'enombr de vouð dessur dell'opposson ny cambr Yansief yon y soumission dy clou Zachet por interrogment sull'effectualtað de molin a forç sougl se cof yer eligt, ne souc d'un veðrvent imprefait cas y jure suajonnant dy Minister a Ðar. Partejan aun (ða lorry nosthubr sey visant vars y Collujon ben contrig) caglou irrayað cos divers sull'eç advantaç cohernt a men basant a astraphor Drengoçan e sull'occasion de l'Andron a Alchemy ne Lisbon extollir com mojol ny doujug mondial.
+3: L'enombr de vouð dessur dell'opposson ny cambr Yansief yon y soumission dy clou Zachet por interrogment sull'effectualtað de molin a forç sougl se cof yer eligt, ne souc d'un veðrvent imprefait cas y jure suajonnant dy Minister a Ðar. Partejan aun (ða lorry nosthybr sey visant vars y Collujon ben contrig) caglou irrayað cos divers sull'eç advantaç cohernt a men basant a astraphor Drengoçan e sull'occasion de l'Andron a Alchemy ne Lisbon extollir com mojol ny doujug mondial.
 3: The number of votes by which the Mortar coalition's proposal to fund effectivity research into threshold force mills [nuclear power plants] passed in the Yansieve chamber yesterday, after a surprising volte-face from the Ministry for Farming advisory board. Proponents have (depending on their sympathies or lack thereof regarding the Collusion) pointed variously to the benefits of relying less on Drengot astraphor [electricity] and of elevating Lisbon's Faculty of Alchemy to a hub on the world stage.
 
 ##
@@ -30877,9 +30877,9 @@ pharmac /farˈmak/ [fɐːˈmak]
 
 Etymology: Medieval Borlish, borrowed from Latin pharmacum "drug; poison", from Greek φάρμακον • phármakon "drug; potion; dye". The historical use persists in parachthon [e.g. fantasy] writing, having fallen into disuse in post-Arnoutszen medicine; the metaphorical extension is attested from as early as the sixteenth century.
 
-Jo suim un pharmac contr cauvanç.
-/ʒo saim ɪn farˈmak kɔntr̩ koˈvants/
-[ʝo saim ɪn fɐːˈmak ˈkɔn.tɐ kʊˈvans]
+Jo suim un pharmac contr cauveyanç.
+/ʒo saim ɪn farˈmak kɔntr̩ koˈvjants/
+[ʝo saim ɪn fɐːˈmak ˈkɔn.tɐ kʊˈvjans]
 1s take.1s indf drug against balding
 I take a hair loss medication.
 
@@ -31129,7 +31129,7 @@ I will tell you this: none of us there was snow white.
 Y scuir sceurn s'ojar lou meðes pre ðe sceurn parolar.
 The boys learned to hate one another before they learned to speak.
 
-Michael sta frastr eð audaç e carið par lorry paðr tandic Rudolf sta bleic e spagent, alor Rudolf oja Michael.
+Michael sta frastr eð audaç e carið par lorry paðr tandic Rudolf sta bleic e spait, alor Rudolf oja Michael.
 Michael was sturdy and daring and beloved by their father where Rudolf was pallid and fearful, so Rudolf hated Michael.
 
 Ma Rudolf sta un prinç tandic Michael no sta nien, alor Michael oja Rudolf, con un passion oç se souðurent afont luy cos briglandessem lonc ig y launt de Rudolf deneu saviblessem.
@@ -31516,3 +31516,54 @@ Instead, the majority of the tapestry's time was spent displaying short pieces o
 
 ##
 
+230.2: inaltour "elitist"
+
+inaltour /ˌi.nalˈtur/ [ˌi.nɐlˈtʊː]
+- elitist, snob, one who holds high culture to be inherently superior;
+- gatekeeper, arbiter, a self-appointment judge of refinement or sophistication;
+- shibboleth, marker, status symbol, something otherwise innocuous which marks one as belonging to a rarefied group
+
+Etymology: early modern period, agentive derivation from inaltar "highly esteem, put on a pedestal". This was borrowed from Latin inaltō "I raise high; I exalt", from altus "high". Extension to people or things which separate an in-group from everyone else is seen from the early twentieth century.
+
+For un inaltour vel y lasc amar.
+/fɔr ɪn ˌi.nalˈtur vɛl i lax aˈmar/
+[fɔː‿ʀɪn ˌi.nɐlˈtʊː vɛl i lax ɐˈmɐː]
+only indf elitist will.sbj df film like-inf
+Only a snob would like the film.
+
+##
+
+230.3: canvaskel "league, conference"
+
+canvaskel /ˌkan.vasˈkɛl/ [ˌkaɱ.vɐsˈkɛl]
+- league, conference, an association of sports teams which compete against each other;
+- ranking, scoreboard, leaderboard, a list of competitors ordered by how well they have performed;
+- hierarchy, totem pole, a system of organisation with superiors and inferiors;
+- (sociology) the way society as a whole engages with a given concept, especially how systems use it to assign status or enforce specific roles 
+
+Etymology: nineteenth century in a sports context (originally lineball), a borrowing from Welsh canvaskel, a compound of canva "stile, rung, footstool" and skel "ladder". The former is a derivation of cam "step, footstep", while the latter is an early Middle Welsh borrowing from Norman French eskele "ladder". Metaphorical extension is seen from the early twentieth century, while the final sense came out of the Mehannin [Brisbane] academic school in the 1970s.
+
+Cal çod hamt y coyol dy canvaskel sceint oy?
+/kal tsɔd hamt i kɔˈjɔl di ˌkan.vaˈskɛl xint ɔi/
+[kal tsɔd hamt i kʊˈʝɔl di ˌkaɱ.vɐˈskɛl xint ɔi]
+what squad inhabit df peak of-df league there.be-p.prs now
+Which team is leading the league right now?
+
+##
+
+230.4: nosthybrist "chauvinist"
+
+nosthybrist /ˌnɔ.sθiˈbrɪst/ [ˌnɔ.sθɪˈbʀɪst]
+- chauvinistic, jingoistic, parochial, ethnocentric, vaunting one's local area above all others;
+- homer, partisan, (of a team supporter) blind to any fault of the local side;
+- traditionalist, regressive, in favour of a return to a notional version of the past
+
+Etymology: eighteenth-century derviation from nosthybr "chauvinism, bias towards familiar or local things". This is from Scholastic Latin nosthybris, from Greek νόστος • (nóstos) "return, arrival; homecoming" and ύβρις • (hýbris) "pride, insolence". Briefly in positive use, the term was quickly adopted as a term of disdain and by the late nineteenth century could be used to attack almost any ideology with any principles at all.
+
+Nos moliscau a y bau nosthybrist noc scoutar.
+/nɔz ˌmo.liˈxau a i bo ˌnɔ.sθi bʀɪst nɔk xuˈtar/
+[nɔz ˌmo.lɪˈxau a i bo ˌnɔ.sθɪˈbʀɪst nɔk xʊˈtɐː]
+1p strive-ipf.1p at df bark chauvinist ng listen-inf
+We strove not to listen to the jingoist chanting.
+
+##
