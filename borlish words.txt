@@ -1,7 +1,6 @@
 authicanopoesy "complacency" | authican "self-sufficient" | authicanopoetic "complacent" < Gk
 belligrman "warmonger" < belliger "warlike" + -man "purveyor of"
 blisnot "eunuch" < OE belisnod
-cochiglot "snail; jockstrap" (diminutive of cochigl "shell" < conchylium, coccus)
 cubicr "bedsit, studio" < cubiculum
 cuindr "kernel" < cyrnel in OE
 ðaugr "embankment" < ad- + aggerem
@@ -9,7 +8,6 @@ depoussar "cashier, fire" < depulso
 empory "economy" < emporium
 fancy "idea, fantasy, dream" < phantasia
 laðr "plough" < Insular Latin alatrum < aratrum "plough"
-licol "brace, pair (of animals)" < cf. OFr liecol < ligo + collar
 limaç "slug" < limax
 oraçoir "stormy weather, thunderstorm, a storm zone" < oraç "storm" < Vulgar Latin *aurāticum
 pacentar "be patient to, put up with" < patiens

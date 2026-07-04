@@ -10582,7 +10582,25 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge spiral
 \ge whorl
 
-\et < Vulgar Latin conchilia < Latin conchȳlium < Greek
+\et from Late Latin cocchilia "shell", a combination of Classical conchȳlium "shellfish" (< Greek) and coccum "scarlet berry, insect".
+
+\lx cochiglot
+\ps n
+
+\ge snail
+\ge sluggard
+\ge slowpoke
+\ge slowcoach
+\ge ampersand
+\ge cup
+\ge box
+\ge codpiece
+
+\xv Skig star tal cochiglot neðan nos traiscneu!
+\xe Don't be such a slowcoach or we'll be late!
+
+\et Middle Borlish, diminutive of cochigl "shell; spiral". In the first sense it displaced part of the sematic space of limaç "slug, (obsolete or dialect0 snail", which reflects synonymous līmāx in Latin. Metaphorical use for slow people is seen from the seventeenth century; the latter senses are presumed to be independent extensions of the notion of a "small spiral" and "small shell", respectively.
+\mn cochigl
 
 \lx cocin
 \ps n
@@ -12408,17 +12426,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge conspirator
-\ge abettor
+\ge accomplice
 
-\mn conjuraçonnar
+\et Middle Borlish
 
 \lx conjuraçonnour
 \ps n
 
 \ge conspirator
-\ge accomplice
+\ge abettor
 
-\et Middle Borlish
+\mn conjuraçonnar
 
 \lx connardaç
 \ps n
@@ -16322,19 +16340,19 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps ar v
 
 \ge decipher
-\ge decode
-
-\mn scifr
-
-\lx descifrar
-\ps ar v
-
-\ge decipher
 \ge make out
 \ge translate
 \ge simplify
 
 \et Old Borlish < Medieval Latin < Arabic
+
+\lx descifrar
+\ps ar v
+
+\ge decipher
+\ge decode
+
+\mn scifr
 
 \lx descombr
 \ps r v
@@ -18840,21 +18858,21 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps adj
 
 \ge durable
-\ge stiff
-\ge lasting
-\ge permanent
-\ge resilient
+\ge long-lasting
 
-\et adjective from durar "last"
+\et Adjective from durar
 \mn durar
 
 \lx durabr
 \ps adj
 
 \ge durable
-\ge long-lasting
+\ge stiff
+\ge lasting
+\ge permanent
+\ge resilient
 
-\et Adjective from durar
+\et adjective from durar "last"
 \mn durar
 
 \lx durant
@@ -21654,6 +21672,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 
 \et Old Borlish < Old French < Latin
 
+\lx faïscenç
+\ps n
+
+\ge preference
+\ge favouritism
+\ge favoritism
+\ge bias
+\ge partiality
+
+\et noun from faïr "prefer"
+\mn faïr
+
 \lx faïscour
 \ps n
 
@@ -24144,6 +24174,13 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps ar v
 
 \ge rub
+
+\et Old Borlish < Old French < Latin
+
+\lx frottar
+\ps ar v
+
+\ge rub
 \ge chafe
 \ge scour
 \ge scrub
@@ -24159,13 +24196,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
-
-\lx frottar
-\ps ar v
-
-\ge rub
-
-\et Old Borlish < Old French < Latin
 
 \lx fruit
 \ps n
@@ -32885,6 +32915,25 @@ Old Borlish < Latin illa
 
 \et Middle Borlish < Latin
 
+\lx licol
+\ps n
+
+\ge halter
+\ge yoke
+\ge brace
+\ge lead
+\ge pair
+\ge couple
+\ge twosome
+\ge duo
+\ge double act
+\ge two point
+
+\xv Vossy morrig reuloirn ant un licol de pardriç.
+\xe Your aunts came back with a brace of partridge.
+
+\et from Middle Borlish licol "yoke, halter tying two animals together", borrowed from synonymous liecol in contemporary French. This is an exocentric compound of lier "tie, join, link" ← Latin ligō "I bind" and col "neck" ← Latin collum "neck, throat". Extension to other collections of two things proceeded via hunting to sports and games and finally to performing arts.
+
 \lx liesc
 \ps n
 
@@ -38446,6 +38495,16 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \mn eutað
 
+\lx nell'ottem mont
+\ps adv
+
+\ge in a perfect world
+\ge ideally
+\ge if possible
+
+\mn ottem
+\mn mont
+
 \lx nentamen
 \ps adv
 
@@ -43188,6 +43247,32 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn pendr
 \mn delusion
 
+\lx pendramnougr
+\ps adv
+
+\ge head first
+\ge head-first
+\ge headlong
+\ge full throttle
+\ge hell for leather
+\ge flat out
+\ge pedal to the metal
+\ge as all get-out
+\ge helter-skelter
+\ge rashly
+\ge hastily
+\ge recklessly
+\ge slapdash
+\ge posthaste
+\ge immediately
+\ge forthwith
+\ge pronto
+
+\xv Y dou païs quaucaurn pendramnougr a var roug.
+\xe The two nations rushed headlong into open war.
+
+\et eighteenth century borrowing from Welsh pendramnwgl "head-first, upside-down; in disarray; at loggerheads". This is a concatenation of pen "head", tra "over, across" and mnwgl "neck, throat" attested as an adverb from the thirteenth century. In the last senses from the 1910s, especially in facetious requests.
+
 \lx penetrar
 \ps ar v
 
@@ -47159,6 +47244,12 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 
 \et Old Borlish < Latin
 
+\se quincein
+\ps n
+
+\ge period of fifteen years
+\ge fifteen-year-old
+
 \lx quinment
 \ps n
 
@@ -47953,6 +48044,15 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \ge delighted
 
 \et Old Borlish < Latin
+
+\lx ravir
+\ps ir2 v
+
+\ge ravish
+\ge win
+\ge debauch
+
+\et Old Borlish < Latin rapiō
 
 \lx ray
 \ps n
@@ -53052,6 +53152,14 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge pail
 
 \et Old Borlish < Vulgar Latin
+
+\lx seducçon
+\ps n
+
+\ge seduction
+
+\et noun from sedugr "seduce"
+\mn sedugr
 
 \lx sedugr
 \ps r v
@@ -58548,6 +58656,15 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Old Borlish < Latin
 
+\lx tendençostað
+\ps n
+
+\ge partiality
+\ge biasedness
+
+\et noun from tendençous "biased"
+\mn tendençous
+
 \lx tendençous
 \ps adj
 
@@ -62515,6 +62632,15 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Old Borlish < Latin
 
+\lx verimmous
+\ps adj
+
+\ge venomous
+\ge rancorous
+
+\et adjective from verim "venom"
+\mn verim
+
 \lx veronic
 \ps n
 
@@ -63383,16 +63509,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge volcano
+\ge hothead
 
-\et Italian, from Latin Vulcanus
+\et Italian < Latin Vulcanus
 
 \lx volcan
 \ps n
 
 \ge volcano
-\ge hothead
 
-\et Italian < Latin Vulcanus
+\et Italian, from Latin Vulcanus
 
 \lx volir
 \ps ir1 v

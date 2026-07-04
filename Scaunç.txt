@@ -31567,3 +31567,113 @@ Nos moliscau a y bau nosthybrist noc scoutar.
 We strove not to listen to the jingoist chanting.
 
 ##
+
+230.5: Vintedos
+
+excerpt from 1961 work Lo Vèrs e la Vela "The Verse and the Sail", from the chapter on the vintedos form. The book was written by Magdalena Fabressa, a professor of Domain History at the Higher School of Campottonì [~Wilmington, DE] specialising in verse.
+
+…vintedos (occasionally called the "mariner's octave") is a form of verse invented in post-Tetrarchic Provence, which is now employed worldwide in a dozen poetic traditions and in even more languages. It has close associations with maritime poetry, but has also been turned to devotional works, laments, romantic epics and popular music.
+
+The name vintedos (earliest attestation vintidós, 1449), taken from Doccian [Occitan], means "twenty-two".
+
+Structure
+
+A stanza of vintedos comprises two sets of dattilo [dactyl] beats, arranged and rhymed as follows. It may be displayed as couplets ("rope" format), or as below in eight-line stanzas ("ladder" format) to reflect the underlying rhythm.
+
+[image here]
+
+Because every strict vintedos shares the same metre, any stanzas in the form can be sung to any of several traditional tunes.
+
+History and Development
+
+The dattilo lines had become characteristic of processional chant in the churches of Burgundy and Lombardy by the twelfth century. Splitting the lines at the vintedos points arose on the Provincial coast; the earliest examples (from the Lerins monastery) contain annotated breath marks but as yet no rhyme.
+
+The Antibol songbook, compiled in the 1380s by an unknown scribe of the hermitage-fishery at Antibol, records what appear to be a series of improvised lay rhymes in the vintedos form. They have rhymes only on the (D) lines, and are the first examples of vintedos with irreligious subject matters.
+
+Vintedos spread westward during the Vascon Ascendancy of the fifteenth century. Poets of this period standardised and elevated the form; none more so than Belcara hix Aimeric, who is credited with popularising the full rhyme structure. More showy displays of technical skill like acrostics or strict alliteration were briefly seen as prestigious, but were soon considered affected or stodgy.
+
+In the sixteenth century, publications like the Marsella Lament (reckoning with the Second Great Dying) and the Huzatre Psalter transformed the vintedos. The former gave it literary gravitas, while the latter's inexpensive prints and suggested folk tunes brought it into the voices of every village congregation.
+
+More specialised conventions (such as "Vierna's precept", which forbade adjacent rhymes to share vowel sounds) were widely adopted in this period, and soon after analogues of the form appear across the world alongside translations of the Doccian works.
+
+##
+
+231.1: The Heir and the Spare - 2
+
+continued translation from the beginning of [real-life] book The Henchmen of Zenda by KJ Charles, a 2018 pastiche of the 1894 romp The Prisoner of Zenda.
+
+Y fraðr deneurn segr crescuð bogr amiablessem.
+The brothers grew to manhood on no better terms.
+
+Michael se cof y grad de Duc a Strelsau luy soupleyað dessur d'an sy quincein—Strelsau, l'oç caver meðes.
+Michael had the title of Duke of Strelsau bestowed upon him at his fifteenth year—Strelsau, the capital itself.
+
+Y veðr rey nolois ceu poðir sy faïscenç despleyar ovartessem, ma Rudolf remane heriter dy coroun.
+The old king could scarcely have made his preference clearer, yet Rudolf was still heir to the crown.
+
+L'enmigtað verimmous entr y fraðr no'r diminoit pall'oc tendençostað.
+The bad blood between the brothers did not lessen over this partiality.
+
+Ðe s'abatten. Ðe s'abatten por pedisecq, por alley, e por femn, tojorn femn.
+They fought. They fought over servants, and allies, and women, always women.
+
+Ða l'un desira un femn, se deye all'autr la posseïr—nell'ottem mont par meyan de seducçon (ke un cour ravir sta triomph maissem a un commant figr ben a forç issarr), ma ðe stan y prinç eð y duc, e Rudolf cos particuler poðe agir comoscon exact volois luy plagr.
+If one wanted a woman, the other must needs have her—ideally by seduction (since to steal a heart was a greater triumph than to issue a command or to take by force), but they were the prince and the duke, and Rudolf in particular could do precisely as he chose.
+
+##
+
+231.2: cochiglot "snail"
+
+cochiglot /ˌko.kaiˈlɔt/ [ˌko.kɐiˈlɔt]
+- snail, any of many gastropods with a coiled shell;
+- sluggard, slowpoke, slowcoach, a person who takes a long time to do or realise things;
+- ampersand, a ligature of <et> representing the word "and";
+- codpiece, cup, box, a rigid protective garment covering the penis and testicles
+
+Etymology: Middle Borlish, diminutive of cochigl "shell; spiral", from Late Latin cocchilia "shell", a combination of Classical conchȳlium "shellfish" and coccum "scarlet berry, insect". In the first sense it displaced part of the sematic space of limaç "slug, (obsolete or dialect0 snail", which reflects synonymous līmāx in Latin. Metaphorical use for slow people is seen from the seventeenth century; the latter senses are presumed to be independent extensions of the notion of a "small spiral" and "small shell", respectively.
+
+Skig star tal cochiglot neðan nos traiscneu!
+/skai star tal ˌko.kaiˈlɔt neˈðan nɔz trexˈnau/
+[skai stɐː tal ˌko.kɐiˈlɔt neˈðan nɔz tʀɪçˈno]
+avoid be-inf so snail lest 1p drag-1p.sbj
+Don't be such a slowcoach or we'll be late!
+
+##
+
+231.3: licol "double act"
+
+licol /liˈkɔl/ [lɪˈkɔl]
+- halter, lead, a collar of straps or rope placed on the head of animals to lead or tie them;
+- brace, yoke, a set of two animals as might be tied with halters or carried together (as of game birds);
+- pair, couple, twosome, duo, double act, a set of two people or things in particular contexts (as of wheels, performers, jewellery or architecture);
+- a score of two points in various games or sports, or an action which is awarded such a score
+
+Etymology: from Middle Borlish licol "yoke, halter tying two animals together", borrowed from synonymous liecol in contemporary French. This is an exocentric compound of lier "tie, join, link" ← Latin ligō "I bind" and col "neck" ← Latin collum "neck, throat". Extension to other collections of two things proceeded via hunting to sports and games and finally to performing arts.
+
+Vossy morrig reuloirn ant un licol de pardriç.
+/vɔˈsi mɔˈrai rauˈlɔirn̩ ant ɪn liˈkɔl de parˈdrɪts/
+[vʊˈsi mʊˈʀai rɐuˈlɔ.jɐn ant ɪn lɪˈkɔl de pɐːˈdʀɪts]
+2p.gn aunt return-pst.3p with indf halter of partridge
+Your aunts came back with a brace of partridge.
+
+##
+
+231.4: pendramnougr "headlong"
+
+pendramnougr /ˌpɛn.dramˈnugr̩/ [ˌpɛn.dʀɐmˈnu.gɐ]
+- head-first, headlong, with the head at the front;
+- full throttle, hell for leather, flat out, pedal to the metal, as all get-out, helter-skelter, proceeding at or accelerating to maximum speed;
+- rashly, hastily, recklessly, slapdash, without pausing to think anything through;
+- (sometimes proscribed) posthaste, immediately, forthwith, pronto, at once, with the minimum possible delay
+
+Etymology: eighteenth century borrowing from Welsh pendramnwgl "head-first, upside-down; in disarray; at loggerheads". This is a concatenation of pen "head", tra "over, across" and mnwgl "neck, throat" attested as an adverb from the thirteenth century. In the last senses from the 1910s, especially in facetious requests.
+
+Y dou païs quaucaurn pendramnougr a var roug.
+/i du pɛˈjɪz kwoˈkorn̩ ˌpɛn.dramˈnugr̩ a var rui/
+[i du pɪˈʝɪz kwʊˈkoːn ˌpɛn.dʀɐmˈnu.gɐ‿ʀa vɐː ʀuj]
+df two nation stride-pst-3p headlong to war red
+The two nations rushed headlong into open war.
+
+##
+
+231.5:
