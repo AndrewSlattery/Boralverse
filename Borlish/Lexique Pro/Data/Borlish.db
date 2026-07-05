@@ -12043,7 +12043,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge condemnation
 \ge sentence
 
-\et noun from condamnar "condemn"
+\et Latin condemnatio, noun from condamnar "condemn"
 \mn condamnar
 
 \lx condamnment
@@ -12052,7 +12052,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge condemnation
 \ge sentence
 
-\et Latin condemnatio, noun from condamnar "condemn"
+\et noun from condamnar "condemn"
 \mn condamnar
 
 \lx condensar
@@ -12426,17 +12426,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge conspirator
-\ge accomplice
+\ge abettor
 
-\et Middle Borlish
+\mn conjuraçonnar
 
 \lx conjuraçonnour
 \ps n
 
 \ge conspirator
-\ge abettor
+\ge accomplice
 
-\mn conjuraçonnar
+\et Middle Borlish
 
 \lx connardaç
 \ps n
@@ -13279,7 +13279,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et Middle Borlish < Latin. Noun sense transferred from the adjective in the eighteenth century.
 
-\lx corporaleyaçon
+\lx corporalleyaçon
 \ps n
 
 \ge incorporation
@@ -17603,10 +17603,13 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \lx directour
 \ps n
 
+\ge leader
 \ge director
+\ge ruler
+\ge governor
 \ge president
 
-\et agentive from directar "direct"
+\et agentive noun from directar "lead".
 \mn directar
 
 \lx dirigir
@@ -18826,6 +18829,16 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ge brawl
 
 \et Old Borlish < Latin
+
+\lx duellar
+\ps ar v
+
+\ge duel
+\ge fight
+\ge fence
+
+\et verb from duel "duel".
+\mn duel
 
 \lx dueller
 \ps n
@@ -20166,15 +20179,6 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \lx ensign
 \ps n
 
-\ge engraving
-\ge carving
-\ge suit
-
-\et Old Borlish < Latin
-
-\lx ensign
-\ps n
-
 \ge emblem
 \ge logo
 \ge symbol
@@ -20192,6 +20196,15 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \xe I will recommend you for a higher position.
 
 \et Middle Borlish, a semilearned borrowing from Latin insignia "emblem, badge", a noun formation from adjective insignis "marked, distinguished". The word has been used metonymically to refer to the position conferred or represented by an insignia since the fifteenth century, and it has been used in card games from approximately the same time.
+
+\lx ensign
+\ps n
+
+\ge engraving
+\ge carving
+\ge suit
+
+\et Old Borlish < Latin
 
 \lx ensignar
 \ps ar v
@@ -20716,6 +20729,19 @@ Cognate with Borlish speut "free, unfettered, clear", the word épu reflects Old
 \ge the same
 
 \et Middle Borlish < Latin
+
+\lx equalment
+\ps n
+
+\ge egalitarianism
+
+\et noun from equal "equal"
+\mn equal
+
+\se equalmenter
+\ps adj
+
+\ge egalitarian
 
 \lx equaltað
 \ps n
@@ -23825,18 +23851,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossau
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossaveyaçon
 \ps n
@@ -24174,13 +24200,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps ar v
 
 \ge rub
-
-\et Old Borlish < Old French < Latin
-
-\lx frottar
-\ps ar v
-
-\ge rub
 \ge chafe
 \ge scour
 \ge scrub
@@ -24196,6 +24215,13 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
+
+\lx frottar
+\ps ar v
+
+\ge rub
+
+\et Old Borlish < Old French < Latin
 
 \lx fruit
 \ps n
@@ -32888,6 +32914,14 @@ Old Borlish < Latin illa
 \ge rid
 \ge rescue
 \ge release
+
+\et Middle Borlish < Latin
+
+\lx libertað
+\ps n
+
+\ge freedom
+\ge liberty
 
 \et Middle Borlish < Latin
 
@@ -41599,7 +41633,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Old Borlish < Old French
 
-\lx païsanry
+\lx païsandry
 \ps n
 
 \ge peasantry
@@ -41878,6 +41912,14 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge by means of
 
 \mn meyan
+
+\lx par sgart tauger
+\ps adv
+
+\ge in broad strokes
+
+\mn sgart
+\mn tauger
 
 \lx par surcresc
 \ps conj
@@ -42570,6 +42612,17 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Italian partigiano
 
+\lx partejanneyar
+\ps ar v
+
+\ge propound
+\ge advocate
+\ge argue for
+\ge support
+
+\et verb from partejan "supporter"
+\mn partejan
+
 \lx partenir
 \ps ir1 v
 
@@ -42943,15 +42996,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
-
-\lx paus
 \ps interj
 
 \ge hang on
@@ -42960,6 +43004,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
+
+\lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -48506,6 +48559,15 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 
 \et Middle Borlish < Latin
 
+\lx redughent
+\ps adj
+
+\ge oppressive
+\ge suppressive
+
+\et participle from redugr "subdue"
+\mn redugr
+
 \lx redugr
 \ps r v
 
@@ -49165,6 +49227,23 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \ge regret
 
 \et
+
+\lx repisanç
+\ps n
+
+\ge redistribution
+
+\et noun from repisar "redistribute"
+\mn repisar
+
+\lx repisar
+\ps ar v
+
+\ge redistribute
+\ge reallocate
+
+\et derivation from pisar "weigh".
+\mn pisar
 
 \lx repoussar
 \ps ar v
@@ -51068,8 +51147,7 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge antiscorbutic
-\ge pertaining to vitamin C
+\ge containing vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -51077,7 +51155,8 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge containing vitamin C
+\ge antiscorbutic
+\ge pertaining to vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -61092,6 +61171,25 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Middle Borlish < Latin
 
+\lx uniform
+\ps adj
+
+\ge uniform
+\ge even
+\ge homogeneous
+
+\et Latin ūnifōrmis
+
+\lx uniformtað
+\ps n
+
+\ge uniformity
+\ge homogeneity
+\ge evenness
+
+\et noun from uniform "uniform"
+\mn uniform
+
 \lx union
 \ps n
 
@@ -61725,22 +61823,22 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \lx vangard
 \ps n
 
-\ge vanguard
-\ge pioneer
-\ge lead
-\ge forward position
-
-\et Old French avangarde "before guard"
-
-\lx vangard
-\ps n
-
 \ge predecessor
 \ge antecedent
 \ge forebear
 \ge precursor
 
 \et Middle Borlish < Norman < Old French < Frankish, Vulgar Latin
+
+\lx vangard
+\ps n
+
+\ge vanguard
+\ge pioneer
+\ge lead
+\ge forward position
+
+\et Old French avangarde "before guard"
 
 \lx vapour
 \ps n
@@ -62563,6 +62661,14 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge staff
 
 \et Old Borlish < Latin
+
+\lx verdeyanç
+\ps n
+
+\ge flourishing
+
+\et noun from verdeyar "bloom"
+\mn verdeyar
 
 \lx verdeyant
 \ps adj

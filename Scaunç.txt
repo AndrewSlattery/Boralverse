@@ -26052,7 +26052,7 @@ Don't be distracted by minutiae.
 
 The Light that Casts a Thousand Shadows (originally published in Borlish as Un Flam, Mil Ombr "1 Flame, 1000 Shadows") was a 2017 N work of pop history, economics and philosophy written by Ollamec Vamncoury and published by a subsidiary of the Peujon Rous (Red Dove) writing guild.
 
-Her book chronicles the duelling ideologies of Ubiquity and Vicinity, whose rivalry defined many of the greatest conflicts of the twentieth century and which together form the basis for most modern schools of political though. In broad strokes, Ubiquity stands for equality, universalism and homogeneity, while Vicinity valourises liberty, localism and diversity.
+Her book chronicles the duelling ideologies of Ubiquity and Vicinity, whose rivalry defined many of the greatest conflicts of the twentieth century and which together form the basis for most modern schools of political thought. In broad strokes, Ubiquity stands for equality, universalism and homogeneity, while Vicinity valourises liberty, localism and diversity.
 
 Despite various administrations' propaganda, neither ideology holds the undisputed moral high ground. Vicinity has been linked to the flourishing of regional languages and to the freedom to pursue nontraditional familial structures; it has also been used to justify the formation of ghettos and even ethnostates. Ubiquity has led to the toppling of truly oppressive hierarchies in the name of egalitarian redistribution of wealth and power; it has also marginalised and attempted to extirpate elements of society that do not fit into one of the many visions for society that leaders have propounded.
 
@@ -31676,4 +31676,47 @@ The two nations rushed headlong into open war.
 
 ##
 
-231.5:
+231.5: The Riverine Cities
+
+excerpt from Downstream: Afterlives of the Riverine Cities, a 2019 retrospective history by Zorica Branimirova, professor in the department of Domain History at the University of Belgrade.
+
+…two centuries of unified rule under the Kingdom of the Danaw, which reached a zenith with the Decadence of Belgrade as it incorporated Bulgary [Bulgaria] and pushed back its border with Bavarn [Bavaria]. This kingdom did not survive the Second German War (1815–23). What rose in its place a federacy of city-states along the river bound by treaty, trade, and a rather pointed distrust of distant rulers claiming authority over the great expanse of the basin.
+
+Hosting significant religious minorities long resented by, and resentful of, local baronial powers, the Cities became a hotbed of dissent. Promethean clubs, precursors to what would become the Deviance movement, had taken root even in the erstwhile kingdom; their successors flourished openly enough that by the 1810s the Cities hosted a genuinely semi-public tovaric [queer] subculture. The word tov itself is first attested in this milieu.
+
+Belgrade had become an obvious host for the international committee that produced the Laic Declarations of 1850, negotiating the unyoking of religious and administrative authority. Forty years later the Cities were, alongside Britain and New Leudong, among the earliest adopters of the Household Renovation (the broader loosening of marriage and family norms). In 1912 Boxa [Novi Sad], often cited as the most cosmopolitan of the Cities, opened the earliest house of odyssey [cinema] to sell tickets to the public on a regular schedule.
+
+What became of the Cities themselves? Upriver, Pojon [Bratislava] and Strengom [Esztergom] had by 1920 been absorbed into Moravy [Moravia] and Awry [Hungary] respectively by means of the Millstone War's bloody reorganisation. Both cities nonetheless kept, and keep, independent courts and powers over taxation comparable to the Borlish cities of Axbane and Pentrose.
+
+Meanwhile, the Sava Compact of 1932 created the Danaw Concert further downriver, which retains a greater part of the character of the Riverine Cities. Intransigent Boxa declined full membership; its 1935 association protocol is the bane of cartographers the world over, who would prefer Boxa be either a fully sovereign city-state or fully subordinate…
+
+##
+
+232.1: Vamncoury's Dichotomy
+
+excerpt in translation from The Light that Casts a Thousand Shadows, a 2017 N work of pop history, economics and philosophy written by Ollamec Vamncoury and published by a subsidiary of the Peujon Rous (Russet Dove) writing guild.
+
+Sy livr fay chronic dy doctrin se duellant sou nom d'Ubicqtað e Vecintað, dont l'enmigtað basfeyau bempart dy rix maissem par y siecr veint eð ec accougl y fondamen intermanent por y plurem de sect modern a noçon politic.
+Her book chronicles the duelling ideologies of Ubiquity and Vicinity, whose rivalry defined many of the greatest conflicts of the twentieth century and which together form the basis for most modern schools of political thought.
+
+Par sgart tauger, Ubicqtað signfey equaltað, pantachualtað eð uniformtað, interim Vecintað glorfey libertað, entauthaltað e diverstað.
+In broad strokes, Ubiquity stands for equality, universalism and homogeneity, while Vicinity valourises liberty, localism and diversity.
+
+Malgrað y haubrjorançastr d'administraçon divers, necun doctrin brouc un contingent innocendessem lon disputaçon.
+Despite various administrations' propaganda, neither ideology holds the undisputed moral high ground.
+
+Vecintað a ligaçon noncupað con y verdeyanç de lengaç comtaðer e coll'autonomy por frameð famigler noc costumner forgar;
+Vicinity has been linked to the flourishing of regional languages and to the freedom to pursue nontraditional familial structures;
+
+lo's par surscresc sarvið a y corporalleyaçon d'aujamat oðig paramontað gentic.
+it has also been used to justify the formation of ghettos and even ethnostates.
+
+Ubicqtað a entrposson fait vars doujug gradual redughent veram dessoclar sou nom de repisanç equalmenter a lucr e forç; 
+Ubiquity has led to the toppling of truly oppressive hierarchies in the name of egalitarian redistribution of wealth and power;
+
+lo's par surcresc agið a kynous ny cultur maugrfeyar eð a attendr a l'extirpar eç alcun dy magn vijon partejanneyað par directour noc quottant.
+it has also marginalised and attempted to extirpate elements of society that do not fit into one of the many visions that leaders have propounded.
+
+##
+
+232.2:

@@ -18,3 +18,7 @@ seget "crop" < L seges
 spinglar "pin down" < cf. French épingler
 step de man "leg-up" < OE step, man "hand"
 vason "turf, sod" < cf. Fr gazon
+pantachualtað "universalism" < Gk pantakhou | pantachual
+entauthaltað "localism" < Gk entautha | entauthal
+aujamat "ghetto" < Sp aljama < Ar
+entrposson fair "act as a stepping stone" | entrposson "intermediate step" < entr- "between" and posson "position" < positio
