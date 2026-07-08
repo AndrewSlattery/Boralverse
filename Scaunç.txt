@@ -31719,4 +31719,58 @@ it has also marginalised and attempted to extirpate elements of society that do 
 
 ##
 
-232.2:
+232.2: cubicr "studio"	
+
+cubicr /kiˈbɪkr̩/ [kɪˈbɪ.kɐ]
+- bedsit, studio, a single rented room serving as an entire dwelling;
+- cell, a small private room in a monastery or similar institution;
+- berth, cabin, compartment, a small room sectioned off aboard a ship or train;
+- snug, bolt-hole, a small space kept as one's own private refuge
+
+Etymology: Middle Borlish, originally in the monastic sense, borrowed from Latin cubiculum "bedroom". This is a derivation from cubō "I lie down, sleep". Extension to naval use (first for e.g. captain's cabins, later for more lowly accommodation) is attested from the sixteenth century, with further expansion to other transport and to simple housing in the nineteenth century.
+
+Noc maissem an cubicr sur micrman luy quotta.
+/nɔk ˈme.sɛm an kiˈbɪkr̩ sɪr ˌmɪkr̩ˈman lai kwɔˈta/
+[nɔg ˈme.sɐm aŋ kɪˈbɪ.kɐ sɪː ˌmɪ.kɐˈman lai kwʊˈta]
+ng more at-indf studio on bakery 3s.obl fit-ipf
+A bedsit above a bakery was all she could afford.
+
+##
+
+232.3: depoussar "cashier"
+
+depoussar /ˌde.puˈsar/ [ˌde.pʊˈsɐː]
+- drive off, beat back, force a person or animal to leave or to remain at a distance;
+- wean, take a young animal off the teat;
+- cashier, dismiss, fire, remove someone from a post or office;
+- rebuff, turn away, refuse a request or suitor outright
+
+Etymology: borrowed in all senses from Latin dēpulsus, past participle of dēpellō "I drive out, expel; I deter; I wean", then adapted to existing and related appoussar "push, drive" and repoussar "push back, repel". Nowadays the terms is seen principally in military or romantic contexts, or occasionally in agriculture (where it competes with sevrar "cut off, separate").
+
+Nos depoussaum tre dell'agnel je meis Aost.
+/nɔz ˌde.puˈsom tre dɛ.lɛiˈnɛl ʒe miz aust/
+[nɔz ˌde.pʊˈsom tʀe ˌdɛ.lɪjˈnɛl ʝe miz aust]
+1p wean-pst-1p three of-df=lamb time.of month August
+We weaned three of the lambs in August.
+
+##
+
+232.4: blisnot "eunuch"
+
+blisnot /bliˈznɔt/ [blɪˈznɔt]
+- (historical) eunuch, castrato, a castrated man especially as employed in court or harem service;
+- gelding, wether, ox, a castrated male animal kept for work or riding;
+- third party, honest broker, neutral party, one trusted precisely for having nothing to gain;
+- escrow, a contractual arrangment with assets held in trust by an independent agent
+
+Etymology: from Old Borlish blisnod, blestin, belsont (among others) "eunuch, castrated man". This was borrowed from synonymous belisnod in Old English, from the verb belisnian "to castrate". The term's non-metaphorical use for castrated people has been mostly supplanted by local terms such as eunuch or yanņin, outside of fantasy or historical fiction. The financial and mercantile senses are attested from as early as the fourteenth century.
+
+Y nombler volau pieç y bors sdroyað par blisnot.
+/i nɔmˈblɛr voˈlo pjɛts i bɔrz zdrɔˈjaθ par bliˈznɔt/
+[i nʊmˈblɛː vʊˈlo pjɛts i bɔːz zdʀʊˈʝaθ pɐː blɪˈznɔt]
+df banker steal-pst some df fund store-p.pst by eunuch
+The banker stole some of the funds kept in escrow.
+
+##
+
+232.5: 

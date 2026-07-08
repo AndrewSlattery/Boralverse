@@ -13,6 +13,8 @@ fancy "idea, fantasy, dream" < phantasia
 laðr "plough" < Insular Latin alatrum < aratrum "plough"
 limaç "slug" < limax
 manoscarteyar "syncretise, hybridise" < manoscart "hybrid, fusion" | manoscarteyaçon "syncretism"
+micr "loaf, bread roll" < mīccula < mīcca < mīca "crumb" | micrman "bakery" < -man "monger"
+nombler "banker" < nummulārius, nummulus "small piece of money"
 oraçoir "stormy weather, thunderstorm, a storm zone" < oraç "storm" < Vulgar Latin *aurāticum
 pacentar "be patient to, put up with" < patiens
 pantachualtað "universalism" < Gk pantakhou | pantachual

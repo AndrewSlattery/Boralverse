@@ -6763,6 +6763,24 @@
 
 \et from Old Borlish bleic "pale, whitish", a borrowing of synonymous bleikr in Old Norse, which reflects Classical German blaecas "white". The word was crowded out of neutral usage by blanc "white" in the Middle Borlish period, and now carries contemptuous or unpromising connotations.
 
+\lx blisnot
+\ps n
+
+\ge eunuch
+\ge castrato
+\ge gelding
+\ge wether
+\ge ox
+\ge third party
+\ge neutral party
+\ge honest broker
+\ge escrow
+
+\xv Y nombler volau pieç y bors sdroyað par blisnot.
+\xe The banker stole some of the funds kept in escrow.
+
+\et from Old Borlish blisnod, blestin, belsont (among others) "eunuch, castrated man". This was borrowed from synonymous belisnod in Old English, from the verb belisnian "to castrate". The term's non-metaphorical use for castrated people has been mostly supplanted by local terms such as eunuch or yanņin, outside of fantasy or historical fiction. The financial and mercantile senses are attested from as early as the fourteenth century.
+
 \lx bloc
 \ps n
 
@@ -12043,7 +12061,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge condemnation
 \ge sentence
 
-\et Latin condemnatio, noun from condamnar "condemn"
+\et noun from condamnar "condemn"
 \mn condamnar
 
 \lx condamnment
@@ -12052,7 +12070,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge condemnation
 \ge sentence
 
-\et noun from condamnar "condemn"
+\et Latin condemnatio, noun from condamnar "condemn"
 \mn condamnar
 
 \lx condensar
@@ -12426,17 +12444,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge conspirator
-\ge abettor
+\ge accomplice
 
-\mn conjuraçonnar
+\et Middle Borlish
 
 \lx conjuraçonnour
 \ps n
 
 \ge conspirator
-\ge accomplice
+\ge abettor
 
-\et Middle Borlish
+\mn conjuraçonnar
 
 \lx connardaç
 \ps n
@@ -14629,6 +14647,24 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et Old Borlish < Latin
 
+\lx cubicr
+\ps n
+
+\ge bedsit
+\ge studio
+\ge cell
+\ge berth
+\ge cabin
+\ge compartment
+\ge snug
+\ge bolt-hole
+\ge bolthole
+
+\xv Noc maissem an cubicr sur micrman luy quotta.
+\xe A bedsit above a bakery was all she could afford.
+
+\et Middle Borlish, originally in the monastic sense, borrowed from Latin cubiculum "bedroom". This is a derivation from cubō "I lie down, sleep". Extension to naval use (first for e.g. captain's cabins, later for more lowly accommodation) is attested from the sixteenth century, with further expansion to other transport and to simple housing in the nineteenth century.
+
 \lx çucar
 \ps n
 
@@ -16135,6 +16171,26 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 
 \et Old Borlish
 
+\lx depoussar
+\ps ar v
+
+\ge drive off
+\ge beat back
+\ge wean
+\ge cashier
+\ge dismiss
+\ge fire
+\ge rebuff
+\ge turn away
+\ge repel
+
+\xv Nos depoussaum tre dell'agnel je meis Aost.
+\xe We weaned three of the lambs in August.
+
+\et borrowed in all senses from Latin dēpulsus, past participle of dēpellō "I drive out, expel; I deter; I wean", then adapted to existing and related appoussar "push, drive" and repoussar "push back, repel". Nowadays the terms is seen principally in military or romantic contexts, or occasionally in agriculture (where it competes with sevrar "cut off, separate").
+\mn appoussar
+\mn repoussar
+
 \lx dereðr
 \ps adv
 
@@ -16340,19 +16396,19 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps ar v
 
 \ge decipher
-\ge make out
-\ge translate
-\ge simplify
+\ge decode
 
-\et Old Borlish < Medieval Latin < Arabic
+\mn scifr
 
 \lx descifrar
 \ps ar v
 
 \ge decipher
-\ge decode
+\ge make out
+\ge translate
+\ge simplify
 
-\mn scifr
+\et Old Borlish < Medieval Latin < Arabic
 
 \lx descombr
 \ps r v
@@ -37224,13 +37280,6 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \et Old Borlish < Latin
 
-\lx mordrer
-\ps n
-
-\ge murderer
-
-\et Old French
-
 \lx morir
 \ps ir1 v
 
@@ -37558,6 +37607,13 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 \ge item of furniture
 
 \et Old Borlish < Latin
+
+\lx moudrer
+\ps n
+
+\ge murderer
+
+\et Old French
 
 \lx moul
 \ps n
@@ -61823,22 +61879,22 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \lx vangard
 \ps n
 
-\ge predecessor
-\ge antecedent
-\ge forebear
-\ge precursor
-
-\et Middle Borlish < Norman < Old French < Frankish, Vulgar Latin
-
-\lx vangard
-\ps n
-
 \ge vanguard
 \ge pioneer
 \ge lead
 \ge forward position
 
 \et Old French avangarde "before guard"
+
+\lx vangard
+\ps n
+
+\ge predecessor
+\ge antecedent
+\ge forebear
+\ge precursor
+
+\et Middle Borlish < Norman < Old French < Frankish, Vulgar Latin
 
 \lx vapour
 \ps n
@@ -63615,16 +63671,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge volcano
-\ge hothead
 
-\et Italian < Latin Vulcanus
+\et Italian, from Latin Vulcanus
 
 \lx volcan
 \ps n
 
 \ge volcano
+\ge hothead
 
-\et Italian, from Latin Vulcanus
+\et Italian < Latin Vulcanus
 
 \lx volir
 \ps ir1 v
