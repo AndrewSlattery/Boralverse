@@ -57,7 +57,7 @@ Key regions and polities (all are alternate-history versions of real places unle
 | Brasil | The Novomundine landmass explored from Vascony |
 | British Mendeva | British colonial territory in Novomund |
 | Arcabil | Region with its own cultural identity (referenced frequently) |
-| Mashick | Eastern Mediterranean / Middle Eastern region |
+| Mashick | Mendevan polity descended from the Aztec Empire, in Lower Mendeva, with heavy Morrack influence |
 | Gurjat, Madray | Indian subcontinent equivalents |
 | Cathay | China equivalent |
 

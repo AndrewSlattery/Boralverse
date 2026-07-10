@@ -32,7 +32,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 7.2	dictionary	yarç "grate"	yarç	grate	True	4	191	1257	dictionary/7.2_yarç_grate.md
 7.3	dictionary	vorpal "diced"	vorpal	diced	True	4	171	1063	dictionary/7.3_vorpal_diced.md
 7.4	dictionary	kyriel "gamut"	kyriel	gamut	True	5	153	992	dictionary/7.4_kyriel_gamut.md
-7.5	notes	The Terrene Tax			False	0	285	1788	notes/7.5_The_Terrene_Tax.md
+7.5	notes	The Terrene Tax			False	0	285	1792	notes/7.5_The_Terrene_Tax.md
 8.1	excerpt	Independent Provence			False	0	269	1701	excerpt/8.1_Independent_Provence.md
 8.2	dictionary	sviðour "fan"	sviðour	fan	True	3	185	1116	dictionary/8.2_sviðour_fan.md
 8.3	dictionary	goðamer "bigoted"	goðamer	bigoted	True	3	202	1438	dictionary/8.3_goðamer_bigoted.md
@@ -905,7 +905,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 176.2	dictionary	n'impisantour "carefree"	n'impisantour	carefree	True	4	141	1059	dictionary/176.2_n'impisantour_carefree.md
 176.3	dictionary	jom "cobalt"	jom	cobalt	True	2	143	844	dictionary/176.3_jom_cobalt.md
 176.4	dictionary	gevrment "circuitry"	gevrment	circuitry	True	3	138	923	dictionary/176.4_gevrment_circuitry.md
-176.5	notes	The Light that Casts a Thousand Shadows			False	0	296	1912	notes/176.5_The_Light_that_Casts_a_Thousand_Shadows.md
+176.5	notes	The Light that Casts a Thousand Shadows			False	0	296	1913	notes/176.5_The_Light_that_Casts_a_Thousand_Shadows.md
 177.1	excerpt	Laic Declarations			False	0	260	1640	excerpt/177.1_Laic_Declarations.md
 177.2	dictionary	ubicqfeyar "promote"	ubicqfeyar	promote	True	3	124	854	dictionary/177.2_ubicqfeyar_promote.md
 177.3	dictionary	soucorsour "lifeguard"	soucorsour	lifeguard	True	3	153	994	dictionary/177.3_soucorsour_lifeguard.md
@@ -1187,3 +1187,8 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 231.2	dictionary	cochiglot "snail"	cochiglot	snail	True	4	168	1081	dictionary/231.2_cochiglot_snail.md
 231.3	dictionary	licol "double act"	licol	double act	True	4	189	1106	dictionary/231.3_licol_double_act.md
 231.4	dictionary	pendramnougr "headlong"	pendramnougr	headlong	True	4	145	1003	dictionary/231.4_pendramnougr_headlong.md
+231.5	notes	The Riverine Cities			False	0	359	2352	notes/231.5_The_Riverine_Cities.md
+232.1	excerpt	Vamncoury's Dichotomy			False	0	320	2126	excerpt/232.1_Vamncoury's_Dichotomy.md
+232.2	dictionary	cubicr "studio"	cubicr	studio	True	4	152	940	dictionary/232.2_cubicr_studio.md
+232.3	dictionary	depoussar "cashier"	depoussar	cashier	True	4	144	885	dictionary/232.3_depoussar_cashier.md
+232.4	dictionary	blisnot "eunuch"	blisnot	eunuch	True	4	172	1090	dictionary/232.4_blisnot_eunuch.md
