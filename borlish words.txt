@@ -12,6 +12,8 @@ entrposson fair "act as a stepping stone" | entrposson "intermediate step" < ent
 fancy "idea, fantasy, dream" < phantasia
 laðr "plough" < Insular Latin alatrum < aratrum "plough"
 limaç "slug" < limax
+longinq "longstanding, long-lasting, venerable" < L longinquus
+magnfayent "magnificent" < calque of L magnificens | magnfair "be magnificent" (backformation)
 manoscarteyar "syncretise, hybridise" < manoscart "hybrid, fusion" | manoscarteyaçon "syncretism"
 micr "loaf, bread roll" < mīccula < mīcca < mīca "crumb" | micrman "bakery" < -man "monger"
 nombler "banker" < nummulārius, nummulus "small piece of money"

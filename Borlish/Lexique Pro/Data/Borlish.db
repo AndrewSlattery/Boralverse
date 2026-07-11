@@ -1108,15 +1108,6 @@
 \lx accordar
 \ps ar v
 
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
-
-\lx accordar
-\ps ar v
-
 \ge agree
 \ge accord
 \ge harmonise
@@ -1124,6 +1115,15 @@
 \ge go
 
 \et Middle Borlish < Latin
+
+\lx accordar
+\ps ar v
+
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -12061,7 +12061,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge condemnation
 \ge sentence
 
-\et noun from condamnar "condemn"
+\et Latin condemnatio, noun from condamnar "condemn"
 \mn condamnar
 
 \lx condamnment
@@ -12070,7 +12070,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge condemnation
 \ge sentence
 
-\et Latin condemnatio, noun from condamnar "condemn"
+\et noun from condamnar "condemn"
 \mn condamnar
 
 \lx condensar
@@ -12444,17 +12444,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge conspirator
-\ge accomplice
+\ge abettor
 
-\et Middle Borlish
+\mn conjuraçonnar
 
 \lx conjuraçonnour
 \ps n
 
 \ge conspirator
-\ge abettor
+\ge accomplice
 
-\mn conjuraçonnar
+\et Middle Borlish
 
 \lx connardaç
 \ps n
@@ -18927,21 +18927,21 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps adj
 
 \ge durable
-\ge long-lasting
-
-\et Adjective from durar
-\mn durar
-
-\lx durabr
-\ps adj
-
-\ge durable
 \ge stiff
 \ge lasting
 \ge permanent
 \ge resilient
 
 \et adjective from durar "last"
+\mn durar
+
+\lx durabr
+\ps adj
+
+\ge durable
+\ge long-lasting
+
+\et Adjective from durar
 \mn durar
 
 \lx durant
@@ -20235,6 +20235,15 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \lx ensign
 \ps n
 
+\ge engraving
+\ge carving
+\ge suit
+
+\et Old Borlish < Latin
+
+\lx ensign
+\ps n
+
 \ge emblem
 \ge logo
 \ge symbol
@@ -20252,15 +20261,6 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \xe I will recommend you for a higher position.
 
 \et Middle Borlish, a semilearned borrowing from Latin insignia "emblem, badge", a noun formation from adjective insignis "marked, distinguished". The word has been used metonymically to refer to the position conferred or represented by an insignia since the fifteenth century, and it has been used in card games from approximately the same time.
-
-\lx ensign
-\ps n
-
-\ge engraving
-\ge carving
-\ge suit
-
-\et Old Borlish < Latin
 
 \lx ensignar
 \ps ar v
@@ -21926,6 +21926,15 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \et Old Borlish < Latin
 
 \sd Corporals
+
+\lx far de lanç
+\ps n
+
+\ge spearhead
+\ge pioneer
+
+\mn far
+\mn lanç
 
 \lx farar
 \ps ar v
@@ -24256,6 +24265,13 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps ar v
 
 \ge rub
+
+\et Old Borlish < Old French < Latin
+
+\lx frottar
+\ps ar v
+
+\ge rub
 \ge chafe
 \ge scour
 \ge scrub
@@ -24271,13 +24287,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
-
-\lx frottar
-\ps ar v
-
-\ge rub
-
-\et Old Borlish < Old French < Latin
 
 \lx fruit
 \ps n
@@ -61279,6 +61288,14 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Latin
 
+\lx untað
+\ps n
+
+\ge unity
+
+\et Middle Borlish < Latin ūnitās
+\mn un
+
 \lx untal
 \ps adj
 
@@ -61879,22 +61896,22 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \lx vangard
 \ps n
 
-\ge vanguard
-\ge pioneer
-\ge lead
-\ge forward position
-
-\et Old French avangarde "before guard"
-
-\lx vangard
-\ps n
-
 \ge predecessor
 \ge antecedent
 \ge forebear
 \ge precursor
 
 \et Middle Borlish < Norman < Old French < Frankish, Vulgar Latin
+
+\lx vangard
+\ps n
+
+\ge vanguard
+\ge pioneer
+\ge lead
+\ge forward position
+
+\et Old French avangarde "before guard"
 
 \lx vapour
 \ps n
@@ -63671,16 +63688,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge volcano
+\ge hothead
 
-\et Italian, from Latin Vulcanus
+\et Italian < Latin Vulcanus
 
 \lx volcan
 \ps n
 
 \ge volcano
-\ge hothead
 
-\et Italian < Latin Vulcanus
+\et Italian, from Latin Vulcanus
 
 \lx volir
 \ps ir1 v

@@ -30607,7 +30607,7 @@ The first messages through the Japetos III undersea line were sent on 1950 Octob
 
 Later that week on 1950 October 13, the Yansieve chamber of the Portingale [Portuguese] government passed a bill to fund research into building threshold force mills [nuclear power plants] in order to reduce dependence on astraphor [electricity] imported from the Drengot Collusion. Proposed by the Mortar coalition, the bill received a last-minute endorsement from the Ministry for Farming, which had previously opposed the technology—since the margin was just three votes, this volte-face was likely critical to the bill's success.
 
-Maya Tavares, a political theorist at the de Sarumptice Diplomatic Edifice and a regular columnist for the Fiellas Dimenja weekly paper, gave a keynote speech on 1950 December 2 in Belgrade on the first day of a week-long event celebrating the centenary of the signing of the Laic Declarations there in 1850. Her talk covered the lasting impact of the Prodigal Faiths, a collection of religious groups who formed in Mendeva [North America] in the early nineteenth century which later sought to establish influence and gain new followers in the Vetomund [Old World].
+Maya Tavares, a political theorist at the de Sarumptice Diplomatic Edifice and a regular columnist for the Fiellas Dimenja weekly paper, gave a keynote speech on 1950 December 2 in Belgrade on the first day of a week-long event celebrating the centenary of the signing of the Laic Declarations there in 1850. Her talk covered the lasting impact of the Prodigal Faiths, a collection of religious groups who formed in Mendeva [North America] and Cappatia [South America] in the early nineteenth century which later sought to establish influence and gain new followers in the Vetomund [Old World].
 
 The derailment of a private convoy [train] on 1950 January 29 occurred on the line between the Hasinic capital of Nadacow [~Natchez, MS] and the Taishan border city of Aberdocolon [~Brazoria, TX] due to an oil explosion. The convoy was transporting King Maldwen Tamaha of Hasiny, who died of the injuries he suffered in the crash. The king was to attend a summit restoring relations between the two polities. Subsequent investigation did not reveal any foul play, but several decades later the idea that the king's grandson Prince Pether orchestrated the event became a popular conspiracy theory.
 
@@ -31791,4 +31791,22 @@ At the time of writing, the original sculpture is the centrepiece of the Acaston
 
 ##
 
-233.1:
+233.1: Medieval Devon
+
+notes in translation on the peninsula of Devon in the early medieval period.
+
+Dorogn da nom cos geographic ag peninsol souvester dy heilant d'Albion, e cos politic all'un entr y taleð y longinquessem de Brittan.
+Devon refers geographically to the southwestern peninsula of the land of Albion, and politically to one of the most longstanding tallaths of Britain.
+
+Dorogn souvau concarenç paulatim par y Saxon, soulor y contrdontaçon ag Battagl ne Gaulford d'an 656 sousumeu y domain nell'autortað retenuð dy Reyaum Vessaxon (con tan sey creut y region y vesteressem no fos jamay neðolmað sou sy regnanç).
+Devon was conquered piecemeal by the Saxons, with the defeat at the Battle of Gaulford in 656 putting the area under the sole authority of the Kingdom of Wessex (although the westernmost region is thought never to have fully submitted to its rule).
+
+Durant y siecr ogt, Rey Vigo y Magnfayent dy gent Brittan age far de lanç lonc un algebr dy peninsol cosogr y soutien de David I de Guineð, oç broucað par meyan de sy mariðaç con y dottr Guinmar de Rey David.
+In the eighth century, King Vigo the Magnificent of the Britons spearheaded a reconquest of the peninsula with the support of David I of Wynneth, obtained via his marriage to King David's daughter Winmar.
+
+Dou dezein e may d'abatment occajonnal se courn fis par y victoir a Petherton, e Vigo er coronnað com y preu rey de Magn Dorogn, oc untað forgant con Dorogn eð region dignant aval Cornou ne Gal.
+Over two decades of intermittent warfare were ended with the victory at Petherton, and Vigo was crowned the first king of Greater Devon, uniting Devon with the region later known as Kernow in Gaul.
+
+##
+
+233.2:
