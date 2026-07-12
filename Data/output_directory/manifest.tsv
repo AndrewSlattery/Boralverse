@@ -87,7 +87,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 18.2	dictionary	kigmau "lardons"	kigmau	lardons	True	1	179	1118	dictionary/18.2_kigmau_lardons.md
 18.3	dictionary	yevot "scope"	yevot	scope	True	2	117	801	dictionary/18.3_yevot_scope.md
 18.4	dictionary	parsir "learn"	parsir	learn	True	3	141	849	dictionary/18.4_parsir_learn.md
-18.5	notes	Significant Figures, cont.			False	0	375	2218	notes/18.5_Significant_Figures,_cont..md
+18.5	notes	Significant Figures, cont.			False	0	375	2215	notes/18.5_Significant_Figures,_cont..md
 19.1	excerpt	The Borland-Willemy Telegraph			False	0	261	1544	excerpt/19.1_The_Borland-Willemy_Telegraph.md
 19.2	dictionary	farrago "hash"	farrago	hash	True	2	87	580	dictionary/19.2_farrago_hash.md
 19.3	dictionary	illabond "collapsible"	illabond	collapsible	True	3	132	887	dictionary/19.3_illabond_collapsible.md
@@ -321,7 +321,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 63.2	dictionary	sciftar "spread"	sciftar	spread	True	4	147	885	dictionary/63.2_sciftar_spread.md
 63.3	dictionary	lasc "film"	lasc	film	True	3	164	950	dictionary/63.3_lasc_film.md
 63.4	dictionary	cosogr "jointly"	cosogr	jointly	True	5	207	1216	dictionary/63.4_cosogr_jointly.md
-63.5	notes	Devon			False	0	491	3026	notes/63.5_Devon.md
+63.5	notes	Devon			False	0	491	3022	notes/63.5_Devon.md
 64.1	excerpt	Electromagnetic Radiation			False	0	257	1477	excerpt/64.1_Electromagnetic_Radiation.md
 64.2	dictionary	motivar "justify"	motivar	justify	True	3	103	726	dictionary/64.2_motivar_justify.md
 64.3	dictionary	droughar "join in"	droughar	join in	True	3	105	660	dictionary/64.3_droughar_join_in.md
@@ -1132,7 +1132,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 220.2	dictionary	bel declar "words of wisdom"	bel declar	words of wisdom	True	2	128	831	dictionary/220.2_bel_declar_words_of_wisdom.md
 220.3	dictionary	akirtanç "outbreak"	akirtanç	outbreak	True	4	144	952	dictionary/220.3_akirtanç_outbreak.md
 220.4	dictionary	quid "credits"	quid	credits	True	3	223	1373	dictionary/220.4_quid_credits.md
-220.5	notes	Events of 1950			False	0	429	2728	notes/220.5_Events_of_1950.md
+220.5	notes	Events of 1950			False	0	433	2757	notes/220.5_Events_of_1950.md
 221.1	excerpt	The Long Peace			False	0	269	1651	excerpt/221.1_The_Long_Peace.md
 221.2	dictionary	zaloc "bail"	zaloc	bail	True	4	152	957	dictionary/221.2_zaloc_bail.md
 221.3	dictionary	teisment "braid"	teisment	braid	True	6	126	858	dictionary/221.3_teisment_braid.md
@@ -1192,3 +1192,5 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 232.2	dictionary	cubicr "studio"	cubicr	studio	True	4	152	940	dictionary/232.2_cubicr_studio.md
 232.3	dictionary	depoussar "cashier"	depoussar	cashier	True	4	144	885	dictionary/232.3_depoussar_cashier.md
 232.4	dictionary	blisnot "eunuch"	blisnot	eunuch	True	4	172	1090	dictionary/232.4_blisnot_eunuch.md
+232.5	notes	The Machines of Helios			False	0	409	2598	notes/232.5_The_Machines_of_Helios.md
+233.1	excerpt	Medieval Devon			False	0	287	1661	excerpt/233.1_Medieval_Devon.md

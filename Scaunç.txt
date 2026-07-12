@@ -31809,4 +31809,42 @@ Over two decades of intermittent warfare were ended with the victory at Petherto
 
 ##
 
-233.2:
+233.2: aujamat "ghetto"
+
+aujamat /ˌo.ʒaˈmat/ [ˌo.ʝɐˈmat]
+- aljama, shtetl, a self-governing minority community especially Jewish or Muslim;
+- quarter, ghetto, enclave, a district of an urban area inhabited chiefly by such a community;
+- neighbourhood, (in modern urban design) a city subunit built and planned to have most amenities for daily life within walking distance;
+- subculture, clique, community, a tight-knit milieu with its own institutions and unwritten rules
+
+Etymology: borrowed in the Middle Borlish period from Vascon aujamat "Muslim quarter or village enjoying some legal autonomy", itself borrowed from Arabic الجَمْع • (al-jamġ) "the gathering, the crowd". The shift from rural to urban senses in northwestern Europe occurred due to the concentration of Jewish and Muslim communities within cities there through the late medieval period.
+
+Metaphorical usage is seen from the seventeeth century, while the modern administrative sense in Borland is due to architect and parliamentarian Penelop Stornel, whose 1911 work laid out a theory of city planning which is still cited to this day.
+
+All'arc de stancour es y commet dell'aujamat.
+/aˈlark de stanˈkur ɛz i kɔˈmɛt dɛˌlo.ʒaˈmat/
+[ɐˈlɐːk de stɐŋˈkʊː‿ʀɪz i kʊˈmɛt dɪˌlo.ʝɐˈmat]
+at-df=arch of tinker be df start of-df=ghetto
+The tinsmith's arch is where the ghetto starts.
+
+##
+
+233.3: ðaugr "embankment"
+
+ðaugr /ˈðogr̩/ [ˈðo.gɐ]
+- (historical) rampart, earthwork, a defensive bank raised about a fort or camp;
+- levee, dyke, embankment, a raised bank confining a river or holding back the sea;
+- causeway, viaduct, a raised bank carrying a road or railway across low ground;
+- (sport) terrace, end, a banked standing area for spectators at a ground
+
+Etymology: from Old Borlish ðargre "rampart", originally only in military use. This comes from a Vulgar Latin adargerem, from a variant arger of Classical agger "rubble, defensive wall". The term was first extended to coastal structures in the dialects of the southern towns in the Middle Borlish period. Usage in sports is seen from the nineteenth century.
+
+Y floy a sy ðaugr sovrað dou veg par y siecr derran.
+/i flɔi a si ðogr̩ soˈvraθ du vij par i ˈsjɛkr̩ dɛˈran/
+[i flɔj a si ˈðo.gɐ sʊˈvʀaθ du vɪj pɐː‿ʀi ˈsjɛ.kɐ dɪˈʀan]
+df river have 3s.gn levee exceed-p.pst two time by df century last
+The river has overflowed twice in the last century.
+
+##
+
+233.4: 
