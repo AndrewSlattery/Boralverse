@@ -1108,6 +1108,15 @@
 \lx accordar
 \ps ar v
 
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
+
+\lx accordar
+\ps ar v
+
 \ge agree
 \ge accord
 \ge harmonise
@@ -1115,15 +1124,6 @@
 \ge go
 
 \et Middle Borlish < Latin
-
-\lx accordar
-\ps ar v
-
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -4879,6 +4879,26 @@
 \ge distilled alcohol
 
 \et Middle Borlish < Latin
+
+\lx aujamat
+\ps n
+
+\ge aljama
+\ge shtetl
+\ge quarter
+\ge ghetto
+\ge enclave
+\ge neighbourhood
+\ge subculture
+\ge clique
+\ge community
+
+\xv All'arc de stancour es y commet dell'aujamat.
+\xe The tinsmith's arch is where the ghetto starts.
+
+\et borrowed in the Middle Borlish period from Vascon aujamat "Muslim quarter or village enjoying some legal autonomy", itself borrowed from Arabic الجَمْع • (al-jamġ) "the gathering, the crowd". The shift from rural to urban senses in northwestern Europe occurred due to the concentration of Jewish and Muslim communities within cities there through the late medieval period.
+
+Metaphorical usage is seen from the seventeeth century, while the modern administrative sense in Borland is due to architect and parliamentarian Penelop Stornel, whose 1911 work laid out a theory of city planning which is still cited to this day.
 
 \lx aujon
 \ps n
@@ -12045,7 +12065,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -12054,6 +12073,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnment
 \ps n
@@ -15216,6 +15236,24 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et Middle Borlish < Welsh
 
+\lx ðaugr
+\ps n
+
+\ge rampart
+\ge earthwork
+\ge embankment
+\ge levee
+\ge dyke
+\ge causeway
+\ge viaduct
+\ge terrace
+\ge end
+
+\xv Y floy a sy ðaugr sovrað dou veg par y siecr derran.
+\xe The river has overflowed twice in the last century.
+
+\et from Old Borlish ðargre "rampart", originally only in military use. This comes from a Vulgar Latin adargerem, from a variant arger of Classical agger "rubble, defensive wall". The term was first extended to coastal structures in the dialects of the southern towns in the Middle Borlish period. Usage in sports is seen from the nineteenth century.
+
 \lx davarn
 \ps n
 
@@ -16396,19 +16434,19 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps ar v
 
 \ge decipher
-\ge decode
-
-\mn scifr
-
-\lx descifrar
-\ps ar v
-
-\ge decipher
 \ge make out
 \ge translate
 \ge simplify
 
 \et Old Borlish < Medieval Latin < Arabic
+
+\lx descifrar
+\ps ar v
+
+\ge decipher
+\ge decode
+
+\mn scifr
 
 \lx descombr
 \ps r v
@@ -33205,6 +33243,15 @@ Old Borlish < Latin illa
 \mn lim
 \mn aïr
 
+\lx limaç
+\ps n
+
+\ge slug
+\ge gastropod
+\ge sucker
+
+\et Old Borlish < Latin līmāx
+
 \lx limitað
 \ps adj
 
@@ -33676,6 +33723,29 @@ Old Borlish < Latin illa
 
 \et Latin longitūdō or formed in Old Borlish
 \mn lonc
+
+\lx longinq
+\ps adj
+
+\ge long
+\ge lengthy
+\ge prolonged
+\ge lasting
+\ge continual
+\ge long-lasting
+\ge venerable
+\ge longtime
+\ge time-honoured
+\ge tedious
+\ge boring
+\ge protracted
+\ge ancient
+\ge antidiluvian
+
+\xv Sceye un rix longinq entr y dou famigl.
+\xe The two families had a protracted feud.
+
+\et early modern Borlish, borrowed from Latin longinquus "far-off, remote; prolonged; ancient". This may be a concatenation of the phrase longē hinc "far from here", or may reflect a suffix cognate with Classical German -ungo "-ing". The ambiguity between respectful and derisive use was famously exploited by Borlish aphorist Mary Belvarin at a 1886 soirée in reference to Queen Natalie.
 
 \lx lon-lembic
 \ps n
@@ -35042,6 +35112,28 @@ Old Borlish < Latin illa
 \ge hybrid
 
 \et Middle Borlish < French
+
+\lx manoscarteyar
+\ps ar v
+
+\ge hybridise
+\ge fuse
+\ge cross-breed
+\ge cross
+\ge syncretise
+
+\et modern Borlish, verb from manoscart "blended fabric, musical scale"
+\mn manoscart
+
+\se manoscarteyaçon
+\ps n
+
+\ge fusion
+\ge cross-breed
+\ge syncretism
+\ge hybridisation
+
+\et noun from manoscarteyar
 
 \lx manouvr
 \ps n
@@ -41939,9 +42031,11 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx par boc
 \ps adv
 
-\ge spoken
-\ge by mouth
-\ge hearsay
+\ge apparently
+\ge allegedly
+\ge it is said
+\ge they say
+\ge I hear
 
 \mn par
 \mn boc
@@ -41949,11 +42043,9 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx par boc
 \ps adv
 
-\ge apparently
-\ge allegedly
-\ge it is said
-\ge they say
-\ge I hear
+\ge spoken
+\ge by mouth
+\ge hearsay
 
 \mn par
 \mn boc
@@ -51212,7 +51304,8 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge containing vitamin C
+\ge antiscorbutic
+\ge pertaining to vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -51220,8 +51313,7 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \lx sandrinal
 \ps adj
 
-\ge antiscorbutic
-\ge pertaining to vitamin C
+\ge containing vitamin C
 
 \et adjective from sandrin "vitamin C"
 \mn sandrin
@@ -56919,6 +57011,13 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \et Old Borlish < Vulgar Latin
 
+\lx stornel
+\ps n
+
+\ge starling
+
+\et Old Borlish, from a diminutive of Latin sturnus "starling"
+
 \lx stovent
 \ps adj
 
@@ -60292,19 +60391,19 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge transmigration
-\ge relocation
-\ge nomadism
+\ge relocate
 
-\et noun from tramigrar
+\et noun from tramigrar "transmigrate".
 \mn tramigrar
 
 \lx tramigraçon
 \ps n
 
 \ge transmigration
-\ge relocate
+\ge relocation
+\ge nomadism
 
-\et noun from tramigrar "transmigrate".
+\et noun from tramigrar
 \mn tramigrar
 
 \lx tramigrar

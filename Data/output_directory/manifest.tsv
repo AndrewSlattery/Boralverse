@@ -1194,3 +1194,6 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 232.4	dictionary	blisnot "eunuch"	blisnot	eunuch	True	4	172	1090	dictionary/232.4_blisnot_eunuch.md
 232.5	notes	The Machines of Helios			False	0	409	2598	notes/232.5_The_Machines_of_Helios.md
 233.1	excerpt	Medieval Devon			False	0	287	1661	excerpt/233.1_Medieval_Devon.md
+233.2	dictionary	aujamat "ghetto"	aujamat	ghetto	True	4	198	1313	dictionary/233.2_aujamat_ghetto.md
+233.3	dictionary	ðaugr "embankment"	ðaugr	embankment	True	4	171	989	dictionary/233.3_ðaugr_embankment.md
+233.4	dictionary	longinq "venerable"	longinq	venerable	True	4	157	1020	dictionary/233.4_longinq_venerable.md

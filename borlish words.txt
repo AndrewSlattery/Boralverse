@@ -1,10 +1,6 @@
-aujamat "ghetto" < Sp aljama < Ar
 authicanopoesy "complacency" | authican "self-sufficient" | authicanopoetic "complacent" < Gk
 belligrman "warmonger" < belliger "warlike" + -man "purveyor of"
-blisnot "eunuch" < OE belisnod
-cubicr "bedsit, studio" < cubiculum
 cuindr "kernel" < cyrnel in OE
-ðaugr "embankment" < ad- + aggerem
 depoussar "cashier, fire" < depulso
 empory "economy" < emporium
 entauthaltað "localism" < Gk entautha | entauthal
@@ -12,7 +8,6 @@ entrposson fair "act as a stepping stone" | entrposson "intermediate step" < ent
 fancy "idea, fantasy, dream" < phantasia
 laðr "plough" < Insular Latin alatrum < aratrum "plough"
 limaç "slug" < limax
-longinq "longstanding, long-lasting, venerable" < L longinquus
 magnfayent "magnificent" < calque of L magnificens | magnfair "be magnificent" (backformation)
 manoscarteyar "syncretise, hybridise" < manoscart "hybrid, fusion" | manoscarteyaçon "syncretism"
 micr "loaf, bread roll" < mīccula < mīcca < mīca "crumb" | micrman "bakery" < -man "monger"

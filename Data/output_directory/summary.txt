@@ -1,19 +1,19 @@
 Phase 1 Split & Classify — Summary
 ========================================
 
-Total entries:      1195
+Total entries:      1198
 Distinct posts:     233
 
 By type:
   excerpt         232
-  dictionary      731
+  dictionary      734
   notes           232
 
 Word count by type:
   excerpt        63,454 words
-  dictionary    100,396 words
+  dictionary    100,922 words
   notes          84,340 words
-  total         248,190 words
+  total         248,716 words
 
 Post range:         1 – 233
 

@@ -31847,4 +31847,22 @@ The river has overflowed twice in the last century.
 
 ##
 
-233.4: 
+233.4: longinq "venerable"
+
+longinq /lɔnˈʒɪnk/ [lʊnˈʝɪnk]
+- long, lengthy, prolonged, lasting, continual, occurring over a great amount of time;
+- long-lasting, longtime, venerable, time-honoured, having existing since a distant point in the past (especially as worthy of respect due to this);
+- tedious, boring, protracted, lasting so much time that it tries one's patience;
+- ancient, antediluvian, belonging to the distant past
+
+Etymology: early modern Borlish, borrowed from Latin longinquus "far-off, remote; prolonged; ancient". This may be a concatenation of the phrase longē hinc "far from here", or may reflect a suffix cognate with Classical German -ungo "-ing". The ambiguity between respectful and derisive use was famously exploited by Borlish aphorist Mary Belvarin at a 1886 soirée in reference to Queen Natalie.
+
+Sceye un rix longinq entr y dou famigl.
+/xiˈje ɪn rɪks lɔnˈʒɪnk ɛntr̩ i du faˈmajl/
+[çje ɪn ʀɪks lʊnˈʝɪnk ˈɛn.tʀ‿i du fɐˈmajl]
+there.be-ipf indf feud lengthy between df two family
+The two families had a protracted feud.
+
+##
+
+233.5:
