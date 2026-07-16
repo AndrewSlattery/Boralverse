@@ -9999,6 +9999,14 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et Middle Borlish < Latin
 
+\lx cession
+\ps n
+
+\ge ceding
+\ge surrender
+
+\et Latin cessiō
+
 \lx ceter
 \ps adv
 
@@ -12464,17 +12472,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge conspirator
-\ge abettor
+\ge accomplice
 
-\mn conjuraçonnar
+\et Middle Borlish
 
 \lx conjuraçonnour
 \ps n
 
 \ge conspirator
-\ge accomplice
+\ge abettor
 
-\et Middle Borlish
+\mn conjuraçonnar
 
 \lx connardaç
 \ps n
@@ -16434,19 +16442,19 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps ar v
 
 \ge decipher
-\ge make out
-\ge translate
-\ge simplify
+\ge decode
 
-\et Old Borlish < Medieval Latin < Arabic
+\mn scifr
 
 \lx descifrar
 \ps ar v
 
 \ge decipher
-\ge decode
+\ge make out
+\ge translate
+\ge simplify
 
-\mn scifr
+\et Old Borlish < Medieval Latin < Arabic
 
 \lx descombr
 \ps r v
@@ -23954,18 +23962,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossau
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossaveyaçon
 \ps n
@@ -37381,6 +37389,16 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \et Old Borlish < Latin
 
+\lx morenç
+\ps n
+
+\ge death
+\ge dying
+\ge loss of life
+
+\et Old Borlish
+\mn morir
+
 \lx morir
 \ps ir1 v
 
@@ -37477,15 +37495,6 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 \ge downtrodden
 
 \et Middle Borlish < Latin
-
-\lx morrenç
-\ps n
-
-\ge death
-\ge dying
-\ge loss of life
-
-\et Old Borlish
 
 \lx morrig
 \ps n
@@ -42062,13 +42071,13 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn lamn
 \mn xyron
 
-\lx par meyan de
+\lx par mejan de
 \ps prep
 
 \ge by
 \ge by means of
 
-\mn meyan
+\mn mejan
 
 \lx par sgart tauger
 \ps adv
@@ -43108,6 +43117,13 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge patronise
 
 \et Middle Borlish < Latin
+
+\lx paudriç
+\ps n
+
+\ge partridge
+
+\et Old Borlish < Latin perdrix
 
 \lx paulatim
 \ps adv
@@ -48498,13 +48514,13 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 
 \et Old Borlish
 
-\lx recoglenç meyan 
+\lx recoglenç mejan
 \ps n
 
 \ge resource production
 
 \mn recoglenç
-\mn meyan
+\mn mejan
 
 \lx recoglir
 \ps ir1 v
@@ -58704,6 +58720,23 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et originally in the first senses, a direct descendant from Latin tegimen "cover, protection". This noun comes from verb tegō "I cover, conceal", which became Old Borlish ter "span, cover (an amount of land)" and thence modern teir "amount to, number". Extended to safety in more abstract contexts by the early modern period.
 
+\lx tegmnfeyar
+\ps ar v
+
+\ge seek asylum
+
+\et verb from tegmn "shelter"
+\mn tegmn
+
+\lx tegmnfeyour
+\ps n
+
+\ge refugee
+\ge asylum seeker
+
+\et agentive noun from tegmnfeyar
+\mn tegmnfeyar
+
 \lx tegndr
 \ps r v
 
@@ -63504,6 +63537,9 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge sight
 \ge make out
 \ge manage to see
+\ge observe
+\ge view
+\ge see
 
 \et Old Borlish < Latin
 
@@ -63787,16 +63823,16 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge volcano
-\ge hothead
 
-\et Italian < Latin Vulcanus
+\et Italian, from Latin Vulcanus
 
 \lx volcan
 \ps n
 
 \ge volcano
+\ge hothead
 
-\et Italian, from Latin Vulcanus
+\et Italian < Latin Vulcanus
 
 \lx volir
 \ps ir1 v
