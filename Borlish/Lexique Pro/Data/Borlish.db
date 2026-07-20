@@ -1108,15 +1108,6 @@
 \lx accordar
 \ps ar v
 
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
-
-\lx accordar
-\ps ar v
-
 \ge agree
 \ge accord
 \ge harmonise
@@ -1124,6 +1115,15 @@
 \ge go
 
 \et Middle Borlish < Latin
+
+\lx accordar
+\ps ar v
+
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -12073,6 +12073,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -12081,16 +12082,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
-
-\lx condamnment
-\ps n
-
-\ge condemnation
-\ge sentence
-
-\et Latin condemnatio, noun from condamnar "condemn"
-\mn condamnar
 
 \lx condamnment
 \ps n
@@ -12099,6 +12090,15 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et noun from condamnar "condemn"
+\mn condamnar
+
+\lx condamnment
+\ps n
+
+\ge condemnation
+\ge sentence
+
+\et Latin condemnatio, noun from condamnar "condemn"
 \mn condamnar
 
 \lx condensar
@@ -12472,17 +12472,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge conspirator
-\ge accomplice
+\ge abettor
 
-\et Middle Borlish
+\mn conjuraçonnar
 
 \lx conjuraçonnour
 \ps n
 
 \ge conspirator
-\ge abettor
+\ge accomplice
 
-\mn conjuraçonnar
+\et Middle Borlish
 
 \lx connardaç
 \ps n
@@ -23962,18 +23962,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossau
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossaveyaçon
 \ps n
@@ -35143,6 +35143,34 @@ Old Borlish < Latin illa
 
 \et noun from manoscarteyar
 
+\lx manoscarteyar
+\ps ar v
+
+\ge hybridise
+\ge cross
+\ge blend
+\ge syncretise
+\ge merge
+\ge conflate
+\ge mix up
+\ge muddle
+\ge confuse
+
+\xv Y jangour lo manoscarteyaurn cosogr relijon Jaugta.
+\xe The maroons syncretised it with Jaughta religion.
+
+\se manoscarteyaçon
+\ps n
+
+\ge hybridisation
+\ge syncretism
+\ge merger
+\ge fusion
+\ge conflation
+
+\et sporadic use in the Middle Borlish period as a derivation from manoscart "manoscard", a particular musical scale which developed near the Burgund town of Manosque in the thirteenth century. Other senses are a later rederivation from the root's extended meanings including "fusion, combination, blend". Use of the word with pejorative connotations is attested only from the mid-twentieth century.
+\mn manoscart
+
 \lx manouvr
 \ps n
 
@@ -39220,6 +39248,22 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \et Latin Nomas "wandering shepherd"
 
+\lx nombler
+\ps n
+
+\ge moneychanger
+\ge moneylender
+\ge banker
+\ge financier
+\ge dealer
+\ge house
+\ge battenberg
+
+\xv Nos receveum noc y bon sunt a moneð des y nombler.
+\xe The banker didn't give us the right amount of money.
+
+\et descendant of Old Borlish nomblair "money-changer" either directly from synonymous nummulārius in Latin or via nomble "coinage, small-value coins". Both of these come from Latin nummulus "a small amount of money", diminutive of nummus "coin". The term has usually referred to more institutionalised positions since the sixteenth century, when it also gained its gambling sense. In the last sense the term is a calque of Chrysian Welsh tessen nawiddwr "banker's cake", an invented tradition of the late nineteenth century spurred by the boom in almond farming in the region.
+
 \lx nombr
 \ps n
 
@@ -43169,6 +43213,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
+
+\lx paus
 \ps interj
 
 \ge hang on
@@ -43177,15 +43230,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
-
-\lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -49038,14 +49082,14 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 
 \et Old Borlish < Latin
 
-\lx religion
+\lx relijon
 \ps n
 
 \ge religion
 
 \et Middle Borlish < Latin
 
-\lx religious
+\lx relijous
 \ps adj
 
 \ge religious
@@ -60752,6 +60796,15 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Old Borlish < Latin
 
+\lx trenchet
+\ps n
+
+\ge picnic
+\ge snack
+
+\et diminutive of trenc "lunch"
+\mn trenc
+
 \lx trencsachet
 \ps n
 
@@ -62247,6 +62300,22 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \xe The vizier continued accruing influence.
 
 \et borrowed from Arabic وَزِير • wazīr "vizier, minister", literally "carrier". The word entered Borlish in the late medieval period, originally restricted to accounts of foreign courts and to the game of chess; use for diplomats in general and by extension puppetmasters in other contexts is seen from the seventeenth century.
+
+\lx vason
+\ps n
+
+\ge sod
+\ge turf
+\ge peat
+\ge sward
+\ge green
+\ge lawn
+\ge pitch
+
+\xv Sy fraðr voun y tapeç sur y vason despondr con y trenchet.
+\xe Her brothers will set out the picnic on the mat on the lawn.
+
+\et directly from Old Borlish vason "turf", borrowed from synoymous wason in Old French or directly from its Old Dutch source; either way from Classical German vasō "meadow, field". Later semantic developments appear to parallel and postdate those in Norman French, including (by the nineteenth century) its use in sports.
 
 \lx vassagl
 \ps adj

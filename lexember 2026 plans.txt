@@ -32,27 +32,36 @@
 
 ======
 
-- wine, women or song
-- ready, willing or able
-- begs, borrows or steals
-- tall, dark or handsome
-- game, set or match
-- animals, vegetables or minerals
-- past, present or future
-- solids, liquids or gases
-- good, bad or ugly
-- faith, hope or charity
-- knives, forks or spoons
-- maidens, mothers or crones
-- lives, laughs or loves
-- cuts, copies or pastes
-- stops, looks or listens
-- snaps, crackles or pops
-- divorces, beheads or dies
-- fucks, marries or kills
-- comes, sees or conquers
-- bells, books or candles
-- liberty, equality or fraternity
-- earth, wind or fire
-- Tom, Dick or Harry
-- pitch, yaw or roll
+LEXEMBER 2026 — full month (no theme repeated from 2025; no item repeated within the month)
+
+ 1. fuck, marry or kill
+ 2. live, laugh or love
+ 3. beg, borrow or steal
+ 4. tall, dark or handsome
+ 5. game, set or match
+ 6. animal, vegetable or mineral
+ 7. solid, liquid or gas
+ 8. good, bad or ugly
+ 9. snips, snails or puppy-dog tails
+10. sign, seal or deliver
+11. maiden, mother or crone
+12. wine, women or song
+13. cut, copy or paste
+14. stop, look or listen
+15. snap, crackle or pop
+16. life, the universe or everything
+17. divorce, behead or die
+18. nasty, brutish or short
+19. bell, book or candle
+20. come, see or conquer
+21. liberty, equality or fraternity
+22. ready, willing or able
+23. earth, wind or fire
+24. past, present or future	(Christmas Eve: the three ghosts)
+25. faith, hope or charity	(Christmas Day)
+26. guns, germs or steel
+27. Tom, Dick or Harry
+28. sun, sea or sex
+29. truth, justice or the American way
+30. pitch, yaw or roll
+31. be there, do that or buy the T-shirt

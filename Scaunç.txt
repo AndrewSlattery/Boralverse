@@ -27446,7 +27446,7 @@ entrlaçour /ˌɛnt.r̩.laˈtsur/ [ˌɛn.tɐ.lɐˈtsʊː]
 - swindler, sharpster, grifter, con artist, racketeer, someone running scams;
 - pedlar, huckster, a small-time or itinerant merchant of (usually poor-quality) goods
 
-Etymology: nineteenth century, borrowed (probably via intermedaries) from Sicilia ntrlazzaturi "swindler, racketeer". This is an agentive derivation from the noun ntrlazzu "scam, racket", which reflects Latin inter- "between" and laqueus "noose". Specialisation to politics probably occurred before the word entered Borlish, although there was no shortage of corruption in contempory governance on Borland to inspire the shift.
+Etymology: nineteenth century, borrowed (probably via intermedaries) from Sicilia ntrlazzaturi "swindler, racketeer". This is an agentive derivation from the noun ntrlazzu "scam, racket", which reflects Latin inter- "between" and laqueus "noose". Specialisation to politics probably occurred before the word entered Borlish, although there was no shortage of corruption in contemporary governance on Borland to inspire the shift.
 
 Jo broiðau l'entrlaçour coll'outrley.
 /ʒo brɔjˈðo ˌlɛnt.r̩.laˈtsur i ˌlut.r̩ˈli/
@@ -31910,4 +31910,58 @@ However, the All-Saints' earthquake of 1755N severely weakened Portingale's posi
 
 ##
 
-234.2: 
+234.2: manoscarteyar "syncretise"
+
+manoscarteyar /ˌma.no.xarˈtjar/ [ˌma.nʊ.xɐːˈtjɐː]
+- to compose or arrange (a piece of music) using the manoscard scale;
+- hybridise, cross, to blend two strains or styles into a new whole;
+- syncretise, to merge elements of separate traditions into one practice;
+- conflate, confuse, mix up, muddle, to incorrectly treat (distinct things) as interchangeable
+
+Etymology: sporadic use in the Middle Borlish period as a derivation from manoscart "manoscard", a particular musical scale which developed near the Burgund town of Manosque in the thirteenth century. Other senses are a later rederivation from the root's extended meanings including "fusion, combination, blend". Use of the word with pejorative connotations is attested only from the mid-twentieth century.
+
+Y jangour lo manoscarteyaurn cosogr relijon Jaugta.
+/i ʒanˈgur lo ˌma.no.xarˈtjorn̩ koˈzɔjr̩ ˌre.liˈʒɔn ʒojˈta/
+[i ʝɐŋˈgʊː lo ˌma.nʊ.xɐːˈtjoːn kʊˈzɔ.jɐ ˌʀe.lɪˈʝɔn ʝʊjˈta]
+df maroon 3s.acc hybridise-pst-3p alongside religion Jaughta
+The maroons syncretised it with Jaughta [Choctaw] religion.
+
+##
+
+234.3: nombler "banker"
+
+nombler /nɔmˈblɛr/ [nʊmˈblɛː]
+- (historical) moneychanger, one who exchanges coin of different mints for a fee;
+- banker, financier, one whose business is the keeping and lending of money;
+- (games) banker, dealer, the house, the player who holds the stakes and pays out winnings;
+- a type of hand-cake incorporating jam and iced with marzipan
+
+Etymology: descendant of Old Borlish nomblair "money-changer" either directly from synonymous nummulārius in Latin or via nomble "coinage, small-value coins". Both of these come from Latin nummulus "a small amount of money", diminutive of nummus "coin". The term has usually referred to more institutionalised positions since the sixteenth century, when it also gained its gambling sense. In the last sense the term is a calque of Chrysian Welsh tessen nawiddwr "banker's cake", an invented tradition of the late nineteenth century spurred by the boom in almond farming in the region.
+
+Nos receveum noc y bon sunt a moneð des y nombler.
+/nɔz ˌre.tseˈvaum nɔk i bɔn sɪnt a moˈnɛθ dɛz i nɔmˈblɛr/
+[nɔz ˌʀe.tsɪˈvaum nɔ‿gi bɔn sɪnt a mʊˈnɛθ dɛz i nʊmˈblɛː]
+1p receive-pst-1p ng df good amount at money out.of df banker
+The banker didn't give us the right amount of money.
+
+##
+
+234.4: vason "turf"
+
+vason /vaˈzɔn/ [vɐˈzɔn]
+- sod, turf, a cut block of earth held together by grassroots;
+- peat, such blocks as a material for roofing or walling or as fuel;
+- sward, green, lawn, the grassy surface of open ground;
+- pitch, the field of play (especially in lineball)
+
+Etymology: directly from Old Borlish vason "turf", borrowed from synoymous wason in Old French or directly from its Old Dutch source; either way from Classical German vasō "meadow, field". Later semantic developments appear to parallel and postdate those in Norman French, including (by the nineteenth century) its use in sports.
+
+Sy fraðr voun y tapeç sur y vason despondr con y trenchet.
+/si ˈfraðr̩ vun i taˈpɛts sɪr i vaˈzɔn dɛˈspɔndr̩ kɔn i trɛnˈkɛt/
+[si ˈfra.ðɐ vun i tɐˈpɛts sɪː‿ʀi vɐˈzɔn dɪˈspɔn.dɐ kɔn i tʀɪŋˈkɛt]
+3s.gn brother will.3p df rug on df turf set-inf with df picnic
+Her brothers will set out the picnic on the mat on the lawn.
+
+##
+
+234.5:
