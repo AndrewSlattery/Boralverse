@@ -11385,11 +11385,11 @@ claims:
 - entry: 51.5
   title: 23rd Lexember
   category: place
-  claim: New Leudong is a polity in southeastern Chrysia.
+  claim: New Leudong is a polity in southeastern Angelica.
   entities:
   - name: New Leudong
     type: polity
-  - name: Chrysia
+  - name: Angelica
     type: place
 - entry: 51.5
   title: 23rd Lexember
@@ -11403,9 +11403,9 @@ claims:
 - entry: 51.5
   title: 23rd Lexember
   category: glossary
-  claim: Chrysia is the Boralverse name for Australia.
+  claim: Angelica is the Boralverse name for Australia.
   entities:
-  - name: Chrysia
+  - name: Angelica
     irl: Australia
     type: place
   _also_in_entries:
@@ -14849,11 +14849,11 @@ claims:
 - entry: 77.5
   title: Continents and Conjugality
   category: place
-  claim: New Leudong is a polity in south-eastern Chrysia.
+  claim: New Leudong is a polity in south-eastern Angelica.
   entities:
   - name: New Leudong
     type: polity
-  - name: Chrysia
+  - name: Angelica
     type: place
 - entry: 78.5
   title: The Good Game period
@@ -17093,7 +17093,7 @@ claims:
 - entry: 97.5
   title: entrcollocq
   category: event
-  claim: After the Chrysian Landfall, emigration from Britain helped form the modern polity of New Leudong.
+  claim: After the Angelican Landfall, emigration from Britain helped form the modern polity of New Leudong.
   entities:
   - name: Britain
     type: polity
@@ -22100,11 +22100,11 @@ claims:
 - entry: 151.5
   title: War and Peace
   category: place
-  claim: New Leudong is a polity covering the southeast portion of Chrysia, named for the Cathayan state of Leudong.
+  claim: New Leudong is a polity covering the southeast portion of Angelica, named for the Cathayan state of Leudong.
   entities:
   - name: New Leudong
     type: polity
-  - name: Chrysia
+  - name: Angelica
     type: place
   - name: Leudong
     type: polity
@@ -22139,7 +22139,7 @@ claims:
   title: War and Peace
   category: person
   claim: Pether Hetsong was born in New Leudong and penned the semi-autobiographical 'The Land of Golden Lies and Sugared
-    Fire' in 1864, often considered the first Chrysian work of literature to enjoy Vetomundine success.
+    Fire' in 1864, often considered the first Angelican work of literature to enjoy Vetomundine success.
   entities:
   - name: Pether Hetsong
     type: person
@@ -24314,7 +24314,7 @@ claims:
   title: Eastern History
   source_work: Excourse Puzzlers (Royal Tommarth Castinghouse, 2021)
   category: place
-  claim: New Leudong in Chrysia was named by a Cathayan captain for the Leudong peninsula in Cathay.
+  claim: New Leudong in Angelica was named by a Cathayan captain for the Leudong peninsula in Cathay.
   entities:
   - name: New Leudong
     type: polity

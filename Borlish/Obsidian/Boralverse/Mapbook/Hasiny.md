@@ -4,7 +4,7 @@ Hasiny is centred on the lower parts of the watershed of the Bahassassin River, 
 
 The name Hasiny derives from the confederation of the same name, which once extended across lands which are now part of Hasiny and Taisha.
 
-The languages of administration in Hasiny are Jaughta (**Jahtá**, the Mendevan language spoken by a majority of the populace) and the local variety of Welsh (which differs in important ways from the dialects of [[Britain|British]] or [[Chrysia|Chrysian]] Welsh).
+The languages of administration in Hasiny are Jaughta (**Jahtá**, the Mendevan language spoken by a majority of the populace) and the local variety of Welsh (which differs in important ways from the dialects of [[Britain|British]] or [[Angelica|Angelican]] Welsh).
 
 Hasiny was the homeland of the [[Herdtale romance|herdtale]] genre of fiction, which sought to depict a rural idyll with a focus on animal husbandry.
 
