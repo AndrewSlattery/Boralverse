@@ -1,46 +1,18 @@
 # Continent Names: Etymological Dossier
 
-Working notes for the blog post on continental nomenclature. Canon is separated from gaps throughout; every canonical claim carries a source reference.
+Working notes for the blog post on continental nomenclature.
 
----
+## Vetomund, Vetomundine
 
-## The structural finding
+A retroactive name for this group of continents modelled after Novomund (see below), first attested in the seventeenth century.
 
-The three groups are not parallel, and that is the most interesting thing about them.
+Europe, Asia, Africa - same etymologies as in real-life history. Conceived of as the three landmasses surrounding Greece or the Masreck.
 
-- **Vetomund names are inherited, not coined.** Europe, Asia and Africa keep their real-world names unchanged. This is forced by the point of divergence: these names were fossilised in antiquity, long before Borland changes anything. The Boralverse cannot rename them without breaking its own premise.
-- **Novomund names are coined, and we can date them.** Mendeva and Cappatia are both post-1471 inventions, and canon preserves the moment of coinage for one of them and a dating constraint for the other.
-- **The third group is coined *and* retrofitted.** Angelica and Australia were reached by a southern and eastern route, not across the Atlantic — so they do not naturally belong to an Old/New binary defined by that ocean. Any collective term for them is necessarily a later, tidier-than-reality imposition.
+## Novomund, Novomundine
 
-That last point is the spine of the post: **the third Mund is a schoolroom category, not an explorers' one.** It explains why no name for it feels natural — because in-world, none would be.
 
-### The buried joke, and the best thing in the post
 
-Look at what the *-mund* series is actually made of. *Vetus*, *novus*, *sērus* — **old, new, late**. Every one is a temporal adjective. The Vetomundine scheme presents itself as geography and is in fact a chronology: the world we always had, the world we found, the world we got round to last. It sorts landmasses by when Europe noticed them.
 
-Now put Cappatia beside them. Quechua *pacha* is not "world" in the European sense at all — it "encapsulates the physical expanse of the world alongside its temporal flow, forming a holistic construct that defies Western bifurcations of these concepts". *Kay pacha*, "this world, the present world", is one term in an indigenous **tripartite** scheme: *hanan pacha* above, *kay pacha* here, *ukhu pacha* below.
-
-So: Vetomundine geographers assemble a three-world scheme sorted by time, and — without the least idea what they are doing — name one of its three members with a borrowed word that already meant "the present world" and already belonged to a three-world scheme sorted by time and space at once. They even picked the middle one.
-
-The Vetomund got the past, the Novomund got the new, the Seromund got the latecomer — and Cappatia, alone among them, was already correctly named before anyone in Europe arrived to name it.
-
----
-
-## Group 1 — The Vetomund
-
-> *Vetomund*: "the Boralverse term for the Old World" (`all_claims_final.yaml`). Borlish *Vetomond*, adjective *vetomondin* — attested in the corpus, e.g. "recent magn demay por pudour vetomondin suffigr" ("far too recently for Vetomundine sensibilities").
-
-| Name | Status | Notes |
-|---|---|---|
-| **Europe** | Canon, unchanged | Used throughout. `Mapbook/Europe.md` defines it as "a continental peninsula in the northern hemisphere" with no etymological gloss. |
-| **Asia** | Canon, unchanged | Used as a live geographical term — al-Casmi arrives somewhere "almost recognisable as Asia". Also productive: the archipelago named **Asia Cahal**, modern **Cahalla** (`Data/pre-2022 notes.txt`). |
-| **Africa** | Canon, unchanged | `Mapbook/Libya.md`: "a Middlesea polity on the north coast of Africa". Note **Ifricia** as Libya's Single Caliphate–era name — the Arabic form is live in-world, giving you a doublet to play with. |
-
-**The angle for the post:** the Vetomund names are the control group. They demonstrate that the Boralverse's naming divergence is strictly post-classical — nothing before Rome's collapse can move. Ifricia/Africa is the one place where the alternate history does touch a continental name, and only obliquely.
-
----
-
-## Group 2 — The Novomund
 
 > *Novomund*, also "the New World": "the lands to the west of the Atlantic Ocean… comprises the two great landmasses of Mendeva and Cappatia, along with several dozen major islands (such as Brasil and Cocain)" (`Mapbook/Novomund.md`). Borlish *Novomond*, adjective *novomondin*.
 
