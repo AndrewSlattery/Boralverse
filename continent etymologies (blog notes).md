@@ -14,6 +14,8 @@ Europe, Asia, Africa - same etymologies as in real-life history. Conceived of as
 
 
 
+## Ceteromund, Ceteromundine
+
 > *Novomund*, also "the New World": "the lands to the west of the Atlantic Ocean… comprises the two great landmasses of Mendeva and Cappatia, along with several dozen major islands (such as Brasil and Cocain)" (`Mapbook/Novomund.md`). Borlish *Novomond*, adjective *novomondin*.
 
 ### Mendeva — fully canon, best-documented name in the setting
