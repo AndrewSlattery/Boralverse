@@ -1,5 +1,7 @@
+attent "attempt, try" < attendr
 authicanopoesy "complacency" | authican "self-sufficient" | authicanopoetic "complacent" < Gk
 belligrman "warmonger" < belliger "warlike" + -man "purveyor of"
+blasphem "blasphemous" < L blasphēmus
 cacquar "shit" < cacq
 cuindr "kernel" < cyrnel in OE
 depoussar "cashier, fire" < depulso
@@ -8,7 +10,9 @@ empory "economy" < emporium
 entauthaltað "localism" < Gk entautha | entauthal
 entrposson fair "act as a stepping stone" | entrposson "intermediate step" < entr- "between" and posson "position" < positio
 fancy "idea, fantasy, dream" < phantasia
+imposment "enforcement" < imposar
 issaughar "rinse, flush" < exaquō
+jur "legal right"
 kembang "firework" < Indonesian kembang api "flower of fire"
 laðr "plough" < Insular Latin alatrum < aratrum "plough"
 limaç "slug" < limax
@@ -17,10 +21,12 @@ manoscarteyar "syncretise, hybridise" < manoscart "hybrid, fusion" | manoscartey
 micr "loaf, bread roll" < mīccula < mīcca < mīca "crumb" | micrman "bakery" < -man "monger"
 mogon "arsehole (slang)" < Swahili mkundu
 nombler "banker" < nummulārius, nummulus "small piece of money"
+obsequïr "give away"
 oraçoir "stormy weather, thunderstorm, a storm zone" < oraç "storm" < Vulgar Latin *aurāticum
 pacentar "be patient to, put up with" < patiens
 pantachualtað "universalism" < Gk pantakhou | pantachual
 passar roug "to have difficulty, to struggle, to encounter setbacks", literally "to pass red"
+paugral "paragraph, clause" < paragraphus
 pylon "portal" < Gk
 seget "crop" < L seges
 spinglar "pin down" < cf. French épingler

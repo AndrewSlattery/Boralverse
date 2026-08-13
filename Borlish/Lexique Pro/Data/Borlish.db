@@ -1108,6 +1108,15 @@
 \lx accordar
 \ps ar v
 
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
+
+\lx accordar
+\ps ar v
+
 \ge agree
 \ge accord
 \ge harmonise
@@ -1115,15 +1124,6 @@
 \ge go
 
 \et Middle Borlish < Latin
-
-\lx accordar
-\ps ar v
-
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -12073,7 +12073,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-\mn damnar
 
 \lx condamnar
 \ps ar v
@@ -12082,6 +12081,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
+\mn damnar
 
 \lx condamnment
 \ps n
@@ -16442,19 +16442,19 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps ar v
 
 \ge decipher
-\ge decode
-
-\mn scifr
-
-\lx descifrar
-\ps ar v
-
-\ge decipher
 \ge make out
 \ge translate
 \ge simplify
 
 \et Old Borlish < Medieval Latin < Arabic
+
+\lx descifrar
+\ps ar v
+
+\ge decipher
+\ge decode
+
+\mn scifr
 
 \lx descombr
 \ps r v
@@ -18973,21 +18973,21 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps adj
 
 \ge durable
-\ge stiff
-\ge lasting
-\ge permanent
-\ge resilient
+\ge long-lasting
 
-\et adjective from durar "last"
+\et Adjective from durar
 \mn durar
 
 \lx durabr
 \ps adj
 
 \ge durable
-\ge long-lasting
+\ge stiff
+\ge lasting
+\ge permanent
+\ge resilient
 
-\et Adjective from durar
+\et adjective from durar "last"
 \mn durar
 
 \lx durant
@@ -20281,15 +20281,6 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \lx ensign
 \ps n
 
-\ge engraving
-\ge carving
-\ge suit
-
-\et Old Borlish < Latin
-
-\lx ensign
-\ps n
-
 \ge emblem
 \ge logo
 \ge symbol
@@ -20307,6 +20298,15 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \xe I will recommend you for a higher position.
 
 \et Middle Borlish, a semilearned borrowing from Latin insignia "emblem, badge", a noun formation from adjective insignis "marked, distinguished". The word has been used metonymically to refer to the position conferred or represented by an insignia since the fifteenth century, and it has been used in card games from approximately the same time.
+
+\lx ensign
+\ps n
+
+\ge engraving
+\ge carving
+\ge suit
+
+\et Old Borlish < Latin
 
 \lx ensignar
 \ps ar v
@@ -23962,18 +23962,18 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
-\ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Welsh rhagossaw "way-station"
 
 \lx fragossau
 \ps n
 
 \ge outpost
+\ge outlying settlement
 \ge colony
 
-\et Welsh rhagossaw "way-station"
+\et Middle Borlish < Welsh
 
 \lx fragossaveyaçon
 \ps n
@@ -24311,13 +24311,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps ar v
 
 \ge rub
-
-\et Old Borlish < Old French < Latin
-
-\lx frottar
-\ps ar v
-
-\ge rub
 \ge chafe
 \ge scour
 \ge scrub
@@ -24333,6 +24326,13 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
+
+\lx frottar
+\ps ar v
+
+\ge rub
+
+\et Old Borlish < Old French < Latin
 
 \lx fruit
 \ps n
@@ -35125,28 +35125,6 @@ Old Borlish < Latin illa
 \ps ar v
 
 \ge hybridise
-\ge fuse
-\ge cross-breed
-\ge cross
-\ge syncretise
-
-\et modern Borlish, verb from manoscart "blended fabric, musical scale"
-\mn manoscart
-
-\se manoscarteyaçon
-\ps n
-
-\ge fusion
-\ge cross-breed
-\ge syncretism
-\ge hybridisation
-
-\et noun from manoscarteyar
-
-\lx manoscarteyar
-\ps ar v
-
-\ge hybridise
 \ge cross
 \ge blend
 \ge syncretise
@@ -35170,6 +35148,28 @@ Old Borlish < Latin illa
 
 \et sporadic use in the Middle Borlish period as a derivation from manoscart "manoscard", a particular musical scale which developed near the Burgund town of Manosque in the thirteenth century. Other senses are a later rederivation from the root's extended meanings including "fusion, combination, blend". Use of the word with pejorative connotations is attested only from the mid-twentieth century.
 \mn manoscart
+
+\lx manoscarteyar
+\ps ar v
+
+\ge hybridise
+\ge fuse
+\ge cross-breed
+\ge cross
+\ge syncretise
+
+\et modern Borlish, verb from manoscart "blended fabric, musical scale"
+\mn manoscart
+
+\se manoscarteyaçon
+\ps n
+
+\ge fusion
+\ge cross-breed
+\ge syncretism
+\ge hybridisation
+
+\et noun from manoscarteyar
 
 \lx manouvr
 \ps n
@@ -62086,17 +62086,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge forebear
 \ge precursor
 
-\et Middle Borlish < Norman < Old French < Frankish, Vulgar Latin
-
-\lx vangard
-\ps n
-
-\ge vanguard
-\ge pioneer
-\ge lead
-\ge forward position
-
-\et Old French avangarde "before guard"
+\et Middle Borlish < Norman < Old French avangarde "before guard" < Frankish, Vulgar Latin
 
 \lx vapour
 \ps n
