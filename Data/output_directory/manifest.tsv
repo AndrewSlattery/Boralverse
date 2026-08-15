@@ -880,7 +880,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 171.2	dictionary	vancar "loot"	vancar	loot	True	3	115	764	dictionary/171.2_vancar_loot.md
 171.3	dictionary	visnous "gnarly"	visnous	gnarly	True	3	114	766	dictionary/171.3_visnous_gnarly.md
 171.4	dictionary	ne minemini "eeny meeny miney moe"	ne minemini	eeny meeny miney moe	True	3	200	1281	dictionary/171.4_ne_minemini_eeny_meeny_miney_moe.md
-171.5	notes	Novomundine Landfall			False	0	289	1907	notes/171.5_Novomundine_Landfall.md
+171.5	notes	Novomundane Landfall			False	0	289	1907	notes/171.5_Novomundane_Landfall.md
 172.1	excerpt	Hatfell Honours			False	0	233	1407	excerpt/172.1_Hatfell_Honours.md
 172.2	dictionary	allocquar "address"	allocquar	address	True	3	141	825	dictionary/172.2_allocquar_address.md
 172.3	dictionary	incombir "loom"	incombir	loom	True	4	116	742	dictionary/172.3_incombir_loom.md
@@ -1202,3 +1202,5 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 234.2	dictionary	manoscarteyar "syncretise"	manoscarteyar	syncretise	True	4	148	1058	dictionary/234.2_manoscarteyar_syncretise.md
 234.3	dictionary	nombler "banker"	nombler	banker	True	4	199	1213	dictionary/234.3_nombler_banker.md
 234.4	dictionary	vason "turf"	vason	turf	True	4	158	912	dictionary/234.4_vason_turf.md
+234.5	notes	Continents			False	0	476	3036	notes/234.5_Continents.md
+235.1	excerpt	Modern Vascony			False	0	267	1677	excerpt/235.1_Modern_Vascony.md
