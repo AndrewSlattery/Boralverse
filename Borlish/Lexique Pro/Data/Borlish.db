@@ -1108,15 +1108,6 @@
 \lx accordar
 \ps ar v
 
-\ge make agree
-\ge align
-\ge tune
-
-\et Old Borlish < Latin
-
-\lx accordar
-\ps ar v
-
 \ge agree
 \ge accord
 \ge harmonise
@@ -1124,6 +1115,15 @@
 \ge go
 
 \et Middle Borlish < Latin
+
+\lx accordeyar
+\ps ar v
+
+\ge make agree
+\ge align
+\ge tune
+
+\et Old Borlish < Latin
 
 \lx accort
 \ps n
@@ -4660,6 +4660,15 @@
 
 \et Middle Borlish < Old Borlish
 
+\lx attent
+\ps n
+
+\ge attempt
+\ge try
+
+\et Old Borlish < Latin attentō "I try", later associated with attendr "wait; try"
+\mn attendr
+
 \lx attorrir
 \ps ir1 v
 
@@ -6755,6 +6764,15 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 
 \et Old Borlish < Vulgar Latin < Ancient Greek
 
+\lx blasphem
+\ps adj
+
+\ge blasphemous
+\ge libellous
+\ge defamatory
+
+\et Latin blasphēmus "blasphemous"
+
 \lx blau
 \ps adj
 
@@ -7895,6 +7913,17 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 \ge fucking
 
 \et Old Borlish < Latin
+
+\lx cacquar
+\ps ar v
+
+\ge shit
+\ge crap
+\ge poo
+\ge poop
+
+\et verb from cacq "shit"
+\mn cacq
 
 \lx cadarað
 \ps adj
@@ -9993,19 +10022,12 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \lx cession
 \ps n
 
+\ge ceding
 \ge surrender
 \ge yielding
 \ge submission
 
-\et Middle Borlish < Latin
-
-\lx cession
-\ps n
-
-\ge ceding
-\ge surrender
-
-\et Latin cessiō
+\et Middle Borlish < Latin cessiō
 
 \lx ceter
 \ps adv
@@ -12073,24 +12095,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge sentence
 
 \et Latin condemno "I condemn"
-
-\lx condamnar
-\ps ar v
-
-\ge condemn
-\ge sentence
-
-\et Latin condemno "I condemn"
 \mn damnar
-
-\lx condamnment
-\ps n
-
-\ge condemnation
-\ge sentence
-
-\et noun from condamnar "condemn"
-\mn condamnar
 
 \lx condamnment
 \ps n
@@ -12449,6 +12454,13 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et Middle Borlish < Latin
 
+\se conjuraçonnour
+\ps n
+
+\ge conspirator
+\ge abettor
+\ge accomplice
+
 \lx conjuraçonnal
 \ps adj
 
@@ -12465,22 +12477,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge conspire
 \ge plot
 \ge plan a crime
-
-\et Middle Borlish
-
-\lx conjuraçonnour
-\ps n
-
-\ge conspirator
-\ge abettor
-
-\mn conjuraçonnar
-
-\lx conjuraçonnour
-\ps n
-
-\ge conspirator
-\ge accomplice
 
 \et Middle Borlish
 
@@ -14659,6 +14655,15 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \et Latin
 
 \lx cu
+\hm 1
+\ps question word
+
+\ge who
+\ge whom
+
+\et Old Borlish < Latin
+
+\lx cu
 \hm 2
 \ps n
 
@@ -14666,14 +14671,6 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge Q
 
 \et Latin
-
-\lx cu
-\ps question word
-
-\ge who
-\ge whom
-
-\et Old Borlish < Latin
 
 \lx cubicr
 \ps n
@@ -16447,13 +16444,6 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ge simplify
 
 \et Old Borlish < Medieval Latin < Arabic
-
-\lx descifrar
-\ps ar v
-
-\ge decipher
-\ge decode
-
 \mn scifr
 
 \lx descombr
@@ -18598,6 +18588,27 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 
 \et Old English
 
+\lx ðourxon
+\ps n
+
+\ge menhir
+\ge standing stone
+\ge megalith
+\ge orthostat
+\ge talayot
+\ge stone circle
+\ge henge
+\ge cromlech
+\ge dolmen
+\ge giant
+\ge titan
+\ge jotun
+
+\xv Nos rajognareu all'ec ðourxon prell'ort sol.
+\xe We'll meet at the dolmen before sunrise.
+
+\et from northern dialect ðourskan "menhir", allied with Scots Guile [Scottish Gaelic] tursaghan "stone circle". These both originate in Old Norse þurs "ogre, monster"; standing stones across northwestern Europe were described as the petrified forms of legendary giants. The term entered standard Borlish in the seventeenth century, and has been used for legendary creatures in imitation of its Norse etymon since that was uncovered in the nineteenth century.
+
 \lx doussem
 \ps adj
 
@@ -18973,17 +18984,9 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ps adj
 
 \ge durable
-\ge long-lasting
-
-\et Adjective from durar
-\mn durar
-
-\lx durabr
-\ps adj
-
-\ge durable
 \ge stiff
 \ge lasting
+\ge long-lasting
 \ge permanent
 \ge resilient
 
@@ -20298,15 +20301,6 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \xe I will recommend you for a higher position.
 
 \et Middle Borlish, a semilearned borrowing from Latin insignia "emblem, badge", a noun formation from adjective insignis "marked, distinguished". The word has been used metonymically to refer to the position conferred or represented by an insignia since the fifteenth century, and it has been used in card games from approximately the same time.
-
-\lx ensign
-\ps n
-
-\ge engraving
-\ge carving
-\ge suit
-
-\et Old Borlish < Latin
 
 \lx ensignar
 \ps ar v
@@ -23962,18 +23956,10 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ps n
 
 \ge outpost
-\ge colony
-
-\et Welsh rhagossaw "way-station"
-
-\lx fragossau
-\ps n
-
-\ge outpost
 \ge outlying settlement
 \ge colony
 
-\et Middle Borlish < Welsh
+\et Middle Borlish < Welsh rhagossaw "way-station"
 
 \lx fragossaveyaçon
 \ps n
@@ -24326,13 +24312,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
-
-\lx frottar
-\ps ar v
-
-\ge rub
-
-\et Old Borlish < Old French < Latin
 
 \lx fruit
 \ps n
@@ -28235,7 +28214,6 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \et Middle Borlish < Old Borlish < Latin < Ancient Greek
 
 \lx i
-\hm 2
 \ps n
 
 \ge i
@@ -28893,6 +28871,16 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge loom
 
 \et Latin impōnō
+
+\lx imposment
+\ps n
+
+\ge enforcement
+\ge encroachment
+\ge imposition
+
+\et noun from imposar "impose", from Latin
+\mn imposar
 
 \lx imprefait
 \ps adj
@@ -30219,6 +30207,23 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Old Borlish < Latin
 
+\lx issaughar
+\ps ar v
+
+\ge rinse
+\ge swill
+\ge sluice
+\ge flush out
+\ge irrigate
+\ge flood
+\ge leach
+\ge wash out
+
+\xv Soul issaugheð y paðel; despardað noc y savon.
+\xe Just rinse the dishes; don't waste the soap.
+
+\et from Old Borlish issauȝar "drain, let water out of", via a synoymous exaquō "I drain" in Vulgar Latin from the Classical root noun aqua "water". Cognate with Tuscan sciacquare "rinse", whence the modern borrowing sciacquato "watercolour".
+
 \lx issaur
 \ps n
 
@@ -31446,6 +31451,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \et Old Borlish < Latin
 
 \lx jur
+\hm 1
 \ps n
 
 \ge udder
@@ -31453,6 +31459,15 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge nozzle
 
 \et Old Borlish < Old Norse
+
+\lx jur
+\hm 2
+\ps n
+
+\ge right
+\ge legal right
+
+\et Latin iūs
 
 \lx jurar
 \ps ar v
@@ -33258,7 +33273,7 @@ Old Borlish < Latin illa
 \ge gastropod
 \ge sucker
 
-\et Old Borlish < Latin līmāx
+\et Old Borlish < Latin līmāx "slug"
 
 \lx limitað
 \ps adj
@@ -33422,7 +33437,6 @@ Old Borlish < Latin illa
 \sd Corporals
 
 \lx lo
-\hm 1
 \ps pron
 
 \de third person singular inanimate
@@ -35148,28 +35162,6 @@ Old Borlish < Latin illa
 
 \et sporadic use in the Middle Borlish period as a derivation from manoscart "manoscard", a particular musical scale which developed near the Burgund town of Manosque in the thirteenth century. Other senses are a later rederivation from the root's extended meanings including "fusion, combination, blend". Use of the word with pejorative connotations is attested only from the mid-twentieth century.
 \mn manoscart
-
-\lx manoscarteyar
-\ps ar v
-
-\ge hybridise
-\ge fuse
-\ge cross-breed
-\ge cross
-\ge syncretise
-
-\et modern Borlish, verb from manoscart "blended fabric, musical scale"
-\mn manoscart
-
-\se manoscarteyaçon
-\ps n
-
-\ge fusion
-\ge cross-breed
-\ge syncretism
-\ge hybridisation
-
-\et noun from manoscarteyar
 
 \lx manouvr
 \ps n
@@ -40804,6 +40796,25 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn or
 \mn bon
 
+\lx oraç
+\ps n
+
+\ge thunderstorm
+\ge storm
+\ge tumult
+\ge outrage
+\ge outcry
+\ge hue and cry
+
+\et Old Borlish < Vulgar Latin aurāticum < aura "breeze"
+
+\se oraçoir
+\ps n
+
+\ge storm zone
+\ge stormy weather
+\ge thunderstorm
+
 \lx oransc
 \ps n
 
@@ -41671,6 +41682,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \et Old Borlish < Vulgar Latin
 
 \lx oy
+\hm 1
+\ps adv
+
+\ge now
+\ge at present
+
+\et Old Borlish < Latin
+
+\lx oy
 \hm 2
 \ps n
 
@@ -41678,14 +41698,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge Y
 
 \et unknown, compare Old French ui, English wye
-
-\lx oy
-\ps adv
-
-\ge now
-\ge at present
-
-\et Old Borlish < Latin
 
 \lx oyour
 \ps n
@@ -42090,11 +42102,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge they say
 \ge I hear
 
-\mn par
-\mn boc
-
-\lx par boc
-\ps adv
+\ps adj
 
 \ge spoken
 \ge by mouth
@@ -43213,15 +43221,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
-
-\lx paus
 \ps interj
 
 \ge hang on
@@ -43230,6 +43229,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
+
+\lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -51361,22 +51369,11 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 
 \et Vascon—after Princess Sandrina of Vascony
 
-\lx sandrinal
+\se sandrinal
 \ps adj
 
 \ge antiscorbutic
 \ge pertaining to vitamin C
-
-\et adjective from sandrin "vitamin C"
-\mn sandrin
-
-\lx sandrinal
-\ps adj
-
-\ge containing vitamin C
-
-\et adjective from sandrin "vitamin C"
-\mn sandrin
 
 \lx sanfoin
 \ps n
@@ -52561,6 +52558,14 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \et attested from 10C as skolar, scholair “pertaining to academia”.  Derived from schol “school, academia” + the adjectival -er suffix, itself from Latin -ārius with the same meaning.
 \mn schol
 
+\lx sciacquato
+\ps n
+
+\ge watercolour
+\ge tie-dye
+
+\et Tuscan sciacquato, participle of sciacquare "rinse".
+
 \lx scið
 \ps adj
 
@@ -53465,6 +53470,21 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge tempt
 
 \et Middle Borlish < Latin
+
+\lx seget
+\ps n
+
+\ge crop
+\ge cereal
+\ge harvest
+\ge yield
+\ge bristle
+\ge stand
+
+\xv Ðe voun cal seget ðarar sull'oc acr?
+\xe Which crop will they farm in this field?
+
+\et Middle Borlish borrowing from Latin seges "field sown with a cereal crop", used metonymically for the field's contents. Used metaphorically for masses which visually resemble standing crops, the word is especially common in military contexts.
 
 \lx segnour
 \ps n
@@ -60468,15 +60488,6 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ps n
 
 \ge transmigration
-\ge relocate
-
-\et noun from tramigrar "transmigrate".
-\mn tramigrar
-
-\lx tramigraçon
-\ps n
-
-\ge transmigration
 \ge relocation
 \ge nomadism
 
@@ -63877,13 +63888,6 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge steal
 
 \et Old Borlish < Latin
-
-\lx volcan
-\ps n
-
-\ge volcano
-
-\et Italian, from Latin Vulcanus
 
 \lx volcan
 \ps n

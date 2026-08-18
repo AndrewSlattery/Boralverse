@@ -32022,3 +32022,51 @@ Into the twentieth century, Vascony maintained strong ties with its neighbour Pr
 - menhir, standing stone, megalith, orthostat, talayot, a tall upright stone acting a monument and erected in ancient times;
 - (with plural agreement) stone circle, henge, cromlech, dolmen, an ancient structure constructed of standing stones used as a tomb or for other ritual purposes;
 - (mythology, fantasy) giant, titan, jotun, a member of any race of superhumanly tall humanoid beings
+
+Etymology: from northern dialect ðourskan "menhir", allied with Scots Guile [Scottish Gaelic] tursaghan "stone circle". These both originate in Old Norse þurs "ogre, monster"; standing stones across northwestern Europe were described as the petrified forms of legendary giants. The term entered standard Borlish in the seventeenth century, and has been used for legendary creatures in imitation of its Norse etymon since that was uncovered in the nineteenth century.
+
+Nos rajognareu all'ec ðourxon prell'ort sol.
+/nɔz raˌʒɔj.naˈrau a.lɛk ðurˈksɔn prɛˈlɔrt sɔl/
+[nɔz ʀɐˌʝɔj.nɐˈrau ˌa.lɪg ðʊːˈksɔn pʀɪˈlɔːt sɔl]
+1p meet.up-ft-1p at-df=p.px menhir before-df=rise sun
+We'll meet at the dolmen before sunrise.
+
+##
+
+235.3: seget "crop"
+
+seget /seˈʒɛt/ [sɪˈʝɛt]
+- crop, a cultivated plant grown for food or for trade;
+- (specifically) cereal, a grass farmed for its edible grains;
+- harvest, yield, what a season's growing brings in;
+- any dense mass of upright things such as hair, spears or masts
+
+Etymology: Middle Borlish borrowing from Latin seges "field sown with a cereal crop", used metonymically for the field's contents. Used metaphorically for masses which visually resemble standing crops, the word is especially common in military contexts.
+
+Ðe voun cal seget ðarar sull'oc acr?
+/ðe vun kal seˈʒɛt ðaˈrar sɪˈlɔk akr̩/
+[ðe vun kal sɪˈʝɛt ðɐˈʀɐː ˌsɪ.lʊ‿ˈgakɐ]
+3p will-3p what crop farm-inf on-df=s.px field
+Which crop will they farm in this field?
+
+##
+
+235.4: issaughar "rinse, flush"
+
+issaughar /ˌɪ.soˈjar/ [ˌɪ.sʊˈʝɐː]
+- rinse, swill, to wash by pouring water over or through something;
+- sluice, flush out, to clear a channel or a drain by a rush of water;
+- irrigate, flood, to let water cover or suffuse land;
+- leach, wash out, to drain something of its substance
+
+Etymology: from Old Borlish issauȝar "drain, let water out of", via a synoymous exaquō "I drain" in Vulgar Latin from the Classical root noun aqua "water". Cognate with Tuscan sciacquare "rinse", whence the modern borrowing sciacquato "watercolour".
+
+Soul issaugheð y paðel; despardað noc y savon.
+/sul ˌɪ.soˈjɛθ i paˈðɛl | ˌdɛ.sparˈdaθ nɔk i saˈvɔn/
+[sul ˌɪ.sʊˈʝɛ‿ði pɐˈðɛl | ˌdɛ.spɐːˈdaθ nɔ‿gi sɐˈvɔn]
+only rinse-imp df plate | waste-imp ng df soap
+Just rinse the dishes; don't waste the soap.
+
+##
+
+235.5:
