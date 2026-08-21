@@ -32,7 +32,7 @@ Elsewhere, history tracks the real world closely until specific divergence point
 - Roman: Conquered as a province; Latin takes hold
 - Post-Roman: Anglo-Saxon and Danish settlers create petty kingdoms; Borlish emerges from Latin spoken among these migrants
 - Medieval: Unified Kingdom of Borland through the First Kingdom and Dane-ruled periods; monasteries, universities, guilds
-- Late Medieval (1400s–1500s): Wars of Fealty across Albion; Novomundine contact begins; the **Second Great Dying** (1518–1525), a plague that kills roughly 1/7 of Borland's population
+- Late Medieval (1400s–1500s): Wars of Fealty across Albion; Novomundane contact begins; the **Second Great Dying** (1518–1525), a plague that kills roughly 1/7 of Borland's population
 - Early Modern: Agricultural revolution, mercantile expansion, abolition of serfdom (legally 1564)
 - 17th–18th centuries: Romantic Wars (Vascony vs. Morrack), Long Peace, early industrialization
 - 19th century: **Steeplepost** (telegraph/rail equivalent) arrives; Good Game period of alliance-federacies; industrial Workshop period
@@ -50,18 +50,18 @@ Key regions and polities (all are alternate-history versions of real places unle
 |---|---|
 | Albion | The British Isles; divided between several kingdoms; Wales-centered Britain, Kernow (Cornwall), Dunclothe |
 | Britain | A kingdom centered on Wales, extending to Devon and Ireland |
-| Vascony | Basque-Gascon maritime power; also holds Portingale (Portugal); pioneered Novomundine exploration |
+| Vascony | Basque-Gascon maritime power; also holds Portingale (Portugal); pioneered Novomundane exploration |
 | Morrack | Maghrebi/North African kingdom |
 | Drengot Collusion | Northwestern European alliance-federation |
 | Novomund | The Americas; initial contact 1471 via Basque fishermen; colonized as **staddomains** |
-| Brasil | The Novomundine landmass explored from Vascony |
+| Brasil | The Novomundane landmass explored from Vascony |
 | British Mendeva | British colonial territory in Novomund |
 | Arcabil | Region with its own cultural identity (referenced frequently) |
 | Mashick | Mendevan polity descended from the Aztec Empire, in Lower Mendeva, with heavy Morrack influence |
 | Gurjat, Madray | Indian subcontinent equivalents |
 | Cathay | China equivalent |
 
-The Novomundine contact point is 1471, when Princess **Alexandra of Vascony** became the first European royal to set foot in the New World.
+The Novomundane contact point is 1471, when Princess **Alexandra of Vascony** became the first European royal to set foot in the New World.
 
 ---
 

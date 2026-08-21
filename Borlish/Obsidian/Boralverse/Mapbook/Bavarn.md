@@ -7,7 +7,7 @@ Thirteenth-century Bavarn was the epicentre of the [[Pauline Denunciations]] and
 
 In the fifteenth century, Bavarn was embroiled in an extended series of conflicts with Burgundy. By this time it had also become a technological centre, with workshops developing entirely new glassmaking techniques. 
 
-Following the [[Blue Trans-Willem War]] of the late nineteenth century, Bavarn gained significant territory from the Kingdom of Burgundy, which subsequently dissolved. As result, then-king Frederick created the Duchy of [[Far Suebia]], ruled from Burgundy's former capital [[Geneva]].
+Following the [[Blue Trans-Willem War]] of the late seventeenth century, Bavarn gained significant territory from the Kingdom of Burgundy, which subsequently dissolved. As result, then-king Frederick created the Duchy of [[Far Suebia]], ruled from Burgundy's former capital [[Geneva]].
 
 In the eighteenth century, famine and a shortage of grain led to popular unrest that threatened to destabilise the state; the examples of [[Venise]] and [[Crovatia]] to the south demonstrated how badly things could go for the current regime.
 

@@ -1,7 +1,7 @@
 Ambrosia (Vascon/Vask **Ambroxa**) is a polity of north-eastern [[Mendeva]], comprising several islands and much of the mainland up to the Five Seas. It borders [[New Provence]] to the south.
 ## History
 
-The story of Ambrosia begins with the [[Novomundine Landfall]] of 1471, when Vetomundine travellers encountered Mendeva for the first time since sporadic visits by the Norse. A Vask fishing expedition (part of the [[New Navarre Enterprise]]) landed on the island of [[Brasil]], which would go on to host the first European settlements in Mendeva.
+The story of Ambrosia begins with the [[Novomundane Landfall]] of 1471, when Vetomundane travellers encountered Mendeva for the first time since sporadic visits by the Norse. A Vask fishing expedition (part of the [[New Navarre Enterprise]]) landed on the island of [[Brasil]], which would go on to host the first European settlements in Mendeva.
 
 The parts of Mendeva first explored by (and whose trade was monopolised by) [[Vascony]]—to wit, the island of Brasil and the lands westward thereof—was named Ambrosia in honour of [[Ambrose III of Vascony]].
 

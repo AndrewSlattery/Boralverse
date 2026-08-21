@@ -1,4 +1,4 @@
-Princess Alexandra (fl. 1471, known also as *Sandra*) was the elder sister of King [[Ambrose III of Vascony]]. She is principally remembered for being the first Vetomundine royal to set foot in the [[Novomund]].
+Princess Alexandra (fl. 1471, known also as *Sandra*) was the elder sister of King [[Ambrose III of Vascony]]. She is principally remembered for being the first Vetomundane royal to set foot in the [[Novomund]].
 
 The chemical [[Sandrine]] is named for her, due to her voyage advancing the understanding of the counter-scurvic effect of sandrine-rich foods like citrus fruits.
 

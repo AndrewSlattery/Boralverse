@@ -19,7 +19,7 @@ Much of southern Albion was conquered in the eleventh century by [[Normandy]] (w
 
 The kingdom of Wales began to expand in the thirteenth century, conquering Devon after a long campaign. Tensions with Markland remained high (as they had done for almost a millennium), with the reignition of the Mallor Wars and the sack of Car Vantel/Rexam in 1301.
 
-The late fifteenth century saw much of Albion (and some of its neighbours) embroiled in the [[Wars of Fealty]], which lasted for forty-six years. While other polities in [[Europe]] sought to expand their trade meshes (either westward following the [[Novomundine Landfall]] or exploiting new routes to Asia), the majority of the wealth and armies of Albion was dedicated to war. 
+The late fifteenth century saw much of Albion (and some of its neighbours) embroiled in the [[Wars of Fealty]], which lasted for forty-six years. While other polities in [[Europe]] sought to expand their trade meshes (either westward following the [[Novomundane Landfall]] or exploiting new routes to Asia), the majority of the wealth and armies of Albion was dedicated to war. 
 
 The polities of Albion were still recoving from the Wars of Fealty in 1519 and thus were extremely vulnerable to the [[Second Great Dying]].
 

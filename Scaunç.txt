@@ -701,7 +701,7 @@ ___
 
 F: (Wars of) Fealty
 
-It is unfortunately characteristic of the nations of Albion that, just as the opportunities afforded by the Novamundine [3] landfall were becoming apparent to leaders across Europe, we devoted almost fifty years to battle over the location of a single chair…
+It is unfortunately characteristic of the nations of Albion that, just as the opportunities afforded by the Novomundane [3] landfall were becoming apparent to leaders across Europe, we devoted almost fifty years to battle over the location of a single chair…
 
 - The Alphabetical Albion by Lucas Osborne et al., published by Winchester Scholastic Primers, 1920
 
@@ -1635,7 +1635,7 @@ It would be ahistorical to claim that the republics of the Middlesea were brough
 
 In the first half of the second millenium, Provence was first a county in the West Francian Kingdom, and following the Emergency at Dijon, the largest province (so to speak) in the Kingdom of Burgundy. The county was elevated under the house of Savoy to a duchy in the thirteenth century, and as the direct link between the capital at Geneva and all of Middlesea sea-trade, it became known as lo panier de Borgogne (the Burgundian breadbasket).
 
-However, with the Novamundine landfall in 1471, and the accompanying Ascendancy of Vascony under Ambrose III, piracy (which had long plagued the very coast which made Provence so profitable, and which was the scourge of the venerable republics of Jeans and Venise, among others) thrived off the general prosperity. In Marsella, the raiding became so frequent that many treated it more as an occupation, and many of the wealthy fled to safer pastures inland.
+However, with the Novomundane landfall in 1471, and the accompanying Ascendancy of Vascony under Ambrose III, piracy (which had long plagued the very coast which made Provence so profitable, and which was the scourge of the venerable republics of Jeans and Venise, among others) thrived off the general prosperity. In Marsella, the raiding became so frequent that many treated it more as an occupation, and many of the wealthy fled to safer pastures inland.
  
 The aid requests presented to Rudolf VIII went largely unanswered. Charitably, one might say he was distracted by the ongoing Bavarn conflict, and the religious difficulty attendant to being the northwesternmost polity yet answerable to Rome. But it is generally allowed that the young king was simply concerned only with himself (or by extension his many lovers) and with resplendent lakeside banquets.
 
@@ -4028,8 +4028,8 @@ However, piracy thrived with the Novomundane landfall in 1471 and the accompanyi
 Y ci rekest por aïðanç stant fait a Rudolf VIII remaneurn plurem lon respos. Por cartað, l'er parcanç divertið pall'ig conflict bavarian continu, ma cos usual nos dirreu y rey joun er just curant for a luy (ben a cost de luy, a sell'amour nombrous) eð a festeul spendent sur lac.
 The aid requests presented to Rudolf VIII went largely unanswered. Charitably, one might say he was distracted by the ongoing Bavarian conflict, but it is generally allowed that the young king was simply concerned only with himself (or by extension his many lovers) and with resplendent lakeside banquets.
 
-Toð yemoy sell'Ersteigon ag closiscment dy siecr cinqueç. Segr Daniel Menton dy lign Amigòt au y soutien de Marc V de Franç garantið, coll'astuç dy general-orphan Guillen daus Sanz. Cossy preparað, luy e plusour famigl nobr d'autr deposern libertað deur Genef y veint-primer Jugn 1499.
-Things came to a head in the last years of the fifteenth century. Lord Daniel Menton of the house of Amigòt had secured the aid of King Marc V of France, on the advice of the foundling-general Guillen daus Sanz. Thus prepared, he and several other noble families declared independence from Geneva on the twenty-first of June, 1499.
+Toð yemoy sell'Ersteigon ag closiscment dy siecr cinqueç. Segr Daniel Menton dy lign Amigòt au y soutien de Marc V de Franç garantið, coll'astuç dy general-orphan Guillen daus Sanz. Cossy preparað, luy e plusour famigl nobr d'autr deposern libertað deur Genef y veint-primer Jugn 1497.
+Things came to a head in the last years of the fifteenth century. Lord Daniel Menton of the house of Amigòt had secured the aid of King Marc V of France, on the advice of the foundling-general Guillen daus Sanz. Thus prepared, he and several other noble families declared independence from Geneva on the twenty-first of June, 1497.
 
 ##
 
@@ -4507,7 +4507,7 @@ sar /saʀ/ [sɐː] net, fishnet, mesh, also in general a network, an interconnec
 
 in particular y sar (epistol), literally “the letter mesh”, referring to the global network of communication devices and other computers, known in English as “the mesh”.
 
-< 12C, from Vask sare “net”, one of the many naval words taken from Vascon fishermen and later from their sea-traders: see hagr “mast” and bakilau “cod”, also from Vask. Extension to general networks first attested 1836; use for the mesh calqued from French mail épistre, itself a reference to 1968 parachthon tale Starsail, published in Rone by Ashford Pasquier.
+< 12C, from Vask sare “net”, one of the many naval words taken from Vascon fishermen and later from their sea-traders: see hagr “mast” and bakilau “cod”, also from Vask. Extension to general networks first attested 1836; use for the mesh calqued from French mail épistre, itself a reference to 1968 parachthon tale Starsail, published in Roun by Ashford Pasquier.
 
     Posc pieç minut er y sar remorcað des y mar torvant.
 
@@ -6147,7 +6147,7 @@ PART B: The Bróderrat Wayports in Cappatia
 
 1. Read the following excerpt from Haddani's notoriously-innaccurate Empire of the Sun and answer the subsequent questions.
 
-“It was the pride of Emperor Matthias II that brought the Germans across the Atlantic in search of new lands and peoples in the mid-sixteenth century. News of the joint Morrack and British voyages had inflamed all Europe with an irrepressible wanderlust, and while the Kazmid and Vascon enterprises had firmly established themselves as sole merchants in eastern Mendeva and Horizic Cappatia, few had yet mapped the Atlantic coastline of Cappatia. Thus there was an attainable goal for the Emperor to assign to the great fleet at his disposal: discover all that these lands had to offer, from Berpittang wood to crimson Mackow feathers.”
+“It was the pride of Emperor Matthias II that brought the Germans across the Atlantic in search of new lands and peoples in the mid-sixteenth century. News of the joint Morrack and British voyages had inflamed all Europe with an irrepressible wanderlust, and while the Kazmid and Vascon enterprises had firmly established themselves as sole merchants in eastern Mendeva and Lovac Cappatia, few had yet mapped the Atlantic coastline of Cappatia. Thus there was an attainable goal for the Emperor to assign to the great fleet at his disposal: discover all that these lands had to offer, from Berpittang wood to crimson Mackow feathers.”
 
 a) With reference to the Neuwillem Bróderratcronike (1561-97), evaluate Haddani's framing of the factors that led to the German exploration of Atlantic Cappatia in the latter half of the sixteenth century.
 
@@ -6611,7 +6611,7 @@ scavour /xaˈvur/ [çɐˈvʊː] writer; (a single) journalist, (all of) the pres
 18m Decembr
 
 in translation from the 1981 scitation paper for the Dijon New School's Domain History [1] course L'Art Militaire ès Guerres Romantiques (Strategy in the Romantic Wars). The course covers the 1640s to ‘60s, the most active portion of the various conflicts all grouped together under the label “Romantic Wars”.
-Part II: Near Asia and the Novamund [The New World]
+Part II: Near Asia and the Novomund [The New World]
 
 Question 13 (40 minutes)
 Answer any two of the following three questions.
@@ -9846,7 +9846,7 @@ Why do you hang out with this libertine crowd?
 
 collected notes on the polity of Kent.
 
-Kent (formally the Bond of Kent and Normandy; in Rone French The Bond de Caint od Normandy) was a state in southern Albion and northern Gaul.
+Kent (formally the Bond of Kent and Normandy; in Roun French The Bond de Caint od Normandy) was a state in southern Albion and northern Gaul.
 
 Pre-Conjuring Kent
 In the first millennium, Kent was first an independent English kingdom and then a vassal of Wessex through its ascension and decline, gaining power and some autonomy as Wessern might diminished. Similarly-positioned Essex had a long enmity with Kent, with King Athelwolf of Essex mounting the most successful attempted conquest in the tenth century.
@@ -9863,7 +9863,7 @@ The political union of English Kent with Normandy began in 1029 N with the Norma
 
 During the Wars of Fealty in the late fifteenth century, Kent was ruled by the Two Henries, the twin first-born sons of Vincent II. Kent came to a rapprochement with France to its south in the 1590s, just as the wars were becoming increasingly tangled and expensive.
 
-Alongside the cities of London and Paris, Kent was the political centre of the Drengot Collusion of the late nineteenth and twentieth centuries, with many governmental buildings located in Rone. Among these was the Red House, the popular name for the Kentish Ministry for Information. The activities of the Red House precipitated the Furore of 1961, which in turn led to the collapse of leader Darchild's tinplate administration (via the Darchild memorandum) and with it the entire Drengot Collusion. The dissolution of the Collusion inspired the Kentish ostracon reforms, which were subsequently used as a model in several polities around the globe.
+Alongside the cities of London and Paris, Kent was the political centre of the Drengot Collusion of the late nineteenth and twentieth centuries, with many governmental buildings located in Roun. Among these was the Red House, the popular name for the Kentish Ministry for Information. The activities of the Red House precipitated the Furore of 1961, which in turn led to the collapse of leader Darchild's tinplate administration (via the Darchild memorandum) and with it the entire Drengot Collusion. The dissolution of the Collusion inspired the Kentish ostracon reforms, which were subsequently used as a model in several polities around the globe.
 
 The state's professional lineball team won the global tournament only once, in 1965.
 
@@ -10396,7 +10396,7 @@ The succession crisis prompted by their deaths in 1411 and 1416 spelt the end of
 
 Borland was not directly involved in the Albion-wide Wars of Fealty, but it received an influx of immigration from the polities involved, as people were displaced in the many border conflicts and attempted conquests. In particular, this period saw substantial Welsh, Devoner and Kernish immigration to the cities of southern Borland.
 
-Borland after the Novamundine Landfall
+Borland after the Novomundane Landfall
 
 With the dawn of the sixteenth century and the waning power of Vascony, the dominance of Borlish cities over regional trade reached its peak. Damvath was said to be the most-trafficked port in Europe outside the Middlesea at this time.
 
@@ -10982,7 +10982,7 @@ A Question of Identity (Identað Partenent), 1981 tale by Borlish author Carl Ha
 Apollo on Holiday (Apollon Cogmaðer), 2009 story written by Endric Kirennaga
 In Either a Mask or a Suit (Tejan de Masquira ou Jalico), 1860 trevold by Ezio Carvallo which named and pioneered the genre
 Men of Jet and Diamond (Dynnon o Vuhuð a Diamont), 1890 tale by Cadwgan Torriwr of Hasiny later adapted into a wildly-successful film in New Provence
-One Evening Will Have to Be Enough (Un Seir Deura Soffire), 1913 trevold by Rone author Josephène Foilliers notable for being the first book on record to sell more than a million copies in its first year
+One Evening Will Have to Be Enough (Un Seir Deura Soffire), 1913 trevold by Roun author Josephène Foilliers notable for being the first book on record to sell more than a million copies in its first year
 Outrun the Dawn (Die Demrung Üverholn), 1946 work written by Bronswick native Elke Hannawald remembered for subverting the trope of the masked hero by revealing the protagonist's identity in the book's second chapter
 Waging World Peace (Paç Mondial Accommettent), 1968 giftale written by Neuvort author Dion Becolla
 We Will Burn Together, written by Takach Domoko and notable for its openly tovarick characters
@@ -11345,7 +11345,7 @@ The Drengot Collusion arose among the French polities of the Global Workshop per
 
 The entirety of Borland entered the Collusion in 1894 as part of a series of events there that also led to the abdication of the Queen Natalia II and the concomitant dissolution of the Borlish monarchy.
 
-Alongside the cities of London and Paris, Kent was the political centre of the Drengot Collusion, with many governmental buildings located in Rone.
+Alongside the cities of London and Paris, Kent was the political centre of the Drengot Collusion, with many governmental buildings located in Roun.
 
 Tensions between the Collusion and their southern neighbours (to wit, Vascony and Provence) grew particularly tense in the two decades following the Millstone War. For this reason it is notable that the Fiellas Dimenja newspaper (headquartered in Marsella) enjoyed considerable readership across the Collusion even in the 1930s.
 
@@ -11354,7 +11354,7 @@ Although Portingale was never part of the Collusion, it occupied a peripheral po
 The Furore of 1961
 At the time of the Furore, the Collusion was being administered by a tinplate government under Romney Darchild.
 
-One of the scandals of the Furore was the revelation of the clandestine activities undertaken by the Red House (the popular name of the Collusion's Ministry for Information) in Rone. These activities, enumerated in the Darchild memorandum, acted as a powderkeg, first bringing down the current administration and shortly thereafter the entire Collusion.
+One of the scandals of the Furore was the revelation of the clandestine activities undertaken by the Red House (the popular name of the Collusion's Ministry for Information) in Roun. These activities, enumerated in the Darchild memorandum, acted as a powderkeg, first bringing down the current administration and shortly thereafter the entire Collusion.
 
 Aftermath
 One effect of the collapse of the Drengot Collusion was the implementation of the Kentish ostracon reforms, which would go on to be used as a model in several polities across the globe.
@@ -13255,7 +13255,7 @@ excerpt from the introduction of Modern Developments in Benjamine Detaxion [Arom
 
 The first major section of this work will cover those hebetant substances [painkillers] which have come out of workshops globally over the last two decades. The sterling example is undoubtedly cozebdo-diamaschal benjamine (CD) [1], sold under various names and perhaps most familiar to Markland as the coveted 'Tommy pills', is a product of collaboration between the Branwen Sanatory in New Leudong and the University of Rimack in Tavancy [2] to find hebetants with faster action and fewer adversions.
 
-Comprising (as the longform name implies) branches of cozebdone oil and maschal [3] in opposed position, the substance was first synthesised in 1932 and has already surpassed salix-derivative pills [4] in annual sales everywhere from Sangathy to Adighe [5]. This is due to the former's greater efficacy in relieving pain, which finds it more widely used than the previous bevy of remedies which may merely help to reduce symptoms of fever.
+Comprising (as the longform name implies) branches of cozebdone oil and maschal [3] in opposed position, the substance was first synthesised in 1932 and has already surpassed salix-derivative pills [4] in annual sales everywhere from Zangathy to Adighe [5]. This is due to the former's greater efficacy in relieving pain, which finds it more widely used than the previous bevy of remedies which may merely help to reduce symptoms of fever.
 
 In sufficiently high concentrations CD has also been demonstrated to function in unguento, although the inefficiency and commodity of this…
 
@@ -21921,12 +21921,12 @@ Mendeva [North America]
 
 The name Mendeva was formed backwards from Latin Mendevalēnsis "from Mendeva", attested already on the maps made during the 1471 Landfall (the demonym was later rederived as Mendevānus "Mendevan" from the placename). This comes from Vask [Basque] mendeval "west", itself likely a borrowing from Vascon vent de val "valley wind".
 
-    Ambrosia [~Quebec, the Maritimes, New England] is a Vascony-settled polity named for King Ambrose III of Vascony (r. 1456–1518).
+    Ambrosia [~Quebec, the Maritimes, N New England] is a Vascony-settled polity named for King Ambrose III of Vascony (r. 1456–1518).
     Zangathy [~the Dakotas, Minnesota, Iowa, Wisconsin, Winnipeg, Ontario] is a landlocked polity occupying the upriver Bahassassin [Mississippi] directly west of the Five Seas [Great Lakes]. Its name reflects Daccotan [Dakota] zaŋathi "flint region".
-    New Provence [~New England, New York, and south as far as South Carolina] is a coastal polity extending westward to the Sturgovan Mountains [Appalachians] which grew from a series of trading post established by Provence merchants.
+    New Provence [~S New England, New York, and south as far as South Carolina] is a coastal polity extending westward to the Sturgovan Mountains [Appalachians] which grew from a series of trading post established by Provence merchants.
     Hasiny [~Louisiana, Texas, Mississippi, Arkansas, Oklahoma] is the largest polity in so-called British Mendeva, a few states along the Gulf settled by the Kingdom of Britain [~Wales, etc]. It takes its name from the Carovacian [Caddo] name Hasíne "our people" for one of the previous nations the modern polity is descended from.
     Taisha [~Texas, Coahuila] is a minor polity of Gulf Mendeva at the crossroads of British and Morrack [Moroccan] influences. Its name comes via Arabic Tayisha' from Carovacian [Caddo] taísha' "welcome".
-    Mivock [~northern California] is a minor coastal polity on the Lovaqua [Pacific] known for its congenial climate. Of exceedingly sundry influence, its name reflects the name miwoc of the local Mendeva peoples and languages.
+    Mivock [~northern California] is a minor coastal polity on the Lovac Ocean [Pacific] known for its congenial climate. Of exceedingly sundry influence, its name reflects the name miwoc of the local Mendeva peoples and languages.
     Mashick [~Mexico, southern California, New Mexico, Arizona] is the largest polity in Lower Mendeva, the descendant of the Mashick [Aztec] Empire with heavy Morrack influence. Its name derives via Arabic from the Nawat [Nahuatl] meshi'ca' "Mashick people".
 
 The Arcabil [~the Caribbean] are a collection of islands in the Atlantic, east of Mashick. They have a complicated history of influences from various Vetomundane powers. The name probably comes via the Arabic cognate of "archipelago".
@@ -25793,7 +25793,7 @@ What emerged was an overlong, farcical tale.
 
     excerpts from the Veriloquace Glossary o'Mendevan Placenames, a reference quire in the Merch language compiled by Rotcham [Rochdale] University Primers.
 
-Ax /aks/ [~SW Alaska] a peninsular polity in northwestern Mendeva [North America], along with the surrounding mainland region and an extended chain of islands leading west into the northern Lovaqua [Pacific]. 1780 < French l'Axe < poss. Vascon or Portingale l'Axa, a Axa < early 18C Arabic الأَقْصَى • al-Aqśá "the Furthest" < folk etymology from Oranger [Aleut] alaxsxaq "mainland", influenced by its northerly location and sheer distance from Mashick [Mexico]. Originally referring specifically to the peninsula, the term was extended to the island chain itself by the Morrack [Moroccan] surveyors who first recorded the term in a Vetmundine [Afroeurasian] language.
+Ax /aks/ [~SW Alaska] a peninsular polity in northwestern Mendeva [North America], along with the surrounding mainland region and an extended chain of islands leading west into the northern Lovac Ocean [Pacific]. 1780 < French l'Axe < poss. Vascon or Portingale l'Axa, a Axa < early 18C Arabic الأَقْصَى • al-Aqśá "the Furthest" < folk etymology from Oranger [Aleut] alaxsxaq "mainland", influenced by its northerly location and sheer distance from Mashick [Mexico]. Originally referring specifically to the peninsula, the term was extended to the island chain itself by the Morrack [Moroccan] surveyors who first recorded the term in a Vetomundane [Afroeurasian] language.
 
 Bahassassin /ˌba.hɐˈsa.sɪn/ [Mississippi River] the longest and most voluminous river in Mendeva at over twenty hundred leagues, flowing south into the Gulf of the Arcabil [Gulf of Mexico] through Hasiny. 1704 < Mid 17C Welsh Bahassassin < Carovacian [Caddo] báhassássin "mother of rivers".
 
@@ -32095,3 +32095,4 @@ Trewen (recalled): claims she has not heard this rule, but will not swear that i
 
 ##
 
+236.1:

@@ -16,5 +16,5 @@ The [[Armourcloth|armourcloth]] fashion (of women's evening dress decorated in t
 
 ## Contemporaneous periods
 - the [[Decadence of Belgrade]], denoting the waning power of the [[Kingdom of Danaw]];
-- the [[Mendevan Unmooring]], which refers to the greater political and economic independence enjoyed by the Vetomundine settlements in [[Mendeva]] at this time;
+- the [[Mendevan Unmooring]], which refers to the greater political and economic independence enjoyed by the Vetomundane settlements in [[Mendeva]] at this time;
 - the [[Romantic Revival]], an artistic and political movement characterised by optimism and heroism, especially with its focus on recapturing the 'brighter past' of the seventeenth century.

@@ -4,7 +4,7 @@ At the start of Ambrose III's reign, the country was at its territorial maximum,
 
 Ambrose III is most remembered for ruling through the European discovery of the [[Novomund]] in 1471 by ships of the [[New Navarre Enterprise]], a guild established by royal decree in 1458 which aimed primarliy to solidify Vascon supremacy in the trade of North Atlantic fish through the [[Middlesea]]. British dominion over the Atlantic had long frustrated Vask fishing families, members of which still predominated in the aristocracy and held significant political power in Ambrose's court.
 
-The decades following the [[Novomundine Landfall]] led to new prosperity to Vascony, and in particular to Portingale, bringing the [[Vascon Ascendancy]] (which most historians mark as beginning near the turn of the fifteenth century) to its height.
+The decades following the [[Novomundane Landfall]] led to new prosperity to Vascony, and in particular to Portingale, bringing the [[Vascon Ascendancy]] (which most historians mark as beginning near the turn of the fifteenth century) to its height.
 
 The king's decades-long acrimonious relationship with King [[Munir al-Hamdawi of Morrack]] (born in 1429 and reigning for a comparable length of time) grew from a childhood enmity to a bitter naval and martial feud, especially after the rest of Portingale fell to [[Morrack]] in 1457 N.
 

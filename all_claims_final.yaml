@@ -2695,9 +2695,9 @@ claims:
 - entry: '14.5'
   title: Ambrose III of Vascony
   category: event
-  claim: The Novomundine Landfall brought new prosperity to Vascony, and in particular to Portingale.
+  claim: The Novomundane Landfall brought new prosperity to Vascony, and in particular to Portingale.
   entities:
-  - name: Novomundine Landfall
+  - name: Novomundane Landfall
     type: event
   - name: Vascony
     type: polity
@@ -2715,11 +2715,11 @@ claims:
 - entry: '14.5'
   title: Ambrose III of Vascony
   category: period
-  claim: The Vascon Ascendancy reached its height following the Novomundine Landfall.
+  claim: The Vascon Ascendancy reached its height following the Novomundane Landfall.
   entities:
   - name: Vascon Ascendancy
     type: period
-  - name: Novomundine Landfall
+  - name: Novomundane Landfall
     type: event
 - entry: '14.5'
   title: Ambrose III of Vascony
@@ -3250,7 +3250,7 @@ claims:
 - entry: '17.5'
   title: Significant Figures
   category: person
-  claim: Princess Alexandra is principally remembered for being the first Vetomundine royal to set foot in the Novomund.
+  claim: Princess Alexandra is principally remembered for being the first Vetomundane royal to set foot in the Novomund.
   entities:
   - name: Princess Alexandra
     type: person
@@ -4528,7 +4528,7 @@ claims:
 - entry: '21.5'
   title: Kent
   category: polity
-  claim: The Rone French name for the Bond of Kent and Normandy is 'The Bond de Caint od Normandy'.
+  claim: The Roun French name for the Bond of Kent and Normandy is 'The Bond de Caint od Normandy'.
   entities:
   - name: Bond of Kent and Normandy
     type: polity
@@ -4837,9 +4837,9 @@ claims:
 - entry: '21.5'
   title: Kent
   category: place
-  claim: Many governmental buildings of the Drengot Collusion were located in Rone.
+  claim: Many governmental buildings of the Drengot Collusion were located in Roun.
   entities:
-  - name: Rone
+  - name: Roun
     type: place
   - name: Drengot Collusion
     type: polity
@@ -5017,7 +5017,7 @@ claims:
 - entry: '22.5'
   title: The Long Peace
   category: period
-  claim: The Mendevan Unmooring refers to the greater political and economic independence enjoyed by the Vetomundine settlements
+  claim: The Mendevan Unmooring refers to the greater political and economic independence enjoyed by the Vetomundane settlements
     in Mendeva at this time.
   entities:
   - name: Mendevan Unmooring
@@ -7084,7 +7084,7 @@ claims:
 - entry: '26.5'
   title: Borland
   category: work
-  claim: '''Rosy Dawn on Glittering Waves'' is a controversial account of the history of seafaring since the Novomundine Landfall.'
+  claim: '''Rosy Dawn on Glittering Waves'' is a controversial account of the history of seafaring since the Novomundane Landfall.'
   entities:
   - name: Rosy Dawn on Glittering Waves
     type: work
@@ -7113,7 +7113,7 @@ claims:
   title: Borland
   category: work
   claim: Hadassa Docquerl's 'An Incomplete Dictionary of the New London' ('Un Onomatoir Partial dy Novel Londr') is the most
-    famous Vetomundine work from the Futurism period.
+    famous Vetomundane work from the Futurism period.
   entities:
   - name: An Incomplete Dictionary of the New London
     type: work
@@ -7892,11 +7892,11 @@ claims:
 - entry: '29.5'
   title: Morrack
   category: event
-  claim: Ships of the New World Company were sent westward shortly after news of the Novomundine Landfall reached court.
+  claim: Ships of the New World Company were sent westward shortly after news of the Novomundane Landfall reached court.
   entities:
   - name: New World Company
     type: organisation
-  - name: Novomundine Landfall
+  - name: Novomundane Landfall
     type: event
 - entry: '29.5'
   title: Morrack
@@ -7915,7 +7915,7 @@ claims:
 - entry: '29.5'
   title: Morrack
   category: event
-  claim: Morracan ships were the first to circumnavigate the world, having reached the Great Borunesk Meeting of 1519 via
+  claim: Morracan ships were the first to circumnavigate the world, having reached the Great Borunesk Meeting of 1517 via
     Cappatia.
   entities:
   - name: Morrack
@@ -8192,13 +8192,13 @@ claims:
 - entry: '30.5'
   title: Masquira Romance
   category: work
-  claim: '''One Evening Will Have to Be Enough'' (''Un Seir Deura Soffire'') is a 1913 trevold by Rone author Josephène Foilliers.'
+  claim: '''One Evening Will Have to Be Enough'' (''Un Seir Deura Soffire'') is a 1913 trevold by Roun author Josephène Foilliers.'
   entities:
   - name: One Evening Will Have to Be Enough
     type: work
   - name: Josephène Foilliers
     type: person
-  - name: Rone
+  - name: Roun
     type: place
   dates:
   - 1913 N
@@ -8848,11 +8848,11 @@ claims:
 - entry: '34.5'
   title: The Drengot Collusion
   category: organisation
-  claim: The Red House was the popular name for the Drengot Collusion's Ministry for Information, located in Rone.
+  claim: The Red House was the popular name for the Drengot Collusion's Ministry for Information, located in Roun.
   entities:
   - name: Red House
     type: organisation
-  - name: Rone
+  - name: Roun
     type: place
   - name: Drengot Collusion
     type: polity
@@ -9709,7 +9709,7 @@ claims:
   title: Gurjat
   category: event
   claim: The Phœbos spent several months at port in Gurjat in 1512, having circumnavigated Africa and before continuing to
-    Madray and thence to the Great Borunesk Meeting of 1516.
+    Madray and thence to the Great Borunesk Meeting of 1517.
   entities:
   - name: Phœbos
     type: technology
@@ -11421,11 +11421,11 @@ claims:
 - entry: 51.5
   title: 23rd Lexember
   category: technology
-  claim: CD surpassed salix-derivative pills in annual sales everywhere from Sangathy to Adighe.
+  claim: CD surpassed salix-derivative pills in annual sales everywhere from Zangathy to Adighe.
   entities:
   - name: cozebdo-diamaschal benjamine
     type: technology
-  - name: Sangathy
+  - name: Zangathy
     type: polity
   - name: Adighe
     type: polity
@@ -11440,9 +11440,9 @@ claims:
 - entry: 51.5
   title: 23rd Lexember
   category: place
-  claim: Sangathy is a polity in far-inland Mendeva.
+  claim: Zangathy is a polity in far-inland Mendeva.
   entities:
-  - name: Sangathy
+  - name: Zangathy
     type: polity
   - name: Mendeva
     type: place
@@ -11620,7 +11620,7 @@ claims:
 - entry: 53.5
   title: Brasil
   category: event
-  claim: Sustained Vetomundine contact with the Novomund began with the Landfall of 1471 N.
+  claim: Sustained Vetomundane contact with the Novomund began with the Landfall of 1471 N.
   entities:
   - name: Brasil
     type: place
@@ -11644,7 +11644,7 @@ claims:
 - entry: 53.5
   title: Brasil
   category: person
-  claim: Princess Alexandra of Vascony (sister of Ambrose the Ascendant) was the first Vetomundine royal to set foot in the
+  claim: Princess Alexandra of Vascony (sister of Ambrose the Ascendant) was the first Vetomundane royal to set foot in the
     Novomund, landing in Brasil in 1477 N.
   entities:
   - name: Alexandra of Vascony
@@ -11911,7 +11911,7 @@ claims:
 - entry: 55.5
   title: Portingale
   category: economics
-  claim: The wealth that came to Vascony from the Novomundine Landfall of 1471 N accrued in particular to the coastal towns
+  claim: The wealth that came to Vascony from the Novomundane Landfall of 1471 N accrued in particular to the coastal towns
     of conquered Portingale and to Leon.
   entities:
   - name: Portingale
@@ -12154,7 +12154,7 @@ claims:
   title: Vascony
   category: economics
   claim: Despite plague losses, Vascony saw a population increase from 1500 to 1550 N (excluding Portingale) due to immigration
-    driven by Novomundine profits in furs and other goods.
+    driven by Novomundane profits in furs and other goods.
   entities:
   - name: Vascony
     type: polity
@@ -14306,7 +14306,7 @@ claims:
 - entry: 73.5
   title: Ambrosia
   category: event
-  claim: The story of Ambrosia begins with the Novomundine Landfall of 1471 N, when a Vask fishing expedition (part of the
+  claim: The story of Ambrosia begins with the Novomundane Landfall of 1471 N, when a Vask fishing expedition (part of the
     New Navarre Enterprise) landed on the island of Brasil.
   entities:
   - name: Ambrosia
@@ -15009,7 +15009,7 @@ claims:
 - entry: 80.5
   title: Tavancy
   category: event
-  claim: The first Vetomundine people to document the Tavancine Empire were Morrack traders with the New World Company.
+  claim: The first Vetomundane people to document the Tavancine Empire were Morrack traders with the New World Company.
   entities:
   - name: Tavancy
     type: polity
@@ -19291,7 +19291,7 @@ claims:
 - entry: 122.5
   title: Vascon Ascendancy
   category: event
-  claim: Vask ships travelling north past Valland encountered Brasil in the 1471 Novomundine Landfall.
+  claim: Vask ships travelling north past Valland encountered Brasil in the 1471 Novomundane Landfall.
   entities:
   - name: Brasil
     type: place
@@ -19357,7 +19357,7 @@ claims:
   title: Vascon Ascendancy
   category: work
   claim: '''The Ascendant'' (Welsh: ''Hwn a Guodoð'', 1934) is a film by director Dormaget chronicling the years immediately
-    after the 1471 Novomundine Landfall.'
+    after the 1471 Novomundane Landfall.'
   entities:
   - name: The Ascendant
     type: work
@@ -20038,7 +20038,7 @@ claims:
 - entry: 129.5
   title: Arcabil
   category: event
-  claim: The Arcabil were first encountered by Vetomundine powers in the late fifteenth century, during the New World Company's
+  claim: The Arcabil were first encountered by Vetomundane powers in the late fifteenth century, during the New World Company's
     voyages west under Malik Munir al-Hamdawi.
   entities:
   - name: Arcabil
@@ -20473,12 +20473,12 @@ claims:
 - entry: 134.5
   title: A Motley Miscellany
   category: place
-  claim: The Bahassassin River passes through multiple polities including Sangathy and Hasiny, with its eastern tributaries
+  claim: The Bahassassin River passes through multiple polities including Zangathy and Hasiny, with its eastern tributaries
     descending from the Sturgovan Mountains.
   entities:
   - name: Bahassassin River
     type: place
-  - name: Sangathy
+  - name: Zangathy
     type: polity
   - name: Hasiny
     type: polity
@@ -20732,9 +20732,9 @@ claims:
 - entry: 136.5
   title: The Novomund (briefly)
   category: glossary
-  claim: Lovaqua is the Boralverse name for the Pacific Ocean.
+  claim: Lovac Ocean is the Boralverse name for the Pacific Ocean.
   entities:
-  - name: Lovaqua
+  - name: Lovac Ocean
     irl: Pacific Ocean
     type: place
 - entry: 136.5
@@ -20782,10 +20782,10 @@ claims:
 - entry: 136.5
   title: The Novomund (briefly)
   category: glossary
-  claim: New Provence is approximately the Boralverse name for New England, New York, and south as far as South Carolina.
+  claim: New Provence is approximately the Boralverse name for S New England, New York, and south as far as South Carolina.
   entities:
   - name: New Provence
-    irl: New England, New York, and south to South Carolina
+    irl: S New England, New York, and south to South Carolina
     type: polity
 - entry: 136.5
   title: The Novomund (briefly)
@@ -20831,7 +20831,7 @@ claims:
 - entry: 136.5
   title: The Novomund (briefly)
   category: place
-  claim: Mivock is a minor coastal polity on the Lovaqua known for its congenial climate; its name reflects the name miwoc
+  claim: Mivock is a minor coastal polity on the Lovac Ocean known for its congenial climate; its name reflects the name miwoc
     of local Mendevan peoples.
   entities:
   - name: Mivock
@@ -22139,7 +22139,7 @@ claims:
   title: War and Peace
   category: person
   claim: Pether Hetsong was born in New Leudong and penned the semi-autobiographical 'The Land of Golden Lies and Sugared
-    Fire' in 1864, often considered the first Angelican work of literature to enjoy Vetomundine success.
+    Fire' in 1864, often considered the first Angelican work of literature to enjoy Vetomundane success.
   entities:
   - name: Pether Hetsong
     type: person
@@ -23741,19 +23741,19 @@ claims:
   - name: decimation
     type: concept
 - entry: 171.5
-  title: Novomundine Landfall
+  title: Novomundane Landfall
   category: event
-  claim: 'The Novomundine Landfall (Borlish: Abanc Novomondin) occurred in 1471 N when a ship on a New Navarre Enterprise
+  claim: 'The Novomundane Landfall (Borlish: Abanc Novomondin) occurred in 1471 N when a ship on a New Navarre Enterprise
     fishing expedition sighted and made landfall on the island of Brasil, marking the start of prolonged contact between the
     Vetomund and the Novomund.'
   entities:
-  - name: Novomundine Landfall
+  - name: Novomundane Landfall
     type: event
   - name: New Navarre Enterprise
     type: organisation
   dates: 1471 N
 - entry: 171.5
-  title: Novomundine Landfall
+  title: Novomundane Landfall
   category: glossary
   claim: Novomund is the Boralverse term for the Americas.
   entities:
@@ -23761,14 +23761,14 @@ claims:
     irl: Americas
     type: place
 - entry: 171.5
-  title: Novomundine Landfall
+  title: Novomundane Landfall
   category: period
-  claim: The first century following the Novomundine Landfall is known to historians as the Intertwining Century.
+  claim: The first century following the Novomundane Landfall is known to historians as the Intertwining Century.
   entities:
   - name: Intertwining Century
     type: period
 - entry: 171.5
-  title: Novomundine Landfall
+  title: Novomundane Landfall
   category: language
   claim: The terms Novomund and Mendeva date to the Landfall voyage of 1471; a surviving map from the voyage is marked terrae
     mendevalensis after the Vask word mendeval meaning 'west'.
@@ -23779,7 +23779,7 @@ claims:
     type: place
   dates: 1471 N
 - entry: 171.5
-  title: Novomundine Landfall
+  title: Novomundane Landfall
   category: event
   claim: Following the Landfall, Munir al-Hamdawi of Morrack redirected his New World Company westward, leading to the discovery
     of the faster southern route to the Novomund and the islands of the Arcabil.
@@ -23789,9 +23789,9 @@ claims:
   - name: Morrack New World Company
     type: organisation
 - entry: 171.5
-  title: Novomundine Landfall
+  title: Novomundane Landfall
   category: person
-  claim: Princess Alexandra of Vascony, elder sister of King Ambrose III, was the first Vetomundine royal to set foot in the
+  claim: Princess Alexandra of Vascony, elder sister of King Ambrose III, was the first Vetomundane royal to set foot in the
     Novomund; she visited the settlement of Paratzon in the 1490s.
   entities:
   - name: Alexandra
@@ -23806,7 +23806,7 @@ claims:
     to: Ambrose III
   dates: 1490s N
 - entry: 171.5
-  title: Novomundine Landfall
+  title: Novomundane Landfall
   category: glossary
   claim: Guy-coney is the Boralverse term for guinea pig.
   entities:
@@ -23814,7 +23814,7 @@ claims:
     irl: guinea pig
     type: concept
 - entry: 171.5
-  title: Novomundine Landfall
+  title: Novomundane Landfall
   category: event
   claim: Princess Alexandra's visit to Paratzon advanced understanding of scurvy; the chemical sandrine is named in her honour.
   entities:
@@ -23881,7 +23881,7 @@ claims:
   source_work: Veriloquace Glossary o'Mendevan Placenames (Rotcham University Primers)
   category: place
   claim: Ax is a peninsular polity in northwestern Mendeva along with the surrounding mainland and an extended chain of islands
-    leading west into the northern Lovaqua.
+    leading west into the northern Lovac Ocean.
   entities:
   - name: Ax
     type: polity

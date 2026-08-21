@@ -9,7 +9,7 @@ By 1820 [[Ambrosia]] had unveiled its [[Steeplepost Tapestry]] in Aiga d'Angoixa
 
 The very first cross-sea steeplepost lines were established around the same time, with air-steeples in the [[Rustigh Strait]] connecting [[Borland]] to Willemy during the 1830s. This link would last only until 1854, however, when it was replaced with a barrick line.
 
-The middle of the nineteenth century saw the flag-lamp system gradually superseded by barrick lines generally. Uptake was uneven owing to the twin constraints of geography and vested interests; for example, Mendevan powers tended to embrace the new technology more enthusiastically than their similarly-situated Vetomundine counterparts.
+The middle of the nineteenth century saw the flag-lamp system gradually superseded by barrick lines generally. Uptake was uneven owing to the twin constraints of geography and vested interests; for example, Mendevan powers tended to embrace the new technology more enthusiastically than their similarly-situated Vetomundane counterparts.
 
 The new lines made partially-automated transmission much easier to develop. A prototype wired [[Tachygraph|tachygraph]], the Vilmanas Teleclavia, first successfully sent a message via the steeplemesh in 1859.
 

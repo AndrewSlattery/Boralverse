@@ -1,6 +1,6 @@
 **Mashick** (Borlish **Mascic** /maˈxɪk/, Nawat **Maishī'co** /maiˈʃiːʔ.ko/, Mashick Arabic المشيق · **al-Mashīq**) is a polity in [[Lower Mendeva]] and in fact by land area the largest polity in all of [[Mendeva]]. At its greatest extent the then-Empire stretched as far northwest as [[Mivock]].
 
-[[Morrack]] vessels of the New World Company established trading relations in the late fifteenth century with the relatively-new Mashick Empire, which at that time was much more geographically restricted. The next decades saw many Novomundine crops make their way across the [[Atlantic]] from Mashick, including tashban and shockle.
+[[Morrack]] vessels of the New World Company established trading relations in the late fifteenth century with the relatively-new Mashick Empire, which at that time was much more geographically restricted. The next decades saw many Novomundane crops make their way across the [[Atlantic]] from Mashick, including tashban and shockle.
 
 Mashick (and, to the south, [[Tavancy]]) served as bases for exploration of Mendevan lands. Fleets charted as far afield as the [[Ax]], and Mashick was used to exercise control over parts of the [[Arcabil]] and their growing riches.
 

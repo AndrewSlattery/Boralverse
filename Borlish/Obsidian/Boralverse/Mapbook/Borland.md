@@ -80,7 +80,7 @@ In the first decade of the fifteenth century, Queen [[Natalia I of Borland|Natal
 The succession crisis prompted by their deaths in 1411 and 1416 spelt the end of their dynasty. From the ashes rose the [[Saulestran dynasty|Saulestran]] lineage of kings, whose banner comprised a white bar cutting a twilight-blue field.
 
 Borland was not directly involved in the Albion-wide [[Wars of Fealty]], but it received an influx of immigration from the polities involved, as people were displaced in the many border conflicts and attempted conquests. In particular, this period saw substantial Welsh, Devoner and Kernish immigration to the cities of southern Borland.
-### Borland after the Novamundine Landfall
+### Borland after the Novomundane Landfall
 With the dawn of the sixteenth century and the waning power of Vascony, the dominance of Borlish cities over regional trade reached its peak. Damvath was said to be the most-trafficked port in [[Europe]] outside the Middlesea at this time.
 
 The [[Second Great Dying]] reached Borland in March of 1519; likely due to the volume of trade there, the island's first recorded death attributable to the plague was in Damvath during the year's green snowfall. Borland lost over four hundred thousand people—one-seventh of its population—to the plague.
@@ -204,11 +204,11 @@ By far the most commonly-spoken language in Borland is the [[Borlish language]],
 - Ivocq Messegn (fl. 1687), composer known for his opera 'Mountains Yet to Climb' (**Montagn Ja Inscas**)
 
 ### Authors
-- Descard Ausogn, (fl. 1929), amateur historian remembered for his 'Rosy Dawn on Glittering Waves', a controversial account of the history of seafaring since the [[Novomundine Landfall|Landfall]]
+- Descard Ausogn, (fl. 1929), amateur historian remembered for his 'Rosy Dawn on Glittering Waves', a controversial account of the history of seafaring since the [[Novomundane Landfall|Landfall]]
 - Dion Becolla (fl. 1968), writer of giftales and historical fiction, known for 'Waging World Peace' (**Paç Mondial Accommettent**)
 - Loðaç Berxon (fl. 1910), author of [[Parachthon romance|parachthon]] works including 'The Firekeeper's Stronghold' (**L'Askouð Pyrrhaz**), and member of the [[Outland Arcabil Association]]
 - Mance Laurent Boneðic (fl. 1898), one-time monk who authored 'Sunrise in Exile: the Iconomachy in the Northern Dioceses'
-- Hadassa Docquerl (fl. 1872), heiress to the barony of Livaucr whose work 'An Incomplete Dictionary of the New London' (**Un Onomatoir Partial dy Novel Londr**) is likely the most famous Vetomundine work from the Futurism period
+- Hadassa Docquerl (fl. 1872), heiress to the barony of Livaucr whose work 'An Incomplete Dictionary of the New London' (**Un Onomatoir Partial dy Novel Londr**) is likely the most famous Vetomundane work from the Futurism period
 - Heudar Fiðaut (fl. c14), courtier of the royal family and author of 'Twenty-Four Laments' (**Catreðejnt Laȝrem**)
 - Carl Havatr (fl. 1981), author of masquira trevold 'A Question of Identity' (**Identað Partenent**)
 - Fuyo Jaðom (fl. 1980), writer of short stories adapted from tales he would tell his young children, including 'Saint Stephen's Snowfall' (**Neyanç a Sagnt Stevan**)
