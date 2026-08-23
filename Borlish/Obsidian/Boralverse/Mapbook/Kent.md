@@ -1,4 +1,4 @@
-Kent (formally the Bond of Kent and [[Normandy]]; in Roun French **The Lien de Caint od Normandy**) is a state in southern [[Albion]] and northern [[Gaul]].
+Kent (formally the Bond of Kent and [[Normandy]]; in Roun French **The Bond de Caint od Normandy**) is a state in southern [[Albion]] and northern [[Gaul]].
 
 ## History
 ### Pre-Conjuring Kent

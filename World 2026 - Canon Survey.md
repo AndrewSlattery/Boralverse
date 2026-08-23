@@ -463,10 +463,10 @@ has been regenerated from `Scaunç.txt`.
 - **`Data/pre-2022 notes.txt`** still carries the retired forms (*Horizic Ocean*, *Horizic Isles*). It is a dated archive snapshot rather than live canon, so it was left as a historical record. Say the word if you would rather it tracked the current spellings.
 - **`Data/output_directory/`** is generated from `Scaunç.txt` by `Data/update_output_directory.py`; it was regenerated rather than hand-edited. Rerun that script after any future `Scaunç.txt` change.
 
-### Still open (not part of this pass)
+### Also resolved
 
-- The Kentish state's formal name reads **"The Lien de Caint od Normandy"** in `Mapbook/Kent.md` but **"The Bond de Caint od Normandy"** in `Scaunç.txt` and the claims database.
-- `Mapbook/Provence.md` opens "It first became independent in 1499" while the body gives the 1497 declaration. Both are defensible — declaration versus recognition — but the opening line reads oddly against the national holiday.
+- The Kentish state's formal name is now **"The Bond de Caint od Normandy"** throughout (`Mapbook/Kent.md` had "Lien").
+- `Mapbook/Provence.md` now opens "It first became independent in **1497**", matching the declaration date and the national holiday. Recognition at Margès stays 1499, so the War of Provincial Independence remains 1497–99.
 
 ---
 

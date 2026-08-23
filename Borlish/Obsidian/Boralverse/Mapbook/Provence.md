@@ -1,4 +1,4 @@
-**Provence** ([[Doccian]] **Proença** /pʀuˈɛ.sɔ/) is a polity in the south of [[Gaul]] on the [[Middlesea]] coast. It first became independent in 1499, and its capital city is [[Marsella]].
+**Provence** ([[Doccian]] **Proença** /pʀuˈɛ.sɔ/) is a polity in the south of [[Gaul]] on the [[Middlesea]] coast. It first became independent in 1497, and its capital city is [[Marsella]].
 ## Toponymy
 The name Provence descends directly from the Latin name *Provincia Romana*, so called as it was the first Roman province to be established on the Gaulish side of the Alps. The name of the polity's predominant language, Doccian, derives from the division of the French languages into the *lengas d'oil* (Northern, including [[Roun]] and [[Paris]] French) and the *lengas d'oc* (Southern, including [[Vascon]] and Doccian) depending on their word for "yes".
 ## History
