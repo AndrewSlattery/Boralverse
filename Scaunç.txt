@@ -4540,8 +4540,8 @@ literally set war loose, release war
 Parcanç es i temerer, y decadenç a trevogt blasmar unic ag morostað n'Europ posc y var.
 It is perhaps foolhardy to attribute the decline of Voidtale trevolds solely to the gloom of post-war Europe.
 
-Nos posseu tan digr, parmig, l'idea de novel œcumen splorar e de novel cultur encontrar n'au plu attragnt ; l'ovartur caddicivenean laiscau pog “tar enigmatic” por descovrir,
-We might say, for example, that the idea of exploring new lands and meeting new civilisations had lost its shine, with the opening of Caddicivene leaving few “mysterious lands” to discover,
+Nos posseu tan digr, parmig, l'idea de novel œcumen splorar e de novel cultur encontrar n'au plu attragnt ; l'ovartur Caddisovan laiscau pog “tar enigmatic” por descovrir,
+We might say, for example, that the idea of exploring new lands and meeting new civilisations had lost its shine, with the opening of Caddisow leaving few “mysterious lands” to discover,
 
 eð y sar campaner defassant parmis a gent ne toð loy de communeyar cos veloç fort may (particuler, apprendr ig politia lontan stan magn ordineressem a sy figuration!)
 and the developing steeple-mesh allowing people everywhere to communicate far more rapidly (in particular, to discover that distant nations were often much less exotic than one imagined!).
@@ -32125,4 +32125,58 @@ VERATRA: You always were a royalist, Aunt.
 
 ##
 
-236.2:
+236.2: cancel "railing"
+
+cancel /kanˈtsɛl/ [kɐnˈtsɛl]
+- railing, banister, balustrade, a barrier of upright bars set along a steep drop or a staircase;
+- lattice, grille, grate, grating, a screen of bars fitted in a window or door;
+- (typography) deletion, redaction, any marking indicating that a string of characters should be ignored;
+- hashtag, hash, pound sign, octothorpe, the symbol #
+
+Etymology: direct descendant via Old Borlish cancel "grid of bars, metal fence" from synonymous cancellī in Latin. This is the diminutive plural of cancer "crab, lattice". The primary sense had shifted to safety railings by the Middle Borlish period; extension to typography arose in the sixteenth century by the practice of hatching out unwanted text.
+
+Veleð y cancel embrostar sou kivougl.
+/veˈlɛθ i kanˈtsɛl ˌɛm.brɔˈstar su kiˈvujl/
+[vɪˈlɛ‿ði kɐnˈtsɛl ˌɛm.bʀʊˈstɐː su kɪˈvwɪl]
+will.sbj-2p df railing adorn-inf under holly
+Please decorate the banister with holly.
+
+##
+
+236.3: laçogl "garish, gaudy"
+
+laçogl /laˈtsɔjl/ [lɐˈtsɔil]
+- eye-catching, striking, arresting, attracting the gaze at once;
+- gaudy, garish, loud, bright to the point of vulgarity;
+- ostentatious, flashy, dressed so as to be noticed;
+- conspicuous, made deliberately to draw attention
+
+Etymology: early modern Borlish, an exocentric compound of laçar "catch" and ogl "eye". The verb laçar was borrowed in the Old Borlish period from Old English læċċan "grab, seize, apprehend", while the noun ogl descends directly from synoymous oculus in Latin. In practice the term usually has derisive connotations of either classlessness or deceit.
+
+Sy curtel sta d'un roug luiç oðig laçogl.
+/si kɪrˈtɛl sta dɪn ruj laits oˈðaj laˈtsɔjl/
+[si kɪːˈtɛl sta dɪn ʀuj laits ʊˈðai lɐˈtsɔil]
+3s.gn robe be.ipf of=indf red bright if.not gaudy
+Her gown was a bright or even garish red.
+
+##
+
+236.4: immoðir "bog down"
+
+immoðir /ˌɪ.moˈðɪr/ [ˌɪ.mʊˈðɪː]
+- wallow, to settle or sink slowly into mud;
+- mire, bog down, to cause to be stuck in mud or soft ground;
+- daub, render, to coat with mud or clay (as of walls);
+- patch up, whitewash, gloss over, to conceal a fault hurriedly from view
+
+Etymology: Middle Borlish, inchoative verbal derivation from moð "mud, muck". This noun, a variant of now-obsolete moðr, was borrowed from a descendant (possibly Frise) of Classical German muthras "excrement, filth, sediment". Metaphorical extension of the building-material sense to hiding (but not correcting) faults is seen from as early as the fifteenth century.
+
+Jo vis y behemoth immoðiscent par un illabond.
+/ʒo vɪz i ˌbe.heˈmɔθ ɪˌmo.ðiˈxɛnt par ɪn ˌɪ.laˈbɔnd/
+[ʝo vɪz i ˌbe.hɪˈmɔθ ɪˌmo.ðɪˈçɛnt pɐː‿ʀɪn ˌɪ.lɐˈbɔnd]
+1s see.pst df hippo mire-p.prs by indf telescope
+I saw the wallowing hippo through the spyglass.
+
+##
+
+236.5:

@@ -9,7 +9,7 @@ donation /donaˈtsjɔn/  [ˌdonɐˈtsjɔn] donation, gift
 
 < borrowed ca. 1250 from Latin dōnātiō, dōnātiōnem “an act of giving, of presenting”, from dōnō “I give”.
 
-Il se ponen a plaç meg ny rout, graðleur e donaçon rovant.
+Ðe se ponen a plaç meg ny rout, graðleur e donaçon rovant.
 They were standing in the street asking for money and volunteers.
 /ˌɪl se pɔnˈdɛn a ˌplats ˈmi ni ˈʀut | gʀaðˈlawʀ e ˌdonaˈtsɔn ʀoˈvant/
 [ɪw sɪ pʊnˈdɛn ɐ plas ˈmiː nɪ ˈʀʊt | gʀɐðˈlaw‿ʀɪ ˌdonɐˈtsɔŋ ʀʊˈvant]
@@ -22,7 +22,7 @@ porçon /poʀˈtsɔn/ [pʊːˈtsɔn] portion, share, allotment
 
 < Old Boral porton, porcon “part, share” < Latin portiō, portiōnem “share, portion”.
 
-porçonnar /ˌpoʀtsoˈnaʀ/ [ˌpɔːtsʊˈnɑː] to share, to allocate, to hand out
+porçonnar /ˌpoʀtsoˈnaʀ/ [ˌpɔːtsʊˈnɐː] to share, to allocate, to hand out
 
 Verb derivation from porçon, ca. 1400. Displaced former partir in this sense.
 
@@ -100,7 +100,7 @@ surmettr /sɪʀˈmɛtʀ̩/ [sɪːˈmɛtɐ] to allow, to permit; to condone, to e
 Y concegl surmettraun jamay ty messarf periglous d'œculux bressem.
 The committee will never condone your dangerous misuse of ionising radiation.
 /i kɔnˈtsil sɪʀmɛˈtʀon ʒaˈme ti meˈsaʀf peʀajˈluz dekiˈlɪks ˈbʀɛsɛm/
-[i kʊnˈtsiju sɪːmɪˈtʀon ʒɐˈme ti mɪˈsɑːf peʀɐjˈlʊz dekɪˈlɪks ˈbʀɛsɛm]
+[i kʊnˈtsiju sɪːmɪˈtʀon ʒɐˈme ti mɪˈsɐːf peʀɐjˈlʊz dekɪˈlɪks ˈbʀɛsɛm]
 
 ##
 
@@ -113,17 +113,17 @@ lon cost /lɔn ˈkɔst/ [lʊŋˈkɔst] free (of charge), freely given
 Vail un bon trenc, lour dar un jorn cogmað lon cost.
 It would be nice to give them a day off for free.
 /ˌvel ɪn bɔn ˈtʀɛŋk | luʀ ˈdaʀ ɪn ˈʒɔʀn̩ kɔjˈmaθ lɔn ˈkɔst/
-[ˌvew ɪm bɔn ˈtʀɛŋk | lʊː ˈdɑː‿ʀɪn ˈʒɔːŋ kojˈmaθ lʊŋˈkɔst]
+[ˌvew ɪm bɔn ˈtʀɛŋk | lʊː ˈdɐː‿ʀɪn ˈʒɔːŋ kojˈmaθ lʊŋˈkɔst]
 
 ##
 
 7th Lexember
 
-trocar entr /tʀoˈkaʀ ɛntʀ̩/ [tʀʊˈkɑː‿ʀɛntɐ] to reciprocate, to repay, to retaliate
+trocar entr /tʀoˈkaʀ ɛntʀ̩/ [tʀʊˈkɐː‿ʀɛntɐ] to reciprocate, to repay, to retaliate
 
 < “to trade between”. Preposition from Latin inter “between, among”; verb possibly from an Old Boral trocar “to trade”, either an alternation of torcar < Latin torqueō “I twist, bend”, or more likely from Old Spanish trocar via Old French, of uncertain origin.
 
-Ða meðes nos poðau lou fornir d'aïðanç, il trocausn noc entr tardessem. 
+Ða meðes nos poðau lou fornir d'aïðanç, ðe trocausn noc entr tardessem. 
 Even if we provided them with aid, they would not reciprocate later.
 /ða meˈðɛz no poˈðo lu fɔʀˈnɪʀ dɛjiˈðants | ɪl tʀoˈkosn̩ nɔk ɛntʀ̩ taʀˈdɛsɛm/
 [ða mɪˈðɛz no pʊˈðo lu fʊːˈnɪː dɛjˈðants | ɪw tʀʊˈkosn̩ nɔ‿gɛntɐ tɐːˈdɛsm̩]
@@ -136,7 +136,7 @@ bakilau /ˌbakiˈlo/ [ˌbakɪˈlo] cod, marine fish of the family Gadidae
 
 < Origin contested. Extant from 9C as cabeilau, bacalau (among other variants), from Middle Dutch (Mi-Willem), cf. French cabillaud “cod”. Entered Middle Dutch either from some derivation of baculum “stick, rod”, or else from Basque kabailao “cod”. Formerly assumed to be a direct loan from Vask into Boral – see also other naval/fishing terminology like hagr “mast" – but this is now considered phonetically untenable.
 
-J'oyeu ne Horð il pascn for bakilau.
+J'oyeu ne Horð ðe pascn for bakilau.
 I heard that in Horth they only eat cod.
 /ʒoˈjaw ne hɔʀˈða ɪl ˈpaxn̩ fɔʀ ˌbakiˈlo/
 [ʒʊˈjaw nɪ hʊːˈða ɪw ˈpaxn̩ fɔː ˌbakɪˈlo] 
@@ -156,7 +156,7 @@ banfoy quïr /kwaˈjɪʀ/ [kwɐˈjɪː] to pack up camp, to prepare for a trip
 Nos voum partir je Maucr, donc toð je Mart faldra banfoy quïr.
 We'll leave on Wednesday, so we need all Tuesday to pack.
 /no ˈvum paʀˈtɪʀ ʒe ˈmokʀ | dɔnk tɔθ ʒe maʀt falˈdʀa banˈfɔj kwaˈjɪʀ/
-[nʊ ˈvʊm pɐːˈtɪː ʒɪ ˈmokɐ | dɔŋk ˈtɔː ʒɪ ˈmɑːt fɐwˈdʀa bɐɱˈfɔj kwɐˈjɪː] 
+[nʊ ˈvʊm pɐːˈtɪː ʒɪ ˈmokɐ | dɔŋk ˈtɔː ʒɪ ˈmɐːt fɐwˈdʀa bɐɱˈfɔj kwɐˈjɪː] 
 
 ##
 
@@ -173,7 +173,7 @@ rastel fair /feʀ/ [fɛː] to be thrifty, to save money
 Nien va par un bricot nuçal lour rovant, com i fay rastel!
 There's no point asking him for a wedding present, he's so miserly!
 /ʀjɛn va paʀ ɪn bʀiˈkɔt nuts luʀ ʀoˈvant | kɔm i fe ʀasˈtɛl/
-[ʀjɛɱ va pɑː‿ʀɪm bʀɪˈkɔt nʊts lʊː ʀʊˈvant | kɔm i fe ʀɐsˈtɛl]
+[ʀjɛɱ va pɐː‿ʀɪm bʀɪˈkɔt nʊts lʊː ʀʊˈvant | kɔm i fe ʀɐsˈtɛl]
 
 ##
 
@@ -189,20 +189,20 @@ In Portingale there was a new recipe, with spiced meat in a tomato sauce.
 
 /a ˌlɪsˈtɛjn fo ɪn meˈθɔd noˈvɛl | ant ˈkaʀn ˌaʀoˈmaθ ne ˈsoz de xiˈtɔm piˈzaθ/
 
-[ɐ ˌlɪsˈtɛjn fo m̩ mɪˈθɔd nʊˈvɛw | ɐŋ ˈkɑːn ˌaʀʊˈmaː nɪ ˈsoz dɪ çɪˈtɔm pɪˈzaː]
+[ɐ ˌlɪsˈtɛjn fo m̩ mɪˈθɔd nʊˈvɛw | ɐŋ ˈkɐːn ˌaʀʊˈmaː nɪ ˈsoz dɪ çɪˈtɔm pɪˈzaː]
 
 ##
 
 12th Lexember
 
-barvier /baʀˈvjɛʀ/ [bɑːvɪˈjɛː] shepherd(ess), one who guides a flock
+barvier /baʀˈvjɛʀ/ [bɐːvɪˈjɛː] shepherd(ess), one who guides a flock
 
 < many forms are attested in Old Boral (approximately 7C-11C); barviar and varvȝair, for example. All are from Vulgar Latin vervecārius, from Latin vervēx “wether, castrated ram”.
 
-Y soldart eð y barvier vencoirn y dragon e soulor allagr vescoirn il.
+Y soldart eð y barvier vencoirn y dragon e soulor allagr vescoirn ðe.
 The soldier and the shepherdess killed the dragon and lived happily ever after.
 /i sɔlˈdaʀt eθ i baʀˈvjɛʀ vɛnˈkɔjʀn̩ i dʀaˈgɔn e suˈlɔʀ aˈlɛjʀ veˈxɔjʀn̩ ɪl/
-[i sʊwˈdɑːt e‿ði bɑːvɪˈjɛː vɪŋˈkɔjɐn i dʀɐˈgɔn e sʊˈlɔː‿ʀɐˈlɛjɐ vɪˈxɔjɐn ɪw] 
+[i sʊwˈdɐːt e‿ði bɐːvɪˈjɛː vɪŋˈkɔjɐn i dʀɐˈgɔn e sʊˈlɔː‿ʀɐˈlɛjɐ vɪˈxɔjɐn ɪw] 
 
 ##
 
@@ -271,7 +271,7 @@ nohas /noˈhaz/ [nʊˈxaz] (of economics) right-wing, conservative
 Stou y Duc coy l'eç nohas parmy sull'administration d'autortað may accarr.
 The Duke must stop the right-wing in his regime gaining more influence.
 /fal i ˈdɪk cɔj i ˌtsi noˈhaz paʀˈmi siladˌministʀaˈtsjɔn ˌdotɔʀˈtaθ me aˈkaʀ/
-[faw i ˈdɪk cɔj (i) ˌtsi nʊˈxaz pɑːˈmi silɐdˌministʀɐˈtsjɔn ˌdotɔːˈtah me ɐˈkɑː] 
+[faw i ˈdɪk cɔj (i) ˌtsi nʊˈxaz pɐːˈmi silɐdˌministʀɐˈtsjɔn ˌdotɔːˈtah me ɐˈkɐː] 
 
 ##
 
@@ -282,7 +282,7 @@ siemprað /sjɛmˈpʀaθ/ [sɪmˈpʀah] cheerful, content, in a good mood
 Il parmettoirn nos entraum siemprað.
 They cheerfully let us come in.
 /ɪl paʀˈmɪzɛʀn noz enˈtʀom sjɛmˈpʀaθ/
-[ɪw pɑːˈmɪzɐn noz ɪnˈtʀom sɪmˈpʀah]
+[ɪw pɐːˈmɪzɐn noz ɪnˈtʀom sɪmˈpʀah]
 
 ##
 
@@ -295,13 +295,13 @@ corrovað /ˌkoʀoˈvaθ/ [ˌkoʀʊˈvah] amateur, recruit, enthusiast, novice
 Jo vel for un corrovað me nommar, mathem partenent.
 I'd only consider myself an amateur when it comes to maths.
 /ʒo ˈvɛl fɔʀ ɪn ˌkoʀoˈvaθ me noˈmaʀ | maˈθɛm ˌpaʀteˈnɛnt/
-[ʒʊ ˈvɛw fɔː‿ʀɪŋ ˌkoʀʊˈvah me nʊˈmɑː | mɐˈθɛm ˌpɑːtɪˈnɛn(t)]
+[ʒʊ ˈvɛw fɔː‿ʀɪŋ ˌkoʀʊˈvah me nʊˈmɐː | mɐˈθɛm ˌpɐːtɪˈnɛn(t)]
 
 ##
 
 20th Lexember
 
-desamoraçar /dezamoʀatsaʀ/ [dɪˌzamʊʀɐˈtsɑː] to fall out of love
+desamoraçar /dezamoʀatsaʀ/ [dɪˌzamʊʀɐˈtsɐː] to fall out of love
 
 < from des- “reversal, negation” + amoraçar “to fall in love, especially suddenly”, itself from (now rare) amoraç “sudden lust, all-consuming desire”, either from Old Boral amor “love” + -aç “intensifier, pejorative”, or directly from Latin amoraceus “resembling love”.
 
@@ -321,7 +321,7 @@ desir escapat /deˈzɪʀ ˌɛskaˈpat/ [dɪˈzɪː‿ˌʀɛskɐˈpat] desire for
 Sy maðr creye ig sy desir escapat sceus le coïr d'un marið trovar.
 Her mother believed her wanderlust might stop her finding a husband.
 /si ˈmaðʀ̩ kʀiˈje aj ˌsi deˈzɪʀ ˌɛskaˈpat ˈxawz le koˈjɪʀ dɪn maˈʀɪθ tʀoˈvaʀ/
-[sɪ ˈmaðɐ kʀɪˈje ʔaj ˌsi dɪˈzɪː‿ˌʀɛskɐˈpat ˈxawz le kʊˈjɪː dɪm mɐˈʀɪh tʀʊˈvɑː]
+[sɪ ˈmaðɐ kʀɪˈje ʔaj ˌsi dɪˈzɪː‿ˌʀɛskɐˈpat ˈxawz le kʊˈjɪː dɪm mɐˈʀɪh tʀʊˈvɐː]
 
 ##
 
@@ -364,13 +364,13 @@ trevold /tʀeˈvɔld/ [tʀɪˈvɔwd] novel, book, story
 Jo te pieð, dig en mey nien – jo n'ay deja y cart trevold leit dell'oc cougl.
 Please don't tell me anything – I've not yet read the fourth book in the series.
 /ˌʒo te ˈpjɛθ | ˈdaj ɛn mi ˈʀjɛn | ʒo ˌne deˈʒa i ˌkaʀt tʀeˈvɔld ˈlit delɔk ˈkɔjl/
-[ʒʊtˈpjɛh | ˌdajmːiʀɪˈjɛn | ʒʊˈne dɪˈʒa ɪˈkɑːt tʀɪˈvɔwd lɪt ˌdelʊˈkɔjʊ] 
+[ʒʊtˈpjɛh | ˌdajmːiʀɪˈjɛn | ʒʊˈne dɪˈʒa ɪˈkɐːt tʀɪˈvɔwd lɪt ˌdelʊˈkɔjʊ] 
 
 ##
 
 25th Lexember
 
-jonnovar zucarrað /ˌʒonoˈvaʀ zikaˈʀaθ/ [ˌʒonʊˈvɑː ˌzikɐˈʀah] candied butterflies
+jonnovar zucarrað /ˌʒonoˈvaʀ zikaˈʀaθ/ [ˌʒonʊˈvɐː ˌzikɐˈʀah] candied butterflies
 
 < first word from Old Boral ȝenhovar and similar forms, from Old Welsh gwenhwyfar “white spirit”, possibly via an Old English form *ġenovare, though this is disputed. Equivalent to English names Guinevere, Jennifer. Second word the past participle of zucarrar “to sugar, to sweeten”, from zucar “sugar”, coming via Old Italian zuccharo from Arabic سُكَّر‎ (sukkar).
 
@@ -379,7 +379,7 @@ A type of sweet, shaped pastry spiced with cinnamon or nutmeg, traditionally in 
 Scan noc y jonnovar zucarrað ancour – nos despardreu eç fam.
 Don't bring out the candied butterflies yet – we'll ruin our appetites.
 /ˈxan nɔk i ˌʒonoˈvaʀ zikaˈʀaθ anˈkuʀ ‖ no ˌdɛspaʀˈdʀaw ɛts ˈfam/
-[ˈxan nɔk i ˌʒonʊˈvɑː ˌzikɐˈʀah ɐŋˈkʊː ‖ no ˌdɛspɑːˈdʀaw ɛs ˈfam]
+[ˈxan nɔk i ˌʒonʊˈvɐː ˌzikɐˈʀah ɐŋˈkʊː ‖ no ˌdɛspɐːˈdʀaw ɛs ˈfam]
 
 ##
 
@@ -391,9 +391,9 @@ neyanç vert /niˈjants vɛʀt/ [nɪˈjants vɛːt] green snowfall
 
 Refers to the first snowfall of the year (that is, on or after the first of March), if there is one. Years with a green snowfall are generally considered unlucky, as a symptom of a long and bitter preceding winter.
 
-Y preu osc borallesc dy Grant Morenç a 1519 fis loy ne Damvað a mesur dy neyanç vert.
+Y preu osc borallesc dy Gran Morenç a 1519 fis loy ne Damvað a mesur dy neyanç vert.
 The first Borlish victim of the 1519 Great Dying was in Damvað during the green snowfall.
-/i pʀaw ˈɔx ˌboʀaˈlɛx di ˈgʀant moˈʀɛnts a ˈmɪl tsɪnkˈtsɛnt noˈvɛts fɪz ˈlɔj ne damˈvaθ a meˈzɪʀ di niˈjants vɛʀt/
+/i pʀaw ˈɔx ˌboʀaˈlɛx di ˈgʀan moˈʀɛnts a ˈmɪl tsɪnkˈtsɛnt noˈvɛts fɪz ˈlɔj ne damˈvaθ a meˈzɪʀ di niˈjants vɛʀt/
 [i pʀaw ˈʔɔx ˌboʀɐˈlɛh dɪ ˌgʀamːʊˈʀɛnts ɐ ˈmɪl tsɪŋˈksɛn nʊˈvɛts fɪz ˈlɔj ne dɐɱˈvah a mɪˈzɪː di nɪˈjants vɛːt]
 
 ##
@@ -415,14 +415,14 @@ I was asleep before one; we were all sleepily stuffed from the Christmas meal.
 
 28th Lexember
 
-jeunar /ʒawˈnaʀ/ [ʒɐwˈnɑː] to fast, to not eat
+jeunar /ʒawˈnaʀ/ [ʒɐwˈnɐː] to fast, to not eat
 
 < from Old Boral ieunar, from Latin ieiūnō “I fast”. Synchronically analysable as jeun “fast” + verbal -ar. With prefix des- < Latin dis-, we have desjeun “breakfast”, desjeunar “to have breakfast”.
 
 Nos som jeunant y jorn, ma colluïsc mey a masquet pos occas vars un grant quelt.
 We're fasting during the day, but come with me to mosque after sunset for a big dinner.
 /no ˈsɔm ʒawˈnant i ˈʒɔʀn | dɔnk ˌkɔlaˈjɪx mi a masˈkwɛt pɔz oˈkaz vaʀz ɪn ˌgʀant ˈkwɛlt/
-[nʊ ˈsɔm ʒɐwˈnan‿tɪ ˈʒɔːn | dɔŋk ˌkɔlɐˈjɪç mi a mɐsˈkwɛt pɔz ʊˈkaz vɑːz ɪŋ ˌgʀant ˈkwɛwt]
+[nʊ ˈsɔm ʒɐwˈnan‿tɪ ˈʒɔːn | dɔŋk ˌkɔlɐˈjɪç mi a mɐsˈkwɛt pɔz ʊˈkaz vɐːz ɪŋ ˌgʀant ˈkwɛwt]
 
 ##
 
@@ -435,7 +435,7 @@ retrasent /ˌʀetʀaˈzɛnt/ [ˌʀetʀɐˈzɛn(t)] back and forth
 Y kenonaut vil casc meis volar retrasiscent entr y Tar eð y Lun.
 The spaceship will fly back and forth between the Earth and the Moon each month.
 /i ˌkenoˈnot vɪl kax ˈmɔnθ voˈlaʀ ˌʀetʀaˈzɛnt ɛnt‿ʀi ˈtaʀ ɛθ i ˈlɪn/
-[i ˌkenʊˈnot vɪw kɐxˈmɔnθ vʊˈlɑː ˌʀetʀɐˈzɛn(t) ɛnt‿ʀi ˈtɑː‿ʀɛ‿ði ˈlɪn]
+[i ˌkenʊˈnot vɪw kɐxˈmɔnθ vʊˈlɐː ˌʀetʀɐˈzɛn(t) ɛnt‿ʀi ˈtɐː‿ʀɛ‿ði ˈlɪn]
 
 ##
 
@@ -492,7 +492,7 @@ Ambrose¹ III (17 March 1435 - 29 February 1518) was king of Vascony from 1456 u
 
 King Ambrose III pushed for naval development, establishing the New Navarre Enterprise in 1458. He aimed to capitalise on Vascon supremacy in the fishing trade, trading cod from Dunclothe and Valland throughout the Middlesea. And of course, it was just such a ship that landed on Mendevan² shores in 1471 and introduced Eurasia to the Novomund.
 
-Despite losing Vascony's Middlesea coast to Burgundy and Barcelon, and despite never marrying, King Ambrose III is remembered well for presiding over a period of relative peace and prosperity. His death presaged the decline of Vascony; it lost over a fifth of its population in the Second Great Dying, and ceded Portingale (its economic heart, having benefited the most from Novomundine trade) to Andalus after the Romantic Wars of the seventeenth century.
+Despite losing Vascony's Middlesea coast to Burgundy and Barcelon, and despite never marrying, King Ambrose III is remembered well for presiding over a period of relative peace and prosperity. His death presaged the decline of Vascony; it lost over a fifth of its population in the Second Great Dying, and ceded Portingale (its economic heart, having benefited the most from Novomundane trade) to Andalus after the Romantic Wars of the seventeenth century.
 
 ———
 
@@ -557,7 +557,7 @@ The boy's wrists were bloody when we took off his handcuffs.
 
 7m Janver
 
-tarm /taʀm/ [tɑːm] boundary, limit, edge, border
+tarm /taʀm/ [tɐːm] boundary, limit, edge, border
 
 < Attested since 9C in Old Boral tarm(n) “end, boundary”, from Latin terminus with the same meaning. Is a doublet of termin “station, end point”.
 
@@ -701,7 +701,7 @@ ___
 
 F: (Wars of) Fealty
 
-It is unfortunately characteristic of the nations of Albion that, just as the opportunities afforded by the Novamundine [3] landfall were becoming apparent to leaders across Europe, we devoted almost fifty years to battle over the location of a single chair…
+It is unfortunately characteristic of the nations of Albion that, just as the opportunities afforded by the Novomundane [3] landfall were becoming apparent to leaders across Europe, we devoted almost fifty years to battle over the location of a single chair…
 
 - The Alphabetical Albion by Lucas Osborne et al., published by Winchester Scholastic Primers, 1920
 
@@ -761,7 +761,7 @@ The Kernish kingdoms at the dawn of the eighth century had only recently been un
 
 [Recall that the region now known as Kernow had at the time many names, including Armorica, Brittania and Dumnonia (this taken from the region in Albion whence the Britons had emigrated); the modern name dates from the eleventh century when the House of Kernow allied with the Normans to take the throne.]
 
-King Vigo is remembered chiefly for spearheading the reconquest of Devon, which had been under the sole authority of the Kingdom of Wessex since the final defeat at Gaulford in 656 (although much of Cornwall had never entirely submitted to English rule). He had married Guinnumar, daughter to King David I of Wynneth, and had managed to secure Welsh assistance with the invasion.
+King Vigo is remembered chiefly for spearheading the reconquest of Devon, which had been under the sole authority of the Kingdom of Wessex since the final defeat at Gaulford in 656 (although much of Cornwall had never entirely submitted to English rule). He had married Winmar, daughter to King David I of Wynneth, and had managed to secure Welsh assistance with the invasion.
 
 After over two decades of intermittent warfare with Wessex and the victory at Petherton, Vigo was crowned King of Greater Devon (rex Magnæ Dumnoniæ), unifying Devon and Kernow. He had at least three children: among them were Cadern the Doubter, who would become king upon Vigo's death in 761, and his daughter Iseld, who later became the first patron of the Brethin of Tremonnow, and for whom the Iseld House in Bristow is named.
 
@@ -943,7 +943,7 @@ visar /viˈzaʀ/ to aim at, to target, to point a weapon at
 
 28m Janver
 
-carpenter /ˌkaʀpɛnˈtɛʀ/ [ˌkɑːpɪnˈtɛː] carpenter, wood-worker
+carpenter /ˌkaʀpɛnˈtɛʀ/ [ˌkɐːpɪnˈtɛː] carpenter, wood-worker
 
 < from Latin carpentārius “wagon-maker, carriage-maker”.
 
@@ -1102,7 +1102,7 @@ L'oc jorn, mama es mort. Ben parcanç yer, jo saif noc. Lonc y parol campaner me
 
 L'edifiç a hom veil se situ a Goday, a novant stadion de Damvað. Jo montaray sur y vectoir l'hour dou e j'hiembray l'edifiç ag ralley. Cossy jo farray surveil toð y nogt e soulor y repaðr tardessem a souscen. J'ay dou jorn crous rovað de my caf e stant y contingent i poðe noc m'en privar. Toð mod i parisce noc allagr, donc j'ay dit meðes : “A mey la no's falt.” ; i no's respos. Apres j'ay saut noc deïr le digr. Luy val y sorc me beudar, a loy. Lon hougr i le farra souscen doutr, candon i me verra a cordogl. Oy meðes, tout es un pog com ða mama no sey mort. Posc nos arreu le sevelið, malgrað, i sera un affer prent, oc a digr robað d'un accostur reallessem.
 
-Jo so montað sur y vectoir l'hour dou. Caye magn calt. J'ay repasc fait ag tarn cas Celest, par usual. Casc gent ayen tendreç bempart por mey, e Celest a me dit : “O n'a maðr for l'un.”. Cant jo parte, il aun me colluïð vars y port. Jo so hastað com picq n'y fugnt complir, car all'hour final me fale pausar cas Emmanuel por i me prest y capel plat e manc neir. Sull'yam follau y sougl deur plusour monð.
+Jo so montað sur y vectoir l'hour dou. Caye magn calt. J'ay repasc fait ag tarn cas Celest, par usual. Casc gent ayen tendreç bempart por mey, e Celest a me dit : “O n'a maðr for l'un.”. Cant jo parte, ðe aun me colluïð vars y port. Jo so hastað com picq n'y fugnt complir, car all'hour final me fale pausar cas Emmanuel por i me prest y capel plat e manc neir. Sull'yam follau y sougl deur plusour monð.
 
 Jo so cors fin a pie mettr ag vectoir. L'oc hast, l'oc porsief meðes, fus accougl certan coll'eç rouð peyaçant, oc puð a foyail montant, no dign oc lumner rebondiscent dy rout e dy ciel, desig tout j'ay m'assovið. A mesur dy sojorn pres enter so jo dormið. Cant apres j'ay sveilað, jo sta pressað a cost d'un soldart ; luy a m'entrovað a souriar ða j'er venuð de lontan. Jo n'ay dit for : “Vray.”, desirant besogn plu aïr de parolar.
 
@@ -1296,7 +1296,7 @@ Our wedding having a double rainbow in the sky was a happy coincidence.
 
 in translation from An Overview of Revitalist Art in Sixteenth-Century Rome, by Safourian Amigòt, published 1870 by Prindor Nicês
 
-By 1550, Rome and the surrounding Italian states had for the most part played catch-up over the last century, with respect to the study of Classical mathematics and science. Having neither the Novomundine explorations of Vascony, Kernow and Morrack to fund patronage of the new inventors, nor the very new medical advances in Denmark (that is, in the Dane Concert) to incite renewed interrogation of Classical medical texts, the various Italian states were further disadvantaged by their unchecked monarchs; and of course, nowhere more so than Rome herself, seat of a papacy that at the time still governed the spritual lives of most of Europe south of Venise.
+By 1550, Rome and the surrounding Italian states had for the most part played catch-up over the last century, with respect to the study of Classical mathematics and science. Having neither the Novomundane explorations of Vascony, Kernow and Morrack to fund patronage of the new inventors, nor the very new medical advances in Denmark (that is, in the Dane Concert) to incite renewed interrogation of Classical medical texts, the various Italian states were further disadvantaged by their unchecked monarchs; and of course, nowhere more so than Rome herself, seat of a papacy that at the time still governed the spritual lives of most of Europe south of Venise.
 
 This is not the place to discuss the causes and immediate political effects of the Great Fracture; for our purposes it suffices to note that, while on paper the Pope in Rome remained an absolute ruler (along with political dominion over several smaller Italian and German provinces), his temporal powers were in practice much diminished. In particular, the venerable prohibitions over blasphemous arts and philosophical publications within the city limits were swftly dissolved by the new Triunvirato, who ordered the obtention of great minds from around Europe; for example, this led to the establishment of the first Brethin House in all of Italy. They undertook this course of action, one assumes, less out of a sincere zeal for scientific discovery (although the personal correspondence of Lord of Houses Josforo Desmono suggests a passing interest in the subject) than a wish to introduce various new political factions into Rome in opposition to the See.
 
@@ -1320,7 +1320,7 @@ With my brothers I dyed all my shirts dark red.
 
 12m Fevruer
 
-sevrar /seˈvʀaʀ/ [sɪˈvʀɑː] to separate, to split up, to wean (a child)
+sevrar /seˈvʀaʀ/ [sɪˈvʀɐː] to separate, to split up, to wean (a child)
 
 also mission sevrant /miˈsjɔn seˈvʀant/ injective function, one-to-one map
 
@@ -1362,7 +1362,7 @@ questions from a 1921 colloquium [interview] with writer Mrs Clarissa Bellamy fo
 
 14m Fevruer
 
-senglottar /ˌsɛn.gloˈtaʀ/ [ˌsɛŋ.glʊˈtɑː] to sob, to weep, to lament
+senglottar /ˌsɛn.gloˈtaʀ/ [ˌsɛŋ.glʊˈtɐː] to sob, to weep, to lament
 
 < 12C, verbal derivation from senglot “sob” (previously we have evidence of constructions such as senglot fair “to make sobs”), from Vulgar Latin singluttus, a blend of Latin gluttiō “I swallow” and singultus “hiccup”.
 
@@ -1400,7 +1400,7 @@ The story in Borland is similar, but less drastic. Much of the south and west co
 
 17m Fevruer
 
-benoçar /ˌbenoˈtsaʀ/ [ˌbenʊˈtsɑː] to use, to make use of, to employ
+benoçar /ˌbenoˈtsaʀ/ [ˌbenʊˈtsɐː] to use, to make use of, to employ
 
 < from Old English benotian “to use, to consume”, attested 10C in Old Boral as benotiar etc. and originally used primarily in religious/charitable contexts. It came to mean “to make use of (a service)” by 13C and soon after “to make use of (a tool)”, partially displacing native usar < Mediæval Latin ūsō “I use”.
 
@@ -1613,13 +1613,13 @@ You can pop over to Ausçagm by bus for like less than a quid.
 
 1r Març
 
-kestar /keˈstaʀ/ [kɪˈstɑː] to beg for goods or money, to be destitute
+kestar /keˈstaʀ/ [kɪˈstɐː] to beg for goods or money, to be destitute
 
 also kestour beggar, panhandler
 
 < 9C from Old Boral kestar, quastar “to search for” (primarily in northern dialects), from Late Latin quæstō “I seek, I pursue”, from past participle quæstus of Latin quærō “I seek”. Modern sense in use from 13C; sense of “to look for” displaced by similar verb carr.
 
-Ne spien il dinn noc kestant la sey calscon, sy paðr au un majon caut a Londr.
+Ne spien ðe dinn noc kestant la sey calscon, sy paðr au un majon caut a Londr.
 /ne ˈspjɛn ɪl ˈdɪnn nɔk keˈstant la ˌsi kalˈxɔn | si ˈpaðʀ‿o ɪn maˈʒɔn kot a ˈlɔndʀ̩/
 So that they wouldn't be ruined no matter what, his father bought a London house.
 
@@ -1635,7 +1635,7 @@ It would be ahistorical to claim that the republics of the Middlesea were brough
 
 In the first half of the second millenium, Provence was first a county in the West Francian Kingdom, and following the Emergency at Dijon, the largest province (so to speak) in the Kingdom of Burgundy. The county was elevated under the house of Savoy to a duchy in the thirteenth century, and as the direct link between the capital at Geneva and all of Middlesea sea-trade, it became known as lo panier de Borgogne (the Burgundian breadbasket).
 
-However, with the Novamundine landfall in 1471, and the accompanying Ascendancy of Vascony under Ambrose III, piracy (which had long plagued the very coast which made Provence so profitable, and which was the scourge of the venerable republics of Jeans and Venise, among others) thrived off the general prosperity. In Marsella, the raiding became so frequent that many treated it more as an occupation, and many of the wealthy fled to safer pastures inland.
+However, with the Novomundane landfall in 1471, and the accompanying Ascendancy of Vascony under Ambrose III, piracy (which had long plagued the very coast which made Provence so profitable, and which was the scourge of the venerable republics of Jeans and Venise, among others) thrived off the general prosperity. In Marsella, the raiding became so frequent that many treated it more as an occupation, and many of the wealthy fled to safer pastures inland.
  
 The aid requests presented to Rudolf VIII went largely unanswered. Charitably, one might say he was distracted by the ongoing Bavarn conflict, and the religious difficulty attendant to being the northwesternmost polity yet answerable to Rome. But it is generally allowed that the young king was simply concerned only with himself (or by extension his many lovers) and with resplendent lakeside banquets.
 
@@ -1648,7 +1648,7 @@ At least, that is, for the next eighteen years…
 
 3m Març
 
-condensar /ˌkɔn.dɛnˈsaʀ/ [ˌkɔn.dɪnˈzɑː] to concentrate, to press together
+condensar /ˌkɔn.dɛnˈsaʀ/ [ˌkɔn.dɪnˈzɐː] to concentrate, to press together
 
 < 1610s, borrowed from French condenser, from Latin condēnsō “I make dense, I compress”. Also “to consolidate, to bring close together” from 1640s, and more generally “to strengthen, to intensify” from early 18C.
 
@@ -1750,7 +1750,7 @@ included in an 1901 theological edition [publication] of Proclamatio Divior, the
 
 9m Març
 
-communeyar /koˌminiˈjaʀ/ [ˌkomɪˈnjɑː] to communicate, to impart
+communeyar /koˌminiˈjaʀ/ [ˌkomɪˈnjɐː] to communicate, to impart
 
 < 13C, a semi-learned borrowing from Latin commūnicō “I share, I participate”, modelled after other words in -eyar such as despleyar < displicō “I scatter”. Meaning “to pass on, to transmit” from 17C; also for long-distance transmission since 1809.
 
@@ -1810,7 +1810,7 @@ He's a smart man, but he's got no diplomatic experience.
 
 13m Març
 
-vayar /vɛˈjaʀ/ [vɪˈjɑː] to wander, to stray, to rove
+vayar /vɛˈjaʀ/ [vɪˈjɐː] to wander, to stray, to rove
 
 < from 8C as Old Boral vaȝar “to wander” (possibly a dialect form with uncharacteristic retention of intervocalic /ɣ/ from Latin <g>), from Latin vagō “I wander”. See also strayar “I stray, I act badly”, from Mediæval Latin extravagō “I wander beyond”. Further meanings “to be unsure, to hesitate” attested 12C but may be original; expression l'ogl vain “the eyes wander” used to call someone unintelligent from 18C.
 
@@ -1860,7 +1860,7 @@ I saw someone had folded over the corner of a page halfway through the book.
 
 16m Març
 
-parlocar /ˌpaʀ.loˈkaʀ/ [ˌpɑː.lʊˈkɑː] to straddle, to be either side of
+parlocar /ˌpaʀ.loˈkaʀ/ [ˌpɐː.lʊˈkɐː] to straddle, to be either side of
 
 < 15C, formed from prefix par- “by, through”, from Latin prefix per-, and from Latin locō “I put, I place”. Although no contemporary verb perlocō is attested, Scholastic Latin had by 1500 readopted it from these later compounds; cf. French parloquer, Vascon pellocar.
 
@@ -1969,13 +1969,13 @@ At twenty, he settled down in Cordoba and became a journalist.
 
 from Handbook of Natural Theory, by Jason Ridley and others, published 1967 in Markland English by the Lincon Collegiate Editors
 
-In mechanics, œculux (commonly referred to simply as light) is a form of propagant lux that carries energy through the barrick extent, most commonly experienced as light or heat. In vacuo, œculux moves at the normal speed, commonly written œ; in more common units, at a rate of 300 dichilomecon per second.
+In mechanics, œculux (commonly referred to simply as light) is a form of propagant lux that carries energy through the barrick extent, most commonly experienced as light or heat. In vacuo, œculux moves at the normal speed, commonly written œ; in more common units, at a rate of 10 great leagues per second.
 
 The word œculux is a chimer (to the certain dismay of our more classically-minded readers!): the first half is related to such words as œcumenical “of the secular world”, and here is intended to denote “universal, the entire extent of”. However, its origin is in fact the Greek οἰκουμενικός “the whole world”, literally “the inhabited places”. The suffix -lux, coming directly from Latin lux “light”, is more familiar, perhaps from the new threshold mills and their unsettling martial applications. It is important to keep in mind that luxes aren't just the scary invisible rays from a blacklayer film, but include all the colours of the rainbow.
 
 We conventionally grade œculux by its period, since we interact with it in many different ways.
 
-Light with the shortest periods are scattering, having enough energy to interact with atoms and give them a deficit of plenty; we say the atom becomes deficient. All shortform and penetrating œculux is scattering, and depending on convention some further surblavic light may be included. The maximal period of light which can in theory scatter an atomic base is around 320 trihekimecon, which is still shorter than any visible light. High exposure to light of such brief period is dangerous, and fortunately the atmosphere blocks the majority of such luxes that the Sun emits (although not all, as a sunburn will attest!).
+Light with the shortest cadences are scattering, having enough energy to interact with atoms and give them a deficit of plenty; we say the atom becomes deficient. All shortform and penetrating œculux is scattering, and depending on convention some further surblavic light may be included. The maximal period of light which can in theory scatter an atomic base is around 320 trihekimecon, which is still shorter than any visible light. High exposure to light of such brief period is dangerous, and fortunately the atmosphere blocks the majority of such luxes that the Sun emits (although not all, as a sunburn will attest!).
 
 ##
 
@@ -2027,7 +2027,7 @@ The bookseller of Hawthorn Street was a handsome man of perhaps thirty years, an
 
 27m Març
 
-animar /ˌa.niˈmaʀ/ [ˌa.nɪˈmɑː] to excite, to spur on
+animar /ˌa.niˈmaʀ/ [ˌa.nɪˈmɐː] to excite, to spur on
 
 later to encourage, to kindle
 
@@ -2092,7 +2092,7 @@ It may surprise you to learn that I'm not dead.
 
 31r Març
 
-frossar /fʀoˈsaʀ/ [fʀʊˈsɑː] to wrinkle, to crumple, to crease
+frossar /fʀoˈsaʀ/ [fʀʊˈsɐː] to wrinkle, to crumple, to crease
 
 also y laur frossar to purse/pucker one's lips
 
@@ -2205,7 +2205,7 @@ melle /meˈle/ high society, good company, the activities of the rich and powerf
 
 noðriç /nɔðˈʀɪts/ [nʊˈʀɪs] wet-nurse, nanny, child-minder
 
-also noðriçar /ˌnɔð.ʀiˈtsaʀ/ [ˌnɔ.ʀɪˈtsɑː] to babysit, to nurse, to nanny
+also noðriçar /ˌnɔð.ʀiˈtsaʀ/ [ˌnɔ.ʀɪˈtsɐː] to babysit, to nurse, to nanny
 
 < late 12C as nodriç and others (with the same meaning), either directly from Latin nūtrīx, nūtrīcem “wet-nurse” or more likely from a Late Latin from *nutrīcia (note the short initial /u/). Verbal derivation attested from 17C.
 
@@ -2340,7 +2340,7 @@ ig inclus /ˌaj ɪnˈklɪz/ including, comprising, for example
 
 13m Avril
 
-    questions taken from the January 2003 N scitation documents for the course 1471 - 1517: War, Peace and Exploration after the Novomundine Landfall, 37st avenue in Concurrence History at the Tremonnow Open School (formerly the Brethin Mesh Institute).
+    questions taken from the January 2003 N scitation documents for the course 1471 - 1517: War, Peace and Exploration after the Novomundane Landfall, 37st avenue in Concurrence History at the Tremonnow Open School (formerly the Brethin Mesh Institute).
 
 Question 1 (thirty minutes)
 
@@ -2364,7 +2364,7 @@ Answer any two of the three questions related to the above quote.
 
 14m Avril
 
-smargr /ˈsmaʀ.gʀ̩/ [ˈzmɑː.gɐ] to surface, to emerge
+smargr /ˈsmaʀ.gʀ̩/ [ˈzmɐː.gɐ] to surface, to emerge
 
 also to get up (out of bed), to come up (as a topic)
 
@@ -2452,7 +2452,7 @@ gien /ʒjɛn/ cheek, jaw, jowl
 
 18m Avril
 
-souvartr /suˈvaʀ.tʀ̩/ [sʊˈvɑː.tɐ] to upend, to overturn, to take aback
+souvartr /suˈvaʀ.tʀ̩/ [sʊˈvɐː.tɐ] to upend, to overturn, to take aback
 
 -r conjugation, -s variant (past participle souvars)
 
@@ -2560,7 +2560,7 @@ slognað /slɔjˈnaθ/ [zlʊjˈnah] remote, unlikely, distant
 
 < past participle of slognar “to recede, to distance, to move away”, via Old Boral isloȝnar from Vulgar Latin exlongō, with the same meaning. The Latin is a late derivation from longē “far off”. Nowadays usually either meaning “distant in time” (the spatial sense mostly reserved by lontan) or else the metaphorical “unlikely”, which is first attested 18C.
 
-    Slognað comoscon ig nos parvendreu allagr-vescoirn-il, jo vil te colluïr.
+    Slognað comoscon ig nos parvendreu allagr-vescoirn-ðe, jo vil te colluïr.
 
     I will stay by your side, no matter how unlikely it is that we'll get our happy ending.
 
@@ -2570,7 +2570,7 @@ slognað /slɔjˈnaθ/ [zlʊjˈnah] remote, unlikely, distant
 
 24m Avril
 
-quinar /kwiˈnaʀ/ [kwɪˈnɑː] to whack, to hit, to thump, to bash
+quinar /kwiˈnaʀ/ [kwɪˈnɐː] to whack, to hit, to thump, to bash
 
 also to collide (without bouncing)
 
@@ -2614,7 +2614,7 @@ The thought appealed.”
 
 26m Avril
 
-crullar /kʀiˈlaʀ/ [kʀɪˈlɑː] to hit, to knock, to ring, to tap, to knell, to clap
+crullar /kʀiˈlaʀ/ [kʀɪˈlɐː] to hit, to knock, to ring, to tap, to knell, to clap
 
 that is, to strike so as to make a sound
 
@@ -2632,15 +2632,15 @@ also to play (a percussion instrument), to pluck (a string), to fuck
 
 27m Avril
 
-Novomondin /ˌno.vo.mɔnˈdɪn/ Novomundine, of the New World
+Novomondan /ˌno.vo.mɔnˈdan/ Novomundane, of the New World
 
-< 17C, from Scholastic Latin novomundīnus “from the New World, from Mendeva or Cappatia”, presumably based on the phrase dē novō mundō “from the new world”. This phrase attested from early 16C to describe places and people both mendēvalēnsis and cappātiānus. This word continues the habit of transliterating Latin “short <u>” as Boral <o>, on the basis of sound similarity.
+< 17C, from Scholastic Latin novomundānus “from the New World, from Mendeva or Cappatia”, presumably based on the phrase dē novō mundō “from the new world”. This phrase attested from early 16C to describe places and people both mendēvalēnsis and cappātiānus. This word continues the habit of transliterating Latin “short <u>” as Boral <o>, on the basis of sound similarity.
 
-    Fort certan, Onnacra parloc y cascat stoniscendessem Novomondin.
+    Fort certan, Onnacra parloc y cascat stoniscendessem Novomondan.
 
     Certainly the Onnacra has the most breathtaking waterfall in the New World.
 
-    /ˈfɔʀt tsɛʀˈtan | o.naˈkʀa paʀˈlɔk i kaˈxat ˌsto.ni.xɛnˈde.sɛm ˌno.vo.mɔnˈdɪn/
+    /ˈfɔʀt tsɛʀˈtan | o.naˈkʀa paʀˈlɔk i kaˈxat ˌsto.ni.xɛnˈde.sɛm ˌno.vo.mɔnˈdan/
 
 ##
 
@@ -2759,7 +2759,7 @@ also beautiful person
 Toð pris accougl, Marc no'r certan de noc faïr y tuyaut recevir, ma ancour l'oc no sta total extrane. Prefaibr untal aucoum par gent aye lou sgardað e pesað a lour y jorn a cortisment meðes, n'y bel per admirant.
 On balance, Mark wasn't sure that he wouldn't rather have had the cigar, but there was still something in it. Probably any number of people had looked at them and thought of their own courting days, admiring the handsome couple.
 
-“Vos eð y fest broucað ?” rovau Anna, posc il aurn ci may follað.
+“Vos eð y fest broucað ?” rovau Anna, posc ðe aurn ci may follað.
 “Did you have a nice time?” Anna asked, once they'd walked a bit more.
 
 “Oc fort, vray,” admis i. “Dig le noc a alcun hom.”
@@ -2780,7 +2780,7 @@ If only that were true.  “I'm really not.”
 I soupirau, pariscent a pognt d'uncos digr, ma se taçoy.
 She sighed, seeming about to say something, but chose not to.
 
-Il follaurn y sougl kieð ; Marc fey verroil ag port ados. Candon il yemoy la oyon l'eç segr eð eç domn stan a asmuth sevrar—e posc il ascuraurn ig Magret e Willaum se parteurn toð idone e con poliðeç maxim—Anna se pos a ortegl e bascau raut, cast, sy gien.
+Il follaurn y sougl kieð ; Marc fey verroil ag port ados. Candon ðe yemoy la oyon l'eç segr eð eç domn stan a asmuth sevrar—e posc ðe ascuraurn ig Magret e Willaum se parteurn toð idone e con poliðeç maxim—Anna se pos a ortegl e bascau raut, cast, sy gien.
 They let themselves in quietly, Mark locking the door behind them.  When they reached the place where the men and women went their separate way—and after they'd seen that Daisy and William parted with no funny business—Anna rose up on her toes and quickly, chastely, kissed his cheek.
 
 L'er partið pall'ig scagl domn pre Marc sceus y façon decidr de sy reaction.
@@ -2936,7 +2936,7 @@ The second and more involved change to the Julian calendar regarded the placemen
 
 14m May
 
-tarsc /taʀx/ [tɑːx] card, note, small paper, memo
+tarsc /taʀx/ [tɐːx] card, note, small paper, memo
 
 < 11C from Old French targe “small shield, buckler”, itself from Frankish targa with the same meaning. Probably conflated with the Norrish and English cognates, which would alone have given *tarc or *targ. The shift in sense to paper dates to 16C, from clipping of fougl tarsc “buckler sheet”, the term for the paper size one-half of a trevold. Specific meaning “memo” from 19C.
 
@@ -3083,7 +3083,7 @@ in formal writing to envelop, to swaddle
 
 < from 8C in Old Boral envovre, ivouvre “to wrap up, to involve, to devote” (in early sources we see primarily the religious “to devote oneself to a cause”, but this is presumably just a function of the available sources), from Latin involvō “to roll up, to envelop”. Sense “to interest” from 14C; generally “to surround” from 16C. Northern Old Boral dialect form eunoir leads to modern eunovir “to pledge, to swear”.
 
-    Jo vusc il envoloirn noc y bourgmer all'oc delusion.
+    Jo vusc ðe envoloirn noc y bourgmer all'oc delusion.
 
     I wish they hadn't involved the mayor in this deception.
 
@@ -3095,7 +3095,7 @@ in formal writing to envelop, to swaddle
 
     extract from the Borlish translation of We Wake to Broken Windows, by Norman author Mark Deuthex. It was published by Maison Bateller (Ferryman House) in 1973, in the hey-day of the spycraft romance. It draws on the author's own experience working for the Red House in Roun, whose activities were revealed to the public as part of the Furore of 1961. The events of that year led to the collapse of the Drengot Collusion (in particular, Darchild's tinplate government) and eventually to the Kentish ostracon reforms, used as a model in several polities around the globe.
 
-Lourell'ouçon remanent, parisc i toð cas final, es l'oc administration e cultur fugr ag saluçon d'ig il aun tout oblatað deull'eç við.
+Lourell'ouçon remanent, parisc i toð cas final, es l'oc administration e cultur fugr ag saluçon d'ig ðe aun tout oblatað deull'eç við.
 So their remaining option, as it stands, is running from the very government and society that they have given everything but their lives to save.
 
 L'oc es indigndað, ma Paul Lacan es hom prest a savir ig bempart dy mont en es.
@@ -3104,7 +3104,7 @@ It isn't fair, but Paul Lacan, of all people, knows that most things aren't.
 Par moment pes i dy ci ogl a Hector situað ne visaç blanc eð incertan, agr apen.
 He thinks for a while about Hector's eyes in a pale, uncertain face, almost eager.
 
-Paul s'entrouf oyon porraun il var, e comoscon un við enter laiscar, costroit a catr man des y fondamen – y soul act dont Paul acaf a star fier.
+Paul s'entrouf oyon porraun ðe var, e comoscon un við enter laiscar, costroit a catr man des y fondamen – y soul act dont Paul acaf a star fier.
 Paul wonders where they will go, and how they will possibly just drop a whole life built from ground up – the only thing Paul has ever been proud of.
 
 Ma vray direct, Paul porra eð i vil. I vil Albion e famigl eð y Minister fugr ne Hector amant, e Hector en vil ne við amant.
@@ -3234,7 +3234,7 @@ Cloud cover – or even rain, the noise was always worth the chill – would hav
 
 29m May
 
-affauðar /ˌa.foˈðaʀ/ [ˌa.fʊˈðɑː] to fade, to weaken, to dilute
+affauðar /ˌa.foˈðaʀ/ [ˌa.fʊˈðɐː] to fade, to weaken, to dilute
 
 < 14C, verbal derivation of fauð “bland, dilute” (now obsolete or archaic), itself from Old Boral fauð “tasteless, useless, boring”. This from Latin fatuus, having the previous senses as well as “foolish, silly, awkward, clumsy”. This word also gives Boral fatuous /fa.ˈtjuz/ “unwieldy, awkward”, a later borrowing. See also Norman affadi “to disgust”, Vascon fat “annoying, boring (of people)”.
 
@@ -3426,7 +3426,7 @@ havan /haˈvan/ harbour, port, docks
 
 9m Jugn
 
-    extract from Peðer Hetsong's semi-autobiographical 1864 trevold The Land of Golden Lies and Sugared Fire (published originally in New Leudong Cambrick by Allourian Editions), one of the first Angelican works of literature to enjoy Vetomundine success. Hetsong was of both Cathayan and British heritage, and spent his early adulthood travelling around Workshop Europe, returning to New Leudong in 1858.
+    extract from Peðer Hetsong's semi-autobiographical 1864 trevold The Land of Golden Lies and Sugared Fire (published originally in New Leudong Cambrick by Allourian Editions), one of the first Angelican works of literature to enjoy Vetomundane success. Hetsong was of both Cathayan and British heritage, and spent his early adulthood travelling around Workshop Europe, returning to New Leudong in 1858.
 
 Matheu aye malaiç e calt tandic i mene y patrician Morracan tras y manoir assombrið.
 Matthew felt queasy and hot as he led the Morrack gentleman through the darkened house.
@@ -3443,7 +3443,7 @@ Besides that, there was the question of whether Lady Mackay was, in fact, expect
 Ða l'en er, volois i noc luy digr la yon se situa sy cambr ?
 If she were, wouldn't she have told him where her bedroom was?
 
-Gou Makei se creye starc – e Matheu stima y domn pos un bon defis leyar por loit contr un joun domn de bel figleç calscon, s'il surcayeurn con rasc e cavel remorcað – ma pos i l'un leyar por loit contr un segr adult ?
+Gou Makei se creye starc – e Matheu stima y domn pos un bon defis leyar por loit contr un joun domn de bel figleç calscon, ða ðe surcayeurn con rasc e cavel remorcað – ma pos i l'un leyar por loit contr un segr adult ?
 Lady Mackay thought she was tough—and Matthew reckoned she could hold her own against any other gently-reared young lady, if it came to scratching and pulling hair—but would she be able to against a grown man?
 
 Or, toll'oc for s'i no'r total raut de sy host nocturnal recevir, com ja pos i star.
@@ -3546,7 +3546,7 @@ The path from the tavern snaked past the forge and the herbalists, past clusters
 Pre poðe Tomaş parolar, Andŗey tornau luy spiar, e la sta uncos pogntous e rendent tait ne sull'ogl. Sou y fosc meðes, Tomaş n'aye alcun defy ne l'acier ag massoir d'Andŗey ben l'ort de sy menton veint.
 Before Tomaş could speak, Andŗey turned to look at him, and there was something sharp and silencing in his eyes. Even in the darkness, Tomaş had no trouble seeing the steely set to Andŗey's jaw, the lift of his chin. 
 
-“Jo crey deïr te digr ig jo's t'amoraçað,” dis Andŗey, e con tan Tomaş forn condoit a y ci pousson de sy cour rendr stabr, il luy scapaurn comoscon slançant. “Me compt noc ða scey un part de tey, oc y bempart usant meðes, ancour Alexia amant ; saivað ig j'ay my gant jait dessou. Ða jamay te dis jo noc ig mell'auror e mell'occas son y tien, jo sceus noc me pardonnar.”
+“Jo crey deïr te digr ig jo's t'amoraçað,” dis Andŗey, e con tan Tomaş forn condoit a y ci pousson de sy cour rendr stabr, ðe luy scapaurn comoscon slançant. “Me compt noc ða scey un part de tey, oc y bempart usant meðes, ancour Alexia amant ; saivað ig j'ay my gant jait dessou. Ða jamay te dis jo noc ig mell'auror e mell'occas son y tien, jo sceus noc me pardonnar.”
 “I think I ought to tell you that I'm in love with you,” Andŗey said, and though Tomaş had been trained to steady the beating of his heart, he found it racing away from him. “It doesn't matter to me if part of you, even most of you, still loves Alexia; know that my gauntlet is cast. If I never told you that my sun rises and sets with you, I should never forgive myself.”
 
 ##
@@ -3575,7 +3575,7 @@ in formal writing to shun, to not acknowledge
 
 < 12C in Old Boral desmetre “to send away, to reject”, modelled after Latin dīmittō “I dismiss”, from dis- “apart, away” and mittō “I send, I release”. Senses of shunning from 14C in religious contexts and 16C more generally. Modern meaning from 19C, replacing laiscar “to leave, to let go”.
 
-    Horreð vos il veln vos desmettr ða vos lou refusað ?
+    Horreð vos ðe veln vos desmettr ða vos lou refusað ?
 
     Are you scared they'll fire you if you refuse?
 
@@ -3613,7 +3613,7 @@ For several decades, thus, mainstream theory held only two opinions on the mecha
 
 19m Jugn
 
-massar /maˈsaʀ/ [mɐˈsɑː] to chew, also to make a fuss over, to escalate a situation
+massar /maˈsaʀ/ [mɐˈsɐː] to chew, also to make a fuss over, to escalate a situation
 
 also massoir /maˈsɔjʀ/ [mɐˈsɔjɐ] jawbone, jawline
 
@@ -3693,7 +3693,7 @@ pelur /peˈlɪʀ/ [pɪˈlɪː] hide, pelt, fur (hairs or clothing material), als
 
 23m Jugn
 
-loitar /lɔjˈtɑʀ/ [lʊjˈtɑː] to rent out, to let, to lease
+loitar /lɔjˈtɑʀ/ [lʊjˈtɐː] to rent out, to let, to lease
 
 < 9C, in Old Boral loitar “to lease”, itself from Latin locitō with the same meaning.
 
@@ -3722,7 +3722,7 @@ La no's largeç a collocq sur y nouç casel jusc y paç lonc ag fin dy siecr ogt
 There is little discussion of the kernel until the long peace at the end of the eighteenth century, amidst the Decadence of Belgrade and the Mendevan Unmooring.
 
 Par surcresc, inconnuð es l'hom preu apponent ig ny nouç assey y lengaç vital a Desselut, ma l'idea au y maglur scholastic parvas cos enter (dy Vetomund toð cas) pre annað 1813.
-Moreover, it is unclear who first proposed that the kernel might house Desselut's vital language, but the idea had thoroughly percolated at least the Vetomundine scholastic mesh by 1813.
+Moreover, it is unclear who first proposed that the kernel might house Desselut's vital language, but the idea had thoroughly percolated at least the Vetomundane scholastic mesh by 1813.
 
 L'oc annað, y theorist Gorjatic Manesc Camdar editau sull'interrogment ny fecondation a spogn marin, parcevent ig y nouç casel de sperm unisc coll'ig nouç dell'ou.
 In this year, Gurjat theorist Manesh Camdar published his research on fecundation [fertilisation] in marine sponges, observing that the kernel of sperm unites with that of the egg.
@@ -3787,7 +3787,7 @@ Method
 
 28m Jugn
 
-stikettar /ˌsti.keˈtaʀ/ [ˌsti.kɪˈtɑː] to label, to tag, to annotate
+stikettar /ˌsti.keˈtaʀ/ [ˌsti.kɪˈtɐː] to label, to tag, to annotate
 
 < 16C, verbal derivation from Middle Boral stiket “label, tag”, borrowed 13C from Middle French estiquete “ticket, memorandum”, via an Old French verb taken from Frankish stickan “to stick, to pierce”, originally from Classical German sticanam, having the same meaning.
 
@@ -3856,7 +3856,7 @@ and par surcresc in addition, moreover, furthermore (from 16C, probably influenc
 
 2m Juglot
 
-parvar /paʀˈvaʀ/ [pɐːˈvɑː] to percolate, to spread throughout, to infuse, to seep, to pervade
+parvar /paʀˈvaʀ/ [pɐːˈvɐː] to percolate, to spread throughout, to infuse, to seep, to pervade
 
 < literally “to go throughout”, a Middle Boral derivation from var “to go” < Latin vādō “I go” with the prefix par- < Latin per-, an intensive or completive affix. Attested from 15C, originally in competition with regularised parvadar~pervadar (cf. French parvader, pervazir—this from Burgundian, etc.), but these are lost by the early seventeenth century.
 
@@ -3904,7 +3904,7 @@ and fil maglur lace (fabric), literally meshwork thread
 
 < 15C, early Middle Boral maȝlur(e) “net, meshwork”, from magl “mesh, net” < Vulgar Latin macla < Latin macula “link, mesh, hole, cell, spot”. Derivation with nominal suffix -ur(e) creating usually-abstract nouns, from Latin -(ā)tūra with rebracketing.
 
-    Covrað vossy ci plant mogn con manton a maglur fin cas ig il cain paut.
+    Covrað vossy ci plant mogn con manton a maglur fin cas ig ðe cain paut.
 
     Cover your shorter plants with a fine mesh sheet so that animals don't eat them.
 
@@ -3936,7 +3936,7 @@ The German Empire at the height of the Second Tetrarchy in 1120 N is characteris
 
 7m Juglot
 
-livr tellard /ˈli.vʀ̩ teˈlaʀd/ [ˌli.vɐ tɪˈlɑːd] atlas, mapbook; guide, (metaphorically) blueprint
+livr tellard /ˈli.vʀ̩ teˈlaʀd/ [ˌli.vɐ tɪˈlɐːd] atlas, mapbook; guide, (metaphorically) blueprint
 
 also simply tellard, esp since late 19C
 
@@ -4022,14 +4022,14 @@ that is, a deceptively easy or appealing decision of series of decisions, which 
 
     taken from The Latin Republics: Jewels under Tyrian Standards by Jacob Trelaune, published 1902 by the Yievle Brethin Primers and translated into Borlish when it was republished in the 1940s.
 
-Malgrað, piratary spas graç all'Abanc Novomondin ne 1471 eð all'Ascendanç vascon coherent. A Marsegl, la stan gazou frequent aðief por ig plusour ageurn com ða y citað fos occupað ; donc y risc fuyeurn heilant vars scurtað certanessem.
-However, piracy thrived with the Novomundine landfall in 1471 and the accompanying Ascendancy of Vascony. In Marsella, the raiding became so frequent that many behaved as though the city were occupied, the wealthy fleeing to safer pastures inland.
+Malgrað, piratary spas graç all'Abanc Novomondan ne 1471 eð all'Ascendanç vascon coherent. A Marsegl, la stan gazou frequent aðief por ig plusour ageurn com ða y citað fos occupað ; donc y risc fuyeurn heilant vars scurtað certanessem.
+However, piracy thrived with the Novomundane landfall in 1471 and the accompanying Ascendancy of Vascony. In Marsella, the raiding became so frequent that many behaved as though the city were occupied, the wealthy fleeing to safer pastures inland.
 
 Y ci rekest por aïðanç stant fait a Rudolf VIII remaneurn plurem lon respos. Por cartað, l'er parcanç divertið pall'ig conflict bavarian continu, ma cos usual nos dirreu y rey joun er just curant for a luy (ben a cost de luy, a sell'amour nombrous) eð a festeul spendent sur lac.
 The aid requests presented to Rudolf VIII went largely unanswered. Charitably, one might say he was distracted by the ongoing Bavarian conflict, but it is generally allowed that the young king was simply concerned only with himself (or by extension his many lovers) and with resplendent lakeside banquets.
 
-Toð yemoy sell'Ersteigon ag closiscment dy siecr cinqueç. Segr Daniel Menton dy lign Amigòt au y soutien de Marc V de Franç garantið, coll'astuç dy general-orphan Guillen daus Sanz. Cossy preparað, luy e plusour famigl nobr d'autr deposern libertað deur Genef y veint-primer Jugn 1499.
-Things came to a head in the last years of the fifteenth century. Lord Daniel Menton of the house of Amigòt had secured the aid of King Marc V of France, on the advice of the foundling-general Guillen daus Sanz. Thus prepared, he and several other noble families declared independence from Geneva on the twenty-first of June, 1499.
+Toð yemoy sell'Ersteigon ag closiscment dy siecr cinqueç. Segr Daniel Menton dy lign Amigòt au y soutien de Marc V de Franç garantið, coll'astuç dy general-orphan Guillen daus Sanz. Cossy preparað, luy e plusour famigl nobr d'autr deposern libertað deur Genef y veint-primer Jugn 1497.
+Things came to a head in the last years of the fifteenth century. Lord Daniel Menton of the house of Amigòt had secured the aid of King Marc V of France, on the advice of the foundling-general Guillen daus Sanz. Thus prepared, he and several other noble families declared independence from Geneva on the twenty-first of June, 1497.
 
 ##
 
@@ -4122,7 +4122,7 @@ Calamine, or igniac jast [zinc oxide], is a substance known since antiquity acro
 Ig inclus, ag siecr 3aN ja ern y Roman calamin benoçant por bras forgar, n'oc fondent con cuivr.
 For example, as early as the 3rd century aN the Romans were using calamine to make brass, by smelting it with copper.
 
-Plusour scet, y sestertius parmig (veyað y starç, un scet borlesc postimperial) fosn quinað ne bras posc y reform augustin de 23aN—il ig nommaurn orichalcum.
+Plusour scet, y sestertius parmig (veyað y starç, un scet borlesc postimperial) fosn quinað ne bras posc y reform augustin de 23aN—ðe ig nommaurn orichalcum.
 Several coins, including the sestertius (cf. the starce, an early Borlish coin) were minted from brass after the 23aN Augustine reforms—they called it orichalcum.
 
 Calamin a y parsan d'orteyanç eð autr machy a piel soutenuð ny remed tras annað millener, eð ancour sarf i de nossy jorn com part ne crem a cavel.
@@ -4259,13 +4259,13 @@ also zetrar /zeˈtʀaʀ/ make a note, write down a memo
 
     /ˌle.diˈtsjɔn di ˈzɛ.tʀ̩ ˌxan.daˈluz daʀˈtsjɪld* ˌa.kɪʀˈto kant ˌnɪn.sɔʀˈgɛnts/
 
-*someone with a better accent might have [dɑːˈtʃʉːd].
+*someone with a better accent might have [dɐːˈtʃʉːd].
 
 ##
 
 26m Juglot
 
-facsimilar /fakˌsi.miˈlaʀ/ [fɐkˌsi.mɪˈlɑː] to duplicate, to replicate, to copy
+facsimilar /fakˌsi.miˈlaʀ/ [fɐkˌsi.mɪˈlɐː] to duplicate, to replicate, to copy
 
 < 18C, derived from adjective/noun facsimile “exact copy, duplicate”, a 16C borrowing from Scholastic Latin phrase fac simile “make similar”. See also late 19C Borlish tachygraph [typewriter] brand Faxim, a clipping of these.
 
@@ -4355,7 +4355,7 @@ Instead she remained standing at the bar, keys in her left hand and a gratifying
 
 31r Juglot
 
-svoccar /svoˈkaʀ/ [zvʊˈkɑː] bring up, mention, remind (sb) of
+svoccar /svoˈkaʀ/ [zvʊˈkɐː] bring up, mention, remind (sb) of
 
 < first attested 14C as esvocar “call forth, summon”, either directly taken/calqued from Latin ēvocō “I lure, entice, summon” or a synchronic derivation from vocar “call, ask for, backon”, itself from Latin vocō with the same sense.
 
@@ -4391,7 +4391,7 @@ in particular, y vertað suraðoir to exaggerate the truth
 
 Often cited is a labour shortage of serfs due to the Second Great Dying, allowing those peasants who remained to demand more favourable conditions from their lords. This is evidenced by the correlation [Iscombe 1967] observed between population loss and liberalisation (as well as how quickly the nascent middle class grew). For example, Borland under Joseph III lost over four hundred thousand people, one-seventh of its population; serfdom (already on its last legs) was legally abolished in 1564 N, but by that point it had not de facto existed on the island for a generation.
 
-One counterexample to the above trend is Vascony, which, thanks to Novomundine profits in furs and other goods, actually saw in increase in population from 1500 to 1550 (excluding Portingale) due to immigration. The end of the Vascon Ascendancy with the War of the Two Queens would end feudalism in Vascony by the end of the century, however.
+One counterexample to the above trend is Vascony, which, thanks to Novomundane profits in furs and other goods, actually saw in increase in population from 1500 to 1550 (excluding Portingale) due to immigration. The end of the Vascon Ascendancy with the War of the Two Queens would end feudalism in Vascony by the end of the century, however.
 
 (It is worth mentioning that this was not the main factor in ending feudalism in the east, where the Islamic conquests of Kiew and Russian Cazany upended the nobility more directly.)
 
@@ -4401,7 +4401,7 @@ One, perhaps unexpected, effect of the decline of the feudal system was the stre
 
 3m Aost
 
-davarn /daˈvaʀn/ [dɐˈvɑːn] resort, grand hotel
+davarn /daˈvaʀn/ [dɐˈvɐːn] resort, grand hotel
 
 (in opposition to an inn or hostel)
 
@@ -4455,7 +4455,7 @@ He restarted the Mallor Wars with the Sack of Car Vantel (Rexam) in 1301 N, duri
 
 6m Aost
 
-ajoutar /ˌa.ʒuˈtaʀ/ [ˌa.ʝʊˈtɑː] to gratify, to please, to help out
+ajoutar /ˌa.ʒuˈtaʀ/ [ˌa.ʝʊˈtɐː] to gratify, to please, to help out
 
 that is, to make (someone) thankful or pleased
 
@@ -4477,7 +4477,7 @@ that is, the southwesternmost part of Albion [Great Britain]
 
 also dorogner from Devon, from Cornwall
 
-< 12C in Old Boral as Doroȝne “Devon”, from earlier Donnoȝna, itself from Latin Dumnonia “land of the Dumnonii”, referring to the British group resident there in Roman times. The Latin comes from the Classical British root duβn “deep”, related to Cambrick dωvn “deep”. See also French Dourogne, Leon Domnòix with the same sense.
+< 12C in Old Boral as Doroȝne “Devon”, from earlier Donnoȝna, itself from Latin Dumnonia “land of the Dumnonii”, referring to the British group resident there in Roman times. The Latin comes from the Classical British root duβn “deep”, related to Cambrick dwvn “deep”. See also French Dourogne, Leon Domnòix with the same sense.
 
     Y preu havan y nogt passað la ne tar brittesc es Iscom, a Dorogn.
 
@@ -4491,7 +4491,7 @@ also dorogner from Devon, from Cornwall
 
     taken from textbook Albic Medicine in the Workshop Decades, Part V: Alchemic Detaxion, written by Dr Harold Westcamp and published 1994 by the Conster Health Edifice, funded by the Markland Ministry for Health.
 
-…as in the writing of physician Dr Mickel Cráyenschot, noted for being an early supporter of Deviance Theology and public tovarick in France even as it embraced the Modest Arrangement.
+…as in the writing of physician Dr Mickel Cráyenshot, noted for being an early supporter of Deviance Theology and public tovarick in France even as it embraced the Modest Arrangement.
 
 But the application of copper's counter-zoic [anti-microbial] manner with the furthest-reaching consequences can only be the stauron retainer [intra-uterine device]. Nonetheless it is important to separate our modern point of view from the contemporary. What seem to us like obvious components of the retainer often took dozens of years to innovate. For example, the T-cross of the modern retainer doesn't arise until the St. Agrippina Medical House 1877 patent—earlier designs included rings and helices!
 
@@ -4503,11 +4503,11 @@ In fact, Ivarrachezurí published these findings as a warning to other farmers a
 
 9m Aost
 
-sar /saʀ/ [sɑː] net, fishnet, mesh, also in general a network, an interconnected system
+sar /saʀ/ [sɐː] net, fishnet, mesh, also in general a network, an interconnected system
 
 in particular y sar (epistol), literally “the letter mesh”, referring to the global network of communication devices and other computers, known in English as “the mesh”.
 
-< 12C, from Vask sare “net”, one of the many naval words taken from Vascon fishermen and later from their sea-traders: see hagr “mast” and bakilau “cod”, also from Vask. Extension to general networks first attested 1836; use for the mesh calqued from French mail épistre, itself a reference to 1968 parachthon tale Starsail, published in Rone by Ashford Pasquier.
+< 12C, from Vask sare “net”, one of the many naval words taken from Vascon fishermen and later from their sea-traders: see hagr “mast” and bakilau “cod”, also from Vask. Extension to general networks first attested 1836; use for the mesh calqued from French mail épistre, itself a reference to 1968 parachthon tale Starsail, published in Roun by Ashford Pasquier.
 
     Posc pieç minut er y sar remorcað des y mar torvant.
 
@@ -4540,8 +4540,8 @@ literally set war loose, release war
 Parcanç es i temerer, y decadenç a trevogt blasmar unic ag morostað n'Europ posc y var.
 It is perhaps foolhardy to attribute the decline of Voidtale trevolds solely to the gloom of post-war Europe.
 
-Nos posseu tan digr, parmig, l'idea de novel œcumen splorar e de novel cultur encontrar n'au plu attragnt ; l'ovartur caddicivenean laiscau pog “tar enigmatic” por descovrir,
-We might say, for example, that the idea of exploring new lands and meeting new civilisations had lost its shine, with the opening of Caddicivene leaving few “mysterious lands” to discover,
+Nos posseu tan digr, parmig, l'idea de novel œcumen splorar e de novel cultur encontrar n'au plu attragnt ; l'ovartur Caddisovan laiscau pog “tar enigmatic” por descovrir,
+We might say, for example, that the idea of exploring new lands and meeting new civilisations had lost its shine, with the opening of Caddisow leaving few “mysterious lands” to discover,
 
 eð y sar campaner defassant parmis a gent ne toð loy de communeyar cos veloç fort may (particuler, apprendr ig politia lontan stan magn ordineressem a sy figuration!)
 and the developing steeple-mesh allowing people everywhere to communicate far more rapidly (in particular, to discover that distant nations were often much less exotic than one imagined!).
@@ -4586,7 +4586,7 @@ informally, un stauron or (rarely) un retenour
 
 y plurem /i ˈpli.ʀɛm/ [ɪ ˈpli.ʀɪm] for the most part, particularly, especially
 
-< 14C in Middle Boral i plurm “mostly” (various spellings), literally “the greatest amount”. The determiner from Old Boral il “the”, from Latin ille “that”, probably via a vulgar form īle. The noun is a direct descendant of Latin adjective plūrimus “the most, very many”, suppletive superlative form of multus “many” (modern Boral mout “often”).
+< 14C in Middle Boral i plurm “mostly” (various spellings), literally “the greatest amount”. The determiner from Old Boral ðe “the”, from Latin ille “that”, probably via a vulgar form īle. The noun is a direct descendant of Latin adjective plūrimus “the most, very many”, suppletive superlative form of multus “many” (modern Boral mout “often”).
 
     J'am noc y plurem raðar a Ausçagm ; la son tombr demay.
 
@@ -4598,7 +4598,7 @@ y plurem /i ˈpli.ʀɛm/ [ɪ ˈpli.ʀɪm] for the most part, particularly, espec
 
 15m Aost
 
-    from the collected study notes for the course 1471–1517: War, Peace and Exploration after the Novomundine Landfall, 37th avenue in Concurrence History at the Tremonnow Open School.
+    from the collected study notes for the course 1471–1517: War, Peace and Exploration after the Novomundane Landfall, 37th avenue in Concurrence History at the Tremonnow Open School.
 
 Of course, Vascony was not the only nearby state attempting to reach Asia by sea. Ambrose's nemesis Munir al-Hamdawi of Morrack had in 1463 established a rival marine enterprise in the New World Company (شركة العالم الجديد), and just five years later the ship Orion (الجَبَار) voyaged from Anfa [Casablanca] to Aden. They made port in Vascon Sant Adrian [Bioko] and encountered Chinese merchants in Mombasa, whose reports to the Southern Emperor would change the course of history forever (see 1524-1600: The Collision and the Fracture).
 
@@ -4612,7 +4612,7 @@ Meanwhile, the Cynthia under al-Casmi (himself a Persian immigrant to Morrack) h
 
 16m Aost
 
-raðar /ʀaˈðaʀ/ [ʀɐˈðɑː] to cycle, to ride a bike
+raðar /ʀaˈðaʀ/ [ʀɐˈðɐː] to cycle, to ride a bike
 
 < early 20C, shortened along with rað “bicycle” from 19C heverrað “bicycle, velocipede”. This borrowed from Saxon heverrath (retention of the fricative suggests a coastal source, perhaps) “bicycle”, from hevel “lever, pedal” and rath “wheel”.
 
@@ -4634,7 +4634,7 @@ It is during the fourteenth century that we see true standardisation of the medi
 Y Reyaum a Boral dell'oc hour triant parmig, Lyce Noccair addoceu sy studiant nell'eç Cinq Art Romannesc.
 For example, in the Kingdom of Borland at this time, Noccair Lyceum taught its students the Five Romantic Arts.
 
-L'eç stan de natur l'art prosequent dy set domain classic a studiar (e fort ern il tan connuð contemporane par nom d'art classic ben liberal).
+L'eç stan de natur l'art prosequent dy set domain classic a studiar (e fort ern ðe tan connuð contemporane par nom d'art classic ben liberal).
 These were in essence the descendants of the seven Classical areas of study (and indeed they were also known at the time as the Classical or liberal arts).
 
 Y Cinq Art ern Literatur, Argument, Accont, Geometry e Music.
@@ -4675,19 +4675,19 @@ prosequent /ˌpʀo.zeˈkwɛnt/ descendant, progeny, something proceeding from a 
 
 20m Aost
 
-       from the collected study notes for the course 1471–1517: War, Peace and Exploration after the Novomundine Landfall, 37th avenue in Concurrence History at the Tremonnow Open School.
+       from the collected study notes for the course 1471–1517: War, Peace and Exploration after the Novomundane Landfall, 37th avenue in Concurrence History at the Tremonnow Open School.
 
 …the south-eastern extremity of the known Vetomund.
 
-Meanwhile, the Cynthia under al-Casmi (himself a Persian immigrant to Morrack) had no less interesting a journey. First making port at the various Arcabil and Meridian outposts, already a significant source of wealth, the ship continued along the Cappatian coast*. Here in al-Casmi's logbooks we read of the Dowahin straits and island (from the Arabic for “smoke”, after the many smoke-towers the captain writes of seeing the inhabitants of the island build, and which dissuaded him from making landfall thereon).
+Meanwhile, the Cynthia under al-Casmi (himself a Persian immigrant to Morrack) had no less interesting a journey. First making port at the various Arcabil and Meridian outposts, already a significant source of wealth, the ship continued along the Cappatian coast*. Here in al-Casmi's logbooks we read of the Dovachin straits and island (from the Arabic for “smoke”, after the many smoke-towers the captain writes of seeing the inhabitants of the island build, and which dissuaded him from making landfall thereon).
 
 (*Remember that the continent would not be so named for several more decades yet.)
 
-But the bulk of the Cynthia's journey would come next, as the ship entered the southern Horizic Ocean. At first they sailed north along the jagged coastline, possibly as far as Maboutian lands, although al-Casmis records are unclear. In any case they eventually sailed west into the blue. It is not entirely clear which Horizic Isles the Cynthia encountered on this part of the voyage. What is known is that on midsummer of 1515 they alighted on Jazirat Asnam (the encounter being infamous for its acrimony), and that on 11 Shaban 921 the crew began to perform the salat forward, not aft, as the astronomer aboard—one Taisir as-Sadik—predicted they had passed the longitude of the antipode of Mecca.*
+But the bulk of the Cynthia's journey would come next, as the ship entered the southern Lovac Ocean. At first they sailed north along the jagged coastline, possibly as far as Maboutian lands, although al-Casmis records are unclear. In any case they eventually sailed west into the blue. It is not entirely clear which Lovac Isles the Cynthia encountered on this part of the voyage. What is known is that on midsummer of 1515 they alighted on Jazirat Asnam (the encounter being infamous for its acrimony), and that on 11 Shaban 921 the crew began to perform the salat forward, not aft, as the astronomer aboard—one Taisir as-Sadik—predict	ed they had passed the longitude of the antipode of Mecca.*
 
 (*Further recall that truly accurate longitude measurement would not be achieved until the invention of the timehold in the mid-seventeenth century.)
 
-The next spring the Cynthia finally arrived in a place almost recognisable as Asia, though the inhabitants were as dark-skinned as anyone in the Arab world. This archipelago was hence named Asia Cahal (or in modern parlance Cahalla), and in the records of al-Casmi's time on Bijai (the largest island thereof) there is an account of an old folktale; one which will explain why the Cynthia, on leaving Bijai, went not west, but south…
+The next spring the Cynthia finally arrived in a place almost recognisable as Asia, though the inhabitants were as dark-skinned as anyone in the Arab world. This archipelago was hence named Asia Cahal (or in modern parlance Cahalla)…
 
 ##
 
@@ -4773,7 +4773,7 @@ diminoir /ˌdi.miˈnɔjʀ/ [ˌdi.mɪˈnɔ.jɐ] to weaken, shrink, decline, dimin
 
 26m Aost
 
-    questions taken from the January 2003 N scitation documents for the course 1471 - 1517: War, Peace and Exploration after the Novomundine Landfall, 37th avenue in Concurrence History at the Tremonnow Open School (formerly the Brethin Mesh Institute). [continued from 13m Avril]
+    questions taken from the January 2003 N scitation documents for the course 1471 - 1517: War, Peace and Exploration after the Novomundane Landfall, 37th avenue in Concurrence History at the Tremonnow Open School (formerly the Brethin Mesh Institute). [continued from 13m Avril]
 
 Question 3 (sixty minutes)
 
@@ -4795,13 +4795,13 @@ EITHER
 
 OR
 
-(ii) Discuss the societal effects of the reintroduction of long-distance boating and sail on the Tecamaw nation and the Bijai, with evidence taken from the various written records of the Borunesk Great Meeting of 1517.
+(ii) Discuss the societal effects of the reintroduction of long-distance boating and sail on the Tecamaw nation and the Bidia, with evidence taken from the various written records of the Borunesk Great Meeting of 1517.
 
 ##
 
 27m Aost
 
-coul tar /kul taʀ/ [kuː tɑː] landslide, rockslide, avalanche (both literally and metaphorically—a deluge of tasks or other unwanted things)
+coul tar /kul taʀ/ [kuː tɐː] landslide, rockslide, avalanche (both literally and metaphorically—a deluge of tasks or other unwanted things)
 
 > 15C, literally “flow of earth”, from coul “flow” (now obsoleted by newer colanç), a deverbal of colar “to flow” < Latin cōlō “I strain, filter” plus tar “earth”, directly from Latin terra “ground, soil, dirt”. The word coul is nowadays used only in this expression and, lately, one-time formations such as coul livr “book-slide”, etc.
 
@@ -4836,7 +4836,7 @@ cim forgað /ˈtsɪm fɔʀˈgaθ/ [ˌtsɪɱ.fʊːˈgah] seasoned expert, person 
 De Roger e Carolin d'Avosc nascoirn ogt ivan, dont Adagle sta tressem.
 Roger and Caroline d'Avosche had eight children, and Adaillé was the third.
 
-Sy dou fraðr antir moroy com sugtour (un certan desig Scon Grant Morrenç), tan com sy fraðr postir Peðr, e sy jounessem sour Anna.
+Sy dou fraðr antir moroy com sugtour (un certan desig Scon Grant Morenç), tan com sy fraðr postir Peðr, e sy jounessem sour Anna.
 Her two older brothers died in infancy (at least one in the Second Great Dying), as well as her younger brother Peter, and her youngest sister Anne.
 
 Cossy sta i durant y grant plurem ag jouneç l'heriter appos dy ducað.
@@ -4951,7 +4951,7 @@ and Claire stands at a grave and rediscovers what it means to have purpose.
 
 5m Septembr
 
-parnommar /ˌpaʀ.noˈmaʀ/ [ˌpɑː.nʊˈmɑː] to celebrate, make famous, idolise, canonise, worship
+parnommar /ˌpaʀ.noˈmaʀ/ [ˌpɐː.nʊˈmɐː] to celebrate, make famous, idolise, canonise, worship
 
 < 12C parnomar “to canonise” but probably earlier, seen especially in religious contexts as a vernacular translation of Latin canōnizō “I recognise as a saint”. Formed from par- “through, thoroughly” < Latin per- with nommar “to name, to call, to recognise as”, a verbal derivation from nom “name”. Extended to secular use by 15C. Nowadays most common as the participle parnommað “famous, celebrated”.
 
@@ -5135,10 +5135,10 @@ The new road will make it easier to ferry goods to Dambourne.
 
 15m Septembr
 
-març /ˈmarts/ [ˈmɑːs] goods, wares, products; things to sell, produce or trade
+març /ˈmarts/ [ˈmɐːs] goods, wares, products; things to sell, produce or trade
 
-also adjective marcer /marˈtsɛr/ [mɑːˈtsɛː] commercial, relating to trade
-commarç /koˈmarts/ [kʊˈmɑːs] trade, commerce, exchange
+also adjective marcer /marˈtsɛr/ [mɐːˈtsɛː] commercial, relating to trade
+commarç /koˈmarts/ [kʊˈmɐːs] trade, commerce, exchange
 
 < first attested 10C in Old Boral març “wares”, seen used as the equivalent of Old English ƿara “wares”. This comes from Latin merx “merchandise, commodity”. Abstract noun commarç < commercium may have had influence on the specific sound changes. Adjective marcer in use from 14C, with ending -er < Latin -ārius, which forms adjectives from nouns and verbs.
 
@@ -5273,7 +5273,7 @@ variant in -s of -r conjugation (past participle spas)
 suggernt ig, com outem, i no'r for comfiabr tandic y ci envou a JY no fosn y ci a Collujon combattent sou ciel ovart.
 suggesting that, at best, he could only be trusted as long as JY's interests weren't in open conflict with the Collusion's.
 
-Parveg s'entrova Benjamin carraçon il apponen tout ig, s'y Bel Joy denoy violent, JY vel obligað sociar con Vascony.
+Parveg s'entrova Benjamin carraçon ðe apponen tout ig, s'y Bel Joy denoy violent, JY vel obligað sociar con Vascony.
 Benjamin sometimes wondered why they assumed that, if the Good Game became violent, JY would automatically side with Vascony.
 
 I sta un organisment tras tarm, cas final. Calscon parmy pos fieltað descovrir sevrað.
@@ -5329,7 +5329,7 @@ We must look at early Bardwick, which along with Hamburg and Lunburg comprised t
 
 26m Septembr
 
-prepondrar /ˌpre.pɔnˈdrar/ [ˌpʀe.pʊnˈdʀɑː] to preponderate, be in the majority, outnumber, outweigh
+prepondrar /ˌpre.pɔnˈdrar/ [ˌpʀe.pʊnˈdʀɐː] to preponderate, be in the majority, outnumber, outweigh
 
 < late 15C, from Latin præponderō “I outweigh, preponderate” and modelled synchronically as pre- with pondrar “to weigh down, sag, be heavy, encumber”. This is from Latin ponderō “I weigh, ponder, weigh up”, a verbal derivation of pondus “weight” (see also modern Boral pendr “to hang, drape”, a cognate).
 
@@ -5372,7 +5372,7 @@ manouvr /maˈnu.vr̩/ [mɐˈnu.vɐ] tactic, manœuvre, turn (of a game), act
 
 29m Septembr
 
-reitfiar /ritˈfjar/ [ʀɪtˈfjɑː] to solidify, strengthen, fix in place
+reitfiar /ritˈfjar/ [ʀɪtˈfjɐː] to solidify, strengthen, fix in place
 
 < in Middle Boral from 14C, verbal derivation from reit “rigid, stiff, solid” with factitive suffix -fiar < Latin -ficō. The adjective comes regularly from Latin rigidus “stuff, rigid, inflexible”. Some semantic bleed from rectifiar “to straighten out, put to order, rectify” seems likely.
 
@@ -5406,7 +5406,7 @@ voutaç /vuˈtats/ witch, sorcerer, warlock
     “It is not only their strange ideas and lonely, nihilist universe, dear Thifäne, but that so many of their number have approached me as if I were their most natural ally!”
     Indeed, Durgh'nen Shorzen Shouer was perhaps more likely to appear on the bookshelves of any given radical than even Les Fux, having a far more easily-deniable significance to the movement…
 
-…most often-overlooked is music. Plausibly this may be a victim of its own success: until the latter half of the century no part of Anti-Paradise Thought was as popular as its composers. Granted, not many were so blatant as Cráyenschot (son of physician Mickel), who in 1814 published Ad Pentaculum, an opera marked entirely in five. The music of Deviance composers emphasised emotion and the manipulation of the audience, and listeners from Deganny to Baldran found themselves enchanted…
+…most often-overlooked is music. Plausibly this may be a victim of its own success: until the latter half of the century no part of Anti-Paradise Thought was as popular as its composers. Granted, not many were so blatant as Cráyenshot (son of physician Mickel), who in 1814 published Ad Pentaculum, an opera marked entirely in five. The music of Deviance composers emphasised emotion and the manipulation of the audience, and listeners from Deganny to Baldran found themselves enchanted…
 
 …notoriously-Modest Vascony was numbered. Perhaps no other country was so entirely transformed by the ending of the Long Peace. Although at first the Vallabrì administration managed to watch the Second German War from afar, once its interests in Mendeva and the East were threatened, King Hernand had no choice but to declare for the Convoy.
     The dryhdu herself has ensured the tale of Antòin Herrel (Tony Smith) has lately entered common knowledge, but his
@@ -5497,7 +5497,7 @@ jammel /ʒaˈmɛl/ [ʝɐˈmɛw] twin, couple, identical pair
 
 …example of early international cooperation, the Bordew-Audaz canal was finally completed in 1679, following over a decade of delays due ultimately to Vascony's losses to Andalus in the south.
 
-These great infrastrusture projects characterise the Romantic period, although these decades would not gain that appellation for another century. The name is first used after the Democratic Wars, when the latter half of the seventeenth century was seen, nonsensically, as the last golden age of refinement and civilisation. It is hard not to contrast these insular, squabbling European states of the 1660s with, say, the great geoscopic voyages of mac Kellot and al-Casmi of the previous century, or the renewed Novomundine interest of the next.
+These great infrastrusture projects characterise the Romantic period, although these decades would not gain that appellation for another century. The name is first used after the Democratic Wars, when the latter half of the seventeenth century was seen, nonsensically, as the last golden age of refinement and civilisation. It is hard not to contrast these insular, squabbling European states of the 1660s with, say, the great geoscopic voyages of mac Kellot and al-Casmi of the previous century, or the renewed Novomundane interest of the next.
 
 Nonetheless, it is in this time that we can see the familiar modern map begin to emerge across Europe. The shape of Vascony begins to stabilise at last, and to the east the German marksmen and great mayors contemplate, perhaps, the idea of cooperation. Even the fractious religious politics further south threaten to give way to the more secular animosities of popular unrest and land grabs.
 
@@ -5572,7 +5572,7 @@ por gra de /pɔr ˈgra de/ for the sake, benefit of, on behalf of
 
 12m Octobr
 
-demorar /ˌde.moˈrar/ [ˌde.mʊˈʀɑː] to demur, delay, put off, postpone
+demorar /ˌde.moˈrar/ [ˌde.mʊˈʀɐː] to demur, delay, put off, postpone
 
 < 12C in early Middle Boral, taken from Church Latin dēmorāre “to detain, hold up, delay”, a regularisation of deponent Latin verb dēmoror “I detain, linger”, itself derived from mora “delay”. Used especially of evasive speech, with connotation of nefarious motive.
 
@@ -5669,7 +5669,7 @@ tragres /traˈgrɛz/ parade, march, charge
 
 18m Octobr
 
-spuðar/spiˈðar/ [spɪˈðɑː] to reject, abhor, refuse, repel
+spuðar/spiˈðar/ [spɪˈðɐː] to reject, abhor, refuse, repel
 
 < from as early as 8C in Old Boral ispuðar “to reject, spit out, throw out”, also “despise, loathe” (but those senses are lost by Middle Boral). This is from Late Latin exspūtō “I spit out, eject”, a regularisation via the passive participle of third-declension exspuō, which has the same meaning. First used of magnetic material in the fifteenth century, in translation from Classical texts.
 
@@ -5688,7 +5688,7 @@ spuðar/spiˈðar/ [spɪˈðɑː] to reject, abhor, refuse, repel
 ...replaced with new blood as Vréqueu Margouille qualifies for the Kentish team going into the fourth LGT. Despite rumours that lineball is looking westward to Hasiny next year, the bilateral committee has refused to comment.
 
 FILM IN REVIEW
-- Hωn a Kyvodoð (The Ascendant), in odyssey from the 7th of July
+- Hwn a Kyvodoð (The Ascendant), in odyssey from the 7th of July
 
 I shall be honest—the timing of this release so soon after the solstice perhaps let me better indulge the obviously-propagandist elements of Dormaget's latest historical courtly drama. The Vascon Ascendancy is no new ground for the screen, with Agochino's more personal Sou Ambroxo (I am Ambrose) defining the popular perception of Vascony's longest-reigning king. Nevertheless, I find The Ascendant to be a charming retelling of those turbulent years after the 1471 Landfall, not least in its choice to focus on the more minor personages of Ambrose's court.
 
@@ -5703,7 +5703,7 @@ The Ascendant will doubtless be a staple of the summer screen, and it well deser
 
 20m Octobr
 
-nijommar /ˌniˈʒoˈmar/ [ˌni.ʝʊˈmɑː] to bind books, (metaphorically) to compile, to bring together, (in alchemy) to synthesise
+nijommar /ˌniˈʒoˈmar/ [ˌni.ʝʊˈmɐː] to bind books, (metaphorically) to compile, to bring together, (in alchemy) to synthesise
 
 < 10C in Old Boral neȝjo(n)mar, a derivation modelled after earlier neȝjonment, "bookbinding" (modern Boral nijomment "binding, compilation, synthesis"). The noun is presumably a faux derivation from *neȝjon, neȝsion (although these are not attested), from Latin nexiō "tying together, fastening". This is the nominalisation of nectō "I bind, tie, fasten", whence via Middle Boral semi-learned borrowing we also have connectr "to connect,  link up" and connexion "connection, link".
 
@@ -5787,14 +5787,14 @@ At six he could almost always guarantee a seat on the Dusker, even if it was in 
 Certan un hour surrun vole i se habituar a sveilar tost diabr sou y ciel gris-aur a Tommarth e pre un trot freit e soltumesc vars y termin Kibbrogh.
 Surely at some point he would get used to waking up morbidly early to the grey-gold Tommarth sky and a chilly, lonely walk to the Kibbrogh stop.
 
-Challow appis ados e tirau des sy cromn sell'ardois ; la sta dey minut seyon usabr pre il parvenois Cathedral.
+Challow appis ados e tirau des sy cromn sell'ardois ; la sta dey minut seyon usabr pre ðe parvenois Cathedral.
 Challow leant back and reached into his pocket for his slate; he had ten minutes to waste before they'd pull in at Cathedral.
 
 ##
 
 26m Octobr
 
-detaglar /ˌde.tɛjˈlar/ [ˌde.tɪˈlɑː] to (express in) detail, to specify, to explain, to lay out
+detaglar /ˌde.tɛjˈlar/ [ˌde.tɪˈlɐː] to (express in) detail, to specify, to explain, to lay out
 
 < seen 12C in early Middle Boral detaglar “to cut out, to outline, to demarcate”, modelled after taglar “to cut” < Late Latin taliō “I cut, shape” from contemporary French detailler “to cut into (small) pieces, to specify in detail”. See also detagl “detail, complexity”, a deverbal from this verb.
 
@@ -5839,7 +5839,7 @@ Salt the strips of fish and push them into the sauce. Cover the pan and leave fo
 
 29m Octobr
 
-flannar /flaˈnar/ [flɐˈnɑː] to amble, stroll, saunter; to walk leisurely with little intent
+flannar /flaˈnar/ [flɐˈnɐː] to amble, stroll, saunter; to walk leisurely with little intent
 
 < attested from late 10C in Old Boral flanar “rush, act rashly”, probably getting to its modern sense via “stray, go off course” (see the parallel developments in Norman French flanner). The word is most likely borrowed directly from Old Norrish flana “get into a bad situation heedlessly”, or possibly via the Norman.
 
@@ -5875,7 +5875,7 @@ Just as the Danes attributed the thunder to the wrath of Thor, so too we can ima
 
 Most scholars today accept that the various folk traditions of a ghostly hunt stem from a single ancient source, at least in Europe (the similar Lanhyatian stories are of course unrelated). Many of these tales come specifically from the Danes' Oskarrej via cultural transmission in the Viking Age—for example, in Borland the story of the cauç ragnt shows clear signs of Danish origin (not least that it is usually led by Balegr, a common kenning for Odin), but the tales often incorporate the graveyard fiddlers, who are idiosyncratic to the island.
 
-Like so many of these tales, what had been amoral or even virtuous characters in the early mediæval period (see Chapter VI, and the works of Braun & Kindler) were transformed by Christianisation into devils and demonic figures. It should therefore be of no surprise that the early Deviance Movement seized the imagery of the Wild Hunt for themselves. Cráyenschot's celebrated Ad Pentaculum spends much of the runtime detailing Jochem's induction into the Yacht, including one…
+Like so many of these tales, what had been amoral or even virtuous characters in the early mediæval period (see Chapter VI, and the works of Braun & Kindler) were transformed by Christianisation into devils and demonic figures. It should therefore be of no surprise that the early Deviance Movement seized the imagery of the Wild Hunt for themselves. Cráyenshot's celebrated Ad Pentaculum spends much of the runtime detailing Jochem's induction into the Yacht, including one…
 
 ##
 
@@ -5998,7 +5998,7 @@ zoia /zoˈja/ [zʊjˈja] microbe, microorganism; any of the one-celled forms of 
 
 9m Novembr
 
-    excerpt with English translation from the 1872 trevold Un Onomatoir Parçal dy Novel Londr (An Incomplete Dictionary of the New London), written by Hadassa Docquerl, heiress to the barony of Livaucr in the north. Probably the most famous Vetomundine work from the Futurism period of parachthon romance, it follows a tourist in the unspecified future visiting a rebuilt London some decades after it was destroyed in a so-called "Annihilation War". This book is also notable for containing the first use of "slate" to refer to a screen which can display information.
+    excerpt with English translation from the 1872 trevold Un Onomatoir Parçal dy Novel Londr (An Incomplete Dictionary of the New London), written by Hadassa Docquerl, heiress to the barony of Livaucr in the north. Probably the most famous Vetomundane work from the Futurism period of parachthon romance, it follows a tourist in the unspecified future visiting a rebuilt London some decades after it was destroyed in a so-called "Annihilation War". This book is also notable for containing the first use of "slate" to refer to a screen which can display information.
 
 Thomas refey sell'azig e sortoy ny colloir dy carrot, s'affignt all'aucoum a gent attenent descendr.
 Thomas remade his shoes and stood up into the car's corridor, joining the throng of people waiting to disembark.
@@ -6030,7 +6030,7 @@ coyenç /koˈjɛnts/ [kʊjˈjɛns] dam, guard, barrier; prevention, protection
 
 11m Novembr
 
-fissar /fiˈsar/ [fɪˈsɑː] to hiss, fizz, whistle
+fissar /fiˈsar/ [fɪˈsɐː] to hiss, fizz, whistle
 
 < from Middle Boral fisçar "to whistle, hiss, sing (of birds)" (extension to fizzing liquids since 17C, birdsong sense overtaken by kisir around the same time), probably from Late Latin fistulō "I whistle, blow through a pipe". There was likely onomatopoeic alteration in the mediæval period; some even suggest that there is no direct connection to the Latin. Said Latin form is a verbal derivation from fistula "pipe, tube, hollow reed or cane, shepherd's pipe", from findō "I cleave, split".
 
@@ -6078,7 +6078,7 @@ temporane /tɛmˌpo.raˈne/ [tɪmˌpo.ʀɐˈne] contemporary, concurrent, simlut
 
 14m Novembr
 
-scencar /xɛnˈkar/ [çɪŋˈkɑː] to pour (out), to give or offer a drink, to toast (with preposition scencar a)
+scencar /xɛnˈkar/ [çɪŋˈkɐː] to pour (out), to give or offer a drink, to toast (with preposition scencar a)
 
 < 10C in Old Boral scencar /ʃenˈkar/ "to pour, serve a drink", from Old English scencian with the same sense (palatal dissimilation may have occured, or there may be Norrish influence; see also Kentish shink "to spill"). Its use meaning "to toast (someone)" is attested from the thirteenth century.
 
@@ -6147,19 +6147,19 @@ PART B: The Bróderrat Wayports in Cappatia
 
 1. Read the following excerpt from Haddani's notoriously-innaccurate Empire of the Sun and answer the subsequent questions.
 
-“It was the pride of Emperor Matthias II that brought the Germans across the Atlantic in search of new lands and peoples in the mid-sixteenth century. News of the joint Morrack and British voyages had inflamed all Europe with an irrepressible wanderlust, and while the Kazmid and Vascon enterprises had firmly established themselves as sole merchants in eastern Mendeva and Horizic Cappatia, few had yet mapped the Atlantic coastline of Cappatia. Thus there was an attainable goal for the Emperor to assign to the great fleet at his disposal: discover all that these lands had to offer, from Berpittang wood to crimson Mackow feathers.”
+“It was the pride of Emperor Matthias II that brought the Germans across the Atlantic in search of new lands and peoples in the mid-sixteenth century. News of the joint Morrack and British voyages had inflamed all Europe with an irrepressible wanderlust, and while the Kazmid and Vascon enterprises had firmly established themselves as sole merchants in eastern Mendeva and Lovac Cappatia, few had yet mapped the Atlantic coastline of Cappatia. Thus there was an attainable goal for the Emperor to assign to the great fleet at his disposal: discover all that these lands had to offer, from Berpittang wood to crimson Mackow feathers.”
 
 a) With reference to the Neuwillem Bróderratcronike (1561-97), evaluate Haddani's framing of the factors that led to the German exploration of Atlantic Cappatia in the latter half of the sixteenth century.
 
 b) To what extent was Emperor Matthias II (1542-68) able to influence the mercantile decisions of the Stadbund at all? Compare the stance of the Drachman merchant dynasty towards the various monarchic European powers with which they dealt, and the underlying economic conditions leading to these dynamics.
 
-c) How separately can we consider the activities of the Bróderrat in establishing Neuwillem, Parnow and other wayports from the similar activities of Morrack in Mashick and Tavancy; what collaboration and cross-pollination of methods and technologies, if any, occurred between the Vetomundine companies?
+c) How separately can we consider the activities of the Bróderrat in establishing Neuwillem, Parnow and other wayports from the similar activities of Morrack in Mashick and Tavancy; what collaboration and cross-pollination of methods and technologies, if any, occurred between the Vetomundane companies?
 
 ##
 
 19m Novembr
 
-accapellar /aˌka.peˈlar/ [ɐ.ka.pɪˈlɑː] to don a hat, to put a hat on
+accapellar /aˌka.peˈlar/ [ɐ.ka.pɪˈlɐː] to don a hat, to put a hat on
 
 < attested, at least in the past participial form accapellað “wearing a hat” (the only form in productive use, though the finite verb occurs sporadically), since the fourteenth century. It is modelled after other verbs in a-X-ar, such as arrimbandar “to beribbon”, abancar “to make landfall” and akirtar “to ignite”. Specifically, it is derived from capel “hat”, from Vulgar Latin cappellus with the same meaning, itself a diminutive from Latin cappa “cape, cloak”.
 
@@ -6243,7 +6243,7 @@ laçploy /latsˈplɔj/ rain shelter, gazebo
 
 …now arrive on our own shores, for we cannot ignore Monçating any longer.
 
-The sixth Baron Monçating was born to Lord Josua and Lady Evangelin in the winter of 1770 at their estate in Launembrig. Lord Josua, inevitably, was himself a controversial figure in Damvath society for several reasons: having been born in the Cappatian staddomain, having married a noblewoman of Warnine descent (far too recently for Vetomundine sensibilities), and finally having inherited the Barony of Haubrath from his second cousin following a decade-long legal battle (one of the longest legal disputes in Borland history). His decision thereupon to dissolve the senior title and retain only Monçating was the final nail in the coffin for any hope of respectability.
+The sixth Baron Monçating was born to Lord Josua and Lady Evangelin in the winter of 1770 at their estate in Launembrig. Lord Josua, inevitably, was himself a controversial figure in Damvath society for several reasons: having been born in the Cappatian staddomain, having married a noblewoman of Warnine descent (far too recently for Vetomundane sensibilities), and finally having inherited the Barony of Haubrath from his second cousin following a decade-long legal battle (one of the longest legal disputes in Borland history). His decision thereupon to dissolve the senior title and retain only Monçating was the final nail in the coffin for any hope of respectability.
 
 Nonetheless they remained in Borland (complaining endlessly about the climate, if accounts in their acquaintances' letters are to be believed!) and bore six children, of whom our hero Simon was the eldest. Raised in the shadow of scandal, of legal and political battles, Simon Monçating learnt early how thinly-justified the power structures of the world could be. The Launembrig estate hosted regular gatherings of theorists and philosophers; the earliest writings we have in Simon's hand are from a tutor's worksheet carried by accident to Denmark in the papers of Jan Prestr in 1779 (author of Discriptione Bestiarum Suboles Ferentis “On the Classification of the Child-Bearing Beasts”).
 
@@ -6305,7 +6305,7 @@ Oh, it's—actually working.
 
 28m Novembr
 
-aziar /aˈzjar/ [ɐˈzjɑː] to be standing (of people and of buildings), to be erect (both of construction and in vulgar use)
+aziar /aˈzjar/ [ɐˈzjɐː] to be standing (of people and of buildings), to be erect (both of construction and in vulgar use)
 
 < from 12C in late Old Boral aziȝar “to be standing (of people)”, either borrowed with rebracketing alongside aziȝ “boot” from Andalus laziga “boot”, lazigar “to wear boots”, or else a verbal derivation from aziȝ within Boral. The Andalus noun is from Moorish Arabic أَحْذِيَة‎ • (ʾaḥḏiya) “leather boots”, plural of حِذَاء • (ḥiḏāʾ) “boot, shoe”. Extension of the verb to buildings and for arousal are both seen by the 15th century. The participle aziant “standing” strongly connotes verticality and a free-standing quality that the alternative pos “placed, put, stood” does not.
 
@@ -6352,7 +6352,7 @@ Here we truly depart from the Gallic development with the debuccalisation of fin
 
 1r Decembr
 
-sclar d'ogl /xlar ˈdɔjl/ [l̥ɑːˈdɔ.jʊ] blink, instant, very short amount of time
+sclar d'ogl /xlar ˈdɔjl/ [l̥ɐːˈdɔ.jʊ] blink, instant, very short amount of time
 
 < 16C, a nominalisation from the verb phrase l'ogl sclarar “to blink (one's eyes)”, used metaphorically to describe the brevity of a blink. The noun ogl “eye” is directly from Latin oculus via Old Boral oȝl(e) [oɣlə ~ oʎːə], having the same sense. The verb (now obsolete) is from Old Boral isclarar “to flash, brighten, light up”, from Vulgar Latin exclārō “I lighten , illuminate, clarify” (literally “I make light, clear”).
 
@@ -6457,11 +6457,11 @@ hast pareïr /ˈhast ˌpa.riˈɪr/ [ˈhast ˌpa.ʀɪˈjɪː] to keep up, follow 
 
 8m Decembr
 
-ovrar /oˈvrar/ [ʊˈvʀɑː] to function, to work correctly, to proceed without problems; also to behave, to follow procedure, to do as told
+ovrar /oˈvrar/ [ʊˈvʀɐː] to function, to work correctly, to proceed without problems; also to behave, to follow procedure, to do as told
 
 < from Old Boral ovrar “to work, to function, to labour”, from both of Latin operō and operor “I work” (see also ouvr “work, act, deed, labour”, from the corresponding noun opus, opera “work”). The “toil, labour” sense had by the Middle Boral period been displaced by laurar < labōrō and, briefly, trevaglar < Vulgar Latin tripaliō (now obsolete). In the sense of “to follow etiquette or instruction” (that is, as applied to people), the word is attested from the seventeenth century.
 
-    Veg alcot jo dig a mell'ivan d'ovrar, il voun un regul trovar a rompr.
+    Veg alcot jo dig a mell'ivan d'ovrar, ðe voun un regul trovar a rompr.
 
     However much I tell my kids to behave, they find some rule to break.
 
@@ -6570,7 +6570,7 @@ Just as the Danes attributed thunder to the wrath of Thor, so too we can imagine
 Y vent hurlant, val admettr, appariscn noc tan autr a ci hurl de can cauçour.
 The howling winds, after all, sound not so different from the howls of hunting dogs.
 
-Entr hammel istrað a norð de Humbr e toun covart de ney alpin, paregl son y suajon maternal dað a casc ivan candon oin il y Gran Cauç Ragnt (ben y Herlathing, ben y Wütendes Heer) passant dessur : remanir afont, ogl tornar, attendr outem de creir il no sin la.
+Entr hammel istrað a norð de Humbr e toun covart de ney alpin, paregl son y suajon maternal dað a casc ivan candon oin ðe y Gran Cauç Ragnt (ben y Herlathing, ben y Wütendes Heer) passant dessur : remanir afont, ogl tornar, attendr outem de creir ðe no sin la.
 From isolated hamlets north of the Humber to snow-blanketed Alpine villages, the motherly advice given to all children when they hear the Great Wild Hunt (or the Herlathing, or the Wütendes Heer) passing overheard is the same: stay inside, look away, do your best to pretend they aren't there.
 
 Scholer majortaðer reconnoscn oy y cont pouvr d'un cauç gaster divers aun un stemn unic d'antictað, n'Europ toð cas (y racont lanhiaçan comportant son certan desjognt).
@@ -6580,13 +6580,13 @@ Most scholars today accept that the various folk traditions of a ghostly hunt st
 
 16m Decembr
 
-graçar /graˈtsar/ [gʀɐˈtsɑː] to show mercy, pity, let off
+graçar /graˈtsar/ [gʀɐˈtsɐː] to show mercy, pity, let off
 
 also graçant /graˈtsant/ merciful, compassionate, charitable
 
 < verb from the late Old Boral period graçar “to show mercy, to be kind”, derived from (and still synchronically a simple derivation of) graç “kindness > favour”, which comes from Latin grātia “thankfulness, grace”. The adjective is an obvious step to make, but is not evidenced in text until well into the fourteenth century, in Heudar Fiðaut's Catreðuejnt Lagrem (Twenty-four Laments).
 
-    Ig degnant, il graçaurn y domn ant braç coupað apart.
+    Ig degnant, ðe graçaurn y domn ant braç coupað apart.
 
     Nonetheless, they pitied the woman whose arm was cut off.
 
@@ -6611,7 +6611,7 @@ scavour /xaˈvur/ [çɐˈvʊː] writer; (a single) journalist, (all of) the pres
 18m Decembr
 
 in translation from the 1981 scitation paper for the Dijon New School's Domain History [1] course L'Art Militaire ès Guerres Romantiques (Strategy in the Romantic Wars). The course covers the 1640s to ‘60s, the most active portion of the various conflicts all grouped together under the label “Romantic Wars”.
-Part II: Near Asia and the Novamund [The New World]
+Part II: Near Asia and the Novomund [The New World]
 
 Question 13 (40 minutes)
 Answer any two of the following three questions.
@@ -6679,7 +6679,7 @@ gyr cottidian /ˈʒɪr ˌko.tiˈdjan/ body clock, circadian rhythm
 
 21r Decembr
 
-    excerpted from the Borlish translation of British heroic romance Y Ðreic o Redrωth (The Dragon of Redrouth), written in 2005 by Thoffina'h Girmont. It is loosely based on the old Arthurian tales first codified in eleventh-century Drengot England (and reworked substantially in post-Imperia Wales), but owes more to the popular imagining of these tales in Pacific literary works. 
+    excerpted from the Borlish translation of British heroic romance Y Ðreic o Redrwth (The Dragon of Redrouth), written in 2005 by Thoffina'h Girmont. It is loosely based on the old Arthurian tales first codified in eleventh-century Drengot England (and reworked substantially in post-Imperia Wales), but owes more to the popular imagining of these tales in Pacific literary works. 
 
 Redrouth se pen de mençon. Jainç forcer nastiscn cos fondaminal de parol intoccabr.
 Redrouth is all about lying. Power-plays are built upon the foundations of intangible words.
@@ -6706,7 +6706,7 @@ Before the knights, he can for brief and shining moments lay down the mask of Pr
 
 22m Decembr
 
-spornar /spɔrˈnar/ [spʊːˈnɑː] to reject, avoid, spurn, abhor; (slang) to outclass, be out of the league of
+spornar /spɔrˈnar/ [spʊːˈnɐː] to reject, avoid, spurn, abhor; (slang) to outclass, be out of the league of
 
 < borrowed into Old Boral as ispornar “to reject, spurn” from Old English spornan “to kick; to reject”. For comparison, see modern Wessern spurren “to misstep, trip, make a mistake” and Kentish sporn “to trample, force to the ground, crush, decisively beat”, whence Norman esporner “to vanquish, annihilate, utterly destroy”. It is possibly these Norman senses which influence the modern slang use of the verb, attested from the 1950s (and which despite the popular imagination does not originate in the Furore and Drengot Collapse).
 
@@ -6720,7 +6720,7 @@ spornar /spɔrˈnar/ [spʊːˈnɑː] to reject, avoid, spurn, abhor; (slang) to 
 
 23m Decembr
 
-deð apar /ˈdɛθ aˈpar/ [ˈde.ðɐˌpɑː] come on!, let's go!, please!; an expression of encouragement, an attempt to persuade someone to go along with what you want
+deð apar /ˈdɛθ aˈpar/ [ˈde.ðɐˌpɐː] come on!, let's go!, please!; an expression of encouragement, an attempt to persuade someone to go along with what you want
 
 < attested since the Middle Boral period, when it was straightforwardly the imperative of dar apar “to hand over, let go, release; to acquiesce”, literally “to give through”. The verb dar is directly from Latin dō “I give, offer”, while apar is an adverbial derivation from the preposition par < Latin per “through, by, during”. The verb had become obsolote outside this expression by the early nineteenth century, supplanted by expanded use of verbs like laiscar “to let go, drop, loosen”.
 
@@ -6819,7 +6819,7 @@ tablaur /taˈblor/ [tɐˈbloː] desk, bureau, worktable
 
 sboc /sbɔk/ [zbɔk] smirk, insincere smile, smug expression
 
-also sboccar /sboˈkar/ [zbʊˈkɑː] to smirk, smile insincerely, be smug
+also sboccar /sboˈkar/ [zbʊˈkɐː] to smirk, smile insincerely, be smug
 
 < the verb is original, dating back to the ninth centry in Old Boral isboccar [is.bokˈkar] “to scoff at, mock, deride”, one of the few examples of the intensive/pejorative is-…-ar verbal derivation that survives into modern use (another is slançar “to rush, speed, hurry”). The prefix is- is from Latin ex- “out, away, throughout, thoroughly”. The core noun boc “mouth” comes with little change from Vulgar Latin bucca “mouth” < “jawbone, cheek”, of Gaulish origin. The deverbal noun sboc is attested from the thirteenth century.
 
@@ -6838,7 +6838,7 @@ also sboccar /sboˈkar/ [zbʊˈkɑː] to smirk, smile insincerely, be smug
 Question 1: How did Britain [a polity comprising most of the British Isles bar IRL England] retain its position of cultural prestige over British Mendeva during the final years of the nineteenth century even as the latter overtook Britain in population and industry, and to what extent were the ethics of the Household Renovation exported to the Novomund via this cachet?
 
 - for the first, look for talk of increased transmigration of the new rich across the Atlantic and rates of intermarriage thereamongst.
-- further, reward mention of the boom of the Vetomundine masquira genre and how it displaced the autochthonous herdtale tradition (specifically look for reference to Cosωteg's Hasiny diaries).
+- further, reward mention of the boom of the Vetomundane masquira genre and how it displaced the autochthonous herdtale tradition (specifically look for reference to Coswteg's Hasiny diaries).
 - for the second, only give credit to responses highlighting the ongoing debate as to the timeline of Laic adoption in Gulf Mendeva; at least two disagreeing authors must be mentioned.
 
 Question 2: Discuss the rise of the New Urban Mesh and their subsumption into the Collusion, with emphasis on the growth of London following the Global Workshop period. In particular, compare the popular account of their use of espionage in the East to steer politics in tradewise-beneficial directions with the likely reality.
@@ -6913,7 +6913,7 @@ This Old Boral verb is a clear descendant of Insular Latin verb itinerō “I tr
 
     /laˈðɛn.d‿ra tarm vɛk ˈfɔ.rn̩ iθ ˈdu.tr̩ pɔx i rut noˈvɛl oˈvrɔj/
 
-    [lɐˈðɛn.d‿ʀɐ tɑːm vɛk fɔːn iθ ˈdu.tɐ pɔx i ʀut nʊˈvɛ‿lʊˈvʀɔj]
+    [lɐˈðɛn.d‿ʀɐ tɐːm vɛk fɔːn iθ ˈdu.tɐ pɔx i ʀut nʊˈvɛ‿lʊˈvʀɔj]
 
     def=schedule at station bus be.pst-3pl go-ptcp.pst beyond after def road new open-pst
 
@@ -6921,11 +6921,11 @@ This Old Boral verb is a clear descendant of Insular Latin verb itinerō “I tr
 
 —
 
-    selected scitation [exam] questions from the 1921 qualifying paper for the course Rhoωłi Travnideth Mendeva 19G (Mendevan Transport Networks in the Nineteenth Century), offered by educational institutions across Gulf Mendeva affiliated with the fi Narcìs Normal Primers, which is headquartered in Nadacow [1].
+    selected scitation [exam] questions from the 1921 qualifying paper for the course Rhowłi Travnideth Mendeva 19G (Mendevan Transport Networks in the Nineteenth Century), offered by educational institutions across Gulf Mendeva affiliated with the fi Narcìs Normal Primers, which is headquartered in Nadacow [1].
 
 Question 2 (fifty minutes)
 
-To what extent did Mendevan powers embrace baric [electric] steeplepost over the earlier mechanical systems more enthusiastically than their similarly-situated Vetomundine counterparts? You may wish to consider:
+To what extent did Mendevan powers embrace baric [electric] steeplepost over the earlier mechanical systems more enthusiastically than their similarly-situated Vetomundane counterparts? You may wish to consider:
 
 (i) the relative paucity of existing steeplepost infrastructure in Mendeva as compared with Europe, Asia (and even Cappatia) upon the development of the baric post,
 (i) issues of geography south of the Sturgovan Mountains [Appalachians] disincentivising a method of communication reliant on sight at long range, and
@@ -6951,7 +6951,7 @@ Answer the following twenty excourse questions in brief.
 
 tramou /traˈmu/ [tʀɐ.mu] line, line segment (considered with a specified direction), vector; displacement, difference between two positions; shortfall, insufficiency, extent to which a quota is not met
 
-Etymology: Middle Boral, a jargon borrowing from Middle Cambrick [Welsh] tramωi "movement, transit, course", used (in the form of a Latinised <trāmovis>, as though related to a verb *trāmoveō "I move across") in the fifteenth-century mathematical text Algorisma Geometrica, a treatise on how to perform numerical operations such as addition on geometric objects. The word tramωi itself must derive from Classical British elements trās- "across, completely" and mei- "to go" (see also Kernish tarvoi "carriage").
+Etymology: Middle Boral, a jargon borrowing from Middle Cambrick [Welsh] tramwi "movement, transit, course", used (in the form of a Latinised <trāmovis>, as though related to a verb *trāmoveō "I move across") in the fifteenth-century mathematical text Algorisma Geometrica, a treatise on how to perform numerical operations such as addition on geometric objects. The word tramwi itself must derive from Classical British elements trās- "across, completely" and mei- "to go" (see also Kernish tarvoi "carriage").
 
 Tramou aun tagl eð asmuth y dou.
 
@@ -7042,13 +7042,13 @@ At least I had little of which to complain in the view. We were south of the tow
 
 6m Lexembr
 
-sar marcer /ˈsar marˈtsɛr/ [ˈsɑː mɐːˈtsɛː] trade network, means of transporting goods for sale around a region
+sar marcer /ˈsar marˈtsɛr/ [ˈsɐː mɐːˈtsɛː] trade network, means of transporting goods for sale around a region
 
 Etymology: The noun sar "(fish)net, mesh, network" arrives in Boral from Vascon fishermen in the thirteenth century, one of the many naval words taken therefrom: see hagr “mast” and bakilau “cod”, also from Vask. Its metaphorical extension to general networks is presumably calqued from the similar metaphors in use in neighbouring languages, though in Boral itself this is not attested until 1836. The adjective marcer "commercial, relating to trade goods" is a transparent adjectival derivation of març "trade good", a descendant of Latin merx, with the same meaning.
 
 Ða gent oc saun, y sar marcer dourra mal.
 /ða ʒɛnt ɔk son | i sar marˈtsɛr duˈra mal/
-[ða ˈʒɛnt ɔ ˈsɔn | i sɑː mɐːˈtsɛː dʊˈʀa maw]
+[ða ˈʒɛnt ɔ ˈsɔn | i sɐː mɐːˈtsɛː dʊˈʀa maw]
 if person s.prx know-3pl | def net commercial hurt-fut.3s bad
 If people find out about this, the trade network will be affected badly.
 
@@ -7151,7 +7151,7 @@ The advances of the Long Peace led to the discovery of yet more effective soluti
 
 10m Lexembr
 
-harmonir /ˌar.moˈnɪr/ [ˌɑː.mʊˈnɪː]* to align, line up, match, to be in alignment or otherwise in an orderly configuration; to fit together, mesh, interlock, to be of complementary shapes; to dovetail, square, go, to not disagree with or contradict each other or the surrounding context; to agree, concur, conform, to be of the same mind; (in music) to harmonise, to play at a consonant interval or to provide a counter-melody; (in linguistics) to assimilate, to alter in phonetic character so as to approach a neighbouring sound
+harmonir /ˌar.moˈnɪr/ [ˌɐː.mʊˈnɪː]* to align, line up, match, to be in alignment or otherwise in an orderly configuration; to fit together, mesh, interlock, to be of complementary shapes; to dovetail, square, go, to not disagree with or contradict each other or the surrounding context; to agree, concur, conform, to be of the same mind; (in music) to harmonise, to play at a consonant interval or to provide a counter-melody; (in linguistics) to assimilate, to alter in phonetic character so as to approach a neighbouring sound
 
 *not to be confused with ammonir /ˌa.moˈnɪr/ [ˌa.mʊˈnɪː] to warn, presage, caution, to be an omen or early sign of something bad
 
@@ -7159,7 +7159,7 @@ Etymology: thirteenth-century attestation as armognir, verbal derivation of noun
 
 Y sodal all'oc roncaf mortal harmonen noc.
 /i soˈdal aˈlɔk rɔnˈkaf mɔrˈtal ˌarmoˈnɛn nɔk/
-[i sʊˈdaw ɐˈlɔ ʀʊŋˈkaf mʊːˈtaw ˌɑː.mʊˈnɛn nɔk]
+[i sʊˈdaw ɐˈlɔ ʀʊŋˈkaf mʊːˈtaw ˌɐː.mʊˈnɛn nɔk]
 def element to.def=s.prx mystery deadly align-impf.3p neg
 The pieces of this murder mystery didn't fit together.
 
@@ -7181,7 +7181,7 @@ No composer delighted more in the torriot than Mollam Bushta, ally of the early 
 
 11m Lexembr
 
-kevlar /keˈvlar/ [kɪˈvlɑː] robbery, burglary, theft, the act of acquiring property illegally; heist, an instance of robbery, especially from an institution such as a bank, museum or other secure stronghold; (by extension) scheme, plot, a complex plan to conduct a likely-illegal activity; (archaic cant or modern humorous, non-finite forms only) to rob, burgle, thieve, to undertake a heist
+kevlar /keˈvlar/ [kɪˈvlɐː] robbery, burglary, theft, the act of acquiring property illegally; heist, an instance of robbery, especially from an institution such as a bank, museum or other secure stronghold; (by extension) scheme, plot, a complex plan to conduct a likely-illegal activity; (archaic cant or modern humorous, non-finite forms only) to rob, burgle, thieve, to undertake a heist
 
 Also romanç kevlar | heist story, tale in which a heist is central to the plot, especially considered as a subgenre of masquira novels and films
 
@@ -7193,7 +7193,7 @@ Unfortunately, the other options are just as easily discarded. Backslang—the p
 
 Loy paregl ny cour es ajoutað de bon romanç kevlar.
 /lɔj paˈrijl ni kur ɛz ˌa.ʒuˈtaθ de bɔn roˈmants keˈvlar/
-[lɔj pɐˈʀi.jʊ ni ˈkʊː‿ʀɪz ˌa.ʒʊˈtah dɪ ˈbɔn ʀʊˈmans kɪˈvlɑː]
+[lɔj pɐˈʀi.jʊ ni ˈkʊː‿ʀɪz ˌa.ʒʊˈtah dɪ ˈbɔn ʀʊˈmans kɪˈvlɐː]
 place same in=def heart be.3s gratify-ptcp.pst from good story heist
 The same part of the heart delights in a good heist story.
 
@@ -7224,7 +7224,7 @@ Though the geometrical meaning is oldest, the extension to perspective is early,
 
 Nos n'eu sgart for mozað sull'enigma ig y smaraut sperisceurn.
 /nɔz naw sgart fɔr moˈzaθ si.le.najˈma aj i smaˈrot ˌspe.riˈxaw.rn̩/
-[nɔz naw zgɑːt fɔː mʊˈzah sɪˌle.nɐjˈma a.i zmɐˈʀot ˌspe.ʀɪˈxa.wɐn]
+[nɔz naw zgɐːt fɔː mʊˈzah sɪˌle.nɐjˈma a.i zmɐˈʀot ˌspe.ʀɪˈxa.wɐn]
 1p neg=have.1p view only fragmentary on.def=enigma comp def emerald disappear-pst.rmt-3p
 Our understanding of the mystery of the vanishing emeralds is fragmentary.
 
@@ -7250,7 +7250,7 @@ There is a strange consequence of this assignment of direction, however, as was 
 
 13m Lexembr
 
-kiglar /kajˈlar/ [kɐjˈlɑː] to miss, to not make it or an event or place on time or at all; to miss, not hit, to fail to reach a target; (reflexive) to screw up, go wrong, misfire, fall flat, to occur in a bad or incorrect way or to malfunction; (in mathematics) to exclude, not contain, as an element of a set or the target of a function
+kiglar /kajˈlar/ [kɐjˈlɐː] to miss, to not make it or an event or place on time or at all; to miss, not hit, to fail to reach a target; (reflexive) to screw up, go wrong, misfire, fall flat, to occur in a bad or incorrect way or to malfunction; (in mathematics) to exclude, not contain, as an element of a set or the target of a function
 
 Etymology: from the seventeenth century in Boral as keilar, cuilar etc "to misfire, jam, fail to shoot", originally intransitive. It is a loan from Saxon kilen "to jam, clog up, get stuck or blocked", a verbal derivative of kil "wedge, blockage, jam". The reflexive use is somewhat later, after the semantic shift to a transitive "fail to hit"; the use in mathematics dates from the mid-nineteenth century to translate weglazen "omit" in Dümmeyer's foundational work in mathematical notation.
 
@@ -7290,7 +7290,7 @@ Etymology: eighteenth century from Danish to-sciver (literally "two-slices"), in
 
 Sot es toscivr acatar sec lon bouðr ben queimasc.
 /sɔt ɛz toˈxi.vr̩ ˌa.kaˈtar sɛk lɔn ˈbu.ðr̩ bɛn kwiˈmax/
-[sɔt ɛz tʊˈçiv ɐkˈtɑː sɛk lʊm ˈbu.ðɐ bɛŋ kwɪˈmax]
+[sɔt ɛz tʊˈçiv ɐkˈtɐː sɛk lʊm ˈbu.ðɐ bɛŋ kwɪˈmax]
 foolish be.3s sandwich buy-inf dry without butter or cream.cheese
 It's silly to buy a sandwich dry without butter or cream cheese.
 
@@ -7331,7 +7331,7 @@ The jump to "aphorism, short witticism (usually in bel nau)" is less clear. Ther
 
 Alcot y bel nau, tu pos ja traiçon me dar.
 /alˈkɔt i bɛl no | ti pɔz ʒa treˈtsɔn me dar/
-[ɐˈgɔt i ˌbɛwˈno | ti ˈpoʒ ʒa tʀɪˈtsɔn mɪ ˈdɑː]
+[ɐˈgɔt i ˌbɛwˈno | ti ˈpoʒ ʒa tʀɪˈtsɔn mɪ ˈdɐː]
 how.much def pretty words | 2s may.sbj still betrayal 1s.obl give-inf
 Whatever you say, you might yet betray me.
 
@@ -7365,7 +7365,7 @@ The adjective bel "beautiful" descends uncomplicatedly from Latin bellus "pleasa
 
     Il amn queldar tras port candon cay bel.
     /ɪl ˈa.mn̩ kwɛlˈdar traz pɔrt kanˈdɔn ke bɛl/
-    [ɪˈla.mɐŋ kwɪwˈdɑː tʀaz ˈpɔːt kɐnˈdɔn ke bɛw]
+    [ɪˈla.mɐŋ kwɪwˈdɐː tʀaz ˈpɔːt kɐnˈdɔn ke bɛw]
     3p like-3p dine-inf through door whenever fall-s beautiful
     They like to dine outside when it's fine out.
 
@@ -7385,7 +7385,7 @@ Etymology: an early Middle Boral deverbal of joutar "to cast (metal), to use a m
 
 Il ern armað a pont costroir enter ne far jout.
 /ɪl ɛrn̩ arˈmaθ a pɔnt koˈstrɔjr ɛnˈtɛr ne far ʒut/
-[ɪˈlɛːn ɐːˈma‿ða pɔnt kʊˈstʀɔ.jɐ ɪnˈtɛː ne fɑː ʒut]
+[ɪˈlɛːn ɐːˈma‿ða pɔnt kʊˈstʀɔ.jɐ ɪnˈtɛː ne fɐː ʒut]
 3p be-imp.3p task-ptcp.pst to bridge build-inf all in iron cast
 They were tasked with building a bridge of cast iron alone.
 
@@ -7449,19 +7449,19 @@ The hawks and ravens around him are symbols of prophecy.
 
 translation into Borlish and English of an excerpt from Estevan Mazon's 1893 work The Man from Everywhere (originally published in Leonese as El Hombre de Jallondes), released near the end of the Good Game period. The book's subject matter was subject to significant public scandal, and only the outbreak of the Millstone War could overshadow the senatorial debates over governmental funding of bookstores. Despite the scandal, the public's less-univerally negative reaction is a testament to the shifts since even the 1840s (see the flight of Antòin Herrel).
 
-Ma ja es David y diabr d'annel portant; sell'ensignment haucetr e vign lousc des y brant cant il s'appenn contr y mur, tait soutan.
+Ma ja es David y diabr d'annel portant; sell'ensignment haucetr e vign lousc des y brant cant ðe s'appenn contr y mur, tait soutan.
 But David still has the damn ring, its hawk-vine engraving catching the firelight as they lean against the wall, suddenly silent.
 
 Ag moment just ig Marc yem scið l'oc saluð (sey vray l'es cossy nommabr; sur sy jalicq ancour sechiscent es sanc des cavir occis) harmon bogr coll'ig seyon creut cos primer, luy es i dont y dors caf appoyað vars y mur.
 Just as Mark is realizing that this welcome (if it can be called that; he has blood from being murdered still drying on his jalick) is of an entirely different key than what he first thought, he is the one with his back up against the wall.
 
-David es tojorn le tenent pognað, il son combat parsount e soulor—
+David es tojorn le tenent pognað, ðe son combat parsount e soulor—
 David is still clutching onto him, they're fighting and then—
 
 Soulor—
 Then—
 
-Soulor, posc cent annað, il no le son.
+Soulor, posc cent annað, ðe no le son.
 Then, after a hundred years, they are not.
 
 ##
@@ -7509,7 +7509,7 @@ Etymology: from Middle Boral mefit "fever, malaria", later reclassicised after i
 
     Reuvað entarn neðan vos caurreð tout mephit!
     /rawˈvaθ ɛnˈtarn neˈðan vo koˈrɛθ tut meˈfɪt/
-    [ʀɐwˈva‿ðɪnˈtɑːn nɪˈðan vo kʊˈʀɛh tut mɪˈfɪt]
+    [ʀɐwˈva‿ðɪnˈtɐːn nɪˈðan vo kʊˈʀɛh tut mɪˈfɪt]
     return-sbj.2p inside lest 2p get-fut.2p all ague
     Come back inside so you don't all catch a chill!
 
@@ -7517,7 +7517,7 @@ Etymology: from Middle Boral mefit "fever, malaria", later reclassicised after i
 
 excerpt taken from the textbook Albic Medicine in the Workshop Decades, Part III: In the Absence of Cure, written in 1992 by physician Dr Harold Westcamp in affiliation with the Department of Domain History at the Gibsitch Open School [1] and the Markland Ministry for Health, and published by the Conster Health Edifice. [1]
 
-…no conclusive link between the appearance of Cráyenschot's great-nephew in the London melee and the 1887 scandal surrounding the Desarden affair, despite the sleuthing of many amateur detectives into the coincidence after the fact.
+…no conclusive link between the appearance of Cráyenshot's great-nephew in the London melee and the 1887 scandal surrounding the Desarden affair, despite the sleuthing of many amateur detectives into the coincidence after the fact.
 
 We return to the arrival of pennackit dysentery [pandemic cholera] to Europe and in particular to Albion. The particular pathophoric zoia that causes pennackit had been established in parts of India for centuries (early reports are difficult to distinguish from other dysenteric ailments, but the death of King Rahulamathavan of Madray in 1735 and several outbreaks in China over the preceding century are suspected to be of the disease), but global spread would not begin until 1753, in the aftermath of the Democratic Wars and the concomitant movement of peoples.
 
@@ -7566,7 +7566,7 @@ It feels and sounds real, the rustling of leaves, the slight dampness of the mos
 
 23m Lexembr
 
-colombar /ˌko.lɔmˈbar/ [ˌko.lʊmˈbɑː] to beeline, to travel directly while ignoring established or more easily-traversed routes; to shortcut, skimp, cut corners, to gain a competitive or efficiency advantage especially by taking inappropriate or unsafe measures
+colombar /ˌko.lɔmˈbar/ [ˌko.lʊmˈbɐː] to beeline, to travel directly while ignoring established or more easily-traversed routes; to shortcut, skimp, cut corners, to gain a competitive or efficiency advantage especially by taking inappropriate or unsafe measures
 
 also colombant /ˌko.lɔmˈbant/ directly, as the crow flies
 
@@ -7574,7 +7574,7 @@ Etymology: first as the participial adjective in Middle Boral colombant "in a st
 
 Y fraðr colombaurn dou vars y magler.
 /i ˈfra.ðr̩ ˌko.lɔmˈbo.rn̩ du varz i mɛjˈlɛr/
-[i ˈfʀa.ðɐ ˌko.lʊmˈboːn du vɑːz i mɪjˈlɛː]
+[i ˈfʀa.ðɐ ˌko.lʊmˈboːn du vɐːz i mɪjˈlɛː]
 def brother beeline-pst.3p two toward def butcher
 The two brothers went straight to the butcher's.
 
@@ -7676,7 +7676,7 @@ Ports are one of the best places for thieves. Everyone there is in a hurry, bust
 La son y marcant desirant for repaðrir cas lou; maðr annoyað attenent a lourell'ivan appreuçar.
 There are the tired businessmen just wanting to get home; harried mothers trying to corral their kids.
 
-Tant de diversion e sorc a assistr coin bempart a gent de cur demay dar ag vertað ig il vien de denir osc de rouvaç.
+Tant de diversion e sorc a assistr coin bempart a gent de cur demay dar ag vertað ig ðe vien de denir osc de rouvaç.
 So many distractions and concerns keep most people from paying too close attention to the fact they've just had their money lifted.
 
 Bempart a gent.
@@ -7716,7 +7716,7 @@ The lamplighter had been and gone round the juncture onto Zanca de Molinero by t
 
 28m Lexembr
 
-manoscart /ˌma.noˈxart/ [ˌma.nʊˈxɑːt] manoscard, a style of medieval monastic chant most popular in the twelfth and thirteenth centuries and characterised by the simultaneous use of the two [major and minor] pentatonic scales; any of a range of fabrics which were a blend of two distinct fabrics, most commonly wool and linen; (more generally) hybrid, something of mixed composition, usually a combination of tools or technologies getting the benefits of each component
+manoscart /ˌma.noˈxart/ [ˌma.nʊˈxɐːt] manoscard, a style of medieval monastic chant most popular in the twelfth and thirteenth centuries and characterised by the simultaneous use of the two [major and minor] pentatonic scales; any of a range of fabrics which were a blend of two distinct fabrics, most commonly wool and linen; (more generally) hybrid, something of mixed composition, usually a combination of tools or technologies getting the benefits of each component
 
 Caution: not used of animals or plants, for which the term mastinað "mongrel, crossbreed" is preferred.
 
@@ -7726,7 +7726,7 @@ The extension to fabric is seen first in the Italian languages in the Revitalist
 
 Y refectoir vença manoscart a vigt morac eð ambrosc.
 /i ˌre.fɛkˈtɔjr vɛnˈtsa ˌma.noˈxart a vajt moˈrak ɛθ amˈbrɔx/
-[i ˌʀe.fɪkˈtɔ.jɐ vɪnˈtsa ˌma.nʊˈxɑːt a vajt mʊˈʀak e‿ðɐmˈbʀɔx]
+[i ˌʀe.fɪkˈtɔ.jɐ vɪnˈtsa ˌma.nʊˈxɐːt a vajt mʊˈʀak e‿ðɐmˈbʀɔx]
 def cafe sell-imp hybrid at fare Morrack and Ambrosian
 The lunch-house sold Morrack-Ambrosian fusion food.
 
@@ -7834,7 +7834,7 @@ What follows is an enumeration of the "also-rans", primarily all the vocab I cre
 
 - bogher /bɔjˈɛr/ [bʊˈjɛː] archer, bowman, one who fights with a bow and arrow; a regular agentive derivation of the above.
 
-- arn /ˈa.rn̩/ [ɑːn] fletch, vane, the part toward the back of an arrow, used for stabilisation during flight; probably also from Old Norrish (cf. Ydreç 2008) but the etymon is unclear.
+- arn /ˈa.rn̩/ [ɐːn] fletch, vane, the part toward the back of an arrow, used for stabilisation during flight; probably also from Old Norrish (cf. Ydreç 2008) but the etymon is unclear.
 
 - heredical /heˌre.diˈkal/ [hɪˌʀe.dɪˈkaw] genetic, hereditary, relating to biological descent; a Scholastic Latin derivation of heres "heir, heiress".
 
@@ -7874,17 +7874,17 @@ What follows is an enumeration of the "also-rans", primarily all the vocab I cre
 
 - briscel /briˈxɛl/ [bʀɪˈçɛw] bush, shrub, woody plant with multiple stems and lower height than a tree; clipped from earlier arbriscel, from a presumed Vulgar Latin arboriscellus "small tree-like plant".
 
-- hurislar /ˌhi.riˈslar/ [ˌhi.ʀɪˈzlɑː] to rustle, crackle, to make a sound similar to that of dry leaves; from the thirteenth century in diverse forms, likely onomatopoeic but influenced in some way by Old English hrūxlian "to make noise".
+- hurislar /ˌhi.riˈslar/ [ˌhi.ʀɪˈzlɐː] to rustle, crackle, to make a sound similar to that of dry leaves; from the thirteenth century in diverse forms, likely onomatopoeic but influenced in some way by Old English hrūxlian "to make noise".
 
 - amaçgat /ˌa.matsˈgat/ [ˌa.mɐsˈgat] nursery, a room or area in a household or an external business set apart for the care of children; via Mostara or other Spanish amazgato "nursery, flowerbed, place for growing plants", from Andalus Arabic اَلْمَسْقَى‎ <al-másqa> "seedbed".
 
 - trencsachet /ˌtrɛnk.saˈkɛt/ [ˌtʀɛŋk.sæˈkɛt] pickpocket, cutpurse, petty thief, one whose employs sleight of hand to steal from people's pockets; univerbation of trenc sachet "slices pockets".
 
-- varmar /varˈmar/ [vɐːˈmɑː] to wriggle, squirm, to twist one's body with short writhing movements; verbal derivation from varm < Latin vermis "worm".
+- varmar /varˈmar/ [vɐːˈmɐː] to wriggle, squirm, to twist one's body with short writhing movements; verbal derivation from varm < Latin vermis "worm".
 
 - connocry /ˌko.noˈkri/ [ˌko.nʊˈkʀi] ice dance, skating party, frost fair, a social occasion held on the iced-over surface of a lake or river; from Merch connockry, nominal derivation from connock "ice skate" (cf. Borlish connoc), itself from Vascon connòc /kuˈɲɔk/ < Russian конёк <kon'ok> "pony, skate".
 
-- augtar /ojˈtar/ [ʊjˈtɑː] to deliver, convey, transport, to bring things or people to their destination; originally borrowed from Borland English ahtan "to send, give", presumably a reworking of āgan "to (cause to) own" according to aht-, the past tense root.
+- augtar /ojˈtar/ [ʊjˈtɐː] to deliver, convey, transport, to bring things or people to their destination; originally borrowed from Borland English ahtan "to send, give", presumably a reworking of āgan "to (cause to) own" according to aht-, the past tense root.
 
 - paupieðr /poˈpjɛ.ðr̩/ [pʊˈpje.ðɐ] eyelid, one of the folds which can cover the eyes; regularly derived from Vulgar Latin palpetra, variant of Latin palpebra "eyelid, eyebrow".
 
@@ -7893,3 +7893,7 @@ What follows is an enumeration of the "also-rans", primarily all the vocab I cre
 - trelamn /treˈla.mn̩/ [tʀɪˈla.mɐn] triangle, polygon with three sides; from Old Boral tre lamne < Latin tres laminæ "three blades" (the meaning of the noun shifting to "edge" by the Old Boral period).
 
 - acquïr /ˌa.kwajˈɪr/ [ˌa.kwɐˈjɪː] to acquiesce, assent, consent, to be satisfied without oppositon; reborrowing from Latin acquiēscō "I rest".
+
+---
+
+FIN LEXEMBER 2021

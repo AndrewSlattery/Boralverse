@@ -8563,6 +8563,28 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 
 \et Old Borlish < Old French < Latin
 
+\lx cancel
+\ps n
+
+\ge railing
+\ge banister
+\ge balustrade
+\ge lattice
+\ge grille
+\ge grate
+\ge grating
+\ge deletion
+\ge redaction
+\ge hashtag
+\ge hash
+\ge pound sign
+\ge octothorpe
+
+\xv Veleð y cancel embrostar sou kivougl.
+\xe Please decorate the banister with holly.
+
+\et direct descendant via Old Borlish cancel "grid of bars, metal fence" from synonymous cancellī in Latin. This is the diminutive plural of cancer "crab, lattice". The primary sense had shifted to safety railings by the Middle Borlish period; extension to typography arose in the sixteenth century by the practice of hatching out unwanted text.
+
 \lx cancellour
 \ps n
 
@@ -28660,6 +28682,24 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Old Borlish < Medieval Latin
 
+\lx immoðir
+\ps ir2 v
+
+\ge wallow
+\ge mire
+\ge bog down
+\ge daub
+\ge render
+\ge patch up
+\ge whitewash
+\ge gloss over
+
+\xv Jo vis y behemoth immoðiscent par un illabond.
+\xe I saw the wallowing hippo through the spyglass.
+
+\et Middle Borlish, inchoative verbal derivation from moð "mud, muck". This noun, a variant of now-obsolete moðr, was borrowed from a descendant (possibly Frise) of Classical German muthras "excrement, filth, sediment". Metaphorical extension of the building-material sense to hiding (but not correcting) faults is seen from as early as the fifteenth century.
+\mn moð
+
 \lx immoubr
 \ps n
 
@@ -32076,6 +32116,26 @@ Old Borlish < Latin illa
 \ge deflect
 
 \et Old Borlish < Old English
+
+\lx laçogl
+\ps adj
+
+\ge eye-catching
+\ge striking
+\ge arresting
+\ge gaudy
+\ge garish
+\ge loud
+\ge ostentatious
+\ge flashy
+\ge conspicuous
+
+\xv Sy curtel sta d'un roug luiç oðig laçogl.
+\xe Her gown was a bright or even garish red.
+
+\et early modern Borlish, an exocentric compound of laçar "catch" and ogl "eye". The verb laçar was borrowed in the Old Borlish period from Old English læċċan "grab, seize, apprehend", while the noun ogl descends directly from synoymous oculus in Latin. In practice the term usually has derisive connotations of either classlessness or deceit.
+\mn laçar
+\mn ogl
 
 \lx laçour
 \ps n
@@ -43221,15 +43281,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
-
-\lx paus
 \ps interj
 
 \ge hang on
@@ -43238,6 +43289,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
+
+\lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v

@@ -2,7 +2,10 @@
 
 A compilation of everything currently canon about the modern political map of the Boralverse.
 Compiled from the Obsidian vault, `Data/output_directory/` (notes, excerpts, dictionary), `Scaunç.txt`,
-`borlish sentences with translations.txt`, `all_claims_final.yaml` and `CONTEXT.md`.
+`borlish sentences with translations.txt`, `all_claims_final.yaml`, `CONTEXT.md` — and
+`Data/pre-2022 notes.txt`, whose numbered footnotes gloss real-world equivalences that later drafts drop.
+That last file is an archive of superseded drafts, but it is **not** redundant: Caddisow and Bamackon are
+defined nowhere else.
 
 **This document does not invent anything.** Where a modern status is not stated in the sources, it says so.
 Inference is confined to the bracketed *reading* notes and to the closing sections.
@@ -282,14 +285,19 @@ Also relevant: German-speaking communities survive in **Halich, Kiew and Vallack
 | **Riyalid Sultanate** | ◐ | C17: "the largest Muslim state in the world", Iscandar → Medina → the **Baghdad Exclave**, bordering the Hadramot. Described elsewhere as **Turkish**. **Modern status unstated — major gap** |
 | **Hadramot** | ◐ | "a loose collection of wealthy city states and admiraltys in **Yemen and Ethiopia**, controlling trade through the Gulf of Aden". Took Moscat from the Ibadine Imamate in 1652 |
 | **Ibadine Imamate** | — | Oman, seated at **Moscat**; fell to Hadramot forces in 1652. Ibadi adherents as far as Andalus |
-| **Ungotia** | ● | [Zanzibar]. A trading port/polity of long standing; cited alongside Bengal and Adigh in an epidemic-response comparison |
+| **Ungotia** | ● | [Zanzibar]. A trading port of long standing, with an **Ongutian** demonym and **Suahile** [Swahili] spoken; cited alongside Bengal and Adigh in an epidemic-response comparison |
+| **Caddisow** | ● | "Sub-Saharan state occupying much of the territory of **Botswana, Zimbabwe, and southern Mozambique**." Its *opening* in the mid-C19 is blamed, in part, for the decline of the voidtale craze — few mysterious lands were left to imagine |
+| **Bamackon** | ◐ | "A major population centre in **14th-century western Africa**, suzerain in particular over parts of the coast to its south." Exported mause and gorray nuts. Also names a **language family** — *gorray* "kola nut" comes "via continental Romance from one of the Bamackon languages of West Africa" (cf. Wolof) |
 | **Sant Adrian** | ◐ | [Bioko]. Vascon-controlled from the C15 |
 | **Maghreb / Morrove admiralty** | — | Declared independent from the Single Caliphate in 1237 |
 
-**Sub-Saharan Africa is essentially blank.** The one structural hook: *"Borlish trade guilds were involved in the
-establishment of staddomains along Atlantic Cappatia and Africa. Initially little more than trading posts, these
-would grow into significant polities over the next centuries."* Those African staddomain-descended polities are
-**never named**. This is the single largest gap in the setting.
+**Sub-Saharan Africa holds exactly three named entities** — Caddisow, Bamackon and Ungotia — and the first two
+surface only in the footnotes of `Data/pre-2022 notes.txt`, which gloss things later drafts leave bare. Everything
+else is unnamed: the Sahara, the Guinea coast, the Congo, East Africa between Ungotia and Caddisow, the Cape,
+Madagascar. The structural hook is planted and unused: *"Borlish trade guilds were involved in the establishment
+of staddomains along Atlantic Cappatia and Africa. Initially little more than trading posts, these would grow into
+significant polities over the next centuries."* Those African staddomain-descended polities are **never named**.
+This remains the largest gap in the setting.
 
 ---
 
@@ -423,7 +431,7 @@ Geography: the **Anticone Mountains** [the Andes], the **Awasú** river, the **C
 
 Ranked roughly by how much map they leave empty.
 
-1. **Sub-Saharan Africa.** No named polity at all south of Morrack/Libya/Egypt except **Ungotia** [Zanzibar], **Sant Adrian** [Bioko] and the Hadramot's Ethiopian reach. The hook exists — Borlish and other trade guilds founded Atlantic-African staddomains that "would grow into significant polities" — but nothing is named.
+1. **Sub-Saharan Africa.** Three named entities in the whole subcontinent — **Caddisow**, **Bamackon** and **Ungotia** — plus Sant Adrian and the Hadramot's Ethiopian reach. The Sahara, the Guinea coast, the Congo, the Cape and Madagascar are all unnamed, as are the Atlantic-African staddomains the sources say "would grow into significant polities".
 2. **The successor to the Second Roman Empire.** It fell in the C17; Stamboul was a shell in the 1820s; nothing fills Anatolia, the Aegean or the Levant in the modern day.
 3. **The Riyalid Sultanate's modern fate**, and with it modern Egypt, Arabia, Mesopotamia and the Levant.
 4. **Japan (Nivon), Korea, Manchuria** — Nivon is a name and an etymology, nothing more.

@@ -1,7 +1,8 @@
+abreu "the state of being waterlogged" < abrevar "irrigate, soak, drench"
 authicanopoesy "complacency" | authican "self-sufficient" | authicanopoetic "complacent" < Gk
 belligrman "warmonger" < belliger "warlike" + -man "purveyor of"
-cancel "railing" < L cancellī
 carnoval "carnival"
+kivougl "holly" < aquifoglium
 cocheyau "stilt" < Ch 高蹺 gāoqiāo
 cuindr "kernel" < cyrnel in OE
 depoussar "cashier, fire" < depulso
@@ -9,7 +10,6 @@ empory "economy" < emporium
 entauthaltað "localism" < Gk entautha | entauthal
 entrposson fair "act as a stepping stone" | entrposson "intermediate step" < entr- "between" and posson "position" < positio
 fancy "idea, fantasy, dream" < phantasia
-immoðir "immerse in mud" < moð "mud"
 issaughar "rinse, flush" < exaquō
 kembang "firework" < Indonesian kembang api "flower of fire"
 laðr "plough" < Insular Latin alatrum < aratrum "plough"
