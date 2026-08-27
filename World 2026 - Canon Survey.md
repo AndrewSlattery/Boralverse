@@ -328,10 +328,11 @@ The decisive divergence: **Cathay and China are two separate states.**
 | **Cathay** | ● | Northern China. Under **Kitan** rule it deliberately promoted Sinic-rune spelling to sunder itself from its southern neighbour. Named **Leudong** [Liaodong]. Christened and state-built **New Leudong** in Angelica from the late C17. Origin of the **tapsue** ("magpie") tale tradition, ancestral to masquira. Its "surveyor's span" fixed half of the modern **foot** |
 | **China / the Southern Empire** | ● | Southern China. The **Hangthen Edict** (行天) of 1520: "if the world could be girdled, China should tie the ropes herself." Launched the first Chinese ship to reach the Novomund. Attacked eastern India through a protectorate during the Democratic Wars. Quoming's *The Sea Peoples* is one of the greatest Chinese works |
 | **Nackon Day / Nackon Dai** | ● | [~Thailand]. A **kingdom** — its King and eldest son featured in the 1887 Desarden Affair. Runs a **Ministry for the Future** |
-| **Zampanagar** | ● | [~Vietnam]. **Contare** [Cần Thơ] saltpetre mills, where **janthine** [iodine] was discovered in 1778. Neighbouring **Tacday Ancore** |
+| **Zampanagar** | ● | **~southern Vietnam.** The **Contare** [Cần Thơ] saltpetre mills, where janthine [iodine] was discovered in 1778 |
+| **Tacday Ancore** | ● | **~Cambodia.** Glossed jointly with Zampanagar in the pre-2022 footnotes as *"polities in South East Asia, roughly coterminous with southern Vietnam and Cambodia"*. Its saltpetre mills also worked sea wrack. **Ancore beside the Cammojan Kingdom invites an Angkor reading** — a strong attribution, though the quiz asking which modern polity claims Cammojan descent is still unanswered in the sources |
 | **Borune** | ● | [Borneo]. **Sinquan** [Singkawang] on the northwest coast holds an annual monsoon fair with a Chinese quarter predating the sultan's court; site of the **Great Borunesk Meeting of 1517** |
 | **Nivon** | ◐ | [Japan]. Name borrowed in the C16 from 日本. Referenced for *maniocan* [man'yōgana] script. **Almost entirely undeveloped** |
-| **Cammojan Kingdom** | — | [~Khmer Empire]. A quiz asks "**Which modern polity claims descent from the Cammojan Kingdom?**" — the answer is never given. **An explicit, authored blank** |
+| **Cammojan Kingdom** | — | [~Khmer Empire]. A quiz asks "**Which modern polity claims descent from the Cammojan Kingdom?**" and never answers it. **Tacday Ancore** is the natural claimant — attribution, not citation |
 
 ---
 
@@ -445,7 +446,7 @@ Ranked roughly by how much map they leave empty.
 12. **The City Wars (1940s)** — one sentence exists. Given that they burned Anvers and coincide with "the outbreak of war" that delayed Japetos III, this is the setting's WWII-shaped hole.
 13. **The Lovac Wars' full extent** — Mendevan, but who fought whom is unstated.
 14. **The "double-crown"** — a political form referenced once and never defined.
-15. **"Which modern polity claims descent from the Cammojan Kingdom?"** — an explicitly posed, never-answered question.
+15. **"Which modern polity claims descent from the Cammojan Kingdom?"** — still literally unanswered in the corpus, though **Tacday Ancore** (~Cambodia, and *Ancore* ~ Angkor) is the obvious candidate and is now recorded as such.
 
 ---
 
