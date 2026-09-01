@@ -32108,7 +32108,7 @@ LADY CHALFONT: It is your turn to lead, Veratra. Unless you intend to forfeit by
 VERATRA: Ðe son attenent a y gamblas de bourgmer hormejar, ma y colanç tien a l'oncar vars y najel soujavigour. L'oc es voutent cos tars. Y musicour pariscn toð sfreyað.
 VERATRA: They’re trying to moor the mayor’s barge, but the current keeps dragging it toward the dredging boats. It’s absolutely entrancing. The musicians look terrified.
 
-DOMN CHALFONT: (Orn dant ag mane) Ðe son s'immoðiscent paulatim des aubon. Fig ty blad. Jo say l'ig tu es saget bacagettant.
+DOMN CHALFONT: (Orn dant ag manne) Ðe son s'immoðiscent paulatim des aubon. Fig ty blad. Jo say l'ig tu es saget bacagettant.
 LADY CHALFONT: (Sorting her hand) They have been sinking into the mud since dawn. Play your card. I know you are hoarding arrows.
 
 VERATRA: (Se tornant vars y tabr) Soul jo stim l'ensign me plag cas heu. (La fig un blad) Seg de saget.
@@ -32179,4 +32179,79 @@ I saw the wallowing hippo through the spyglass.
 
 ##
 
-236.5:
+236.5: Sold as Seen
+
+reproduced excerpt from the auction catalogue selling off the estate of Perrina Zancoud, last of a wealthy Santrafew [~Boston] family descended from Reverend Carol Zancoud as well as the New Provincial cadet branch of the Nassow dynasty.
+The annotations are from 2021 paper Collection and Separation of Nappe [Lenape] Artefacts in and from Eastern Mendeva, 1780–1930, written by domain historian Ilvana Grasset, department chair at the University of Gorram.
+
+…each lot is sold as seen [1]. Ladies and gentlemen are reminded that the packet runs late in the next days to ferry buyers to Campottonì [Wilmington, DE] from Gorram.
+
+HANGINGS, DRAPES and TAPESTRIES (three hundred feet) in the Morrack fashion. From 12 trone.
+
+SEAL-CARVING of DEREK NASSOW, silver, bearing the sigil of the Avosche duchy. Brought to New Provence in 1590 by the duke himself [2], and a relic of an unexplained flight across the Atlantic [2a]. From 400 trone.
+
+GIRDLE, worked leather and shell, of Mastoisèt [~Massachusett] make [3]. From 6 trone.
+
+WITHDRAWN.
+
+THREE VOLUMES of the DIARY of and LETTERS to a woman of Santrafew [4], from the years 1589–94 and 1601–3, with some water damage throughout. From 25 trone.
+
+ACCOUNT BOOK of the fur trade via the Becouin and Esquanna rivers, in three hands, amounting to eleven thousand…
+
+===
+
+[1] A term renouncing any claims as to provenance or true value. This auction-house (Rocabrun e Fills) uses the designation over twice as often as other establishments in 1890s New Provence.
+
+[2, 2a] Derek Nassow was never duke. Grandson of the duchess Adaillé d'Avosche, the fact that he left his family permanently after an uninformative public announcement in 1589 (south to Provence and then to the Novomund [New World]) has been explained variously in subsequent centuries as due to debts, mistresses, a duel or a religious conversion.
+
+[3] Probably, one of the Mastoisèt records of the Becouin Treaty of 1621, a compact broken by the Provincial settlers after the British sack of Santrafew. It sold for 7 trone to tradesman Casimir Vergonn, of Marsella, and is presumed lost in the 1907 bombing of that city.
+
+[4] The writings by and to Nadàlla fi Carol are the most detailed record we have of the early years of Provincial settlement on the east coast of Mendeva; this lot comprises volumes 2, 3 and 6 of a set that has never been completely recovered. The fourth volume surfaced in Ambrosia in 1931 and is currently in the New Vithor University's public collection on Borland.
+
+##
+
+237.1: Tommarth
+
+notes in translation on the Merch city of Tommarth [Tamworth, Staffs].
+
+Tonvrouð es y citað caver eð y maissem ne Marclont. Sy pouvlanç teyen a dessur de 500 murðon jusc d'an 2010.
+Tommarth is the capital and largest city of Markland. It had a population of over 5 million people by the year 2010.
+
+Y region souvau instançment pall'Angr ny siecr seg; ny siecr nouf lo sta denuð y citað primer dy Reyaum Markesc smargent. Lo receveu starchiscment signfeyant tras y siecr sousevent com bastegl contr y Cambresc all'ovest e soulor contr y Dannesc all'est.
+The area was settled by the Angles in the sixth century; by the ninth it had become the primary city of the nascent Merch Kingdom. It was fortified significantly over the next centuries in defence against the Welsh to the west and then against the Danes to the East.
+
+Nell'asc modern Tonvrouð brouc un doujug conveyer, chthonic eð effus dignant cos vecin y Dusker, ant quarvet ig inclus Kibbrough e Cathedral.
+In the modern day Tommarth has an extensive underground rail system known locally as the Dusker, with stops including Kibbrough and Cathedral.
+
+Y nom dy citað vien dy floy Tome yon lo se situ a cost. Paravant (pre y reform modern cas dreçment) stant dreçað Tomwarth, y region local er nommað ne Veðr Anglesc Tomworðig "cloist ben acr jos y Tome".
+The city takes its name from the Tome river on which it stands. Formerly (before the modern spelling reform) spelt Tomwarth, the local area was known in Old English as Tomworðig "enclosure, field by the Tome".
+
+##
+
+237.2: ottonam "brass"
+
+ottonam /ˌɔ.toˈnam/ [ˌɔ.tʊˈnam]
+- brassware, objects made of brass taken collectively as in a household or a harness;
+- brass section, brass, the brass instruments of an ensemble taken together;
+- brass band, a body of players on such instruments especially of a town or a military;
+- blare, fanfare, a loud brazen burst of sound
+
+Etymology: Middle Borlish, borrowed along with otton "brass" from Tuscan ottoname "brassware" and ottone "brass". This is a rebacketing of earlier lottone, borrowed from Arabic لَاطُون • lāṭūn "copper alloy", itself from a Classical Turk altūn "gold metal" that may be related to contemporary Chinese 銅 • dūng "copper". The musical senses developed through the eighteenth and nineteenth centuries.
+
+L'ottonam se faun de doncel groun.
+/ˌlɔ.toˈnam se fon de dɔnˈtsɛl grun/
+[ˌlɔ.tʊˈnam se fon de dʊnˈtsɛl grun]
+df=brassware rfl do-3p of girl teenager
+The brass section is all teenage girls.
+
+##
+
+237.3:
+
+##
+
+237.4:
+
+##
+
+237.5:

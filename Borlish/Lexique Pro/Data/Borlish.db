@@ -18772,6 +18772,15 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 
 \et Old Borlish < Latin
 
+\lx dreçment
+\ps n
+
+\ge spelling
+\ge orthography
+
+\et noun from dreçar "spell"
+\mn dreçar
+
 \lx dreit
 \ps adj
 
@@ -29863,6 +29872,16 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge colony
 
 \et Middle Borlish < Italian < Latin
+
+\lx instançment
+\ps n
+
+\ge settlement
+\ge colonisation
+\ge colonization
+
+\et noun from instançar "settle"
+\mn instançar
 
 \lx instauraçon
 \ps n
@@ -41371,6 +41390,29 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge final
 
 \et Old Borlish < Latin
+
+\lx otton
+\ps n
+
+\ge brass
+
+\et Middle Borlish, from Tuscan ottone "brass". A rebacketing of earlier lottone, borrowed from Arabic لَاطُون • lāṭūn "copper alloy", itself from a Classical Turk altūn "gold metal" that may be related to contemporary Chinese 銅 • dūng "copper".
+
+\lx ottonam
+\ps n
+
+\ge brassware
+\ge brass section
+\ge brass
+\ge brass band
+\ge blare
+\ge fanfare
+
+\xv L'ottonam se faun de doncel groun.
+\xe The brass section is all teenage girls.
+
+\et Middle Borlish, borrowed along with otton "brass" from Tuscan ottoname "brassware" and ottone "brass".
+\mn otton
 
 \lx ou
 \hm 1
@@ -55702,6 +55744,27 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \xe The Red House agent dealt with that resistance group.
 
 \et from Middle Borlish, a borrowing from Latin subsīdō "I crouch, subside" modelled on other verbs in -seïr like asseïr "dwell" and posseïr "own". First attested in the latter two senses in the seventeenth century, in early use seen particularly in the context of diplomatic disputes.
+
+\lx sousevent
+\ps adj
+
+\ge next
+\ge following
+\ge subsequent
+\ge proceeding
+
+\et participle from sousevir
+\mn sousevir
+
+\lx sousevir
+\ps ir1 v
+
+\ge follow
+\ge come next
+\ge proceed
+
+\et Middle Borlish, Latin subsequor
+\mn sevir
 
 \lx sousonnar
 \ps ar v
