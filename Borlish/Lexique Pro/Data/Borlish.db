@@ -17442,9 +17442,9 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ge receiver
 \ge journalist
 
-\et Clipping of diacutour
+\et Clipping of diacustour
 
-\mn diacutour
+\mn diacustour
 
 \lx diacustour
 \ps n
@@ -29869,19 +29869,19 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ps n
 
 \ge settlement
-\ge colony
-
-\et Middle Borlish < Italian < Latin
-
-\lx instançment
-\ps n
-
-\ge settlement
 \ge colonisation
 \ge colonization
 
 \et noun from instançar "settle"
 \mn instançar
+
+\lx instançment
+\ps n
+
+\ge settlement
+\ge colony
+
+\et Middle Borlish < Italian < Latin
 
 \lx instauraçon
 \ps n
@@ -43360,15 +43360,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
-
-\lx paus
 \ps interj
 
 \ge hang on
@@ -43377,6 +43368,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
+
+\lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v

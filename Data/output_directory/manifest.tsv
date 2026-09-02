@@ -1208,7 +1208,12 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 235.3	dictionary	seget "crop"	seget	crop	True	4	117	720	dictionary/235.3_seget_crop.md
 235.4	dictionary	issaughar "rinse, flush"	issaughar	rinse, flush	True	4	129	779	dictionary/235.4_issaughar_rinse,_flush.md
 235.5	notes	Duel over the Stars			False	0	381	2227	notes/235.5_Duel_over_the_Stars.md
-236.1	excerpt	A Hand of Arrows			False	0	322	1906	excerpt/236.1_A_Hand_of_Arrows.md
+236.1	excerpt	A Hand of Arrows			False	0	322	1907	excerpt/236.1_A_Hand_of_Arrows.md
 236.2	dictionary	cancel "railing"	cancel	railing	True	4	143	933	dictionary/236.2_cancel_railing.md
 236.3	dictionary	laçogl "garish, gaudy"	laçogl	garish, gaudy	True	4	133	834	dictionary/236.3_laçogl_garish,_gaudy.md
 236.4	dictionary	immoðir "bog down"	immoðir	bog down	True	4	142	888	dictionary/236.4_immoðir_bog_down.md
+236.5	notes	Sold as Seen			False	0	413	2496	notes/236.5_Sold_as_Seen.md
+237.1	excerpt	Tommarth			False	0	263	1519	excerpt/237.1_Tommarth.md
+237.2	dictionary	ottonam "brass"	ottonam	brass	True	4	146	918	dictionary/237.2_ottonam_brass.md
+237.3	dictionary	kivougl "holly"	kivougl	holly	True	4	171	1036	dictionary/237.3_kivougl_holly.md
+237.4	dictionary	obsequïr "give away"	obsequïr	give away	True	4	163	1026	dictionary/237.4_obsequïr_give_away.md
