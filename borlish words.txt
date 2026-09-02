@@ -2,7 +2,6 @@ abreu "the state of being waterlogged" < abrevar "irrigate, soak, drench"
 authicanopoesy "complacency" | authican "self-sufficient" | authicanopoetic "complacent" < Gk
 belligrman "warmonger" < belliger "warlike" + -man "purveyor of"
 carnoval "carnival"
-kivougl "holly" < aquifoglium
 cocheyau "stilt" < Ch 高蹺 gāoqiāo
 cuindr "kernel" < cyrnel in OE
 depoussar "cashier, fire" < depulso
@@ -19,7 +18,6 @@ micr "loaf, bread roll" < mīccula < mīcca < mīca "crumb" | micrman "bakery" <
 mogon "arsehole (slang)" < Swahili mkundu
 musicour "musician"
 obsequïr "give away"
-ottonam "brass (of instruments)" < It ottoname < otton "brass" < Ar lātūn
 pacentar "be patient to, put up with" < patiens
 pantachualtað "universalism" < Gk pantakhou | pantachual
 passar roug "to have difficulty, to struggle, to encounter setbacks", literally "to pass red"

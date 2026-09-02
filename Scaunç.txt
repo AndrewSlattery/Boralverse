@@ -32246,11 +32246,39 @@ The brass section is all teenage girls.
 
 ##
 
-237.3:
+237.3: kivougl "holly"
+
+kivougl /kiˈvujl/ [kɪˈvwɪl]
+- holly, an evergreen shrub with glossy spined leaves and scarlet berries;
+- a sprig or a garland of this cut as a midwinter decoration;
+- puzzle, jigsaw, a challenging diversion especially comprising an image cut into small pieces to be reassembled;
+- riddle, enigma, something baffling or hard to understand
+
+Etymology: via Old Borlish cuvoȝl "holly" and a Vulgar Latin form like *accufolius "holly" from the Classical adjective aquifolius "prickly-leaved". This is a compound of acus "needle" and folium "leaf". In the last senses the word is seen from the late nineteenth century, originally as a trade name coined by a Borlish subsidiary of the De Marnoshring toymaker's guild; the metaphorical extension appears only a couple of decades later.
+
+Mey eð y maðr jognau l'oç kivougl tras y ralley.
+/mi ɛθ i ˈmaðr̩ ʒɔjˈno lɔts kiˈvujl traz i raˈli/
+[mi ɛ‿ði ˈma.ðɐ ʝʊiˈno lɔs kɪˈvwɪl tʀaz i ʀɐˈli]
+1s.dj and df mother join-1p.ipf df=s.dt holly across df afternoon
+Me and my mum did the jigsaw all afternoon.
 
 ##
 
-237.4:
+237.4: obsequïr "give away"
+
+obsequïr /ɔbˌze.kwajˈɪr/ [ʊbˌze.kwɐˈʝɪː]
+- follow, defer to, comply with, to fall in with another's wishes without demur;
+- indulge, humour, gratify, to give someone what they want in order to please them;
+- make over, cede, give up, to part with something in another's favour;
+- give away, to present a bride at her wedding
+
+Etymology: legal term borrowed in the fifteenth century from Latin obsequor "I comply with; I indulge in". The latter senses appear to have developed by association with related obsequy "funeral ceremony, reading of a will", a now-obsolete noun from Latin obsequiae "funeral rites", and grew out of the archaic sense "bequeath". Some avoid the term in serious use for the last sense, which may sound chauvinistic or else unintentionally comical.
+
+Jo neya pacentar aðief por y duc obsequïr.
+/ʒo niˈa ˌpa.tsɛnˈtar aˈðjɛf pɔr i dɪk ɔbˌze.kwajˈɪr/
+[ʝo ˈnja ˌpa.tsɪnˈtɐː‿ʀɐˈðjɛf pɔː‿ʀi dɪk ʊbˌzi.kwɐˈʝɪː]
+1s fail-ipf be.patient-ipf enough for df duke indulge-inf
+I lacked the patience to indulge the duke.
 
 ##
 
