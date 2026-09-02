@@ -13,6 +13,6 @@ Of particular note are the Brethin of [[Kernow]]; they became the most influenti
 After the medieval period and until the modern day, the Brethin ran several major printing operations, such as the [[Yievle]] Brethin Primers, and educational institutions, such as the [[Tremonow Open School]] (formerly the Brethin Mesh Institute).
 
 ## Notable members
-* Pope [[Pope Damian VI|Damian VI (the Wise)]], reigned 1199-1209 N
+* Pope [[Pope Damian VI|Damian VI (the Wise)]], reigned 1199-1208 N
 * Friar [[Dewock Barclythe]], 1452-1539 N
 * Saint [[Saint Victor of Dunkirk|Victor of Dunkirk]], d. 1245 N

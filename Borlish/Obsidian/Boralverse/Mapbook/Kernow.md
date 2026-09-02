@@ -12,5 +12,5 @@ Kernow became part of the Kingdom of [[Britain]] in the fifteenth century as it 
 
 ## People
 - [[Catrin of Kernow]], sister of the Devoner king and influential figure in thirteenth-century [[Borland]]
-- Pope [[Pope Damian VI|Damian VI (the Wise)]], reigned 1199-1209 N
+- Pope [[Pope Damian VI|Damian VI (the Wise)]], reigned 1199-1208 N
 * Saint [[Saint Victor of Dunkirk|Victor of Dunkirk]], d. 1245 N

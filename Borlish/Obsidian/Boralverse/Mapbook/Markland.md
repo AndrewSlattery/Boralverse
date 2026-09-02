@@ -18,7 +18,7 @@ The [[First Drengot Empire]] of the eleventh and twelfth centuries counted Markl
 
 The Mallor Wars were reignited after a quiescent period by the martial-minded [[Andrew II of Markland|King Andrew II]], with the [[Sack of Rexam]] in 1301 during which the original St Brigid's Abbey burned to the ground.
 
-Markland was embroiled in the [[Wars of Fealty]] in the late fifteenth and early sixteenth centuries. Tensions over the location and possession of the Redstone Chair boiled over into a conflict that would last forty-one years. Markland conceded several battles to the young [[Britain|Kingdom of Britain]] in the early years of the wars, culminating in the 1483 [[Battle of Rexam (1483)|Battle of Rexam]] which expanded the borders of Wales in the north and killed the last Duke of Chestre.
+Markland was embroiled in the [[Wars of Fealty]] in the late fifteenth and early sixteenth centuries. Tensions over the location and possession of the Redstone Chair boiled over into a conflict that would last forty-one years. Markland conceded several battles to the young [[Britain|Kingdom of Britain]] in the early years of the wars, culminating in the 1483 [[Battle of Rexam (1483)|Battle of Rexam]] which expanded the borders of Wales in the north and killed the last Duke of Chester.
 
 In the final years of the Wars of Fealty, a code known as Thieves' Script was employed by the forces of [[Andrew III of Markland|King Andrew III]], apparently adapted from similar systems used by gangs of housebreakers in Nottingham. It is remembered today as a very early precursor of codes like steeplescript or modern one-zeffre encoding.
 

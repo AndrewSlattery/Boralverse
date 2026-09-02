@@ -6,5 +6,5 @@ Although no references to a written treaty have survived, it is presumed that th
 
 In what was either impressive long-term strategy or merely opportunism, the victorious Roger of Normandy would go on to conquer Kent's neighbours, including Essex and [[Markland]], and then venture south to annex much of the rest of Gaul. He was crowned Emperor Roger I in the midst of this territorial expansion in 1038.
 
-The recently-unified [[Wales]] under [[Cadwallan, King of Wales|Cadwallan]] (erstwhile King of [[Guineth]]) managed to remain mostly free of Drengot control. This was likely achieved by steering a course between Greater Devon and the Drengot, neither of whom wanted to other to have dominion over Wales.
+The recently-unified [[Wales]] under [[Cadwallan, King of Wales|Cadwallan]] (erstwhile King of [[Wynneth]]) managed to remain mostly free of Drengot control. This was likely achieved by steering a course between Greater Devon and the Drengot, neither of whom wanted to other to have dominion over Wales.
 

@@ -48,8 +48,14 @@ Provinces are **tallaths** (Borlish *taleð*; `borlish sentences:2451`, `notes/1
 | **Sodrick** [Man + the Hebrides] | C15 | "an outlying tallath… when it was formed" (`Mapbook/Sodrick.md`) |
 | **parts of Ireland** | unstated | — |
 
-Historic Welsh polities absorbed into the heartland: **Wynneth / Guineth** [Gwynedd], **Powes**
-[Powys], **Guent** [Gwent], **Mondwell** [Anglesey] (`Scaunç:8180`, `notes/22553`, Canon Survey).
+Historic Welsh polities absorbed into the heartland: **Powes** [Powys], **Guent** [Gwent],
+**Mondwell** [Anglesey] (`Scaunç:8180`, `notes/142.5`, Canon Survey).
+
+**Wynneth** [Gwynedd] is *not* absorbed. It is a living subregion of Wales carrying a continuing
+dynastic association: Cadwallan was king of Wynneth before he was king of Wales, and the flag of
+the modern **Kingdom of Wynneth** (*Y Deyrnas Gwyneð*) uses the colours of Saint David
+(`Scaunç:2932`). Spelling standardised to **Wynneth** in Boralverse-English; Borlish keeps
+*Guineð*, Cambrick keeps *Gwyneð*.
 
 ### 1.3 Physical geography attested
 
@@ -79,7 +85,6 @@ Thin, and worth knowing before you write an itinerary.
 | Place | Real | Attested as |
 |---|---|---|
 | **Cartaw** / Cartau | Cardiff | Seat of Ivan of Cartaw; "palaces and castles of Huzatre and Cartaw" (`excerpt/70.1`) |
-| **Huzatre** | unglossed | The other royal seat; the **Huzatre Psalter** (C16); modern enough to host a detective series (`notes/230.5`, `Scaunç:20916`) |
 | **Deganny** | Deganwy | The New Year city (§2.6); the *Glamour of Deganny*; a Culombálu steamship displayed 1991–95 |
 | **Tremonnow** | Monmouth | Brethin foundation; the Gravatory; the Open School; centre of the district of **Ux** |
 | **Rexam** / Car Vantel | Wrexham | Contested since Markland's founding; sacked 1301, decisive battle 1483 |
@@ -262,9 +267,9 @@ And a third: the passage is captioned
   first mate shouts ***O Gastor 'ila Bolux!*** "From Castor to Pollux!" — al-Casmi's otherwise
   impeccable logbook is missing exactly those pages. mac Kellot declines to circumnavigate.
 - **1518–25** — the **Second Great Dying**. Albion is exhausted; Britain is not.
-- **C16** — the **Huzatre Psalter**: cheap prints with suggested folk tunes that "brought [the
-  vintedos] into the voices of **every village congregation**" (`notes/230.5`). A Welsh press
-  makes a Provincial verse form global.
+- **C16** — the **Huzatre Psalter** (`notes/230.5`). *Huzatre is Vascon — `Scaunç:7275` glosses
+  the University of Huzatre as "City in Vascony roughly coterminous with **Bayonne**". Not a
+  British hook; noted here only so it is not mistaken for one again.*
 - **1520** — the **Hangthen Edict**, issued in response to "the planned circumnavigation of the
   globe by Morrack and **British** ships" (`notes/179.5`).
 
@@ -346,7 +351,6 @@ Ordered by how badly a guidebook would feel them.
    except Mondwell.
 8. **Kernow's modern condition.** Canon Survey marks it ● "Tallath of Britain since the C15" — but
    a Brittany governed from Wales for six hundred years has no modern description at all.
-9. **Where Huzatre is.** Fifteen mentions, no gloss.
 
 ---
 
@@ -393,13 +397,24 @@ uses St David's colours because the crown's legitimacy runs through David's Day.
 the 1961 caption with the Canon Survey's "absorbed" list at zero cost, and explains why the
 People's King is crowned at all rather than acclaimed.
 
-### 4.5 Huzatre: put it in the north-west
+### 4.5 Deganny as the northern seat
 
-**Proposal:** Huzatre is the **northern royal seat** — Cartaw south, Huzatre north — somewhere
-around Caernarfon or Conwy, which puts it beside **Deganny** and beside **Mondwell**. That single
-placement makes sense of everything attested about it: a castle-and-palace pair with Cartaw, a
-sixteenth-century press (a cathedral or collegiate town), a modern city big enough for detective
-fiction, and a neighbour to the New Year city.
+*(Supersedes an earlier proposal that placed Huzatre in north-west Wales. **Huzatre is Vascon** —
+`Scaunç:7275` glosses the University of Huzatre as "City in Vascony roughly coterminous with
+Bayonne". The film review's "palaces and castles of Huzatre and Cartaw" therefore names the **two
+courts of Alexandra's marriage**, Vascon and Welsh, which makes the marriage reading in §2.7
+stronger, not weaker.)*
+
+That leaves Cartaw [Cardiff] as the only attested Welsh royal seat, and canon needs a second one:
+**Deganny** carries the New Year, a bicentenary coronation festival, a body of maritime and
+underworld lore (the *Glamour of Deganny*), and a ship on display in the 1990s — far more weight
+than a small Conwy-estuary town would bear on its own.
+
+**Proposal:** Deganny is the **northern royal seat and the ceremonial capital** — the coronation
+town — with Cartaw the southern, governing one. That single placement makes sense of everything
+attested about Deganny at once: why the People's King's bicentenary is celebrated *there* rather
+than at Cartaw, why the David's Day New Year is *its* festival, why it has a harbour big enough
+for a returning steamship, and why a Welsh port has a documented C19 underworld argot.
 
 ### 4.6 The Severn Line as the spine of the itinerary
 
@@ -436,7 +451,6 @@ sit apart.
 | **Margaret of Iscombe** | `Scaunç:23170` | Ambrose III the Ascendant had a Devoner mother |
 | **Pope Damian VI, first Brethin pope** | `excerpt/131.1` | A Kernovan family holds the Roman see at the height of the Imperia |
 | **Catrin of Kernow** | `excerpt/131.1` | Britain's contribution to *Borlish* literature — the first long-form Borlish prose about a layperson is about a Kernovan woman |
-| **The Huzatre Psalter** | `notes/230.5` | A Welsh press makes an Occitan verse form global |
 | **The Brethin** | `notes/23.5`, `notes/142.5` | Founded in Wales; still publishing in 1870; still teaching in the C20 |
 | **Owen of Jolliad / the Arthurians** | `notes/3.5`, `Scaunç:6682` | Welsh viking legend, Arthurian material codified in Drengot England and reworked in Wales, then re-exported via Pacific literature |
 | **The Redstone Chair** | `notes/33.5` | The war Britain won its position in started over a throne it never claimed |

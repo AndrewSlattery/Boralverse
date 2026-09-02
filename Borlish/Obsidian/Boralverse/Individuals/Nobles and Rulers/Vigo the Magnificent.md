@@ -6,6 +6,6 @@ King Vigo is remembered primarily for leading the reconquest of [[Devon]], which
 
 The reconquest of Devon spanned over two decades of intermittent fightning with [[Wessex]] and concluded with the victory at [[Petherton]] in 749 N. With this victory Vigo was crowned rex Magnæ Dumnoniæ "King of Greater Devon", unifying Devon with [[Kernow]].
 
-He married [[Guinnumar]], daughter to King [[David I of Guineth]], in ca. 725 N. This marriage is likely what allowed him to secure Welsh assistance with the invasion. With her he had at least three children, including his son [[Cadern the Doubter]] (who would become king upon Vigo's death in 761) and his daughter [[Iseld of Devon]], who later became the first patron of the [[Brethin]] of [[Tremonnow]].
+He married [[Guinnumar]], daughter to King [[David I of Wynneth]], in ca. 725 N. This marriage is likely what allowed him to secure Welsh assistance with the invasion. With her he had at least three children, including his son [[Cadern the Doubter]] (who would become king upon Vigo's death in 761) and his daughter [[Iseld of Devon]], who later became the first patron of the [[Brethin]] of [[Tremonnow]].
 
 His prominence in the genesis of the kingdom lead to many of his royal descendants taking his name, including [[Vigo IV of Greater Devon|Vigo IV]] (crowned 940), who conquered east to Anzeus, and [[Vigo VII of Greater Devon|Vigo VII]] (fl. 1121).

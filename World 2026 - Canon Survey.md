@@ -103,6 +103,9 @@ Kingdom centred on **Wales**, founded in the fifteenth century by formalising We
 - Founded British Mendeva (Hasiny etc.) from C17 staddomains along the Mendevan Gulf.
 - Retained cultural prestige over British Mendeva into the C20 even after being overtaken in population and industry in the late C19; heavy élite intermarriage and transmigration across the Atlantic.
 - **British Welsh** is a distinct standard from **Angelican Welsh** and from **Hasinick Welsh** — three living Welsh standards, so all three polities persist.
+- **Wynneth** [Gwynedd] is a subregion of Wales, not an absorbed polity: it retains a strong and continuing association with the monarchy, and the flag of the modern **Kingdom of Wynneth** (*Y Deyrnas Gwyneð*) uses the colours of Saint David. Cadwallan, who united Wales c. 1029, was king of Wynneth first.
+- The **Nuntial calendar** is Welsh in origin: Pope Nuntius moved New Year to **David's Day, 1 March** in the early C12, and Welsh New Year celebrations (centred on **Deganny**) are "a global legend".
+- A **People's King** was crowned c. 1750s–60s; the bicentenary of the coronation was still being celebrated at Deganny in the 1950s.
 
 #### Markland ●
 The most densely attested modern polity after Borland. East of Wales, north of London and Kent, south of Northumber and Dunclothe.
@@ -152,7 +155,8 @@ Northwestern Isles [Ireland, GB, Borland]", so Ireland is inside the modern cult
 
 #### Absorbed / historical on Albion
 **Wessex** (subdued by Kent by c. 1000), **Anglia** (annexed by Markland, Treaty of Oxford, late C8),
-**Essex**, **Alba**, **Gwyneth**, **Guineth**, **Powes**, **Mondwell** [Anglesey], **Markish Lincon**, **Chestre** (last Duke killed 1483).
+**Essex**, **Alba**, **Powes**, **Mondwell** [Anglesey], **Markish Lincon**, **Chester** (last Duke killed 1483).
+(**Wynneth** was formerly listed here; it is a living subregion of Wales — see Britain above.)
 
 ---
 

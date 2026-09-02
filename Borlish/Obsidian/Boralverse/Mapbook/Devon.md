@@ -4,7 +4,7 @@ Devon is named for the Dumnōniī (the Latin name reflecting Classical Kelt Dubn
 
 Devon was conquered piecemeal by the Saxons, with the defeat at the [[Battle of Gaulford (656)|Battle of Gaulford]] in 656 putting the area under the sole authority of the Kingdom of [[Wessex]] (although the westernmost region is thought never to have fully submitted to its rule).
 
-In the eighth century, King [[Vigo the Magnificent]] of the Britons spearheaded a reconquest of the peninsula with the support of [[David I of Guineth]], obtained via his marriage to King David's daughter Guinnumar. Over two decades of intermittent warfare were ended with the victory at [[Petherton]], and Vigo was crowned the first king of Greater Devon (**rex Magnæ Dumnoniæ**), uniting Devon with the region later known as [[Kernow]] in [[Gaul]].
+In the eighth century, King [[Vigo the Magnificent]] of the Britons spearheaded a reconquest of the peninsula with the support of [[David I of Wynneth]], obtained via his marriage to King David's daughter Guinnumar. Over two decades of intermittent warfare were ended with the victory at [[Petherton]], and Vigo was crowned the first king of Greater Devon (**rex Magnæ Dumnoniæ**), uniting Devon with the region later known as [[Kernow]] in [[Gaul]].
 
 The [[Brethin]] religious order was founded in eighth-century [[Tremonnow]], at that time in Devon (now in Glousing).
 
@@ -20,7 +20,7 @@ However, Devon's independence would not last long; [[Ivan of Cartau]] conquered 
 - Cadern the Doubter (crowned 761), son of Vigo the Magnificent
 - [[Alan III of Greater Devon|Alan III]] (crowned 883), who lost territory in Kernow to the Franks
 - [[Vigo IV of Greater Devon|Vigo IV]] (fl. 940), last monarch to be crowned in the original cathedral of [[Nauned]]
-- [[Vigo VII of Greater Devon|Vigo VII]] (fl. 1120), who attempted without success to conquer the southeastern principalities of [[Wales]]
+- [[Vigo VII of Greater Devon|Vigo VII]] (fl. 1121), who attempted without success to conquer the southeastern principalities of [[Wales]]
 - [[Alan VI of Greater Devon|Alan VI]] (fl. 1225), who orchestrated the Realignment of Devon
 
 ### Nobility
