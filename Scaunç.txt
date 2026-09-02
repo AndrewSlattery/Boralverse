@@ -8177,7 +8177,7 @@ Question 7 (thirty minutes)
 Answer any two of the following three questions.
 
 (i) Was it because of the Dane wayports and settlements between Dublin and Yorwick that the principality of Wynneth had the resources to consolidate primacy over Powes? Include reference to the partition of Mondwell [Anglesey] agreed between Wynneth and Sodrick, as mentioned in both the Ulstre and Carlile chronicles.
-(ii) What can the life of Owain ap Blethyn—rendered into legend as Owen of Jolliad, sometime-friend sometime-foe of the Arthurians—tell us about the extent to which Welsh-born men participated in viking raids as the Dane settlements became more enmeshed with their vicinities?
+(ii) What can the life of Owain ap Blethen—rendered into legend as Owen of Jolliad, sometime-friend sometime-foe of the Arthurians—tell us about the extent to which Welsh-born men participated in viking raids as the Dane settlements became more enmeshed with their vicinities?
 (iii) Describe in detail the known actors party to the Reconquest of Legaster in 887 N, along with the political context each found themselves in which led to the idiosyncratic alliances on either side of the battle.
 
 Question 8 (ten minutes)
@@ -32282,4 +32282,32 @@ I lacked the patience to indulge the duke.
 
 ##
 
-237.5:
+237.5: The Old Country
+
+excerpt from the opening chapter of Yr Hen Lad (The Old Country), a tourist guidebook about Britain aimed at travellers from British Mendeva. The book was written by Ossewma'h Ariandro, and Nadacow's Blackbird Editions published its tenth update in 2024.
+
+…will be told by someone a few drinks in that Britain is the oldest kingdom in Albion. Correcting them is usually unwise.
+
+Wales is the heartland of Britain. The outlying tallaths are (roughly in order of population) Ireland to the west, the Devon peninsula [the West Country] and Kernow [Brittany] to the south, Dunclothe [NW Eng, SW Scot] and Sodrick [the Hebrides] to the north, and several islands further afield.
+
+The first millennium
+
+The Roman Empire conquered the whole of Borland, while it never made the attempt with Ireland. Rome's half-measure conquest of Albion [Great Britain] left the British in the north and west with a few roads, several hundred words from Latin, and a lasting distrust of south-easterly neighbours.
+
+Rome's departure was followed quickly by the arrival of English people, whose kingdoms conquered as far as Gaulford in Devon by the seventh century. This push drove some Britons across the channel to Kernow. The reversal came with the Kernish king Vigo, who married Winmar of Wynneth [Gwynedd] around 725 and spent the next two decade reconquering Devon.
+
+Raids during the Dane Supremacy mostly affected the British periphery, with the Landvennick monastery burned in 888, and Sodrick and Dunclothe settled and ruled by Danes in the tenth century. Some Welshmen went raiding in their turn, as represented by Owen of Jolliad (by turns friend and enemy of the Arthurians), whose character appears to originate in the historical figure Owain ap Blethen. One may note that the Welsh vikings are stock characters of this period, while the Welsh victims thereof rarely appear in the romances at all.
+
+Wynneth emerged from the Dane Supremacy as the strongest; it is thought that the petty kingdom was funded by the Dane traffic between Dublin and Yorwick [York]. It absorbed Powes [Powys], split Mondwell [Anglesey] with Sodrick, and by the year 1000 was the core of a united Wales.
+
+The patron of Britain
+
+On the first day of March towards the end of the seventh century, the Welsh bishop David died at Meneva (now the city of Tythew, from the Welsh for "David's house"). He was canonised during the pontificate of Pope Agatho (1001–26), possibly as symbolic support for the new Welsh kingdom, which was losing land to Markland [Mercia ~ English Midlands] and Greater Devon.
+
+A century later Pope Nuntius reformed the calendar and moved the New Year from the Annunciation on the twenty-fifth of March to David's Day on the first. As a consequence, the Welsh celebrate New Year more ferociously than almost any other people. If you would visit Deganny [Conwy] during the holiday season, book a bed before the previous autumn, expect to lose two nights' sleep, and leave small children in safer harbours.
+
+Next to the Drengot Empire
+
+In 1025, a series of deaths and of treaties with judicious wording led to Cadwallan, king of Wynneth, becoming the first person to rule over a united Wales. He inherited a strong hand precisely when it was most necessary. Across the Severn was Markland under Oswin the Becoming. In 1028, Greater Devon threw in with Roger Drengot of Normandy to install him on the throne of Kent. Within ten years Roger was styled as Emperor, and most everything from Edinbrough to the Pyrenees was his domain.
+
+Neither Devon nor the Empire could tolerate…
