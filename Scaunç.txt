@@ -22562,7 +22562,7 @@ The lands around Tremonnow were conquered from the medieval Welsh kingdom of Gue
 
 The Christian order called the Brethin was founded in Tremonnow at some point before 800 N under the patronage of Vigo's daughter Iseld. The order would become renowned for their efforts at historical documentation, and their archives in what eventually became the modern Tremonnow Gravatory preserve invaluable sources on early medieval Albion [Great Britain] (including a copy of the Chronicle of Carlile [Carlisle]).
 
-From the mid-twentieth century, the Tremonow Open School, formerly known as the Brethin Mesh Institute, provided distance learning in Welsh and Wessern [2] across Albion and, latterly, also across British Mendeva.
+From the mid-twentieth century, the Tremonnow Open School, formerly known as the Brethin Mesh Institute, provided distance learning in Welsh and Wessern [2] across Albion and, latterly, also across British Mendeva.
 
 People
 Dewock Barclythe (1452-1539 N), Friar of Tremonnow and for several decades the prime Factor of Records at the Brethin House there.
@@ -32314,4 +32314,101 @@ Neither Devon nor the Empire could tolerate…
 
 ##
 
-238.1:
+238.1: Rebound
+
+notes in translation on rebound, a wall-and-ball game of the Middlesea [Mediterranean] coast. Unlike lineball there is no unified ruleset, although some polities do stage tournment play of local variants.
+
+Sur casc rimot dy Miterran, toð citað ben toun ec y nom meritant broucn un mur a rebont.
+On every coast of the Middlesea, any city or town worthy of the name boasts a rebound wall.
+
+Dou compleis, ben dou per den—ben a gest un nombr quidam d'alumn felau ben de veðr amig—battn a to-rutto y bal dur ne cogr, con lanç ben peyaç contr y mur ligs ne pieðr.
+Two players, or two pairs—or in practice any number of schoolmates or old friends—strike the hard leather ball in turn, with throws or kicks against the smooth stone wall.
+
+Un try finisc candon un hasmour poð noc y bal offirr pre y scon bondisc contr y paið, ben candon y bal outrvol y zon de joy (tragçað cos insolemn ne creð, ben durablessem con loson zajadau).
+A round ends when an opponent cannot return the ball before the second bounce on the floor, or when the ball leaves the zone of play (marked informally in chalk, or more permanently with coloured paving).
+
+Rebont interman un joy de ciel ovart e de cromn floisessem, e victour des Mysarnos vars Ẋr l Joas son connuð par nom a lau atorn.
+Rebound is a game of open skies and looser purse-strings, and champions from Mysarnos to Ẋr l Joas are known by name for leagues around.
+
+Certan hasardour son denuð risc par lorry triomph; bempart may attenoirn la e neyaurn, tragedy ottem ben pessem galant.
+Some punters have grown rich off their successes; many more have tried to and failed, courting greater or lesser tragedies.
+
+##
+
+238.2: outrvolar "overshoot"
+
+outrvolar /ˌutr̩.voˈlar/ [ˌu.tɐ.vʊˈlɐː]
+- (in sports) to go out of play or otherwise cross the bounds of the area of play;
+- overshoot, to be fired or thrown past an intended mark or a landing place;
+- (by extension) go past, to travel or end up too far;
+- work loose, to slip from a hold or a fastening;
+- run over, to exceed an allowable limit
+
+Etymology: eighteenth-century coinage used in racket sports and soon thereafter hunting, a compound of outr- "beyond" and volar "fly", which both descend directly from Latin etyma ultra "beyond" and volō "I fly". More general use for overshooting a metaphorical target is seen from the mid-nineteenth century, and examples describing loose buttons or pieces of mechanisms are attested from around the same time.
+
+Y bocquanç ne Juglot outrvolau y prefacçon dy colluy.
+/i bɔˈkwants ne ʒajˈlɔt ˌutr̩.voˈlo i ˌpre.fakˈtsɔn di kɔˈlaj/
+[i bʊˈkwans ne ʝɐiˈlɔt ˌu.tɐ.vʊˈlo i ˌpʀe.fɐˈksɔn di kʊˈlaj]
+df overhead in July go.past-pst df preduction of-df guild
+The July expenditures overshot the guild's predictions.
+
+##
+
+238.3: cocheyau "stilt"
+
+cocheyau /koˈkjo/ [kʊˈkjo]
+- stilt, one of a pair of poles with footrests with which one can walk raised above the ground;
+- pile, piling, one of the posts on which a building stands over water or soft ground;
+- shank, pin, a long thin leg seeming too spindly for its owner;
+- prop, crutch, trappings, something that lends a person height or standing they have not earned
+
+Etymology: seventeenth century, in travel writing describing a particular acrobatic act in coastal China, borrowed from a local Chinese language's 高蹺 • cōchiāu "stilts", literally "high-tiptoe". Use for lower limbs may (if not self-directed) be seen as offensive. The last senses are attested from the 1920s, originating in entertainment circles.
+
+Casc majon dy hamblot se tienn sur cocheyau.
+/kax maˈʒɔn di hamˈblɔt se tjɛnn̩ sɪr koˈkjo/
+[kax mɐˈʝɔn di hɐmˈblɔt se ˈtjɛ.nɐn sɪː kʊˈkjo]
+each house of-df village rfl hold-3p on stilt
+All the houses in the village stand on stilts.
+
+##
+
+238.4: magnfayent "magnificent"
+
+magnfayent /ˌmɛjn.feˈjɛnt/ [ˌmɛiɱˈfjɛnt]
+- splendid, sumptuous, magnificent, august, eminent, grand in appearance or in scale;
+- munificent, generous, magnanimous, giving on a lavish scale;
+- accomplished, impressive, having done great deeds;
+- grandiose, overblown, more impressive in show than in substance
+
+Etymology: late Old Borlish maȝn faȝent (also as one word), a calque adaptation of Latin magnificus "great, splendid" as maȝn "much, a lot" and faȝent "doing", from Latin magnus "big" and faciēns "doing, making". Unambiguously ironic or deprecatory usage is seen only from the late nineteenth century.
+
+Nos n'ayau jamay nuçal tan magnfayent assistuð.
+/nɔz neˈjo ʒaˈme niˈtsal tan ˌmɛjnˌfeˈjɛnt ˌa.sɪˈstɪθ/
+[nɔz nɪˈʝo ʝɐˈme nɪˈtsal tam ˌmɛiɱˈfjɛnt ˌa.sɪˈstɪθ]
+1p ng=have-ipf.1p never wedding so magnificent attend-p.pst
+We'd never attended such a magnificent wedding.
+
+##
+
+238.5: The Old Country (cont.)
+
+continued excerpt from The Old Country, a tourist guidebook about Britain aimed at travellers from British Mendeva written by Ossewma'h Ariandro.
+
+…the other controlling Wales, and so Wales was permitted to hold itself. In 1121 the arrangement nearly collapsed—Vigo VII, king of Devon, launched a failed invasion of the Tremonnow [Monmouth] region without the Emperor's blessing (Roger II was in Paris facing a depleted treasury and a Flemish impasse).
+
+Alan VI split Devon from Kernow in the realignment of 1225, some decades after the disintegration of the Drengot Empire, and Wales spent the rest of the century collecting counties. In 1280 the lord Ivan of Cartaw [Cardiff] conquered what remained of Devon of (it seems) his own accord—his king, David, showed some rare good sense and decided he had authorised the act all along. Thus he declared the Tallath of Devon and granted it to Ivan's son Marduth, Ivan having died of a fever before he could enjoy his spoils.
+
+Salt and sail
+
+Through the fourteenth and fifteenth centuries, while the Mallor Wars between Wales and Markland raged once more (not for nothing does the city of Rexam/Car Vantel [Wrexham] have two unrelated names), the fishermen of Dunclothe were trawling the northern banks for cod. Access to the hungry Middlesea [Mediterranean] markets required salt for curing, and lords grew wealthy on the flow of salt north and fish south. They also accumulated coin on a scale unmatched since the Roman days.
+
+Such quantities of coin bought Wales a new harbour at Aberdaglethow [Milford Haven], which had been a fishing village and which became by 1420 the second-largest port in Albion [Great Britain] after London. Even more consequentially, the people (or at least the nobility) of Wales, Dunclothe, Sodrick, Kernow, Devon and the eastern Irish coast acquired the habit of thinking of themselves as having common political interests.
+
+British fishing can also indirectly be credited—or blamed—for the Vetomundane [Old World] landfall on Mendeva [N Am] in 1471, for it was a desire to displace their position in the fishing trade that led Vascony under Ambrose III to create the New Navarre Enterprise and to explore the northern Atlantic further that anyone since the Danes.
+
+The Tythew Compact
+
+In some ways the formation of a united Kingdom of Britain was an accident. Almost certainly nobody in Tythew [St Davids] on that spring day in 1424 believed they were…
+
+##
+

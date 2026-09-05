@@ -2,7 +2,6 @@ abreu "the state of being waterlogged" < abrevar "irrigate, soak, drench"
 authicanopoesy "complacency" | authican "self-sufficient" | authicanopoetic "complacent" < Gk
 belligrman "warmonger" < belliger "warlike" + -man "purveyor of"
 carnoval "carnival"
-cocheyau "stilt" < Ch 高蹺 gāoqiāo
 cuindr "kernel" < cyrnel in OE
 depoussar "cashier, fire" < depulso
 empory "economy" < emporium
@@ -12,7 +11,6 @@ fancy "idea, fantasy, dream" < phantasia
 issaughar "rinse, flush" < exaquō
 kembang "firework" < Indonesian kembang api "flower of fire"
 laðr "plough" < Insular Latin alatrum < aratrum "plough"
-magnfayent "magnificent" < calque of L magnificens | magnfair "be magnificent" (backformation)
 manne "handful, hand of cards" < man "hand"
 micr "loaf, bread roll" < mīccula < mīcca < mīca "crumb" | micrman "bakery" < -man "monger"
 mogon "arsehole (slang)" < Swahili mkundu
@@ -21,7 +19,7 @@ obsequïr "give away"
 pacentar "be patient to, put up with" < patiens
 pantachualtað "universalism" < Gk pantakhou | pantachual
 passar roug "to have difficulty, to struggle, to encounter setbacks", literally "to pass red"
-paugral "paragraph, clause" < paragraphus
+paugral "paragraph, clause of a contract" < paragraphus
 pylon "portal" < Gk
 soujavigar "dredge" < javigar "trawl"
 spinglar "pin down" < cf. French épingler

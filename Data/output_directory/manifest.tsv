@@ -726,7 +726,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 142.2	dictionary	beuscr "monster"	beuscr	monster	True	4	176	1128	dictionary/142.2_beuscr_monster.md
 142.3	dictionary	ec ogl quïr "close one's eyes"	ec ogl quïr	close one's eyes	True	2	166	1025	dictionary/142.3_ec_ogl_quïr_close_one's_eyes.md
 142.4	dictionary	oundrar "wound"	oundrar	wound	True	3	125	740	dictionary/142.4_oundrar_wound.md
-142.5	notes	Tremonnow			False	0	263	1700	notes/142.5_Tremonnow.md
+142.5	notes	Tremonnow			False	0	263	1701	notes/142.5_Tremonnow.md
 143.1	excerpt	Prehistory Curriculum			False	0	343	2157	excerpt/143.1_Prehistory_Curriculum.md
 143.2	dictionary	æternar "immortalise"	æternar	immortalise	True	3	112	811	dictionary/143.2_æternar_immortalise.md
 143.3	dictionary	rasamar "tsunami"	rasamar	tsunami	True	2	138	822	dictionary/143.3_rasamar_tsunami.md
@@ -1217,3 +1217,9 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 237.2	dictionary	ottonam "brass"	ottonam	brass	True	4	146	918	dictionary/237.2_ottonam_brass.md
 237.3	dictionary	kivougl "holly"	kivougl	holly	True	4	171	1036	dictionary/237.3_kivougl_holly.md
 237.4	dictionary	obsequïr "give away"	obsequïr	give away	True	4	163	1026	dictionary/237.4_obsequïr_give_away.md
+237.5	notes	The Old Country			False	0	591	3557	notes/237.5_The_Old_Country.md
+238.1	excerpt	Rebound			False	0	292	1639	excerpt/238.1_Rebound.md
+238.2	dictionary	outrvolar "overshoot"	outrvolar	overshoot	True	5	172	1051	dictionary/238.2_outrvolar_overshoot.md
+238.3	dictionary	cocheyau "stilt"	cocheyau	stilt	True	4	159	952	dictionary/238.3_cocheyau_stilt.md
+238.4	dictionary	magnfayent "magnificent"	magnfayent	magnificent	True	4	123	876	dictionary/238.4_magnfayent_magnificent.md
+238.5	notes	The Old Country (cont.)			False	0	160	969	notes/238.5_The_Old_Country_(cont.).md
