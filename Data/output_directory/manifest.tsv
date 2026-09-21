@@ -1222,4 +1222,8 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 238.2	dictionary	outrvolar "overshoot"	outrvolar	overshoot	True	5	172	1051	dictionary/238.2_outrvolar_overshoot.md
 238.3	dictionary	cocheyau "stilt"	cocheyau	stilt	True	4	159	952	dictionary/238.3_cocheyau_stilt.md
 238.4	dictionary	magnfayent "magnificent"	magnfayent	magnificent	True	4	123	876	dictionary/238.4_magnfayent_magnificent.md
-238.5	notes	The Old Country (cont.)			False	0	160	969	notes/238.5_The_Old_Country_(cont.).md
+238.5	notes	The Old Country (cont.)			False	0	396	2431	notes/238.5_The_Old_Country_(cont.).md
+239.1	excerpt	The Red Princess			False	0	295	1569	excerpt/239.1_The_Red_Princess.md
+239.2	dictionary	pajot "burger"	pajot	burger	True	4	215	1279	dictionary/239.2_pajot_burger.md
+239.3	dictionary	soujavigar "roil"	soujavigar	roil	True	4	152	975	dictionary/239.3_soujavigar_roil.md
+239.4	dictionary	belligrman "warmonger"	belligrman	warmonger	True	4	158	1068	dictionary/239.4_belligrman_warmonger.md

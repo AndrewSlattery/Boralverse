@@ -1,6 +1,8 @@
 abreu "the state of being waterlogged" < abrevar "irrigate, soak, drench"
+anathemat "allergy" < L anathema
 authicanopoesy "complacency" | authican "self-sufficient" | authicanopoetic "complacent" < Gk
 belligrman "warmonger" < belliger "warlike" + -man "purveyor of"
+bicet "tobacco" < via Ar < Nah piciyetl
 carnoval "carnival"
 cuindr "kernel" < cyrnel in OE
 depoussar "cashier, fire" < depulso
@@ -21,7 +23,7 @@ pantachualtað "universalism" < Gk pantakhou | pantachual
 passar roug "to have difficulty, to struggle, to encounter setbacks", literally "to pass red"
 paugral "paragraph, clause of a contract" < paragraphus
 pylon "portal" < Gk
-soujavigar "dredge" < javigar "trawl"
+sarment "tendril, runner, shoot" < sarmentum
 spinglar "pin down" < cf. French épingler
 step de man "leg-up" < OE step, man "hand"
 terraçment "terrace"

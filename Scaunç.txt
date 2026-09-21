@@ -9764,7 +9764,7 @@ Born at her father's estate in western Furlaine, she lived in Verona for most of
 
 excerpted in translation from Borlish author Raunsvart Pagcomb's first work Y coroncr Kervandal (released in Merch as The Midnight Impostor), the story of a petty criminal thrust into a larger plot published in 1912 but set a century earlier in Modest-era Vascony.
 
-Sou y lumner dell'aubon joun, y citað de Bilvau lougeu com gem.
+Sou y lumner dy joun aubon, y citað de Bilvau lougeu com gem.
 In the early morning light, the city of Bilvaw glittered like a jewel.
 
 Azenar sente com un rat luïr n'un darsou magn car.
@@ -32330,7 +32330,7 @@ A round ends when an opponent cannot return the ball before the second bounce on
 Rebont interman un joy de ciel ovart e de cromn floisessem, e victour des Mysarnos vars Ẋr l Joas son connuð par nom a lau atorn.
 Rebound is a game of open skies and looser purse-strings, and champions from Mysarnos to Ẋr l Joas are known by name for leagues around.
 
-Certan hasardour son denuð risc par lorry triomph; bempart may attenoirn la e neyaurn, tragedy ottem ben pessem galant.
+Certan hasardour son denuð risc par lorry triomph; bempart may attenoirn aç e neyaurn, tragedy ottem ben pessem galant.
 Some punters have grown rich off their successes; many more have tried to and failed, courting greater or lesser tragedies.
 
 ##
@@ -32409,6 +32409,157 @@ British fishing can also indirectly be credited—or blamed—for the Vetomundan
 The Tythew Compact
 
 In some ways the formation of a united Kingdom of Britain was an accident. Almost certainly nobody in Tythew [St Davids] on that spring day in 1424 believed they were…
+
+##
+
+239.1: The Red Princess
+
+continued translation from the beginning of [real-life] book The Henchmen of Zenda by KJ Charles, a 2018 pastiche of the 1894 romp The Prisoner of Zenda.
+
+Deur cas y bustr de Sy Nobiltað Reyal y Princes Flavia, y quen a venir.
+Except in the case of Her Royal Highness Princess Flavia, the future queen.
+
+Flavia sta un cosvour (lon digr) dy fraðr, heriter sevent dy sanc posc y Prinç Rudolf.
+Flavia was cousin (of course) to the brothers, next heir of the Blood after Prince Rudolf.
+
+Sy paðr, ayent un pog may de sis ag majortað de sy famigl, aye Europ javigað por y rous imparent de linaç ottem seyon descovribr, e progentau un doncel san de tegnt idone e de nis admirabr.
+Her father, having somewhat more sense than the majority of his family, had scoured Europe for the best-born unrelated redhead he could discover, and produced a healthy girl of appropriate colouring and admirable vigour.
+
+La brouca tan de beltað com recas d'un princes vige, e may de çavel par un mesur signfeyant, e sy doum, jamay doutað den, sta y rey a venir mariðar, cuscon sey le.
+She had as much beauty as a wealthy princess requires, and significantly more brain, and her destiny, never doubted, was to wed the future king, whoever he might be.
+
+Jo say noc ou Rudolf Rous la desira por la meðes. Jo dout den; jo connuð noc ou candon le vis un femn com may d'un loy yon sy hopr ðejar, ben d'un mejan por sy fraðr vexar.
+I don't know if Red Rudolf wanted her for herself. I doubt it; I am not aware he ever saw a woman as more than a place to put his prick, or a way to confound his brother.
+
+##
+
+239.2: pajot "burger"
+
+pajot /paˈʒɔt/ [pɐˈʝɔt]
+- patty, burger, hamburger, a round of minced meat pressed flat and cooked (or a sandwich with this as a filling);
+- cake, bar, a flat round mass of any substance pressed or moulded to shape (as of e.g. soap);
+- (obsolete or historical) poultice, compress, a soft mass bound in cloth and pressed against a wound or other bodily pain;
+- (military slang) mine, landmine, a flat cylindrical explosive charge laid on or just below the ground;
+
+Etymology: Middle Borlish, via Norman from Doccian [Occitan] pallota "patty, squat cylinder of food", apparently a diminutive formation from palla "straw, animal fodder". This seems to have been influenced semantically by unrelated pala "blade, paddle, shovel" (perhaps due to a dialectal byform pall, which may reflect a variant palium in Vulgar Latin). The military sense arose during the City Wars of the 1940s and 50s; the medical sense was partially revived in the 1960s by writers of historical fiction.
+
+L'accatau tre pajot a savon vert teyent un solt a cascun.
+/ˌla.kaˈto tre paˈʒɔt a saˈvɔn vɛrt tjɛnt ɪn sɔlt a kaˈxɪn/
+[ˌla.kɐˈto tre pɐˈʝɔt a sɐˈvɔn vɛːt tjɛnt ɪn sɔlt a kɐˈçɪn]
+3s=buy-pst three patty at soap green number-p.prs one shilling at each
+He bought three green bars of soap for a shilling each.
+
+##
+
+239.3: soujavigar "roil"
+
+soujavigar /suˌʒa.viˈgar/ [sʊˌʝa.vɪˈgɐː]
+- dredge, to deepen a channel or a harbour by scooping out its bed;
+- drag, to search the bed of a water for something lost;
+- roil, agitate, to stir up settled silt and so cloud the water;
+- rabblerouse, demagogue, to make angry or riotous using inflammatory speech
+
+Etymology: sixteenth century, compound of sou- "under" (from Latin prefix sub- "under") and javigar "trawl; scour, comb through". The verb derives from noun javig "trawlnet", borrowed in the thirteenth century from synonymous xaviga in Portingale. This in turn reflects Arabic شبكة • shabaca "fishing net". In a political context the term is seen from accounts of the lead-up to the Democratic Wars of the eighteenth century.
+
+Y costoscment commandara y floy soujavigar.
+/i ˌkɔ.stɔxˈmɛnt kɔˌman.daˈra i flɔi suˌʒa.viˈgar/
+[i ˌkɔ.stʊxˈmɛnt kʊˌman.dɐˈʀa i flɔi sʊˌʝa.vɪˈgɐː]
+df authorities command-fut df river dredge-inf
+The police will order the river to be dredged.
+
+##
+
+239.4: belligrman "warmonger"
+
+belligrman /bɛˌlajr̩ˈman/ [bɪˌla.jɐˈman]
+- warmonger, hawk, one who agitates for war or stirs a quarrel toward it;
+- arms dealer, war profiteer, one who trades in the means of making war;
+- belligerent, a state or a party actively engaged in a war;
+- (in apposition, of a polity) warring, bellicose, given to making war on its neighbours
+
+Etymology: nineteenth century, compound of belligr "warlike, martial, valiant" (from synonymous belliger in Latin) and the suffix -man "merchant, purveyor". This suffix derives via -mang in Old Borlish, likely from Old English mangere "trader, merchant" or else directly from Latin mangō "(dishonest) dealer, especially of slaves". Originally in general attitudinal use; the more mercenary senses were influenced by other words using the -man suffix.
+
+Stikettanç com belligrman mesplagheu noc y slectour.
+/ˌsti.kɛˈtants kɔm bɛˌlajr̩ˈman ˌmɛz.plɛˈjau nɔk i slɛkˈtur/
+[ˌsti.kɪˈtans kɔm bɪˈla.jɐˈman ˌmɛz.plɪˈʝau nɔ‿gi zlɪkˈtʊː]
+labelling as warmonger displease-pst ng df voter
+Being labelled as a warmonger didn't deter the voters.
+
+##
+
+239.5: Events of 1824
+
+notes on various events which occurred in 1824 (recalling that the Nuntial calendar year runs from March to February).
+
+The Majoric [Hungarian] canon Berzéthy Antal claimed on 1824 April 3 to have deciphered the Mysarnos Codex, using a series of context-dependent subsitution rules mapping the glyphs to Latin letters. Berzéthy liberally re-interpreted the resulting text as a collection of devotional psalms. The Library of Sobjan [Pécs] issued him with a commemorative medal and an increased stipend.
+
+At the Verona Arena (the Roman amphitheatre having been recently restored in the aftermath of the Second German War), Chiarina Bruno's opera Ale in Fiamme was first performed on 1824 June 12. The composition incorporated off-stage string instruments tuned flat to depict the viol cemtir (death-spirits of Borlish folklore), an element of stories related her twin brother Jacomo told her. Jacomo had served with Borlish soldiers at the 1821 Battle of Hulm [Ulm].
+
+Some months later, on 1824 October 5 a fraudulent transmission by the flag-lamp steeplepost [opticial telegraph] in Ambrosia led the mechanical display in Aiga d'Angoixa [Quebec City] to mistakenly announce the death of governor Guillem Arrosteguy. This was followed on October 11 by a false declaration of war with Ambrosia's southern neighbour New Provence. The resulting panic famously allowed broker Amadeu Lascorz to become (briefly, before his arrest) the richest person in Ambrosia before ships arrived from Gorram [a city in New Jersey] on October 12 with the truth.
+
+The Vascon farm theorist Ricardo Ivarrachezuri presented research on 1824 November 20 documenting that semen from male animals rapidly becomes non-viable if stored in copper syringes; he proposed that this was by the same mechanism by which copper vessels kill zoia [micro-organisms] and prevent infections.
+
+On 1824 January 24 the Borlish mathematician Darren Brodus published a refutation of the Berzéthy decipherment in fewer than 400 words. By applying Berzéthy’s substitution rules to items from the previous week's Axbane shipping register, Brodus generated devotional prose which was just as coherent as Berzéthy's translations.
+
+The following Monday, the assayer and alchemist Yorreth ap Trahaen isolated an unknown mineral (mẃn kildarec "killdark ore") from the mines at Killdara [Kildare] in Ireland. The material was initially monopolised by a Dublin pottery maker to create yellow-green glazes.
+
+##
+
+240.1: Snake Oil
+
+a back-page advertisement in translation from a Borlish weekly in January 1897; the front page story of this issue reported that the Drengot Collusion had declared war on Vascony.
+
+SOFREÐ VOS D'UN FEBILTAÐ NY MEMBR, un freidour ny gien ben un vogdeç de nis?
+DO YOU SUFFER FROM A LETHARGY OF THE LIMBS, a chill in the cheeks or a vacancy of vigour?
+
+Lor prenað, com faun oy mil a gent, un cogler cottidian de BAUSM SANDRIN DE SANAT VESCOMB — y remed celebr detaxionnað des y frugt luiç dell'Arcabil.
+Then take, as thousands now do, a daily spoonful of DR VESCOMB'S SANDRINE SALVE—the celebrated restorator detacted from the bright fruits of the Arcabil.
+
+Un soul dos de cogler pre desjeun aðel y sanc con anim, met roðabr ag fam, e starchisc y corp contr nossell'ec yarn norðer e moglastr.
+A single spoonful before breakfast enlivens the blood, sharpens the appetite, and fortifies the constitution against our damp northern winters.
+
+Y bausm de Vescomb es rannuðað pall'eç sanat dy Relicquat de Santað a Calder com idone tan por domn, por figl e poll'eç parsanant.
+Vescomb's salve is recommended by medics of the Calder Museum of Health as suitable also for ladies, children, and the convalescent.
+
+Façað prudenç de haval boncop vençað sou nom comportant: vray bottel de Vescomb moustrn l'ensign dy naðr e vign.
+Beware of cheap imitations sold under similar names: genuine Vescomb bottles bear the emblem of the viper and vine.
+
+##
+
+240.2: cuindr "pip"
+
+cuindr /kaindr̩/ [ˈkain.dɐ]
+- pip, stone, a hard seed inside a fruit;
+- gland, node, a small firm swelling in the flesh under the skin;
+- knot, gristle, a hard lump in meat or muscle;
+- grudge, grievance, resentment, the negative feelings associated with a past injustice (real or imagined)
+
+Etymology: directly from Old Borlish curnle, cuinle "pip, fruit stone; grain (of cereal)". This was borrowed from Old English cyrnel "seed, acorn, kernel", a diminutive of the ancestor of "corn". The senses relating to meat and flesh appear to be present in the Old English, but may be an independent development in early modern Borlish; the emotional use is seen from as early as the sixteenth century.
+
+Y mandrin benoçað poll'occijon vene de cuindr a pom.
+/i manˈdrɪn ˌbe.noˈtsaθ pɔˌlɔ.ksiˈʒɔn veˈne de kaindr̩ a pɔm/
+[i mɐnˈdʀɪn ˌbe.nʊˈtsaθ pʊˌlɔ.ksɪˈʝɔn vɪˈne de ˈkain.dɐ‿ʀa pɔm]
+df cyanide use-p.pst for-df=killing come-ipf of pip at apple
+The cyanide used in the murder came from apple pips.
+
+##
+
+240.3: kembang "firework"
+
+kembang /kɛmˈbang/ [kɪmˈbaŋg]
+- firework, a charge which burns or bursts with coloured light and noise;
+- flare, a light fired to signal distress or to show ground at night;
+- rosette, an ornament or imititation of a rose or other flower used for instance as a badge of honour;
+- a shower of sparks as thrown from a forge or from a braking wheel;
+- (figuratively) flash in the pan, one-hit wonder, nine days' wonder, a showy but brief success or fame
+
+Etymology: sixteenth century, via Welsh and other European and N African accounts of the Great Borunesk [Borneo] Meeting of 1517. A borrowing of Bāsan [Indonesian] kembang "flower", presumably clipped from the compound kembangapi "flower-fire", itself a calque of hanabi in Nivoner [Japanese]. The final sense appears in an isolated use in the seventeeth-century epic poem Dottr d'Athen "Daughters of Athens", and regularly since the 1970s.
+
+Cay saçon a kembang ou deut ag joivr ben ag veil occas?
+/ke saˈtsɔn a kɛmˈbang u daut ɛj ʒɔivr̩ bɛn ɛj vil ɔˈkaz/
+[ke sɐˈtsɔn a kɪmˈbaŋg u daut ɛi ˈʝɔi.vɐ bɛn ɛi vil ʊˈkaz]
+fall season at firework q due to.df frost or to.df old sunset
+Is it firework season due to the cold or to late sunsets?
 
 ##
 

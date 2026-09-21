@@ -6295,6 +6295,35 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 
 \et Old Borlish < Latin
 
+\lx belligr
+\ps adj
+
+\ge warlike
+\ge martial
+\ge valiant
+
+\et from belliger in Latin
+
+\lx belligrman
+\ps n
+
+\ge warmonger
+\ge hawk
+\ge arms dealer
+\ge war profiteer
+\ge belligerent
+
+\xv Stikettanç com belligrman mesplagheu noc y slectour.
+\xe Being labelled as a warmonger didn't deter the voters.
+
+\ps adj
+
+\ge warring
+\ge bellicose
+
+\et nineteenth century, compound of belligr "warlike, martial, valiant" (from synonymous belliger in Latin) and the suffix -man "merchant, purveyor". This suffix derives via -mang in Old Borlish, likely from Old English mangere "trader, merchant" or else directly from Latin mangō "(dishonest) dealer, especially of slaves". Originally in general attitudinal use; the more mercenary senses were influenced by other words using the -man suffix.
+\mn belligr
+
 \lx beltað
 \ps n
 
@@ -14840,6 +14869,24 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et Agentive noun from cuidar
 \mn cuidar
+
+\lx cuindr
+\ps n
+
+\ge pip
+\ge stone
+\ge gland
+\ge node
+\ge knot
+\ge gristle
+\ge grudge
+\ge grievance
+\ge resentment
+
+\xv Y mandrin benoçað poll'occijon vene de cuindr a pom.
+\xe The cyanide used in the murder came from apple pips.
+
+\et directly from Old Borlish curnle, cuinle "pip, fruit stone; grain (of cereal)". This was borrowed from Old English cyrnel "seed, acorn, kernel", a diminutive of the ancestor of "corn". The senses relating to meat and flesh appear to be present in the Old English, but may be an independent development in early modern Borlish; the emotional use is seen from as early as the sixteenth century.
 
 \lx cuivr
 \ps n
@@ -31664,6 +31711,22 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Old Borlish < Latin
 
+\lx kembang
+\ps n
+
+\ge firework
+\ge flare
+\ge rosette
+\ge sparks
+\ge flash in the pan
+\ge one-hit wonder
+\ge nine days' wonder
+
+\xv Cay saçon a kembang ou deut ag joivr ben ag veil occas?
+\xe Is it firework season due to the cold or to late sunsets?
+
+\et sixteenth century, via Welsh and other European and N African accounts of the Great Borunesk [Borneo] Meeting of 1517. A borrowing of Bāsan [Indonesian] kembang "flower", presumably clipped from the compound kembangapi "flower-fire", itself a calque of hanabi in Nivoner [Japanese]. The final sense appears in an isolated use in the seventeeth-century epic poem Dottr d'Athen "Daughters of Athens", and regularly since the 1970s.
+
 \lx kemp
 \ps n
 
@@ -42052,6 +42115,24 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Old Borlish < Latin
 
+\lx pajot
+\ps n
+
+\ge patty
+\ge burger
+\ge hamburger
+\ge cake
+\ge bar
+\ge poultice
+\ge compress
+\ge mine
+\ge landmine
+
+\xv L'accatau tre pajot a savon vert teyent un solt a cascun.
+\xe He bought three green bars of soap for a shilling each.
+
+\et Middle Borlish, via Norman from Doccian [Occitan] pallota "patty, squat cylinder of food", apparently a diminutive formation from palla "straw, animal fodder". This seems to have been influenced semantically by unrelated pala "blade, paddle, shovel" (perhaps due to a dialectal byform pall, which may reflect a variant palium in Vulgar Latin). The military sense arose during the City Wars of the 1940s and 50s; the medical sense was partially revived in the 1960s by writers of historical fiction.
+
 \lx pal
 \ps n
 
@@ -43397,15 +43478,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
-
-\lx paus
 \ps interj
 
 \ge hang on
@@ -43414,6 +43486,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
+
+\lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -55514,6 +55595,23 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge threshold
 
 \et Old Borlish < Latin
+
+\lx soujavigar
+\ps ar v
+
+\ge dredge
+\ge drag
+\ge roil
+\ge agitate
+\ge rabblerouse
+\ge rabble-rouse
+\ge demagogue
+
+\xv Y costoscment commandara y floy soujavigar.
+\xe The police will order the river to be dredged.
+
+\et sixteenth century, compound of sou- "under" (from Latin prefix sub- "under") and javigar "trawl; scour, comb through". In a political context the term is seen from accounts of the lead-up to the Democratic Wars of the eighteenth century.
+\mn javigar
 
 \lx souject
 \ps n
