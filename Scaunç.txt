@@ -32563,3 +32563,46 @@ Is it firework season due to the cold or to late sunsets?
 
 ##
 
+240.4: laðr "plough"
+
+laðr /laðr̩/ [ˈla.ðɐ]
+- plough, an implement drawn through the ground to break and turn it before sowing;
+- blade, a curved plate fitted to a vehicle for shifting e.g. snow or rubble;
+- (historical) ploughland, carucate, as much land as a single team could work in a season (reckoned for tax purposes);
+- (archaic) team, outfit, workforce, crew, gang, gear and labourers needed to perform some amount of work (originally farmwork);
+- grind, slog, labour that is heavy and without interesting interruption
+
+Etymology: from Old Borlish laðre "plough" (also raðre, alaðre, arðre), various dissimulatory forms all descending from Latin arātrum "plough", a tool derivative from arō "I plough". The word is cognate with Welsh erydren and (disputedly) Merch rother, both meaning "oar". Use for groups of workers is seen from the fourteenth century and through the centralisation of farmland into the nineteenth, but fades from use with increasing mechanisation of agriculture; the final senses derive from the work-party use but have survived to the present.
+
+Toð y hayennaç sien cas histoir surcayen laðr.
+/tɔθ i ˌhe.jɛˈnats sjɛn kaz hɪˈstɔir ˌsɪr.kɛˈjɛn laðr̩/
+[ˌtɔ‿ði ˌhejˈnats sjɛn kaz hɪˈstɔ.jɐ ˌsɪːˈkjɛn ˈla.ðɐ]
+all df workload 3s.gn wrt history turn.out-ipf-3p plough
+Doing all her history homework was a slog.
+
+##
+
+240.5: False Friends (cont. 6)
+
+some more dictionary entries, this time concerning plants and animals, from the Concise Onomatory o'Merch (seventh edition), a reference work published in 2011 and compiled by the Utcheter [Uttoxeter] Lexical Association.
+
+- behemoth [/bɪˈhiː.mʊθ/ "hippopotamus"] n. a large-bodied, broad-nosed and river-swimming ferent [mammal] of Africa; anything of unwieldy size (for example, a trevold [novel]); a large and ungainly person; (religion) a great beast appearing in the book of Job. Early Merch in the scriptural sense < Late Latin behemoth < Hebrew בְּהֵמוֹת • behēmōth, apparently a plural of בְּהֵמָה • behēmā "beast". Applied to the ferent from c. 1640, after scholars identified the beast of Job with that animal, via a (now considered spurious) Egyptian p'eḥe'mau "water ox". In this sense, displaced earlier riverhorse < Greek ἱπποπόταμος • hippopótamos.
+
+- clause [/kləuz/ "gene"] a condition forming a distinct part of a legal document; (life) a length of heredian acid [DNA] carrying the method for some particular trait or function of a living thing; (language) a phrase considered as an indivisible unit of the formal structure of a sentence. Early Merch clause "sentence" < Old French clause < Medieval Latin clausa "close of a rhetorical period" < Latin claudō "I close". In life theory from 1865, originally in the phrase heredian clause, extending the textual metaphor of Rachel Desselut's Parable of the Mute Bookbinder (1743), in which living matter contains a written method for its own construction (compare heredian volume [chromosome]).
+
+dragon [/ˈdɾa.gʊn/ "dinosaur"] n. any of a group of lizards which filled the lands and seas until some sixty-six hundred myriad years ago, known chiefly from fossil remains and their surviving progeny the birds; (historical) a serpent of myth and legend, often winged, fire-breathing and hoarding treasure; (colloquial) a fierce, formidable or intimidating person; v. intr. of the breath, to show as vapour in cold air. 13C, early Merch dragoun < Old French dragon < Latin dracō "serpent, dragon" < Greek δράκων • drákōn "serpent", perhaps < δέρκομαι • dérkomai "I see clearly". Used principally in the real-world sense since the mid-nineteenth century, based on the usage since 1826 in the writings of Portingale rock theorist Maria Lourinnan.
+
+mause [/məuz/ "banana"] n. (pl. mause) the elongated fruit of a particular tropical plant with pale flesh inside a rind which ripens from green to yellow; the plant bearing this fruit, a tall treelike herb with broad leaves (also mauser or mause tree); a starchier variety of this fruit eaten cooked (usually cooking mause). 1530, clipped from earlier mauser fruit (15C) < Middle Borlish mauser "mause-tree" < maus < Arabic مَوْز • mawz < Middle Persian mōz < Sanscrit मोच • mōcha < Tāmir mōttai < ocean trade from further east. The word entered the English languages via Borlish trade through the fourteenth and fifteenth centuries.
+
+##
+
+241.1: Jeans
+
+Jeans is an Italian polity and city of the same name. It comprises the northwest Middlesea coastline of Italy bordering Provence as well as the island of Corse.
+
+Jeans is the oldest of the Latin Republics, having come into existence in the tenth century. Along with Venise, it serves as a counterpoint to the notion that the Second Tetrarchy period in the eleventh and twelfth centuries was solely comprised of great centralised empires. The leader of Jeans, known as the console, was elected from among the merchant nobility.
+
+In 1207 N Jeans invaded the Tyrrhene Isles of Corse and Sardine, wresting them from Roman control. Only the northernmost of the two islands would remain in the Jean orbit more permanently.
+
+##
+

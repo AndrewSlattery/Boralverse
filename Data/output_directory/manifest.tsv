@@ -98,7 +98,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 20.3	dictionary	y jainç tauger "the long game"	y jainç tauger	the long game	True	3	193	1223	dictionary/20.3_y_jainç_tauger_the_long_game.md
 20.4	dictionary	doujug veunt "ecosystem"	doujug veunt	ecosystem	True	2	146	977	dictionary/20.4_doujug_veunt_ecosystem.md
 20.5	notes	A University, and Twins			False	7	376	2327	notes/20.5_A_University,_and_Twins.md
-21.1	excerpt	The Midnight Impostor			False	0	277	1676	excerpt/21.1_The_Midnight_Impostor.md
+21.1	excerpt	The Midnight Impostor			False	0	278	1674	excerpt/21.1_The_Midnight_Impostor.md
 21.2	dictionary	uvrautr "fertile"	uvrautr	fertile	True	3	135	934	dictionary/21.2_uvrautr_fertile.md
 21.3	dictionary	yert "awake"	yert	awake	True	3	173	1009	dictionary/21.3_yert_awake.md
 21.4	dictionary	quomodolibet "libertine"	quomodolibet	libertine	True	2	95	716	dictionary/21.4_quomodolibet_libertine.md
@@ -1227,3 +1227,8 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 239.2	dictionary	pajot "burger"	pajot	burger	True	4	215	1279	dictionary/239.2_pajot_burger.md
 239.3	dictionary	soujavigar "roil"	soujavigar	roil	True	4	152	975	dictionary/239.3_soujavigar_roil.md
 239.4	dictionary	belligrman "warmonger"	belligrman	warmonger	True	4	158	1068	dictionary/239.4_belligrman_warmonger.md
+239.5	notes	Events of 1824			False	0	370	2449	notes/239.5_Events_of_1824.md
+240.1	excerpt	Snake Oil			False	0	243	1427	excerpt/240.1_Snake_Oil.md
+240.2	dictionary	cuindr "pip"	cuindr	pip	True	4	162	989	dictionary/240.2_cuindr_pip.md
+240.3	dictionary	kembang "firework"	kembang	firework	True	5	208	1186	dictionary/240.3_kembang_firework.md
+240.4	dictionary	laðr "plough"	laðr	plough	True	5	205	1310	dictionary/240.4_laðr_plough.md
