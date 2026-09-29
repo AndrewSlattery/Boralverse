@@ -11,8 +11,9 @@ A category is glossed only where it corresponds to a difference in form.
 - **Bare verb stems** get the meaning alone: *nað* 'swim', not 'swim.SG'. Endings are glossed as usual: *nascn* 'sail.3PL'.
 - **Pronouns** carry a case label only where their form differs from the subject form, and a form shared by two cases takes the less specific label:
   - *jo* 1SG, *me* 1SG.OBL (accusative and oblique are the same form)
-  - *le* 3SG.M (subject and accusative are the same form), *luy* 3SG.OBL (all three genders)
+  - *luy* 3SG.OBL (all three genders)
   - *ðe* 3PL, *lou* 3PL.ACC, *lour* 3PL.OBL (all three differ, so ACC is needed here)
+- **Exception, 3SG objects:** *le / la / lo* are glossed ACC as objects even though the form is the same as the subject: 3SG.M.ACC, 3SG.F.ACC, 3SG.N.ACC. As subjects they are plain 3SG.M etc. (This is for clarity; it matches the object glosses applied across Scaunç in the 2026-09-29 retcon.)
 - **Exception, disjunctive use:** a pronoun in disjunctive use is always glossed DSJ, even when the form is shared with another case. So *mey* 1SG.DSJ, *luy* 3SG.DSJ, *lou* 3PL.DSJ, and *nos* 1PL.DSJ, *vos* 2PL.DSJ (though *nos* and *vos* are the same as the subject forms). The Leipzig list has no standard label for disjunctive pronouns; DSJ is our addition, and DISJ is also seen in the literature.
 - **Gender** is glossed on the 3SG pronouns that show it: *le* 3SG.M, *la* 3SG.F, *lo* 3SG.N, but *luy* 3SG.OBL or 3SG.DSJ.
 
@@ -24,9 +25,9 @@ Forms are from the lexicon and the user's answers of 2026-09-29. Cells marked ? 
 |---|---|---|---|---|---|---|
 | 1SG | jo | me | me | mey | mien | jo 1SG, me 1SG.OBL, mey 1SG.DSJ |
 | 2SG | tu | te? | te | tey | tien | tu 2SG, te 2SG.OBL, tey 2SG.DSJ |
-| 3SG.M | le | le | luy | luy | sien | le 3SG.M, luy 3SG.OBL / 3SG.DSJ |
-| 3SG.F | la | la | luy | luy | sien | la 3SG.F |
-| 3SG.N | lo | lo? | luy | luy | ? | lo 3SG.N |
+| 3SG.M | le | le | luy | luy | sien | le 3SG.M / 3SG.M.ACC, luy 3SG.OBL / 3SG.DSJ |
+| 3SG.F | la | la | luy | luy | sien | la 3SG.F / 3SG.F.ACC |
+| 3SG.N | lo | lo | luy | luy | ? | lo 3SG.N / 3SG.N.ACC |
 | REFL | – | se | se? | sey | – | se REFL, sey REFL.DSJ |
 | 1PL | nos | nos | nos | nos | nostr | nos 1PL / 1PL.DSJ |
 | 2PL (also formal 2SG) | vos | vos | vos | vos | vostr | vos 2PL / 2PL.DSJ |
@@ -63,7 +64,7 @@ Possessive pronouns (*mien* 'mine' …) are glossed POSS, e.g. *mien* 1SG.POSS. 
 | negation | NEG | `\Neg` | neg, not |
 | reflexive (se) | REFL | `\Refl` | rfl, refl |
 | oblique pronoun | OBL | `\Obl` | obl; acc where it has the oblique form |
-| accusative pronoun | ACC, only where it has its own form (so far 3PL *lou*) | `\Acc` | acc |
+| accusative pronoun | ACC: 3PL *lou*, and 3SG *le / la / lo* as objects | `\Acc` | acc |
 | disjunctive pronoun (every disjunctive use) | DSJ | `\Dsj` | dsj, dj |
 | possessive (my, ty, sy …) | POSS | `\Poss` | gen, gn, ps, poss |
 | agentive (meyon 'by me' …; agent nouns in -our) | AGT | `\Agt` | dem, ins (1s.dem, 1s.ins); agt |

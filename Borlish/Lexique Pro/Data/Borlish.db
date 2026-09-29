@@ -29957,19 +29957,19 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ps n
 
 \ge settlement
-\ge colonisation
-\ge colonization
+\ge colony
 
-\et noun from instançar "settle"
-\mn instançar
+\et Middle Borlish < Italian < Latin
 
 \lx instançment
 \ps n
 
 \ge settlement
-\ge colony
+\ge colonisation
+\ge colonization
 
-\et Middle Borlish < Italian < Latin
+\et noun from instançar "settle"
+\mn instançar
 
 \lx instauraçon
 \ps n
@@ -43541,15 +43541,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
-
-\lx paus
 \ps interj
 
 \ge hang on
@@ -43558,6 +43549,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
+
+\lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -61885,7 +61885,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \mn un
 
 \lx untal
-\ps adj
+\ps det
 
 \ge somesuch
 \ge any
