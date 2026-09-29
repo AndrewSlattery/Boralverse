@@ -22032,6 +22032,28 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 
 \et Middle Borlish < Latin
 
+\lx fancy
+\ps n
+
+\ge apparition
+\ge vision
+\ge wraith
+\ge hallucination
+\ge mirage
+\ge trick of the light
+\ge illusion
+\ge pomp
+\ge pageantry
+\ge spectacle
+\ge show
+\ge pipe dream
+\ge castle in the air
+
+\xv Toð gent dema l'ig autonomy Rurtagn no sta for un fancy.
+\xe Everyone said Ruritanian independence was a pipe dream.
+
+\et a Middle Borlish contraction of fantasy "imagination, concept, idea". This descends from Latin phantasia "notion; phantom; imagination", which was borrowed from Greek φαντασίᾱ • phantasíā "appearance, image". The extension of the word to showy displays, first seen in philosophical Borlish in the eighteenth century, may reflect knowledge of the Greek etymon (which was used similarly).
+
 \lx fanglanç
 \ps n
 
@@ -29935,19 +29957,19 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ps n
 
 \ge settlement
-\ge colony
-
-\et Middle Borlish < Italian < Latin
-
-\lx instançment
-\ps n
-
-\ge settlement
 \ge colonisation
 \ge colonization
 
 \et noun from instançar "settle"
 \mn instançar
+
+\lx instançment
+\ps n
+
+\ge settlement
+\ge colony
+
+\et Middle Borlish < Italian < Latin
 
 \lx instauraçon
 \ps n
@@ -32151,7 +32173,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \lx la
 \ps pron
 
-\de third person masculine singular
+\de third person feminine singular
 \ge she
 \ge her
 \et
@@ -34173,7 +34195,7 @@ Old Borlish < Latin illa
 \lx lour
 \ps pron
 
-\ge their
+\ge theirs
 
 \et Old Borlish < Latin
 
@@ -43457,6 +43479,24 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Old Borlish < Latin perdrix
 
+\lx paugral
+\ps n
+
+\ge clause
+\ge article
+\ge paragraph
+\ge pilcrow
+\ge string attached
+\ge catch
+\ge proviso
+\ge condition
+\ge stipulation
+
+\xv La rescavau l'oç paugral alcheðr.
+\xe She rewrote that paragraph twice.
+
+\et from Old Borlish palgraf, pargrau "paragraph", alterations of synonymous paragraphus in Latin. Used for various scribal indications of new paragraphs since the fourteenth century. The final senses are from 1911 and arose from lawyers' informal use.
+
 \lx paulatim
 \ps adv
 
@@ -43501,6 +43541,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
+
+\lx paus
 \ps interj
 
 \ge hang on
@@ -43509,15 +43558,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
-
-\lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -56607,6 +56647,40 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge bug
 
 \et Old Borlish < Latin
+
+\lx spinglar
+\ps ar v
+
+\ge pin
+\ge fasten
+\ge affix
+\ge attach
+\ge mount
+\ge fix
+\ge pin on
+\ge pin down
+\ge restrain
+\ge hold down
+\ge collar
+\ge nab
+\ge nail
+\ge arrest
+\ge pinpoint
+\ge identify
+\ge place
+
+\xv Jo sceu noc y melody spinglar.
+\xe I couldn't identify the tune.
+
+\et Middle Borlish, verbal derivation from spingr "pin". Immobilisation senses not involving literal pins or similar objects arose in the sixteenth century, with the criminal sense coming from underworld argot soon afterward.
+\mn spingr
+
+\lx spingr
+\ps n
+
+\ge pin
+
+\et via synonymous Old Borlish ispingle and Vulgar Latin spīngula from a conflation of Latin spīnula "small thorn" and spīcula "small spike". 
 
 \lx spion
 \ps n

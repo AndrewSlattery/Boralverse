@@ -1,6 +1,6 @@
 Axbane (Borlish Ausbagn /ozˈbɛjn/) is a major city on the southwest coast of [[Borland]]. It is located at the narrowest part of the [[Rustigh Strait]], less than twenty leagues from [[Willemy]] on mainland [[Europe]].
 ## Toponymy
-Both the English and Borlish names descend from (the dative case of) the original Latin name for the city *Aquīs Balneīs* "to the bathing waters". Compare the city of Bath in [[Albion]] and of [[Axton]] (Grand-Aix /gʀãˈdɛis/, Aughen /ˈɔ.xn̩/) in Willemy.
+Both the English and Borlish names descend from (the dative case of) the original Latin name for the city *Aquīs Balneī* "to the bathing waters". Compare the city of Bath in [[Albion]] and of [[Axton]] (Grand-Aix /gʀãˈdɛis/, Aughen /ˈɔ.xn̩/) in Willemy.
 ## History
 As a Roman city, Axbane was home to an extensive bathhouse complex, for which the city is named.
 

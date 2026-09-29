@@ -25,7 +25,7 @@ Between a consonant and one of the vowels ‹a e o u›, the letters ‹i u› d
 #### Vowel digraphs
 The digraphs ‹au eu ou› are pronounced /o au u/ respectively. The rarer ‹ao eo› share their pronunciation with ‹eu›.
 ‹taur teun tout | paon theory›
-/tor taun tut | paun thauˈri/
+/tor taun tut | paun θauˈri/
 'bull scant everything | peacock science'
 
 The digraphs ‹ai ei oi ui› and ‹ay ey oy uy› are pronounced /e i ɔj aj/ respectively. Intervocalically ‹y› does double duty, simultaneously affecting the previous vowel as stated and acting as an onset /j/.

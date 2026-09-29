@@ -1,0 +1,73 @@
+% !TEX TS-program = xelatex
+\documentclass[12pt,oneside]{memoir}
+\input{preamble}
+
+% --- Document Metadata ---
+\title{A Reference Grammar of Borlish}
+\author{Jack H Keynes}
+\date{\today}
+
+% While drafting, compile only the chapters you are working on (faster;
+% example and page numbers may differ from a full build):
+% \includeonly{chapters/adjectives}
+
+\begin{document}
+
+\frontmatter
+\maketitle
+\tableofcontents*
+\include{frontmatter/conventions}
+
+\mainmatter
+
+\part{Introduction}
+\include{chapters/introduction}
+\include{chapters/word-classes}
+
+\part{Sounds and Writing}
+\include{chapters/phonology}
+\include{chapters/orthography}
+\include{chapters/morphophonology}
+
+\part{Nominals}
+\include{chapters/nouns}
+\include{chapters/determiners}
+\include{chapters/pronouns}
+\include{chapters/adjectives}
+\include{chapters/numerals}
+
+\part{Verbs}
+\include{chapters/verb-morphology}
+\include{chapters/tam}
+\include{chapters/copulas}
+\include{chapters/voice}
+
+\part{Adverbs and Function Words}
+\include{chapters/adverbs}
+\include{chapters/prepositions}
+\include{chapters/particles}
+
+\part{Clauses and Sentences}
+\include{chapters/simple-clause}
+\include{chapters/negation}
+\include{chapters/sentence-types}
+\include{chapters/complex-sentences}
+\include{chapters/relative-clauses}
+\include{chapters/comparison}
+\include{chapters/information-structure}
+
+\part{Words and Usage}
+\include{chapters/word-formation}
+\include{chapters/lexical-fields}
+\include{chapters/register-names}
+
+\appendix
+\appendixpage
+\include{appendices/verb-tables}
+\include{appendices/historical-phonology}
+\include{appendices/basic-vocabulary}
+\include{appendices/texts}
+
+\backmatter
+
+\end{document}

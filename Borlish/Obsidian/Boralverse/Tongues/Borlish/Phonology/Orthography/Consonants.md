@@ -33,7 +33,7 @@ The letter ‹x› regularly denotes the phoneme sequence /ks/.
 /ksiˈvɔl auˈksɔn ɪnˈkɔks/
 'waltz quartz digestion'
 
-Consider the final six letters ‹c g h s t y› when they occur alone (not part of a digraph). In this case, the letters ‹t y› regularly denote /t j/ respectively. The letter /t/ may be doubled, without any effect on its pronunciation.
+Consider the final six letters ‹c g h s t y› when they occur alone (not part of a digraph). In this case, the letters ‹t y› regularly denote /t j/ respectively. The letter ‹t› may be doubled, without any effect on its pronunciation.
 ‹tien yoc | cattin›
 /tjɛn jɔk | kaˈtɪn/
 'yours husband | kitten'

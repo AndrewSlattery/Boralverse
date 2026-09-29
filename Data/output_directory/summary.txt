@@ -10,10 +10,10 @@ By type:
   notes           239
 
 Word count by type:
-  excerpt        65,388 words
-  dictionary    104,287 words
+  excerpt        65,387 words
+  dictionary    104,304 words
   notes          87,403 words
-  total         257,078 words
+  total         257,094 words
 
 Post range:         1 – 240
 

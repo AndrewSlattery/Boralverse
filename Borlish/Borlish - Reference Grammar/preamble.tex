@@ -1,0 +1,67 @@
+% !TEX root = b-rg.tex
+% Packages and macros for the reference grammar; \input by b-rg.tex.
+
+\usepackage{graphicx} % Required for inserting images
+
+% --- Font & Language ---
+\usepackage{fontspec}
+\setmainfont{Charis SIL} % Or Doulos SIL / Gentium Plus
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+
+% --- Linguistic Examples ---
+\usepackage{expex} % For numbered examples and glosses
+
+\newcommand{\glphm}[3]{%
+  \ex
+  \begingl
+  \gla #1 //
+  \glb /#2/ //
+  \glc #3 //
+  \endgl
+  \xe\ignorespaces
+}
+
+\newcommand{\glpht}[4]{%
+  \ex
+  \begingl
+  \gla #1 //
+  \glb /#2/ //
+  \glb {[}#3{]} //
+  \glc #4 //
+  \endgl
+  \xe\ignorespaces
+}
+
+% --- Glossing Abbreviations ---
+% Leipzig Glossing Rules. Write grammatical glosses with the macros (\Pst,
+% \Inf, \Def, \First\Sg ...), braced so expex keeps each gloss word whole:
+% {swim-\Inf} {\Def=time}. Only abbreviations actually used appear in the
+% list printed in frontmatter/conventions.tex (needs two XeLaTeX runs).
+% Variant-to-standard mapping: planning/glossing-abbreviations.md.
+\usepackage[glossaries,section]{leipzig}
+\makenoidxglossaries
+% Borlish-specific additions to the standard Leipzig set:
+\newleipzig{agt}{agt}{agentive}
+\newleipzig{cmpr}{cmpr}{comparative}
+\newleipzig{coll}{coll}{collective}
+\newleipzig{dsj}{dsj}{disjunctive}
+\newleipzig{pot}{pot}{potential}
+
+% --- Example Custom Command for IPA Transcription ---
+\newfontfamily\ipa{Charis SIL}
+\newcommand{\pht}[1]{[{\ipa #1}]}
+\newcommand{\phm}[1]{/{\ipa #1}/}
+
+\usepackage{caption}
+
+\newcommand{\obs}{\textsuperscript{\textdagger}}
+\newcommand{\bl}[1]{\emph{#1}}
+\newcommand{\orth}[1]{‹~#1~›}
+
+% --- Table of Contents ---
+\setlength{\cftpartnumwidth}{2.5em} % room for part numerals like VII
+
+% --- Drafting ---
+% Placeholder for chapters that so far exist only as an outline (in comments).
+\newcommand{\stub}{\par\emph{[To be written.]}\par}

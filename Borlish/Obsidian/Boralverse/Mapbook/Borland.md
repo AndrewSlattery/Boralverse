@@ -1,6 +1,6 @@
 Borland (in Borlish **Istr Boral** /ɪstr̩ boˈral/) is the easternmost of the three major landmasses in the [[Northwestern Isles]], and also the name of the singular polity located thereon. The capital of Borland is [[Damvath]], a port city on the east coast of the island.
 ## Etymology
-The name 'Borland' descends via from Old English **Boralland, Borala land** 'land of the Borlish people', where the first element is taken from Latin **Borālī** 'Borlish people'.
+The name 'Borland' descends via from Old English **Boralland, Borala land** 'land of the Borlish people', where the first element is taken from Latin **Borālēs** 'Borlish people'.
 
 The origin of the Latin demonym is disputed. It is unknown whether the Romans knew the land as **īnsula boreālis** 'island in the north' before they settled Borland, or whether they borrowed the native Kelt name **enis borag** 'island of the dawn' (from its easterly position with respect to [[Albion]] and Ireland).
 ## History
@@ -63,7 +63,7 @@ After the fall of the First Kingdom in 898 (and the establishment of Dane Borlan
 ### Medieval Imperia
 In the context of the [[First Drengot Empire]] to the west and the [[German Empire]] to the south, independent Borland had significant strategic value both militarily and economically. This was especially true in the towns and cities along the south coast such as [[Axbane]], which saw a great increase in harbour traffic during the eleventh and twelfth centuries.
 
-This period also saw the arrival of the [[Jacobin Fraternity]] to the island. Forced to flee [[Flanders]] in 1067 after being implicated in a popular uprising against Emperor [[Nathaniel II, Drengot Emperor|Nathaniel II]], they built the Penisular Monastery overlooking the city of Axbane.
+This period also saw the arrival of the [[Jacobin Fraternity]] to the island. Forced to flee [[Flanders]] in 1067 after being implicated in a popular uprising against Emperor [[Geoffrey II, Drengot Emperor|Geoffrey II]], they built the Penisular Monastery overlooking the city of Axbane.
 ### Post-Tetrarchic Borland
 With the collapse of the [[German Empire]] and growing sympathies towards the [[Augsburg See]], Rome considered the [[Baptism of the North]] an urgent undertaking. The Rome-allied Duchy of [[Crain]] collaborated with Borlish missionary forces and the [[Convoy Australier]] to bring Christianity to [[Lithow]] and its more distant [[Graven Sea]] neighbours.
 

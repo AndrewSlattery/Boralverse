@@ -14,6 +14,6 @@ In 1170 the Kingdom of Burgundy ceased to be a vassal of the First Drengot Empir
 The First Drengot Empire formally ceased to exist in 1191 upon the death of Daniel IV; his demesne was divided between his immediate family and his allies.
 
 ## Emperors
-- Nathaniel II (fl. 1067), who quashed a popular uprising in Flanders
+- Geoffrey II (fl. 1067), who quashed a popular uprising in Flanders
 - Roger II (fl. 1121), under whose aegis Devon attempted to invade Wales without success
 - Daniel IV (d. 1191), last ruler of a united Drengot Empire

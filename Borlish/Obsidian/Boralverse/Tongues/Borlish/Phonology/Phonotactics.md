@@ -1,19 +1,19 @@
 There are several restrictions on where in a syllable or a word certain segments can appear. The consonants /v s ʒ h/ do not occur in coda position, and /ð/ does not occur word-finally. When morphology would place /ð s ʒ/ in a forbidden position they are replaced with /θ z x/ respectively.
 ‹nað-ar nað | fass-ar fas | naj-ar nascn›
 /naˈðar naθ | faˈsar faz | naˈʒar ˈnax.n̩/
-'swim-inf swim.s | wrap-inf wrap.s | sail-inf sail.3p'
+'swim-inf swim | wrap-inf wrap | sail-inf sail.3p'
 
 When morphology would place /v/ in a forbidden position, either /f/ replaces it or the preceding vowel is altered.
 ‹cav-ir caf | bav-ar bau›
 /kaˈvɪr kaf | baˈvar bo/
-'get-inf get.s | bark-inf bark.s'
+'get-inf get | bark-inf bark'
 
 Syllabic consonants do not occur in stressed or initial syllables, and the 'lax' vowels /ɪ ɛ ɔ/ do not occur in stressed open syllables.
 ### Onsets
 Any vowel can begin an initial syllable, but under most analyses non-initial syllables must begin with a consonant.
-‹al enç aiç il eir onc aust ou›
-/al ɛnts ets ɪl ir ɔnk ost u/
-'wing start ease they go hook east egg'
+‹al enç aiç id eir onc aust ou›
+/al ɛnts ets ɪd ir ɔnk ost u/
+'wing start ease ides go hook east egg'
 
 Any single consonant may constitute an onset. Two-consonant onsets are of three kinds: for the first, the second segment is a liquid (one of /l j r/; the case of /w/ is dealt with above), preceded either by a stop or a fricative. The liquid /l/ does not occur after the segments /t d θ ð ʒ/, and the liquid /r/ does not occur after the segments /ð s z ʒ/.
 ‹plait droug gien thron›
@@ -45,7 +45,7 @@ Empty codas are permitted, including word-finally. However, the 'lax' vowels /ɪ
 Any single consonant except /v s ʒ h/ may be a coda. There are several types of two-consonant coda. A liquid may be followed by any non-liquid that can appear in codas at all; a nasal by any such non-liquid and non-nasal.
 ‹sculd tragç corf lucern | hamt coyenç ans›
 /xɪld trɛjts kɔrf liˈtsɛrn | hamt koˈjɛnts anz/
-'obligation clue raven lantern | live.s prevention handle'
+'obligation clue raven lantern | live prevention handle'
 
 The fricative /s/ may precede a voiceless stop; /f/ may precede /t/ specifically.
 ‹cosp fest masq | haft›

@@ -3,7 +3,7 @@ The dialects of Borlish are the only surviving descendants of the Insular variet
 
 1. Loss of intervocalic /w/, as evidenced in inscriptions:
    - `clam` "key" (continental `clavem`)
-   - `denio` "I reach" (continental `devenio`)
+   - `denio` "I come" (continental `devenio`)
 2. Loss of word-final /s/, probably preceded by a period of debuccalisation where final /s/ was pronounced /h/. The dating of this sound change is controversial:
    - Fifth-century `a femna` "the women (acc.)" (Classical `hās fēminās` "these women")
 

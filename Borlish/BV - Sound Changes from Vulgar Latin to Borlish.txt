@@ -2,7 +2,7 @@ Sound Changes from Vulgar Latin to Borlish
 
 The dialects of Borlish are the only surviving descendants of the Insular variety of Vulgar Latin, which comprised Borlish Latin and British Latin. This variety was not overly divergent from the contemporary (ca. 3rd to 5th century) Latin of the continent, with the following exceptions:
 
-    The loss of intervocalic  /w/, as evidenced in inscriptions by e.g. clam "key" (continental clavem) and denio "I reach" (continental devenio).
+    The loss of intervocalic  /w/, as evidenced in inscriptions by e.g. clam "key" (continental clavem) and denio "I come" (continental devenio).
     The loss of wordfinal  /s/, probably preceded by a period of debuccalisation where final  was pronounced /h/. The dating of this sound change is controversial; cf. fifth-century *a femna* "the women (acc.)" (Classical hās fēminās "these women").
 
 The second of these local changes was grammatically significant, as it weakened the distinctions between forms in noun declensions. Indeed, already by the Old Borlish period all number and case distinctions in nouns have been lost.

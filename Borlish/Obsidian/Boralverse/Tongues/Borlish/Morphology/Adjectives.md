@@ -38,7 +38,7 @@ Certain historically long vowels in the final syllable of an adjective may short
 
 Adjectives ending in ‹-e› form the comparative in ‹-eyessem›.
 ‹idone idoneyessem›
-/ˌi.doˈne ˌi.doˈnjɛ.sɛm/
+/ˌi.doˈne iˌdo.niˈjɛ.sɛm/
 'convenient {more convenient}'
 
 ### Adjectives in Syllabic -r

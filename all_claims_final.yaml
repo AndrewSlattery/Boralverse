@@ -6293,13 +6293,13 @@ claims:
   title: Borland
   category: event
   claim: The Jacobin Fraternity was forced to flee Flanders in 1067 after being implicated in a popular uprising against Emperor
-    Nathaniel II.
+    Geoffrey II.
   entities:
   - name: Jacobin Fraternity
     type: organisation
   - name: Flanders
     type: polity
-  - name: Nathaniel II
+  - name: Geoffrey II
     type: person
   dates:
   - 1067 N
@@ -13359,9 +13359,9 @@ claims:
 - entry: 64.5
   title: First Drengot Empire
   category: person
-  claim: Nathaniel II (fl. 1067 N) was a Drengot Emperor who quashed a popular uprising in Flanders.
+  claim: Geoffrey II (fl. 1067 N) was a Drengot Emperor who quashed a popular uprising in Flanders.
   entities:
-  - name: Nathaniel II
+  - name: Geoffrey II
     type: person
   - name: First Drengot Empire
     type: polity
@@ -17852,7 +17852,7 @@ claims:
 - entry: 106.5
   title: Axbane
   category: language
-  claim: Both the Merch name Axbane and the Borlish name Ausbagn descend from the dative case of the Latin name Aquīs Balneīs,
+  claim: Both the Merch name Axbane and the Borlish name Ausbagn descend from the dative case of the Latin name Aquīs Balneī,
     meaning 'to the bathing waters'.
   entities:
   - name: Axbane

@@ -1,133 +1,81 @@
-240.5: In Hot Water
+241.5: The Lead Witnesses
 
-excerpt from Tabellae Nahalenniae: Inscribed Lead from the Sacred Spring at Axbane, a corpus of the Roman curse tablets recovered from beneath the brewhouse of the Jaibos breweries, edited with translations and commentary by epigrapher Maheut Carrelon of the Jacobin University of Axbane (first published 1971; revised 2009).
+further excerpt from Borland before Borlish (Istr Boral pre Borallesc), a history textbook published in 1983 through the New Vithor University, taken from its chapter on the lead curse tablets recovered from the Roman spring at Axbane.
 
-…The sacred spring of Aquae Balneī still rises beneath the Jaibos brewhouse, on the site of one of the Roman bathhouses from which Axbane takes its name and on land now owned by the Jacobin Fraternity [1]. Three rolled sheets of lead were brought up in 1878, when the brewery deepened its well. They were kept in the library of the Peninsular Monastery and first read by the philologist Beatreu Marsac, who wrote in 1881 that their authors "spell as the fishwives of Axbane still speak". The remainder were recovered in 1964–66, when the Order drained the Roman reservoir around the spring in order to rebuild the brewhouse. With them came some six thousand coins, forty-one rings and engraved gems, and a great quantity of pins.
+…almost everything written in Roman Borland that survives was written by officials, by soldiers, or by the men who cut their inscriptions. The tablets from the sacred spring at Axbane are the exception. They were written by townspeople, most of them in their own hand, about their own losses: a cloak, a plough, a purse, fourteen silver pieces. They are the largest body of writing to survive from the province, and the only one in which its ordinary people speak for themselves.
 
-The corpus numbers 146 tablets, of which 98 carry legible text. Coins, the order of the deposits and the forms of the letters place them between the later second century and the last decades of the fourth. Nearly all are appeals to the goddess of the spring for the return of stolen property or the punishment of a wrongdoer, usually made by giving the stolen goods (or the thief) to her, so that the loss becomes hers to recover. A handful record oaths sworn at the spring, and a few curse rivals. The goddess is Nahalennia, and later Proserpina; her name is spelled in nine different ways, most often without its h.
+The deposit
 
-The petitioners wrote the Latin they spoke, and the tablets are the earliest direct witness to the Latin of Borland. Both of the features which most clearly set it apart from the Latin of the continent can be seen in them [2].
+The spring still rises beneath the brewhouse of the Jaibos breweries, on land belonging to the Jacobin Fraternity and on the site of one of the bathhouses from which Axbane takes its name. Three rolled sheets of lead were brought up in 1878, when the brewery deepened its well. They were kept in the library of the Peninsular Monastery and first read by the philologist Beatreu Marsac, who reported in 1881 that their authors "spell as the fishwives of Axbane still speak". The rest were recovered in 1964–66, when the Order drained the Roman reservoir around the spring in order to rebuild the brewhouse. With them came some six thousand coins, forty-one rings and engraved gems, and a great quantity of pins, all thrown into the water as offerings.
 
-The tablets below are given in approximate order of date, under their catalogue numbers. Names are given as written.
+Mahaut Carrelon's edition for the Jacobin University of Axbane (1971) numbers 146 tablets, of which 98 carry legible text; they are now kept at the Calder Museum of Health. Coins, the order of the deposits and the forms of the letters place them between the later second century and the last decades of the fourth. The earliest are written in capitals, in imitation of inscriptions on stone; almost all the rest are in the everyday cursive of the period. Hardly any two are in the same hand, and most petitioners must therefore have written for themselves. About one tablet in eight (Tab. 95–112) carries only rows of marks imitating cursive writing, without letters. These were presumably made by petitioners who could not write and did not pay someone who could.
 
-Tab. 3. Sheet, rolled. Later second century; capitals.
-To Nahalennia. Vitalis gives you the man who sold him salt that was a third part sand, and who sails for the Scaldis [Scheldt] at the new moon. Let his ship make no harbour and his goods find no buyer until he has paid back to your temple what he owes [3].
+What the petitioners asked
 
-Tab. 71. Sheet, folded. Early third century; capitals.
-To Nahalennia. Iulius Florus, soldier, a native of the island, gives you the thief of his belt and its buckle. Let him not see the end of the month [4].
+Nearly every tablet concerns a theft. The petitioner gives the stolen property to the goddess of the spring, and sometimes the thief with it, so that the loss becomes hers to recover; the thief is then to suffer until the goods are returned to her. "Cunovalus has lost his cloak, a new one, and his sandals from the changing-room of the baths," runs one. "Whoever took them, whether man or woman, whether slave or free, let them have neither sleep nor health, sitting or lying, until they bring the cloak and the sandals to your house" (Tab. 12). The punishment is not meant to be final. It lasts only until the property is restored, and what the petitioner wants is the property back.
 
-Tab. 18. Small sheet, rolled. Early third century; cursive.
-Lady Nahalennia, I give you whoever took the key of my chest, and what was in the chest: nine silver pieces, a silver spoon and my mother's earrings. Let him not eat or drink or pass water until he returns them, and whatever he has spent, let him pay back in his blood [5].
+The goods are those of a small town: a belt and its buckle, two tunics and a bronze pan, a plough, a mule, a pair of oxen, a silver ring with a red stone, nine silver pieces, a silver spoon and "my mother's earrings" (Tab. 1). Many were taken in the baths themselves, where clothes were left in the changing-room in the care of an attendant, and the bath-keeper is named as a suspect on five tablets. "I give you Tertius the bath-keeper, who says he saw nothing," one reads. "Let him see nothing, then, until the six silver pieces are found" (Tab. 88).
 
-Tab. 22. Sheet, folded and pierced twice. Third century; cursive.
-I, Senovara daughter of Catumarus, come to you, Lady, as your suppliant. Whoever has taken my silver ring with the red stone, which I set down at the edge of your water, let their eyes go dark and their hands go numb, whether they are my neighbour or a stranger, until the ring is back in the spring [6].
+Most petitioners did not know who had robbed them, and the formulae are built to leave no one out: "whether pagan or Christian, whether man or woman, boy or girl, slave or free" (Tab. 131). Some narrowed the field. One tablet lists the twelve people who were in the baths on the day of the theft, and on the reverse asks that "whichever of these has my purse" should sweat blood (Tab. 40). Four record oaths sworn at the spring, among them that of a household of five who swore on the last day of May that they had not moved the boundary stones of the field by the ford (Tab. 44). The spring was evidently a recognised place for formal swearing, and a false oath there was a matter for the goddess.
 
-Tab. 12. Sheet, folded four times and pierced by a nail. Third century; cursive.
-To the Lady. Cunovalus has lost his cloak, a new one, and his sandals from the changing-room of the baths. Whoever took them, whether man or woman, whether slave or free, let them have neither sleep nor health, sitting or lying, until they bring the cloak and the sandals to your house [7].
+A few tablets have nothing to do with theft. One asks the goddess to bind the tongues of a man called Sextus and of his witnesses, so that they cannot speak against the petitioner before the council (Tab. 52). Another, against a rival in love, is written from right to left with every word reversed: "As these words are written backwards, so let everything go backwards for Sabina: her work, her hopes, her looks and her health" (Tab. 63). It is one of nine tablets written backwards, and the only one to say why. Six others draw the same kind of comparison with the lead itself: "As this lead is cold and heavy and useless, so let Vindex be cold and heavy and useless, who took my mule" (Tab. 79).
 
-Tab. 40. Sheet, inscribed on both faces. Third century; cursive.
-The names of those who were in the baths on the day of the theft: Iantumara, Victorinus, Docca, Liffio, Candidus son of Candidus, Brigomaglos, Severa, Eutyches, Senicia, Ingomer, Vepogenus, Paterna.
-(reverse) Whichever of these has my purse, Lady, let them sweat blood [8].
+The goddess
 
-Tab. 44. Sheet, rolled. Third century; cursive.
-The names of those who swore at the spring of the goddess on the last day of May that they had not moved the boundary stones of the field by the ford: Lucius, Mattua his wife, Lucilla their daughter, Dumnorix, Vitalinus. Whoever of them has sworn falsely, let him pay the goddess for it in his own blood [9].
+The tablets are addressed at first to Nahalennia, the goddess of trade and the sea whom Scarvon (1952) describes as worshipped along the southern and western coasts of the island. She also had temples across the Rustigh Strait, where salt merchants were prominent among her worshippers, and the earliest tablet in the corpus fits this character closely. Vitalis gives her "the man who sold him salt that was a third part sand, and who sails for the Scaldis [Scheldt] at the new moon", and asks that his ship make no harbour and his goods find no buyer until he has paid back to her temple what he owes (Tab. 3).
 
-Tab. 63. Sheet, rolled; written from right to left, each word reversed. Third century; cursive.
-As these words are written backwards, so let everything go backwards for Sabina: her work, her hopes, her looks and her health. Let Maglocunus not look at her, and let him not want to [10].
+Her name is spelled in nine different ways. The earliest tablets write Nahalennia, as the altars across the Strait do. A few of the early third century write Naalennia, and from the middle of the century the usual form is Nalennia: the h has gone, and the two vowels it had separated have run together. The loss of h was general in the spoken Latin of the empire; the tablets show it overtaking a native name once the goddess was written to by people who spelled as they spoke. The one tablet in the Kelt language keeps the h (Tab. 31).
 
-Tab. 27. Sheet, rolled. Mid-third century; cursive.
-To Proserpina, whom the people here call Nahalennia. Martialis gives you his two tunics and the bronze pan stolen from his lodging. Take the thief down with you, whoever he is, and do not let him come up again until he has returned them [11].
+"To Proserpina, whom the people here call Nalennia," begins a tablet of the mid-third century, in which Martialis gives her his two tunics and the bronze pan stolen from his lodging (Tab. 27). It is the earliest tablet to name Proserpina and the only one to state the equation, and after it Nahalennia is named on only three more. Another petitioner writes "to Proserpina and to the Lady of the spring" (Tab. 57). By the fourth century the goddess of the spring is almost always Proserpina, and she increasingly shares the tablets with her husband: "Father Dis and Lady Proserpina" (Tab. 88). Under either name she is also, throughout, simply "the Lady".
 
-Tab. 57. Sheet, cut from a larger piece and rolled. Late third century; cursive.
-To Proserpina and to the Lady of the spring. Enica gives you the plough that was taken from her shed, three miles inland, and the one who took it. Let him plough no field and eat no bread until it is returned [12].
+Scarvon could see no reason why a goddess of trade and the sea should have been absorbed into the cult of Pluto, and the best explanation then available, Hamerton's, was that Pluto's connection with the wealth of the earth had recommended him. The tablets suggest a plainer route. Writing curses on lead was a Roman practice, brought to the island from the Mediterranean, and in Roman practice such tablets were addressed to the gods below. The people of Axbane, writing to their own goddess in a borrowed form, gave her the name the form required. What changed was the name at the head of the tablet. Martialis wanted from Proserpina exactly what Vitalis had wanted from Nahalennia.
 
-Tab. 88. Sheet, rolled around a nail. Fourth century; cursive.
-Father Dis and Lady Proserpina, I give you Tertius the bath-keeper, who says he saw nothing. Let him see nothing, then, until the six silver pieces are found [13].
+Only two tablets name another local god beside her. The smith Cintusmus adds Govan, the Kelt god of smithcraft whom the Romans identified with Vulcan, when he asks for the return of the hammer and tongs taken from his forge by the harbour (Tab. 49). Catullinus "of the Bridge", probably of Pons Seianus, asks that the river god Reagimos, here spelled Regimus, should not let the man who drove off his oxen cross, and that the goddess's sea should not let him sail (Tab. 66). It is the river god's only known appearance away from his own river.
 
-Tab. 140. Fragment. Fourth century; cursive.
-…in your temple which is at the Bathing Waters… [14]
+The petitioners
 
-Tab. 117. Sheet, folded. Later fourth century; cursive.
-Lady, Saturnina gives you Lupercus, who owes her fourteen silver pieces and has gone over to Gaul with his wife and his boat. Wherever he lands, let the ground not hold him [15].
+Of the 71 petitioners whose names survive, 38 are women, and they petition in their own names for their own property: Senovara's ring (Tab. 2), Enica's plough (Tab. 57), the fourteen silver pieces Saturnina had lent (Tab. 117), the money in Anniola's purse (Tab. 131). The corpus names 203 people in all, as petitioners, suspects and swearers of oaths. A little under half the names are Latin, two in five are Kelt, and the rest Germanic or Greek. The list of bathers on Tab. 40 has much the same mixture, with four Latin names, five Kelt, two Germanic and one Greek. Where the tablets state their business, the men with Germanic names traded across the Strait. Latin and Kelt names were mixed within families: in the household that swore at the spring, Lucius and his daughter Lucilla have Latin names, and his wife Mattua a Kelt one (Tab. 44). One of the Kelt names in the list of bathers, Iantumara, is the feminine of the name on the burial marker from Livaucr discussed earlier.
 
-Tab. 131. Sheet, folded. Late fourth century; cursive.
-Whether pagan or Christian, whether man or woman, boy or girl, slave or free, whoever has stolen from me, Anniola, the money in my purse: you, Lady, take it back from him and from his house [16].
+Only one petitioner can be placed outside the town: Enica, whose plough was taken from her shed three miles inland (Tab. 57). The rest were townspeople, and the town they describe is a port, with a harbour, a council, a forge, lodgings for rent and ships sailing for the continent.
 
-Tab. 31. Sheet, folded. Undated; cursive.
-[Eleven lines, not in Latin.] [17]
+One tablet contains the earliest use in the corpus, and among the earliest anywhere, of the Latin name of the islanders for an individual. Iulius Florus, a soldier, describes himself as Boralis, "a native of the island", the singular of Borālēs (Tab. 71). After Hadrian the garrison of the province was increasingly raised on the island itself.
 
-Tab. 95–112. Eighteen sheets inscribed with rows of marks imitating cursive writing, without letters [18].
+One tablet is not in Latin at all. Its eleven lines are in Latin letters but in the Kelt language of Borland, and it is the longest Kelt text from the island (Tab. 31). Only the goddess's name, spelled Nahalenna, and the word ale "people", known from the Livaucr marker, can be recognised with any confidence. The rest has resisted at least five attempts at translation.
 
-===
+The language
 
-[1] The Jaibos breweries have drawn water from the spring for as long as they have existed. The tablets are now displayed at the Calder Museum of Health in Axbane.
+Marsac's remark of 1881 has held good. The petitioners wrote the Latin they spoke, and the tablets are the earliest direct witness to the Latin of Borland. Both of the features which most clearly set Insular Latin, spoken in Borland and Britain alike, apart from the Latin of the continent can be seen in them.
 
-[2] These are the loss of v between vowels (Tab. 18, 22 and 12) and the weakening of final s (Tab. 117). The view, repeated by Cecchino (1991), that the first was already under way "even in the late Classical period" rests principally on this corpus.
+The first is the loss of v between vowels. The key in Tab. 1 is clam (for clavem), and "I come" in Tab. 2 is denio (for devenio). Both tablets were among the three found in 1878, and these two words have been the standard examples of the change ever since. Tab. 12 adds a third: Cunovalus's cloak is noellum "new", without its v. The word survives as Old Borlish noel "fresh, newborn" and, with a v put back in the seventeenth century to break the hiatus, as modern novel "new". The change was therefore already under way in the third century, while the island was still governed from Rome.
 
-[3] Nahalennia appears here in the character Scarvon (1952) gives her, as a goddess of trade and the sea, worshipped along the southern and western coasts of the island. She also had temples on the far shore of the Rustigh Strait, where salt merchants were prominent among her worshippers too.
+The second is the weakening of final s. On Tab. 117, of the later fourth century, two words have their final s written as h: the debtor is Lupercuh, and the silver pieces he owes are argenteoh. If the reading is sound, this is the only direct evidence for the stage, otherwise reconstructed, in which final s was breathed before it was lost; the earliest evidence for the loss itself is from the fifth century.
 
-[4] "A native of the island" translates Boralis, singular of Borālēs, the Latin name for the island's people. It is the earliest use of the word for an individual in the tablets, and among the earliest anywhere. After Hadrian the garrison of the province was increasingly raised on the island itself.
+Other forms look forward to Borlish. "Lady" is domna, with its middle vowel already lost; it is the ancestor of Borlish domn (Tab. 88). The plough is aladrum (Tab. 57). The t has softened to d before r, and the first r has already given way to l: this is the form which survives as Old Borlish alaðre and, having lost its first vowel, as modern laðr.
 
-[5] The key is clam, the spelling quoted in every handbook as evidence that v had been lost between vowels in the Latin of Borland.
+The town's own name appears once, on a fragment: "…in your temple which is at the Bathing Waters…" (Tab. 140). It is written Aquis Balnei, the form of the name from which both Borlish Ausbagn and English Axbane descend.
 
-[6] "I come" is denio, the other of the two handbook examples. Senovara and her father Catumarus bear Kelt names. She is one of 38 women among the 71 petitioners whose names survive.
+The end of the deposit
 
-[7] The cloak is noellum, "new", without its v. The word survives as Old Borlish noel "fresh, newborn" and, with a v put back in the seventeenth century to break the hiatus, as modern novel "new". Cunovalus is a Kelt name.
+Three tablets of the later fourth century name debtors or thieves who have "gone over". "Lady, Saturnina gives you Lupercus, who owes her fourteen silver pieces and has gone over to Gaul with his wife and his boat. Wherever he lands, let the ground not hold him" (Tab. 117). They are the only witnesses from the town itself to the emigration from the island's southern and western cities in those decades.
 
-[8] Four of the names are Latin, five Kelt, two Germanic (Liffio and Ingomer) and one Greek (Eutyches). The corpus as a whole shows much the same mixture: of 203 personal names, a little under half are Latin, two in five Kelt, and the rest Germanic or Greek. The Germanic names belong, where the tablets state their business, to men who traded across the Strait. Iantumara is the feminine of the name on the burial marker found at Livaucr in 1932.
-
-[9] One of four tablets recording oaths, which show the spring in use as a place of formal swearing.
-
-[10] One of nine tablets written backwards, and the only one to say why.
-
-[11] The earliest tablet to name Proserpina, and the only one to state the equation. Scarvon (1952) held that Nahalennia was absorbed into the cult of Pluto "for unclear reasons"; Hamerton had earlier proposed a link through Pluto's connection with the wealth of the earth. The tablets suggest a plainer route. Curse tablets were a Roman practice, and in Roman practice they were addressed to the gods below; the people of Axbane, writing to their own goddess in a borrowed form, gave her the name the form required. After the middle of the third century Nahalennia is named on only three more tablets.
-
-[12] The plough is aladrum. The t has softened to d before r, and the first r has already given way to l: this is the dissimilated form which survives as Old Borlish alaðre and, having lost its first vowel, as modern laðr. This is the only tablet whose author can be placed outside the town.
-
-[13] By the fourth century the goddess of the spring is almost always Proserpina, and she increasingly shares the tablets with her husband. "Lady" is domna, with its middle vowel already lost; it is the ancestor of Borlish domn. The bath-keeper minded bathers' clothes, and he is named as a suspect on five tablets.
-
-[14] The only appearance of the town's name in the corpus. It is in the locative, Aquis Balnei, "at the Bathing Waters": the form from which both Borlish Ausbagn and English Axbane descend.
-
-[15] In two words the final s is written h. If the reading is sound, this is the only direct evidence for the stage, otherwise reconstructed, in which final s was breathed before it was lost; the earliest evidence for the loss itself is from the fifth century. This and two other tablets of the late fourth century name debtors or thieves who have "gone over", and they are the only witnesses from the town itself to the emigration from the island's southern and western cities in those decades.
-
-[16] The latest datable tablet, and the only one to take account of Christians. Within a generation the precinct had been dismantled. The silt over the tablets is sealed by a layer of broken masonry that includes pieces of two altars, deliberately thrown in.
-
-[17] Written in Latin letters but in the Kelt language of Borland; it is the longest Kelt text from the island. Only the goddess's name, spelled Nahalenna, and the word ale "people" can be recognised with any confidence. The rest has resisted at least five attempts at translation.
-
-[18] About one tablet in eight is of this kind. They were presumably made by petitioners who could not write and did not pay someone who could.
+The latest datable tablet is also the only one to take account of Christians. Anniola, who had lost the money in her purse, cursed the thief "whether pagan or Christian" (Tab. 131). Within a generation the precinct had been dismantled. The silt over the tablets is sealed by a layer of broken masonry that includes pieces of two altars, deliberately thrown in.
 
 
-=== ALTERNATES (swap in / cut as needed) ===
+=== NOTES FOR CURATION ===
 
+[SLOT] 240.5 is already False Friends (cont. 6) in Scaunç.txt, and 241.1–.4 are in, so this is headed 241.5.
 
-[TITLE] "In Hot Water" assumes the spring is thermal, which canon never says outright. Alternatives: Given to the Goddess / Lead for the Lady / Written in Lead / The Lady's Lost Property.
+[RENUMBERING] The clam tablet is now Tab. 1 (was 18) and Senovara's denio tablet Tab. 2 (was 22), so that the handbook examples come from Marsac's 1878 finds (with Tab. 3, the salt-seller). This explains why they are "the standard examples ever since" and gives her "fishwives" line something to point at.
 
-[FRAME — museum labels] descriptive labels from the display of Roman curse tablets at the Calder Museum of Health in Axbane, first installed in 1998. (Shorter texts; picks up the Calder Museum's appearance in 240.1.)
+[FRAME DATING] A 1983 book can cite Scarvon 1952, Hamerton, Marsac 1881 and Carrelon 1971, and can refer back to the Livaucr marker (120.5, same book). It can't cite Cecchino 1991 or the 2009 revision, so "already under way in the late Classical period" is now the textbook's own conclusion. The Calder Museum existed by 1897 (240.1), so "now kept at" is safe.
 
-[FRAME — linguistic history] excerpt from the first chapter ("The Lead Witnesses") of Ghendaline Cecchino's 1991 scholastic quire Tightrope Walking: a Linguistic History of Borland (originally in Napolitan as Funamblisme: n'Istorio Lingual d'e Isule Bural). (Pulls the entry towards language; more Latin would creep in.)
+[TITLE] The Lead Witnesses / Written in Lead / Given to the Goddess / In Hot Water (assumes the spring is thermal, which canon doesn't say).
 
-[FRAME — brewery leaflet] from the leaflet handed to visitors on the brewhouse tour of the Jaibos breweries in Axbane, which includes a viewing window over the Roman reservoir. (Lighter and more modern; the notes would have to become the leaflet's own text.)
+[OPTIONAL — Bath] After "…spoken in Borland and Britain alike…", add: "(the same spellings occur on the tablets from the spring of Sulis at Bath, in Albion)". Makes the Insular claim concrete, but it asserts a Bath deposit in canon.
 
-[FRAME — double] excerpt from Beatreu Marsac's 1881 letter to the prior of the Peninsular Monastery, giving her readings of the three tablets found in 1878, with annotations by Maheut Carrelon. (Only three tablets to work with; makes Marsac the centre.)
-
-[SPARE — Tab. 49, third century]
-To Nahalennia and to Govan. Cintusmus the smith gives you whoever took his hammer and his tongs from the forge by the harbour. Let his hands blister and his fire go out until he returns them.
-Note: Govan is the Kelt god of smithcraft whom the Romans identified with Vulcan (Scarvon 1952). This is the only tablet to address a second local god alongside the goddess of the spring.
-
-[SPARE — Tab. 66, third century]
-To Nahalennia. Catullinus, of the Bridge, gives you the man who drove off his two oxen. May the river god Reagimos not let him cross, and may your sea not let him sail.
-Note: "Of the Bridge" probably means Pons Seianus. The river god appears here under yet another spelling, and this is his only appearance away from his own river.
-
-[SPARE — Tab. 52, third century]
-Lady, bind the tongue of Sextus so that he cannot speak against me before the council, and bind the tongues of his witnesses with his.
-Note: The only tablet concerned with a lawsuit rather than a theft.
-
-[SPARE — Tab. 79, fourth century]
-As this lead is cold and heavy and useless, so let Vindex be cold and heavy and useless, who took my mule.
-Note: One of six tablets that draw a comparison with the lead itself.
-
-[VARIANT READINGS]
-Tab. 57: aradrum (softening only) instead of aladrum, if the l-form of laðr shouldn't go back to Roman times.
-Tab. 117: drop the h-spelling if the dating of s-loss should stay "controversial", as 117.5 has it.
-Discovery: the 1878 finds and Marsac can go; the frame works with the 1964–66 draining alone.
-Tab. 31: cut if the Kelt language should stay unattested beyond names and the Livaucr marker.
+[CUT CANDIDATES]
+- Tab. 31, the Kelt tablet: expands Kelt attestation beyond what 120.5 describes. If cut, also cut "The one tablet in the Kelt language keeps the h (Tab. 31)."
+- The h-for-s reading on Tab. 117: 117.5 calls the dating of s-loss "controversial"; the "if the reading is sound" hedge keeps it that way, but it can go.
+- The Govan/Reagimos paragraph (Tab. 49, 66): pure add-on.
+- The non-theft paragraph (Tab. 52, 63, 79).
+- The "port" sentence at the end of the first petitioners paragraph after Enica.
