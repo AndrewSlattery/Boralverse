@@ -1,22 +1,337 @@
 % !TEX root = ../b-rg.tex
 \chapter{Tense, Aspect and Mood}\label{ch:tam}
-\stub
 
-% --- Planned sections ---
-% \section{The present}
-%   Including present for states continuing up to now?
-% \section{Preterite and imperfect}
-% \section{Perfect and pluperfect periphrases}
-%   aur + past participle (n'aye ja stað attenent 'hadn't been trying').
-% \section{Progressive periphrases}
-%   Copula + present participle (es caint 'has been going on';
-%   cop.ipf + ptcp.prs in Scaunç).
-% \section{Future and prospective}
-%   Synthetic future vs vol- + infinitive (voum ... venjar);
-%   negative future nol- (nil, nolau, nolois).
-% \section{The subjunctive}
-%   Purpose and complement clauses (a fin ig tu caif ...); commands and
-%   hortatives (cargeð 'load-2p.sbj'); sequence of tenses.
-% \section{Modality}
-%   Modal verbs + infinitive (see Copulas, Auxiliaries and Modal Verbs);
-%   the potential -abr form (noscon confiabr 'whom we could trust').
+The Borlish verb has four tenses in the indicative (present, imperfect, preterite and future), two in the subjunctive (present and imperfect) and an imperative. Their forms are given in Chapter~\ref{ch:verb-morphology}. These simple forms are supplemented by a set of periphrases built from an auxiliary and one of the non-finite forms:
+\begin{itemize}
+    \item a perfect with \bl{aïr} `have' or \bl{star} `be' and the past participle;
+    \item a progressive with `be' and the present participle;
+    \item a future and a conditional with \bl{volir} `will' and the infinitive;
+    \item several aspectual constructions with the infinitive.
+\end{itemize}
+This chapter describes what each form means and how it is used. The modal verbs themselves are described in Chapter~\ref{ch:copulas}, the passive in Chapter~\ref{ch:voice}, and conditional and other adverbial clauses in Chapter~\ref{ch:complex-sentences}.
+
+\section{Overview}\label{sec:tam-overview}
+The table below lists the forms of \bl{cantar} `sing' in the third person singular.
+\begin{table}[ht]
+    \centering\small
+    \begin{tabular}{l l l}
+        \multicolumn{3}{c}{The tenses, aspects and moods of \bl{cantar} `sing' (3\textsc{sg})} \\
+        \hline
+        \multicolumn{3}{l}{\textit{Simple forms}} \\
+        present & \bl{cant} & Section~\ref{sec:present} \\
+        imperfect & \bl{canta} & Section~\ref{sec:imperfect} \\
+        preterite & \bl{cantau} & Section~\ref{sec:preterite} \\
+        future & \bl{cantara} & Section~\ref{sec:synthetic-future} \\
+        present subjunctive & \bl{cant} & Section~\ref{sec:subjunctive} \\
+        imperfect subjunctive & \bl{cantaus} & Section~\ref{sec:impf-subjunctive} \\
+        imperative (2\textsc{sg}) & \bl{cant} & Section~\ref{sec:commands} \\
+        \hline
+        \multicolumn{3}{l}{\textit{Periphrastic forms}} \\
+        perfect & \bl{a cantað} & Section~\ref{sec:perfect} \\
+        pluperfect & \bl{aye cantað}, \bl{au cantað} & Section~\ref{sec:pluperfect} \\
+        future perfect & \bl{arra cantað} & Section~\ref{sec:other-perfects} \\
+        progressive & \bl{es cantant}, past \bl{er cantant} & Section~\ref{sec:progressive} \\
+        \bl{volir} future & \bl{vil cantar}, negative \bl{nil cantar} & Section~\ref{sec:vol-future} \\
+        future in the past & \bl{vole cantar} & Section~\ref{sec:future-in-past} \\
+        conditional & \bl{vel cantar} & Section~\ref{sec:conditional} \\
+        past conditional & \bl{volois cantar} & Section~\ref{sec:conditional} \\
+        recent past & \bl{vien de cantar} & Section~\ref{sec:aspectual-periphrases} \\
+        \hline
+    \end{tabular}
+\end{table}
+
+In all the periphrases the non-finite verb comes at the end of the verb phrase. A direct object stands between the auxiliary and the participle or infinitive, while prepositional phrases and adverbs may follow it. Object pronouns attach to the non-finite verb, not to the auxiliary (Section~\ref{sec:object-pronouns}). Questions and fronted constituents invert the subject with the auxiliary (Chapter~\ref{ch:simple-clause}).
+    \glsen{J'ay my pan sciftað a çamoc demay.}{ʒe mi pan xɪfˈtaθ a tsaˈmɔk deˈme}{{\First\Sg=have.\First\Sg} {\First\Sg.\Poss} bread {spread-\Pst.\Ptcp} at jam {too.much}}{I've spread too much jam on my bread.}
+    \glsen{Icon alcot a tu fait coll'oc celaminour?}{iˈkɔn alˈkɔt a ti fet kɔˈlɔk tseˌla.miˈnur}{photo how.many have {\Second\Sg} {do-\Pst.\Ptcp} {with.\Def=\Prox.\Sg} camera}{How many photos have you taken with this camera?}
+
+\section{The present}\label{sec:present}
+The present is the unmarked tense. It is used for general truths and habits, for states that hold at the moment of speaking, and for events that are in progress, though for the last the progressive is more usual (Section~\ref{sec:progressive}).
+    \glsen{Bosc d'ollem sarf a bog fair.}{bɔx dɔˈlɛm sarf a bɔj fer}{wood {of=elm} serve to bow {make-\Inf}}{Elm wood is used to make bows.}
+% CHECK: is the simple present usual for an event in progress, or is the
+% progressive required there? The corpus nearly always has the progressive.
+As in English, the present can refer to a planned or scheduled future event.
+    \glsen{Enceð a y novel parsemnar ig jo sail oc jorn.}{ɛnˈtsɛθ a i noˈvɛl ˌpar.sɛmˈnar aj ʒo sel ɔk ʒɔrn}{{begin-\Second\Pl.\Sbjv} to {\Def} news {sow-\Inf} {\Comp} {\First\Sg} {leave.\First\Sg} {\Prox.\Sg} day}{Start spreading the news that I'm leaving today.}
+Unlike English, Borlish uses the present, not the perfect, for a situation that began in the past and is still going on. A common way to give the length of time is with \bl{cay} `it falls' followed by the period, with \bl{cay} put in the tense of the situation (\bl{caye}, \bl{carra}). The length of time can also be given with \bl{tras} `across, for', and the starting point with \bl{posc} `after' or \bl{des} `since'. If the situation is an activity, the progressive is used.
+    \glsen{Le's un ouger sobottal cay set annað.}{lɛz ɪn uˈʒɛr ˌso.bɔˈtal ke sɛt aˈnaθ}{{\Third\Sg.\M=be} {\Indf} host radio fall seven year}{He's been a radio host for seven years.}
+    \glsen{Hour alcot es tu y toriot hoissant?}{ur alˈkɔt ɛz ti i ˌto.riˈjɔt hɔjˈsant}{time how.much be {\Second\Sg} {\Def} torriot {blow-\Prs.\Ptcp}}{How long have you been playing the torriot?}
+    \glsen{Nos som travodant posc je semman ados!}{nɔz sɔm ˌtra.voˈdant pɔx ʒe sɛˈman aˈdɔz}{{\First\Pl} {be.\First\Pl} {negotiate-\Prs.\Ptcp} after {day.of} week behind}{We've been in negotiations since last week!}
+With \bl{cay}, the present is kept even when the situation is a negative one.
+    \glsen{Jo fon got ag mar cay dou meis.}{ʒo fɔn gɔt ɛj mar ke du miz}{{\First\Sg} spill drop {at.\Def} sea fall two month}{I've got nothing done for two months.}
+With \bl{tras}, \bl{par} or \bl{posc}, however, a negative situation is put in the perfect (Section~\ref{sec:perfect}). Here what is measured is the time since something last happened: \bl{Jo n'ay te vis posc larc semman} `I haven't seen you in weeks'.
+    \glsen{Ðe n'aun nien ostendað tras dou meis.}{ðe non njɛn ˌɔ.stɛnˈdaθ traz du miz}{{\Third\Pl} {\Neg=have.\Third\Pl} nothing {post-\Pst.\Ptcp} across two month}{They've posted nothing in two months.}
+% CHECK: you suggested cay + present, tras + perfect. The corpus fits that
+% for cay (both cay examples, one of them negative, are present), but tras
+% takes the present with a positive activity (Jo's y jarry frottant tras un
+% demy d'hour, below). The perfects all have negative situations: tras dou
+% meis (S25601), par monð (S9149), posc larc semman (C2329). So the text above
+% says polarity decides the tense with tras/par/posc. Does that match your
+% intention? Also, cay agrees with a plural period in Cayen deg minut pre un
+% vec alandau (S24152) but not in cay set annað (S25084). Should it agree?
+
+\section{The past tenses}\label{sec:past-tenses}
+Borlish has two simple past tenses, the preterite and the imperfect, which divide the past by aspect much as in the other Romance languages. The preterite presents a situation as a completed whole. The imperfect presents it as ongoing, as a habit, or as the background to other events.
+
+\subsection{The preterite}\label{sec:preterite}
+The preterite is the tense of narrative. It reports single, completed events, including those that took up a stretch of time, and events that follow one another. It is the tense used with expressions of definite past time such as \bl{je ados} `yesterday' (literally `the day behind').
+    \glsen{L'effojaçon trovau un emblemat je ados.}{ˌlɛ.fo.ʒaˈtsɔn troˈvo ɪn ˌɛm.bleˈmat ʒe aˈdɔz}{{\Def=excavation} {find-\Pst} {\Indf} mosaic {day.of} behind}{The excavation found a mosaic yesterday.}
+    \glsen{Jo quïsceu ec ogl eð ençau a conteyar.}{ʒo ˌkwaj.iˈxau ɛk ɔjl ɛθ ɛnˈtso a ˌkɔn.tiˈjar}{{\First\Sg} {turn.off-\Pst} {\Prox.\Pl} eye and {begin-\Pst} to {count-\Inf}}{I closed my eyes and started counting.}
+    \glsen{Nos aulaum tras lau de collin ondolant.}{nɔz oˈlom traz lo de kɔˈlɪn ˌɔn.doˈlant}{{\First\Pl} {walk-\Pst.\First\Pl} across league of hill {ripple-\Prs.\Ptcp}}{We walked for miles over rolling hills.}
+
+\subsection{The imperfect}\label{sec:imperfect}
+The imperfect describes states and circumstances in the past, situations in progress at some past moment, and past habits. In narrative it sets the scene against which the events in the preterite take place.
+    \glsen{Y refectoir vença manoscart a vigt morac eð ambrosc.}{i ˌre.fɛkˈtɔjr vɛnˈtsa ˌma.noˈxart a vajt moˈrak ɛθ amˈbrɔx}{{\Def} canteen {sell-\Ipfv} hybrid at fare Morrack and Ambrosian}{The lunch-house sold Morrack-Ambrosian fusion food.}
+    \glsen{Tras sougl azia segr moulous un bos svingant.}{traz sujl aˈzja sijr̩ muˈluz ɪn bɔz svɪnˈgant}{across doorway {stand-\Ipfv} man bulky {\Indf} gun {wield-\Prs.\Ptcp}}{At the door was a bulky man holding a gun.}
+    \glsen{Gent tanniscen gles par mejan d'yedic.}{ʒɛnt ˌta.niˈxɛn glɛz par meˈʒan djeˈdɪk}{people {set-\Ipfv.\Third\Pl} dye by means {of=vinegar}}{People used to set dyes using vinegar.}
+A situation in progress when something else happened, or at the same time as another, is in the imperfect, or in the past progressive (Section~\ref{sec:progressive}).
+    \glsen{Sell'amig er l'œcumen sovemblant cant nos pascau.}{ˌse.laˈmaj ɛr ˌle.kiˈmɛn ˌso.vɛmˈblant kant no paˈxo}{{\Third\Sg.\Poss-\Def=friend} {\Cop.\Ipfv} {\Def=landscape} {sketch-\Prs.\Ptcp} as {\First\Pl} {eat-\Ipfv.\First\Pl}}{His friend was sketching the surroundings as we ate.}
+English often uses its simple past to describe a scene, or a state of affairs that went on over a period. Borlish uses the imperfect for these, so an English simple past is often best rendered with a Borlish imperfect.
+    \glsen{Y fruyour gliðan tras l'area guyer.}{i fraˈjur gliˈðan traz ˌla.reˈa gaˈjɛr}{{\Def} dancer {glide-\Ipfv.\Third\Pl} across {\Def=plaza} anticlockwise}{The dancers went anticlockwise round the plaza.}
+    \glsen{Y stuðant parsiscen comoscon ronç monfiar.}{i stiˈðant ˌpar.siˈxɛn ˌko.moˈxɔn rɔnts mɔnˈfjar}{{\Def} student {learn-\Ipfv.\Third\Pl} how fraction {multiply-\Inf}}{The students learnt how to multiply fractions.}
+
+\subsection{Differences of meaning}\label{sec:pret-impf-meaning}
+With some verbs the choice of past tense changes the meaning. The imperfect describes a state; the preterite describes the event of entering it, or what happened on one occasion. With \bl{savir} `know', the imperfect means `knew' and the preterite `found out, realised'.
+    \glsen{Jo save l'oc caum contene un fardig d'aloud.}{ʒo saˈve lɔk kom ˌkɔn.teˈne ɪn farˈdaj daˈlud}{{\First\Sg} {know-\Ipfv} {\Def=\Prox.\Sg} piece {contain-\Ipfv} {\Indf} solo {of=lute}}{I knew this piece contained a lute solo.}
+    \glsen{Jo saveu mell'amig er duvant a scac.}{ʒo saˈvaw ˌmɛ.laˈmaj ɛr diˈvant a xak}{{\First\Sg} {know-\Pst} {\First\Sg.\Poss-\Def=friend} {\Cop.\Ipfv} {cheat-\Prs.\Ptcp} at chess}{I realised my friend was cheating at chess.}
+With \bl{poðir} `can', the imperfect \bl{poðe} states a general possibility in the past, while the preterite \bl{sceu} reports whether something was achieved on a particular occasion.
+    \glsen{Se poðe pom accatar teint ogtoç solt a cascun.}{se poˈðe pɔm ˌa.kaˈtar tint ɔjˈtɔts sɔlt a kaˈxɪn}{{\Refl} {can-\Ipfv} apple {buy-\Inf} {amount.to-\Prs.\Ptcp} eighteen penny at each}{You could buy apples for eighteen pence each.}
+    \glsen{Jo sceu noc y melody spinglar.}{ʒo xau nɔk i ˌme.loˈdi spɪnˈglar}{{\First\Sg} {can.\Pst} {\Neg} {\Def} melody {pin.down-\Inf}}{I couldn't identify the tune.}
+% CHECK: is sceu the regular (suppletive) preterite of poðir? The past
+% participle in the corpus is scið (Jo n'ay scið ... 'I can't stop ...'),
+% which also appears in yembr scið 'realise'.
+
+\section{The perfect}\label{sec:perfect}
+
+\subsection{Formation}
+The perfect is formed with the present of an auxiliary and the past participle. The auxiliary depends on transitivity: transitive verbs take \bl{aïr} `have', and intransitive verbs take \bl{star} `be' (Section~\ref{sec:perfect-star}). The participle is invariable.
+
+The two auxiliaries also differ in what may come between them and the participle. In a perfect with \bl{aïr}, the direct object always stands there. As with the other periphrases, this includes object pronouns, which attach to the participle, not to the auxiliary: \bl{Jo n'ay te vis posc larc semman} `I haven't seen you in weeks'. In a perfect with \bl{star}, nothing comes between the auxiliary and the participle except, at most, an adverb. Inversion in questions places the subject after the auxiliary in both cases. The negative is formed in the usual way (Chapter~\ref{ch:negation}): \bl{n'} goes before the vowel-initial forms of \bl{aïr}, and \bl{no} contracts with the forms of `be' that begin with a vowel, giving \bl{no's} and, in the past, \bl{no'r}, \bl{no'rn}.
+    \glsen{Y costoscment aun l'hom sont vecinað.}{i ˌkɔ.stoxˈmɛnt on lɔm sɔnt ˌve.tsiˈnaθ}{{\Def} police {have.\Third\Pl} {\Def=person} guilty {locate-\Pst.\Ptcp}}{The police have found the guilty party.}
+% CHECK: the construction for verbs whose object is a complement clause or
+% an infinitive is still to be settled (J'ay neyað a y bon solution
+% augrimar 'I've failed to calculate the right answer', S10005; Jo n'ay scið
+% l'ec scoclet epu plu pascr 'I can't stop eating these mini chocolates',
+% S12903).
+
+\subsection{Uses}
+The perfect presents a past event as relevant to the present. Its result may still hold, or it may be news.
+    \glsen{L'agathin a pat fait sad ag tourf.}{ˌla.gaˈθɪn a pat fet sad ɛj turf}{{\Def=minister} have paw {do-\Pst.\Ptcp} badly {to.\Def} riot}{The minister mishandled the riot.}
+It also reports experience up to the present, especially with \bl{jamay} `never', and events that have not yet happened, with \bl{ja} `yet'.
+    \glsen{Jo n'ay acconnosc aut d'un segr luïcherrem.}{ʒo ne ˌa.kɔˈnɔx ot dɪn sijr̩ ˌla.jɪˈkɛ.rɛm}{{\First\Sg} {\Neg=have.\First\Sg} meeting {have.\Pst.\Ptcp} {of=\Indf} man {ridiculous-\Cmpr}}{I've never met a more ridiculous man.}
+    \glsen{Mettau noc carrug avant naumagl; ja n'eu nos y muncef meðes saut.}{mɛˈto nɔk kaˈraj aˈvant noˈmɛjl ʒa naw nɔz i mɪnˈtsɛf meˈðɛz sot}{{put-\First\Pl.\Sbjv} {\Neg} cart {in.front.of} ox yet {\Neg=have.\First\Pl} {\First\Pl} {\Def} borough even {leave.\Pst.\Ptcp}}{Let's not get ahead of ourselves; we haven't even left the borough yet.}
+The Borlish perfect is used in rather more situations than the English one. A recent event whose consequences are still under discussion is often put in the perfect where English would use the simple past, as in the first example above and in the following.
+    \glsen{Cascif eð vos hur dað an dragoman voscon inconfeyabr?}{kaˈxɪf ɛθ vɔz hɪr daθ an ˌdra.goˈman voˈxɔn ˌɪn.kɔnˈfjab.r̩}{why {have.\Second\Pl} {\Second\Pl} hire {give-\Pst.\Ptcp} {to.\Indf} interpreter {\Second\Pl.\Agt} {\Neg-trust-\Pot}}{Why did you hire an interpreter you don't trust?}
+It has not, however, taken over from the preterite as the tense of narrative, as the perfect has in some other Romance languages. An expression of definite past time still requires the preterite (Section~\ref{sec:preterite}).
+
+\subsection{The auxiliary \bl{star}}\label{sec:perfect-star}
+Intransitive verbs form the perfect with \bl{star} `be' (present \bl{so, es, som, soð, son}). Verbs of motion are the most frequent among them in the texts: \bl{eir} `go', \bl{venir} `come', \bl{yembr} `arrive', \bl{sortir} `go out', \bl{partir} `leave', \bl{reuvr} `come back', and also \bl{morir} `die'. An adverb such as \bl{jamay} `never' or \bl{ac} `here' may come between the auxiliary and the participle, but nothing else.
+    \glsen{Vis no som nos jamay eut a Duncloð.}{vɪz no sɔm nɔz ʒaˈme awt a dɪnˈklɔθ}{indeed {\Neg} {be.\First\Pl} {\First\Pl} never {go-\Pst.\Ptcp} to Dunclothe}{We've actually never been to Dunclothe.}
+    \glsen{Bouð y viker ða le no's ac yent pre haçol.}{buθ i viˈkɛr ða le nɔz ak jɛnt pre haˈtsɔl}{text {\Def} deputy if {\Third\Sg.\M} {\Neg=be} here {arrive.\Pst.\Ptcp} before noon}{Text the deputy if he's not here by noon.}
+Compare also \bl{Lor soð vos venuð ag bon varous} `Then you've come to the right place'.
+
+What counts is how the verb is used, not the verb itself. A transitive verb used without an object takes \bl{star} like any other intransitive. With a transitive verb, \bl{star} and the past participle otherwise form the passive or a resultative state (\bl{Y rostr a my creðon es coroccað} `The tip of my pencil has snapped'; Chapter~\ref{ch:voice}). So a perfect such as \bl{nos erau paut} could in principle also mean `we had been eaten', and it is left to the context to decide.
+    \glsen{Nos erau paut ny refectoir jusser.}{nɔz eˈro pot ni ˌre.fɛkˈtɔjr ʒɪˈsɛr}{{\First\Pl} {\Cop.\Ipfv-\First\Pl} {eat.\Pst.\Ptcp} {in.\Def} canteen downstairs}{We'd eaten at the downstairs cafe.}
+Reflexive verbs whose reflexive pronoun is a direct object take \bl{aïr}, with the pronoun in the object position: \bl{alcun hom autr n'a se mis a genoil} `no one else has gone down on their knees'.
+% CHECK: a reflexive that is an indirect object ('I have muttered to
+% myself') may take star instead. Not yet decided.
+
+A copula's complement is not a direct object. It cannot become the subject of a passive, and it is replaced not by an accusative pronoun but by the demonstrative \bl{oc} placed after the verb (\bl{Ða la'r oc} `If she were (so)'; Section~\ref{sec:dem-without-art}). Copulas are therefore intransitive and take \bl{star} in the perfect. This applies to \bl{star} itself, with its participle \bl{stað}, as well as to \bl{denir} `become', \bl{parir} `seem' and the others (Chapter~\ref{ch:copulas}). The predicate follows the participle: \bl{L'idea fol fo stað a Marco} `The foolish idea had been Marco's', \bl{Le fo denuð ancour joun segr} `He'd become a young man again', \bl{un sorty souvr no'r parið tesqual a bas a respirar} `throwing a party had seemed as natural as breathing'. The perfect of a passive is formed the same way, with \bl{stað} before the participle of the main verb (\bl{fo stað mis a regest} `had been documented'; Chapter~\ref{ch:voice}).
+
+In literary style, a monosyllabic adjective may instead stand before the participle of a copula: \bl{Conrad vole creir ig la'r fol denuð} `Conrad would think she'd run mad'. This inversion has never been possible with longer adjectives.
+
+\subsection{The pluperfect}\label{sec:pluperfect}
+The pluperfect places an event before some reference point in the past. It has two forms, with the auxiliary in either of the past tenses, and the difference between them is the usual one between the imperfect and the preterite (Section~\ref{sec:past-tenses}), applied to the earlier time. With the imperfect of the auxiliary (\bl{aye}, or the copula \bl{er} for verbs that take \bl{star}), the pluperfect states a fact about the situation at the reference point: what had been done by then, and still held.
+    \glsen{Nos ayau l'indagour scos ne sell'azig.}{nɔz ɛˈjo ˌlɪn.daˈgur xɔz ne ˌsɛ.laˈzaj}{{\First\Pl} {have-\Ipfv.\First\Pl} {\Def=tracker} {hide.\Pst.\Ptcp} in {\Third\Sg.\Poss-\Def=shoe}}{We'd hidden the tracker in his shoe.}
+    \glsen{J'er nuvr sortið cant cou roçon.}{ʒɛr ˈni.vr̩ sɔrˈtɪθ kant ku roˈtsɔn}{{\First\Sg=\Cop.\Ipfv} recent {go.out-\Pst.\Ptcp} as {fall.\Pst} drizzle}{I'd just left when it started drizzling.}
+    \glsen{Ðe ayen heu lastumnesc, com ig ðe no'rn for pog dormið.}{ðe ɛˈjɛn haw ˌla.stɪmˈnɛx kɔm aj ðe nɔrn fɔr pɔj dɔrˈmɪθ}{{\Third\Pl} {have-\Ipfv-\Third\Pl} look weary as {\Comp} {\Third\Pl} {\Neg=\Cop.\Ipfv-\Third\Pl} only little {sleep-\Pst.\Ptcp}}{They looked haggard, as though they hadn't slept much.}
+With the preterite of the auxiliary (\bl{au}, \bl{fo}), the pluperfect presents the earlier event as a single occurrence. It is especially common after conjunctions of time: \bl{Candon l'au primer sell'yam visitað} `When he'd first visited his uncle', \bl{Jo fo yent tost demay} `I had arrived too early'.
+    \glsen{Y maðr improbau sell'heir posc l'oç fo reuluð.}{i ˈmaðr̩ ˌɪm.proˈbo sɛˈlir pɔx lɔts fo rawˈlɪθ}{{\Def} mother {scold-\Pst} {\Third\Sg.\Poss-\Def=son} after {\Def=\Dist.\Sg} {be.\Pst} {come.back-\Pst.\Ptcp}}{The mother scolded her son when he got back.}
+
+\subsection{Other perfect forms}\label{sec:other-perfects}
+The auxiliary can appear in any tense or non-finite form. The future perfect, with \bl{arra}, usually expresses a conclusion about the past rather than a future event (compare Section~\ref{sec:synthetic-future}).
+    \glsen{L'arra oç saut ig caye sy mariðaç dovem nienter.}{laˈra ɔts sot aj kɛˈje si ˌma.riˈðats ˈdo.vɛm njɛnˈtɛr}{{\Third\Sg.\M=have.\Fut} {\Dist.\Sg} {know.\Pst.\Ptcp} {\Comp} {fall-\Ipfv} {\Third\Sg.\Poss} marriage second void}{He must have known his second marriage was void.}
+The perfect infinitive and the perfect participle are formed with \bl{aïr} and \bl{ayent}.
+    \glsen{J'yemoy scið aïr kes raspað demay sad.}{ʒjeˈmɔj xɪθ eˈjɪr kɛz raˈspaθ deˈme sad}{{\First\Sg=get-\Pst} known {have-\Inf} cheese {grate-\Pst.\Ptcp} {too.much} badly}{I realised I'd grated far too much cheese.}
+    \glsen{L'a heu allagherrem an ivan ayent hopr receut.}{la haw ˌa.lɛjˈɛ.rɛm an iˈvan ɛjˈɛnt ˈhɔ.pr̩ reˈtsawt}{{\Third\Sg.\M=have} look {happy-\Cmpr} {at.\Indf} child {have-\Prs.\Ptcp} toy {receive-\Pst.\Ptcp}}{He looked happier than a kid with new toys.}
+The perfect subjunctive is formed with the subjunctive of \bl{aïr} (Section~\ref{sec:subjunctive}), and the pluperfect subjunctive with \bl{aus} (Section~\ref{sec:conditional}).
+    \glsen{M'orruð un hom ay my bos oundrað.}{mɔˈrɪθ ɪn ɔm e mi bɔz unˈdraθ}{{\First\Sg.\Obl=seem} {\Indf} person {have.\Sbjv} {\First\Sg.\Poss} gun {wound-\Pst.\Ptcp}}{I think someone's broken my gun.}
+The perfect and the progressive combine as \bl{star} + \bl{stað} + present participle: \bl{le no'r ja stað attenent} `he hadn't been trying'.
+
+\section{The progressive}\label{sec:progressive}
+The progressive is formed with `be' and the present participle. In the present the auxiliary is \bl{es} and the rest of the present of \bl{star}, often contracted with a pronoun subject (\bl{jo's}, \bl{le's}). In the past it is the copula \bl{er}, not \bl{sta}, and in the future \bl{sera}. As in the perfect, a direct object and any object pronouns come before the participle.
+    \glsen{Dou aragn son y platcouf flaðrant.}{du aˈrɛjn sɔn i platˈkuf flaðˈrant}{two spider {be.\Third\Pl} {\Def} ceiling {climb-\Prs.\Ptcp}}{Two spiders are climbing on the ceiling.}
+    \glsen{Ðe ern y hey pegntant a roug.}{ðe ɛrn̩ i hi pijnˈtant a ruj}{{\Third\Pl} {\Cop.\Ipfv-\Third\Pl} {\Def} fence {paint-\Prs.\Ptcp} to red}{They were painting the fence red.}
+    \glsen{Nos sereu tout brogmoð beint e tort dell'ivan pascent.}{no seˈraw tut brɔjˈmɔθ bint e tɔrt ˌde.liˈvan ˈpa.xɛnt}{{\First\Pl} {be-\Fut.\First\Pl} all mead {drink-\Prs.\Ptcp} and pie {of.\Def=child} {eat-\Prs.\Ptcp}}{We'll all be drinking mead and eating Christmas pie.}
+The progressive describes an event in progress at the time referred to, or a temporary activity.
+    \glsen{Jo's stuðant vars theorist soustançal denir.}{ʒɔz stiˈðant varz θawˈrɪst ˌsu.stanˈtsal deˈnɪr}{{\First\Sg=be} {study-\Prs.\Ptcp} towards scientist physical {become-\Inf}}{I'm studying to be a materials scientist.}
+With an expression of duration, the present progressive describes an activity that has been going on up to now, which English expresses with the perfect progressive (see also Section~\ref{sec:present}).
+    \glsen{Jo's y jarry frottant tras un demy d'hour.}{ʒɔz i ʒaˈri frɔˈtant traz ɪn deˈmi dur}{{\First\Sg=be} {\Def} crockery {rub-\Prs.\Ptcp} across {\Indf} half {of=hour}}{I've been scrubbing dishes for half an hour.}
+    \glsen{Ðe son se rajognent sou teneur covart pieç semman.}{ðe sɔn se raˈʒɔj.nɛnt su teˈnawr koˈvart pjɛts sɛˈman}{{\Third\Pl} {be.\Third\Pl} {\Refl} {meet-\Prs.\Ptcp} under darkness {cover.\Pst.\Ptcp} some week}{They have been meeting in secret for a few weeks.}
+With \bl{tojorn} `always' and similar adverbs, it describes a repeated activity, often one the speaker finds tiresome.
+    \glsen{L'oç segr es dignt tojorn le vil scaur ag mur ne Pompeï.}{lɔts ˈsijr̩ ɛz dajnt toˈʒɔrn le vɪl xor ɛj mɪr ne ˌpɔm.piˈji}{{\Def=\Dist.\Sg} man be {say-\Prs.\Ptcp} always {\Third\Sg.\M} will {write-\Inf} {to.\Def} wall in Pompeii}{That guy's always saying he'll make a name for himself.}
+% CHECK: (1) sta + present participle seems to be adjectival, not progressive
+% (Y reloðeç ag tarner sta aplattiscent 'The host's gentility was
+% irritating'). Is the past progressive always er + participle? (2) Is the
+% progressive possible with stative verbs? Jo's cuidant cos nuvr a my dois
+% extollir 'I've been meaning to upgrade my phone' (S20033) suggests so.
+
+\section{The future}\label{sec:future}
+Borlish has three ways of referring to the future: the synthetic future, the periphrasis of \bl{volir} `will' with the infinitive, and the present (Section~\ref{sec:present}).
+
+\subsection{The synthetic future}\label{sec:synthetic-future}
+The synthetic future makes predictions and statements about the future. It is negated in the usual way, with \bl{noc}.
+    \glsen{Victour portaraun teisment laureller.}{vɪkˈtur ˌpɔr.taˈron tiˈzmɛnt ˌlo.rɛˈlɛr}{champion {wear-\Fut.\Third\Pl} wreath laurel}{Champions will wear laurel wreaths.}
+    \glsen{Ða gent oc saun, y sar marcer dourra mal.}{ða ʒɛnt ɔk son i sar marˈtsɛr duˈra mal}{if people {\Prox.\Sg} {know-\Third\Pl} {\Def} net commercial {hurt-\Fut} badly}{If people find out about this, the trade network will be affected badly.}
+    \glsen{Nos farreu noc deunx cossy alcheðr.}{nɔz faˈrau nɔk daunks kɔˈsi alˈkɛðr̩}{{\First\Pl} {do-\Fut.\First\Pl} {\Neg} {close.shave} thus again}{We won't get so lucky again.}
+It is also used for timetables and arrangements, where English often has the present.
+    \glsen{Scerra un trasson de deg minut ag mojolon.}{xɛˈra ɪn traˈsɔn de dij miˈnɪt ɛj ˌmo.ʒoˈlɔn}{{there.be-\Fut} {\Indf} layover of ten minute {at.\Def} interchange}{There's a ten-minute layover at the interchange.}
+The future of a modal verb carries the modality into the future: \bl{porra} `will be able', \bl{erra} `will have to'.
+    \glsen{Dagormay erra la sy parol robar volonter.}{ˌda.gɔrˈme ɛˈra la si paˈrɔl roˈbar ˌvo.lɔnˈtɛr}{henceforth {go-\Fut} {\Third\Sg.\F} {\Third\Sg.\Poss} word {dress-\Inf} deliberately}{From now on she'll have to choose her words wisely.}
+Finally, the future can express a confident inference about the present, like English \textit{must}. The future perfect does the same for the past (Section~\ref{sec:other-perfects}).
+    \glsen{Sbolognment sera toll'ec kynous cavir pront candon recas.}{ˌsbo.lɔjnˈmɛnt seˈra toˈlɛk kiˈnuz kaˈvir prɔnt kanˈdɔn reˈkaz}{chore {be-\Fut} {all.\Def=\Prox.\Pl} ingredient {get-\Inf} available when {require-\Pst.\Ptcp}}{It must be a pain needing to have all these ingredients to hand.}
+    \glsen{Cu tendra nis ac?}{ki tɛnˈdra nɪz ak}{who {hold-\Fut} effort here}{Whose fault is it?}
+% CHECK: is this epistemic use of the future productive? Compare also
+% vendra de cessar 'must have just finished' (corpus C44).
+
+\subsection{The future with \bl{volir}}\label{sec:vol-future}
+The present of \bl{volir} `will' with an infinitive expresses intentions and plans. It is common in questions about what someone means to do, and it is also used for predictions. Its present has a single singular form \bl{vil}, with plural \bl{voum}, \bl{vouð}, \bl{voun}.
+    \glsen{Jo vil te rannuðar an ensign extolliðessem.}{ʒo vɪl te ˌra.niˈðar an ɛnˈsajn ɛkˌstɔ.liˈðɛ.sɛm}{{\First\Sg} will {\Second\Sg.\Obl} {recommend-\Inf} {to.\Indf} rank {promote-\Pst.\Ptcp-\Cmpr}}{I will recommend you for a higher position.}
+    \glsen{Vos vouð uncos special accommettr por y gaviscenç ou?}{vɔz vuθ ɪnˈkɔz speˈtsjal ˌa.kɔˈmɛtr̩ pɔr i ˌga.viˈxɛnts u}{{\Second\Pl} {will.\Second\Pl} something special {undertake-\Inf} for {\Def} celebration {\Q}}{Are you going to do anything special for the festivities?}
+    \glsen{L'ec imascry voun l'Issambr a Lappier æternar.}{lɛk ˌi.maxˈri vun lɪˈsambr̩ a laˈpjɛr ˌe.tɛrˈnar}{{\Def=\Prox.\Pl} statue {will.\Third\Pl} {\Def=massacre} at Lappier {commemorate-\Inf}}{These statues will commemorate the Lappier Massacre.}
+The \bl{volir} future is not negated with \bl{noc}. Instead it has a negative counterpart, the verb \bl{nolir} `won't' (present \bl{nil}, 2\textsc{pl} \bl{nouð}). With a negative subject such as \bl{alcun hom} `nobody', \bl{nolir} appears without any other negator. It can also express refusal, or a persistence the speaker finds annoying.
+    \glsen{Quippe alcun hom nil y budr de cay-seg-a-veðerrem svoccar.}{kwɪˈpe alˈkɪn ɔm nɪl i ˈbi.dr̩ de keˌsi.ja.veˈðɛ.rɛm svɔˈkar}{surely no person {\Neg.\Fut} {\Def} harbinger of elephant.in.the.room {mention-\Inf}}{Surely nobody will mention the looming elephant in the room.}
+    \glsen{My sour nil pausar ne parolar de sy cigl.}{mi sur nɪl poˈzar ne ˌpa.roˈlar de si tsajl}{{\First\Sg.\Poss} sister {\Neg.\Fut} {stop-\Inf} in {speak-\Inf} of {\Third\Sg.\Poss} sweetheart}{My sister keeps talking about her boyfriend.}
+The two futures overlap a great deal. The most frequent verbs use the synthetic future freely in every register. With other verbs, and especially with long ones, the synthetic future sounds somewhat literary or formal, and \bl{volir} with the infinitive is the everyday choice. Something of the origins of the two forms may also survive in their use. The synthetic future goes back to a construction with `have' (`I have to sing'), the periphrasis to one with `want'. As a result, \bl{volir} tends to be chosen where the subject's will is involved, and the synthetic future where it is not.
+% TODO: the description of the two futures is provisional, pending a usage
+% study of the corpus (frequency of each by verb, length, register, and
+% whether the subject is volitional).
+% CHECK: (1) the full present of nolir (nil, ?noum, nouð, ?noun)? (2) Can
+% volir still mean 'want' as a main verb, or is that only stovir?
+
+\subsection{The future in the past}\label{sec:future-in-past}
+The imperfect of \bl{volir} or \bl{nolir} with the infinitive expresses the future as seen from a point in the past. In narrative it corresponds to English \textit{would}. On its own it can describe an intention that was not carried out.
+    \glsen{Sell'ec gest volen rebondir cos incommorant.}{ˈsɛ.lɛk ʒɛst voˈlɛn ˌre.bɔnˈdɪr kɔz ɪnˌkɔ.moˈrant}{{\Third\Sg.\Poss-\Def=\Prox.\Pl} act {will-\Ipfv.\Third\Pl} {rebound-\Inf} {\Adv} immediate}{His acts would have immediate consequences.}
+    \glsen{Alcun hom nole l'oç od phthongar a caum.}{alˈkɪn ɔm noˈle lɔts ɔd fθɔnˈgar a kom}{no person {\Neg.\Fut-\Ipfv} {\Def=\Dist.\Sg} ode {set-\Inf} to piece}{Nobody was going to set that ode to music.}
+    \glsen{Jo vole pogntar apar ma jo broncau.}{ʒo voˈle pɔjnˈtar aˈpar ma ʒo brɔnˈko}{{\First\Sg} {will-\Ipfv} {poke-\Inf} through but {\First\Sg} {balk-\Pst}}{I meant to flirt but I chickened out.}
+
+\section{Aspectual periphrases}\label{sec:aspectual-periphrases}
+Several verbs combine with an infinitive to express aspect. \bl{Venir de} `come from' expresses the recent past, `have just'.
+    \glsen{Un bougr insuet vien de laurar cas y haprman.}{ɪn ˈbu.gr̩ ɪnˈsjɛt vjɛn de loˈrar kaz i ˌha.pr̩ˈman}{{\Indf} guy novice come of {work-\Inf} {at.home.of} {\Def} grocer}{A new guy's just started at the grocer's.}
+    \glsen{Nos venau de retornar posc sortir ag vousc.}{nɔz veˈno de ˌre.tɔrˈnar pɔx sɔrˈtɪr ɛj vux}{{\First\Pl} {come-\Ipfv.\First\Pl} of {return-\Inf} after {go.out-\Inf} {to.\Def} strawberry}{We had just got back from a tryst together.}
+\bl{Eir sauf a} `go except to' expresses an event that very nearly happened.
+    \glsen{J'eu sauf a lou sveilar n'ortellent atras.}{ʒaw sof a lu sviˈlar ˌnɔr.tɛˈlɛnt aˈtraz}{{\First\Sg=go.\Pst} except to {\Third\Pl.\Acc} {wake-\Inf} {in=sneak-\Prs.\Ptcp} through}{I nearly woke them up as I snuck past.}
+\bl{Ençar a} `begin to' marks the start of an action (\bl{ençau a conteyar} `started counting', Section~\ref{sec:preterite}). \bl{Parmanir a} `persist in' and \bl{tenir a} `hold to' mark its continuation, and \bl{reuvr a} `come back to' its resumption (\bl{reuloy a racont fair} `went on talking').
+    \glsen{Jo parmanoy a hoissar, y glouç seponent.}{ʒo ˌpar.maˈnɔj a hɔjˈsar i gluts seˈpɔ.nɛnt}{{\First\Sg} {persist-\Pst} to {blow-\Inf} {\Def} giggle {ignore-\Prs.\Ptcp}}{I kept playing, ignoring the giggles.}
+    \glsen{Or bon, tenau a lo javigar.}{ɔr bɔn teˈno a lo ˌʒa.viˈgar}{well good {hold-\First\Pl.\Sbjv} to {\Third\Sg.\N.\Acc} {search-\Inf}}{Alright, let's keep searching.}
+Its end is marked by \bl{pausar ne} `stop' (\bl{nil pausar ne parolar} `won't stop talking', Section~\ref{sec:vol-future}), or by the adverb \bl{plu} `no more', which with a command means `stop'.
+    \glsen{Façað plu stancour a my nuçal!}{faˈtsaθ pli stanˈkur a mi niˈtsal}{{do-\Second\Pl.\Sbjv} {no.more} tinkering to {\First\Sg.\Poss} wedding}{Stop meddling in my wedding!}
+% CHECK: are there others? E.g. yembr a + infinitive 'manage to' (Le'r toð cas
+% yent a un caðer cavir 'He had, at least, managed to find a seat', corpus C521).
+
+\section{Mood}\label{sec:mood}
+Borlish distinguishes three moods: the indicative, the subjunctive and the imperative. The subjunctive has two tenses, the present and the imperfect, whose choice depends mainly on the tense of the main clause (Section~\ref{sec:impf-subjunctive}). The imperative proper has only a second person singular. Other commands use the present subjunctive. The present subjunctive of \bl{volir}, \bl{vel}, provides the conditional (Section~\ref{sec:conditional}).
+
+\subsection{Commands and exhortations}\label{sec:commands}
+A command to one person uses the imperative, which is the bare present stem. A command to several people, or a polite command (Chapter~\ref{ch:register-names}), uses the second person plural of the present subjunctive. The first person plural of the subjunctive makes suggestions, `let's'. In all of these the subject is left out, and a pronoun object follows the verb in its disjunctive form (Section~\ref{sec:disjunctive}).
+    \glsen{Salað y vec ag hal sdroy.}{saˈlaθ i vɛk ɛj hal sdrɔj}{{get.off-\Second\Pl.\Sbjv} {\Def} bus {at.\Def} hall stock}{Get off the bus at the depot.}
+    \glsen{Quisteu raut neðan y davarn sey haft.}{kwiˈstaw rot neˈðan i daˈvarn si haft}{{call-\First\Pl.\Sbjv} quick lest {\Def} hotel {be.\Sbjv} busy}{Let's call now before the hotel's fully booked.}
+Negative commands place \bl{noc} after the verb (and after a disjunctive pronoun). An alternative is \bl{skig} `avoid', the imperative of \bl{skighar}, with an infinitive.
+    \glsen{Desmettað noc y sontiçtað de nossell'entrpris!}{ˌdɛ.zmɛˈtaθ nɔk i ˌsɔn.tɪtsˈtaθ de ˌnɔ.sɛˌlɛntr̩ˈprɪz}{{fire-\Second\Pl.\Sbjv} {\Neg} {\Def} necessity of {\First\Pl.\Poss-\Def=business}}{Don't fire the backbone of our company!}
+    \glsen{Skig le keyottar; luy stou noc un douçur may.}{skaj le kjɔˈtar laj stu nɔk ɪn duˈtsɪr me}{avoid {\Third\Sg.\M.\Acc} {spoil-\Inf} {\Third\Sg.\Obl} {be.needed} {\Neg} {\Indf} dessert more}{Don't pamper him; he doesn't need more pudding.}
+A request is softened by using the subjunctive of \bl{volir} with an infinitive, \bl{vel} or \bl{veleð}, like English \textit{please}. Its negative is \bl{nel} or \bl{neleð}, from \bl{nolir}.
+    \glsen{Veleð y luam covauclir pre exeunt fair.}{veˈlɛθ i ljam ˌko.voˈklɪr pre ɛgˈzawnt fer}{{will-\Second\Pl.\Sbjv} {\Def} toilet {cover-\Inf} before exit {do-\Inf}}{Please put the toilet lid down before leaving.}
+    \glsen{Vel my tarsc d'acat me soumonir posc nossell'yenç.}{vɛl mi tarx daˈkat me ˌsu.moˈnir pɔx ˌno.sɛlˈjɛnts}{{will.\Sbjv} {\First\Sg.\Poss} note {of=shopping} {\First\Sg.\Obl} {remind-\Inf} after {\First\Pl.\Poss-\Def=arrival}}{Please remind me of my shopping list when we arrive.}
+    \glsen{Neleð y gran key roug appoyar.}{neˈlɛθ i gran ki ruj ˌa.pɔˈjar}{{\Neg.\Fut-\Second\Pl.\Sbjv} {\Def} big button red {press-\Inf}}{Please don't press the big red button.}
+A wish or command about a third person uses the third person of the subjunctive, without any introducing word. With a first person singular subject, \bl{vel jo} + infinitive means `let me': \bl{Vel jo te mostrar ig noscon vençað} `Let me show you what we have'.
+    \glsen{Jug sein y domn egrtumnesc n'eç cahut.}{ʒaj sin i ˈdɔmn̩ ˌijr̩.tɪmˈnɛx nɛts kaˈhɪt}{ever {be.\Third\Pl.\Sbjv} {\Def} woman sick {in=\Dist.\Pl} cabin}{Keep the sick women quarantined.}
+
+\subsection{The subjunctive in complement clauses}\label{sec:subjunctive}
+The subjunctive appears in clauses whose content is presented as wanted, planned, feared or believed, rather than asserted as fact. The complementiser \bl{ig} is often left out before it.
+    \glsen{Nos pretenm ig casc nou muncef ain nux.}{nɔz preˈtɛ.nm̩ aj kax nu mɪnˈtsɛf en nɪks}{{\First\Pl} {plan-\First\Pl} {\Comp} each new district {have.\Third\Pl.\Sbjv} hub}{We plan to have a hub in each new town.}
+    \glsen{J'ay hougr y fren de my rað sein inovrant.}{ʒe hɔjr i frɛn de mi raθ sin ˌi.nɔˈvrant}{{\First\Sg=have.\First\Sg} fear {\Def} brake of {\First\Sg.\Poss} bike {be.\Third\Pl.\Sbjv} {malfunction-\Prs.\Ptcp}}{I'm worried my bike's brakes are broken.}
+    \glsen{M'orruð ig l'oc vellisqment sey un reunç dy blad.}{mɔˈrɪθ aj lɔk ˌvɛ.lɪskˈmɛnt si ɪn raunts di blad}{{\First\Sg.\Obl=seem} {\Comp} {\Def=\Prox.\Sg} gambit {be.\Sbjv} {\Indf} flip {of.\Def} card}{I think that this gambit is a real shot in the dark.}
+    \glsen{Rumorað es ig l'oç prinç sey zamicað an masmorrat.}{ˌri.moˈraθ ɛz aj lɔts prɪnts si ˌza.miˈkaθ an ˌma.smɔˈrat}{{rumour-\Pst.\Ptcp} be {\Comp} {\Def=\Dist.\Sg} prince {be.\Sbjv} {lock.up-\Pst.\Ptcp} {in.\Indf} dungeon}{That prince is rumoured to be locked in a dungeon.}
+A verb of knowing takes the subjunctive when it is questioned or negated.
+    \glsen{Le reconnosc ou sy fraðr sey tan demastr?}{le ˌre.kɔˈnɔx u si fraðr̩ si tan deˈmastr̩}{{\Third\Sg.\M} recognise whether {\Third\Sg.\Poss} brother {be.\Sbjv} so judgemental}{Does he know his brother is so judgemental?}
+With \bl{fair} `make', the subjunctive forms a causative, without \bl{ig}.
+    \glsen{Y jonglour fey l'oç bal yemois reunt.}{i ʒɔnˈglur fi lɔts bal jeˈmɔjz rawnt}{{\Def} magician {do.\Pst} {\Def=\Dist.\Sg} ball {arrive-\Ipfv.\Sbjv} back}{The magician made the ball reappear.}
+Verbs of knowing, saying and perceiving take the indicative when they are not negated or questioned: \bl{Jo saveu mell'amig er duvant a scac} `I realised my friend was cheating at chess' (Section~\ref{sec:pret-impf-meaning}). So do verbs of believing such as \bl{creir}, though \bl{orruðar} `seem' takes the subjunctive, as above.
+    \glsen{Nos creim y droug terraun dessur de murðon pavar.}{nɔz krim i druj tɛˈron dɛˈsɪr de mɪrˈðɔn paˈvar}{{\First\Pl} {believe-\First\Pl} {\Def} contribution {come.to-\Fut.\Third\Pl} above of {ten.thousand} poppy}{We think the contributions will total over ten thousand pavar.}
+A subjunctive may still appear after such a verb when it is used for politeness (Section~\ref{sec:sbjv-main}).
+% CHECK: (1) stimar 'deem' has the subjunctive in Le stima vos fosseð un hom
+% troç e de sanc ðus 'He thought you were fierce and hot-blooded' (S25837).
+% Is that the politeness subjunctive again (it is about the addressee), or
+% does stimar take the subjunctive? (2) An embedded question after savir has
+% the indicative in Vos saveð ou l'instroy eç stuðant çougr? 'Do you know if
+% he has unruly students?' (S23862), but reconnosc ou above has the
+% subjunctive. Is the subjunctive optional in embedded questions?
+
+\subsection{The subjunctive in adverbial clauses}\label{sec:sbjv-adverbial}
+The subjunctive is used in clauses of purpose, with \bl{a fin ig} `so that' and \bl{neðan} `lest, so that \ldots{} not'. It is also used in clauses of time that refer to the future, after \bl{fin a} `until', \bl{pre} `before' and \bl{cant} `when'.
+    \glsen{A fin ig tu caif y livr teyon rovað, jo calmau ag varous fin all'augtanç.}{a fɪn aj ti kef i ˈli.vr̩ tiˈjɔn roˈvaθ ʒo kalˈmo ɛj vaˈruz fɪn ˌa.lojˈtants}{to end {\Comp} {\Second\Sg} {get.\Sbjv} {\Def} book {\Second\Sg.\Agt} {ask.for-\Pst.\Ptcp} {\First\Sg} {stay.put-\Pst} {at.\Def} shop end {at.\Def=delivery}}{So you'd get the book you wanted, I stayed at the shop until it arrived.}
+    \glsen{Scouð tey den neðan un hom caif oundr.}{xuθ ti dɛn neˈðan ɪn ɔm kef undr̩}{rescue {\Second\Sg.\Dsj} thereof lest {\Indf} person {get.\Sbjv} wound}{Snap out of it before someone gets hurt.}
+    \glsen{Torneyeð y cout fin a y zygom sey ovart.}{ˌtɔr.niˈjɛθ i kut fɪn a i ziˈgɔm si oˈvart}{{turn-\Second\Pl.\Sbjv} {\Def} crank end at {\Def} valve {be.\Sbjv} open}{Turn the crank until the valve's open.}
+    \glsen{Me storra le vin y tabr despondr pre nos pascau.}{me stɔˈra le vɪn i ˈta.br̩ dɛˈspɔn.dr̩ pre nɔz paˈxo}{{\First\Sg.\Obl} {be.needed-\Fut} {\Third\Sg.\M} {come.\Sbjv} {\Def} table {lay-\Inf} before {\First\Pl} {eat-\First\Pl.\Sbjv}}{I need him to come and set the table before we eat.}
+    \glsen{Deð lour gevou cant y rafayat revin.}{dɛθ lur geˈvu kant i ˌra.feˈjat reˈvɪn}{{give-\Second\Pl.\Sbjv} {\Third\Pl.\Obl} warning when {\Def} tailor {come.back.\Sbjv}}{Give them a heads-up if the tailor comes back.}
+% CHECK: is the subjunctive obligatory after neðan? Reuvað entarn neðan vos
+% caurreð tout mephit! 'Come back inside so you don't all catch a chill!'
+% (S7510) has the future indicative.
+
+\subsection{The subjunctive in main clauses}\label{sec:sbjv-main}
+Besides commands, the subjunctive of \bl{poðir} `can', \bl{pos}, expresses a weak possibility, `might', or asks permission.
+    \glsen{Alcot y bel nau, tu pos ja traiçon me dar.}{alˈkɔt i bɛl no ti pɔz ʒa treˈtsɔn me dar}{how.much {\Def} pretty word {\Second\Sg} {can.\Sbjv} still betrayal {\First\Sg.\Obl} {give-\Inf}}{Whatever you say, you might yet betray me.}
+    \glsen{Jo pos parolar coll'autour ou?}{ʒo pɔz ˌpa.roˈlar ˌkɔ.loˈtur u}{{\First\Sg} {can.\Sbjv} {speak-\Inf} {with.\Def=owner} {\Q}}{May I speak to the owner?}
+The subjunctive also serves as a mark of politeness when the speaker describes what the addressee wants or would prefer, much as English uses \textit{would}. This politeness subjunctive can appear even in a clause that would otherwise take the indicative, such as the complement of \bl{creir}.
+    \glsen{Nos creim vos desfayað y morrig goðamer acconnoscr.}{no krim vo ˌdɛs.fɛˈjaθ i moˈraj ˌgo.ðaˈmɛr ˌa.koˈnɔ.xr̩}{{\First\Pl} {believe-\First\Pl} {\Second\Pl} {disprefer-\Second\Pl.\Sbjv} {\Def} aunt bigoted {meet-\Inf}}{We believe you'd prefer not to meet our bigoted aunt.}
+
+\subsection{The imperfect subjunctive}\label{sec:impf-subjunctive}
+Where a subordinate clause requires the subjunctive, the imperfect subjunctive replaces the present when the main verb is in a past tense.
+    \glsen{J'aye spien ig l'oç madarc no fos a squid.}{ʒɛˈje spjɛn aj lɔts maˈdark no fɔz a skwɪd}{{\First\Sg=have-\Ipfv} hope {\Comp} {\Def=\Dist.\Sg} cop {\Neg} {be.\Ipfv.\Sbjv} at handshake}{I hoped that that cop wasn't on the take.}
+    \glsen{Jo luy dau un cromn neðan le surcous ne fousc arð.}{ʒo laj do ɪn krun neˈðan le sɪrˈkuz ne fux arθ}{{\First\Sg} {\Third\Sg.\Obl} {give-\Pst} {\Indf} purse lest {\Third\Sg.\M} {end.up-\Ipfv.\Sbjv} in pit steep}{I gave him some cash so he wouldn't be flat broke.}
+    \glsen{Le stima vos fosseð un hom troç e de sanc ðus.}{le stiˈma vɔz fɔˈsɛθ ɪn ɔm trɔts e de sank ðɪz}{{\Third\Sg.\M} {deem-\Ipfv} {\Second\Pl} {be.\Ipfv.\Sbjv-\Second\Pl} {\Indf} person grim and of blood {burn.\Pst.\Ptcp}}{He thought you were fierce and hot-blooded.}
+    \glsen{Jo save noc tu aus cosvour scon stemn n'Ambrosia!}{ʒo saˈve nɔk ti oz kɔsˈvur xɔn ˈste.mn̩ ˌnam.broˈzja}{{\First\Sg} {know-\Ipfv} {\Neg} {\Second\Sg} {have.\Ipfv.\Sbjv} cousin second lineage {in=Ambrosia}}{I didn't know you had second cousins in Ambrosia!}
+In a main clause, the imperfect subjunctive of a modal verb with a plain infinitive expresses what should or could have happened but did not. Borlish does not use a perfect infinitive here.
+    \glsen{Me valois noc y fabr assistr con my maðr.}{me vaˈlɔjz nɔk i ˈfa.br̩ aˈsɪs.tr̩ kɔn mi ˈma.ðr̩}{{\First\Sg.\Obl} {be.worth-\Ipfv.\Sbjv} {\Neg} {\Def} play {attend-\Inf} with {\First\Sg.\Poss} mother}{I shouldn't have seen the play with my mother.}
+The imperfect indicative of an impersonal modal can have the same meaning: \bl{T'incombisce te leyar tostessem} `You should have got up earlier'.
+
+\subsection{The conditional}\label{sec:conditional}
+The present subjunctive of \bl{volir} with an infinitive (\bl{vel cantar}) forms the conditional, `would sing'.
+    \glsen{For un inaltour vel y lasc amar.}{fɔr ɪn ˌi.nalˈtur vɛl i lax aˈmar}{only {\Indf} snob {will.\Sbjv} {\Def} film {like-\Inf}}{Only a snob would like the film.}
+    \glsen{Cu vel un nom sceint issarr com dob?}{ki vɛl ɪn nɔm xint iˈsarr̩ kɔm dɔb}{who {will.\Sbjv} {\Indf} name {exist-\Prs.\Ptcp} {use-\Inf} as epithet}{Who'd use a real name as a username?}
+The same form serves as a future subjunctive in clauses that require the subjunctive and refer to the future, and it softens questions and requests (\bl{Tu vel nos aïðar \ldots{} ou?} `Can you help us \ldots?').
+    \glsen{Jo dout ouð y quil çaveyour vel lou incombir.}{ʒo dut uθ i kwɪl tsaˈvjur vɛl lu ˌɪn.kɔmˈbɪr}{{\First\Sg} doubt whether {\Def} bed cushioner {will.\Sbjv} {\Third\Pl.\Acc} {suit-\Inf}}{I doubt life on easy street would suit them.}
+The imperfect subjunctive \bl{volois} (negative \bl{nolois}) is used in the same way after a past main verb (\bl{neðan Bon Jesu volois smargr des vogt dy foscur} `so that Good Jesus wouldn't come out of the void of darkness'). In a main clause it forms the past conditional, `would have': \bl{Ða la'r oc, volois la noc luy digr la yon se situa sy cambr?} `If she were, wouldn't she have told him where her bedroom was?'
+    \glsen{Se poð jo nolois cavir validað ag reu.}{se pɔθ ʒo noˈlɔjz kaˈvɪr ˌva.liˈdaθ ɛj raw}{{\Refl} can {\First\Sg} {\Neg.\Fut-\Ipfv.\Sbjv} {get-\Inf} {qualify-\Pst.\Ptcp} {to.\Def} stream}{I might lack the prereqs for the course.}
+
+\subsection{Conditional sentences}\label{sec:conditional-sentences}
+Conditional clauses are introduced by \bl{ða} `if' and are treated fully in Chapter~\ref{ch:complex-sentences}. The tenses combine as follows.
+\begin{itemize}
+    \item \textbf{Open conditions} have the present (or the future) after \bl{ða}, and the future, present or imperative in the main clause (\bl{Ða gent oc saun, y sar marcer dourra mal}, Section~\ref{sec:synthetic-future}).
+    \item \textbf{Hypothetical conditions} have the imperfect, or sometimes the present, after \bl{ða}, and the conditional \bl{vel} + infinitive in the main clause: \bl{Y quanga vel certan le desmettr ða l'aye catoum pront} `The quanga would surely sack him if he had proof in hand'.
+    \item \textbf{Counterfactual conditions} in the past have the pluperfect subjunctive \bl{aus} + participle after \bl{ða}, and the past conditional \bl{volois} + infinitive in the main clause: \bl{Ða l'aus un curtel frivol cossirabr posseïð lor plausibr sta la volois lo triar} `If she'd owned a gown that could be called frivolous, she might have selected it'; \bl{L'oc nolois surcair glonscellous sad just ða y scon femn aus dottr menað} `This would not have been a great problem if the new wife had had daughters'.
+\end{itemize}
+    \glsen{Skig aular ag quarf ða cay ploy borjonnant.}{skaj oˈlar ɛj kwarf ða ke plɔj ˌbɔr.ʒɔˈnant}{avoid {walk-\Inf} {to.\Def} station if fall rain {impend-\Prs.\Ptcp}}{Don't walk to the station if it looks like rain.}
+    \glsen{Com veleð vos farar ða vos cay un liesc bouclant?}{kɔm veˈlɛθ vɔz faˈrar ða vɔz ke ɪn ljɛx buˈklant}{how {will-\Second\Pl.\Sbjv} {\Second\Pl} {fare-\Inf} if {\Second\Pl} fall {\Indf} interval {loop-\Prs.\Ptcp}}{What would you do if you were in a time loop?}
+Note that the past conditional takes a plain infinitive, not a past participle (\bl{volois lo triar}, not \bl{*volois lo triað}), although English uses \textit{would have} with a participle.
+
+\section{Tense in subordinate clauses}\label{sec:tense-subordinate}
+When a verb of saying or thinking has the same subject as its complement, the complement is usually an infinitive, which carries no tense. The time reference is left to the context.
+    \glsen{Ðe disrn empley broucar n'un foncçondry.}{ðe ˈdɪz.rn̩ ɛmˈpli bruˈkar nɪn ˌfɔn.ksɔnˈdri}{{\Third\Pl} {say.\Pst-\Third\Pl} job {have-\Inf} {in=\Indf} agency}{They said they had jobs at an agency.}
+    \glsen{Jo recuida jamay noiteyar n'un davarn.}{ʒo ˌre.kajˈda ʒaˈme ˌnɔj.tiˈjar nɪn daˈvarn}{{\First\Sg} {realise-\Ipfv} never {stay.the.night-\Inf} {in=\Indf} resort}{I realised I'd never stayed in a resort.}
+In a finite complement after a past main verb, a situation at the same time as the main verb is in the imperfect (\bl{Jo save l'oc caum contene un fardig d'aloud}, Section~\ref{sec:pret-impf-meaning}). An earlier situation is in the pluperfect, and a later one in the future in the past (Section~\ref{sec:future-in-past}). Where the subjunctive is required, the imperfect subjunctive is used (Section~\ref{sec:impf-subjunctive}).
+% CHECK: is the same-subject infinitive obligatory, or can a finite clause
+% with ig be used as well?
+
+\section{Modality}\label{sec:tam-modality}
+Modal meanings are expressed mainly by modal verbs with the infinitive: \bl{poðir} `can', \bl{valir} `ought', \bl{stovir} `be needed', \bl{eir} `have to', \bl{incombir} `behove' and others (Chapter~\ref{ch:copulas}). A few points about their tenses belong here.
+\begin{itemize}
+    \item In the past, a modal is usually in the imperfect when it describes a general ability or obligation, and in the preterite when it reports a single occasion (\bl{poðe} and \bl{sceu}, Section~\ref{sec:pret-impf-meaning}).
+    \item What should or could have happened but did not is expressed with the imperfect subjunctive of the modal and a plain infinitive (Section~\ref{sec:impf-subjunctive}).
+    \item Possibility is expressed with \bl{pos} (Section~\ref{sec:sbjv-main}) or with impersonal \bl{se poð} `it may be' and a clause (\bl{Se poð jo nolois cavir validað}, Section~\ref{sec:conditional}).
+    \item A confident inference is expressed with the future (Section~\ref{sec:synthetic-future}).
+\end{itemize}
+    \glsen{Nos eum enfugr pront la nos fom soccos destr.}{nɔz awm ɛnˈfajr̩ prɔnt la nɔz fɔm sɔˈkɔz ˈdɛstr̩}{{\First\Pl} {go.\Pst-\First\Pl} {flee-\Inf} immediately there {\First\Pl} {be.\Pst-\First\Pl} {shake.\Pst.\Ptcp} {out.of.it}}{We had to run as soon as we were rumbled.}
+    \glsen{Te stove un cottegl a ty dois accatar?}{te stoˈve ɪn kɔˈtijl a ti dɔjz ˌa.kaˈtar}{{\Second\Sg.\Obl} {be.needed-\Ipfv} {\Indf} case to {\Second\Sg.\Poss} smartphone {buy-\Inf}}{Did you need to buy a new phone case?}
+    \glsen{Nos erreu l'oc kessandar coram fin a bogr defassar.}{nɔz eˈraw lɔk ˌke.sanˈdar koˈram fɪn a bɔjr̩ ˌde.faˈsar}{{\First\Pl} {go-\Fut.\First\Pl} {\Def=\Prox.\Sg} {discuss-\Inf} {in.person} end at {at.all} {progress-\Inf}}{We have to discuss this in person before we can make any progress.}
+The potential in \bl{-abr} (\bl{noscon confiabr} `whom we could trust') is a derived adjective, treated in Chapter~\ref{ch:word-formation}.
+% CHECK: is the past of eir 'have to' normally preterite (eum enfugr) or
+% imperfect (Nos eyau monnocquar ... 'We had to trudge', S21634)?

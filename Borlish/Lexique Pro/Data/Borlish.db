@@ -2527,7 +2527,7 @@
 \ge reconquer
 \ge reunify
 
-\xv Lou stove l'os a cois algebrar toð pront.
+\xv Lour stove l'os a cois algebrar toð pront.
 \xe They had to set the thighbone at once.
 
 \et Middle Borlish, borrowed from Scholastic Latin algebrō "I set (a bone)" along with noun algebr < algebra "bone-setting; restitution". Financial use is attested from the seventeenth century; political from the late nineteenth (in the run-up to the Millstone War).
@@ -27232,7 +27232,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge put on an act
 \ge go through the motions
 
-\xv Y joun ern haval fayent ny gardin.
+\xv Y joun ern haval faint ny gardin.
 \xe The children were playing pretend in the garden.
 
 \et idiom from the sixteenth century, literally "do dolls". The noun haval "doll, puppet" was originally a southern dialect term out of Pentrose, borrowed in the Middle Borlish period from Welsh haval "likeness, image; doll, effigy". Extension out of the realm of childhood play is seen from the nineteenth century.
@@ -31672,7 +31672,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge less general
 \ge more particular
 
-\xv Nos ayau paut ny refectoir jusser.
+\xv Nos erau paut ny refectoir jusser.
 \xe We'd eaten at the downstairs cafe.
 
 \et redundant adjectival derivative of Old Borlish juss "below, further down", from late Insular Latin iūrsum, iūssum, a nonstandard form of Classical deorsum "downwards". In the latter sense extended by analogy to tauger "upstairs; more general".
@@ -32704,7 +32704,7 @@ Old Borlish < Latin illa
 \ge tumbledown
 \ge bedraggled
 
-\xv Ðe ayen heu lastumnesc, com ig ðe n'ayen for pog dormið.
+\xv Ðe ayen heu lastumnesc, com ig ðe no'rn for pog dormið.
 \xe They looked haggard, as though they hadn't had much sleep.
 
 \et fifteenth century, from lastumn. For things other than people, from the 18th century.
@@ -35987,7 +35987,7 @@ Old Borlish < Latin illa
 \ge outskirts
 \ge sidelines
 
-\xv Nos stau livað d'ableganç vars y maugr.
+\xv Nos som livað d'ableganç vars y maugr.
 \xe We're fed up of being on the sidelines.
 
 \et via Old Borlish marȝr, mauȝr "margin, edge" from Latin margō "border, margin, edge". In the geographical sense originaly referring specifically to the rural areas near to the city of Damvath. The term is seen in the last metaphorical sense from the eighteenth century onward.
@@ -43541,6 +43541,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
+
+\lx paus
 \ps interj
 
 \ge hang on
@@ -43549,15 +43558,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
-
-\lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -47429,7 +47429,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge side dish
 \ge epiphyte
 
-\xv Y quallour egreye des y convey posc catr lau.
+\xv Y quallour egreyeu des y convey posc catr lau.
 \xe The passenger left the train after eight miles.
 
 \et agentive formation from dialect verb quallar "to ride, travel by horse", which along with qual "horse" are nonstandard variants of covallar and coval in standard Borlish. These all descend from Vulgar Latin caballus "horse", from Gaulish. In latter usages clipped from compounds desc quallour "passenger meal" and plant quallour "passenger plant".
@@ -52210,7 +52210,7 @@ The word itself is a borrowing from Old French sarrazin "Muslim, Saracen" reflec
 \ge in agreement
 \ge tidy
 
-\xv Me stou for savir ig nos seim scaðr den.
+\xv Me stou for savir ig nos seyau scaðr den.
 \xe I want to know we're on the same page.
 
 \et from Old Borlish iscaðre, iscarre, carre "square", from Vulgar Latin (ex)quadra "square", variant form of post-Classical quadrus "square". Adjectival usage attested from as early as the eleventh century.
@@ -58684,7 +58684,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge in the end
 \ge interminably
 
-\xv Tandem ðe pardoirn nis e fegrn repaðr.
+\xv Tandem ðe pardoirn nis e feirn repaðr.
 \xe Eventually they gave up and went home.
 
 \et Middle Borlish borrowing from Latin tandem "at last", related to tam "so, so much". Apparently once pronounced with initial stress, but the stress had shifted to the final syllable by the seventeenth century at the latest.
@@ -62499,6 +62499,13 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Middle Borlish < Latin
 
+\lx var
+\ps n
+
+\ge war
+
+\et Old Borlish ver, var < Old Norman werre
+
 \lx vardir
 \ps ir1 v
 
@@ -65712,28 +65719,6 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et French < Italian < Old German < Latin
 
-\lx zi
-\ps interj
-
-\ue colloquial
-
-\ge yeah
-\ge innit
-\ge isn't it
-\ge aren't they
-\ge aren't I
-\ge aren't you
-\ge isn't he
-\ge isn't she
-\ge aren't we
-
-\xv Zi, sco'n bal n'oc ort.
-\xe Yeah, things're looking up.
-
-\et Contraction of standard es i [ɪˈzi] "is it", part of a series of similar contractions of the copula with pronouns, like sco "am I", sti "are you (sg)" which despite their verb-subject inversion are also nonstandardly used in declarative clauses (sti'n connart "You're a dick").
-
-Its use in polar questions seems to date back to the sixteenth century (though usually written out as es i until the twentieth), while using it to mean "yes" is much more recent and was initially restricted to correcting negative questions. In this it resembles French si "yes, in response to a negative question", and indeed on the basis of phonetic similarity direct French influence has often been supposed.
-
 \lx zijub
 \ps n
 
@@ -65866,6 +65851,28 @@ Its use in polar questions seems to date back to the sixteenth century (though u
 \xe There was jelly wobbling dangerously on the buffet table.
 
 \et early eighteenth century borrowing from French zurce "jelly, aspic", itself from sürze in Bavarn. This derives from a Classical German root sultiō "brine", related to English "salt". The word displaces now-obsolete veros "aspic" (apparently from veðr os "bone glass") in line with the substance's increasing use in sweet dishes.
+
+\lx zy
+\ps interj
+
+\ue colloquial
+
+\ge yeah
+\ge innit
+\ge isn't it
+\ge aren't they
+\ge aren't I
+\ge aren't you
+\ge isn't he
+\ge isn't she
+\ge aren't we
+
+\xv Zy, sco'n bal n'oc ort.
+\xe Yeah, things're looking up.
+
+\et Contraction of es y [ɪˈzi] "is it", part of a series of similar contractions of the copula with pronouns, like sco "am I", stu "are you (sg)" which despite their verb-subject inversion are also nonstandardly used in declarative clauses (stu'n connart "You're a dick").
+
+Its use in polar questions seems to date back to the sixteenth century (though usually written out as es i until the twentieth), while using it to mean "yes" is much more recent and was initially restricted to correcting negative questions. In this it resembles French si "yes, in response to a negative question", and indeed on the basis of phonetic similarity direct French influence has often been supposed.
 
 \lx zygom
 \ps n

@@ -1,29 +1,138 @@
 % !TEX root = ../b-rg.tex
 \chapter{Verb Morphology}\label{ch:verb-morphology}
-\stub
 
-% --- Planned sections ---
-% \section{Conjugation classes}
-%   -ar (~990 verbs in the lexicon), syllabic -r (~330), -ir type 1 (~210),
-%   -ir type 2 (~120; the -isc- class: fornir forniscent, finir finisceu,
-%   sperir sperisceurn -- sperir is not yet in the lexicon);
-%   sub-variants such as the '-oy variant' of the r-conjugation (absouvr);
-%   reflexive verbs (~35 marked 'v rfl').
-% \section{Non-finite forms}
-%   Infinitive; present participle -ant / -ent (penultimate stress in the
-%   -r class, cf. Stress); past participle -að and irregular participles
-%   (participles.txt looks like a to-do list for these).
-% \section{Person and number}
-%   Six persons; 3sg often the bare stem; 3pl in -n / syllabic -n̩
-%   (pascn, grinn, saun); 1pl in -m (yemm).
-% \section{Finite paradigms}
-%   Present; preterite (-au in the -ar class: calmau, porçonaurn);
-%   imperfect (-a in -ar, -e in -r/-ir); synthetic future (dourra, porra,
-%   sera); present and imperfect subjunctive; imperative.
-% \section{Irregular and suppletive verbs}
-%   es / sta / er 'be'; aur 'have'; vol- / nol- (future auxiliaries);
-%   poð 'can'; val 'be worth, should'; deïr 'must, owe'; eir 'go'.
-% \section{Stem alternations}
-%   Pointer to Morphophonology (nað-ar naθ, cav-ir caf, bocq bocquar).
-%
-% Full model paradigms go in the Verb Tables appendix.
+Borlish verbs have three non-finite forms (the infinitive and two participles) and seven finite paradigms: the present, imperfect, preterite and future indicative, the present and imperfect subjunctive, and the imperative. Finite verbs inflect for person and number, but in most paradigms only four forms are distinguished: one for the singular, used for all three persons, and one each for the first, second and third person plural. The person of a singular verb is shown only by its subject, which is one reason why subjects are never dropped (Section~\ref{sec:subject-pronouns}). The periphrastic tenses formed with auxiliaries are described in Chapters~\ref{ch:tam} and~\ref{ch:copulas}.
+
+\section{Conjugation classes}\label{sec:conjugations}
+Verbs fall into four conjugation classes, named after the ending of the infinitive. The model verbs used in this grammar are given in the table below, with the approximate number of verbs in each class.
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{l l l r}
+        \multicolumn{4}{c}{Conjugation classes} \\
+        \hline
+        class & model verb & & verbs \\
+        \hline
+        \bl{-ar} & \bl{cantar} & `sing' & c.~990 \\
+        \bl{-r} & \bl{ðurr} & `burn' & c.~330 \\
+        \bl{-ir}, type 1 & \bl{dormir} & `sleep' & c.~210 \\
+        \bl{-ir}, type 2 & \bl{finir} & `finish' & c.~120 \\
+        \hline
+    \end{tabular}
+\end{table}
+The \bl{-ar} class is by far the largest. New verbs derived from other words normally join it (\bl{porçon} `portion', \bl{porçonnar} `share out'), and less often type~2 \bl{-ir} (Chapter~\ref{ch:word-formation}). In the \bl{-r} class the infinitive ends in a syllabic \phm{r̩} after a consonant (\bl{ðurr} \phm{ˈðɪr.r̩}, \bl{pascr} `eat'). The two \bl{-ir} classes share their infinitive ending but differ in the rest of the paradigm. Type~2 verbs insert the extension \bl{-isc-} between the stem and the ending in every finite form except the future, and in the present participle.
+
+\section{Stems and principal parts}\label{sec:principal-parts}
+Every regular verb has three stems:
+\begin{itemize}
+    \item the \textbf{present stem}, which is the infinitive without its ending (\bl{cant-}, \bl{ður-}, \bl{dorm-}, \bl{fin-}), extended to \bl{finisc-} in type~2 \bl{-ir} verbs. It underlies the present, the imperfect and the present subjunctive and imperative;
+    \item the \textbf{future stem}, which is the whole infinitive (\bl{cantar-}, \bl{ðurr-}, \bl{dormir-}, \bl{finir-});
+    \item the \textbf{past stem}, which is the preterite singular (\bl{cantau}, \bl{ðureu}, \bl{dormeu}, \bl{finisceu}). It underlies the rest of the preterite and the whole imperfect subjunctive.
+\end{itemize}
+Together with the past participle, these give four principal parts from which every form of a verb can be predicted: the infinitive, the present singular, the preterite singular and the past participle. Irregularity in Borlish verbs tends to affect a whole principal part at once rather than individual forms. For instance, the verbs in \bl{-eir}, a subset of the \bl{-r} class, form their preterite in \bl{-eu}, their imperfect subjunctive in \bl{-eus} and their past participle in \bl{-eut} (Section~\ref{sec:verb-irregularities}).
+
+\section{Non-finite forms}\label{sec:nonfinite}
+The \textbf{infinitive} ends in \bl{-ar}, \bl{-r} or \bl{-ir}. It is used after modal verbs and prepositions, and as a verbal noun (Chapter~\ref{ch:complex-sentences}).
+
+The \textbf{present participle} ends in \bl{-ant} in the \bl{-ar} class, \bl{-ent} in type~1 \bl{-ir} verbs and \bl{-iscent} in type~2. In the \bl{-r} class it ends in \bl{-(e)nt}, which, like the other suffixes with \bl{-e-}, takes penultimate stress (Section~\ref{sec:stress}): \bl{ðurnt} `burning', \bl{pascent} \phm{ˈpa.xɛnt} `eating'. The present participle forms the progressive (Chapter~\ref{ch:tam}) and participial clauses, and many are used as adjectives.
+
+The \textbf{past participle} ends in \bl{-að} in the \bl{-ar} class and \bl{-ið} in both \bl{-ir} classes. In the \bl{-r} class, and in many type~1 \bl{-ir} verbs, the past participle is irregular. It is often a short form in \bl{-t} or \bl{-uð}, as in \bl{costroit} `built' and \bl{covart} `covered'. A particular closed class of verbs, including the model verb \bl{ðurr}, form it in \bl{-s}: \bl{ðus} `burnt', \bl{pars} `lost'.
+
+Some verbs also form a \textbf{potential} in \bl{-abr} (\bl{-ar} class) or \bl{-br} (\bl{-r} class), meaning `that can be \ldots{}ed', which is used like a participle in relative clauses: \bl{noscon confiabr} `whom we could trust' (Section~\ref{sec:agentive}). It is treated as a derivational suffix in Chapter~\ref{ch:word-formation}.
+
+\section{Endings}\label{sec:verb-endings}
+The endings of the regular finite paradigms are given in the two tables below.
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{l l l l l l}
+        \multicolumn{6}{c}{Indicative endings} \\
+        \hline
+        & & \bl{-ar} & \bl{-r} & \bl{-ir} type 1 & \bl{-ir} type 2 \\
+        \hline
+        present & \textsc{sg} & \bl{-ø} & \bl{-ø} & \bl{-ø} & \bl{-isc} \\
+        & 1\textsc{pl} & \bl{-au} & \bl{-eu} & \bl{-eu} & \bl{-isceu} \\
+        & 2\textsc{pl} & \bl{-að} & \bl{-eð} & \bl{-eð} & \bl{-isceð} \\
+        & 3\textsc{pl} & \bl{-n} & \bl{-n} & \bl{-n} & \bl{-iscn} \\
+        \hline
+        imperfect & \textsc{sg} & \bl{-a} & \bl{-e} & \bl{-e} & \bl{-isce} \\
+        & 1\textsc{pl} & \bl{-au} & \bl{-au} & \bl{-au} & \bl{-iscau} \\
+        & 2\textsc{pl} & \bl{-að} & \bl{-að} & \bl{-að} & \bl{-iscað} \\
+        & 3\textsc{pl} & \bl{-an} & \bl{-en} & \bl{-en} & \bl{-iscen} \\
+        \hline
+        preterite & \textsc{sg} & \bl{-au} & \bl{-eu} & \bl{-eu} & \bl{-isceu} \\
+        & 1\textsc{pl} & \bl{-aum} & \bl{-eum} & \bl{-eum} & \bl{-isceum} \\
+        & 2\textsc{pl} & \bl{-aust} & \bl{-eust} & \bl{-eust} & \bl{-isceust} \\
+        & 3\textsc{pl} & \bl{-aurn} & \bl{-eurn} & \bl{-eurn} & \bl{-isceurn} \\
+        \hline
+        future & 1\textsc{sg} & \multicolumn{4}{l}{infinitive + \bl{-ay}} \\
+        & 2/3\textsc{sg} & \multicolumn{4}{l}{infinitive + \bl{-a}} \\
+        & 1\textsc{pl} & \multicolumn{4}{l}{infinitive + \bl{-eu}} \\
+        & 2\textsc{pl} & \multicolumn{4}{l}{infinitive + \bl{-eð}} \\
+        & 3\textsc{pl} & \multicolumn{4}{l}{infinitive + \bl{-aun}} \\
+        \hline
+    \end{tabular}
+\end{table}
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{l l l l l l}
+        \multicolumn{6}{c}{Subjunctive and imperative endings} \\
+        \hline
+        & & \bl{-ar} & \bl{-r} & \bl{-ir} type 1 & \bl{-ir} type 2 \\
+        \hline
+        present subjunctive & \textsc{sg} & \bl{-ø} & \bl{-ø} & \bl{-ø} & \bl{-isc} \\
+        & 1\textsc{pl} & \bl{-eu} & \bl{-au} & \bl{-au} & \bl{-iscau} \\
+        & 2\textsc{pl} & \bl{-eð} & \bl{-að} & \bl{-að} & \bl{-iscað} \\
+        & 3\textsc{pl} & \bl{-n} & \bl{-n} & \bl{-n} & \bl{-iscn} \\
+        \hline
+        imperfect subjunctive & \textsc{sg} & \multicolumn{4}{l}{preterite singular + \bl{-s}} \\
+        & 1\textsc{pl} & \multicolumn{4}{l}{preterite singular + \bl{-sseu}} \\
+        & 2\textsc{pl} & \multicolumn{4}{l}{preterite singular + \bl{-sseð}} \\
+        & 3\textsc{pl} & \multicolumn{4}{l}{preterite singular + \bl{-sn}} \\
+        \hline
+        imperative & \textsc{sg}, 1\textsc{pl}, 2\textsc{pl} & \multicolumn{4}{l}{as the present subjunctive} \\
+        \hline
+    \end{tabular}
+\end{table}
+
+\subsection{Present and imperfect}
+The present singular is the bare stem: \bl{cant} `sings', \bl{dorm} `sleeps'. The plural endings have \bl{a} in the \bl{-ar} class and \bl{e} elsewhere. The third person plural \bl{-n} is syllabic after a consonant, and so draws the stress back onto the stem (Section~\ref{sec:stress}).
+    \glphm{cant cantau cantað cantn}{kant kanˈto kanˈtaθ ˈkan.tn̩}{sing {sing.\First\Pl} {sing.\Second\Pl} {sing.\Third\Pl}}
+The imperfect has \bl{-a} (\bl{-ar} class) or \bl{-e} in the singular. In the first and second person plural all classes have \bl{-au} and \bl{-að}, so that in the \bl{-ar} class these forms are identical to the present (\bl{cantau}, \bl{cantað}).
+
+\subsection{Preterite}
+The preterite singular ends in \bl{-au} in the \bl{-ar} class and \bl{-eu} elsewhere; the plural adds \bl{-m}, \bl{-st} and \bl{-rn} to it.
+    \glphm{cantau cantaum cantaust cantaurn}{kanˈto kanˈtom kanˈtost kanˈtor.n̩}{{sing.\Pst} {sing.\Pst.\First\Pl} {sing.\Pst.\Second\Pl} {sing.\Pst.\Third\Pl}}
+
+\subsection{Future}
+The future is formed on the infinitive, with endings identical to the present of \bl{aïr} `have' (\bl{ay, a, eu, eð, aun}; Chapter~\ref{ch:copulas}). It is the only tense in which the first person singular of a regular verb differs from the second and third (but see i-mutation, Section~\ref{sec:verb-irregularities}).
+    \glphm{cantaray cantara cantareu cantareð cantaraun}{ˌkan.taˈre ˌkan.taˈra ˌkan.taˈrau ˌkan.taˈrɛθ ˌkan.taˈron}{{sing.\Fut.\First\Sg} {sing.\Fut} {sing.\Fut.\First\Pl} {sing.\Fut.\Second\Pl} {sing.\Fut.\Third\Pl}}
+
+\subsection{Subjunctive and imperative}
+The present subjunctive shares its singular and third person plural with the present indicative. In the first and second person plural, the \bl{-ar} class takes \bl{-eu} and \bl{-eð}, the endings of the other classes' present indicative, while the other classes take \bl{-au} and \bl{-að}: \bl{canteu, canteð} but \bl{dormau, dormað}. The imperfect subjunctive adds \bl{-s, -sseu, -sseð, -sn} to the preterite singular: \bl{cantaus}, \bl{dormeus}, \bl{finisceus}.
+
+In all regular classes the imperative is identical to the present subjunctive, with a singular, a first person plural (`let's') and a second person plural form: \bl{cant!} `sing!', \bl{canteu!} `let's sing!', \bl{canteð!} `sing!' (plural or polite). Object pronouns follow an imperative in their disjunctive form (Section~\ref{sec:object-pronouns}).
+
+\subsection{Shared forms}
+Because so many endings are shared, a number of forms belong to more than one paradigm, and only the context and the subject tell them apart. In the \bl{-ar} class:
+\begin{itemize}
+    \item \bl{cant} is present singular, subjunctive singular and imperative singular;
+    \item \bl{cantau} is present 1\textsc{pl}, imperfect 1\textsc{pl} and preterite singular;
+    \item \bl{cantað} is present 2\textsc{pl}, imperfect 2\textsc{pl} and the past participle;
+    \item \bl{cantn} is present and subjunctive 3\textsc{pl}.
+\end{itemize}
+In the other classes, the subjunctive 1\textsc{pl} and 2\textsc{pl} coincide with the imperfect (\bl{dormau, dormað}), and the present 1\textsc{pl} with the preterite singular (\bl{dormeu}, \bl{finisceu}).
+
+\section{Irregularities within the regular classes}\label{sec:verb-irregularities}
+Many verbs depart from the regular pattern in one or more principal parts. The commonest types are listed below; individual verbs must be learnt from the lexicon.
+\begin{itemize}
+    \item \textbf{Past stem in \bl{-oy}.} Some \bl{-r} and type~1 \bl{-ir} verbs form their preterite and imperfect subjunctive with \bl{-oi-} or \bl{-oy} in place of \bl{-eu}: \bl{interrompr} `interrupt', preterite \bl{interromoy}, 3\textsc{pl} \bl{interromoirn}, imperfect subjunctive \bl{interromois}; similarly \bl{pendr} `hang' (\bl{penoy}), \bl{tenir} `hold' (\bl{tenoy}) and \bl{ovrir} `open' (\bl{ovroy}). This is commoner in the \bl{-r} class.
+    \item \textbf{i-mutation.} In some \bl{-r} and type~1 \bl{-ir} verbs, the stem vowel is fronted in the first person singular and third person plural of the present, and throughout the present subjunctive: \bl{cavir} `get', \bl{caif}, \bl{caivn}; \bl{remanir} `stay', 3\textsc{pl} \bl{remainn}; \bl{salir} `leave', 1\textsc{sg} \bl{sail}; \bl{valir} `be worth', subjunctive \bl{vail}; \bl{venir} `come', subjunctive \bl{vin}, \bl{vinn}. Which of these forms are affected varies from verb to verb. Where the first person singular of the present is affected, it differs, unusually, from the second and third.
+    \item \textbf{Reduced future stem.} Some \bl{-r} and type~1 \bl{-ir} verbs build the future on a shortened infinitive, often with an inserted \bl{d}: \bl{poðir} `can', future \bl{porra}; \bl{tenir}, \bl{tendra}; \bl{venir}, \bl{vendra}; \bl{savir} `know', 3\textsc{pl} \bl{sauraun}; \bl{stovir} `be needed', \bl{storra}.
+    \item \textbf{Stressed stem vowel.} In some verbs of the \bl{-ar}, \bl{-r} and type~1 \bl{-ir} classes, the stem has a different vowel when it is stressed, that is in the present singular and third person plural, indicative and subjunctive: \bl{colar} `flow, slip', \bl{coul}, \bl{couln} (\bl{le coul nell'aucoum} `he slips away into the crowd'); \bl{venir} `come', \bl{vien}, \bl{vienn}; \bl{tenir} `hold', 3\textsc{pl} \bl{tienn}. Where a verb also has i-mutation, the mutated vowel takes precedence (\bl{venir}, subjunctive \bl{vin}, \bl{vinn}).
+% CHECK: "the mutated vowel takes precedence" is generalised from venir alone.
+    \item \textbf{Word-final stems.} Where the stem stands at the end of the word, as in the present singular, the rules of Section~\ref{sec:phonotactics} apply: final \phm{ð s ʒ} become \phm{θ z x}, and a final \phm{v} becomes \phm{f} or alters the preceding vowel: \bl{cavir} `get', singular \bl{caf}; \bl{bavar} `bark', \bl{bau} (Chapter~\ref{ch:morphophonology}).
+\end{itemize}
+
+\section{Irregular verbs}\label{sec:irregular-verbs}
+Beyond these patterns, a small number of very common verbs are irregular throughout, with suppletive stems, sporadic reductions and irregular past participles. The most important are \bl{star} `be' (present \bl{es}), the copula \bl{er}, \bl{aïr} `have', \bl{eir} `go, have to', \bl{fair} `do, make', \bl{dar} `give', \bl{poðir} `can', \bl{valir} `be worth', \bl{stovir} `be needed', \bl{savir} `know' and the future auxiliaries \bl{vol-} and \bl{nol-}. Their uses are described in Chapter~\ref{ch:copulas}, and their paradigms are given in Appendix~\ref{app:verb-tables}.
+% CHECK: the irregular paradigms are to be confirmed. The corpus evidence for
+% each is in planning/verb-evidence.md.

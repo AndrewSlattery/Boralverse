@@ -1,0 +1,74 @@
+\xpg@aux {}{english}
+\contentsline {chapter}{Conventions and Abbreviations}{v}{}%
+\contentsline {part}{\partnumberline {I}Introduction}{1}{}%
+\contentsline {chapter}{\chapternumberline {1}Introduction and Context}{2}{}%
+\contentsline {chapter}{\chapternumberline {2}Word Classes}{3}{}%
+\contentsline {part}{\partnumberline {II}Sounds and Writing}{4}{}%
+\contentsline {chapter}{\chapternumberline {3}Phonology}{5}{}%
+\contentsline {section}{\numberline {3.1}Phonemes}{5}{}%
+\contentsline {subsection}{Consonants}{5}{}%
+\contentsline {subsection}{Vowels}{6}{}%
+\contentsline {section}{\numberline {3.2}Stress}{6}{}%
+\contentsline {section}{\numberline {3.3}Phonotactics}{7}{}%
+\contentsline {subsection}{Onsets}{8}{}%
+\contentsline {subsection}{Codas}{9}{}%
+\contentsline {section}{\numberline {3.4}Allophony}{10}{}%
+\contentsline {subsection}{Assimilation}{10}{}%
+\contentsline {subsection}{Palatals}{11}{}%
+\contentsline {subsection}{Non-rhoticity}{11}{}%
+\contentsline {subsection}{Reduction}{12}{}%
+\contentsline {chapter}{\chapternumberline {4}Orthography}{13}{}%
+\contentsline {section}{\numberline {4.1}The alphabet}{13}{}%
+\contentsline {section}{\numberline {4.2}Consonants}{14}{}%
+\contentsline {subsection}{Consonant digraphs}{16}{}%
+\contentsline {section}{\numberline {4.3}Vowels}{16}{}%
+\contentsline {subsection}{Vowel digraphs}{17}{}%
+\contentsline {chapter}{\chapternumberline {5}Morphophonology}{19}{}%
+\contentsline {part}{\partnumberline {III}Nominals}{20}{}%
+\contentsline {chapter}{\chapternumberline {6}Nouns and the Noun Phrase}{21}{}%
+\contentsline {chapter}{\chapternumberline {7}Articles and Demonstratives}{22}{}%
+\contentsline {section}{\numberline {7.1}The definite article}{22}{}%
+\contentsline {subsection}{Form}{22}{}%
+\contentsline {subsection}{Contraction with prepositions}{23}{}%
+\contentsline {subsection}{The article with possessives and quantifiers}{25}{}%
+\contentsline {subsection}{Uses of the definite article}{26}{}%
+\contentsline {section}{\numberline {7.2}The indefinite article}{28}{}%
+\contentsline {section}{\numberline {7.3}The demonstratives}{29}{}%
+\contentsline {subsection}{Demonstratives with the article}{30}{}%
+\contentsline {subsection}{Demonstratives and number}{31}{}%
+\contentsline {subsection}{Demonstratives without the article}{32}{}%
+\contentsline {section}{\numberline {7.4}Quantifiers}{34}{}%
+\contentsline {section}{\numberline {7.5}Order of determiners}{37}{}%
+\contentsline {chapter}{\chapternumberline {8}Pronouns}{38}{}%
+\contentsline {chapter}{\chapternumberline {9}Adjectives}{39}{}%
+\contentsline {section}{\numberline {9.1}Formation of the comparative}{39}{}%
+\contentsline {subsection}{Regular comparatives in \emph {-essem}}{39}{}%
+\contentsline {subsection}{Adjectives in syllabic \emph {-r}}{41}{}%
+\contentsline {subsection}{Irregular comparatives}{42}{}%
+\contentsline {chapter}{\chapternumberline {10}Numerals}{43}{}%
+\contentsline {part}{\partnumberline {IV}Verbs}{44}{}%
+\contentsline {chapter}{\chapternumberline {11}Verb Morphology}{45}{}%
+\contentsline {chapter}{\chapternumberline {12}Tense, Aspect and Mood}{46}{}%
+\contentsline {chapter}{\chapternumberline {13}Copulas, Auxiliaries and Modal Verbs}{47}{}%
+\contentsline {chapter}{\chapternumberline {14}Voice and Valency}{48}{}%
+\contentsline {part}{\partnumberline {V}Adverbs and Function Words}{49}{}%
+\contentsline {chapter}{\chapternumberline {15}Adverbs}{50}{}%
+\contentsline {chapter}{\chapternumberline {16}Prepositions}{51}{}%
+\contentsline {chapter}{\chapternumberline {17}Conjunctions, Particles and Interjections}{52}{}%
+\contentsline {part}{\partnumberline {VI}Clauses and Sentences}{53}{}%
+\contentsline {chapter}{\chapternumberline {18}The Simple Clause}{54}{}%
+\contentsline {chapter}{\chapternumberline {19}Negation}{55}{}%
+\contentsline {chapter}{\chapternumberline {20}Questions, Commands and Exclamations}{56}{}%
+\contentsline {chapter}{\chapternumberline {21}Coordination and Subordination}{57}{}%
+\contentsline {chapter}{\chapternumberline {22}Relative Clauses}{58}{}%
+\contentsline {chapter}{\chapternumberline {23}Comparison}{59}{}%
+\contentsline {chapter}{\chapternumberline {24}Information Structure}{60}{}%
+\contentsline {part}{\partnumberline {VII}Words and Usage}{61}{}%
+\contentsline {chapter}{\chapternumberline {25}Word Formation}{62}{}%
+\contentsline {chapter}{\chapternumberline {26}Lexical Fields}{63}{}%
+\contentsline {chapter}{\chapternumberline {27}Register, Address and Names}{64}{}%
+\contentsline {chapter}{Appendices}{65}{}%
+\contentsline {appendix}{\chapternumberline {A}Verb Tables}{66}{}%
+\contentsline {appendix}{\chapternumberline {B}From Vulgar Latin to Borlish}{67}{}%
+\contentsline {appendix}{\chapternumberline {C}Basic Vocabulary}{68}{}%
+\contentsline {appendix}{\chapternumberline {D}Glossed Texts}{69}{}%

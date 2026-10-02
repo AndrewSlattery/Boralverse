@@ -67,7 +67,7 @@ Possessive pronouns (*mien* 'mine' …) are glossed POSS, e.g. *mien* 1SG.POSS. 
 | accusative pronoun | ACC: 3PL *lou*, and 3SG *le / la / lo* as objects | `\Acc` | acc |
 | disjunctive pronoun (every disjunctive use) | DSJ | `\Dsj` | dsj, dj |
 | possessive (my, ty, sy …) | POSS | `\Poss` | gen, gn, ps, poss |
-| agentive (meyon 'by me' …; agent nouns in -our) | AGT | `\Agt` | dem, ins (1s.dem, 1s.ins); agt |
+| agentive (meyon 'by me' …; agent nouns in -our) | AGT; *seyon* is 3.AGT, since it serves both numbers | `\Agt`, `\Third.\Agt` | dem, ins (1s.dem, 1s.ins); agt |
 | collective (-ary) | COLL | `\Coll` | coll |
 | adjectival (-er) | ADJ | `\Adj` | adj |
 | adverbial (cos + adj.) | ADV | `\Adv` | adv |
