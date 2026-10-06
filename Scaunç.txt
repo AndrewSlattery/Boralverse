@@ -32693,4 +32693,46 @@ There is one tablet mentioning Christianity—…struck down whether he be Chris
 
 ##
 
-242.1:
+242.1: Maria Joquinnera
+
+notes in translation on a sixteenth-century figure.
+
+Maria Joquinnera, tan dignant y Princes de Mendeva, sta un domn d'orin Nappesc, nað lonc y Guittoc bassem, e la veyaçau ag Vetomond vars y fin ag dezein 1530.
+Maria Joquinnera, also known as the Princess of Mendeva, was a woman of Nappe [Lenape] origin, born by the lower Guittoc [Delaware] River, who travelled to the Vetomund [Old World] in the late 1530s.
+
+Ostendað ne plusour cort Vetomondin com y princes desracinað d'un gent Mendevan, la sta, lonc toð y tesmogn temporane, un glossomath e un çavel politic excellent.
+Presented at several Vetomundane courts as the displaced princess of a Mendevan people, she was by all contemporary accounts a formidable polyglot and political intellect.
+
+La parola deja Docçan candon l'alandau a Marsegl, e la parsisceu cos raut plusour autr lengaç European.
+She already spoke Doccian [~Occitan] when she arrived in Marsella, and soon picked up several other European tongues.
+
+Sy seucq pardurandessem interman un onomatoir dy lengaç Nappesc; ny rup la's nommað com patron eð addoçour principal y dou.
+Her most enduring legacy is a dictionary of the Nappe tongue, in whose front matter she is named as both patron and primary informant.
+
+L'enteressem entr y codex sceint contien atorn 1400 parol, cosogr locuçon fast, claus de traitanç e un scrit brey, oc stant parcanç un cançon de cordougl ben de xeny solemn.
+The most complete surviving manuscript contains some 1400 words, along with set phrases, diplomatic formulae and a short text which may be a song of mourning or of formal welcome.
+
+Sell'heir Barthem parola ancour Nappesc tras sy quoncein, ma con un son Docçan oç, lonc y regest, ayent sy maðr amusað auvorn.
+Her son Barthem spoke Nappe into adulthood, albeit with a Doccian accent that is recorded as having greatly amused his mother.
+
+##
+
+242.2: anathemat "allergy"
+
+anathemat /aˌna.θeˈmat/ [ɐˌna.θɪˈmat]
+- allergy, sensitivity, intolerance, an immune reaction to a usually harmless substance;
+- rash, hives, flare-up, the visible bodily reaction itself;
+- (historical) excommunication, anathema, a formal curse cutting someone off from a church;
+- ban, boycott, blacklist, a collective refusal to deal with a person or a business;
+
+Etymology: originally in religious use, a Middle Borlish borrowing from Latin anathema (stem anathemat-) "offering someone's life; excommunication", itself from Greek ανάθεμα • (anáthema) "votive offering", noun derivation of ἀνατίθημι • (anatíthēmi) "lay upon; dedicate". Extension to medical writing is seen from the seventeenth century, and has been used by the wider public from the nineteenth century.
+
+J'ay un anathemat de mandovy.
+/ʒe ɪn aˌna.θeˈmat de ˌman.doˈvi/
+[ʒe ɪn ɐˌna.θɪˈmat de ˌman.dʊˈvi]
+1s=have.1s indf allergy of peanut
+I am allergic to peanuts.
+
+##
+
+242.3: 

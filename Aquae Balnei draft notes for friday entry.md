@@ -1,4 +1,4 @@
-241.5: The Lead Witnesses
+241.5: In Hot Water
 
 further excerpt from Borland before Borlish (Istr Boral pre Borallesc), a history textbook published in 1983 through the New Vithor University, taken from its chapter on the lead curse tablets recovered from the Roman spring at Axbane.
 

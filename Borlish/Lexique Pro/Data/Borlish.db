@@ -2795,13 +2795,6 @@
 \mn amanç
 \mn communal
 
-\lx amand
-\ps n
-
-\ge almond
-
-\et Old Borlish < Vulgar Latin < Latin
-
 \lx amar
 \ps ar v
 
@@ -3008,6 +3001,26 @@
 \ge disorder
 
 \et Middle Borlish < Latin < Greek
+
+\lx anathemat
+\ps n
+
+\ge allergy
+\ge sensitivity
+\ge intolerance
+\ge rash
+\ge hives
+\ge flare-up
+\ge excommunication
+\ge anathema
+\ge ban
+\ge boycott
+\ge blacklist
+
+\xv J'ay un anathemat de mandovy.
+\xe I am allergic to peanuts.
+
+\et originally in religious use, a Middle Borlish borrowing from Latin anathema (stem anathemat-) "offering someone's life; excommunication", itself from Greek ανάθεμα • (anáthema) "votive offering", noun derivation of ἀνατίθημι • (anatíthēmi) "lay upon; dedicate". Extension to medical writing is seen from the seventeenth century, and has been used by the wider public from the nineteenth century.
 
 \lx ançan
 \ps adj
@@ -29957,19 +29970,19 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ps n
 
 \ge settlement
-\ge colony
-
-\et Middle Borlish < Italian < Latin
-
-\lx instançment
-\ps n
-
-\ge settlement
 \ge colonisation
 \ge colonization
 
 \et noun from instançar "settle"
 \mn instançar
+
+\lx instançment
+\ps n
+
+\ge settlement
+\ge colony
+
+\et Middle Borlish < Italian < Latin
 
 \lx instauraçon
 \ps n
@@ -43541,15 +43554,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
-
-\lx paus
 \ps interj
 
 \ge hang on
@@ -43558,6 +43562,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
+
+\lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
