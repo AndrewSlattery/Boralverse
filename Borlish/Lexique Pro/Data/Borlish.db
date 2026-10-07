@@ -7857,6 +7857,25 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 
 \et Old Borlish < Medieval Latin
 
+\lx bucet
+\ps n
+
+\ge tobacco
+\ge smoke break
+\ge tip
+\ge gratuity
+\ge pourboire
+\ge lagniappe
+
+\ps adj
+\ge tobacco-brown
+\ge snuff-coloured
+
+\xv Le n'a bucet beut posc y var.
+\xe He hasn't smoked since the war.
+
+\et sixteenth century, via Vascon or Portingale buchete and Arabic بشيت • bushait from contemporary Nawat [Classical Nahuatl] pisietl "tobacco plant". In the sense of "tip", seen primarily in the eighteenth and nineteenth centuries. Compare butchet (also butch) in Merch, 寶屑 • pǒushet in southern (imperial) Chinese. Use as a colour term tends to connote dinginess or an ill-maintained quality.
+
 \lx bucol
 \ps n
 
@@ -24908,6 +24927,15 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Old Borlish < Old French < Medieval Latin < Frankish
 
+\lx gardinner
+\ps n
+
+\ge gardener
+\ge groundskeeper
+
+\et from gardin "gardiner" and agentive -er
+\mn gardin
+
 \lx gargollir
 \ps ir2 v
 
@@ -29970,19 +29998,19 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ps n
 
 \ge settlement
-\ge colonisation
-\ge colonization
+\ge colony
 
-\et noun from instançar "settle"
-\mn instançar
+\et Middle Borlish < Italian < Latin
 
 \lx instançment
 \ps n
 
 \ge settlement
-\ge colony
+\ge colonisation
+\ge colonization
 
-\et Middle Borlish < Italian < Latin
+\et noun from instançar "settle"
+\mn instançar
 
 \lx instauraçon
 \ps n
@@ -43554,6 +43582,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
+
+\lx paus
 \ps interj
 
 \ge hang on
@@ -43562,15 +43599,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
-
-\lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -51780,6 +51808,26 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 
 \mn sarf
 \mn dar
+
+\lx sarment
+\ps n
+
+\ge cutting
+\ge slip
+\ge shoot
+\ge runner
+\ge stolon
+\ge brushwood
+\ge kindling
+\ge cadet branch
+\ge offshoot
+\ge hanger-on
+\ge sponger
+
+\xv Y gardinner coupau un sarment dy ros.
+\xe The gardener took a cutting of the rose.
+
+\et an unproblematic descendant via Old Borlish sarment "cutting, shoot" from Latin sarmentum "shoot", a nominal derivation of verb sarpō "I prune (a vine)". Possibly reinforced in the Middle Borlish as a reborrowing from botanical Latin. Genealogical senses are attested from the seventeenth century.
 
 \lx sarpent
 \ps n

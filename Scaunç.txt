@@ -32735,4 +32735,41 @@ I am allergic to peanuts.
 
 ##
 
-242.3: 
+242.3: bucet "tobacco"
+
+bucet /biˈtsɛt/ [bɪˈtsɛt]
+- tobacco, the plant or its cured leaves prepared for e.g. smoking or chewing;
+- smoke break, a short pause from work especially as taken to smoke;
+- (dated) tip, gratuity, pourboire, lagniappe, small change given for a service (as if to buy tobacco with);
+- (in apposition) tobacco-brown, snuff-coloured, of a dull yellowish brown
+
+Etymology: sixteenth century, via Vascon or Portingale buchete and Arabic بشيت • bushait from contemporary Nawat [Classical Nahuatl] pisietl "tobacco plant". In the sense of "tip", seen primarily in the eighteenth and nineteenth centuries. Compare butchet (also butch) in Merch, 寶屑 • pǒushet in southern (imperial) Chinese. Use as a colour term tends to connote dinginess or an ill-maintained quality.
+
+Le n'a bucet beut posc y var.
+/le na biˈtsɛt baut pɔx i var/
+[le na bɪˈtsɛt baut pɔx i vɐː]
+3s.m ng=have tobacco drink-p.pst after df war
+He hasn't smoked since the war.
+
+##
+
+242.4: sarment "kindling"
+
+sarment /sarˈmɛnt/ [sɐːˈmɛnt]
+- cutting, slip, shoot, a length cut from a vine or a shrub for planting;
+- runner, stolon, a creeping stem which roots where it touches the ground;
+- (with plural agreement) brushwood, kindling, twigs gathered for burning;
+- cadet branch, offshoot, a junior line of a family;
+- hanger-on, sponger, someone living off a richer relative or patron
+
+Etymology: an unproblematic descendant via Old Borlish sarment "cutting, shoot" from Latin sarmentum "shoot", a nominal derivation of verb sarpō "I prune (a vine)". Possibly reinforced in the Middle Borlish as a reborrowing from botanical Latin. Genealogical senses are attested from the seventeenth century.
+
+Y gardinner coupau un sarment dy ros.
+/i ˌgar.dɪˈnɛr kuˈpo ɪn sarˈmɛnt di rɔz/
+[i ˌgɐː.dɪˈnɛː kʊˈpo ɪn sɐːˈmɛnt di ʀɔz]
+df gardener cut-pst indf shoot of-df rose
+The gardener took a cutting of the rose.
+
+##
+
+242.5:
