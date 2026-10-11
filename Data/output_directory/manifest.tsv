@@ -1238,3 +1238,8 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 241.3	dictionary	spinglar "mount"	spinglar	mount	True	6	165	1000	dictionary/241.3_spinglar_mount.md
 241.4	dictionary	paugral "paragraph"	paugral	paragraph	True	4	132	865	dictionary/241.4_paugral_paragraph.md
 241.5	notes	In Hot Water			False	0	346	2114	notes/241.5_In_Hot_Water.md
+242.1	excerpt	Maria Joquinnera			False	0	303	1840	excerpt/242.1_Maria_Joquinnera.md
+242.2	dictionary	anathemat "allergy"	anathemat	allergy	True	4	134	931	dictionary/242.2_anathemat_allergy.md
+242.3	dictionary	bucet "tobacco"	bucet	tobacco	True	4	152	931	dictionary/242.3_bucet_tobacco.md
+242.4	dictionary	sarment "kindling"	sarment	kindling	True	5	142	889	dictionary/242.4_sarment_kindling.md
+242.5	notes	We Return to Him			False	3	789	4617	notes/242.5_We_Return_to_Him.md

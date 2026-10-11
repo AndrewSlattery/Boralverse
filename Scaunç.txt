@@ -15891,7 +15891,7 @@ The Novomund, also called the New World, refers to the lands to the west of the 
 
 The Novomund is composed of the two great landmasses of Mendeva and Cappatia [North and South America], along with over a dozen major islands (such as Brasil [Newfoundland] and Cocain [Cuba]) and innumerable lesser ones.
 
-Many crops now cultivated worldwide were first farmed in the Novomund, including shadome fruit, tartover, shockle and mikecorn [tomatoes, potatoes, chocolate and maize]. Products such as coshow [rubber] and kistmaw [tobacco] also derive from plants native to the Novomund.
+Many crops now cultivated worldwide were first farmed in the Novomund, including shadome fruit, tartover, shockle and mikecorn [tomatoes, potatoes, chocolate and maize]. Products such as coshow [rubber] and butchet [tobacco] also derive from plants native to the Novomund.
 
 ---
 
@@ -32772,4 +32772,26 @@ The gardener took a cutting of the rose.
 
 ##
 
-242.5:
+242.5: We Return to Him
+
+excerpt from the obituary of Coscatl bint Inám, printed in the Evening Lantern on 1898 October 14 (a daily of Moshtar [San Francisco]) and translated from Mashick Arabic. Though the Lantern's archives burned in a bombing of 1931, this article survived in third-party stores and was reprinted in the 1954 anthology Moshtar Remembered.
+
+… died on Tuesday in her home at the age of seventy-seven. She was born in this city in the Nuntial year 1821 [1], the third child of Inám al-Cadlí, a chandler, and Tixil, employee (and then owner) of a weaving-house. Moshtar was then forty years old, which is to say that her parents' generation had still been among its first settlers.
+
+The old story, which bint Inám often recounted, tells that the merchant founders of Moshtar [al-Mushtarī, "the buyer"] witnessed conjunctions of Jupiter with Venus and Mars in quick succession during the winter of 1780, when the settlement constituted a few tents and a shed above the waterline. Desirous of similar luck in visitors and trade, the town was named for the planet.
+During her fortieth year, bint Inám calculated the frequencies of such conjunctions from the old almanacs of the University of Anawack. The municipial council of Moshtar records a letter she she sent with these conclusions and a remark, likely in jest, that the city might wish to consider a change of name to reflect a less commonplace event.
+
+A scholarship for girls of the artisan classes, endowed by the shipping houses of the bay, took her at fourteen to the University of Anawack [Mexico City] and the old observatory on Chapel Hill [Chapoltepec] nearby. Having seen, as a first-year student, an engraving of Lorenzo dell'Acchedia's Macchine di Helio, the sixteenth-century marble of the sun-god ringed by his planets, she commissioned out of her stipend a small iron plaque of the design, worked with the sun-god Tónatif [Tōnatiuh] in place of Helios. The plaque was set into the gate of the astronomy faculty and remains there.
+
+A child of the voidtale craze, bint Inám told one interviewer that she would never have sat through so many cold nights at the eyepiece if she had not spent her childhood half-believing that a xenic [alien] ship might turn up in it. This dedication to stargazing led to her three greatest accomplishments.
+- THE EIGHTH PLANET. In the years after the discovery of the seventh planet, astronomers worldwide had noted that its path did not follow predictions. Half a dozen calculators, including bint Inám, concluded independently that an eighth planet was tugging on it. She found it on the third night of looking, in the Nuntial year 1846, within a degree of her predicted position. At the suggestion of the faculty she named it Téscatlípo'ca in Nawat [Nahuatl] and Janus in Latin, deities of change and crossroads, as the planet standing at the threshold of the known system. Her own letters record that she had considered naming it Inám, after her father, but was talked out of it by the dean.
+- THE NORMAL SPEED. Less celebrated than the planet but, in the view of later astronomers, more important was her work on the speed of light. The delay in the apparent timing of the eclipses of the jovial phares [Galilean moons] had been known since the previous century and was understood to be due to the finite travel time of light across the span of the Earth's orbit. The first systematic attempt to improve on the old figure was by bint Inám, assembling more than a myriad timed transits from observatories on four continents. Her value, published in 1855, was within a hundredth of the figure now accepted. When Wexter Hathwall of Rotcham University published his Astraphor and Light four years later and derived from his relation of the forces a speed for the aether disturbance that matched hers to three digits, she wrote him a congratulatory letter. Hathwall kept it in his desk until his death.
+- THE MOONS OF MARS. In 1869, at the opposition of Mars, she used the new mirrors at Chapel Hill to search for any gyrer of that planet. She found two, and named them for the twin sons of Mars in the custom of the jovial moons: Dimus [Phobos], for dread, and Phobus [Deimos], for panic.
+
+She retired to her native city, where she was appointed the first holder of the municipal chair in astronomy and gave the evening lectures in the Lantern's hall that are remembered by two generations of Moshtar schoolchildren. She left her instruments and papers to…
+
+[1] The Mashick solar calendar had only in the last two decades been aligned with that of Europe; specifying dates as "Nuntial" remained common practice until the 1930s.
+
+##
+
+243.1:
