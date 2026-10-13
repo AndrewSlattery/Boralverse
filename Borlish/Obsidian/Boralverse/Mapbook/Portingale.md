@@ -15,7 +15,7 @@ Portingale at first attempted to remain neutral during the [[Democratic Wars]] o
 
 The [[Drengot Collusion]] eventually grew to count Portingale within its orbit during the first decades of the twentieth century (and perhaps held some responsibility for the Portingale Anarchy of the 1920s and 30s), although the polity was never a full member of the alliance-federacy. This led to diplomatic tensions with Vascony, located directly between the Collusion and Portingale. 
 
-For a time, Drengot [[Astraphor|astraphor]] supplied (via undersea powerline) much of the baric needs of Portingale, thus relying on Vascon goodwill not to interfere. In response to this precarity, in the 1950s and 60s Portingale became a pioneer of threshold force, building enough mills that by 1970 it was exporting [[Astraphor|astraphor]] as far afield as [[Lombardy]].
+For a time, Drengot [[Astraphor|astraphor]] supplied (via undersea powerline) much of the barric needs of Portingale, thus relying on Vascon goodwill not to interfere. In response to this precarity, in the 1950s and 60s Portingale became a pioneer of threshold force, building enough mills that by 1970 it was exporting [[Astraphor|astraphor]] as far afield as [[Lombardy]].
 # Places
 - Braga, a town renowned for a continent-leading lineball team and their 82,000-seat stadium
 - Corunne, Portingale's northernmost city and home to the Roxa Comba, a weekly paper affiliated loosely with the Peujon Rous media guild

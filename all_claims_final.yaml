@@ -4308,7 +4308,7 @@ claims:
 - entry: '20.5'
   title: A University, and Twins
   category: work
-  claim: 'The Borlish title of ''Chocolate and Rubber: Cappatia during the Twining Century'' is ''Scoclat e Coscou : Cappatia
+  claim: 'The Borlish title of ''Chocolate and Rubber: Cappatia during the Twining Century'' is ''Scoclet e Coscou : Cappatia
     par y Kintanç Mondial''.'
   entities:
   - name: 'Chocolate and Rubber: Cappatia during the Twining Century'
@@ -8821,7 +8821,7 @@ claims:
 - entry: '34.5'
   title: The Drengot Collusion
   category: economics
-  claim: Drengot astraphor supplied much of the baric needs of Portingale via undersea powerline, relying on Vascon goodwill
+  claim: Drengot astraphor supplied much of the barric needs of Portingale via undersea powerline, relying on Vascon goodwill
     not to interfere.
   entities:
   - name: Drengot Collusion

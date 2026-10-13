@@ -13,6 +13,8 @@ Edit the cells in place. Delete the `?` once you're happy with a form. Each verb
 
 ---
 
+**-r class present plural (user, 2026-10-12):** *-m, -ð, -n* on the stem (*ðurm, ðurð, ðurn*; *nos veim, creim, pascm*). The corpus had 10/10 *-m* 1PL tokens; the only old-pattern form, Camus *Nos creyeu* (Scaunç 1131), was changed to *creim*. Attested: *vos comprenð* (Camus, Scaunç 1119), *nos attenm* (C645). The user confirmed *faim, faið, caim, caið*. *eir* now fits the pattern too: **vam, vað, van**. Two stray *vas-* forms of *eir* were retconned on the user's instruction: *Nos vasm tras y camp* → *Nos eum…* (S1276/C63, with its IPA) and *Arthur fo vas ag var* → *fo eut* (S4729/C415) (user, replacing *vau*; the corpus has no *nos vau* to retcon). Exception: *fair* has 3PL *faun*. The *-ir1* modals keep their own forms (*vouð*, *pouð*). *deïr* is *ir1* in the lexicon (heading corrected), so its *deyeu, deyeð* are regular.
+
 ## star 'be' (*ar v*)
 
 | | 1SG | 2SG | 3SG | 1PL | 2PL | 3PL |
@@ -23,11 +25,14 @@ Edit the cells in place. Delete the `?` once you're happy with a form. Each verb
 | future | **seray** | **sera** | **sera** | **sereu** | **sereð** | **seraun** |
 | pres. subjunctive | **sey** | **sey** | **sey** | **seyau** | **seyað** | **sein** |
 | impf. subjunctive | **fos** | **fos** | **fos** | fosseu | **fosseð** | **fosn** |
-| imperative | — | sey | — | seyau | **seyað** | — |
+| imperative | — | **sey** | — | seyau | **seyað** | — |
 
 Non-finite: infinitive **star**, present participle **stant**, past participle **stað**.
 
 Contractions: **jo's**, **tu's**, **le's / la's / lo's**, **no's**.
+- **no's** stands for 1SG *no so* as well as 3SG *no es*: *Jo no's jamay eut a Rom* (E48). The user calls the full *no so* the careful form.
+
+**Singular imperatives (user, 2026-10-12).** The 2SG imperative is normally the present indicative SG (*da*, *vien*, *va*). A closed set uses the subjunctive instead: **sey** (*star*), **ay** (*aïr*), **faç** (*fair*), **saif** (*savir*) and **remain** (*remanir*). The user chose *va* for *eir* (not *vay*); the corpus has no *vay* imperatives to retcon. Plural imperatives are always subjunctive.
 
 - The present subjunctive 1PL **seim** (S15945) is irregular. Regular verbs have *-eu/-au* there.
 A: I believe that's a mistake on my part, or just blindly deriving from Classical Latin instead of considering the Vulgar paradigm. I've fixed it to "seyau".
@@ -44,7 +49,8 @@ A: Yes, well spotted! There's a whole paradigm of these: sco, stu, zy; sonos, so
 
 Contractions: **j'er**, **le'r / la'r / lo'r**, **no'r / no'rn**. 2SG with *tu*: tu'r? / tu er?
 
-- In the corpus *er* is the auxiliary of the past progressive (*ern … pegntant*), the past passive (*er adornað*) and the pluperfect of *star* verbs (*j'er … sortið*). *sta* is the past of *star* with a predicate noun or adjective (*Y grant atelier sta un tapeçment…*, C39).
+- In the corpus *er* is the auxiliary of the past progressive (*ern … pegntant*), the past passive and the pluperfect of *star* verbs (*j'er … sortið*). *sta* is the past of *star* with a predicate noun or adjective (*Y grant atelier sta un tapeçment…*, C39).
+- **Passives, since 2026-10-12** (elicitation E13 and the Passive Review): *fo* + PTCP is an event, *er* + PTCP a process or habit, and *sta* + PTCP a state. The corpus has been retconned to match.
 - **Q3.** Is *er* defective, i.e. only an imperfect, with no present, subjunctive or other forms?
 A: Yes. In any other TAM one uses forms of star instead.
 - **Q4.** The negative *no'r* also appears with predicate adjectives: *Marc no'r certan de noc faïr…* (C212). Is *no'r* the negative of *sta* as well, or should that be *sta noc* / *no sta*?
@@ -60,7 +66,7 @@ A: That should be "no sta", yeah.
 | future | array? | **arra** | **arra** | **arreu** | **arreð** | arraun |
 | pres. subjunctive | **ay** | **ay** | **ay** | ayau | ayað | **ain** |
 | impf. subjunctive | **aus** | **aus** | **aus** | ausseu | ausseð | **ausn** |
-| imperative | — | ay | — | ayau | ayað | — |
+| imperative | — | **ay** | — | ayau | ayað | — |
 
 Non-finite: infinitive **aïr**, present participle **ayent**, past participle **aut**.
 
@@ -74,13 +80,13 @@ A: Yes, that's correct.
 
 | | 1SG | 2SG | 3SG | 1PL | 2PL | 3PL |
 |---|---|---|---|---|---|---|
-| present | **vay** | **va** | **va** | vau | vað | van |
+| present | **vay** | **va** | **va** | **vam** | **vað** | **van** |
 | imperfect | **eye** | **eye** | **eye** | **eyau** | eyað | eyen |
 | preterite | **eu** | **eu** | **eu** | **eum** | eust | **eurn** |
 | future | erray? | **erra** | **erra** | **erreu** | **erreð** | erraun |
 | pres. subjunctive | vay | vay | vay | vayau | vayað | vain |
 | impf. subjunctive | eus? | eus? | eus? | eusseu? | eusseð? | eusn? |
-| imperative | — | vay | — | vayau | vayað | — |
+| imperative | — | **va** | — | vayau | vayað | — |
 
 Non-finite: infinitive **eir**, present participle **eint**, past participle **eið / eut**.
 
@@ -95,10 +101,10 @@ A: Ah, eið is a relic of previous iterations. We should resolve them all to eut
 
 | | 1SG | 2SG | 3SG | 1PL | 2PL | 3PL |
 |---|---|---|---|---|---|---|
-| present | **fay** | **fay** | **fay** | fayeu | fayeð | **faun** |
+| present | **fay** | **fay** | **fay** | **faim** | **faið** | **faun** |
 | imperfect | **faye** | **faye** | **faye** | fayau | fayað | fayen |
 | preterite | **fey** | **fey** | **fey** | **feim** | feist | **feirn** |
-| future | farray | farra | farra | **farreu** | **farreð** | **farraun** |
+| future | **farray** | farra | farra | **farreu** | **farreð** | **farraun** |
 | pres. subjunctive | **faç** | **faç** | **faç** | **façau** | **façað** | façn |
 | impf. subjunctive | feis | feis | feis | feisseu | feisseð | feisn |
 | imperative | — | **faç** | — | **façau** | **façað** | — |
@@ -121,11 +127,12 @@ A: Should be faint; I've fixed the fayent in Scaunç.
 | future | darray? | darra? | darra? | darreu? | darreð? | darraun? |
 | pres. subjunctive | **day** | **day** | **day** | deu? | **deð / dayað** | dain? |
 | impf. subjunctive | daus? | daus? | daus? | dausseu? | dausseð? | dausn? |
-| imperative | — | da? | — | deu? | **deð / dayað** | — |
+| imperative | — | **da** | — | deu? | **deð / dayað** | — |
 
 Non-finite: infinitive **dar**, present participle **dant**, past participle **dað**.
 
 - On the regular *-ar* pattern, the present and imperfect of *dar* would mostly coincide (*da, dau, dað*). The present plural is especially uncertain; the 3PL can't be *dn*.
+- The 2SG imperative **da** is confirmed by elicitation E02 (*Da lo mey!*, 2026-10-12). It is the indicative form, not the subjunctive *day*, so the imperative is not simply "= present subjunctive" for *dar* (see `elicitation-notes.md`, Conflicts).
 - **Q10.** Is the 2PL subjunctive/imperative **deð** (*Deð apar*, C605; S12521) or **dayað** (*Dayað mey lengaç*, C717)?
 
 ## poðir 'can' (*ir1 v*)
@@ -134,7 +141,7 @@ Non-finite: infinitive **dar**, present participle **dant**, past participle **d
 |---|---|---|---|---|---|---|
 | present | **poð** | **poð** | **poð** | **poum** | **pouð** | **poun** |
 | imperfect | **poðe** | **poðe** | **poðe** | **poðau** | poðað? | **poðen** |
-| preterite | **sceu** | **sceu** | **sceu** | sceum? | **sceust** | **sceurn** |
+| preterite | **sceu** | **sceu** | **sceu** | **sceum** | **sceust** | **sceurn** |
 | future | **porray** | **porra** | **porra** | **porreu** | **porreð** | **porraun** |
 | pres. subjunctive | **pos** | **pos** | **pos** | **posseu** | **posseð** | **posn** |
 | impf. subjunctive | **sceus** | **sceus** | **sceus** | sceusseu? | sceusseð? | sceusn? |
@@ -142,6 +149,7 @@ Non-finite: infinitive **dar**, present participle **dant**, past participle **d
 Non-finite: infinitive **poðir**, present participle **poðent**, past participle **scið**.
 
 - The preterite and imperfect subjunctive are suppletive (*sceu-*).
+- Elicitation E12 (2026-10-12) confirms 1PL preterite **sceum** and imperfect **poðau**. The user's note gives the split: the imperfect is used for a state of inability (*Nos poðau noc y quarf trovar*), the preterite for a one-off failure (*Nos sceum noc…*).
 - **Q11.** The present subjunctive *pos, posseu, posseð, posn* (C397, C105, C777) has the shape of an imperfect subjunctive. Is it the present subjunctive (as used in *tu pos ja traiçon me dar* 'you might yet betray me')?
 - **Q12.** Is **scið** the past participle of *poðir* (*Jo n'ay scið … plu pascr* 'I can't stop eating', S12903)? Is it the same *scið* as in *yembr scið* 'realise'?
 
@@ -178,7 +186,7 @@ Non-finite: infinitive **stovir**, present participle **stovent**, past particip
 - I've marked the 1st and 2nd person as non-existent because the grammatical subject is always the thing needed. Fill them in if they do exist.
 - **Q15.** Future **storra** (S28358, C2556) or **stoura** (S15604, S23106)?
 
-## deïr 'owe; must' (*r v*)
+## deïr 'owe; must' (*ir1 v*)
 
 | | 1SG | 2SG | 3SG | 1PL | 2PL | 3PL |
 |---|---|---|---|---|---|---|
@@ -197,17 +205,22 @@ Non-finite: infinitive **deïr**, present participle **deyent**, past participle
 
 | | 1SG | 2SG | 3SG | 1PL | 2PL | 3PL |
 |---|---|---|---|---|---|---|
-| present | **sau / saif** | **saf** | **saf** | **saveu** | **saveð** | **saun** |
+| present | **say** | **sa** | **sa** | **saveu** | **saveð** | **saun** |
 | imperfect | **save** | **save** | **save** | savau? | savað? | **saven** |
 | preterite | **saveu** | **saveu** | **saveu** | saveum? | saveust? | saveurn? |
 | future | sauray? | saura? | saura? | saureu? | saureð? | **sauraun** |
-| pres. subjunctive | saif? | saif? | saif? | saivau? | **saivað** | saivn? |
-| impf. subjunctive | saveus? | saveus? | saveus? | saveusseu? | saveusseð? | saveusn? |
-| imperative | — | saif? | — | saivau? | **saivað** | — |
+| pres. subjunctive | **saif** | **saif** | **saif** | **saivau** | **saivað** | **saivn** |
+| impf. subjunctive | **saveus** | **saveus** | **saveus** | saveusseu? | saveusseð? | saveusn? |
+| imperative | — | **saif** | — | **saivau** | **saivað** | — |
 
 Non-finite: infinitive **savir**, present participle savent?, past participle **saut**.
 
 - The subjunctive stem *saiv-* is i-mutated, like *cavir* → *caif* (*saivað ig j'ay my gant jait* 'know that my gauntlet is cast', C312).
+- Elicitation 2026-10-12: E22 *Jo crey noc ig le saif y vertað* has the subjunctive **saif**, and E24 *Ða jo saveus* has the imperfect subjunctive **saveus**.
+- **Answered by the user (2026-10-12):**
+  - Present: *jo say, tu sa, le/la/lo sa; nos saveu, vos saveð, ðe saun*.
+  - Subjunctive: *saif* (SG), *saivau, saivað, saivn*.
+  - The old corpus forms were retconned on 2026-10-12 (12 Scaunç sentences plus their copies, with 5 IPA lines): *sau*, *saf* and indicative *saif* became *say*/*sa*. *saif* was kept where it is a real subjunctive, e.g. *degnant alcun hom saif* (S6696).
 - **Q17.** Is the 1SG present **sau** (S16253) or **saif** (*Jo saif ig l'ec te definisc…*, C596)? Or is *saif* there a subjunctive?
 
 ## volir 'will' (*ir1 v*)
@@ -221,6 +234,8 @@ Non-finite: infinitive **savir**, present participle savent?, past participle **
 | impf. subjunctive | **volois** | **volois** | **volois** | voloisseu? | voloisseð? | **voloisn** |
 
 Non-finite: infinitive **volir**, present participle **volent**, past participle ___.
+
+- The 2PL subjunctive **veleð** + infinitive is the polite command to a stranger: *Veleð asseïr, domn* 'Please sit down, madam' (E45).
 
 - **Q18.** Does *volir* have a preterite (and past participle), or is it defective like an auxiliary? Can it still mean 'want' as a main verb?
 
@@ -239,7 +254,7 @@ Non-finite: infinitive **nolir**, present participle **nolent**.
 
 | | 1SG | 2SG | 3SG | 1PL | 2PL | 3PL |
 |---|---|---|---|---|---|---|
-| present | **cay** | **cay** | **cay** | cayeu? | cayeð? | **cain** |
+| present | **cay** | **cay** | **cay** | **caim** | **caið** | **cain** |
 | imperfect | **caye** | **caye** | **caye** | cayau? | cayað? | **cayen** |
 | preterite | **cou / cayeu** | **cou / cayeu** | **cou / cayeu** | ___ | ___ | ___ |
 | future | carray? | **carra** | **carra** | carreu? | carreð? | carraun? |
@@ -249,6 +264,7 @@ Non-finite: infinitive **nolir**, present participle **nolent**.
 Non-finite: infinitive **cair**, present participle **caint**, past participle ___.
 
 - *coum* and *courn* in the corpus belong to *cavir* 'get', not to *cair*.
+- Elicitation E18 (2026-10-12): the user gives **cous** as the imperfect subjunctive (*Degnant ig cous tart*), and *cay tart* 'it is late (in the day)'.
 - **Q19.** Is the preterite **cou** (S14795, S26207, C754) or **cayeu** (*Le cayeu sy pie nognt*, C177)? Compound *surcair* has *surcayeurn* (C300), which fits *cayeu*. Since the impf. subjunctive **cous** fits *cou*, are both in use?
 
 ## sceir 'there be; exist' (*r v*)
@@ -273,7 +289,7 @@ Non-finite: infinitive **sceir**, present participle **sceint**, past participle
 |---|---|---|---|---|---|---|
 | present | **dien** | **dien** | **dien** | deneu? | deneð? | **dienn** |
 | imperfect | dene? | dene? | dene? | denau? | denað? | denen? |
-| preterite | **denoy / deneu** | **denoy / deneu** | **denoy / deneu** | ___ | ___ | **deneurn** |
+| preterite | **denoy** | **denoy** | **denoy** | denoim? | denoist? | **denoirn** |
 | future | dendray? | dendra? | dendra? | dendreu? | dendreð? | dendraun? |
 | pres. subjunctive | **din** | **din** | **din** | denau? | denað? | **dinn** |
 | impf. subjunctive | ___ | ___ | ___ | ___ | ___ | ___ |
@@ -281,6 +297,7 @@ Non-finite: infinitive **sceir**, present participle **sceint**, past participle
 Non-finite: infinitive **denir**, present participle denent?, past participle **denuð**.
 
 - It patterns like *venir* (*vien/vienn*, subjunctive *vin/vinn*, preterite *venoy*, future *vendra*).
+- **Answered by elicitation E28 (2026-10-12):** the preterite is **denoy** (*Le denoy instroyour posc y var*). *deneu*/*deneurn* were slips. They were retconned to *denoy*/*denoirn* throughout on 2026-10-12, on the user's instruction. The corpus 3PL of the *-oy* type is **-oirn**: *denoirn* 4×, *venoirn*, *spanoirn*, *mettoirn* and others. So the paradigm is *denoy … denoirn*.
 - **Q21.** Preterite **denoy** (20× in the corpus, e.g. C111) or **deneu/deneurn** (C2696, C2701)?
 
 ## remanir 'remain' (*ir1 v*)
@@ -303,4 +320,4 @@ Non-finite: infinitive **remanir**, present participle **remanent**, past partic
 ## Other questions
 
 - **Q23.** *orruðar* 'seem' is an *-ar* verb, but its imperfect is *orruðe* in the corpus (S15880, S23514, S24429), where *orruða* is expected. Is it irregular, or is *orruðe* a slip?
-- Not covered yet: *cavir* 'get' (*caf, caif, cof/coum/courn, caut*), *venir*, *tenir*, *veir* 'see' (*vis*), *dir* 'say' (*dig, dis, disrn*), *mettr* 'put' (*mis*), *yembr* 'arrive, manage' (*yem, yemoy, yent*). These can be a second round for the Verb Tables appendix.
+- Not covered yet: *cavir* 'get' (*caf, caif, cof/coum/courn, caut*), *venir*, *tenir*, *veir* 'see' (*vis*), *digr* 'say' (*dig, dis, disrn*), *mettr* 'put' (*mis*), *yembr* 'arrive, manage' (*yem, yemoy, yent*). These can be a second round for the Verb Tables appendix.

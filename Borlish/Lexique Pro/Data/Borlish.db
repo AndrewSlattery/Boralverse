@@ -157,7 +157,7 @@
 \ge so that
 \ge in order that
 
-\mn fin
+\mn fin1
 
 \lx a groglon
 \ps adj
@@ -984,7 +984,7 @@
 \ge gaslit
 \ge lit by gaslight
 
-\mn accis
+\mn accendr
 \mn aer
 
 \lx accoglent
@@ -1315,7 +1315,7 @@
 \ge in chorus
 \ge tutti
 
-\xv The bassoons played in the first big tutti section.
+\xv Y torriot hoissaurn ag preu gran entrjainç aðaun.
 \xe The bassoons played in the first big tutti section.
 
 \ps interj
@@ -1497,6 +1497,15 @@
 \ge rule
 
 \et Latin
+
+\se administratif
+\ps adj
+
+\ge administrative
+\ge governmental
+\ge bureaucratic
+
+\et learned borrowing from Latin administrātīvus
 
 \lx admiral
 \ps n
@@ -2941,6 +2950,16 @@
 
 \et Old Borlish < Latin
 
+\se amorous
+\ps adj
+
+\ge amorous
+\ge romantic
+\ge loving
+\ge love
+
+\et adjective from amour
+
 \lx amour ront
 \ps n
 
@@ -3049,6 +3068,16 @@
 \ge grandparent
 
 \et Old Borlish < Old French < Latin
+
+\se ancestral
+\ps adj
+
+\ge ancestral
+\ge ancestors'
+\ge family
+\ge hereditary
+
+\et adjective from ancestr
 
 \lx ancour
 \ps adv
@@ -5039,6 +5068,49 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 
 \et Old Borlish < Latin
 
+\lx authican
+\ps adj
+
+\ge self-sufficient
+\ge autarkic
+\ge self-contained
+\ge standalone
+\ge solitary
+\ge aloof
+\ge standoffish
+\ge circular
+\ge question-begging
+\ge smug
+\ge complacent
+\ge self-satisfied
+
+\xv Nossy cat es authican fin a quelt.
+\xe Our cat is standoffish until dinnertime.
+
+\et Middle Borlish, a borrowing via Scholastic Latin authicanus from Malchassian Greek αὐθικανός • authikanós "self-sufficient", compounded from αὐτός • autós "self" and ἱκανός • hikanós "sufficient, enough" (compare authicanopoesy "complacency"). In scholastic disputation the word was soon applied ironically to arguments which assume their own conclusions. Personal senses are seen from the seventeenth century, the pejorative "smug" chiefly from the nineteenth; standalone texts and mechanisms are so described from the late nineteenth century.
+
+\lx authicanopoesy
+\ps n
+
+\ge complacency
+\ge smugness
+\ge self-satisfaction
+
+\xv Ty çavel dien youdað par molir a tell'authicanopoesy soccoðr.
+\xe Your brain goes numb trying to shake off your complacency.
+
+\et noun from authican "smug", formed after Greek compounds in -ποίησις • -poíēsis "making"
+\mn authican
+
+\lx authicanopoetic
+\ps adj
+
+\ge complacent
+\ge self-satisfied
+
+\et adjective from authicanopoesy "complacency"
+\mn authicanopoesy
+
 \lx autochthon
 \ps adj
 
@@ -5872,13 +5944,6 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 
 \et Hind < Sanscrit वट (vaṭa)
 
-\lx baric
-\ps adj
-
-\ge electric
-
-\et Middle Borlish < Scholastic Latin < Italian < Arabic
-
 \lx baron
 \ps n
 
@@ -5892,6 +5957,13 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 \ge barony
 
 \et Old Borlish < Late Latin
+
+\lx barric
+\ps adj
+
+\ge electric
+
+\et Middle Borlish < Scholastic Latin < Italian < Arabic
 
 \lx barricheyar
 \ps ar v
@@ -6440,8 +6512,6 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 \et Old Borlish, from benoçar
 \mn benoçar
 
-\et Old Borlish
-
 \lx benoçar
 \ps ar v
 
@@ -6731,6 +6801,15 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 \ge card
 
 \et borrowing from Saxon blad "leaf, page; playing card"
+
+\se blader
+\ps adj
+
+\ge card
+\ge of playing cards
+\ge made of playing cards
+
+\et adjective derivation from blad
 
 \lx blanc
 \ps adj
@@ -7171,7 +7250,7 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 \ge big picture
 
 \mn bon
-\mn hautessem
+\mn haut
 
 \lx bon vacq
 \ps interj
@@ -7575,6 +7654,23 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 \ge heroic
 
 \et Old Borlish < Latin
+
+\lx brag
+\ps n
+
+\ge underpants
+\ge pants
+\ge undies
+\ge knickers
+\ge drawers
+\ge breeches
+\ge trousers
+
+\xv Zillapr stan sy brag embrostant.
+\xe His underpants had buttercups on.
+
+\et original in the latter sense and in more general use, via Old Borlish braȝ from Latin brācae "breeches", from Gaulish. Used primarily for underwear since the late nineteenth century, in which sense it is clipped from now-archaic soubrag "underpants".
+\mn soubrag
 
 \lx brandvin
 \ps n
@@ -9558,6 +9654,18 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 
 \et Old Borlish < Latin
 
+\se cauçour
+\ps n
+
+\ge hunter
+\ge huntsman
+
+\ps adj
+
+\ge hunting
+
+\et agentive from cauçar
+
 \lx caucet
 \ps n
 
@@ -11531,6 +11639,17 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et Old Borlish < Latin
 
+\se combat
+\ps n
+
+\ge combat
+\ge fight
+\ge fighting
+\ge battle
+\ge struggle
+
+\et deverbal noun from combattr
+
 \lx combinar
 \ps ar v
 
@@ -11620,7 +11739,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge continuously
 
 \mn commet
-\mn fin
+\mn fin1
 
 \lx commettr
 \ps r v
@@ -13517,7 +13636,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \xe We're redeveloping this seaside resort.
 
 \et Backformation from noun corrogation "infrastructure, public works", from synonymous corrogātiō in Scholastic Latin. This comes from Medieval Latin corrogāta "corvée, collective labour provided by demand", itself probably formed by ellipsis of a Late Latin phrase opera corrogāta "invited work", from corrogō "I bring together by request, I invite".
-\mn corrogation
+\mn corrogaçon
 
 \lx corrompr
 \ps r v
@@ -17407,7 +17526,7 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \ge out of one's mind
 
 \mn cogr
-\mn foutuð
+\mn foutr
 
 \lx deut
 \ps n
@@ -18398,6 +18517,18 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 \et idiom, literally "lady of the night".
 \mn domn
 \mn jorn
+
+\lx don
+\ps n
+
+\ge gift
+\ge present
+\ge donation
+\ge offering
+\ge talent
+\ge knack
+
+\et Middle Borlish < Latin dōnum "gift, present", a learned borrowing. The same Latin word forms the second part of Old Borlish veðerdon (modern veðrdon "prize"), via Medieval Latin widerdōnum.
 
 \lx donaçon
 \ps n
@@ -22883,12 +23014,42 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 
 \et Old Borlish < Late Latin
 
+\lx fin
+\hm 1
+\ps n
+
+\ge end
+\ge close
+\ge conclusion
+\ge finish
+\ge limit
+\ge aim
+\ge purpose
+\ge goal
+
+\xv Y mort incoïbr dell'yam malvaç met fin ag trevold.
+\xe The evil uncle's inevitable death brings the book to a close.
+
+\et Old Borlish < Latin fīnis "boundary, limit, end", which already had the sense "purpose, aim" in Latin. Frequent in phrases: mettr fin a "bring to an end", a fin oc "so that", fin a "until", commet a fin "the whole time".
+
+\lx fin
+\hm 2
+\ps adj
+
+\ge fine
+\ge thin
+\ge delicate
+\ge slender
+\ge fine-grained
+
+\et Old Borlish < Old French fin "fine", of obscure further origin.
+
 \lx fin a
 \ps conj
 
 \ge until
 
-\mn fin
+\mn fin1
 
 \lx final
 \ps adj
@@ -23325,6 +23486,27 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ge step
 
 \et Old Borlish < Medieval Latin
+
+\se follanç
+\ps n
+
+\ge step
+\ge tread
+\ge walk
+\ge stroll
+\ge turn
+\ge spin
+\ge go
+
+\et noun from follar
+
+\se follour
+\ps n
+
+\ge walker
+\ge treader
+
+\et agentive from follar
 
 \lx follastr
 \ps n
@@ -23798,6 +23980,16 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 
 \et Old Borlish < Latin
 
+\se foscur
+\ps n
+
+\ge darkness
+\ge dark
+\ge gloom
+\ge obscurity
+
+\et noun derivative of adjective fosc, with the suffix -ur
+
 \lx fosset
 \ps n
 
@@ -23928,6 +24120,22 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 
 \et deverbal from foutr "fuck"
 \mn foutr
+
+\lx foutr
+\ps r v
+
+\ge fuck
+\ge screw
+\ge shag
+\ge ruin
+\ge wreck
+\ge screw up
+\ge fuck up
+
+\xv Ig crevoscr a my gyr cottidian enter foutuð.
+\xe Last night completely ruined my body clock.
+
+\et Old Borlish < Latin futuō "I fuck". The figurative sense "ruin, wreck" is mostly found in the past participle foutuð, as in deur y cogr foutuð "be out of one's mind".
 
 \lx fovir
 \ps ir2 v
@@ -25744,6 +25952,17 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Old Borlish < Vulgar Latin
 
+\lx gom
+\ps n
+
+\ge gum
+\ge resin
+\ge sap
+\ge natural rubber
+\ge latex
+
+\et Old Borlish < Latin gummi, cummi "gum", from Ancient Greek κόμμι (kómmi), ultimately from Egyptian. Extended to natural rubber and latex, hence gom faus "synthetic rubber", literally "false gum".
+
 \lx gom faus
 \ps n
 
@@ -27116,7 +27335,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \dv communication whose purpose is to inform or influence customers about products or services; an instance of advertising something
 
-\xv Lorry haubrojoranç er speut bannið.
+\xv Lorry haubrojoranç fo speut bannið.
 \xe Their advertisement was swiftly banned.
 
 \et seventeenth-century coinage from verb haubrjorar "to announce, to herald, to make public", itself a derivation from noun haubrjour "herald, town crier, one whose job is to announce things publicly". This had shifted from the sense "scout, sentry, lookout; omen, advance warning", in which form it was borrowed from Old French herbergeor "one sent ahead (of a military camp)".
@@ -27502,14 +27721,6 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Latin < Ancient Greek
 
-\lx hereter
-\ps n
-
-\ge heir
-\ge successor
-
-\et Old Borlish < Latin
-
 \lx heritanç
 \ps n
 
@@ -27526,6 +27737,14 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge come into
 
 \et Late Latin hērēditō
+
+\lx heriter
+\ps n
+
+\ge heir
+\ge successor
+
+\et Old Borlish < Latin
 
 \lx heriter imminent
 \ps n
@@ -28388,7 +28607,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge Ï
 
 \et compound "twin i"
-\mn i2
+\mn i
 \mn jammel
 
 \lx icon
@@ -28551,7 +28770,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge including
 \ge for example
 
-\mn inclus
+\mn incluïr
 
 \lx ig stant
 \ps conj
@@ -29111,7 +29330,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \xe The mother scolded her son when he got back.
 
 \et Backformation from improbation
-\mn improbation
+\mn improbaçon
 
 \lx impur
 \ps adj
@@ -29998,19 +30217,19 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ps n
 
 \ge settlement
-\ge colony
-
-\et Middle Borlish < Italian < Latin
-
-\lx instançment
-\ps n
-
-\ge settlement
 \ge colonisation
 \ge colonization
 
 \et noun from instançar "settle"
 \mn instançar
+
+\lx instançment
+\ps n
+
+\ge settlement
+\ge colony
+
+\et Middle Borlish < Italian < Latin
 
 \lx instauraçon
 \ps n
@@ -30362,7 +30581,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge U
 
 \et Compound i scon "second i"
-\mn i2
+\mn i
 \mn scon
 
 \lx issambr
@@ -30788,7 +31007,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et literally "hated throw", originally used in gambling games to describe losing positions with only a slim chance of turning around.
 \mn jainç
-\mn ojað
+\mn ojar
 
 \lx jair
 \ps r v
@@ -33045,6 +33264,16 @@ Old Borlish < Latin illa
 
 \et Old Borlish < Latin
 
+\lx leiç
+\ps n
+
+\ge lesson
+\ge class
+\ge lecture
+\ge reading
+
+\et Old Borlish < Latin lectiō "reading, lecture", a doublet of leçon. Now seen chiefly in the derivative leiçoir "classroom".
+
 \lx leiçoir
 \ps n
 
@@ -33276,15 +33505,15 @@ Old Borlish < Latin illa
 
 \et Middle Borlish < Latin
 
-\lx liberaleyaçon
+\lx liberalleyaçon
 \ps n
 
 \ge liberalisation
 \ge providing greater freedom
 \ge manumission
 
-\et from liberalisar
-\mn liberalisar
+\et from liberalleyar
+\mn liberalleyar
 
 \lx liberalleyar
 \ps ar v
@@ -33983,7 +34212,7 @@ Old Borlish < Latin illa
 \et taken from a parody of stock phrases used in late 20C crime reporting, the phrase literally meaning "how one's friends/colleagues describe one"
 \mn lonc
 \mn sociað
-\mn descreint
+\mn descreir
 
 \lx lonc y bustr
 \ps adv
@@ -34817,6 +35046,21 @@ Old Borlish < Latin illa
 
 \et Old Borlish < Latin
 
+\lx maglur
+\ps n
+
+\ge meshwork
+\ge netting
+\ge mesh
+\ge network
+\ge interconnected system
+
+\xv Covrað vossell'eç plant mogn con manton a maglur fin cas ig ðe caivn paut.
+\xe Cover your shorter plants with a fine mesh sheet so that animals don't eat them.
+
+\et fifteenth century, early Middle Borlish maȝlur(e) "net, meshwork", from magl "mesh, net" < Vulgar Latin macla < Latin macula "link, mesh, hole, cell, spot". Derivation with nominal suffix -ur(e) creating usually-abstract nouns, from Latin -(ā)tūra with rebracketing.
+\mn magl
+
 \lx magn
 \ps adv
 
@@ -35167,7 +35411,7 @@ Old Borlish < Latin illa
 \ge pert
 \ge peppy
 
-\xv J'osc sy cigl novel; i's mallovicher sad demay.
+\xv J'osc sy novel cigl; i's mallovicher sad demay.
 \xe I hate her new girlfriend; she's far too chipper.
 
 \et 19C, adjectival derivation from mallovic "someone who is naïve and cheerful to a ridiculous or irritating extent".
@@ -35568,7 +35812,7 @@ Old Borlish < Latin illa
 \ge merchandise
 
 \mn març
-\mn trocað
+\mn trocar
 
 \lx marcað
 \ps n
@@ -36138,9 +36382,10 @@ Old Borlish < Latin illa
 \lx megl
 \ps adv
 
+\ue obsolete
 \ge better
 
-\et Old Borlish < Latin
+\et Old Borlish < Latin. Displaced by ottem "better, best" in the modern language; it survives in meglfair "improve" and meglfacçon "improvement".
 
 \lx meglfacçon
 \ps n
@@ -36681,7 +36926,7 @@ Old Borlish < Latin illa
 \xe These losses sadden us all.
 
 \et via Old Borlish from Vulgar Latin mesticō "I sadden", from Latin maestus "sad, gloomy".
-\mn mest
+\mn mestr
 
 \lx mestr
 \ps adj
@@ -37182,6 +37427,17 @@ Old Borlish < Latin illa
 
 \et Middle Borlish < Middle Borlish 1md
 
+\lx mod
+\ps n
+
+\ge way
+\ge manner
+\ge mode
+\ge fashion
+\ge means
+
+\et Middle Borlish < Latin modus "measure, manner, way", a learned borrowing. Most common in set phrases such as toð mod "even so, though" and mod d'ovranç "policy, modus operandi".
+
 \lx moð
 \ps n
 
@@ -37200,6 +37456,15 @@ Old Borlish < Latin illa
 
 \mn mod
 \mn ovranç
+
+\lx moð gostar
+\ps ar v
+
+\ge eat dirt
+\ge be defeated
+
+\mn moð
+\mn gostar
 
 \lx model
 \ps n
@@ -37254,15 +37519,6 @@ Old Borlish < Latin illa
 \ge in a wider context
 
 \et Latin
-
-\lx moðr gostar
-\ps ar v
-
-\ge eat dirt
-\ge be defeated
-
-\mn moðr
-\mn gostar
 
 \lx moglar
 \ps ar v
@@ -38659,6 +38915,20 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \et Old Borlish < Latin
 
+\lx nascenç
+\ps n
+
+\ge birth
+\ge nativity
+\ge birthday
+\ge origin
+\ge emergence
+
+\xv Forn pog may a deg meis sceut des l'annihilaçon dy mont, e caye je sy nascenç.
+\xe It had been just over ten months since the end of the world, and it was her birthday.
+
+\et Old Borlish < Latin nascentia "birth", from nascor "I am born".
+
 \lx nassanc
 \ps n
 
@@ -39362,6 +39632,30 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \mn obstroir
 
+\lx noceu
+\ps adj
+
+\ge noxious
+\ge harmful
+\ge toxic
+\ge spoiled
+\ge rotten
+\ge gone off
+\ge vicious
+\ge savage
+\ge hateful
+\ge spiteful
+\ge antipathetic
+\ge injurious
+\ge tortious
+\ge unwholesome
+\ge sickly
+
+\xv Pescot eð host son noceu posc tre jorn.
+\xe Fish and houseguests both go off after three days.
+
+\et directly from Old Borlish nociu "harmful, hurtful", from Latin nocīvus "harmful, injurious", an adjectival derivation of verb noceō "I harm, I hurt" (compare cateu < captīvus for the development). The word was used in law from early on, at first of animals and by the fourteenth century of any actionable harm, after the use of noxius in legal Latin. Application to spoiled food is Middle Borlish; that to weather and seasons, from the early modern period, reflects contemporary medical notions of unwholesome airs. The interpersonal sense is from the twentieth century.
+
 \lx noçon
 \ps n
 
@@ -39433,14 +39727,6 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 \ge traditionalist
 
 \et Derviation of the adjective nohas
-
-\lx noiç colorn
-\ps n
-
-\ge hazelnut
-
-\mn noiç
-\mn colorn
 
 \lx noit
 \ps n
@@ -39795,6 +40081,14 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 \ge walnut
 
 \et Old Borlish < Latin
+
+\lx nouç colorn
+\ps n
+
+\ge hazelnut
+
+\mn nouç
+\mn colorn
 
 \lx nouf
 \ps num
@@ -40803,7 +41097,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge memento
 
 \xv Val l'oc ollom se figr n'un reliquat.
-\xe
+\xe This relic should be in a museum.
 
 \et a descendant of Old Borlish onlom "vessel; (religion) relic", borrowed from Borland Old English ondlōma "utensil, vessel". By the thirteenth century the word had become restricted to religious usage (viewing a relic as a vessel for holy power), from which the other senses have sprung.
 
@@ -41589,10 +41883,16 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx ottem
 \ps adj
 
+\ge better
 \ge best
 \ge greatest
 \ge ultimate
 \ge final
+
+\ps adv
+
+\ge better
+\ge best
 
 \et Old Borlish < Latin
 
@@ -41638,7 +41938,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \xv Se poð ou scadom ben ugnlac accatar.
 \xe You can buy either tomatoes or onions.
 
-\et Old Borlish o ou, "or; question particle", a direct descendant of Latin aut "or". In the last sense, the term was originally used for all the options in a list, but in the modern language the latter options are introduced by ben "or" < Latin bene "well". In the second sense it alternates with ig "that" < Latin ibi "there", which introduced realis clauses; the prototype examples are jo saif ig X "I know that X", jo saif noc ou X "I don't know whether X".
+\et Old Borlish o ou, "or; question particle", a direct descendant of Latin aut "or". In the last sense, the term was originally used for all the options in a list, but in the modern language the latter options are introduced by ben "or" < Latin bene "well". In the second sense it alternates with ig "that" < Latin ibi "there", which introduced realis clauses; the prototype examples are jo say ig X "I know that X", jo say noc ou X "I don't know whether X".
 
 \lx ou ave
 \ps interj
@@ -41856,7 +42156,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge outlaw
 
 \et from Old Borlish outre ley "beyond law"
-\mn ley
+\mn leg
 
 \lx outrneyeðr
 \ps n
@@ -41957,8 +42257,11 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ps n
 
 \ge opening
+\ge beginning
+\ge start
+\ge opportunity
 \ge overture
-\ge portal
+\ge aperture
 
 \et Old Borlish < Latin
 
@@ -41998,6 +42301,18 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge operate
 
 \et Old Borlish < Vulgar Latin
+
+\se ovranç
+\ps n
+
+\ge conduct
+\ge behaviour
+\ge comportment
+\ge tact
+\ge working
+\ge operation
+
+\et noun from ovrar
 
 \lx ovrir
 \ps ir1 v
@@ -43884,7 +44199,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge kid
 
 \mn pendr
-\mn delusion
+\mn delujon
 
 \lx pendramnougr
 \ps adv
@@ -44361,6 +44676,16 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \mn pevr
 
+\lx pevr sec
+\ps n
+
+\ge drypepper
+\ge black pepper
+\ge peppercorn
+
+\mn pevr
+\mn sec
+
 \lx peyaç
 \ps n
 
@@ -44586,16 +44911,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge pedestrian
 
 \et Middle Borlish < Middle French
-
-\lx pievr sec
-\ps n
-
-\ge drypepper
-\ge black pepper
-\ge peppercorn
-
-\mn pievr
-\mn sec
 
 \lx pighar
 \ps ar v
@@ -44927,6 +45242,13 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Old Borlish < Latin
 
+\lx plagsur
+\ps n
+
+\ge pleasure
+
+\et Old Borlish < Latin
+
 \lx plait
 \ps adj
 
@@ -44994,13 +45316,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge plant
 
 \et Old Borlish < Latin
-
-\lx plasur
-\ps n
-
-\ge pleasure
-
-\et Middle Borlish < Latin < Ancient Greek
 
 \lx plat
 \ps adj
@@ -45519,7 +45834,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge final straw
 
 \mn pognt
-\mn sfondraç
+\mn sfondranç
 
 \lx pognt aer
 \ps n
@@ -45939,7 +46254,9 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ps n
 
 \ge gate
-\ge portal
+\ge entrance
+\ge welcome
+\ge reception
 
 \et Old Borlish < Latin
 
@@ -46144,6 +46461,16 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \xe Stop flirting and help me with this barrier!
 
 \et originally in the first sense, a verbal derivation from pounç "pumice stone", itself via Norman from synonymous pūmex in Latin. In its archaic sense its usage mirrors others slang terms relating rubbing motions to sexual activity. By the mid-nineteenth century the term had weakened to describe flirtatious behaviour.
+
+\lx poussar
+\ps ar v
+
+\ge push
+\ge shove
+\ge press
+\ge urge
+
+\et Old Borlish < Latin pulsāre "to beat, strike, push", frequentative of pellō "I drive". Rare beside its prefixed derivatives appoussar, repoussar and rappoussar.
 
 \lx pousson
 \ps n
@@ -46844,14 +47171,14 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Middle Borlish < Latin
 
-\lx pris de malaiç
+\lx pris de malais
 \ps adj
 
 \ge fallen ill
 \ge sick
 
 \mn prendr
-\mn malaiç
+\mn malais
 
 \lx privar
 \ps ar v
@@ -47374,6 +47701,23 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge gangway
 
 \et borrowed from Old French puie "balustrade, balcony" (whence also English pew), from Latin podium "balcony in an amphitheatre".
+
+\lx pylon
+\ps n
+
+\ge gateway
+\ge propylaeum
+\ge gatehouse
+\ge lodge
+\ge portal
+\ge wormhole
+\ge teleporter
+\ge time machine
+
+\xv Casc trevold parachthon a un pylon ne sy capparol derran.
+\xe Every sci-fi novel has a portal in its last chapter.
+
+\et an early modern borrowing via Latin from Greek πυλών • pulṓn "gateway, gatehouse", from πύλη • púlē "gate". Originally a term of antiquarian writing for the towered gateways of Egyptian temples, the word was extended to other entrance structures by the eighteenth century; outside historical contexts both senses are now somewhat formal. The parachthon sense arose in the Futurism period of the late nineteenth century, and was extended to devices of any shape over the twentieth.
 
 \lx quaðeglad
 \ps n
@@ -48209,6 +48553,15 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \ge billow
 
 \et "Middle Borlish, from raffley"
+
+\lx ragnt
+\ps adj
+
+\ge wild
+\ge raging
+\ge spectral
+
+\et apparently the present participle of a verb *ragr, now obsolete if it ever existed, perhaps from Medieval Latin ragō "I bray" (whence the rare French raire "(of deer) to cry, shout"). Found only in cauç ragnt "Wild Hunt".
 
 \lx ragost
 \ps n
@@ -50123,6 +50476,16 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \ge retain
 
 \et Old Borlish < Latin
+
+\se retenour
+\ps n
+
+\ge retainer
+\ge holder
+\ge restraint
+\ge IUD
+
+\et agentive from retenir; informally (and rarely) short for retenour stauron
 
 \lx retenour stauron
 \ps n
@@ -52249,7 +52612,7 @@ The word itself is a borrowing from Old French sarrazin "Muslim, Saracen" reflec
 
 \ge tomato sauce
 
-\xv A Portingal fo un method novel, ant carn aromað ne saus de scadom pisað.
+\xv A Portingal fo un novel method, ant carn aromað ne saus de scadom pisað.
 \xe In Portingale there was a new recipe, with spiced meat in a tomato sauce.
 
 \mn scadom
@@ -52283,7 +52646,7 @@ The word itself is a borrowing from Old French sarrazin "Muslim, Saracen" reflec
 \ge terrace
 
 \mn scaðr
-\mn platcouf
+\mn placcou
 
 \lx scaðr tissour
 \ps n
@@ -52469,7 +52832,7 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge boom
 \ge bonanza
 
-\xv Ty dois tach novel es un scanjon ou?
+\xv Ty novel dois tach es un scanjon ou?
 \xe Is your new smartphone an upgrade?
 
 \et noun from scandr "rise, climb" or directly from Latin scansiō "a climbing". The word is attested in metaphorical uses from the sixteenth century, and in its specifically economic sense it is seen from the nineteenth century.
@@ -52492,6 +52855,13 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge escape
 
 \et Old Borlish < Vulgar Latin
+
+\se scap
+\ps n
+
+\ge escape
+
+\et deverbal noun from scapar, no longer seen outside the expression scap fair de; more common is scapanç or fugnt
 
 \lx scarbot
 \ps n
@@ -52828,6 +53198,18 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \et Old Borlish < Latin
 
+\se sceinç
+\ps n
+
+\ge the way things are
+\ge things as they are
+\ge state of affairs
+\ge status quo
+\ge existing order
+\ge reality
+
+\et nominal derivation of sceir "for there to be"
+
 \lx scen
 \ps n
 
@@ -53088,12 +53470,19 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \et Middle Borlish < Middle French < Frankish
 
-\lx scoclat
+\lx scoclet
 \ps n
 
 \ge chocolate
 
 \et Vascon < Arabic < Nawat
+
+\se scoclatel
+\ps n
+
+\ge chocolate
+
+\et archaic variant of scoclet. The -el may be a diminutive, or may reflect the final -tl of the Nawat etymon.
 
 \lx scompigl
 \ps n
@@ -53519,7 +53908,7 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge bad press
 \ge censure
 
-\xv A sy lasc novel scey un tombr a sdegn.
+\xv A sy novel lasc scey un tombr a sdegn.
 \xe Her new film's garnered lots of criticism.
 
 \et deverbal noun from sdegnar "scorn, malign". The word nowadays often connotes that the criticism is undeserved (compare the phrase sdegn accarr "to be wrongly criticised").
@@ -53713,7 +54102,7 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge take the opportunity
 
 \mn sarvir
-\mn occasion
+\mn occajon
 
 \lx sec
 \ps adj
@@ -53974,7 +54363,7 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge grievance
 \ge cavil
 
-\xv L'er resoluð a casc senglottaç ignorar.
+\xv Le sta resoluð a casc senglottaç ignorar.
 \xe He was bent on ignoring any criticism.
 
 \et nineteenth century derivative from senglot or the related verb senglottar "sob, sigh, lament". Metaphorical use is attested from the early twentieth century.
@@ -57068,7 +57457,7 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \ge under the circumstances
 
-\mn stant
+\mn star
 \mn contingent
 
 \lx stanza
@@ -58205,6 +58594,16 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \et Old Borlish < Latin
 
+\se surveil
+\ps n
+
+\ge watch
+\ge vigil
+\ge lookout
+\ge surveillance
+
+\et deverbal noun from surveilar
+
 \lx surveilour
 \ps n
 
@@ -58584,7 +58983,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge bite one's tongue
 
 \mn tacir
-\mn mordent
+\mn mordr
 
 \lx tact
 \ps n
@@ -59013,13 +59412,13 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \mn tarsc
 \mn annonç
 
-\lx tarsc d'acat
+\lx tarsc d'accat
 \ps n
 
 \ge shopping list
 
 \mn tarsc
-\mn acat
+\mn accat
 
 \lx tarsc nascenç
 \ps n
@@ -59506,14 +59905,14 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Old Borlish
 
-\lx tendreç vardar
-\ps ar v
+\lx tendreç vardir
+\ps ir1 v
 
 \ge be affectionate
 \ge care
 
 \mn tendreç
-\mn vardar
+\mn vardir
 
 \lx teneur
 \ps n
@@ -59570,7 +59969,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge remain standing
 
 \mn tenir
-\mn pos
+\mn pondr
 
 \lx tenir sur y colant
 \ps ir1 v
@@ -61402,7 +61801,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge for example
 \ge as an example
 
-\mn triant
+\mn triar
 \mn parmig
 
 \lx triar
@@ -62960,6 +63359,14 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Middle Borlish < Latin
 
+\se vec
+\ps n
+
+\ge bus
+\ge coach
+
+\et clipping of vectoir
+
 \lx veð
 \ps n
 
@@ -63872,6 +64279,22 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge forward-thinking
 
 \et Middle Borlish < Latin
+
+\lx viker
+\ps adv
+
+\ge on behalf of another
+\ge by proxy
+
+\xv Vos saveð deïr viker pondr a toll'oc majon des je Lun.
+\xe You know you'll have to steward the whole house from Monday.
+
+\ps n
+
+\ge proxy
+\ge steward
+
+\et Old Borlish vicair (eleventh century), a semi-learned borrowing from Latin vicārius "substituted", from vicis "interchange, alternation". Noun senses are attested from the fourteenth century, as is the surname Viker; the phrase viker pondr "to steward, to manage" dates from the seventeenth.
 
 \lx viker pondr a
 \ps r v
@@ -65515,7 +65938,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \xe It turns out their daughter's married to a brewer.
 
 \et from Old Borlish ȝeost manc/ç "beer seller", from the stem of ȝeostar "to ferment, brew" (modern yeustar), a borrowing from synonymous geostan in Borland English (cf. modern Markish yeast), and the element manc/ç "seller, vendor", either reflecting Insular Latin mantia "shop, household, inn" or Latin mangō "dealer, seller (of slaves)". In metaphorical use from the seventeenth century.
-\mn yeust
+\mn yeustar
 
 \lx yeustmandry
 \ps n

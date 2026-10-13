@@ -50,7 +50,7 @@ Patterns that stand out across the classes. All are open to correction.
 |---|---|
 | infinitive | *r* 39 (acceir, accommettr)<br>*r* 1 (car-r) |
 | present participle | *nt* 11 (beint, carnt)<br>*~ent* 5 (attenent, rajognent)<br>*ent* 3 (pascent) |
-| past participle | *~s* 6 (pars, recas)<br>*~t* 4 (pagnt, pent)<br>*~nt* 2 (interront, irront)<br>*t* 2 (attriboit, costroit)<br>+4 more |
+| past participle | *~s* 6 (pars, recas)<br>*~t* 4 (pagnt, pent)<br>*~nt* 2 (interront, irront)<br>*t* 2 (attriboit, costroit)<br>+3 more |
 | potential (-abr) | *br* 1 (mesveibr) |
 
 | | 1SG | 2SG | 3SG | 1PL | 2PL | 3PL | person unknown |

@@ -10,7 +10,7 @@ Vail un bon trenc, lour dar un jorn cogmað lon cost.|It would be nice to give t
 J'oyeu ne Horð ðe pascn for bakilau.|I heard that in Horth they only eat cod.
 Nos voum partir je Maucr, donc toð je Mart faldra banfoy quïr.|We'll leave on Wednesday, so we need all Tuesday to pack.
 Nien va par un bricot nuçal lour rovant, com le fay rastel!|There's no point asking him for a wedding present, he's so miserly!
-A Portingal fo un method novel, ant carn aromað ne saus de scitom pisað.|In Portingale there was a new recipe, with spiced meat in a tomato sauce.
+A Portingal fo un novel method, ant carn aromað ne saus de scitom pisað.|In Portingale there was a new recipe, with spiced meat in a tomato sauce.
 Y soldart eð y barvier vencoirn y dragon e soulor allagr vescoirn ðe.|The soldier and the shepherdess killed the dragon and lived happily ever after.
 Rey Ambrosc commandau casc vascel port frugt sandrin, ma faloy moneð demay.|King Ambrose required each ship to carry citrus fruits, but the cost was too high.
 Infeliç, my sour poð noc boleð pascr, dec la lou support noc.|Unfortunately, my sister cannot eat mushrooms as she is intolerant.
@@ -35,7 +35,7 @@ Jo soccos my jacquot avant y foyer ne spien lo sechisceus un pog.|I shook my coa
 Le vos menara an japot ny mur oyon j'ay un livr scos.|He will take you to a gap in the wall where I have hidden a book.
 L'oc arbr es crous dec l'a un coup fourraç caut.|This tree is hollow because it's been struck by lightning.
 Y vain ag scuir stan sancant posc nos laiscaurn y traf n'eramn.|The boy's wrists were bloody when we took off his handcuffs.
-Ag tarm dy rout, tras un pont sur y Barraut, yað y megl tarn n'Istr Boral.|At the end of the road, across a Barraut bridge, there's the best inn in Borland.
+Ag tarm dy rout, tras un pont sur y Barraut, yað l'ottem tarn n'Istr Boral.|At the end of the road, across a Barraut bridge, there's the best inn in Borland.
 Y grant atelier sta un tapeçment de laboriostur; compagn agen a casc tabr.|The great workshop was a hive of industry, journeymen working a every table.
 J'ay magn farvour de te veir com y pardent.|I'm very much looking forward to seeing you lose.
 Com instroið vos l'ec studiant n'alcun gournanç ayent nell'oc schol?|How can you teach these students if the school has no control over them?
@@ -60,7 +60,7 @@ Y fugnt posc y rouvaç valois fort ig un hom parmy connois parolar ne teudesc.|T
 Fal jo t'instroy l'enter fondamen, pre tu attent uncos novel.|I must teach you the basics before you try something new.
 Y fondamen corpore n'aug son aquifex eð ignifex.|The elements found in water are hydrogen and oxygen.
 Y roum enter au fler a cendr eð acier e cogr.|The whole space smelt of ash and steel and leather.
-Nos vasm tras y camp, genoil dessou parmy sauð e lorrell'agnel.|We crossed the field, knee-deep in ewes and their lambs.
+Nos eum tras y camp, genoil dessou parmy sauð e lorrell'agnel.|We crossed the field, knee-deep in ewes and their lambs.
 Nossy nuçal ant regnbou doblað ny ciel sta un cainç a ney d'aost.|Our wedding having a double rainbow in the sky was a happy coincidence.
 Mell'eç fraðr e mey tegnsm toð my camis ne roug fosc.|With my brothers I dyed all my shirts dark red.
 Un mission sevrant sevr y sunt; l'eç destegnt accaçað a destegnt.|An injective function separates; distinct inputs are sent to distinct outputs.
@@ -70,7 +70,7 @@ Y couð sevr y spig sial a çaf eð a farin.|The millstone separates the rye int
 Robað pall'accostur prestral, Nicol me rannuðau com saluð ne passant.|Clad in his clergy robes, Nicholas nodded to me in greeting as he passed.
 L'enclina sy quil por y caf se pon pieç polç dessur.|He would tilt the head of his bed up a couple of inches.
 Nos parsoloim y quelt e laiscaum un affis munfiant.|We paid for our dinner and left a generous tip.
-Jo vil un astuç te dar ða ja tu saf noc cal fair.|I'll give you a hint if you ever don't know what to do.
+Jo vil un astuç te dar ða ja tu sa noc cal fair.|I'll give you a hint if you ever don't know what to do.
 Lo splendisceu dy paið an port closið ag strem dy colloir.|It shone from under a closed door at the end of the hallway.
 Le t'amau, e le sta voud den.|He loved you, and he was furious about it.
 Vusceu y quen sey raudessem com vos ayað ig declarað.|Let's hope the queen is as delighted as you said she'd be.
@@ -81,8 +81,8 @@ Pos un hom asmuth me dar vars l'assignað?|Could someone direct me to the person
 Toð masq ront a sull'inception con uncos exact equal: y vacil bre a dout.|Every blown cover begins with the exact same thing: the flicker of suspicion.
 Thomas poð casc veg oc veir a sell'eç ogl, un sclar apen, comoscon un foy allum l'iris d'un cat ne roum assombrið.|Thomas can always see it in their eyes, almost a flash, the way a cat's eyes catch the light in a dark room.
 Parveg Thomas se ren delicat aðief a scapar ag dalr doutous.|Sometimes Thomas can charm his way out of the pit of doubt.
-Autr veg, com l'oc noit, le saf luy valois raut fugr tostessem ant ancour l'occasion.|Other times, like tonight, he knows he should have bolted when he had the chance.
-Y vacil a se tramutað ne scoul, e degnant ig le beut sy douç explanation, eð ig le coul nell'aucoum deur vijon, ja saf le lo's tart demay.|The flicker has turned to a glare, and although he valiantly makes his excuses and slips away into the crowd, he knows it's already too late.
+Autr veg, com l'oc noit, le sa luy valois raut fugr tostessem ant ancour l'occasion.|Other times, like tonight, he knows he should have bolted when he had the chance.
+Y vacil a se tramutað ne scoul, e degnant ig le beut sy douç explanation, eð ig le coul nell'aucoum deur vijon, ja sa le lo's tart demay.|The flicker has turned to a glare, and although he valiantly makes his excuses and slips away into the crowd, he knows it's already too late.
 Corf son aucel reusant, noc confiabr com reilot.|Ravens are cunning birds, not as trustworthy as wrens.
 Jo figur tu a uncos dit tor captant; jo contende noc tan.|I imagine you said something interesting; I wasn't paying attention.
 Attendr a y perigl ac vos communeyar es enter inutr.|It's useless to try and get you to see how dangerous this is.
@@ -163,10 +163,10 @@ Y hautour ag monc surcont sull'un par test ben may.|The monk is a good head tall
 Accis par nimb aurfiað, l'a aer povr, humbr, bel – e prohibið.|Haloed in gold, he looks poor, humble, beautiful – and forbidden.
 Todor crey noc uncos attragndessem cossy jamay veir sy við enter.|Todor doesn't think he's ever seen anything so tempting in his life.
 Paravant no m'er nien tramis, ma my fraðr antir es oy mort.|I wouldn't inherit anything before, but now my elder brother is dead.
-Degnant ig cay noit la'r tout neir portant, ig inclus gant e capel.|Although it was night she wore all black, including her gloves and hat.
+Degnant ig cous noit la'r tout neir portant, ig inclus gant e capel.|Although it was night she wore all black, including her gloves and hat.
 Des y piscin smarc jo e la vey se pondr calm.|I get out of the pool and see her standing still.
 Nell'oc icon veyað mell'aldr a cost e mey entrig.|In this photo there's my parents on each side and me inbetween.
-Entrig cortal produis le'r ablegað soutan ag 1r Octobr 1768.|Court intrigue led to his sudden dismissal on October 1st 1768.
+Entrig cortal produis le fo ablegað soutan ag 1r Octobr 1768.|Court intrigue led to his sudden dismissal on October 1st 1768.
 Ricart zoum, lor mort y carn bou.|Richard hums, then bites into the steak.
 "Or, y cligs partenent.|"Now, about the church.
 Dig mey honest – cal pes tu de Fraðr Desmont?"|Tell me honestly – what do you think of Brother Desmond?"
@@ -197,7 +197,7 @@ Jo n'ay deja un segr cullighessem connuð.|I've not yet come across a stranger m
 Le's queint e polið; untal vel jo mariðar pront e direct!|He is charming and polite; I should marry such a man in a heartbeat!
 A cal bon un cognit lon masq?|What good is a disguise with no mask?
 Vos saveð deïr viker pondr a toll'oc majon des je Lun.|You know you'll have to steward the whole house from Monday.
-Jo sgardau vars l'Adriaç ne yaurt a noiç colorn pascent.|I looked out over the Adriatic eating hazelnut yoghurt.
+Jo sgardau vars l'Adriaç ne yaurt a nouç colorn pascent.|I looked out over the Adriatic eating hazelnut yoghurt.
 Slognað comoscon ig nos parvendreu allagr-vescoirn-ðe, jo vil te colluïr.|I will stay by your side, no matter how unlikely it is that we'll get our happy ending.
 Nos oyeu l'ig pas quinan e scanen y scagl tras port.|We could hear footsteps thumping up the stairs outside.
 Tonneðr crullau dessur cant Damian hasta vars y tarm vectoir.|Thunder clapped overhead as Damian hurried towards the bus stop.
@@ -237,7 +237,7 @@ Melle a Gaunt sta enter destegnt, ant collanç incoïbr de tarsc annonç e de co
 Y collanç de host dont bonjorn beudar e man bajar parisce incessant.|The flow of guests to greet and make nice to seemed without end.
 Y mort incoïbr dell'yam malvaç met fin ag trevold.|The evil uncle's inevitable death brings the book to a close.
 Le revelau e leu y tarsc cort; un scoul luy creu ag visaç.|He unfolded and read the short note, a scowl growing on his face.
-Parcanç sera megl vos ignoreð l'apprestment de bilrod.|Perhaps it is better you not know how billrod is prepared.
+Parcanç sera ottem vos ignoreð l'apprestment de bilrod.|Perhaps it is better you not know how billrod is prepared.
 Y magð soupirau.|She sighed.
 "L'am noc l'asmuth dell'ec autranç, nos derreu declarar.|"He doesn't like the way things are changing, and that's a fact.
 Le pogn tis toll'oc seyon connuð."|He's clinging to what he knows."
@@ -256,7 +256,7 @@ Ben Hasting."|Or Hastings."
 Desirað vos savir cal er jo faint, y moment la Godman fey sy picraug inutr poll'oç fest crevoscr?" L'attis alcun respos.|Do you want to know what I was doing, when Goodman was having a temper tantrum about the dinner party?" He didn't wait for an answer.
 "J'attene a camin trovar por ascurar ig Hasting yem aubon lon stant denuð sull'occisour meðes."|"I was trying to figure out how to make sure Hastings got through the night without killing himself."
 Par dezein (fin a 1411), Natagl e sy marið Joseph regnaurn a catr man.|For a decade (until 1411), Natalia ruled alongside her husband Joseph.
-Saf tu cascif tell'yam acceptau noc empley ag Minister por Famigl?|Do you know why your uncle didn't accept a job at the Ministry for Family?
+Sa tu cascif tell'yam acceptau noc empley ag Minister por Famigl?|Do you know why your uncle didn't accept a job at the Ministry for Family?
 Y grant segr portau un bevis 20⍚ de sachet e lo dau ag borser.|The tall man took out a 20⍚ note from his pocket and gave it to the cashier.
 Jo vusc ðe envoloirn noc y bourgmer all'oc delusion.|I wish they hadn't involved the mayor in this deception.
 Lorrell'ouçon remanent, parisc toð cas final, es l'oc administration e cultur fugr ag saluçon d'ig ðe aun tout oblatað deull'ec við.|So their remaining option, as it stands, is running from the very government and society that they have given everything but their lives to save.
@@ -279,9 +279,9 @@ Y lumner exiguous dell'Ors Majour vole bogr sy form connoscr par febiltað cant 
 Un manton a nuot – ben ploy meðes, y heloit survale tojorn y frescur – fos idone parfait, ma l'œcumen Aragonesc avant sta steðig pittoresq com ja.|Cloud cover – or even rain, the noise was always worth the chill – would have been ideal, but the Aragonese landscape before him was as stubbornly picturesque as ever.
 Ne bon mont l'oc hoir affauð pre y fest souscen.|This discontentment should fade before tomorrow's party.
 Ant verdur exiguous com manton, ploy a l'œcumen hamarr gravað.|With scant greenery for protection, rain has carved out the jagged landscape.
-Y rey a febiltað larc; tu saf le comfy fort demay sull'ec astuçour.|The king has many weaknesses; you know he trusts his advisors too much.
+Y rey a febiltað larc; tu sa le comfy fort demay sull'ec astuçour.|The king has many weaknesses; you know he trusts his advisors too much.
 Accaç campaner survale toð meyan actual de correspondr remot.|Steeplepost outclassed every other method of long-distance communication.
-Macaria Giosforo saf ig l'yembra noc y ferscip mattin pront la la sal y vec e respir nell'aer fum e mar de Weston, oc bourg commovent.|Macaria Giosforo knows she's missed the morning ferry the moment she steps off the veck and inhales the smoke-sea air of bustling Weston.
+Macaria Giosforo sa ig l'yembra noc y ferscip mattin pront la la sal y vec e respir nell'aer fum e mar de Weston, oc bourg commovent.|Macaria Giosforo knows she's missed the morning ferry the moment she steps off the veck and inhales the smoke-sea air of bustling Weston.
 Or, par vertað enter y ferscip nað ancour ne havan, ma l'eç rig de catoum e de souscrit e de "Carraçon sereð vos sojornant?" son voit dell'ec cogmaðer ne bonet e marcant ne tædium seyon vis normal.|Well – the ferry is technically still at port, but the queues for stamps and signatures and "What is the purpose of your trip?" are empty of the usual bonneted holidaymakers and bored businessmen.
 Lon dout, y vascel arra se deshormejað pre Sr Treman porra sy carc e masctig coglir.|No doubt they'll have unmoored before Mr Tremane can collect her luggage and ticket.
 "Crerreð vos nos meritau un hostel sur mar, Treman?"|"Do you suppose we merit a sea-front hotel, Tremane?"
@@ -291,8 +291,8 @@ Y heloit contondent no sta for un hom y port d'entranç crullant.|The pounding n
 L'oc solution effectuar in tesquo surcay mout defaglessem.|Implementing this solution is often more difficult in practice.
 Y joun rey vil jamay souscrit dar all'oc concort abhorrent.|The young king will never give his signature to this despicable treaty.
 Y havan aye aug calm, e sta profont a mar bas meðes.|The harbour was sheltered, and deep even at low tide.
-Matheu aye malaiç e calt tandic le mene y patrician Morracan tras y manoir assombrið.|Matthew felt queasy and hot as he led the Morrack gentleman through the darkened house.
-S'envount nell'oc conjuraçon no sta megl all'act por yon Sr Bocuz au luy menaçað descusion.|What he was doing now was no better than what Mr. Bocuz had threatened to expose him for.
+Matheu aye malais e calt tandic le mene y patrician Morracan tras y manoir assombrið.|Matthew felt queasy and hot as he led the Morrack gentleman through the darkened house.
+S'envount nell'oc conjuraçon no sta ottem all'act por yon Sr Bocuz au luy menaçað descusion.|What he was doing now was no better than what Mr. Bocuz had threatened to expose him for.
 Parcanç piour ja.|Perhaps even worse.
 Y quanga vel certan le desmettr ða l'aye catoum pront d'ig seyon appos tojorn, Matheu partenent – ma l'oc sey fort raçon aðief por ig le l'occy.|The quanga would surely sack him if he had proof in hand of what he'd always suspected about Mathew – but for this, he might very well murder him.
 Toð ig fis a cost, luy fale tan s'entrovar: er Gou Makei ne realtað y patrician attendent?|Besides that, there was the question of whether Lady Mackay was, in fact, expecting the gentleman.
@@ -308,7 +308,7 @@ Cos final, Tomaş trovau Andŗey asseyent sur picq tombr ag tarm dy bourg, y cie
 Y deskeðant sta l'ig l'aloud d'Andŗey se situa a sy cost a plaç d'a sy man.|The troubling thing was that Andŗey's lute was by his side instead of in his hands.
 Pre poðe Tomaş parolar, Andŗey tornau luy spiar, e la sta uncos pogntous e rendent tait ne sull'ogl.|Before Tomaş could speak, Andŗey turned to look at him, and there was something sharp and silencing in his eyes.
 Sou y fosc meðes, Tomaş n'aye alcun defy ne l'acier ag massoir d'Andŗey ben l'ort de sy menton veint.|Even in the darkness, Tomaş had no trouble seeing the steely set to Andŗey's jaw, the lift of his chin.
-"Jo crey deïr te digr ig jo's t'amoraçað," dis Andŗey, e con tan Tomaş forn condoit a l'eç pousson de sy cour rendr stabr, ðe luy scapaurn comoscon slançant.|"I think I ought to tell you that I'm in love with you," Andŗey said, and though Tomaş had been trained to steady the beating of his heart, he found it racing away from him.
+"Jo crey deïr te digr ig jo's t'amoraçað," dis Andŗey, e con tan Tomaş sta condoit a l'eç pousson de sy cour rendr stabr, ðe luy scapaurn comoscon slançant.|"I think I ought to tell you that I'm in love with you," Andŗey said, and though Tomaş had been trained to steady the beating of his heart, he found it racing away from him.
 "Me compt noc ða scey un part de tey, oc y bempart usant meðes, ancour Alexia amant; saivað ig j'ay my gant jait dessou.|"It doesn't matter to me if part of you, even most of you, still loves Alexia; know that my gauntlet is cast.
 Ða jamay te dis jo noc ig mell'auror e mell'occas son y tien, jo sceus noc me pardonnar."|If I never told you that my sun rises and sets with you, I should never forgive myself."
 Y descusion de vossell'yam porra noc pardon cavir tan fagl.|Your uncle's betrayal cannot be so easily forgiven.
@@ -318,7 +318,7 @@ Mas nien den, jo pieð!|Don't make a fuss about it, please!
 Tras port oye jo un hom harp ben aloud crullant.|Outside I could hear someone playing a harp or a lute.
 Y Colluïsc Aquarian vendoy pelur sou patronisment de Martin IV.|The Aquarian Guild sold fur under the patronage of Martin IV.
 Pre decidr, vos pouð y tarn me loitar.|Before you decide, you can rent out the pub to me.
-Y nouç casel, nommað tan y nux, er primer mis a regest annað 1713, posc bre y descovart toð recostroint all'heir Arnoutzen de við unicasel.|The case kernel or the nux was first documented in 1713, shortly after the younger Arnoutzen's revolutionary discovery of one-case life.
+Y nouç casel, nommað tan y nux, fo primer mis a regest annað 1713, posc bre y descovart toð recostroint all'heir Arnoutzen de við unicasel.|The case kernel or the nux was first documented in 1713, shortly after the younger Arnoutzen's revolutionary discovery of one-case life.
 Nell'eç diagram a sull'aïðour, y Lithovan Marion Hartman (cos frequentessem connuð com fin portant dy Var Russian poll'Austmar), nos veim casel vegetal—plausibr ugnlac sauvaç—stikettað cascun con "punctulus", ben picq pognt.|In the diagrams of his assistant, the Lithowan Marion Hartman (more commonly known for helping to end the Russian War for the Graven), we can see plant cases—probably from the wild onion—each labelled with "punctulus", or little dot.
 Cossy y nouç casel es y preu edifiç soucasel stant descovart.|This makes the kernel the first subcase construct to be discovered.
 La no's largeç a collocq sur y nouç casel jusc y paç lonc ag fin dy siecr ogtoç, parlocað dy Decadenç Belgradian eð y Deshormejanç Mendevan.|There is little discussion of the kernel until the long peace at the end of the eighteenth century, amidst the Decadence of Belgrade and the Mendevan Unmooring.
@@ -374,11 +374,11 @@ Cos retenuð au Leonta y nom Erculaneo triað, sou motif ig la'r alchemy studian
 L'edition dy zetr scandalous Darchild akirtau Cant n'insorgenç.|Publishing the scandalous Darchild memo sparked unrest in Kent.
 Y preu facsimilation d'un heredtatur human enter fo ne prinvir 1969.|The first time a human genome was copied in entirety was in spring 1969.
 Val nos landreu y ferið e soulor mettreu un pommat contr zoia dessur.|We should wash the wound and then apply an anti-bacterial salve to it.
-Y megl quignou d'armað cavibr nell'oc bourg vien de Cas Pamfey.|The best worker's pie you can get in this town comes from Pamfey's.
+L'ottem quignou d'armað cavibr nell'oc bourg vien de Cas Pamfey.|The best worker's pie you can get in this town comes from Pamfey's.
 Y vertað suraðoint fos ig, digr y vesteul ag davarn sta stivað.|It would have been an exaggeration to say that the hotel's lobby was crowded.
 Nentamen, Zoe Pentros descovroy la poðe noc s'asseïr for ne s'addant a plaç mi dy convoc actif d'un hom la ben dy soltum affloisað d'un autr.|Nonetheless, Zoë Pentross found she couldn't take a seat without inserting herself into someone's lively conversation or another's relaxed solitude.
 A loy la tene pos, appenent sur y pladisc, cla portant ne man scert e vin Empordan (bon cos ajoutant) ne man distr.|Instead she remained standing at the bar, keys in her left hand and a gratifyingly-good Empordan wine in her right.
-"Soð vos ac por l'avent dy Rey novel a Nadacou veir?" Un segr haut e slanc colluïsc Zoe sur y pladisc, remplisc peðent all'hontarn con saluð.|"Are you here to see the new King arrive in Nadacou?" A tall, slender man joined Zoe at the bar, signalling the tender for a refill.
+"Soð vos ac por l'avent dy novel Rey a Nadacou veir?" Un segr haut e slanc colluïsc Zoe sur y pladisc, remplisc peðent all'hontarn con saluð.|"Are you here to see the new King arrive in Nadacou?" A tall, slender man joined Zoe at the bar, signalling the tender for a refill.
 Carraçon caveu le raug cant vos lo svoccau?|Why did he get angry when you brought it up?
 Nos poum noc y gra suraðoir dell'oc combat.|We cannot overstate the importance of this battle.
 Nos n'eu redon aðief por semman passar n'untal davarn.|We don't have enough money on hand to stay in a hotel like that.
@@ -391,13 +391,13 @@ Y novel rey Andre II ant ment martial, stant nevoð ag rey derran, n'au alcun dy
 Le relançau y Rix Mallor con gazou sur Carvantel ne prinvir 1301 N, l'abbaðy Sant Brigid original incendiað enter durant.|He restarted the Mallor Wars with the Sack of Car Vantel (Rexam) in 1301 N, during which the original St. Brigid's Abbey burnt to the ground.
 Rey Aðelouf soloy y var contr y cantesc por sy sou-nobr ajoutar.|King Athelwolf declared war on the Kentish to gratify the noble families.
 Y preu havan y nogt passað la ne tar brittesc es Iscom, a Dorogn.|The first British harbour we'll spend the night at is Iscom in Devon.
-Posc pieç minut er y sar remorcað des y mar torvant.|After a few minutes the net was pulled out of the troubled sea.
+Posc pieç minut fo y sar remorcað des y mar torvant.|After a few minutes the net was pulled out of the troubled sea.
 All'yent de May Connagt sta prest a var souvr.|By the beginning of May Connaught was ready to declare war.
 Parcanç es lo temerer, y decadenç a trevogt blasmar unic ag morostað n'Europ posc y var.|It is perhaps foolhardy to attribute the decline of Voidtale trevolds solely to the gloom of post-war Europe.
 Nos posseu tan digr, parmig, l'idea de novel œcumen splorar e de novel cultur encontrar n'au plu attragnt; l'ovartur caddicivenean laiscau pog "tar enigmatic" por descovrir,|We might say, for example, that the idea of exploring new lands and meeting new civilisations had lost its shine, with the opening of Caddicivene leaving few "mysterious lands" to discover,
 eð y sar campaner defassant parmis a gent ne toð loy de communeyar cos veloç fort may (particuler, apprendr ig politia lontan stan magn ordineressem a sy figuration!)|and the developing steeple-mesh allowing people everywhere to communicate far more rapidly (in particular, to discover that distant nations were often much less exotic than one imagined!).
 Toð cas final, romanç parachthon partenent, y dezein milloy dy siecr novoç sta untal nazir.|In any case, when it comes to parachthon romance, the middle of the nineteenth century was somewhat of a nadir.
-Posc meðes au Europ parsan fait e fo l'abondanç general dell'eç annað Atelier soluð grant, y form er destarrið pall'ort de stoir masquira.|Even once Europe had recovered and the general prosperity of the Workshop decades had truly got going, the genre was displaced by the rise of masquira fiction.
+Posc meðes au Europ parsan fait e fo l'abondanç general dell'eç annað Atelier soluð grant, y form fo destarrið pall'ort de stoir masquira.|Even once Europe had recovered and the general prosperity of the Workshop decades had truly got going, the genre was displaced by the rise of masquira fiction.
 L'eç Nou Provençal son connuð par lorry pantort a dromig.|The New Provincials are known for their blackberry pies.
 Vossy preu stauron es cavibr n'un dy sanatoir a Ausbagn.|You can get your first IUD from one of the Ausbagn clinics.
 J'am noc y plurem raðar a Ausçagm; la son tombr demay.|I don't for the most part like cycling in Ausçagm; it's too hilly.
@@ -406,13 +406,13 @@ Durant y siecr catorç ençau nos a normalisation real parcevir dy model mitað-
 Y Reyaum a Boral dell'oc hour triant parmig, Lyce Noccair addoceu sy studiant nell'ec Cinq Art Romannesc.|For example, in the Kingdom of Borland at this time, Noccair Lyceum taught its students the Five Romantic Arts.
 L'ec stan de natur l'art prosequent dy set domain classic a studiar (e fort ern ðe tan connuð contemporane par nom d'art classic ben liberal).|These were in essence the descendants of the seven Classical areas of study (and indeed they were also known at the time as the Classical or liberal arts).
 Y Cinq Art ern Literatur, Argument, Accont, Geometry e Music.|The Five Arts were Literature, Argument, Reckoning, Geometry and Songcraft.
-Ag commet dy siecr cinqueç diminoy l'oc model cos gradual; facultað nombrous addau souject novel, ig inclus histoir, lengaç eð alchemy.|The start of the fifteenth century saw the gradual decline of this system, with various institutions introducing new subjects, such as history, languages and alchemy.
+Ag commet dy siecr cinqueç diminoy l'oc model cos gradual; facultað nombrous addau novel souject, ig inclus histoir, lengaç eð alchemy.|The start of the fifteenth century saw the gradual decline of this system, with various institutions introducing new subjects, such as history, languages and alchemy.
 Y parol sur y delt stan febr demay; jo poðe noc lou leir.|The writing on the tablet was too faded for me to read.
 Sell'abiltað ne clavir es gran aðief por prosequent fair, e bogr tan may.|His keyboard-playing ability is good enough to accompany, and no better.
 Lorry pas faus triant parmig, cossireð y Semman a Tonneðr.|As an example of what they did wrong, consider the Week of Thunder.
 J'oyeu l'oç connart fatuous rompoy trey dois n'un monð.|I heard that clumsy idiot broke three tachs in one month.
 Diabr sta le feliç a se trovar ac, ða meðes oy passau le jorn sou perigl d'applatiscenç par col livr.|He was damned lucky to be here, even if he now lived in danger of being crushed by a book landslide.
-Arthur fo vas ag var ogtoç eld, e fo reluð posc nouf annað descovrent le sta l'ivan extrane d'un famigl lon gravitað mendrem.|Arthur had gone to war at eighteen, and come back nine years later to find himself the extraneous child of a family of little import.
+Arthur fo eut ag var ogtoç eld, e fo reluð posc nouf annað descovrent le sta l'ivan extrane d'un famigl lon gravitað mendrem.|Arthur had gone to war at eighteen, and come back nine years later to find himself the extraneous child of a family of little import.
 Sur mar ben ne Madray er le vis com cim forgað, un ven dont slança experiç vocationner cordamn fruyant e tout souvant.|At sea or in Madray he'd been a forged expert, a wellspring of professional expertise who knew the ropes and had seen it all.
 Cas luy a Carvantel, le fo denuð ancour joun segr, hom a pog addoçment eð a alcun histoir empley.|Back in Carvantel he'd become a young man again, one with little training and no experience.
 Pre y var un atelier carpenter au le benoçað un apprendent, ma l'oç parisce remotessem a jouneç.|He'd been apprenticed to a carpenter's shop before the war, but that felt like a lifetime ago.
@@ -478,13 +478,13 @@ Yorvic ne siecr deg denoy mojol commarç poll'eiðel dannesc.|Tenth-century York
 Implausibr sta l'oc amigtað entr soldart e sodal dy cort a Rey David.|This friendship of a soldier and a member of King David's court was unlikely.
 Alor deum nos raccular, dec l'enmig nos prepondra.|Then we had to retreat as the enemy outnumbered us.
 Ðe porraun bogr y manouvr paregl repeðir souscen.|They can hardly just try the same manœuvre again tomorrow.
-"Soð vos ac por l'avent dy Rey novel a Nadacou veir?" Un hom haut e slanc colluïsc Zoe sur y pladisc, remplisc peðent all'hontarn con saluð.|"Are you here to see the new King arrive in Nadacou?" A tall, slender man joins Zoe at the bar, signalling the tender for a refill.
+"Soð vos ac por l'avent dy novel Rey a Nadacou veir?" Un hom haut e slanc colluïsc Zoe sur y pladisc, remplisc peðent all'hontarn con saluð.|"Are you here to see the new King arrive in Nadacou?" A tall, slender man joins Zoe at the bar, signalling the tender for a refill.
 "Noc ig Sy Nobiltað veir, per se," demorau Zoe, se sarvent dell'occasion por tornar avars e sy novel soiç sgardar fort.|"Not to see His Grace, per se," Zoe demurs, taking the opportunity to turn and look properly at her new companion.
 Cavel fosc e coutrað cort; oc no stant usual parmy gent ant lonc caðen ancestral veunt proism, ma dy tegnt visacer val le pesar noc enter foran.|Dark hair, closely-shorn—not typical among those with long family ties in the area, though his complexion suggested he wasn't entirely foreign.
 "O, clar comoscon!" Y soury prolongant tras y visaç dy segr es delicat e curious.|"Ah, of course!" The smile that spreads across the man's face is charming and curious.
 Un hom raut par enigma, parcanç, ben toð cas oc volent lo supportar por gra de collocq.|Someone delighted at mystery, perhaps, or at least someone willing to humour it for the sake of conversation.
 "Vos conjuraçonnað se pondr sull'un rout deur nossy tragres souscen, j'appon?"|"You plan to stand one street over from tomorrow's parade, I take it?"
-Y majon mandaðer borallesc no'r reitfiað pre siecr ogtoç.|The location of the Borlish legislative building was not fixed until the eighteenth century.
+Y majon mandaðer borallesc no sta reitfiað pre siecr ogtoç.|The location of the Borlish legislative building was not fixed until the eighteenth century.
 Trou mey un voutaç possent mell'heir sanar.|Find me a witch who can cure my son.
 L'ec jammel se crein y mont aðief por ty cognit noc doutar un moment.|The twins think so highly of themselves that they won't doubt your cover for an instant.
 Jo spiau ty femn beint auvorn ag tarn floy.|I saw your wife drinking copiously at the riverside pub.
@@ -519,7 +519,7 @@ Nos vism dou segr entrar ny varous dereðr.|We saw two men enter the shop across
 Ðe voun noc un coval d'untal stemn haut antal preç bas!|They won't sell a horse with such a good pedigree at such a low price!
 Challow Jankin asseyeu ne soupirant.|Challow Jankin sat down with a sigh.
 Le'r toð cas yent a un caðer cavir.|He had, at least, managed to find a seat.
-Y period trevagl novel seyon triað luy surcaye missiblessem – un commet eð un fin tostessem y dou stan y camin afaç raçonnabr.|His new hours were working out better for him – an earlier start with an earlier finish was the sensible way forward.
+Y novel period trevagl seyon triað luy surcaye missiblessem – un commet eð un fin tostessem y dou stan y camin afaç raçonnabr.|His new hours were working out better for him – an earlier start with an earlier finish was the sensible way forward.
 All'hour sey poðe le tojorn apen un caðer ag Soutar se promettr, ða meðes l'oc se situa nell'eç boncop.|At six he could almost always guarantee a seat on the Dusker, even if it was in the coppers.
 Certan un hour surrun vole le se habituar a sveilar tost diabr sou y ciel gris-aur a Tommarth e pre un trot freit e soltumesc vars y termin Kibbrogh.|Surely at some point he would get used to waking up morbidly early to the grey-gold Tommarth sky and a chilly, lonely walk to the Kibbrogh stop.
 Challow appis ados e tirau des sy croun sell'ardois; la sta dey minut seyon usabr pre ðe parvenois Cathedral.|Challow leant back and reached into his pocket for his slate; he had ten minutes to waste before they'd pull in at Cathedral.
@@ -593,7 +593,7 @@ Lizabet Jarry tras a caf bas y port façad all'edifiç Portrait Jorn Ovrað, por
 L'oc vent fo equal ingraçant ag cavel; l'atten a se rendr coglt coll'un man, sy caffay e tarsc annonç e valigs jonglant coll'autr.|It's been equally merciless with her hair; she attempts to make herself presentable with one hand, juggling her coffee and namecard and suitcase with the other.
 N'agent cossy la quin apen test a test ag majortað dy scavour, ec ayent se raðunað atorn y veil fontan ne mamour a plaç mi dy vesteul.|In the process she almost runs headlong into most of the scratchers, who have gathered around the old marble fountain in the hall.
 Maud l'approism des cost, Lombard movent apart con spagl.|Maud sidles up beside her, shouldering Lombard out of the way.
-"Jo saif ig l'ec te definisc y total, ma tu va noc yembr tart casc aubon," dig la, y caffay a Lizabet volant.|"I know it's all part of your thing, but you don't have to be late every morning," she says, stealing Lizabé's coffee.
+"Jo say ig l'ec te definisc y total, ma tu va noc yembr tart casc aubon," dig la, y caffay a Lizabet volant.|"I know it's all part of your thing, but you don't have to be late every morning," she says, stealing Lizabé's coffee.
 "J'ignorau my lugclocq."|"I slept through my alarm."
 Certan dell'eç febiltað de Lizabet son luïð, ma sy mal gournanç d'hour es enter real; sy gyr cottidian n'a jamay hast pareïð coll'eç dell'autr ny mont.|Some of Lizabé's foibles are an act, but the poor timekeeping is entirely natural; her internal clock has never fallen into sync with the rest of the world.
 "Cal cainç es avenent?"|"What's going on?"
@@ -638,13 +638,13 @@ Pos jo scaumel t'emprontar? Mell'un es repars.|Could I borrow one of your pens? 
 Por sgart laðessem, Ausbagn ag siecr docem ados fay veraçter cort dy Jarlað Sothbaran; a 1190 saut es Jarl Steign asseye l'annað enter ag bourg coster, y majon veil a Heitriç tramettent ag fraðr jundr.|For context, the Ausbagn of the late twelfth century is the de facto seat of the County of Sothbar; by 1190 Count Steven is known to have resided year-round in the coastal town, bequeathing the old house in Heitriç to his younger brother.
 Ausbagn se situant all'un cost dy Stuer Rustig surcou ant valour eðegler immens, cos militer e marcer y dou.|The location of Ausbagn on one side of the Rustigh Strait proved to be of immense strategic value, both militarily and economically.
 Y Gran Delug Fly ne 1171 landau y largeç de Frigs Bas apart, e devastau Willemy enter.|The Great Flie Flood of 1171 swept away much of Lower Frisia, and was devastating for all of Willemy.
-L'oc no sta mendrem dec y Duc, luy Lovis y Haut, sta n'Amstel ig moment, eð er occis par y delug.|This was not least because the Duke, one Lovis the Tall, was in Amstel at the time, and was killed in the deluge.
+L'oc no sta mendrem dec y Duc, luy Lovis y Haut, sta n'Amstel ig moment, eð fo occis par y delug.|This was not least because the Duke, one Lovis the Tall, was in Amstel at the time, and was killed in the deluge.
 Toð cas final, Ausbagn sta dezein plusour apres l'ouçon fagl de havan por y marcant calscon najant des l'eðegl dannesc tras y domain drengoçan vars Spagn e l'aur dy Miterran.|In any case, Ausbagn was for several decades afterward the obvious choice of harbour for any trader moving from the Danish lands through the Drengot domain and onward to Spain and the riches of the Middlesea.
-Y tablaur a my maðr er cargað haut de regest e delt facsimile.|My mother's worktable was piled with papers and tablet reproductions.
+Y tablaur a my maðr sta cargað haut de regest e delt facsimile.|My mother's worktable was piled with papers and tablet reproductions.
 L'instroyour au un sboc y fascandessem.|The teacher had the most annoying smirk.
 Nos attenm y rasgatto dell'annað ant untal avidtað.|We await the year's conclusion with such eagerness.
 L'oc delt trey mil annað eld surcas enombr a issent de vatr.|This three-thousand-year-old tablet turned out to be a list of values of sine.
-L'aðendr a tarm vec forn eut doutr posc y rout novel ovroy.|The bus stops' schedules were obsoleted by the new road.
+L'aðendr a tarm vec forn eut doutr posc y novel rout ovroy.|The bus stops' schedules were obsoleted by the new road.
 Tramou aun tagl eð asmuth y dou.|A vector has both size and direction.
 Cal porra balanç intermanir ag tramou ny porçonment?|How will we make up for the budget shortfall?
 Cascif parmist vos coronc remainn e lou blasmaust noc?|Why did you permit pretenders to remain without censure?
@@ -660,7 +660,7 @@ Dur sta savir ða l'au y festeul kiglað ben scap fait den.|It was hard to say i
 Sot es toscivr acatar sec lon bouðr ben queimasc.|It's silly to buy a sandwich dry without butter or cream cheese.
 Alcot y bel nau, tu pos ja traiçon me dar.|Whatever you say, you might yet betray me.
 Ðe amn queldar tras port candon cay bel.|They like to dine outside when it's fine out.
-Ðe ern armað a pont costroir enter ne far jout.|They were tasked with building a bridge of cast iron alone.
+Ðe stan armað a pont costroir enter ne far jout.|They were tasked with building a bridge of cast iron alone.
 La dis se pondr voud a me rajondr candon y dou vendraun nos sautellar.|She said that she was looking forward to seeing me when they next come to visit.
 E la souscris con nau d'amour.|And she signed off with love.
 Vanna sors de sy caðer, aulau reðr Marin atorn, e luy mis y man sur y spal, lou pognant.|Vanna got up from his chair, walked round behind Marin, and put his hands on his shoulders, gripping them.
@@ -710,7 +710,7 @@ Ny vesteul polið lontanessem la stan—|Further down the polished vestibule wer
 Un fenestr titan ant un vogt fosc doutr.|An enormous window with dark, empty space beyond it.
 Sauf ig vertaðer lo no sta fosc, noc enter.|Except it wasn't dark, not quite.
 Lo relusern tan mil a stel.|It was lit by thousands of stars.
-Jarry accendað dan aer cordial ag salon.|Pottery lamps gave the parlour a welcoming feel.
+Jarry accis dan aer cordial ag salon.|Pottery lamps gave the parlour a welcoming feel.
 "Ja," acquïsceu l'ansc, movent por sy nucq frottar.|"Fine," the angel acquiesces, reaching to rub the back of his neck.
 "Ja, cal es ig meyon deut fair?"|"Fine, what should I do?"
 Cos final le's pesant a l'oc Creation gournar luy meðes; ma ac tan le's commant carnt, sorc dant a Bologin con—uncos autr.|At last he's thinking of enforcing his own control of this Creation; even then he looks for orders, which is concerning and—something else.
@@ -728,7 +728,7 @@ Y cambr hur noscon dað avars stan bolegs e capaç.|The rooms that we rented wer
 Cal voun ðe por lorrell'erraç idoneïsar?|What will they do to fix their mistakes?
 Eð hour alcot es caint y storcment?|And for how long has the blackmail been going on?
 "Façau follanç all'area fruy pre un douçur cascun triar ou?" dis Benjamin.|"Let's take a spin on the dance floor before dessert, shall we?" Benjamin said.
-Luy e Martha aurn toð y desc delið, e futil enter sta y residu dy collocq attendr a prolongar—lonc y bustr ig, y concið de Lucas parisce cos implausibr s'accommettr megl a sell'un.|He and Martha had cleared their plates, and there was no point prolonging what remained of the conversation—in that respect Lucas' date seemed impossibly to be going better than his.
+Luy e Martha aurn toð y desc delið, e futil enter sta y residu dy collocq attendr a prolongar—lonc y bustr ig, y concið de Lucas parisce cos implausibr s'accommettr ottem a sell'un.|He and Martha had cleared their plates, and there was no point prolonging what remained of the conversation—in that respect Lucas' date seemed impossibly to be going better than his.
 Yvet sta toð cas sona luyent de cur dar ag monolog de Lucas.|Yvette was at least pretending to pay attention to Lucas' monologue.
 Martha accordau, stant clar yent an conclujon cosvour.|Martha agreed, having clearly come to a similar conclusion.
 Le souprenent, y domn surcou fort fruyour, ant pas leger e gournanç d'hour scur.|To his surprise, she proved a good dancer, with light steps and a good sense of timing.
@@ -751,7 +751,7 @@ Y gent n'Ausçagm smoutaurn desig l'occijon.|The Ausçagm public rioted because 
 Sell'amig er l'œcumen sovemblant cant nos pascau.|His friend was sketching the surroundings as we ate.
 Alcun hom au y lamp fornið con zygom.|No-one had installed a switch for the light.
 Y mençon ig remaneus un Empir Theudesc fo sevelið ne grauf jos y cadavr dy preu Reyaum Saxon, l'eiðel y dynasty Hogbrocken appartenent stant diminoit vars lorrell'eðegl fondominal amont ne Lepzi e Magdebourg.|The fiction of a surviving German Empire was laid to rest with the corpse of the first Kingdom of Saxony, with the domain of the Hoghbrocken dynasty reduced to their core lands upstream in Lepzi and Magdeburg.
-Y nou-redoit Marcgrau Baldr de Saxony, temporane no stant for catr annað eld, cou cos comprensibr par megl manouvr dy Stadbund smargent.|The newly-reduced Margrave Baldur of Saxony, being only 4 years old at the time, was understandably outmanœuvred by the nascent Stadbund.
+Y nou-redoit Marcgrau Baldr de Saxony, temporane no stant for catr annað eld, cou cos comprensibr par ottem manouvr dy Stadbund smargent.|The newly-reduced Margrave Baldur of Saxony, being only 4 years old at the time, was understandably outmanœuvred by the nascent Stadbund.
 Ma l'eç polity-colluy nommað com y Stadbund, y Samslutning ben y Collijon Norðer cascun (nos veim usual ne scaunç latin collisio theodisc) creurn noc, lon digr, ex nihilo all'aubon dy siecr catorç.|But the guild-states known variously as the Stadbund, the Samslutning or the North Collision (we see in Latin documents usually collisio theodisc) did not, of course, appear fully-formed at the dawn of the fourteenth century.
 Nos poum y racin de concort entr citað deut, peðaç eð autr parsoument coyençant furtivir jusc y siecr doç tost.|We can trace the roots of intercivic contracts restricting tariffs, tolls and other fees back to the early twelfth century.
 Jo sta spait demay a porsief luy fair.|I was too scared to run after her.
@@ -764,11 +764,11 @@ Situað amont (deg meco atorn derim tras y Fastig Camboscung deur y veðerrem tr
 Saveð vos cal praxitel gravau y Macchine di Helio?|Do you know which sculptor carved the Machines of Helios?
 Y gant distr a my gamma ayen un deðal pagnt ig.|My grandma's right glove had a thimble built-in.
 J'er pol frigsant je ados cas mey.|I was frying chicken at home yesterday.
-Noc obstroint le'r fait pog martial de character, Andreu ant sy ment indeslocabr a jainç e sepostion nonscalent vars tact naðeu vole dar ig jo fos incaint a carceration souvar entr y mur dy Castel Safford lon tarm, ben fin a le sceus me benoçar megl.|Though he was not particularly martial-minded, Andrew's uncompromising tactical nous and cavalier disregard for simple diplomacy meant I would likely languish as a prisoner at Safford Castle indefinitely, or until he could put me to some better use.
+Noc obstroint le sta fait pog martial de character, Andreu ant sy ment indeslocabr a jainç e sepostion nonscalent vars tact naðeu vole dar ig jo fos incaint a carceration souvar entr y mur dy Castel Safford lon tarm, ben fin a le sceus me benoçar ottem.|Though he was not particularly martial-minded, Andrew's uncompromising tactical nous and cavalier disregard for simple diplomacy meant I would likely languish as a prisoner at Safford Castle indefinitely, or until he could put me to some better use.
 Val pog; y cambr sta calt cos bel degnant y morostað de janver tras port, ant un foy kirtant eudæmon sou tapeçment lonc un victoir markesc ancour descreint—j'appone—tandy y pardastr afont no sta bogr discernibr.|No matter; the room was warm despite the January gloom outside, a merrily-crackling fire under a long tapestry depicting—I assumed—another Markish victory, though it was anyone's guess against whom.
 Ag mur atras, jo saveu des y clartað dell'eç quarrel ig ðe forn cos recent affis all'oc ans veil, accas plausibr ne carganç des y hal dy praxitel bavarn.|On the other wall, the clarity of the panes suggested they were a recent addition to this old wing, possibly commissioned from the Bavarn masters.
 Allors aye jo plusour fenestr parceut y veðr zajadau dy siecr derran tenent tojorn, un vert obægr surcaint just inequivalibr par y lumner a tijon.|Elsewhere I had noticed many windows still held the jackdaw glass of the previous century, in a sickly green that could not quite be offset with torchlight.
-Nossy majon er costroit sur rout nacleu.|Our house was built on a sloping street.
+Nossy majon sta costroit sur rout nacleu.|Our house was built on a sloping street.
 L'ec bojay ne voncir acataust vos ou?|Was it you who bought these beeswax candles?
 Y fraðr dou eurn cosogr com zachet.|The two brothers stuck together like glue.
 POR SONDAÇ: Zaquesc Select poll'Avegl Felaver, par Axel fi Magno|IN REVIEW: Selected Refreshments for the Social Bee, by Axel fi Magno
@@ -778,7 +778,7 @@ Vray fos jo my deut fugnt ða jo n'aus certan dell'ec method attis a cogr com me
 Nos flannaum pall'yarç colloir ant yeðrot parlocant.|We ambled down the pergola with ivy all around us.
 Cu a l'oc ugnlac vorpal laiscað jos ty panner?|Who's left this diced onion next to the breadbin?
 Vossy neuç cant d'un kyriel infalagover.|Your niece has an impressive singing range.
-Appos tant—Amigòt degnau noc nos sarvir par un chronic mantenent—es ig sy regn durau ogtoç annað por sceus Menton garantir sy hereter triað vole soutien pres unanim recevir dy Concert, l'edifiç de legifiçour provençal ant form emprontað dell'oc veneçan.|It is also supposed—Amigòt did not do us the service of keeping a chronicle—that his rule lasted eighteen years to allow Menton to ensure his chosen successor enjoyed near-unanimous support of the Concert, the Provincial legislative house modelled after the Venetians'.
+Appos tant—Amigòt degnau noc nos sarvir par un chronic mantenent—es ig sy regn durau ogtoç annað por sceus Menton garantir sy heriter triað vole soutien pres unanim recevir dy Concert, l'edifiç de legifiçour provençal ant form emprontað dell'oc veneçan.|It is also supposed—Amigòt did not do us the service of keeping a chronicle—that his rule lasted eighteen years to allow Menton to ensure his chosen successor enjoyed near-unanimous support of the Concert, the Provincial legislative house modelled after the Venetians'.
 Sell'ouçon faïð Raimond Aurellex, ayent sy sour y jundressem mariðað e dont y fraðr Lohis fo mort cant le fey caf poll'assaut ag Battagl de Satillew, perisceu d'un mescanç caucer ne 1511 (eð y recordation commun noc obstroint, l'oc cainç particuler sta cos implausibr occijon).|His first choice Raimond Aurellex, who had married his youngest sister and whose brother Lohis had died leading the charge at the Battle of Satillew, died in a hunting accident in 1511 (and despite the popular understanding, this particular incident was likely not an assassination).
 Toð case final, y Concert eligeu y cosvour de Menton, Antoin Amigòt, por y Concert gournar sou y cur glacent e giðanç martial de daus Sanz, Daniel Menton sell'influyenç issarnt lon dout apar magn posc le soloy ombisc cos nominal.|In the end, the Concert elected Menton's cousin Antoin Amigòt to lead the Concert under the close attention and martial guidance of daus Sanz, through whom Daniel Menton doubtless exercised his influence long after his nominal stepping down.
 Jo no sta jamay sviðour de fic.|I've never been a fan of figs.
@@ -828,14 +828,14 @@ Me val noc entrar desig mell'azig hortumesc.|I shouldn't come in because of my f
 Y tarn noscon eut ig sarf bier a groglon.|The pub we go to has beer on tap.
 Nos coum tout eurað par un grand jolleistr.|We all got drunk during a big night out.
 Nos reveneu all'avent de dysentry pennackit n'Europ e cos particuler n'Albion.|We return to the arrival of pennackit dysentery to Europe and in particular to Albion.
-L'oc zoia pathophoric destegnt pennackit dant sta certan comtað ne Hind hamtant par eç siecr (defagl es ec accont primal connoscr different d'autr malais dysentresc, ma scein fardiment ig y mort de Rey Rahoulamathavan a Madray l'an 1735 e plusour irrouçon ne Scin tras y derran siecr avenoy desig l'oc malais),|The particular pathophoric zoia that causes pennackit had been established in parts of India for centuries (early reports are difficult to distinguish from other dysenteric ailments, but the death of King Rahulamathavan of Madray in 1735 and several outbreaks in China over the preceding century are suspected to be of the disease),
+L'oc zoia pathophoric destegnt pennackit dant er certan comtað ne Hind hamtant par eç siecr (defagl es ec accont primal connoscr different d'autr malais dysentresc, ma scein fardiment ig y mort de Rey Rahoulamathavan a Madray l'an 1735 e plusour irrouçon ne Scin tras y derran siecr avenoy desig l'oc malais),|The particular pathophoric zoia that causes pennackit had been established in parts of India for centuries (early reports are difficult to distinguish from other dysenteric ailments, but the death of King Rahulamathavan of Madray in 1735 and several outbreaks in China over the preceding century are suspected to be of the disease),
 ma respanment mondial nole ençar pre 1753, ny souc dell'eç Rix Democratic eð y deslocation cohernt de gent.|but global spread would not begin until 1753, in the aftermath of the Democratic Wars and the concomitant movement of peoples.
 Par meyan de vascel marcander e de soldart, lonc l'eç flou a Pers eð ag Rusc, y zoia fey passaç incoïbr cant l'eu vars occas.|Via merchant ships and via troops, along the rivers of Persia and the Russias, the zoia made inexorable progress on its way westward.
 Vos gimmoloist a remanir ne cognit.|You worked hard to keep your covers.
 Laisc ty vesson e met tey ne quil!|Take off your clothes and get in bed!
 Jo n'ay tag beut par monð, ja galað.|I haven't had tea in months, come to that.
 Sengr a comparaçon sta y repasc cocinað par Gevel e Mothe pre Ludric fo repaðrið—lagç a lign con saus mentagler e leum.|The meal was a relatively simple one prepared by Gevel and Tim before Ludrick got home—stringlace with mince sauce and greens.
-Y pan fo un pog bruslað atorn dell'orlaç ma y ligt gostan fort aðief por engollisc farvent valir, cos particuler posc untal jorn commovent.|The bread was a little crispy on the edges but the rest was tasty enough to be worth scarfing down, especially after such an active day.
+Y pan sta un pog bruslað atorn dell'orlaç ma y ligt gostan fort aðief por engollisc farvent valir, cos particuler posc untal jorn commovent.|The bread was a little crispy on the edges but the rest was tasty enough to be worth scarfing down, especially after such an active day.
 Caye tan cæros prestabr yon vole Ludric toð novel de sy figl yembr.|It was also a great opportunity for Ludrick to catch up with his children.
 "J'oy tu a un religion minour soluð," dis Ludric ag veðerrem dy figl.|"I hear you’ve started a minor religion," Ludrick said to his middle child.
 Gevel se dau scoul e gembondau cant sy fraðr fragns a ricottanç gesper.|Gevel pulled a face and groaned as her brother burst into breathless laughter.
@@ -884,10 +884,10 @@ Posc y campaner aerian jognsern y stuer (l'eç oseir entrpos recas for candon ca
 J'ay un desc farrago nos cogt.|I've cooked us some hash.
 Jo traseu y cogn un rað illabond portant.|I went round the corner carrying a fold-up bike.
 Jo vos lau ag treu dell'eç xiphar.|I commend you on the loyalty of the henchmen.
-Vin eð autr beçon yeustað stan reconnuð com matier possent contamen coïr des y Mitað-Asc, e lembic cadarað denent cavibr generallessem ny siecr seç parmette a Arnoutszen de lo rannuðar durant sy gran homily sur curaçon.|Wine and other fermented drinks had been noted as a preventative of infection since the medieval period, and the wider availability of distilled lembick in the sixteenth century allowed Arnoutszen to recommend it in his great treatise.
+Vin eð autr beçon yeustað ern reconnuð com matier possent contamen coïr des y Mitað-Asc, e lembic cadarað denent cavibr generallessem ny siecr seç parmette a Arnoutszen de lo rannuðar durant sy gran homily sur curaçon.|Wine and other fermented drinks had been noted as a preventative of infection since the medieval period, and the wider availability of distilled lembick in the sixteenth century allowed Arnoutszen to recommend it in his great treatise.
 L'eç avanç dy Paç Lonc menau ag descovart de solution ja effectuallessem.|The advances of the Long Peace led to the discovery of yet more effective solutions.
 Y molin por salpeðr (costroit por lou fornir con poið dy kynous a pouvr neir cant ðe mancaurn depost tesqual) ne Zampanagar e Tacday Ancor pres se sarvoirn de vreic marin com matier cru.|The saltpetre mills (built to provide a source of the gunpowder component in the absence of natural deposits) of Zampanagar and neighbouring Tacday Ancore made use of sea wrack as a raw ingredient.
-Ne 1778, lonc y narrað dy surveilour poll'eç molin a Contare, un vapour onðiçastr er remarcað montant des cuf rejeitancer y despart con vitriol seyon maneyað afont.|In 1778, according to the reports of the overseer at the Contare mills, a purplish vapour was seen rising from disposal vats in which the waste was treated with vitriol.
+Ne 1778, lonc y narrað dy surveilour poll'eç molin a Contare, un vapour onðiçastr fo remarcað montant des cuf rejeitancer y despart con vitriol seyon maneyað afont.|In 1778, according to the reports of the overseer at the Contare mills, a purplish vapour was seen rising from disposal vats in which the waste was treated with vitriol.
 Ja oc eus neðan kiglau tu y vec!|It's just as well you missed the bus!
 Des sovaugr mesveu jo y jainç tauger.|My pride blinded me to the bigger picture.
 L'ec mersc recievn un doujug veunt frail.|These wetlands have a delicate ecosystem.
@@ -902,11 +902,11 @@ Bon, j'aye hoir tu fos yert ancour.|Good, I was worried you were still awake.
 Me scey foy all'anim candon y stel sgardar yert.|I feel a fire in my soul when I look up at the stars.
 Cascif es tu rondant coll'ec quomodolibet?|Why do you hang out with this libertine crowd?
 Cu sta y scrittour dy Codex Mysarnos n'aun gent jamay saut consecter, e l'oc livr nil declarar aïr l'argument soluð;|The author of the Mysarnos Codex has never been conclusively identified, and this book will not pretend to have done so;
-certan a comparaçon es ig lo'r nijommað—ben toð cas preu depostað—ny Majon Livr a Sagnt Jorsc y Martyr, un respanendessem dell'eç edifiç afont dy quaðeglad cligser ja svoccað.|what is relatively certain is that it was composed—or at least first stored—at the Library of Saint George the Martyr, one of the largest buildings within the aforementioned church complex.
+certan a comparaçon es ig lo fo nijommað—ben toð cas preu depostað—ny Majon Livr a Sagnt Jorsc y Martyr, un respanendessem dell'eç edifiç afont dy quaðeglad cligser ja svoccað.|what is relatively certain is that it was composed—or at least first stored—at the Library of Saint George the Martyr, one of the largest buildings within the aforementioned church complex.
 Vray queglant es nos poum despondr de regest a sodaltað sceint eð enter por cascun dy monastir eð autr facultað divers nell'oç zon tras y siecr seç enter ben pres, ig inclus moustr lonc lorry við por bempart parmy lou.|What is frustrating is that we have access to extant and complete membership records for the various monasteries and other institutions in the area for almost the entire sixteenth century, and biographical information for many among them.
 Nentamen, nos veim alcun soumoin des un soul chronic ja existant ag forganç dy Codex Mysarnos.|Nonetheless, no mention is made by any of the surviving chronicles of the production of the Mysarnos Codex.
 Nos raðaum tras quaðeglad lonc camin attriboit.|We biked across campus along designated lanes.
-Vel my tarsc d'acat me soumonir posc nossell'yenç.|Please remind me of my shopping list when we arrive.
+Vel my tarsc d'accat me soumonir posc nossell'yenç.|Please remind me of my shopping list when we arrive.
 Ðe ern y hey pegntant a roug.|They were painting the fence red.
 J'ay hey pos all'obægerrem.|I've cordoned off the sicker people.
 Veraçter, may a doç scourmer ny Phœbos sou mac Kellot saven arabesc parolar un pog toð cas; l'eiðel commarcer brittesc e morracan ern surponent ne Gal e Spagn pres dou siecr all'oc hour.|In fact, more than a dozen crewmembers of mac Kellot's Phœbos had at least some Arabic; the British and Morrack mercantile domains had overlapped in Gaul and Spain for nearly two centuries at this point.
@@ -932,7 +932,7 @@ Luy decident apres y grad sindr broyar e cossy for Monçating retenir sta y coup
 Jo save noc tu aus cosvour scon stemn n'Ambrosia!|I didn't know you had second cousins in Ambrosia!
 Querellabr es oðr l'oç imascry fos vray meðes volað.|It's debatable whether that sculpture was even really stolen.
 Y scavour cossy sceint poð noc hand dar all'hom poið.|As a journalist, they cannot have sex with their source.
-Par surcresc, l'accaç campaner baric sta nuverrem aðief a noc ancour l'ançan doujug a gonfan e lamp destarrir, magn afferjarant tras Spagn, Gal eð Italy.|Moreover, the barrick steeplepost was still so young that it had not displaced the earlier flag-lamp system, widespread across Spain, Gaul and Italy.
+Par surcresc, l'accaç campaner barric sta nuverrem aðief a noc ancour l'ançan doujug a gonfan e lamp destarrir, magn afferjarant tras Spagn, Gal eð Italy.|Moreover, the barrick steeplepost was still so young that it had not displaced the earlier flag-lamp system, widespread across Spain, Gaul and Italy.
 Deur certan exclusion (cos celeberrem y fil Cracou a Bitom ne Pologn souðer), debriscellisað er y tar prest ag respanment d'accaç filað tras Europ aust e norðer, e vray des l'ec polity receveu nos y majortað dy tarrouçon cas astrapophor nell'Asc Asteller aval.|With some exceptions (notably the Cracow-Bitom line in southern Poland), the ground was clear for the spread of wired post across northern and eastern Europe, and indeed it is from these places that we get most of the barrick innovations of the late Workshop period.
 Lor l'eç tachygraph filað primal stan fatuous por laurar e tan car por accarr—doutr allors sceye pog advantaç savibr a edifiç marcant, possent cos fagl hur dar an coutoccour ja suet cas y model d'Adamich.|So the early wired tachygraphs were cumbersome to use and expensive to get hold of—and furthermore there was little incentive for businesses, who could simply hire a tapper already fluent in the Adamich system.
 Jo's debriscellisant por scoy d'un seman a scitation.|I'm laying the groundwork for a piece-of-cake exam week.
@@ -961,10 +961,10 @@ Y pogn de Cavendish sta sec e freit, luy man soccoðent cos starc lon skassar.|C
 Dagormay erra la sy parol robar volonter.|From now on she'll have to choose her words wisely.
 Jamiscað plu, casc hom!|Stop complaining, everyone!
 Jo hoir nolir jamay lour neðolmar.|I'm afraid I'll never fit in with them.
-Samuel e Clovia son megl s'aðelent casc veg lonc ig ðe reun a repaðr de schol, malgrað y noçon de lorrell'instroyour sur y sfondranç dell'Empir Mitað-Asc sein vreçous.|Samuel and Clovia do better for themselves every time they return from school, although their history tutor's opinions on the collapse of the Medieval Imperia are execrable.
+Samuel e Clovia son ottem s'aðelent casc veg lonc ig ðe reun a repaðr de schol, malgrað y noçon de lorrell'instroyour sur y sfondranç dell'Empir Mitað-Asc sein vreçous.|Samuel and Clovia do better for themselves every time they return from school, although their history tutor's opinions on the collapse of the Medieval Imperia are execrable.
 Jo prefay ðe seraun y dou entrað ny melle pre poðir l'oc tom a diabr editar, a sgart calscon; Hilgart es deja y vessonary depegntað examinant ne spien ig nos veleu se mostrar ne barstant pre Març (jo pieð neðan tu svoc capel jos luy!).|I expect they shall both be in the melee before this blasted book is published, in any case; Hilgart is already reading the illustrated costumery in the hopes that we might all be fashionable by March (kindly do not mention hats in her company!).
 Dou opinion soul dey jo rescaur, y volum partenent.|Only two points must I reiterate regarding the volume.
-Primer, jo poð bogr cos total Y Mur eð Y Clojon rendr picquessem—vital es l'eç mod d'ouvranç de Hadrian ne Brittan e n'Istr Boral por nos comprenau lorry doum inequal durant l'asc posc-classic, dec con sy regn vien l'inception d'autonomy dicerrem all'eiðel nostr.|First, I absolutely cannot condense The Wall and The Hedgerow—contrasting Hadrian's policies in Britain and in Borland is vital for understanding their different fates in the post-Classical age, for his reign marks the beginning of our island's greater autonomy.
+Primer, jo poð bogr cos total Y Mur eð Y Clojon rendr picquessem—vital es l'eç mod d'ovranç de Hadrian ne Brittan e n'Istr Boral por nos comprenau lorry doum inequal durant l'asc posc-classic, dec con sy regn vien l'inception d'autonomy dicerrem all'eiðel nostr.|First, I absolutely cannot condense The Wall and The Hedgerow—contrasting Hadrian's policies in Britain and in Borland is vital for understanding their different fates in the post-Classical age, for his reign marks the beginning of our island's greater autonomy.
 J'ay spien y heloit vos treubr noc.|I hope the noise doesn't trouble you.
 A tu uncos sou y blau trovað nell'oç vessonary?|Have you found anything cool in that catalogue?
 Ty fraðr es untal daugnam incaint sceir sy lucr volar.|Your brother's the kind of dupe who'll get his money stolen.
@@ -983,7 +983,7 @@ Y cambr hur noscon dað avars stan bolegs e capaç.|The rooms that we rented wer
 Cal voun ðe por lorrell'erraç idoneïsar?|What will they do to fix their mistakes?
 Eð hour alcot es caint y storcment?|And for how long has the blackmail been going on?
 "Façau follanç all'area fruy pre un douçur cascun triar ou?" dis Benjamin.|"Let's take a spin on the dance floor before dessert, shall we?" Benjamin said.
-Luy e Martha aurn toð y desc delið, e futil enter sta y residu dy collocq attendr a prolongar—lonc y bustr ig, y concið de Lucas parisce cos implausibr s'accommettr megl a sell'un.|He and Martha had cleared their plates, and there was no point prolonging what remained of the conversation—in that respect Lucas' date seemed impossibly to be going better than his.
+Luy e Martha aurn toð y desc delið, e futil enter sta y residu dy collocq attendr a prolongar—lonc y bustr ig, y concið de Lucas parisce cos implausibr s'accommettr ottem a sell'un.|He and Martha had cleared their plates, and there was no point prolonging what remained of the conversation—in that respect Lucas' date seemed impossibly to be going better than his.
 Yvet sta toð cas sona luyent de cur dar ag monolog de Lucas.|Yvette was at least pretending to pay attention to Lucas' monologue.
 Martha accordau, stant clar yent an conclujon cosvour.|Martha agreed, having clearly come to a similar conclusion.
 Le souprenent, y domn surcou fort fruyour, ant pas leger e gournanç d'hour scur.|To his surprise, she proved a good dancer, with light steps and a good sense of timing.
@@ -1006,7 +1006,7 @@ Y gent n'Ausçagm smoutaurn desig l'occijon.|The Ausçagm public rioted because 
 Sell'amig er l'œcumen sovemblant cant nos pascau.|His friend was sketching the surroundings as we ate.
 Alcun hom au y lamp fornið con zygom.|No-one had installed a switch for the light.
 Y mençon ig remaneus un Empir Theudesc fo sevelið ne grauf jos y cadavr dy preu Reyaum Saxon, l'eiðel y dynasty Hogbrocken appartenent stant diminoit vars lorrell'eðegl fondominal amont ne Lepzi e Magdebourg.|The fiction of a surviving German Empire was laid to rest with the corpse of the first Kingdom of Saxony, with the domain of the Hoghbrocken dynasty reduced to their core lands upstream in Lepzi and Magdeburg.
-Y nou-redoit Marcgrau Baldr de Saxony, temporane no stant for catr annað eld, cou cos comprensibr par megl manouvr dy Stadbund smargent.|The newly-reduced Margrave Baldur of Saxony, being only 4 years old at the time, was understandably outmanœuvred by the nascent Stadbund.
+Y nou-redoit Marcgrau Baldr de Saxony, temporane no stant for catr annað eld, cou cos comprensibr par ottem manouvr dy Stadbund smargent.|The newly-reduced Margrave Baldur of Saxony, being only 4 years old at the time, was understandably outmanœuvred by the nascent Stadbund.
 Ma l'eç polity-colluy nommað com y Stadbund, y Samslutning ben y Collijon Norðer cascun (nos veim usual ne scaunç latin collisio theodisc) creurn noc, lon digr, ex nihilo all'aubon dy siecr catorç.|But the guild-states known variously as the Stadbund, the Samslutning or the North Collision (we see in Latin documents usually collisio theodisc) did not, of course, appear fully-formed at the dawn of the fourteenth century.
 Nos poum y racin de concort entr citað deut, peðaç eð autr parsoument coyençant furtivir jusc y siecr doç tost.|We can trace the roots of intercivic contracts restricting tariffs, tolls and other fees back to the early twelfth century.
 Jo sta spait demay a porsief luy fair.|I was too scared to run after her.
@@ -1019,11 +1019,11 @@ Situað amont (deg meco atorn derim tras y Fastig Camboscung deur y veðerrem tr
 Saveð vos cal praxitel gravau y Macchine di Helio?|Do you know which sculptor carved the Machines of Helios?
 Y gant distr a my gamma ayen un deðal pagnt ig.|My grandma's right glove had a thimble built-in.
 J'er pol frigsant je ados cas mey.|I was frying chicken at home yesterday.
-Noc obstroint le'r fait pog martial de character, Andreu ant sy ment indeslocabr a jainç e sepostion nonscalent vars tact naðeu vole dar ig jo fos incaint a carceration souvar entr y mur dy Castel Safford lon tarm, ben fin a le sceus me benoçar megl.|Though he was not particularly martial-minded, Andrew's uncompromising tactical nous and cavalier disregard for simple diplomacy meant I would likely languish as a prisoner at Safford Castle indefinitely, or until he could put me to some better use.
+Noc obstroint le sta fait pog martial de character, Andreu ant sy ment indeslocabr a jainç e sepostion nonscalent vars tact naðeu vole dar ig jo fos incaint a carceration souvar entr y mur dy Castel Safford lon tarm, ben fin a le sceus me benoçar ottem.|Though he was not particularly martial-minded, Andrew's uncompromising tactical nous and cavalier disregard for simple diplomacy meant I would likely languish as a prisoner at Safford Castle indefinitely, or until he could put me to some better use.
 Val pog; y cambr sta calt cos bel degnant y morostað de janver tras port, ant un foy kirtant eudæmon sou tapeçment lonc un victoir markesc ancour descreint—j'appone—tandy y pardastr afont no sta bogr discernibr.|No matter; the room was warm despite the January gloom outside, a merrily-crackling fire under a long tapestry depicting—I assumed—another Markish victory, though it was anyone's guess against whom.
 Ag mur atras, jo saveu des y clartað dell'eç quarrel ig ðe forn cos recent affis all'oc ans veil, accas plausibr ne carganç des y hal dy praxitel bavarn.|On the other wall, the clarity of the panes suggested they were a recent addition to this old wing, possibly commissioned from the Bavarn masters.
 Allors aye jo plusour fenestr parceut y veðr zajadau dy siecr derran tenent tojorn, un vert obægr surcaint just inequivalibr par y lumner a tijon.|Elsewhere I had noticed many windows still held the jackdaw glass of the previous century, in a sickly green that could not quite be offset with torchlight.
-Nossy majon er costroit sur rout nacleu.|Our house was built on a sloping street.
+Nossy majon sta costroit sur rout nacleu.|Our house was built on a sloping street.
 L'ec bojay ne voncir acataust vos ou?|Was it you who bought these beeswax candles?
 Y fraðr dou eurn cosogr com zachet.|The two brothers stuck together like glue.
 POR SONDAÇ: Zaquesc Select poll'Avegl Felaver, par Axel fi Magno|IN REVIEW: Selected Refreshments for the Social Bee, by Axel fi Magno
@@ -1033,7 +1033,7 @@ Vray fos jo my deut fugnt ða jo n'aus certan dell'ec method attis a cogr com me
 Nos flannaum pall'yarç colloir ant yeðrot parlocant.|We ambled down the pergola with ivy all around us.
 Cu a l'oc ugnlac vorpal laiscað jos ty panner?|Who's left this diced onion next to the breadbin?
 Vossy neuç cant d'un kyriel infalagover.|Your niece has an impressive singing range.
-Appos tant—Amigòt degnau noc nos sarvir par un chronic mantenent—es ig sy regn durau ogtoç annað por sceus Menton garantir sy hereter triað vole soutien pres unanim recevir dy Concert, l'edifiç de legifiçour provençal ant form emprontað dell'oc veneçan.|It is also supposed—Amigòt did not do us the service of keeping a chronicle—that his rule lasted eighteen years to allow Menton to ensure his chosen successor enjoyed near-unanimous support of the Concert, the Provincial legislative house modelled after the Venetians'.
+Appos tant—Amigòt degnau noc nos sarvir par un chronic mantenent—es ig sy regn durau ogtoç annað por sceus Menton garantir sy heriter triað vole soutien pres unanim recevir dy Concert, l'edifiç de legifiçour provençal ant form emprontað dell'oc veneçan.|It is also supposed—Amigòt did not do us the service of keeping a chronicle—that his rule lasted eighteen years to allow Menton to ensure his chosen successor enjoyed near-unanimous support of the Concert, the Provincial legislative house modelled after the Venetians'.
 Sell'ouçon faïð Raimond Aurellex, ayent sy sour y jundressem mariðað e dont y fraðr Lohis fo mort cant le fey caf poll'assaut ag Battagl de Satillew, perisceu d'un mescanç caucer ne 1511 (eð y recordation commun noc obstroint, l'oc cainç particuler sta cos implausibr occijon).|His first choice Raimond Aurellex, who had married his youngest sister and whose brother Lohis had died leading the charge at the Battle of Satillew, died in a hunting accident in 1511 (and despite the popular understanding, this particular incident was likely not an assassination).
 Toð case final, y Concert eligeu y cosvour de Menton, Antoin Amigòt, por y Concert gournar sou y cur glacent e giðanç martial de daus Sanz, Daniel Menton sell'influyenç issarnt lon dout apar magn posc le soloy ombisc cos nominal.|In the end, the Concert elected Menton's cousin Antoin Amigòt to lead the Concert under the close attention and martial guidance of daus Sanz, through whom Daniel Menton doubtless exercised his influence long after his nominal stepping down.
 Jo no sta jamay sviðour de fic.|I've never been a fan of figs.
@@ -1083,14 +1083,14 @@ Me val noc entrar desig mell'azig hortumesc.|I shouldn't come in because of my f
 Y tarn noscon eut ig sarf bier a groglon.|The pub we go to has beer on tap.
 Nos coum tout eurað par un grand jolleistr.|We all got drunk during a big night out.
 Nos reveneu all'avent de dysentry pennackit n'Europ e cos particuler n'Albion.|We return to the arrival of pennackit dysentery to Europe and in particular to Albion.
-L'oc zoia pathophoric destegnt pennackit dant sta certan comtað ne Hind hamtant par eç siecr (defagl es ec accont primal connoscr different d'autr malais dysentresc, ma scein fardiment ig y mort de Rey Rahoulamathavan a Madray l'an 1735 e plusour irrouçon ne Scin tras y derran siecr avenoy desig l'oc malais),|The particular pathophoric zoia that causes pennackit had been established in parts of India for centuries (early reports are difficult to distinguish from other dysenteric ailments, but the death of King Rahulamathavan of Madray in 1735 and several outbreaks in China over the preceding century are suspected to be of the disease),
+L'oc zoia pathophoric destegnt pennackit dant er certan comtað ne Hind hamtant par eç siecr (defagl es ec accont primal connoscr different d'autr malais dysentresc, ma scein fardiment ig y mort de Rey Rahoulamathavan a Madray l'an 1735 e plusour irrouçon ne Scin tras y derran siecr avenoy desig l'oc malais),|The particular pathophoric zoia that causes pennackit had been established in parts of India for centuries (early reports are difficult to distinguish from other dysenteric ailments, but the death of King Rahulamathavan of Madray in 1735 and several outbreaks in China over the preceding century are suspected to be of the disease),
 ma respanment mondial nole ençar pre 1753, ny souc dell'eç Rix Democratic eð y deslocation cohernt de gent.|but global spread would not begin until 1753, in the aftermath of the Democratic Wars and the concomitant movement of peoples.
 Par meyan de vascel marcander e de soldart, lonc l'eç flou a Pers eð ag Rusc, y zoia fey passaç incoïbr cant l'eu vars occas.|Via merchant ships and via troops, along the rivers of Persia and the Russias, the zoia made inexorable progress on its way westward.
 Vos gimmoloist a remanir ne cognit.|You worked hard to keep your covers.
 Laisc ty vesson e met tey ne quil!|Take off your clothes and get in bed!
 Jo n'ay tag beut par monð, ja galað.|I haven't had tea in months, come to that.
 Sengr a comparaçon sta y repasc cocinað par Gevel e Mothe pre Ludric fo repaðrið—lagç a lign con saus mentagler e leum.|The meal was a relatively simple one prepared by Gevel and Tim before Ludrick got home—stringlace with mince sauce and greens.
-Y pan fo un pog bruslað atorn dell'orlaç ma y ligt gostan fort aðief por engollisc farvent valir, cos particuler posc untal jorn commovent.|The bread was a little crispy on the edges but the rest was tasty enough to be worth scarfing down, especially after such an active day.
+Y pan sta un pog bruslað atorn dell'orlaç ma y ligt gostan fort aðief por engollisc farvent valir, cos particuler posc untal jorn commovent.|The bread was a little crispy on the edges but the rest was tasty enough to be worth scarfing down, especially after such an active day.
 Caye tan cæros prestabr yon vole Ludric toð novel de sy figl yembr.|It was also a great opportunity for Ludrick to catch up with his children.
 "J'oy tu a un religion minour soluð," dis Ludric ag veðerrem dy figl.|"I hear you’ve started a minor religion," Ludrick said to his middle child.
 Gevel se dau scoul e gembondau cant sy fraðr fragns a ricottanç gesper.|Gevel pulled a face and groaned as her brother burst into breathless laughter.
@@ -1139,10 +1139,10 @@ Posc y campaner aerian jognsern y stuer (l'eç oseir entrpos recas for candon ca
 J'ay un desc farrago nos cogt.|I've cooked us some hash.
 Jo traseu y cogn un rað illabond portant.|I went round the corner carrying a fold-up bike.
 Jo vos lau ag treu dell'eç xiphar.|I commend you on the loyalty of the henchmen.
-Vin eð autr beçon yeustað stan reconnuð com matier possent contamen coïr des y Mitað-Asc, e lembic cadarað denent cavibr generallessem ny siecr seç parmette a Arnoutszen de lo rannuðar durant sy gran homily sur curaçon.|Wine and other fermented drinks had been noted as a preventative of infection since the medieval period, and the wider availability of distilled lembick in the sixteenth century allowed Arnoutszen to recommend it in his great treatise.
+Vin eð autr beçon yeustað ern reconnuð com matier possent contamen coïr des y Mitað-Asc, e lembic cadarað denent cavibr generallessem ny siecr seç parmette a Arnoutszen de lo rannuðar durant sy gran homily sur curaçon.|Wine and other fermented drinks had been noted as a preventative of infection since the medieval period, and the wider availability of distilled lembick in the sixteenth century allowed Arnoutszen to recommend it in his great treatise.
 L'eç avanç dy Paç Lonc menau ag descovart de solution ja effectuallessem.|The advances of the Long Peace led to the discovery of yet more effective solutions.
 Y molin por salpeðr (costroit por lou fornir con poið dy kynous a pouvr neir cant ðe mancaurn depost tesqual) ne Zampanagar e Tacday Ancor pres se sarvoirn de vreic marin com matier cru.|The saltpetre mills (built to provide a source of the gunpowder component in the absence of natural deposits) of Zampanagar and neighbouring Tacday Ancore made use of sea wrack as a raw ingredient.
-Ne 1778, lonc y narrað dy surveilour poll'eç molin a Contare, un vapour onðiçastr er remarcað montant des cuf rejeitancer y despart con vitriol seyon maneyað afont.|In 1778, according to the reports of the overseer at the Contare mills, a purplish vapour was seen rising from disposal vats in which the waste was treated with vitriol.
+Ne 1778, lonc y narrað dy surveilour poll'eç molin a Contare, un vapour onðiçastr fo remarcað montant des cuf rejeitancer y despart con vitriol seyon maneyað afont.|In 1778, according to the reports of the overseer at the Contare mills, a purplish vapour was seen rising from disposal vats in which the waste was treated with vitriol.
 Ja oc eus neðan kiglau tu y vec!|It's just as well you missed the bus!
 Des sovaugr mesveu jo y jainç tauger.|My pride blinded me to the bigger picture.
 L'ec mersc recievn un doujug veunt frail.|These wetlands have a delicate ecosystem.
@@ -1157,11 +1157,11 @@ Bon, j'aye hoir tu fos yert ancour.|Good, I was worried you were still awake.
 Me scey foy all'anim candon y stel sgardar yert.|I feel a fire in my soul when I look up at the stars.
 Cascif es tu rondant coll'ec quomodolibet?|Why do you hang out with this libertine crowd?
 Cu sta y scrittour dy Codex Mysarnos n'aun gent jamay saut consecter, e l'oc livr nil declarar aïr l'argument soluð;|The author of the Mysarnos Codex has never been conclusively identified, and this book will not pretend to have done so;
-certan a comparaçon es ig lo'r nijommað—ben toð cas preu depostað—ny Majon Livr a Sagnt Jorsc y Martyr, un respanendessem dell'eç edifiç afont dy quaðeglad cligser ja svoccað.|what is relatively certain is that it was composed—or at least first stored—at the Library of Saint George the Martyr, one of the largest buildings within the aforementioned church complex.
+certan a comparaçon es ig lo fo nijommað—ben toð cas preu depostað—ny Majon Livr a Sagnt Jorsc y Martyr, un respanendessem dell'eç edifiç afont dy quaðeglad cligser ja svoccað.|what is relatively certain is that it was composed—or at least first stored—at the Library of Saint George the Martyr, one of the largest buildings within the aforementioned church complex.
 Vray queglant es nos poum despondr de regest a sodaltað sceint eð enter por cascun dy monastir eð autr facultað divers nell'oç zon tras y siecr seç enter ben pres, ig inclus moustr lonc lorry við por bempart parmy lou.|What is frustrating is that we have access to extant and complete membership records for the various monasteries and other institutions in the area for almost the entire sixteenth century, and biographical information for many among them.
 Nentamen, nos veim alcun soumoin des un soul chronic ja existant ag forganç dy Codex Mysarnos.|Nonetheless, no mention is made by any of the surviving chronicles of the production of the Mysarnos Codex.
 Nos raðaum tras quaðeglad lonc camin attriboit.|We biked across campus along designated lanes.
-Vel my tarsc d'acat me soumonir posc nossell'yenç.|Please remind me of my shopping list when we arrive.
+Vel my tarsc d'accat me soumonir posc nossell'yenç.|Please remind me of my shopping list when we arrive.
 Ðe ern y hey pegntant a roug.|They were painting the fence red.
 J'ay hey pos all'obægerrem.|I've cordoned off the sicker people.
 Veraçter, may a doç scourmer ny Phœbos sou mac Kellot saven arabesc parolar un pog toð cas; l'eiðel commarcer brittesc e morracan ern surponent ne Gal e Spagn pres dou siecr all'oc hour.|In fact, more than a dozen crewmembers of mac Kellot's Phœbos had at least some Arabic; the British and Morrack mercantile domains had overlapped in Gaul and Spain for nearly two centuries at this point.
@@ -1187,7 +1187,7 @@ Luy decident apres y grad sindr broyar e cossy for Monçating retenir sta y coup
 Jo save noc tu aus cosvour scon stemn n'Ambrosia!|I didn't know you had second cousins in Ambrosia!
 Querellabr es oðr l'oç imascry fos vray meðes volað.|It's debatable whether that sculpture was even really stolen.
 Y scavour cossy sceint poð noc hand dar all'hom poið.|As a journalist, they cannot have sex with their source.
-Par surcresc, l'accaç campaner baric sta nuverrem aðief a noc ancour l'ançan doujug a gonfan e lamp destarrir, magn afferjarant tras Spagn, Gal eð Italy.|Moreover, the barrick steeplepost was still so young that it had not displaced the earlier flag-lamp system, widespread across Spain, Gaul and Italy.
+Par surcresc, l'accaç campaner barric sta nuverrem aðief a noc ancour l'ançan doujug a gonfan e lamp destarrir, magn afferjarant tras Spagn, Gal eð Italy.|Moreover, the barrick steeplepost was still so young that it had not displaced the earlier flag-lamp system, widespread across Spain, Gaul and Italy.
 Deur certan exclusion (cos celeberrem y fil Cracou a Bitom ne Pologn souðer), debriscellisað er y tar prest ag respanment d'accaç filað tras Europ aust e norðer, e vray des l'ec polity receveu nos y majortað dy tarrouçon cas astrapophor nell'Asc Asteller aval.|With some exceptions (notably the Cracow-Bitom line in southern Poland), the ground was clear for the spread of wired post across northern and eastern Europe, and indeed it is from these places that we get most of the barrick innovations of the late Workshop period.
 Lor l'eç tachygraph filað primal stan fatuous por laurar e tan car por accarr—doutr allors sceye pog advantaç savibr a edifiç marcant, possent cos fagl hur dar an coutoccour ja suet cas y model d'Adamich.|So the early wired tachygraphs were cumbersome to use and expensive to get hold of—and furthermore there was little incentive for businesses, who could simply hire a tapper already fluent in the Adamich system.
 Jo's debriscellisant por scoy d'un seman a scitation.|I'm laying the groundwork for a piece-of-cake exam week.
@@ -1216,10 +1216,10 @@ Y pogn de Cavendish sta sec e freit, luy man soccoðent cos starc lon skassar.|C
 Dagormay erra la sy parol robar volonter.|From now on she'll have to choose her words wisely.
 Jamiscað plu, casc hom!|Stop complaining, everyone!
 Jo hoir nolir jamay lour neðolmar.|I'm afraid I'll never fit in with them.
-Samuel e Clovia son megl s'aðelent casc veg lonc ig ðe reun a repaðr de schol, malgrað y noçon de lorrell'instroyour sur y sfondranç dell'Empir Mitað-Asc sein vreçous.|Samuel and Clovia do better for themselves every time they return from school, although their history tutor's opinions on the collapse of the Medieval Imperia are execrable.
+Samuel e Clovia son ottem s'aðelent casc veg lonc ig ðe reun a repaðr de schol, malgrað y noçon de lorrell'instroyour sur y sfondranç dell'Empir Mitað-Asc sein vreçous.|Samuel and Clovia do better for themselves every time they return from school, although their history tutor's opinions on the collapse of the Medieval Imperia are execrable.
 Jo prefay ðe seraun y dou entrað ny melle pre poðir l'oc tom a diabr editar, a sgart calscon; Hilgart es deja y vessonary depegntað examinant ne spien ig nos veleu se mostrar ne barstant pre Març (jo pieð neðan tu svoc capel jos luy!).|I expect they shall both be in the melee before this blasted book is published, in any case; Hilgart is already reading the illustrated costumery in the hopes that we might all be fashionable by March (kindly do not mention hats in her company!).
 Dou opinion soul dey jo rescaur, y volum partenent.|Only two points must I reiterate regarding the volume.
-Primer, jo poð bogr cos total Y Mur eð Y Clojon rendr picquessem—vital es l'eç mod d'ouvranç de Hadrian ne Brittan e n'Istr Boral por nos comprenau lorry doum inequal durant l'asc posc-classic, dec con sy regn vien l'inception d'autonomy dicerrem all'eiðel nostr.|First, I absolutely cannot condense The Wall and The Hedgerow—contrasting Hadrian's policies in Britain and in Borland is vital for understanding their different fates in the post-Classical age, for his reign marks the beginning of our island's greater autonomy.
+Primer, jo poð bogr cos total Y Mur eð Y Clojon rendr picquessem—vital es l'eç mod d'ovranç de Hadrian ne Brittan e n'Istr Boral por nos comprenau lorry doum inequal durant l'asc posc-classic, dec con sy regn vien l'inception d'autonomy dicerrem all'eiðel nostr.|First, I absolutely cannot condense The Wall and The Hedgerow—contrasting Hadrian's policies in Britain and in Borland is vital for understanding their different fates in the post-Classical age, for his reign marks the beginning of our island's greater autonomy.
 J'ay spien y heloit vos treubr noc.|I hope the noise doesn't trouble you.
 A tu uncos sou y blau trovað nell'oç vessonary?|Have you found anything cool in that catalogue?
 Ty fraðr es untal daugnam incaint sceir sy lucr volar.|Your brother's the kind of dupe who'll get his money stolen.
@@ -1265,8 +1265,8 @@ Certan cos anneyant es y nom adaptau y mythos irðonnesc d'Oil Breasail, un heil
 Istr stikettað con Brasil ben parol comportant son vis dagaðy sur cart dy rimmot atlantic ny Mitað-Asc aval, cos usual magn picquessem eð austessem ag loy real.|Islands labelled Brasil or similar wordforms appear sporadically on late-medieval maps of the Atlantic coast, usually much smaller and further east than the real place.
 Lonc y seucq parlocan zillapr sauvaç.|Wild buttercups grew on each side of the path.
 Jo nil lon fregn reuvr pre un meis ben may.|I definitely won't come back for at least a month.
-Ðe ern plait de heilant yembr.|They were happy to be on dry land.
-Nell'ec ouvr a Carvallo—l'oc preu livr no stant for y primer parmy un rig de doçan—ern introdoit plusour dy qualtað natural por un racont masquiral, e sell'ouvr lou accomblaurn primer accougl com untað cohernt.|It was Carvallo's works—this first book being only the first in a dozen-strong series—which introduced many of the essential properties of a masquira tale, and first presented them together as a coherent whole.
+Ðe stan plait de heilant yembr.|They were happy to be on dry land.
+Nell'ec ouvr a Carvallo—l'oc preu livr no stant for y primer parmy un rig de doçan—forn introdoit plusour dy qualtað natural por un racont masquiral, e sell'ouvr lou accomblaurn primer accougl com untað cohernt.|It was Carvallo's works—this first book being only the first in a dozen-strong series—which introduced many of the essential properties of a masquira tale, and first presented them together as a coherent whole.
 Com bustr, Jalico forgau pres solter y noçon dy romanç kevlar ant heros deyent un sonc preçous accarr a mesur d'un vellisqment convoluð straccanç e delusion partenent;|For example, Jalico almost singlehandedly creates the conceit of the kevler in which our protagonist must obtain a valuable item by means of a complicated scheme involving trickery and deception;
 nos reconnoscm y parol meðes nel y jout sarvir durant certan hour, dec un inceuçon borallesc aïr.|note that the word itself would not be applied to the trope for some time, as it is of Borlish origin.
 Y sonc mout un jovagl, se poð stimar ig masquira va parallel con y costum cathayan veðerrem de fabr tapsue (pig).|Often an item of jewellery, masquira is said to run parallel to the older Cathayan tradition of tapsue (magpie) tales.
@@ -1277,7 +1277,7 @@ Y heloit dy sorty ern affauðað an zoum remot candon Guilmet follau y galleir v
 La sovemblau con y deit lonc l'adornment plu nell'eutað, y motif convoluð tragçant par ogl.|She ran her fingers along the unfashionable wallpaper, tracing the intricate patterns with her eyes.
 L'aye tojorn l'oc majon amað; l'oc er luy parið com un cas-sey-apart a mesur dell'eç meis stival stendiscent entr period scholer, eç yonoscon sell'aldr quïscen y tombr sodal por poðir escapat fair tras Mendeva.|She had always loved this house; it had been like a second home to her during those long summer months between terms when her parents had shut the family home to go gallivanting across Mendeva.
 La tornau par un cogn e lor yeme paus avant un portrait larc sy granpaðr depegntant.|She turned a corner and came to a stop in front of a large portrait of her grandfather.
-Y vesson reit noc obstroint, y segr ny pegntur luy apparisc magn; ðe ern meðes fornið d'ogl parey.|Besides the stiff dress, the man in the painting looked much like her; they even had the same eyes.
+Y vesson reit noc obstroint, y segr ny pegntur luy apparisc magn; ðe stan meðes fornið d'ogl parey.|Besides the stiff dress, the man in the painting looked much like her; they even had the same eyes.
 Nos trovaum un seucq forgað de laprot.|We found a path made by rabbits.
 Nos nolau hur dar for an svattour noscon confiabr.|We were only going to hire a PI we could trust.
 Cain Celest e Marca un per fouceur.|Celeste and Marca make a handsome couple.
@@ -1294,13 +1294,13 @@ L'oc annað la poðe alcun jubilaçon vray dijarr lon jant.|This year she couldn
 Kimmela gasau pall'oscbou veðr vars y vogt semnað de stel atras.|Kimmela stared out of the viewport at the star-strewn void.
 L'oc sta bel, de façon freit e mortal, ant stel noc lougent yon parmig splendisce y Sol ja briglandessem for com picq.|It was beautiful, in a cold and deadly way, with untwinkling stars among which already the Sun shone only slightly brighter.
 Se poðe y Tar foscað de fum fos visibr pall'appragl ny kenonaut, ma la douta.|The smoke-blackened Earth might yet be visible with the voidsailer's equipment, though she doubted it.
-Y sovragl seyon me dað er adornað par fylau.|The belt she gave me was decorated with crows.
+Y sovragl seyon me dað sta adornað par fylau.|The belt she gave me was decorated with crows.
 Ða vos nouð l'occeir jo met laur coll'un man!|If you won't kill him then I'll do it myself!
 Ðe ençan y dou voug cas toriot luïr.|They're both useless at playing torriot.
 Y premendessem sta l'aðoinç de commovenç viking lonc y rimmot.|Most pressing was the inexorable rise in Viking activity along the coast.
 Gazou ag banc dy Sein e l'Orn ern inceut eç meis paravant, ma dagormay ðe spanoirn ag vest; y monastir a Landvennick meðes se cof incendiað a cainç l'an 888 N.|Raids along the Seine and the Orne had begun in earnest some decades prior, but now spread west; even the monastery at Landvennick was burned to the ground in 888 N.
 Necun no'rn y commovenç dy dannesc vecinað com piglment; ag dou cost dy Canal caf batman benoçaurn l'instabiltað politic (oc a digr y sfondranç vessaxon ag norð e l'eç querel lombard ag souð) por eðegl concarr e fragossau instançar.|Nor were the Danes' activities confined to looting; on both sides of the Channel war leaders took advantage of political instability (the collapse of Wessex in the north and the Lombard disputes in the south) to conquer territory and settle.
-Scey evidenç ig gent dannesc reseyen doutr meðes y flou Vir, oc stant part lonc y tarm fransc e domnon com lo'r traitað nell'Accord Catumagin dy siecr ogt,|There is evidence of such Danish settlement even past the Vire river, part of the Franco-Dumnonian border as agreed in the eighth-century Catumagin Accords,
+Scey evidenç ig gent dannesc reseyen doutr meðes y flou Vir, oc stant part lonc y tarm fransc e domnon com lo fo traitað nell'Accord Catumagin dy siecr ogt,|There is evidence of such Danish settlement even past the Vire river, part of the Franco-Dumnonian border as agreed in the eighth-century Catumagin Accords,
 e portan posc y Fransc concedoirn solemn l'oc feu ny siecr deg e cossy corporalisaurn Normandy, y Vir remaneu y tarm.|although when this fiefdom was officially ceded by the Franks in the tenth century to form Normandy, the Vire remained the border.
 Se poðe noc l'ec rumour d'un batman corroular.|The rumours of a vigilante were unsubstantiable.
 Pront jo vis pall'oscbou my sour cocinant.|I immediately saw my sister cooking through the hatch.
@@ -1314,7 +1314,7 @@ Nos luïsceu primer nell'orn.|We're first on in the programme.
 L'ivan asseye sur y ranscel dell'orn.|The child was sat on the rowan's branch.
 Y scuir dau un soçavau losc ne parmanent a pie.|The boy muttered a rude remark and kept walking.
 Michæl flaðrau l'immoubr yert vars y routel dessou, casc broit minuscr oyent com menaç.|Michael clambered down the building to the alley below, conscious of every tiny noise.
-Le save lon alcot vole Sara hour passar pre smarcr; sell'attent surcayen tor veint minut teir, e posc y fin parvenent den sy deit ern gelað e l'aye se convencuð ig y costojan ayent y rout follað trottant sta a pognt de retornar an moment calscon por l'accusar d'emboscment a flannar.|He had no idea how long it might take Sara to emerge; in the event it was about twenty minutes, by the end of which his fingers were icy and he was convinced that the policeman who had strolled along the street would be back at any moment to accuse him of lurking with intent.
+Le save lon alcot vole Sara hour passar pre smarcr; sell'attent surcayen tor veint minut teir, e posc y fin parvenent den sy deit stan gelað e l'aye se convencuð ig y costojan ayent y rout follað trottant sta a pognt de retornar an moment calscon por l'accusar d'emboscment a flannar.|He had no idea how long it might take Sara to emerge; in the event it was about twenty minutes, by the end of which his fingers were icy and he was convinced that the policeman who had strolled along the street would be back at any moment to accuse him of lurking with intent.
 Ma cos final la sta yent, accappelað e fassað de rob, con y valigs.|But at last she was there, in hat and coat, with the suitcase.
 La l'oncau par pas plusour fin a Michæl smargoy deull'ombr e lo prenoy de sy man.|She lugged it a few paces until he slid out of the shadows and took it from her hand.
 Cascif eð vos un lon-lembic convoccað ac?|Why did you invite a teetotaller here?
@@ -1380,7 +1380,7 @@ Seyað clar con ig voscon desirað svellar.|Be clear in what you want to express
 L'indrec son stoccadant vars parroc demosin.|The charity is lobbying for public parks.
 Te val casc joccon presument jannestar.|You should ignore all the smug jokesters.
 Jo's oyent ig l'area ne Veron se recarra ovart a parform ancour—dit es Al Igne, l'ouvr de Bruno, sera y primer la parformað posc y var!|I hear they shall reopen the arena in Verona to performances—they say Bruno's Wings Afire will be the first shown there since the war!
-Jo broucau con hugt sy fraðr Jacom connoscr pre jamay sta la reconnuð cos mondialessem (ne pariscenç ðe aun y dou un heu equal cos stoniscent, ða meðes stant jammel); nos eyeu a loit accougl a Houlm ne 21.|I had the pleasure of knowing her brother Jacom before she was ever known to the wider world (apparently they are astonishingly similar in appearance, even for twins); we fought together at Hulm in 21.
+Jo broucau con hugt sy fraðr Jacom connoscr pre jamay fos la reconnuð cos mondialessem (ne pariscenç ðe aun y dou un heu equal cos stoniscent, ða meðes stant jammel); nos eyeu a loit accougl a Houlm ne 21.|I had the pleasure of knowing her brother Jacom before she was ever known to the wider world (apparently they are astonishingly similar in appearance, even for twins); we fought together at Hulm in 21.
 L'oç gazou a se caut mesgournað cos horfiant eð lon alcun fegnment y var prolongað lonc meis—ma jo no dey l'oc invectif souvr neðan jamay lo quïr.|That was a horrifically-mismanaged offensive and in all honestly prolonged the war for months—but I mustn't start this rant, or I will never end.
 Jacom n'aye nien fait for sy sour e lorrell'aldr lavar, toð cas final (ig degnant un quil quemant desirar eð y convoc de Frioul an asc paçous sevir volois lon fregn sy memoranç influïr), e donc no poð jo nien fair for te rannuðar all'oc melodram.|Jacom had nothing but praise for his sister and their parents, in any case (although the desire for a warm bed and the call of peacetime Furlaine no doubt influenced his recollection), so I cannot do anything but recommend the opera to you.
 Nos javigaum toð y majon livr por detaxion cas aur.|We searched the whole library for syntheses involving gold.
@@ -1419,7 +1419,7 @@ Banc redirigent machinal receveurn magn aversion.|Automated redirection banks we
 Primer dragm ougl raccaldar n'un frigsoir lað e tatover frigsar sur foy preuç un cart hour, mout toglað (fin a y mornç se crostn eð y carn se molfin).|First heat some oil in a broad pan and fry the tattover over gentle fire for a quarter-hour, often stirred (until the pieces crispen and the flesh becomes soft).
 Bulb de ceul eð y pevr jarras affigr eð eç cocinar longhessem naðusc.|Add in the stalk-onion bulb and the jarraspepper and cook a little longer.
 Mistur souseïr, ougl ancour raccalder ny frigsoir, eð y kes frigsar dessur jusc aure.|Subside the mix and heat more oil in the pan, on which fry the cheese until golden.
-Tatover e kes condensar eð envouvr cos total tandic aromar con sal e pievr sec ne calscon quantað casc quemant.|Bring together the tattover and cheese and fully involve while including salt and drypepper in whichever amount suits.
+Tatover e kes condensar eð envouvr cos total tandic aromar con sal e pevr sec ne calscon quantað casc quemant.|Bring together the tattover and cheese and fully involve while including salt and drypepper in whichever amount suits.
 Farrago porçonnar ne bol covauclið eð eç retenir jos y foy, soulor toð ou coroccar sur y frigsoir savorað eð eç frigsar volonter.|Divide the farrago by covered bowls and hold near the fire, then crack the eggs into the seasoned pan and fry as desired.
 Cos final casc ou mettr dessur dy desc eð y ligt dy ceul fair scadrir atras.|Finally place the eggs atop each dish and scatter with the rest of the stalk-onion.
 L'agent dy Majon Roug souseyeu l'oç scard commoðer.|The Red House agent dealt with that resistance group.
@@ -1509,8 +1509,8 @@ Jo socquau ne my caðer pille cos ajoutað.|I sank gratefully into my padded cha
 Ascur alcun hom n'a costoscment mis all'yert.|Make sure no-one's alerted the authorities.
 L'oc compostion de pont parmet coval menn gamblas apar.|This bridge design allows horses to draw barges past it.
 Cas y mesur 'degm' noncupað er tandem l'axiom de se sarvent d'un los soul par casc quantað compromis, e retenuð ern pie e lau y dou ne benoç com mesur a tagl sengr.|The so-called 'dime' measures eventually compromised the principle of having a single base for each quantity, and retained both the foot and the league as primary measures of length.
-Y pie er normalisað cos quidam naðusc stant y mojol entr dou mesur un picq pog inequal: y "pie romannesc" eð y "paum accenser" cathayan.|The foot was standardised somewhat arbitrarily as the midpoint of the very slightly discrepant "Roman foot" and the Cathayan "surveyor's span".
-Y lau, stant jusc oy irruniscablessem meðes tras Europ ag pie, ern fis a plaç d'un murðon a pie;|The league, which had been even less consistent across Europe than the foot, was fixed at ten thousand feet;
+Y pie fo normalisað cos quidam naðusc stant y mojol entr dou mesur un picq pog inequal: y "pie romannesc" eð y "paum accenser" cathayan.|The foot was standardised somewhat arbitrarily as the midpoint of the very slightly discrepant "Roman foot" and the Cathayan "surveyor's span".
+Y lau, stant jusc oy irruniscablessem meðes tras Europ ag pie, fo fis a plaç d'un murðon a pie;|The league, which had been even less consistent across Europe than the foot, was fixed at ten thousand feet;
 y mesur cas ustol y "migl" vole cavir inclus parmy y mesur degm com cinq mil pie, ben un demy a lau.|the traditional measure of the "mile" would be folded into the dime measures as five thousand feet, or half a league.
 L'oc contingent es autrað alcant soul dagormay, candon y pie (e cossy scient y lau) se cou un redefinition ne 1946 por ig y veloçtað normal œ tey cos exact deg gran lau par second.|This state of affairs has changed only once since, with the redefinition of the foot (and therefore the league) in 1946 setting the normal speed œ to precisely ten great leagues per second.
 Jo sucq de ty connardaç!|I'm fed up of your bullshit!
@@ -1540,11 +1540,11 @@ Nos se contentaum a un tatover soul porçonnar.|We made do with sharing a single
 Y malvaç cof auteç ag vanc nell'askouð!|The bad guy got hold of the vault's treasure!
 Stou joun sgarant effurar dy hal sdroy vabian closnautr.|We need to keep kids out of the abandoned warehouse.
 Domaget se sarf dy sgart angost por y lað illuminar par casc taug ny forganç a sy film, e vray veim nos l'ec advantaç n'un tal eðeglment ac dessur.|Domaget uses the narrow view to illuminate the broad in every aspect of his filmmaking, and we really see the benefits of such an approach here.
-Ða y belem ern grivlað a se produgr ny palaç e castel a Huzatr e Cartau, defagl all'auditoir vel y comport vistar entr y glonscel cambresc n'Albion ag scon nuçal d'Alexandra a Vascony e sy veyaç famous.|If the scenes were confined to the palaces and castles of Huzatre and Cartaw, it would be hard to connect the Welsh tangles in Albion to the second marriage of Alexandra of Vascony and her famed voyage.
+Ða y belem stan grivlað a se produgr ny palaç e castel a Huzatr e Cartau, defagl all'auditoir vel y comport vistar entr y glonscel cambresc n'Albion ag scon nuçal d'Alexandra a Vascony e sy veyaç famous.|If the scenes were confined to the palaces and castles of Huzatre and Cartaw, it would be hard to connect the Welsh tangles in Albion to the second marriage of Alexandra of Vascony and her famed voyage.
 Aglon poum nos y sensation a sculd parental sentir all'abat contr gam sgarant lonc y dou cainç secuð nell'oc caðen filmer.|Instead we can feel the sense of parental obligation warring with wanderlust in both threads of this filmic tapestry.
 L'Ascenent vil lon fregn denir siemprtað sull'icon stival, e l'oc merit fort l'oç sign a ðoranç.|The Ascendant will doubtless be a staple of the summer screen, and it well deserves the honour.
 Por l'ottem souvanç cavir jo rannuð vos passeð y ralley ne vin empordan beint e n'y plurem cantant a cançon de gloir voscon figurabr.|For the best experience I recommend you spend the afternoon drinking Empordan and singing as many songs of glory as you can think of.
-Lorry haubrojoranç er speut bannið.|Their advertisement was swiftly banned.
+Lorry haubrojoranç fo speut bannið.|Their advertisement was swiftly banned.
 Salað y vec ag hal sdroy.|Get off the bus at the depot.
 Posc je Pasq sta jo nacleu n'oc ort.|After Easter things were looking up.
 Des posc y preu enombranç corporal d'an 1840 er venuð all'idea oc orn dar a corporal cos naðeu lonc pondranç mena vars coglenç fatuous ða volir nis prestar a lorry natur alchemic|Since the first periodic tables in the 1840s it had been realised that naively ordering elements by atomic weight led to inelegant groupings when chemical properties were taken into account
@@ -1601,7 +1601,7 @@ Posc veg yon final le se descen y gas des nuot vars fastig, oc parisc sigt dijar
 Noc just exact com valent, nentamen: l'ec ardois aun untal nuvreç eð aplattið ant cogn parfait y catr.|Not quite like it should, though: the slates are so unmistakably new and uniform with perfect corners.
 Scey ne bon mont fragnç e lamn jagottað a casc postion yonoscon y glaç joivrau ne japot tras l'yarn e bojau l'ardois a vougheç.|There should be cracks and uneven edges in all the spots where the ice dammed up in the winter and pushed the slates awry.
 Ma toð ig es partið.|But all that is gone.
-Cay comoscon ða toð toll'eç annað ern diglað, ben ða alcun cainç den no'r bogr occors.|It is as if all those years have been erased, as though none of it had happened at all.
+Cay comoscon ða toð toll'eç annað stan diglað, ben ða alcun cainç den no'r bogr occors.|It is as if all those years have been erased, as though none of it had happened at all.
 Dighað: neleð me gemir / Ciel seraun yonoscon egreir.|Tell them not to cry at all / Heaven is wherever I fall.
 Tu a scaumel lavaç meyon benoçabr ou?|Do you have a spare pen I can borrow?
 Orruðe hour laundaus lavaç sad.|It seemed an awful waste of time.
@@ -1610,7 +1610,7 @@ Soumis son un diverstað a meyan por l'oc dissolution expondr; creudessem orruð
 Mout soumont is un tramou de labour sarver deut ag Scon Gran Morrenç, abiltant ig l'eç païsan ayent survecuð flagitn contingent dijarblessem de lorry segnour.|Often cited is a labour shortage of serfs due to the Second Great Dying, allowing those peasants who remained to demand more favourable conditions from their lords.
 L'oc es tesmognað par y conjogntur parceut entr diminution de pouvlanç e liberalisation (tan com hastous alcot a y clas entrpos smargent creut).|This is evidenced by the correlation observed between population loss and liberalisation (as well as how quickly the nascent middle class grew).
 Com bustr, Istr Boral sou Joseph III pardoy may a carant murðon gent, un sont de sy pouvlanç;|For example, Borland under Joseph III lost over forty myriad people, one-seventh of its population;
-sarvaç (deja a pognt d'exeunt fair) er abolið cas ley d'an 1564 N, ma ant l'oç hour yent lo no'r existant veraçter sull'istr tras un generation.|serfdom (already on its last legs) was legally abolished in 1564 N, but by that point it had not de facto existed on the island for a generation.
+sarvaç (deja a pognt d'exeunt fair) fo abolið cas ley d'an 1564 N, ma ant l'oç hour yent lo no'r existant veraçter sull'istr tras un generation.|serfdom (already on its last legs) was legally abolished in 1564 N, but by that point it had not de facto existed on the island for a generation.
 Me stou for savir ig nos seyau scaðr den.|I want to know we're on the same page.
 Nos targoim y fenestr de joivr ne spaiðant.|We scraped frost off the window.
 Servið son quelt dijarbr all'oç tarn.|They do a decent dinner at that inn.
@@ -1637,8 +1637,8 @@ E tu brouc y ðeu an pol ig attost prestabr|And you enjoy the thighs of a well-r
 E fin a tu aus doç tu dorme sou lumner, neðan Bon Jesu volois smargr des vogt dy foscur e lor raug te cavir por ty maðr noc aïðar con sy maðr|And until you were twelve you'd sleep in the light, so that Jesus wouldn't come out from the pitch dark and then get angry with you for not helping your mum with her mum
 Ben can noc menar te dignant Pieðr, desig—|Or for not walking the dog who you named Peter, because of—
 Or, vis, jamay n'a tu raçon la me dað|Well, in fact, you've never given me a reason for that
-Oc abseïð, jo sau tout a teir cas tey|Excluding that, I know everything there is to be had when it comes to you
-Jo sau tout a teir|I know everything there is to be had
+Oc abseïð, jo say tout a teir cas tey|Excluding that, I know everything there is to be had when it comes to you
+Jo say tout a teir|I know everything there is to be had
 Y fabr nou scenað t'ajoutaç ou?|Do you think the new play's fun?
 Ðe faun flaut casc juglot.|They go boating each July.
 Vis no som nos jamay eut a Duncloð.|We've actually never been to Dunclothe.
@@ -1652,7 +1652,7 @@ Y lamp se quïsceu, y coloir augtant ne vogt dy foscur.|The light went out, plun
 Nos som gran sviðour a conemir cas sar.|We're big fans of online shopping.
 Y tissour aun un exeunt scenað.|The weavers have staged a walkout.
 Ne cal comtað, regnað sou Comt Jerron, se prodoy l'Urgenç noncupað d'an 1170, y donjon devastant absoluð e menant vars y secession de Borgogn (e tandem y dissolution) dell'Empir Constant?|In which county, ruled by Count Jerròn, did the 1170 "Emergency" take place, utterly destroying the keep and leading to the secession of Burgundy from (and eventually the dissolution of) the Constant Empire?
-Cal gendr de parenteç aye Rey Adalmar a Bavarn con sy hereter Empres Catharin a Germany, y regnour final an Germany unið pre may a cinq cent annað?|What relation was King Adalmar of Bavarn to his successor Empress Cathrine of Germany, the last ruler of a united Germany for over five hundred years?
+Cal gendr de parenteç aye Rey Adalmar a Bavarn con sy heriter Empres Catharin a Germany, y regnour final an Germany unið pre may a cinq cent annað?|What relation was King Adalmar of Bavarn to his successor Empress Cathrine of Germany, the last ruler of a united Germany for over five hundred years?
 Hambourg sta y preu citað teudesc a se declarar cos solemn com insouject ag regn dell'Emperour, d'an 1207 N.|Hamburg was the first German city to formally declare as not subject to the rule of the Emperor, in 1207 N.
 Ma cal citað, un sodal ny Collijon (y Stadbond) smargent pres possent equal com Hambourg meðes, quottau jout for l'un annað aposc?|But which city, almost as powerful a member of the nascent Collision (the Stadbund) as Hamburg herself, followed suit just one year later?
 Mell'amig lou narreyau vars agir temerer.|My friend goaded them into acting rashly.
@@ -1666,7 +1666,7 @@ Casc ouvr pent all'eç mur stan vondrous.|All the wall-hung paintings were hideo
 Lodrignether l'oç no's meðes un pescot.|Technically that's not even a fish.
 Cay sdroy cas sar de jout jagat.|It's an online collection of narrative tropes.
 Benoçabr por seucq historic (ben toð cas por y croun dy bon leyour!) son l'Orn a Sagnt Jagm, ant nom dont costroit er y Monastir Peninsoler nossy citað surplombant.|More relevant to history (or at least to the good reader's moneypurse!) are the Order of Saint James, in whose name was built the Peninsular Monastery which overlooks the city.
-Fondað ny siecr deghem sou y patronisment de Domn Amegl a Brug, l'orn ern envoluð par un smout pouvlancer contr Geoffry II eð ern forçað a enfugr vars Istr Boral d'an 1067.|Founded in the tenth century under the patronage of Amelia of Bruges, they were implicated in a popular uprising against Geoffry II and forced to flee to Borland in 1067.
+Fondað ny siecr deghem sou y patronisment de Domn Amegl a Brug, l'orn forn envoluð par un smout pouvlancer contr Geoffry II eð forn forçað a enfugr vars Istr Boral d'an 1067.|Founded in the tenth century under the patronage of Amelia of Bruges, they were implicated in a popular uprising against Geoffry II and forced to flee to Borland in 1067.
 Oy es l'Orn (sy nom modern dignant, y Fraterntað Jagovin) cos majortaðer reconnuð por sell'yeustmandry Jaibos e por bempart dell'eiðel atorn dy citað posseyent, ig inclus y loy d'un parmy l'eç bagn roman antic yon Ausbagn recief sy nom.|Today the Order (with its modern name, the Jacobin Fraternity) is in the main known for its Jaibos breweries and for owning much of the land around the city, including the site of one of the ancient Roman bathhouses for which Axbane is named.
 Nossy bevy surplom y rif par un porrujon annexað.|The balcony in our suite overlooks the beachfront.
 Nuvr so jo my seucq historic molinant.|Lately I have been contemplating my legacy.
@@ -1695,7 +1695,7 @@ Cu sta y preu domn stant instroyour an universtað european, d'an 1219 com sodal
 Y madarc yeme lucr de huyaç.|The lawman was taking bribes.
 Nos miraum y horam d'un vrugheç lað.|We looked at the wide shot of broad moorland.
 Nos stou desveyar por y tragres eluïr.|We'll detour to avoid the parade.
-Lampionment baric n'aye presenç deja caut lonc y picq routel yon trovað ern y cambr pijon d'Ivocq, clignað com annex denover entr un livry a tom rediveu eð y tarn svelt Y Dou Ollem façadant vars Rout Veðr Foris.|Electric streetlight had not yet reached the little alleyway on which Ivock's boarding-house stood, squeezed like an afterthought between a second-hand bookshop and the narrow Two Elms pub which faced Old Foris Street.
+Lampionment barric n'aye presenç deja caut lonc y picq routel yon trovað ern y cambr pijon d'Ivocq, clignað com annex denover entr un livry a tom rediveu eð y tarn svelt Y Dou Ollem façadant vars Rout Veðr Foris.|Electric streetlight had not yet reached the little alleyway on which Ivock's boarding-house stood, squeezed like an afterthought between a second-hand bookshop and the narrow Two Elms pub which faced Old Foris Street.
 Le quaucau sortent sull'yeul ovart, y stanc passant dessou dell'oç lumner aurfiað de lamp y cercondment bagnant vars un caldour monochrom.|He hurried out onto the thoroughfare, walking through the pools of that golden lamplight which bathed the surroundings in warm monochrome.
 Y pian ja vat de ploy ern lousc jaint tandic l'eye tras y rout e desveyau theatrfiour arreloðeçað exeunt faint des y Paviglon e colant vars y quarf souterran y proismessem.|The still-wet cobbles glinted as he crossed the road and dodged theatregoers in their best clothes exiting the Pavilion and streaming to the nearest dusker station.
 Con tan cous moglastr l'octobr stan preuç contr y saçon, eð Ivocq remorde l'ouçon de sy dorangot gras pres toð pront.|Despite the damp it was unseasonably warm for October, and Ivock regretted opting for his heavy overcoat almost at once.
@@ -1771,7 +1771,7 @@ Cosogr ðe taussan men an haçot a maus.|The set cost less than a bunch of banan
 Tenguð lousc jaint penoirn dell'eç ranscel.|Glittering baubles hung from the branches.
 Desselut ratiocinau l'ig exist un lengaç vital (parmy sy scaunç a luy la lo nommau y Parol Divin) present nell'eç casel dy corp.|Desselut inferred the existence of a vital language (in her own writing she called it the Divine Word) present in the cases of the body.
 Rumour tardessem noc obstroint, plausibr no's ig la stimaus l'oc lengaç hebreu a verb, con tan l'exponois comport plusour ne sell'edition.|Despite later rumours, she probably did not believe this language was literally Hebrew, although she made several analogies in her publications.
-D'an 1770 y preu livr se descreint sceint er scaut par un scrittour lon nom e lor condonað vars l'Universtað ne Houlm.|In 1770 the first real self-describing book was written by an anonymous author and donated to the University of Hulm.
+D'an 1770 y preu livr se descreint sceint fo scaut par un scrittour lon nom e lor condonað vars l'Universtað ne Houlm.|In 1770 the first real self-describing book was written by an anonymous author and donated to the University of Hulm.
 L'universtað a y livr facsimilað alcant sur y quadrennial cos exact largecer com possibr, e l'original, a cost y scavr y nuverrem, es sgardabr nell'edifiç la dell'Andron a Heredtatur.|The university has duplicated the book once every four years in as exact a way as possible, and the original, alongside the most recent copy, may be viewed in their Department of Heredity building.
 My sour ignoy vondrous alcot sta y pegl meyon luy teissuð.|My sister kindly overlooked how ugly the hat I knitted her was.
 J'oyeu y domn issar set viglour.|I heard she has seven chauffeurs.
@@ -1797,7 +1797,7 @@ Veleð y luam covauclir pre exeunt fair.|Please put the toilet lid down before l
 Alcun hom nil nis mettr ag hayennaç çaf.|No-one will bother doing the extra homework.
 Y stoir de forç a sougl a sell'inceuçon d'an 1902, posc y nux atomic descovrir—oc a digr, descovrir ig pres toð y moul d'un atom es se situant vars y centr den.|The story of threshold force begins in 1902, with the discovery of the atomic nux—that is, the discovery that almost all of the heft of an atom is located near its centre.
 L'oc occorreu all'Atelier a Nÿstad (lor posseïð e gournað nell'un man par theorist soustançal Lohic Courvoiseir de Nÿstad) ny citað cappaçan a Varonøw.|This took place at the Nÿstad Atellier (then privately owned and run by substantial theorist Lohic Courvoisier de Nÿstad) in the Cappatian city of Varonøw.
-Y corporal benoçað ny majortað imman de molin a sougl, kildarc, er preu cadarað ag siecr novoç mi ny scir irðonnesc de Killdara (dont vien y nom dy soustanç, tras y parol cambresc kildárc 'de Killdara').|The corporal used in the vast majority of threshold mills, killdark, was first isolated in the mid-nineteenth century in the Irish shire of Killdara (whence, via Welsh kildárc 'from Killdara', the substance's name).
+Y corporal benoçað ny majortað imman de molin a sougl, kildarc, fo preu cadarað ag siecr novoç mi ny scir irðonnesc de Killdara (dont vien y nom dy soustanç, tras y parol cambresc kildárc 'de Killdara').|The corporal used in the vast majority of threshold mills, killdark, was first isolated in the mid-nineteenth century in the Irish shire of Killdara (whence, via Welsh kildárc 'from Killdara', the substance's name).
 Portingal sta un tarromour cas forç a sougl, interrogment sur sy laboriostað ag dezein 1950 parsount neðan mantenir ig ðe basn par astraphor enajað des y Collujon Drengot.|Portingale was a pioneer of threshold force, funding research into its effectivity in the 1950s in a bid to reduce their dependence on astraphor exported by the Drengot Collusion.
 Le'r asseyent eð un aujon survolant.|He was sat leafing through a magazine.
 Lor luïsceum nos caugtrbal jos y loub.|Then we played football near the shops.
@@ -1812,8 +1812,8 @@ Jo sta raussið d'y vec vabian closnautr montar.|I was loath to board the ricket
 Torn all'An ne Deganny interman un cainç scroçabr.|New Year's in Deganny is a harrowing experience.
 Nossell'appragl phasm n'a ceu alcun grastum.|Our television set is almost completely flat.
 Y Fraterntað Jagovin, cos historic tan connuð sou nom dell'Orn a Sagnt Jagm, es un communtað religious y citað Ausbagn hamtant ag rimot souðer n'Istr Boral.|The Jacobin Fraternity, historically also known as the Order of Saint James, is a religious organisation based in the city of Axbane on the south coast of Borland.
-Y Fraterntað er instaurað ne Flandr ag siecr deg sou y patronnement d'Amegl de Brug.|The Fraternity was founded in tenth-century Flanders under the patronage of Amelia of Bruges.
-Ag siecr onç l'oc er envoluð com conjuraçonnour n'un smout pouvlancer vecin contrell'Emperour Drengoçan Joffrey II eð obligað a enfugr tras mar vars Istr Boral.|In the eleventh century it was implicated in a local popular uprising against Drengot Emperor Geoffry II and forced to flee over the sea to Borland.
+Y Fraterntað fo instaurað ne Flandr ag siecr deg sou y patronnement d'Amegl de Brug.|The Fraternity was founded in tenth-century Flanders under the patronage of Amelia of Bruges.
+Ag siecr onç l'oc fo envoluð com conjuraçonnour n'un smout pouvlancer vecin contrell'Emperour Drengoçan Joffrey II eð obligað a enfugr tras mar vars Istr Boral.|In the eleventh century it was implicated in a local popular uprising against Drengot Emperor Geoffry II and forced to flee over the sea to Borland.
 La costroyeurn ðe y Monastir Peninsoler ancour Ausbagn surplombant.|There they built the Peninsular Monastery which still overlooks Axbane.
 Moneð des y Fraterntað droughau ag Palaç Jagovin nell'eç bandlau atorn de Damvað, ec posc lorry compliscenç ag siecr ogtoç nuverrem denent y posson fis por y parolment borallesc.|Funds from the Fraternity contributed to the Jacobin Estates on the outskirts of Damvath, which on their completion in the late eighteenth century became the fixed location of Borland's parliament.
 Sceint oy l'orn es reconnuð cos majortaðer por y colluy seyon aut, Yeustman Jaibos, tan com eiðel spanent ny citað posseyent (ig inclus y plaç dell'un parmy y bagn roman antic la).|Today the organisation is known mostly for the guild they own, Jaibos Breweries, as well as for owning significant lands in the city (including the site of one of the ancient Roman bathhouses there).
@@ -1831,7 +1831,7 @@ Le dis "Yela!" pre bouð souvr.|He said "Bye!" then hung up.
 L'oc darfour quesq es tan quemant.|This purple bathrobe is so comfy.
 Jambor d'Avry sta un rey primal n'Avry pog asc apres dy succession dy polity des y principaltað ny siecr derran.|Jambor of Awry was an early king of Awry following the polity's succession from the principality of the previous century.
 Le lo gournau a mesur de spanjon d'influyenç mojaric, entrant n'union monarchic coll'eç principaltað auster ne Haliç e Valac, e denent un alley ag Roman malchassian ny souð.|He oversaw significant expansion of Mojaric influence, entering into personal union with the eastern principalities of Halich and Valack, and becoming an ally of the Malchassian Romans to the south.
-Y gran Livrer de Sobjan er costroit durant sy regn, stant un gravatoir parmanent d'ouvr temporane.|The great Library of Sobjan was built during his reign, an enduring archive of contemporary works.
+Y gran Livrer de Sobjan fo costroit durant sy regn, stant un gravatoir parmanent d'ouvr temporane.|The great Library of Sobjan was built during his reign, an enduring archive of contemporary works.
 L'ec incluyen scrit mathematic des y Caliphað Sengr, ec auvorn ne proces de traducçon a latin.|These included mathematical texts from the Single Caliphate, being translated into Latin in great quantities.
 Eç siecr apres, un dy descovan dy Livrer intermaneu cla por y Codex Mysarnos notoir descifrar.|Centuries later, one of the Library's manuscripts was instrumental in decoding the famed Mysarnos Codex.
 Jo no's un cougt droccað benoçant posc un dezein.|I haven't used a compact disc in ten years.
@@ -1855,7 +1855,7 @@ Nos pretenm ig casc nou muncef ain nux.|We plan to have a hub in each new town.
 Te stove un cottegl a ty dois accatar?|Did you need to buy a new phone case?
 Ag siecr iniçal posc sell'inceuçon sta y Convey Australier de natur ceu band glorfiað (toð a verb) de batman.|In the first decades of its existence the Convoy Australier was in essence a (quite literally) glorified band of mercenaries.
 L'oc aye se pleis auvorn dell'eç mordeth eð y confraðr primer, des y Prinçipaltað de Mystra ny Greç vars y fallout imparyent a Jerusalem.|It was heavily involved in the first crusades and related ventures, from the Principality of Mystra in Greece to the unsuccessful forays in Jerusalem.
-L'oc fo cargað con y mission d'y stat novel n'Antioch eð y Havan Simon administrar tost posc lorry concarnç ag siecr doç.|It was appointed to administrate the new states of Antioch and Port Simon soon after their conquests in the twelfth century.
+L'oc fo cargað con y mission d'y novel stat n'Antioch eð y Havan Simon administrar tost posc lorry concarnç ag siecr doç.|It was appointed to administrate the new states of Antioch and Port Simon soon after their conquests in the twelfth century.
 Pap Just emmenau y gournanç d'Antioch eð y Havan Simon des y Convey d'an 1208 com outrcaum d'un calver offirnt entr facçon.|Pope Just revoked the Convoy's rulership of Antioch and Port Simon in 1208 as the culmination of a escalating inter-faction struggle.
 Interim, concordað cos general es ig l'oc act erreveu y Convey des un fujon d'eromn tandem (deut ag mescainç porrujonnant dy Mordeth Disceint).|However, it is generally agreed that this act saved the Convoy a great amount of trouble in the long run (given the imminent disaster of the Failed Crusade).
 Jo pos parolar coll'autour ou?|May I speak to the owner?
@@ -1878,7 +1878,7 @@ Innascment primal vars Santrafeu abrangen stemn a coval e hopr metal, ec vença�
 D'an 1590 Derek Nassow, y heriter imminent por y Ducað a Avosc ne Willemy, enfugheu tras mar vars Santrafeu deut a raçon inconnuð.|In 1590 Derek Nassow, the heir apparent to the Duchy d'Avosche in Willemy, fled overseas to Santrafew for unclear reasons.
 L'oc menau vars un scandal incendier cort soccoðent tras Europ ovester e cos particuler l'oç un de Rey David a Franç.|This led to an incendiary scandal that rocked courts across Western Europe and especially that of King David of France.
 Y Travodað Becouin d'an 1621 motivau y comport cas ley entr Santrafeu eð y gent Mendevan ny region fin a pieç generaçon apres.|The 1621 Becouin Treaty outlined the legal relationship of Santrafew to the Mendevan peoples of the region for some generations.
-Ne souc dy Gazou Breðonnesc a Santrafeu, yon rumorað er ig y Mastoisèt cos propr soloirn droug entarn, y travodað er broyað par meyan dy coyenç marcer effectuað de Bourgmer Alexandre fi Marco tan con sell'exiglment dy Mastoisèt a verb (eð autr tribu Mendevan a gest).|Following the British Sack of Santrafew, in which the Mastoisèt in particular were alleged to have collaborated, the treaty was broken by Mayor Alexandre fi Marco's embargo and ten-league exile of the Mastoisèt in particular (and other Mendevan groups in practice).
+Ne souc dy Gazou Breðonnesc a Santrafeu, yon rumorað er ig y Mastoisèt cos propr soloirn droug entarn, y travodað fo broyað par meyan dy coyenç marcer effectuað de Bourgmer Alexandre fi Marco tan con sell'exiglment dy Mastoisèt a verb (eð autr tribu Mendevan a gest).|Following the British Sack of Santrafew, in which the Mastoisèt in particular were alleged to have collaborated, the treaty was broken by Mayor Alexandre fi Marco's embargo and ten-league exile of the Mastoisèt in particular (and other Mendevan groups in practice).
 Intermane pegntur d'un joun doncel eð un guy.|It was a painting of a young girl and a guinea pig.
 Cayen orðenjanç theoretic plusour descovart par bonaventur.|Many scientific inventions were discovered by chance.
 A gest, aucel son progenies jug dez dragon.|In fact, birds are descended from dinosaurs.
@@ -1929,11 +1929,11 @@ Y Sar smargoy cos contemporane e parallel a apprestanç politic comportant allor
 Plusour parmy y citað ag Sar stan cos simoltane part de polity ja sceint (com bustr, Ausbagn e Pentros no stan jamay sovran a verb deur Istr Boral).|Several of the Mesh's cities were simultaneously part of pre-existing polities (for example, Axbane and Pentrose were never legally independent from Borland).
 L'oc ort de tal federaç de stat citaðer se caf ascreut all'aðoinç pouvlancer eð y crescenç de citað rapid tras l'approism dell'epoc all'Atelier Mondial.|This rise of such federacies of city-states has been attributed to the rapid population growth and expansion of cities in the run-up to the Global Workshop period.
 Y Sar cos particuler sta ag rostr de machinaçon cas vascel costroinç, e lo poðe un ronç remarcabr cavir dy recoglenç de carbon mondial.|The Mesh in particular was at the forefront of shipbuilding technology, and had access to an appreciable fraction of the world's coal production.
-J'osc sy cigl novel; la's mallovicher sad demay.|I hate her new girlfriend; she's far too chipper.
+J'osc sy novel cigl; la's mallovicher sad demay.|I hate her new girlfriend; she's far too chipper.
 J'addoceu my sour d'ig j'er grabattour parsiscent.|I told my sister I was training to be a paramedic.
 Jo's cuidant cos nuvr a my dois extollir.|I've been meaning to upgrade my phone.
 Posc un liesc com citað seconder n'Albion, Londr redenoy alcheðr y cafloy imperial ny region durant y Scon Tetrarchy ne sona d'un part dy Preu Empir Drengoçan.|After time as a secondary city in Albion, London became the imperial capital of the region once more during the Second Tetrarchy as part of the First Drengot Empire.
-Y Preu Ðurnç a Londr fis loy d'an 1290; ag mendrem 400 hom ern occis deut ag catastroph d'un semman cohernt.|The First Burning of London took place in 1290; at least 400 people were killed in the ensuing week-long disaster.
+Y Preu Ðurnç a Londr fis loy d'an 1290; ag mendrem 400 hom forn occis deut ag catastroph d'un semman cohernt.|The First Burning of London took place in 1290; at least 400 people were killed in the ensuing week-long disaster.
 L'oc no sta for un parmy conflagraçon plusour ny preu demy dy scon millenner, bempart dec y citað se cou cos saçonner concas des y norð ben y souð.|This was one of several conflagrations in the first half of the second millennium, many due to the city being perennially conquered from the north or south.
 Posc l'eç Rix Democratic a plaç meg ny siecr ogtoç yemoy Londr cos final un autonomy durabr deur sy païs vecin d'an 1749 sou Quen Margaret, poðent sy caðen ancestral ligar ag linaç reyal de Marclont e Cant y dou.|The Democratic Wars of the mid-eighteenth century saw London finally gain lasting independence from its neighbours in 1748 under Queen Margaret, who could trace her ancestry to the royal families of both Markland and Kent.
 L'offiç de Segr Bourgmer remane possent cos politic aðief por hast pareïr coll'oç dy nou monarch, interim.|The office of Lord Mayor remained politically powerful enough to rival that of the new monarch, however.
@@ -1941,8 +1941,8 @@ Y rostr a my creðon es coroccað.|The tip of my pencil has snapped.
 Nos stoun balis sobottal luicessem.|We need stronger radio transmitters.
 Y sounç de var interromoy eç accommission corrogaçonal.|War breaking out interrupted those infrastructure projects.
 Durant y Scon Tetrarchy loy fignt ny scon millenner primal, Libya (y nom temporane Ifricia dignant) sta un admiraltað majour ny Caliphað Sengr, regnað de Tunis.|During the Second Tetrarchy of the early second millennium, Libya (under the name Ifricia) was an important admiralty of the Single Caliphate, ruled from Tunis.
-Tandic prepondranç imperial n'Europ e n'Afric norðer inceveu sy dissoluçon, tan cossy y Caliphað Sengr; un admiraltað autonom ne Libya er depos d'an 1237 (a veg ceu temporane coll'admiraltað Morrou nell'ovest).|As imperial hegemony in Europe and northern Africa began to fall apart, so did the Single Caliphate; an independent admiralty in Libya was declared in 1237 (at roughly the same time as the Morrove admiralty to the west).
-Noc obstroint ig y flottisc Libyan no'r ja commarçant cos direct ag Novomond ny siecr seç, moðnaut des y region stan frequent armað par y flottisc marcander de Morrac e (cos particuler) de Provenç.|Although Libya's navy was not yet trading directly with the Novomund in the sixteenth century, seamen from the region were commonly employed in the merchant fleets of Morrack and (especially) of Provence.
+Tandic prepondranç imperial n'Europ e n'Afric norðer inceveu sy dissoluçon, tan cossy y Caliphað Sengr; un admiraltað autonom ne Libya fo depos d'an 1237 (a veg ceu temporane coll'admiraltað Morrou nell'ovest).|As imperial hegemony in Europe and northern Africa began to fall apart, so did the Single Caliphate; an independent admiralty in Libya was declared in 1237 (at roughly the same time as the Morrove admiralty to the west).
+Noc obstroint ig y flottisc Libyan no'r ja commarçant cos direct ag Novomond ny siecr seç, moðnaut des y region ern frequent armað par y flottisc marcander de Morrac e (cos particuler) de Provenç.|Although Libya's navy was not yet trading directly with the Novomund in the sixteenth century, seamen from the region were commonly employed in the merchant fleets of Morrack and (especially) of Provence.
 Ny siecr settoç primal, y gonfan de Libya abrange dou quarrel neir, un blanc eð un oransc.|In the early seventeenth century, the banner of Libya comprised two black fields, one white and one orange.
 Noc imprefait es ig tell'heir denoy sleut.|I'm not surprised your son's a politician.
 J'aye spien ig l'oç madarc no fos a squid.|I hoped that that cop wasn't on the take.
@@ -1963,10 +1963,10 @@ L'aye min baðaspat de my vestið vabian closnautr.|He looked nonplussed at my b
 Orruð ig scerra alcheðr un parolment scaug.|It seems there'll be another hung parliament.
 Y baðrment trassonnau an bercellot desbiacq.|The ensemble shifted to a swung ballad.
 Mell'heir es cogntið de liesc recorrent veg ancour.|My son’s stuck in a time loop again.
-Le crey jo saif noc, lon digr.|He thinks I don’t know, of course.
+Le crey jo say noc, lon digr.|He thinks I don’t know, of course.
 Le n'a jamay me descont ig ly cay l'oc (ben ig le poð l'oc fair, parcanç; jo no's scur de calun).|He’s never told me that this happens to him (or that he can do this, possibly; I’m not sure which it is).
 Plausibr es ig jo's un mal maðr, ða jo n'ay me provað a l'oç confeyanç dignar.|Maybe I’m a bad mother, if I haven’t proven myself worthy of that trust.
-Ma no scein for tan veg yon se poð y heir sgardar sy jorn passant a monnocquant ant impatienç infruniscent, reagent de tout teyon dis cos rapid demay just com picq eð alcun goppiet mostrant ag cainç y goppietandessem meðes, e soulor descenent souscen desmecchiattað ma rajounað eð ant un exuberanç novel a cost un incainç vars emboscment souvar dy cos y previsiblessem meðes, fin a tu discern y ratiocinaçon evident.|But there are only so many times that you can watch your son trudge through a day with bored impatience, anticipating everything you say just a little too quickly and showing no surprise to even the most surprising event, and then come downstairs the next day disoriented but rejuvenated and with a new zest for life and a tendency to get blindsided by even the most predictable things, before you make the obvious connection.
+Ma no scein for tan veg yon se poð y heir sgardar sy jorn passant a monnocquant ant impatienç infruniscent, reagent de tout teyon dis cos rapid demay just com picq eð alcun goppiet mostrant ag cainç y goppietandessem meðes, e soulor descenent souscen desmecchiattað ma rajounað eð ant un novel exuberanç a cost un incainç vars emboscment souvar dy cos y previsiblessem meðes, fin a tu discern y ratiocinaçon evident.|But there are only so many times that you can watch your son trudge through a day with bored impatience, anticipating everything you say just a little too quickly and showing no surprise to even the most surprising event, and then come downstairs the next day disoriented but rejuvenated and with a new zest for life and a tendency to get blindsided by even the most predictable things, before you make the obvious connection.
 Ðe ayen heu lastumnesc, com ig ðe no'rn for pog dormið.|They looked haggard, as though they hadn't slept much.
 Surcay nos condoceu an çoir parey.|It turns out we go to the same gym.
 Fig a pounçar e faç mey garaf poll'oc gat!|Stop flirting and help me with this barrier!
@@ -1985,7 +1985,7 @@ L'origin y plausiblessem dell'oc parol (v. sudrabs ne Lithovan, 'asrvae ne Hausa
 L'indrec de my sour es se trovant entr hugt e gavisc.|My sister's charity is going from strength to strength.
 Nossy foyail es fis e scein lau pre yonoscon.|We're out of petrol in the middle of nowhere.
 Tal inquit no son dignant de mell'yam.|Such words are unworthy of my uncle.
-Y Colluy dy Nou Mont nommað cos auspecer sta corporalleyað par Malic Mounir al-Hamdawi d'an 1643, e pres pront la nonçamen dell'Abanc Novomondin fos yent a cort ern vascel dy Colluy accaçað vars l'ovest.|The prophetically-named New World Company was established by Malik Munir al-Hamdawi in 1463, and almost as soon as news of the Novomundane Landfall had reached court were ships of the Company sent westward.
+Y Colluy dy Nou Mont nommað cos auspecer fo corporalleyað par Malic Mounir al-Hamdawi d'an 1643, e pres pront la nonçamen dell'Abanc Novomondin fos yent a cort ern vascel dy Colluy accaçað vars l'ovest.|The prophetically-named New World Company was established by Malik Munir al-Hamdawi in 1463, and almost as soon as news of the Novomundane Landfall had reached court were ships of the Company sent westward.
 Cay l'oc flottisc ayent communeyanç fait con y gent dell'Arcabil, tan com y dou empir Mascic e Tavancin.|It was this fleet which made contact with the peoples of the Arcabil, as well as the Mashick and Tavancine empires.
 Vascel Morrac stan y primer a y mont circonnavigar, stant parvenuð ag Gran Rajognt Borunesc d'an 1517 via Cappatia.|Morrack ships were the first to circumnavigate the world, having reached the Great Borunesk Meeting of 1517 via Cappatia.
 Souspeut es ig y mort dell'Emperour Tavancin Carivasary d'an 1660 fo veraçter un assassinat accommis lonc commant Morrac, cos cuidað por y cæros ovrir d'un commarç cas argent profitandessem des Tavancy.|The death of Tavancine Emperor Cariwasary in 1660 is suspected to have been an assassination carried out on Morrack orders, purportedly to allow for more profitable trade in silver from Tavancy.
@@ -2016,7 +2016,7 @@ Y domn sta cort naðusc e la porta un curtel de bilrod plen, con sy visaç vella
 Jo save l'oc caum contene un fardig d'aloud.|I knew this piece contained a lute solo.
 Nos feim un baugl lau pre yonoscon.|We camped in the middle of nowhere.
 Y taflot nos souvolau un nievr d'increiltað atorn.|The game sowed seeds of mistrust among us.
-All'hour dy Tourf, y Collujon sta gournað par un administraçon stanne sou Romney Darchild.|At the time of the Furore, the Collusion was being administered by a tinplate government under Romney Darchild.
+All'hour dy Tourf, y Collujon er gournað par un administraçon stanne sou Romney Darchild.|At the time of the Furore, the Collusion was being administered by a tinplate government under Romney Darchild.
 Sceye parmy toð y scandal dy Tourf y descujon dy traitment furtif accommis par y Majon Roug noncupað (y nom commun por y Minister a Moustr dy Collujon) situað a Roun.|One of the scandals of the Furore was the revelation of the clandestine activities undertaken by the Red House (the popular name of the Collusion's Ministry for Information) in Roun.
 L'ec gest, enombrað ny Brevier de Darchild, surcourn un kirt ag madou, cos primer l'administraçon actual dessoclant eð apres cos surrun y Collujon enter.|These activities, enumerated in the Darchild memorandum, lit the fuse, first bringing down the current administration and shortly thereafter the entire Collusion.
 Un rebondisc dy sfondranç dy Collujon Drengoçan sta l'effectuanç dy reform Cantuesc cas ostracon, ec volen a lorry mesur sarvir com model ny polity plusour tras y mont.|One effect of the collapse of the Drengot Collusion was the implementation of the Kentish ostracon reforms, which would go on to be used as a model in several polities across the globe.
@@ -2080,7 +2080,7 @@ Nos erau runam alleyant con lou commet a fin.|We were secretly on their side the
 No scerraun alcun imprefait ny brevier je posc.|There won't be any surprises in tomorrow's report.
 -1. Cal historicour dy siecr catorç fornisceu primer y Preu Empir Drengoçan sceint tre siecr paravant con nom de 'Empir Constant', oc moliscent a lo ligar con y Pag de Constanç (y part frender dy Tetrarchy Diocletian dy siecr catr, Bretagn Roman e Gal administrant)?|-1. Which 14th-century historian first referred to the First Drengot Empire of three centuries earlier as the 'Constant Empire' in an attempt to link it to the Page of Constance (the unrelated part of the fourth-century Diocletian Tetrarchy ruling over Roman Brittania and Gaul)?
 -2. Nommeð tre conflict entr polity (y Var Teudesc Primer abseïð) ec loy fignt a mesur dell'epoc dy 'Paç Lonc", ac definið com y liesc d'an 1770 fin a 1815.|-2. Name three international conflicts (not including the First German War) which took place during the 'Long Peace' period, here defined as lasting from 1770 until 1815.
--3. Cu scaveu l'ouvr d'an 1872 'Un Onomatoir Parçal dy Novel Londr'? Com y bustr y reconnuðessem des l'epoc Futurist de romanç parachthon, lo contien y preu inquit de 'ardois' por un icon moustr despleyant indicar, tan com cal autr fanglanç lengacer surveunt?|-3. Who wrote 1872 work 'An Incomplete Dictionary of the New London'? As the crowning example from the Futurism period of parachthon romance, it contains the first attestation of 'slate' for a screen displaying information, along with what other lasting coinages?
+-3. Cu scavoy l'ouvr d'an 1872 'Un Onomatoir Parçal dy Novel Londr'? Com y bustr y reconnuðessem des l'epoc Futurist de romanç parachthon, lo contien y preu inquit de 'ardois' por un icon moustr despleyant indicar, tan com cal autr fanglanç lengacer surveunt?|-3. Who wrote 1872 work 'An Incomplete Dictionary of the New London'? As the crowning example from the Futurism period of parachthon romance, it contains the first attestation of 'slate' for a screen displaying information, along with what other lasting coinages?
 N'entrant la jo lou veu cleunfeyant ag soufa.|I walked in on them cuddling on the sofa.
 Vos eð y jacas nuvr oïð ou?|Have you heard the new gossip?
 Y stuðant infruniscent assisten y leiçoir.|The bored students were at the lecture.
@@ -2126,10 +2126,10 @@ Jo no's for hom|I'm just a person
 Un truc par ados me fey gringlar a cainç.|A shove from behind knocked me over.
 Nos coum zovay eð alandaum tost.|We took a taxi and arrived early.
 Jug sein y domn egrtumnesc n'eç cahut.|Keep the sick women quarantined.
-Y Caðer ne Pieðr Roug sta costroit ny siecr deg jagerrem atorn d'un los ne greut; y nom dy carpenter es repars ne vogt dell'hour.|The Redstone Chair was fashioned in the late tenth century around a block of sandstone; the name of the carpenter is forgotten.
-L'oc los intermane (cos noncupað) y los yon dessur y Nuçal a Elved entr un princes Markesc eð y sovran de Norðhumbr Dannesc er solemneyað, rix entr y dou polity coyent tras un siecr pres enter.|This block was (allegedly) the block upon which the Elved Marriage between a princess of Markland and the ruler of Dane Northumber was solemnised, ending hostilities between the two polities for almost a century.
+Y Caðer ne Pieðr Roug fo costroit ny siecr deg jagerrem atorn d'un los ne greut; y nom dy carpenter es repars ne vogt dell'hour.|The Redstone Chair was fashioned in the late tenth century around a block of sandstone; the name of the carpenter is forgotten.
+L'oc los intermane (cos noncupað) y los yon dessur y Nuçal a Elved entr un princes Markesc eð y sovran de Norðhumbr Dannesc fo solemneyað, rix entr y dou polity coyent tras un siecr pres enter.|This block was (allegedly) the block upon which the Elved Marriage between a princess of Markland and the ruler of Dane Northumber was solemnised, ending hostilities between the two polities for almost a century.
 Bempart monarch n'Albion sousevent, e cos particuler de Marclont e de Norðhumbr, ern coronnað sur y Caðer ne Pieðr Roug.|Many subsequent monarchs of Albion, and especially of Markland and Northumber, were crowned on the Redstone Chair.
-Durant y Scon Tetrarchy ny siecr onç e doç, gran part all'Emperour Drengoçan asseyen sur y Caðer, e cossy sceint lo'r emportað a Londr.|During the Second Tetrarchy of the eleventh and twelfth centuries, most of the Drengot Emperors sat upon the Chair, and as such it was relocated to London.
+Durant y Scon Tetrarchy ny siecr onç e doç, gran part all'Emperour Drengoçan asseyen sur y Caðer, e cossy sceint lo fo emportað a Londr.|During the Second Tetrarchy of the eleventh and twelfth centuries, most of the Drengot Emperors sat upon the Chair, and as such it was relocated to London.
 Nos yemoim toð pront scið y Jorala sta nothe.|We immediately realised the Jorala was forged.
 Y ðocaç lour coy de dormir ec noit.|The trauma keeps them up at night.
 Jo fey rongelon sur my hamac fin a quelt.|I dozed in my bunk until dinner.
@@ -2159,7 +2159,7 @@ Sceye un rasamar de conement pront la y varous cof yert.|There was a rush of cus
 Nos s'asseyau tras port e conteyau assuvar.|We sat outside and counted shooting stars.
 Y Conjuraçon Cornovan sta un collaboraçon entr y Reyaum a Dorogn Massem e Roger Drengot, Duc a Normandy por y pretenjon dy Duc sur y thron de Cantuer appoyar.|The Kernovan Conjuring was a collaboration between the Kingdom of Greater Devon and Roger Drengot, Duke of Normandy to press the Duke's claim to the throne of Kent.
 Cossirað es l'oc vellisqment com y caus y proismessem por ig y Preu Empir Drengoçan inceveus tras Gal eð Albion souðer.|This plot is considered the proximate cause for the creation of the First Drengot Empire across Gaul and southern Albion.
-Y Conjuraçon sta accommis d'an 1029, ne souc dy mort de Rey Rodolf de Cantuer.|The Conjuring was carried out in 1029, following the death of King Rodulf of Kent.
+Y Conjuraçon fo accommis d'an 1029, ne souc dy mort de Rey Rodolf de Cantuer.|The Conjuring was carried out in 1029, following the death of King Rodulf of Kent.
 Cantuer sou Rodolf regnant jaçol aye se monfeyað, ant dominanç reconnuð sur y Vessax diminoit (con tan noc inkerellað par Dorogn) e sur Essax ny norð.|Kent under the long-reigning Rodulf had prospered, with recognised supremacy over the rump Wessex (albeit not uncontested by Devon) and over Essex to the north.
 Posc ogt dezein de manovranç politic, Rodolf parmane ag sougl de mort eð y succession no sta bogr certan.|After eight decades of political manoeuvring, Rodulf lingered on his deathbed and the succession was deeply uncertain.
 J'attenoy cos infruniscent tandic y grimmour cave yert.|I waited impatiently while the computer booted up.
@@ -2211,7 +2211,7 @@ Quippe porra tu noc my grivougl leir.|Of course you can't read my scrawl.
 L'Agathin a Ðar derra nis prestar ag stoccad cas piver.|The Farms Minister must consider the livestock lobby.
 Lor sceye un nuton a tapeçment e pieðr nuaç.|Then there was a fad for hangings and stonework.
 Entrou 1: Comoscon poðe Brittan sy stat de prestanç cultural sur Mendeva Brittanesc vardir durant l'eç annað final ny siecr novoç cant meðes l'oç un sovra Brittan cas pouvlanç e laboriostur, e diçr alcot sta l'oc famostað por ig y moraltað dy Renovellaçon Famigler fosn enajað vars y Novomond?|Question 1: How did Britain retain its position of cultural prestige over British Mendeva during the final years of the nineteenth century even as the latter overtook Britain in population and industry, and to what extent were the ethics of the Household Renovation exported to the Novomund via this cachet?
-cas y primer, carað svoccanç de tramigraçon monfeyað dy vige novel tras l'Atlantic e de frequenç de mariðaç combinant entrig.
+cas y primer, carað svoccanç de tramigraçon monfeyað dy novel vige tras l'Atlantic e de frequenç de mariðaç combinant entrig.
 for the first, look for talk of increased transmigration of the new rich across the Atlantic and rates of intermarriage thereamongst.
 ancour, præmieð soumoin vars y scanjon dy spaiðoir Vetomondin a masquira e vars y façon yon i destarrisceu y costumn autochthon de kiveury (cos particuler carað referiscenç ag chronic de Hasiny par Coswteg).
 further, reward mention of the boom of the Vetomundane masquira genre and how it displaced the autochthonous herdtale tradition (specifically look for reference to Coswteg's Hasiny diaries).
@@ -2223,7 +2223,7 @@ Jo poðe noc me quottar ag scop dy trevold parachthon.|I couldn't get on board w
 Le reconnosc ou sy fraðr sey tan demastr?|Does he know his brother is so judgemental?
 Desmettað noc y sontiçtað de nossell'entrpris!|Don't fire the backbone of our company!
 Nos orruðe casc y gent ausn taur a ençar destr.|It looked like everyone was eager to get going.
-A sy lasc novel scey un tombr a sdegn.|Her new film's garnered lots of criticism.
+A sy novel lasc scey un tombr a sdegn.|Her new film's garnered lots of criticism.
 Jem gasau all'eç parol.|Jem stared at the words.
 Lou remane tars eð accusant, hetrous demay sur y lettr tachygraphað lou intermanent, ben y papiraç frail lou portant.|They sat stark and accusatory, too brutal for the typewritten letters that made them, or the thin cheap paper that bore them.
 L'encost sta lessy naðusc, com ða y rimband dy tachygraph aye pres s'usað.|The ink was a little faded, as though the typewriter’s ribbon was almost worn out.
@@ -2247,12 +2247,12 @@ lou desig lorry fol temertað ðe perisceurn;|they, for their foolish recklessne
 borel, eç des y kiveu dy sol Hyperion|fools, who from the herd of the sun Hyperion
 ayent repasc fait e lor le lou effurau deur y jorn de repaðr.|dined, and so he deprived them of the day of homecoming.
 L'arra oç saut ig caye sy mariðaç dovem nienter.|He must have known his second marriage was void.
-Ty dois tach novel es un scanjon ou?|Is your new smartphone an upgrade?
+Ty novel dois tach es un scanjon ou?|Is your new smartphone an upgrade?
 L'agathin la nommau de borel a phasm prose.|The minister called her an idiot on live TV.
 Y figl de casc gent reloirn des y campagn autrað.|Everyone's children came back from the country changed.
 Ðe stan veilessem, cos primer.|They were older, for a start.
 Certan entr lou stan çoucherrem, e certan mancan ustolment—certan stan metamorphosað vars joun dy campagn lon alcun residu de Paris entarn, parfait con y vernacr.|Some of them were wilder, and some had no manners—some had transmogrified into country children with not a trace of Paris in them, complete with accent.
-Toð y mont souprenent y jammel Tovat stan reluð fort ustolent ant un zeltað a gimmoldr, ig degnant ðe stan paravant eç picq beuscr.|To everyone's surprise the Tovat twins had come back well-behaved with a strong work ethic, despite the little louts they had been.
+Toð y mont souprenent y jammel Tovat ern reluð fort ustolent ant un zeltað a gimmoldr, ig degnant ðe stan paravant eç picq beuscr.|To everyone's surprise the Tovat twins had come back well-behaved with a strong work ethic, despite the little louts they had been.
 Y joun Pinze, interim, reluð stragn.|The Pinzé children, though, came back odd.
 Caye noc un autranç vecinabr cos fagl.|It wasn't something readily identifiable.
 Ðe ayen cortiseç eð ovranç aðief por surcrescr de coðelostað, ma tojorn ðe pariscen gasar vars nuton mental par ogl ayent ancour may vis meðes all'eç dy soldart excavað.|They were polite and tactful to the point of overcaution, but they always seemed to look into the middle distance with eyes that had seen even more than the hollowed-out soldiers.
@@ -2269,7 +2269,7 @@ Vos saveð ou l'instroy eç stuðant çougr?|Do you know if he has unruly studen
 Nos vaun saget forgar n'adamantin ou?|Are titanium arrowheads worth it?
 Y Mordeth Disceint sta un accommission oç visant y Marc a Jerusalem reformar.|The Failed Crusade was an undertaking which aimed to recreate the March of Jerusalem.
 Y citað cosogr sy cercondment au se caut gaðannað durant y Preu Mordeth eð y preu Marchis a Jerusalem, Savino y Just, au acceut d'an 1119, ma l'au cas men a settant annað apres.|The city and its surrounds had been captured during the First Crusade and the first Marksman of Jerusalem, Savino the Just, had acceded in 1119, but it had fallen less than seventy years later.
-L'oc mordeth sta soluð d'an 1210 par Pap Just (un prosequent dreit de Segr Savino), e lo surcou un fracas absoluð.|This crusade was called in 1210 by Pope Just (a direct descendant of Lord Savino), and it was utterly unsuccessful.
+L'oc mordeth fo soluð d'an 1210 par Pap Just (un prosequent dreit de Segr Savino), e lo surcou un fracas absoluð.|This crusade was called in 1210 by Pope Just (a direct descendant of Lord Savino), and it was utterly unsuccessful.
 Y campagn farau mal aðief por ig, cas y Convey Australier, y deleçon de lorrell'auteç sur Port Simon eð Antioch d'an 1208 es cos usual stimað un fallout por y Convey.|The campaign went so badly that the Convoy Australier having their control of Port Simon and Antioch revoked in 1208 is generally regarded as a boon for the Convoy.
 Y catastroph militer divers daurn impet a averjon ne Rom eð allors, a cost l'irrouçon dy Preu Gran Morrenç (un pest creut uncos ramenað vars Europ par mordether retragnt.|The various military catastrophes stoked discontent in Rome and elsewhere, along with the outbreak of the First Great Dying (a plague thought to have been brought to Europe by returning crusaders).
 Jo horre sona luïr de paon ne Paçongr.|I was worried that I didn't fit in at all.
@@ -2298,15 +2298,15 @@ Tachygraph primal de dezein 1830 e 40 stan fatuous cos imman, dec y majortað a 
 Y Tachygraph d'Armanbourg, oc stant accatabr ne Pologn des an 1842, surcayen impernix ne benoç aðief por se cavir narreyað ny fougl pavarrot sou nom dy Bradygraph (a verb y "scrittour lent")|The Armanburg Tachygraph, which was commercially available in Poland from 1842, was so awkward to use that it was lampooned in the bit-sheets as the Bradygraph (literally the "slow writer").
 Ceu incommorant destr, sceyen gimmolt vars poðir tachygraph ligar ag sar campaner, a fin oc se sceus un pistol coutoccar sur papir e lor cos simoltane un facsimile dy pistol boðar vars un autr hom.|Since very early on, attempts have been made to connect tachygraphs to the steeplemesh, so that one could type a message onto paper and simultaneously transmit a copy of the message to someone else.
 Y preu tachygraph poðent cos particuler pistol boðar par y sar campaner sta y Teleclavia de Vilmanas, oc orðenjað ne Lithou par Toman Vilmanas d'an 1859.|The first tachygraph specifically able to send messages on the steeplemesh was the Vilmanas Teleclavia, designed in Lithow by Tomas Vilmanas in 1859.
-Sy boðanç primer er conveyað sull'oç Sant Michæl vars sell'amig Margreta Legaite ne Tvaniste.|Its first message was sent on Michaelmas of that year to his friend Margreta Legaite in Tvaniste.
+Sy boðanç primer fo conveyað sull'oç Sant Michæl vars sell'amig Margreta Legaite ne Tvaniste.|Its first message was sent on Michaelmas of that year to his friend Margreta Legaite in Tvaniste.
 Y haprman libau sy bier e reloy a racont fair.|The grocer quaffed his lager and kept talking.
 Nos accataum trenc a lox dy stal ant un canougf a fais blau.|We bought pizza from the stall with a blue-striped awning.
 Jo parceveu my cigl er se portant cos harif.|I noticed my beau was acting weird.
 Provenç Mitað-Asc sta un vassal sou massem possenç divers tras un millenner pres.|Medieval Provence was a vassal of various greater powers for almost a millennium.
 Lo denoy incorporað nell'Empir Françan durant sy spanjon ny siecr seg e lo parmaneu com un sodal de sy ronç ovester posc ig l'empir dehisceu a dou part ny siecr nouf.|It was incorporated into the expanding Francian Empire in the sixth century and remained part of its western fragment after the empire was divided in two in the ninth.
-Pre y siecr onç primal y region er denuð autonom majortaðer, ma lo'r concas alcheðr oc surcaint y kynous final por y Preu Empir Drengoçan intermanir.|By the early eleventh century it had become mostly autonomous, but it was conquered once more as the last piece of the First Drengot Empire.
+Pre y siecr onç primal y region er denuð autonom majortaðer, ma lo fo concas alcheðr oc surcaint y kynous final por y Preu Empir Drengoçan intermanir.|By the early eleventh century it had become mostly autonomous, but it was conquered once more as the last piece of the First Drengot Empire.
 Posc l'Urgenç a Dijon d'an 1170, y Reyaum a Borgogn fey exeunt des auteç Drengoçan, y comtað a Provenç apportant galað.|After the 1170 Emergency at Dijon, the Kingdom of Burgundy left Drengot control, taking the country of Provence with it.
-Provenç er extollið an ducað ny siecr treç oc gournað par y linaç de Savoy, e ne sona dy conjogntur direct entr y citað caver a Genef e l'entertað dy commarç maritim ny Miterran, lo receveu y dob 'y paner Borgond'.|Provence was elevated to a duchy in the thirteenth century under the house of Savoy, and as the direct link between the capital at Geneva and all of Middlesea sea-trade, it became known as the 'Burgund breadbasket'.
+Provenç fo extollið an ducað ny siecr treç oc gournað par y linaç de Savoy, e ne sona dy conjogntur direct entr y citað caver a Genef e l'entertað dy commarç maritim ny Miterran, lo receveu y dob 'y paner Borgond'.|Provence was elevated to a duchy in the thirteenth century under the house of Savoy, and as the direct link between the capital at Geneva and all of Middlesea sea-trade, it became known as the 'Burgund breadbasket'.
 Un min d'affr sclarisceu sur y justicer.|Fear flashed across the judge's face.
 Y belem ny forest se mis afaç con ec ciscr d'aucel.|The forest scene opened with shrieks from birds.
 Nos slengettaum pegnt gauvn sull'ec stig de hey.|We slathered yellow paint onto the fenceposts.
@@ -2333,7 +2333,7 @@ Sauf ig sey Martha ja pretenent a toð y noit passar coll'eç Duvlinner, lon dig
 "Zo jo seray raut de la assistr—ja, Matt a famigl ac convoccar des toð loy por y spectacr de lumner, ma prefaibr es ig la nil se cavir meyon gehennað avant sell'aldr scey calscon, haha!|"Oh I’d love to come down—yeah, Matt’s got family in from all over for the light shows, but she probably won’t want me embarrassing her in front of the parents in any case, haha!
 Donc Jacq sera ben, ja veint dou eld, bon Deu—ma paus, comoscon sceus jo Jacq connoscr un dezein lon descovrir ig cay sell'osceyan je Sant Patriç? My bel paðr dign Patriç, m'orruð ig stou all'oc smargr ne collocq."|So Jack’ll be what, twenty-two already, goodness—wait, how have I known Jack for a tenyear and not found out his birthday’s on Patrick’s Day? My father-in-law’s called Patrick, I feel as though this should have come up."
 Toð gent saun ig cay ty morrig un sbayour jaçol.|Everyone knows your aunt's an inveterate gossip.
-Le'r resoluð a casc senglottaç ignorar.|He was bent on ignoring any criticism.
+Le sta resoluð a casc senglottaç ignorar.|He was bent on ignoring any criticism.
 Sceye all'oç asc pog avoccaçon a phasm.|There wasn't much TV entertainment then.
 Raymond al Moustafa sta un mathematorg e philosoph veunt a plaç meg ny siecr ogtoç.|Raymond al Mustafa was a mathematician and philosopher in the mid-eighteenth century.
 Le reseyeu lonc un mesur ne Barcelon sou y patronnement dy Duc a Aragon.|He was resident for some time in Barcelon under the Duke of Aragon's patronage.
@@ -2348,7 +2348,7 @@ Orruð ig l'appragl sey de qualtað militer ma eut doutr par dezein paravant, an
 Meyon atorn, y locomotour prophthan ny Polletia son un zoum kieð e fix generant oç y paið vibrant sou mell'azig—un son me denuð consolandessem sur ouç tras y semman derran abord.|Around me, the Polletia's superluminal engines create a constant low hum that vibrates through my boots—a sound that's become more comforting than silence over the last weeks on board.
 "Yonoscon a tu l'oç ollom trovað?" rou jo, ne my dois a mantien fignt.|"Where'd you find that relic?" I ask, setting down my maintenance slate.
 Darios se ley noc y gas cant le respon la, sy deit çosc stant pernix cos imprefait ne lorry maneyaçon de fil angost com seð.|Darius doesn't look up while he replies, his thick fingers surprisingly nimble as they manipulate silk-thin wires.
-Jo scavau un grinment flasq dy melodram.|I wrote an unenthusiastic review of the show.
+Jo scavoy un grinment flasq dy melodram.|I wrote an unenthusiastic review of the show.
 Sy femn es y frottour de cedar y faverrem ny muncef.|Her wife is the best guitar player in the borough.
 L'oç astuçour es gapiscent par toð y lasc.|That mentor keeps turning up in the movie.
 "Candon jo ley un stoir, jo sepon l'eç exposson; or pront la jo me met a l'un autorar, j'yem scið ig jo dey un exposson aïr."|"When I read a story, I skip the explanations; yet the moment I begin to write one, I find that I must have an explanation."
@@ -2364,7 +2364,7 @@ Con un stig de remors jo ðureu y pistol.|With a pang of regret I burned the let
 Orruð ig alcun hom parceveus y catastroph ahoy.|No-one seemed to notice the imminent disaster.
 Scein tre font cas y lonctumn degm: y polç, y pie (10 polç) eð y lau (10⁴ pie).|There are three bases for dime lengths: the inch, the foot (10 inches) and the league (10⁴ feet).
 Nell'enç, y lonctumn dy pie denoy fis cos quidam naðusc com y mojol entr y "pie romannesc" eð y "paum accenser" Cathayan, stant un picq pog inequal.|At first, the length of the foot was fixed somewhat arbitrarily as the midpoint of the very slightly different Roman foot and the Cathayan "surveyor's span".
-D'an 1946, y pie sta redefinið por ig y veloçtað normal din equal cos exact a deg gran lau par second.|In 1946, the foot was redefined to make the speed of light equal to precisely ten great leagues per second.
+D'an 1946, y pie fo redefinið por ig y veloçtað normal din equal cos exact a deg gran lau par second.|In 1946, the foot was redefined to make the speed of light equal to precisely ten great leagues per second.
 Bempart autr mesur a lonctumn pouvler receveurn valour degm.|Several other traditional measures of length were given dime values.
 Com bustr, cas y mesur degm y mil val cinq mil pie ben demy d'un lau.|For instance, in dime measures the mile is equal to five thousand feet or half a league.
 Scein catr font cas y moul degm: y scrupol, l'onç (100 scrupol), y taber (100 onç) eð y ton (100 taber).|There are four bases for dime hefts: the scruple, the ounce (100 scruples), the tabre (100 ounces) and the ton (100 tabres).
@@ -2453,7 +2453,7 @@ L'ec fey ersteigon par un victoir consecter ag Battagl a Car Vantel, yon fo y Du
 Posc l'oc battagl, Brittan sceu auteç durabr garantir dy region atorn de Car Vantel (ma contrig y gazou sur y citað a Castr pog apres se cou offiruð).|After this battle, Britain was able to take lasting control of the area around Rexam (though the attack on the city of Chester shortly thereafter was rebuffed).
 Y polity acavau soulor a se refusar deur y conflict continuant dy Rix cas Fieltað; y ligt entr y polity n'Albion volen remanir jannestað entarn tras trent annað aposc.|The polity then managed to recuse itself from the continued conflicts of the Wars of Fealty; the rest of the polities of Albion would remain embroiled for another thirty years.
 Honour de Hatfell son veðrdon plusour soupleyað de posc y siecr veintem primal a artejan ne sce divers y Collujon Drengoçan hamtant (e, posc ig l'oç alleyanç-federaç sfrondrau d'an 1961, l'entertað de Gal e l'eç Istr Norðovester).|Hatfell Honours refer to several prizes awarded since the early twentieth century to artists in various fields across the Drengot Collusion (and, after that alliance-federacy collapsed in 1961, across all of Gaul and the Northwestern Isles).
-Y dou Honour ne literatur e ne dram son abrangið par y cougl original de veðrdon, cant novel art ern admis recent com y dezein 2010.|The Honours in literature and drama are among the original set of prizes, while new arts have been admitted as recently as the 2010s.
+Y dou Honour ne literatur e ne dram son abrangið par y cougl original de veðrdon, cant novel art forn admis recent com y dezein 2010.|The Honours in literature and drama are among the original set of prizes, while new arts have been admitted as recently as the 2010s.
 L'ec Honour prenn y nom de Hatfell, un toun norðer ny stat citaðer de Londr jos y tarmn contr Marclont stant y mojol d'in communtað d'autour parnommað ny siecr novoç.|The Honours are named for Hatfell, a northern town in the city-state of London near the border with Markland which was home to a collective of renowned authors in the nineteenth century.
 D'an 1918, y scrittour Dorotha Quistack gajannau un Honour de Hatfell por un entr sell'adolescenç.|In 1918, the writer Dorotha Quistack won a Hatfell Honour for one of her coming-of-age novels.
 Nicolas d'Avignon sta un architect Borgond parnommað.|Nicolas of Avignon was a renowned Burgund architect.
@@ -2502,7 +2502,7 @@ Y Declar Laic intermanen un series de document traitancer prodoit par un consegl
 L'ec document forgaurn un ossatur de lodrignað por religion statuer desjovar deur y foncçon administraçonnal de polity, e por y stat cas ley de gent a fieltað mendrancer.|These documents outlined procedures for uncoupling established religions from administrative state functions, and the legal status of people with minority faiths.
 All'oc epoc, Belgrad sta sodal ny Citað Floyan, un alleyanç-federaç de picq polity autonom lonc y Floy Danau e sy confluyenç.|At this time, Belgrade was one of the Riverine Cities, an alliance-federacy of small independent states along the Danaw River and its tributaries.
 L'ec citað ern leyað des y cendr dy Reyaum Danavan, oc stant sfondrað de façon spectacler posc y Var Teudesc Dovem ny dezein 1820.|These cities had risen from the ashes of the Kingdom of the Danaw, which had collapsed in spectacular fashion after the Second German War of the 1820s.
-Cossy scient, Belgrad sta un amaçgat ðescant primal por doctrin novel cas religion e ley, ant un çaucr Promethean parnommað alligað ag commouð Desveyant eð un communtað tovaresc meg ovart.|As such, Belgrade was an early hotbed of new religious and legal thinking, with a renowned Promethean club associated with the Deviance movement and a semi-public tovarick community.
+Cossy scient, Belgrad sta un amaçgat ðescant primal por novel doctrin cas religion e ley, ant un çaucr Promethean parnommað alligað ag commouð Desveyant eð un communtað tovaresc meg ovart.|As such, Belgrade was an early hotbed of new religious and legal thinking, with a renowned Promethean club associated with the Deviance movement and a semi-public tovarick community.
 Nuvr soð vos melle faint con y gentagl.|You've been mixing with riffraff recently.
 Jo broiðau l'entrlaçour coll'outrley.|I mixed up the scammer and the outlaw.
 Y bourg deleu l'oc hoðic ne souc d'un courstray.|The town fired this councillor due to an affair.
@@ -2522,7 +2522,7 @@ La da empley a xiphar mejoncr naðusc.|She employs rather mid mercenaries.
 Con tan alcun bustr tesmogn d'un concort scaut sein survescuð, presunt es ig y Majon de Cornou soloy droug a Normandy par lorry gimmolt ag thron Cantuer com troc contr denir y novel dynasty regnant sur Magn Dorogn.|Although no references to a written treaty have survived, it is presumed that the House of Kernow aided Normandy in their bid for the Kentish throne in exchange for support in becoming the new ruling dynasty of Greater Devon.
 L'oc squid er mantenuð, ma cayen for un per de dezein pre Magn Dorogn denoy un vassal sou y Preu Empir Drengoçan.|This bargain was upheld, but it only took a couple of decades for Greater Devon to become a vassal of the First Drengot Empire.
 Com un gest ou d'eðeglment tauger vraseyant ben mer occajonaltað, Roger de Normandy y victoirous vole a sy mesur y collindour de Cantuer concarr, ig inclus Essax e Marclont, e soulor aðendrar ne souð por un largeç dy ligt de Gal sousumir.|In what was either impressive long-term strategy or merely opportunism, the victorious Roger of Normandy would go on to conquer Kent's neighbours, including Essex and Markland, and then venture south to annex much of the rest of Gaul.
-Le'r coronnað com Emperour Roger I durant l'oc spanjon cas eiðel d'an 1038.|He was crowned Emperor Roger I in the midst of this territorial expansion in 1038.
+Le fo coronnað com Emperour Roger I durant l'oc spanjon cas eiðel d'an 1038.|He was crowned Emperor Roger I in the midst of this territorial expansion in 1038.
 Skig sdroyet desjovar cant moustr se migrn.|Do not unplug drives during file transfer.
 L'oç bougr s'outrval cos outr.|That chap's an utter braggart.
 Se poð ou scadom ben ugnlac accatar.|You can buy either tomatoes or onions.
@@ -2547,7 +2547,7 @@ Ne cal polity Mendevan ern y preu boðour e diacustour sobottal orðenjað d'an 
 Calun entrell'adolescenç de Dorotha Quistack, editað d'an 1917, gajannað l'Honour de Hatfell e se cof renastið com un lasc protagoneyað par Joke Pentawer pog dou annað aval?|Which of the adolescences of Dorotha Quistack, published in 1917, won the Hatfell Honour and was adapted into a film starring Joke Pentawer just two years later?
 Cuscon dirigeu l'administraçon dont y sfondranç d'an 1925 sta y commet dell'Anarchy Portingal noncupað?|Who led the government whose collapse in 1925 was the beginning of the so-called Portingale Anarchy?
 Comoscon denoy y lonctumn dy pie (degm) redefinið d'an 1946, lo forniscent dy taus seyon aut destr?|How was the length of the (dime) foot redefined in 1946, giving it the value it has to this day?
-Cu sta y monarch de Hasiny dont rumorað es ig y mort deut an mescainç conveyer d'an 1950 er volonter conjuraçonnað sou y saivenç de sy granfigl Peðer?|Who was the monarch of Hasiny whose death due to a convoy accident in 1950 is alleged to have been purposefully orchestrated with the knowledge of his grandson Pether?
+Cu sta y monarch de Hasiny dont rumorað es ig y mort deut an mescainç conveyer d'an 1950 fo volonter conjuraçonnað sou y saivenç de sy granfigl Peðer?|Who was the monarch of Hasiny whose death due to a convoy accident in 1950 is alleged to have been purposefully orchestrated with the knowledge of his grandson Pether?
 Vos val joddy offiçar ag costosc dy bauglment.|You should set watchmen to guard the camp.
 L'entisau un traccart ny bosc entr dou casn.|He set a trap in the woods between two oaks.
 Veleð l'oc smaraut beyollir ne my çondr.|Please set this emerald into my pendant.
@@ -2598,7 +2598,7 @@ Jusc y siecr cinqueç nuverrem e seç primal, cosogr y veyaç geoscopic magn ste
 Com bustr, Rey Ambrosc III a Vascony ("l'Ascenent") corporalleyau y Decret Sandrin d'an 1485 yon ag vascel voloisn stovir fruit issugt e scarob bacagettar.|For example, King Ambrose III of Vascony (the "Ascendant") instituted the Sandrine Design in 1485 by which ships would be required to stock dried fruits and syrups.
 Nentamen, tal teisment n'aurn rebondisc durabr.|However, such schemes did not have lasting effects.
 Cos parçal l'oc se deye a careç ma magn moulosessem, ag defait de comprenjon cas y method comoscon fruit poðen scurvog coïr.|This was partly due to expense but much more significantly, due to the lack of understanding of the mechanism by which fruit prevented scurvy.
-Cossy, fruit stan conservað par mejan lorry matier sandrinal eliminant (ig inclus, par lou boglir ben par tas ne cuivr benoçar) e moðnaut nanciscen scurvog toð cas, oc colluy menant vars y sdroyaçon de fruit lingr total.|Thus, fruit would be preserved in ways which removed their sandrine content (for example, boiling or use of copper vessels) and sailors would suffer scurvy anyway, leading guilds to abandon stocking fruits altogether.
+Cossy, fruit ern conservað par mejan lorry matier sandrinal eliminant (ig inclus, par lou boglir ben par tas ne cuivr benoçar) e moðnaut nanciscen scurvog toð cas, oc colluy menant vars y sdroyaçon de fruit lingr total.|Thus, fruit would be preserved in ways which removed their sandrine content (for example, boiling or use of copper vessels) and sailors would suffer scurvy anyway, leading guilds to abandon stocking fruits altogether.
 Malgrað noc tout entr y var envoluð la afferjarausn l'oncein d'annað enter, ðe son tout descreut par un inereðm fondaminal: manouvr costojal ayen machinaçon gazovar survaluð, e donc tarmn de front tras y mont quaglaurn ne bastegl a fos ceu avançabr.|Though not all of the wars involved spanned the entire eleven years, they are all characterised by a fundamental asymmetry: defensive tactics had outstripped offensive technology, and so front lines worldwide ground to barely-moving trench fortifications.
 Par y Var a Couð se munc y fin dell'epoc Bel-Jou; ne sy faughanç sceye un rallignment abrangent dy doujug alleyancer paravant.|The Millstone War marks the end of the Good Game period; its aftermath saw a comprehensive realignment of the previous system of alliances.
 Nell'eç annað final dy Var a Couð sceye y preu benoç militer de nau aeral, tan com bombaçon des aer de citað ig inclus Marsegl ne Provenç.|The last years of the Millstone War saw the first military use of aircraft, as well as air-bombing of cities including Marsella in Provence.
@@ -2656,7 +2656,7 @@ Jo lo memour noc cu protagoney l'oç lasc.|I can't remember who stars in that fi
 La brouc un çut tal plen cas music.|She has a lot of musical potential.
 Me reman un lonc veyaç par convey a souvar, un veðr a brandvin sou man, eð un facsimile inscaut cos effus e hortumnesc dy descovan de Rassendyll a cost mey.|There is a long railway journey ahead of me, a glass of brandy to my hand, and a heavily and obscenely annotated copy of the Rassendyll manuscript by my side.
 Jo preten a lou cascun benoçar por y vertað digr.|I intend to use them all to tell the truth. 
-|Jo dign Jasper Detchard. J'er nað com ceyon d'un famigl vige ny bandlau de—o bon Deu, me stou vray?|My name is Jasper Detchard. I was born to a well-off family in the outskirts of—oh dear God, must I?
+|Jo dign Jasper Detchard. Jo fo nað com ceyon d'un famigl vige ny bandlau de—o bon Deu, me stou vray?|My name is Jasper Detchard. I was born to a well-off family in the outskirts of—oh dear God, must I?
 Nell'ec cont costumner es y histoir linacer dy racontour recitar ant detagl minuçous lonc tre generaçon, ma jo's enter scur ig my leyour es, ða possibr, infruniscendessem meðes par my granmaðr agnat a sey jo.|It is customary in these accounts to rehearse one’s family history in vast detail over three generations, but I am quite sure my reader is, if possible, even less interested in my paternal grandmother than I am.
 Ag diabr con. My nom no's Japser Detchard. Quippe l'oc no's.|To hell with it. My name is not Jasper Detchard. Obviously it is not.
 Jo digna un autr nom autr annað, ma jo lo teurfeya ny leiçoir par delit divers, ec ersteigon faint par un temertað gra aðief por ig my parent refusaurn l'occajon me parmettr de tan me cavir ablegað d'universtað, e me deleurn par meyan dy Centuir e d'un offiçment ne Hind.|I had another name once, but I stained it at school with various crimes, culminating in a sufficiently serious indiscretion that my parents declined to give me the opportunity of being thrown out of a university too, and disposed of me via the Army and a posting to India.
@@ -2693,19 +2693,19 @@ N'Andalus dy siecr nouf sceye y floriscment de fanglanç theoretic. Cos particul
 L'orn religious dy Brethin respane ny zon de pouvlanç chrestan majortaðer n'Andalus des y norð durant y siecr onç e doç.|The Brethin religious order spread into the Christian-majority areas of Andalus from the north during the eleventh and twelfth centuries.
 Nell'oc epoc atorn Andalus parde un sunt signfeyant d'eiðel ag norð e l'aust ne man de polity chrestan, tal com y Reyaum de Barcelon nou stablið.|Around this time Andalus lost significant territory in the north and east to Christian polities, such as the newly-established Kingdom of Barcelon.
 A mesur dy Scon Tetrarchy, y Reyaum a Saxony intermane un stat vassaler majour nell'Empir Teudesc administrað des Bardovic, e plusour ne lorry dynasty de Hohenbrocken regnaurn sull'empir enter.|During the Second Tetrarchy, the Kingdom of Saxony was a major vassal state of the German Empire administered from Bardwick, and many of their Hohenbrocken dynasty ruled the empire outright.
-Y Reyaum a Saxony deneu toccað par y sfondranç dy Scon Tetrarchy ny siecr treç.|The Kingdom of Saxony was affected by the collapse of the Second Tetrarchy in the thirteenth century.
+Y Reyaum a Saxony denoy toccað par y sfondranç dy Scon Tetrarchy ny siecr treç.|The Kingdom of Saxony was affected by the collapse of the Second Tetrarchy in the thirteenth century.
 Y Stadbond smargent de citað marcander ag norð secedeu eð abascau Saxony vars sell'eðegl amont a Magdbourg e Lepcy.|The nascent Stadbund of mercantile cities in the north seceded and reduced Saxony to its lands upstream in Maidburg and Lepzi.
 Cossirað es ig Saxony a y plurem dy vajot vancað des y Var Theudesc Primer; ny souc den y polity gourna may d'eiðel a alcot seyon posseut n'aucun hour de sy histoir.|Saxony is considered to have profited most from the First German War; in its aftermath the polity controlled more territory than it had at any point in its history.
 Durant y siecr novoç, y Çaucr Azur Marian (oc instaurað a Lepcy) tarromoy commouð vars reform cas ley de heritanç e de dreit slecçonal.|In the nineteenth century, the Blue Marian Society (which was founded in Lepzi) spearheaded movements for reform to inheritance and suffrage laws.
 L'instançment vivota a mesur dy siecr ogtoç deut ag terrentað merscous e contrsalubr e tan all'eç ottem havan dereðr dy floy e sceindessem derim.|The settlement languished through the eighteenth century due to unfavourable marshy terrain and the better harbours across the river and further inland.
-Sy fortun cambisceu ny siecr novoç cosogr l'alant de moneð: caye fosseyað un canal de sdroy majour trenc faint tra y peninsol (eð y Guittoc vars y doujug lucraðeu a Squanna conjognent), eð y merscaç ag maugr de Campottonì deneurn canalfeyað e darfað cos drastic.|Fortunes changed in the nineteenth with an influx of funds: a major shipping canal across the peninsula (connecting the Guittoc to the wealthy Esquanna river system) was dug, and the marshlands surrounding Campottonì were drastically canalised and drained.
+Sy fortun cambisceu ny siecr novoç cosogr l'alant de moneð: caye fosseyað un canal de sdroy majour trenc faint tra y peninsol (eð y Guittoc vars y doujug lucraðeu a Squanna conjognent), eð y merscaç ag maugr de Campottonì denoirn canalfeyað e darfað cos drastic.|Fortunes changed in the nineteenth with an influx of funds: a major shipping canal across the peninsula (connecting the Guittoc to the wealthy Esquanna river system) was dug, and the marshlands surrounding Campottonì were drastically canalised and drained.
 Slargiscment ancour dy canal figheu loy a plaç entarn dy siecr veintem. | Further widening of the canal took place into the twentieth century.
 Reconnuð cos brey com y "Venis a Mendeva", Campottonì accareu un parnommanç d'eutað durant l'epoc Bel Joy e fo nell'asc modern sorguð vars denir un aucoum forcer cas cultur eð empory.|Briefly known as the "Venise of Mendeva ", Campottonì gained a fashionable reputation during the Good Game Period and by the modern day had risen to become a cultural and economic powerhouse.
 Me stove y vajot eð y time grindr.|I had to weigh the pros and cons.
 Jo cogleu l'aujon des y tabr mogn.|I picked the mag up off the low table.
 Masctig por cors a tug teyen boncop.|Tickets for friendly games were cheap.
 La's attenent a caffay salir lon mensc.|She's trying to quit coffee cold turkey.
-Alor sceye jo la, desracinað, sgarant, rebateyað n'un við novel lon famigl ben histoir.|So there I was, rootless, wandering, rebaptised into a new life without family or history.
+Alor sceye jo la, desracinað, sgarant, rebateyað n'un novel við lon famigl ben histoir.|So there I was, rootless, wandering, rebaptised into a new life without family or history.
 Jo fey regres des Hind vars l'ovest par my blad, faur, e spað, ma jo skighau alcun feu Larresc ðocar.|I worked my way back from India using my cards, wits, and blade, but did not trouble England’s shores.
 Y tarmagn d'Europ es un jagat accoglendessem por y semblant de mey: aventurer, nomad, gentilhom volour e gentilhom stoccour, domn dy jorn e dy noit, hasardour e vlangr e dragoman de rumour, aristocrat rent abascað, routuron ne cognit s'enhautiscent cos precartaðer.|The Continent is a more welcoming place for my sort of people: adventurers, wanderers, gentleman thieves and gentleman thugs, ladies of the day and night, gamblers and fences and information brokers, aristocrats brought low, masquerading commoners reaching dangerously high.
 Nos sodal dell'oç tribu cougln e soun við e lengaç e païs, com un confraðreç teun d'outrley ant un glonscel de fieltað e d'enmigtað ancour teunessem, e se poð un parson parey encontrar a mesur d'annað n'un madrugour a Berlin, un palaç a Praug, eð un gajon a Rom.|We of that tribe drift in and out of lives and languages and countries, a loose fraternity of rogues with a looser tangle of loyalties and rivalries, and one may see the same face over the course of years in a Berlin nightspot, a Prague palace, and a Roman gaol.
@@ -2727,7 +2727,7 @@ Noc obstroint ig defalg sey l'akirtanç sporadic de combat porçonnar com var n'
 Sy model, concreut ou (lonc y tesmogn) des y colour sur y gonfan dell'eç victour ben des l'ongit de symbol alchemic, attriboy y var Blau com y rix pænultem, oc cessant ny siecr settoç nuverrem.|Her system, based either (depending on the account) on the colours of the victors' standards or on alchemical symbolism, has the Blue war as the penultimate conflict, ending in the late seventeenth century.
 Certan historicour, ma noc de Santer, aun ag var Blau y spaiðoir ascreut d'un kynous entr y coglenç abrangendessem de Rix Romannesc ny siecr settoç mejan.|Some historians, though not de Santer, have classified the Blue war as part of the broader collection of Romantic Wars of the mid-seventeenth century.
 Nos se collaborau accougl tras un ogtoçad de meis magn avoccant, fin a l'acceptau y rebateyaçon tars d'un ambasctour, e jo decideu de xiphar luïr sou un patron munfeyandessem.|We worked together for a highly entertaining eighteen months, until she accepted an ambassador’s carte blanche, and I decided to sell my blade to a more generous bidder.
-Tre annað apres, cant jo jace n'un masmorrat Parijan ant gur dy descovart incoïbr d'un catoum solter e fatal de star sont e dy sojorn incöibr equal vars y thron mixallour, a my bel domn Fransc fo yon scaveu jo cos baurous, e luy la parsoloy casc zaloc eð ognt por m'errevir, stant un careç amaug.|Three years later, when I lay in a Paris gaol cell awaiting the inevitable discovery of a single, deadly proof of my guilt and the equally inevitable trip to Madame Guillotine, it was my pretty Frenchwoman to whom I wrote in desperation, and she who bailed and bribed me out, at eye-watering cost.
+Tre annað apres, cant jo jace n'un masmorrat Parijan ant gur dy descovart incoïbr d'un catoum solter e fatal de star sont e dy sojorn incöibr equal vars y thron mixallour, a my bel domn Fransc fo yon scavoy jo cos baurous, e luy la parsoloy casc zaloc eð ognt por m'errevir, stant un careç amaug.|Three years later, when I lay in a Paris gaol cell awaiting the inevitable discovery of a single, deadly proof of my guilt and the equally inevitable trip to Madame Guillotine, it was my pretty Frenchwoman to whom I wrote in desperation, and she who bailed and bribed me out, at eye-watering cost.
 Untal interman y við varenastr, yon y hasart eð y lim son imman, vray amigtað son preçous e teun com diamant, e moraltað n'es for incommod.|Such is the demimonde life, where risks and passions run high, true friendships are as precious and as rare as diamonds, and morals are an inconvenience.
 Acconnosc aun Sr Jasper Detchard e vos, ou sunt ou soluð, e luy le sta y segr cas par Michael Elphberg nell'oç harvest frige.|That is Mr. Jasper Detchard for you, take him or leave him, and that was the man sought out by Michael Elphberg that chilly autumn.
 Michael, Duc a Strelsau, heir scon nað a Rudolf IV a Ruritania. Michael, volent y rey.|Michael, Duke of Strelsau, second son to Rudolf IV of Ruritania. Michael, who would be king.
@@ -2735,7 +2735,7 @@ Veram me storra l'exposson vos soupleyar n'oc hour.|I really am going to have to
 Willaum Brüz (fl. 1225) sta bourgmer ny citað d'Augsbourg tras un dezein ag mendrem ny preu mitað dy siecr treç.|Wilhelm Brüz (fl. 1225) was mayor of the city of Augsburg for at least a decade in the first half of the thirteenth century.
 Le sta un amig coram de Paul von Burchadt, y preu Pap alcant aposc dy Sce a Augsbourg, e cossirað es ig y pretenjon peculier de Brüz por sy citað influïsceu certan entrell'idea politic cas religion ny Denonçaçon Paulin d'an 1225.|He was a personal friend of Paul von Burchadt, the future first Pope of the Augsburg See, and Brüz's personal ambitions for his city are thought to have influenced some of the religious policy outlines in the Pauline Denuncations of 1225.
 Ny sona de Brüz protagoneyau Hunter Noteworthy y lasc d'an 1961 e dy lengaç Markesc Ant y Govon com Mecchiat Nostr, un dramateyaçon dy cainç dy Secession Teudesc.|Brüz was portrayed by Hunter Noteworthy in the 1961 Merch-language film With the North Star to Guide Us, a dramatisation of the events of the German Secession.
-Un çocr magnfeyað de Brüz (oc font noc ayent a alcun descreuçon ben depegnt dy segr, dec no scein nien) deneu fis d'an 1975 a starn dy hal muncever n'Augsbourg.|A magnified statue of Brüz (not based on any extant description or depiction of the man, since none exists) was erected in 1975 outside Augsburg's town hall.
+Un çocr magnfeyað de Brüz (oc font noc ayent a alcun descreuçon ben depegnt dy segr, dec no scein nien) denoy fis d'an 1975 a starn dy hal muncever n'Augsbourg.|A magnified statue of Brüz (not based on any extant description or depiction of the man, since none exists) was erected in 1975 outside Augsburg's town hall.
 L'aye un pedisecq offiçað a y roum costojar.|He'd set a lackey to guard the room.
 Pharmac foncçon enhautiscent son valent nell'oc cors.|This competition allows performance-enhancing drugs.
 Val la jolley ag madrugoir.|She should be at the club.
@@ -2790,8 +2790,8 @@ Scerra un trasson de deg minut ag mojolon.|There's a ten-minute layover at the i
 J'ascovau e jey morvaç sur my camis.|I sneezed and got snot on my shirt.
 Com un gest prefait jaçol, y Minister a Abondanç a la corroulað ig toð y catr claus nell'Act cas Preç de Mansc d'an '15 son satisfait.|In a long-anticipated move, the Ministry for Wealth has confirmed that all four conditions of the '15 Food Prices Act have been met.
 Y gemma (⍚), oc intermanent y part fondaminal de moneð Borallesc des an 1925, vil denir preu annexað a tandem destarrið par un scet valent 10⍚.|The gemma (⍚), which has been the base unit of Borlish currency since 1925, is to be first supplemented and eventually replaced with a coin worth 10⍚.
-Agathin Gottart a sy pretenjon augtað ig scet e bevis novel valuð par y moneð novel voun entrar n'issar sur y Jorn a David d'an 1977.|Minister Gottart has expressed his intention that new coin and notes denominated in the new currency will enter circulation on David's Day of 1977.
-Lonc y catr meis prosequent y minister vil droughanç e noçon recevir dy gentagl sur y nom e l'ensign dy moneð novel, con tan postulaçon por un vouð demosin sur y nom final ern contrdontað.|For the next four months the ministry is accepting public input on the name and designs of the new coinage, although calls for a popular vote on the final name have been rejected.
+Agathin Gottart a sy pretenjon augtað ig novel scet e bevis valuð par y novel moneð voun entrar n'issar sur y Jorn a David d'an 1977.|Minister Gottart has expressed his intention that new coin and notes denominated in the new currency will enter circulation on David's Day of 1977.
+Lonc y catr meis prosequent y minister vil droughanç e noçon recevir dy gentagl sur y nom e l'ensign dy novel moneð, con tan postulaçon por un vouð demosin sur y nom final forn contrdontað.|For the next four months the ministry is accepting public input on the name and designs of the new coinage, although calls for a popular vote on the final name have been rejected.
 Y sleut hamta mout y bosty.|The politician frequented the brothel.
 Y focment d'ollom ny relicquat m'ajoutaç.|I appreciate the museum's relic curation.
 Rumorað es ig l'oç prinç sey zamicað an masmorrat.|That prince is rumoured to be locked in a dungeon.
@@ -2811,8 +2811,8 @@ Orruð y reverend parol for ne bel declar.|The minister seems to speak in clich�
 Caye un akirtanç de pennachet a Novembr.|There was a cholera outbreak in November.
 Y xiphar accataurn bos por tre quid a cascun.|The mercs bought guns for three credits each.
 Cayen fanglanç diçr cas y theory de við nell'oc epoc, ig inclus y descovart ig y cundr caser hamta y "lengaç vital" de Desselut.|There were major advancements in biology in this period, including the discovery that the cell nucleus housed Desselut's "vital language".
-L'oc sta complið par y theorist Manesc Camdar d'an 1813 par meyan d'interrogment ny fecondaçon a spogn marin, yon le parceveu l'ig y nouç casel de sperm unisc coll'oç dell'ou.|This was achieved by theorist Manesh Camdar in 1813 via research on marine sponge fertilisation, in which he observed that the nucleus of sperm unites with that of the egg.
-Simoltane sceyen descovart alchemic, ig inclus bempart corporal novel. Com bustr, janthin er descovart ne Zampanagar d'an 1778, e machovin ne Pologn an dezein apres.|In parallel were chemical discoveries, including many new elements. For example, iodine was discovered in Zampanagar in 1778, and strontium in Poland a decade later.
+L'oc fo complið par y theorist Manesc Camdar d'an 1813 par meyan d'interrogment ny fecondaçon a spogn marin, yon le parceveu l'ig y nouç casel de sperm unisc coll'oç dell'ou.|This was achieved by theorist Manesh Camdar in 1813 via research on marine sponge fertilisation, in which he observed that the nucleus of sperm unites with that of the egg.
+Simoltane sceyen descovart alchemic, ig inclus bempart novel corporal. Com bustr, janthin fo descovart ne Zampanagar d'an 1778, e machovin ne Pologn an dezein apres.|In parallel were chemical discoveries, including many new elements. For example, iodine was discovered in Zampanagar in 1778, and strontium in Poland a decade later.
 A mesur dy Paç Lonc caye l'inceuçon dy Commouð a Desveyanç, ig inclus l'ediçon incendier d'an 1799 E Nos Amareu y Foy.|The Long Peace saw the inception of the Deviance Movement, including the incendiary 1799 publication And We Will Love the Fire.
 L'eutað de voinaçal (por vesson a domn adornað lonc ornat militer) se mette afaç primallessem nell'oc epoc, e ja lo's alligað y starchessem con ac, ig degnant plusour resorgenç.|The armourcloth fashion (of women's dress decorated in the style of military uniform) has its beginnings early in this period, and is still most strongly associated with it, despite several revivals.
 Y lettr volað interman nossell'un soul zaloc.|The stolen letter is our only bargaining chip.
@@ -2848,7 +2848,7 @@ Y pouvr contien salbrut, carbon e brunstan.|The powder contains saltpetre, charc
 Fondað par y Gallesc, lonc y Roman y citað digna Rotomagus e lonc y mesur l'intermane y sce dell'evesquað vecin nell'epoc dy Mitað-Asc primal.|Founded by the Gauls, the city was known to the Romans as Rotomagus and it became the seat of the local bishopric in the early medieval period.
 Ny siecr nouf sceye l'envajon dy Normant afont dy region cosogr y Paramontað Dannesc modo magno; d'an 850 Roun er seyon gournað.|The ninth century saw the incursion of the Normans into the region as part of the wider Dane Supremacy; by 850 Roun was under their control.
 Ag siecr onç er Roun denuð yon sceye y cort dy dynasty Drengot, oc y Ducað a Normandy regnant com vassal meg autonom.|By the eleventh century Roun had become the seat of the Drengot family, ruling the Duchy of Normandy as a semi-autonomous vassal of the Kingdom of the Franks.
-Posc y Conjuraçon Cornovan e lor y nastiscenç dy Preu Empir Drengoçan oc y bempart d'Albion eð y plurem de Gal abrangent, Roun er maugrfeyað.|After the Kernovan Conjuring and the formation of the First Drengot Empire covering much of Albion and most of Gaul, Roun was sidelined.
+Posc y Conjuraçon Cornovan e lor y nastiscenç dy Preu Empir Drengoçan oc y bempart d'Albion eð y plurem de Gal abrangent, Roun fo maugrfeyað.|After the Kernovan Conjuring and the formation of the First Drengot Empire covering much of Albion and most of Gaul, Roun was sidelined.
 L'Emperour Drengoçan tramigraurn lorry cort a Paris, con tan ðe parmaneurn a y ducað a Normandy eð a Cantuer posseïr lou meðes.|The Drengot Emperors moved their court to Paris, although they continued to personally own the duchies of Normandy and Kent.
 L'oc epoc oscey y commet dell'union politic pardurant dell'ec dou region y Canal Cantuer parlocant.|This period marks the beginning of the persistent political union of these two regions on either side of the English Channel.
 Lorry sentenç no son autrað tras un carantein.|Their beliefs haven't changed in forty years.
@@ -2860,7 +2860,7 @@ Y scuir receveurn cos raut reconnoscenç com Rudolf Rous e Michael Saf, magn har
 Jo vil vos digr l'oc: alcun hom entr nos no sta aure.|I will tell you this: none of us there was snow white.
 Y scuir sceurn s'ojar lou meðes pre ðe sceurn parolar.|The boys learned to hate one another before they learned to speak.
 Michael sta frastr eð audaç e carið par lorry paðr tandic Rudolf sta bleic e spagent, alor Rudolf oja Michael.|Michael was sturdy and daring and beloved by their father where Rudolf was pallid and fearful, so Rudolf hated Michael.
-Ma Rudolf sta un prinç tandic Michael no sta nien, alor Michael oja Rudolf, con un passion oç se souðurent afont luy cos briglandessem long ig y launt de Rudolf deneu saviblessem.|But Rudolf was a prince where Michael was nothing, so Michael hated Rudolf, with a passion that smouldered in him the more strongly as Rudolf’s failings became more apparent.
+Ma Rudolf sta un prinç tandic Michael no sta nien, alor Michael oja Rudolf, con un passion oç se souðurent afont luy cos briglandessem long ig y launt de Rudolf denoy saviblessem.|But Rudolf was a prince where Michael was nothing, so Michael hated Rudolf, with a passion that smouldered in him the more strongly as Rudolf’s failings became more apparent.
 Le sta un morvaç meyaulant, keyottað, cateu e malvaç, ma le remane y sindr, e l'Elphberg rous de sanc pur, e donc le vole y rey.|He was a puling, indulged, nasty, malicious brat, but he was the older, and the pure-blood red Elphberg, and so he would be king.
 Sy paðr narc es un segr cateu.|His stepfather is a wicked man.
 Toð y cort ern connoscent de sy ligaçon coll'aðm dy rey.|The whole court knew of his affair with the king's mistress.
@@ -2900,7 +2900,7 @@ lo's par surcresc agið a kynous ny cultur maugrfeyar eð a attendr a l'extirpar
 Dorogn da nom cos geographic ag peninsol souvester dy heilant d'Albion, e cos politic all'un entr y taleð y longinquessem de Brittan.|Devon refers geographically to the southwestern peninsula of the land of Albion, and politically to one of the most longstanding tallaths of Britain.
 Dorogn souvau concarenç paulatim par y Saxon, soulor y contrdontaçon ag Battagl ne Gaulford d'an 656 sousumeu y domain nell'autortað retenuð dy Reyaum Vessaxon (con tan sey creut y region y vesteressem no fos jamay neðolmað sou sy regnanç).|Devon was conquered piecemeal by the Saxons, with the defeat at the Battle of Gaulford in 656 putting the area under the sole authority of the Kingdom of Wessex (although the westernmost region is thought never to have fully submitted to its rule).
 Durant y siecr ogt, Rey Vigo y Magnfayent dy gent Brittan age far de lanç lonc un algebr dy peninsol cosogr y soutien de David I de Guineð, oç broucað par meyan de sy mariðaç con y dottr Guinmar de Rey David.|In the eighth century, King Vigo the Magnificent of the Britons spearheaded a reconquest of the peninsula with the support of David I of Wynneth, obtained via his marriage to King David's daughter Winmar.
-Dou dezein e may d'abatment occajonnal se courn fis par y victoir a Petherton, e Vigo er coronnað com y preu rey de Magn Dorogn, oc untað forgant con Dorogn eð region dignant aval Cornou ne Gal.|Over two decades of intermittent warfare were ended with the victory at Petherton, and Vigo was crowned the first king of Greater Devon, uniting Devon with the region later known as Kernow in Gaul.
+Dou dezein e may d'abatment occajonnal se courn fis par y victoir a Petherton, e Vigo fo coronnað com y preu rey de Magn Dorogn, oc untað forgant con Dorogn eð region dignant aval Cornou ne Gal.|Over two decades of intermittent warfare were ended with the victory at Petherton, and Vigo was crowned the first king of Greater Devon, uniting Devon with the region later known as Kernow in Gaul.
 All'arc de stancour es y commet dell'aujamat.|The tinsmith's arch is where the ghetto starts.
 Y floy a sy ðaugr sovrað dou veg par y siecr derran.|The river has overflowed twice in the last century.
 Sceye un rix longinq entr y dou famigl.|The two families had a protracted feud.
@@ -2929,7 +2929,7 @@ Veleð y cancel embrostar sou kivougl.|Please decorate the banister with holly.
 Sy curtel sta d'un roug luiç oðig laçogl.|Her gown was a bright or even garish red.
 Jo vis y behemoth immoðiscent par un illabond.|I saw the wallowing hippo through the spyglass.
 Tonvrouð es y citað caver eð y maissem ne Marclont. Sy pouvlanç teyen a dessur de 500 murðon jusc d'an 2010.|Tommarth is the capital and largest city of Markland. It had a population of over 5 million people by the year 2010.
-Y region souvau instançment pall'Angr ny siecr seg; ny siecr nouf lo sta denuð y citað primer dy Reyaum Markesc smargent. Lo receveu starchiscment signfeyant tras y siecr sousevent com bastegl contr y Cambresc all'ovest e soulor contr y Dannesc all'est.|The area was settled by the Angles in the sixth century; by the ninth it had become the primary city of the nascent Merch Kingdom. It was fortified significantly over the next centuries in defence against the Welsh to the west and then against the Danes to the East.
+Y region souvau instançment pall'Angr ny siecr seg; ny siecr nouf lo'r denuð y citað primer dy Reyaum Markesc smargent. Lo receveu starchiscment signfeyant tras y siecr sousevent com bastegl contr y Cambresc all'ovest e soulor contr y Dannesc all'est.|The area was settled by the Angles in the sixth century; by the ninth it had become the primary city of the nascent Merch Kingdom. It was fortified significantly over the next centuries in defence against the Welsh to the west and then against the Danes to the East.
 Nell'asc modern Tonvrouð brouc un doujug conveyer, chthonic eð effus dignant cos vecin y Dusker, ant quarvet ig inclus Kibbrough e Cathedral.|In the modern day Tommarth has an extensive underground rail system known locally as the Dusker, with stops including Kibbrough and Cathedral.
 Y nom dy citað vien dy floy Tome yon lo se situ a cost. Paravant (pre y reform modern cas dreçment) stant dreçað Tomwarth, y region local er nommað ne Veðr Anglesc Tomworðig "cloist ben acr jos y Tome".|The city takes its name from the Tome river on which it stands. Formerly (before the modern spelling reform) spelt Tomwarth, the local area was known in Old English as Tomworðig "enclosure, field by the Tome".
 L'ottonam se faun de doncel groun.|The brass section is all teenage girls.
@@ -2984,3 +2984,6 @@ Alcun hom abord poðe lo leir, ma Sr Aske declarau lo sta indoutabr un xeny, dec
 Y gent dy havan, eç remeyant avars por nos encontrar, no stan hautessem a figl, e stan robað ne vert des pegl vars caucet.|The harbour-folk who rowed out to meet us were no taller than children and dressed in green from cap to stocking.
 Lorry parol ern toð hoissað, ma lorry ustolment sta civil aðief por ig, pre un hour, nos fom ðescað, pounçað eð effurað dy mitað de nossy bucet.|Their speech was all whistles, yet their manners were so very civil that within the hour we had been fed, flattered and relieved of half our butchet [tobacco].
 Jo lo nommau runam com rouvaç, con tan, jo l'admet, lo fos y rouvaç ajoutandessem meyon jamay sbolognað.|I privately called it robbery, though I confess it was the pleasantest robbery I have ever suffered.
+Pescot eð host son noceu posc tre jorn.|Fish and houseguests both go off after three days.
+Nossy cat es authican fin a quelt.|Our cat is standoffish until dinnertime.
+Casc trevold parachthon a un pylon ne sy capparol derran.|Every sci-fi novel has a portal in its last chapter.

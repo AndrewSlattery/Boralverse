@@ -236,7 +236,7 @@ line	form	gloss	lemma	class	category	person	ending	sentence	translation
 7332	dar	give-inf	dar (give)	IRR	INF		dar	Alcot y bel nau, tu pos ja traiçon me dar.	Whatever you say, you might yet betray me.
 10222	dar	give-inf	dar (give)	IRR	INF		dar	Y scavour cossy sceint poð noc hand dar all'hom poið.	As a journalist, they cannot have sex with their source.
 21319	dar	give-inf	dar (give)	IRR	INF		dar	Me stove pieç parol bisan dar a my fraðr.	I had to tell my brother some hard truths.
-7796	dan	give-imp.3p	dar (give)	IRR	IPFV	3PL	dan	Jarry accendað dan aer cordial ag salon.	Pottery lamps gave the parlour a welcoming feel.
+7796	dan	give-imp.3p	dar (give)	IRR	IPFV	3PL	dan	Jarry accis dan aer cordial ag salon.	Pottery lamps gave the parlour a welcoming feel.
 12521	deð	give-imp.p	dar (give)	IRR	IPFV	PL?	deð	Deð lour gevou cant y rafayat revin.	Give them a heads-up if the tailor comes back.
 11299	dant	give-prp	dar (give)	IRR	PRS	?	dant	Cogmaðer son sbay dant ag cascat n'Onnacra.	Tourists are gawping at the Onnacra waterfalls.
 11608	dar	give	dar (give)	IRR	PRS	?	dar	Nos nolau hur dar for an svattour noscon confiabr.	We were only going to hire a PI we could trust.
@@ -644,7 +644,7 @@ line	form	gloss	lemma	class	category	person	ending	sentence	translation
 31959	voun	will.3p	vol- (will, FUT)	IRR	PRS	3PL	voun	Sy fraðr voun y tapeç sur y vason despondr con y trenchet.	Her brothers will set out the picnic on the mat on the lawn.
 32046	voun	will-3p	vol- (will, FUT)	IRR	PRS	3PL	voun	Ðe voun cal seget ðarar sull'oc acr?	Which crop will they farm in this field?
 8868	vel	will.sbj	vol- (will, FUT)	IRR	SBJV	1SG	vel	Jo vel hur dar an udomintel.	I would like to hire a babysitter.
-9921	vel	will.sbj	vol- (will, FUT)	IRR	SBJV	?	vel	Vel my tarsc d'acat me soumonir posc nossell'yenç.	Please remind me of my shopping list when we arrive.
+9921	vel	will.sbj	vol- (will, FUT)	IRR	SBJV	?	vel	Vel my tarsc d'accat me soumonir posc nossell'yenç.	Please remind me of my shopping list when we arrive.
 16222	vel	will.sbj	vol- (will, FUT)	IRR	SBJV	2SG	vel	E tu am lasc, ma general tu vel ðe sein a pog belem bressem	And you like films, but generally you'd have them be a few scenes shorter
 18228	vel	will.sbj	vol- (will, FUT)	IRR	SBJV	?	vel	Descon luy noc y fraðr vel morir all'outrcaum dy stoir.	Don't tell her the brother dies at the climax of the story.
 18383	veleð	will.sbj-2p	vol- (will, FUT)	IRR	SBJV	2PL	veleð	Veleð y luam covauclir pre exeunt fair.	Please put the toilet lid down before leaving.
@@ -1177,7 +1177,7 @@ line	form	gloss	lemma	class	category	person	ending	sentence	translation
 12843	sortir	go.out-inf	sortir	ir1	INF		-ir	Y dou tarnaç laundaurn ne sortir.	The two regulars stumbled as they left.
 19019	sorteu	go.out-pst	sortir	ir1	PST	?	-eu	My gramma sorteu un boist plen de crochet.	My gran brought out a full tin of biscuits.
 14795	sortið	go.out-p.pst	sortir	ir1	PST.PTCP		-ið	J'er nuvr sortið cant cou roçon.	I'd just left when it started drizzling.
-9921	soumonir	remind-inf	soumonir	ir1	INF		-ir	Vel my tarsc d'acat me soumonir posc nossell'yenç.	Please remind me of my shopping list when we arrive.
+9921	soumonir	remind-inf	soumonir	ir1	INF		-ir	Vel my tarsc d'accat me soumonir posc nossell'yenç.	Please remind me of my shopping list when we arrive.
 26806	soureyeu	smile-pst	soureïr	ir1	PST	?	-yeu	La tenoy sy veðrdon n'oc ort e soureyeu.	She held up her trophy and grinned.
 13579	souseyeu	settle-pst	souseïr	ir1	PST	?	-yeu	L'agent dy Majon Roug souseyeu l'oç scard commoðer.	The Red House agent dealt with that resistance group.
 23772	stoura	necessary-fut	stovir	ir1	FUT	?	~ura	Me stoura Janvier passar con gent rustr.	I'll have to spend January among rustics.
@@ -1247,7 +1247,7 @@ line	form	gloss	lemma	class	category	person	ending	sentence	translation
 18963	acceir	assent-inf	acceir	r	INF		-r	Jo luy hortaminau acceir all'empley.	I urged him to accept the job.
 27818	acceir	access-inf	acceir	r	INF		-r	Val y signal ou "Abseïr Jug" ben "Skig Acceir"?	Should the sign say "Keep Out" or "No Entry"?
 26026	accenen	light-ipf-3p	accendr	r	IPFV	3PL	~en	Lamp a jom e smaraut accenen y pladisc.	Deep blue and emerald lights lit the bar.
-7796	accendað	light.up-ptcp.pst	accendr	r	PST.PTCP		-að	Jarry accendað dan aer cordial ag salon.	Pottery lamps gave the parlour a welcoming feel.
+7796	accis	light.up.ptcp.pst	accendr	r	PST.PTCP		~is	Jarry accis dan aer cordial ag salon.	Pottery lamps gave the parlour a welcoming feel.
 26725	accommettr	undertake-inf	accommettr	r	INF		-r	Vos vouð uncos special accommettr por y gaviscenç ou?	Are you going to do anything special for the festivities?
 17412	accommis	undertake-p.pst	accommettr	r	PST.PTCP		~is	Oc voscon accommis va contr y scagl a natur.	What you've done is against the natural order of things.
 8589	acconnoscr	meet-inf	acconnoscr	r	INF		-r	Nos creim vos desfayað y morrig goðamer acconnoscr.	We believe you'd prefer not to meet our bigoted aunt.

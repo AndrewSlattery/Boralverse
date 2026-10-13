@@ -9,7 +9,7 @@ Alongside the cities of London and [[Paris]], [[Kent]] was the political centre 
 
 Tensions between the Collusion and their southern neighbours (to wit, [[Vascony]] and [[Provence]]) grew particularly tense in the two decades following the [[Millstone War]]. For this reason it is notable that the [[Fiellas Dimenja]] newspaper (headquartered in [[Marsella]]) enjoyed considerable readership across the Collusion even in the 1930s.
 
-Although [[Portingale]] was never part of the Collusion, it occupied a peripheral position in its orbit. This led to diplomatic tensions with Vascony, located directly between the Collusion and Portingale. For a time, Drengot [[Astraphor|astraphor]] supplied (via undersea powerline) much of the baric needs of Portingale, thus relying on Vascon goodwill not to interfere. This situation changed in the 1950s, with Portingale funding threshold mills to supply its own [[Astraphor|astraphor]].
+Although [[Portingale]] was never part of the Collusion, it occupied a peripheral position in its orbit. This led to diplomatic tensions with Vascony, located directly between the Collusion and Portingale. For a time, Drengot [[Astraphor|astraphor]] supplied (via undersea powerline) much of the barric needs of Portingale, thus relying on Vascon goodwill not to interfere. This situation changed in the 1950s, with Portingale funding threshold mills to supply its own [[Astraphor|astraphor]].
 
 # The Furore of 1961
 At the time of the Furore, the Collusion was being administered by a tinplate government under [[Romney Darchild]].

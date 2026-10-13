@@ -11,6 +11,6 @@ At some point the New Vithor Primers (Nou Premour a Viðor), producer of academi
 - [[Sconet Ydreç]] (fl. 2008), author and medievalist
 
 ## Offered courses
-- Chocolate and Rubber: [[Cappatia]] during the Intertwining Century (Scoclat e Coscou: Cappatia par y Kintanç Mondial); 1986
+- Chocolate and Rubber: [[Cappatia]] during the Intertwining Century (Scoclet e Coscou: Cappatia par y Kintanç Mondial); 1986
 - Concurrence History of the 18th Century: Gold, Science, and Waging War (Histoir Concorrent, s18: Aur, Theory, e l'Art d'Abat); 2007
 - Concurrence History of the 16th Century: Death, Ships and the Movement of the Heavens (Histoir Concorrent, s16: Mort, Vascel eð y Motion Celest); 2008
