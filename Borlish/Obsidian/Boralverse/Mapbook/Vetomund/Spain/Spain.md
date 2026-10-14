@@ -16,7 +16,7 @@ A mapbook of the period shows the peninsula shortly after the Aragonese conquest
 - the Duchy of [[Tolose]], under James (crowned 1191), with its court at Tolosa
 - the Kingdom of Portingale, under Eustace II (crowned 1151), with its court at Port Cale and other centres at Lisbon and Corunna
 - the Kingdom of Barcelon, under Martha II (crowned 1186), with its court at Barcelon and other centres at Saragossa, Valencia and Toledo
-- the Admiralty of Cordoba, under Abdul Raman IV (crowned 1188), with its court at Cordoba and other centres at Seville, Murcia and Malaga
+- the Admiralty of Cordova, under Abdul Raman IV (crowned 1188), with its court at Cordova and other centres at Seville, Murcia and Malaga
 
 ## The Vascon Ascendancy
 In the fifteenth century Vascony was ascendant. During the [[Vascon Ascendancy]], [[Ambrose II of Vascony|Ambrose II]] conquered northern Portingale as far south as Braga and (nominally) Calès, and the rump of Portingale fell to Morrack in 1457. Andalus, meanwhile, was controlled from across the straits by Morrack and beset by two successive succession crises and the 1457 Lisbon Massacre.

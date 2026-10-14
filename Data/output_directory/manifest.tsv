@@ -137,7 +137,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 28.2	dictionary	y parol robar "to choose one's words"	y parol robar	to choose one's words	True	2	133	861	dictionary/28.2_y_parol_robar_to_choose_one's_words.md
 28.3	dictionary	jamir "complain"	jamir	complain	True	2	84	582	dictionary/28.3_jamir_complain.md
 28.4	dictionary	neðolmar "comply"	neðolmar	comply	True	3	115	686	dictionary/28.4_neðolmar_comply.md
-28.5	notes	Saxony and Libya			False	0	477	2986	notes/28.5_Saxony_and_Libya.md
+28.5	notes	Saxony and Libya			False	0	477	2985	notes/28.5_Saxony_and_Libya.md
 29.1	excerpt	A Letter from Bervisson			False	0	270	1608	excerpt/29.1_A_Letter_from_Bervisson.md
 29.2	dictionary	treublar "annoy"	treublar	annoy	True	2	123	772	dictionary/29.2_treublar_annoy.md
 29.3	dictionary	vessonary "catalogue"	vessonary	catalogue	True	3	139	962	dictionary/29.3_vessonary_catalogue.md
@@ -198,7 +198,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 40.3	dictionary	oscbou "porthole"	oscbou	porthole	True	2	133	811	dictionary/40.3_oscbou_porthole.md
 40.4	dictionary	nell'eutað "trendy"	nell'eutað	trendy	True	1	118	811	dictionary/40.4_nell'eutað_trendy.md
 40.5	notes	Albion			False	0	662	4169	notes/40.5_Albion.md
-41.1	excerpt	A Baptism of Fire			False	0	259	1564	excerpt/41.1_A_Baptism_of_Fire.md
+41.1	excerpt	A Baptism of Fire			False	0	259	1561	excerpt/41.1_A_Baptism_of_Fire.md
 41.2	dictionary	batesm "baptism"	batesm	baptism	True	3	148	937	dictionary/41.2_batesm_baptism.md
 41.3	dictionary	orn "order; rowan"	orn	order; rowan	True	7	272	1758	dictionary/41.3_orn_order;_rowan.md
 41.4	dictionary	soçavau "aside"	soçavau	aside	True	3	168	1048	dictionary/41.4_soçavau_aside.md
@@ -276,7 +276,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 54.2	dictionary	souseïr "set aside"	souseïr	set aside	True	4	143	891	dictionary/54.2_souseïr_set_aside.md
 54.3	dictionary	hoissar "whistle"	hoissar	whistle	True	4	135	832	dictionary/54.3_hoissar_whistle.md
 54.4	dictionary	trencaç "sharp"	trencaç	sharp	True	3	100	664	dictionary/54.4_trencaç_sharp.md
-54.5	notes	Medieval Mathematics			False	0	291	1896	notes/54.5_Medieval_Mathematics.md
+54.5	notes	Medieval Mathematics			False	0	291	1890	notes/54.5_Medieval_Mathematics.md
 55.1	excerpt	Marian Siegert			False	0	238	1317	excerpt/55.1_Marian_Siegert.md
 55.2	dictionary	cuidar "think"	cuidar	think	True	3	93	604	dictionary/55.2_cuidar_think.md
 55.3	dictionary	pluottar "fledge"	pluottar	fledge	True	4	147	848	dictionary/55.3_pluottar_fledge.md
@@ -317,7 +317,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 62.3	dictionary	çamoc "jam"	çamoc	jam	True	4	161	1003	dictionary/62.3_çamoc_jam.md
 62.4	dictionary	vugl "blockage"	vugl	blockage	True	2	94	548	dictionary/62.4_vugl_blockage.md
 62.5	notes	The Mysarnos Codex			False	0	407	2546	notes/62.5_The_Mysarnos_Codex.md
-63.1	excerpt	Decline of Empire			False	0	257	1547	excerpt/63.1_Decline_of_Empire.md
+63.1	excerpt	Decline of Empire			False	0	257	1546	excerpt/63.1_Decline_of_Empire.md
 63.2	dictionary	sciftar "spread"	sciftar	spread	True	4	147	887	dictionary/63.2_sciftar_spread.md
 63.3	dictionary	lasc "film"	lasc	film	True	3	164	952	dictionary/63.3_lasc_film.md
 63.4	dictionary	cosogr "jointly"	cosogr	jointly	True	5	207	1219	dictionary/63.4_cosogr_jointly.md
@@ -446,7 +446,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 88.2	dictionary	huyaç "organised crime"	huyaç	organised crime	True	2	110	728	dictionary/88.2_huyaç_organised_crime.md
 88.3	dictionary	vrugheç "moorland"	vrugheç	moorland	True	2	113	715	dictionary/88.3_vrugheç_moorland.md
 88.4	dictionary	desveyar "deviate"	desveyar	deviate	True	3	118	750	dictionary/88.4_desveyar_deviate.md
-88.5	notes	Convoy Australier			False	0	270	1677	notes/88.5_Convoy_Australier.md
+88.5	notes	Convoy Australier			False	0	270	1674	notes/88.5_Convoy_Australier.md
 89.1	excerpt	Four Miles to Freedom			False	0	263	1605	excerpt/89.1_Four_Miles_to_Freedom.md
 89.2	dictionary	yeul ovart "thoroughfare"	yeul ovart	thoroughfare	True	2	136	864	dictionary/89.2_yeul_ovart_thoroughfare.md
 89.3	dictionary	annex denover "afterthought"	annex denover	afterthought	True	2	150	1047	dictionary/89.3_annex_denover_afterthought.md

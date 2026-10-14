@@ -9,7 +9,7 @@ Africa is one of the three continents of the [[Vetomund]], lying south of [[Euro
 The name has its roots in Latin *Āfer*, usually taken to be from a Punic name for the people related to *afar* "dust".
 
 ## North Africa
-The Middlesea coast was long held by the [[Single Caliphate]], seated at Cairo. As imperial hegemony in Europe and northern Africa fell apart, independent admiralties were declared in Libya and the Maghreb in 1237.
+The Middlesea coast was long held by the [[Single Caliphate]], seated at Cairo. As imperial hegemony in Europe and northern Africa fell apart, an independent admiralty was declared in Libya in 1237, at the same time as the Morrove admiralty to the west.
 
 - [[Morrack]], primarily in the north-west of the continent
 - [[Libya]], between Morrack and Egypt

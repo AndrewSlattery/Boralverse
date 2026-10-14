@@ -293,7 +293,7 @@ Also relevant: German-speaking communities survive in **Halich, Kiew and Vallack
 | **Caddisow** | ● | "Sub-Saharan state occupying much of the territory of **Botswana, Zimbabwe, and southern Mozambique**." Its *opening* in the mid-C19 is blamed, in part, for the decline of the voidtale craze — few mysterious lands were left to imagine |
 | **Bamackon** | ◐ | "A major population centre in **14th-century western Africa**, suzerain in particular over parts of the coast to its south." Exported mause and gorray nuts. Also names a **language family** — *gorray* "kola nut" comes "via continental Romance from one of the Bamackon languages of West Africa" (cf. Wolof) |
 | **Sant Adrian** | ◐ | [Bioko]. Vascon-controlled from the C15 |
-| **Maghreb / Morrove admiralty** | — | Declared independent from the Single Caliphate in 1237 |
+| **Morrove admiralty** | — | Declared independent from the Single Caliphate in 1237 |
 
 **Sub-Saharan Africa holds exactly three named entities** — Caddisow, Bamackon and Ungotia — and the first two
 surface only in the footnotes of `Data/pre-2022 notes.txt`, which gloss things later drafts leave bare. Everything

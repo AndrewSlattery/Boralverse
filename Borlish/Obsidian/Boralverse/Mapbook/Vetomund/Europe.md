@@ -46,7 +46,7 @@ Europe is a continental peninsula in the northern hemisphere.
 - [[Britain]]
 - [[Burgundy]]
 - Connaught
-- Cordoba
+- Cordova
 - Corse
 - [[Crain]]
 - [[Crovatia]]

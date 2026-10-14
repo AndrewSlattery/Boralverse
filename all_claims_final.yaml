@@ -7755,11 +7755,11 @@ claims:
 - entry: '28.5'
   title: Saxony and Libya
   category: event
-  claim: An independent admiralty in Libya was declared in 1237, at the same time as the Maghrebi admiralty to the west.
+  claim: An independent admiralty in Libya was declared in 1237, at the same time as the Morrove admiralty to the west.
   entities:
   - name: Libya
     type: polity
-  - name: Maghreb
+  - name: Morrove admiralty
     type: polity
   dates:
   - 1237 N
@@ -11747,21 +11747,21 @@ claims:
 - entry: 54.5
   title: Medieval Mathematics
   category: person
-  claim: Jambor of Hungary (fl. c. 12th c. N) was an early king of Hungary, following Hungary's succession from a principality
+  claim: Jambor of Awry (fl. c. 12th c. N) was an early king of Awry, following Awry's succession from a principality
     the century before.
   entities:
-  - name: Jambor of Hungary
+  - name: Jambor of Awry
     type: person
-  - name: Hungary
+  - name: Awry
     type: polity
   dates: fl. c. 12th c. N
 - entry: 54.5
   title: Medieval Mathematics
   category: person
-  claim: Jambor of Hungary oversaw significant expansion of Awrish influence, entering into personal union with eastern principalities
+  claim: Jambor of Awry oversaw significant expansion of Awrish influence, entering into personal union with eastern principalities
     such as Halich and Vallack.
   entities:
-  - name: Jambor of Hungary
+  - name: Jambor of Awry
     type: person
   - name: Halich
     type: polity
@@ -11770,20 +11770,20 @@ claims:
 - entry: 54.5
   title: Medieval Mathematics
   category: person
-  claim: Jambor of Hungary became an ally of the Malchassian Romans to the south.
+  claim: Jambor of Awry became an ally of the Malchassian Romans to the south.
   entities:
-  - name: Jambor of Hungary
+  - name: Jambor of Awry
     type: person
   - name: Malchassian Romans
     type: polity
 - entry: 54.5
   title: Medieval Mathematics
   category: place
-  claim: The great Library of Sobjan was built during the reign of Jambor of Hungary.
+  claim: The great Library of Sobjan was built during the reign of Jambor of Awry.
   entities:
   - name: Library of Sobjan
     type: place
-  - name: Jambor of Hungary
+  - name: Jambor of Awry
     type: person
 - entry: 54.5
   title: Medieval Mathematics
@@ -16081,17 +16081,17 @@ claims:
   title: Convoy Australier
   category: event
   claim: After losing Antioch and Port Simon, the Convoy Australier was assigned to the courts of Svonimir of Crovatia and
-    Taxon of Hungary.
+    Taxon of Awry.
   entities:
   - name: Convoy Australier
     type: organisation
   - name: Svonimir of Crovatia
     type: person
-  - name: Taxon of Hungary
+  - name: Taxon of Awry
     type: person
   - name: Crovatia
     type: polity
-  - name: Hungary
+  - name: Awry
     type: polity
 - entry: 88.5
   title: Convoy Australier
