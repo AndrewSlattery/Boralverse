@@ -3820,11 +3820,11 @@ claims:
 - entry: '19.5'
   title: The Winter Feast
   category: language
-  claim: Reveglon is a Middle Boral borrowing from the synonymous French 'reveillon'.
+  claim: Reveglon is a Middle Borlish borrowing from the synonymous French 'reveillon'.
   entities:
   - name: Reveglon
     type: concept
-  - name: Middle Boral
+  - name: Middle Borlish
     type: language
 - entry: '19.5'
   title: The Winter Feast
@@ -4028,11 +4028,11 @@ claims:
 - entry: '19.5'
   title: The Winter Feast
   category: culture
-  claim: The name 'tort dell'ivan' is attested as early as the tenth century in Old Boral as 'torte del ifan'.
+  claim: The name 'tort dell'ivan' is attested as early as the tenth century in Old Borlish as 'torte del ifan'.
   entities:
   - name: tort dell'ivan
     type: concept
-  - name: Old Boral
+  - name: Old Borlish
     type: language
   dates:
   - 10th century
@@ -5919,7 +5919,7 @@ claims:
   category: glossary
   claim: Nargel is the Boralverse term for coconuts.
   entities:
-  - name: nargel
+  - name: nargill
     irl: coconuts
     type: concept
 - entry: '25.5'
@@ -5935,9 +5935,9 @@ claims:
   title: Borlish borrowings into English
   source_work: 'Daughters of the Sea: The Northwestern Isles'
   category: language
-  claim: The fourteenth and fifteenth centuries gave English the words 'nargel' and 'mauser fruit' from Borlish.
+  claim: The fourteenth and fifteenth centuries gave English the words 'nargill' and 'mauser fruit' from Borlish.
   entities:
-  - name: nargel
+  - name: nargill
     type: concept
   - name: mauser fruit
     type: concept
@@ -11317,7 +11317,7 @@ claims:
 - entry: 51.5
   title: 23rd Lexember
   category: language
-  claim: The Borlish word taus derives from Old Boral taus ('tax, price'), itself a deverbal of taussar borrowed from Old
+  claim: The Borlish word taus derives from Old Borlish taus ('tax, price'), itself a deverbal of taussar borrowed from Old
     French, reflecting Latin taxō.
   entities:
   - name: taus
@@ -11478,7 +11478,7 @@ claims:
 - entry: 52.5
   title: 30th Lexember
   category: language
-  claim: Çarvinot is a further diminutive of obsolete Borlish çarvin (cervin), itself abbreviated from Old Boral baȝ cervin
+  claim: Çarvinot is a further diminutive of obsolete Borlish çarvin (cervin), itself abbreviated from Old Borlish baȝ cervin
     ('raspberry', literally 'fawn berry').
   entities:
   - name: çarvinot

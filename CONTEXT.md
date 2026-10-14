@@ -73,7 +73,7 @@ Borlish (*Borallesc*) is the only surviving branch of **Insular Romance** — La
 
 ### Sound System
 
-The 27-letter alphabet includes standard Latin letters plus: **ç** /ts/ or /s/, **ð** /ð/, **æ** /æ/, **œ** /œ/, **ï** /iː/ or /ɪ/.
+The 27-letter alphabet is the Latin alphabet without **w**, plus two full letters: **ç** /ts/ or /s/ and **ð** /ð/. Three ligatures are used in addition but are not counted among the 27: **æ** and **œ** (mainly in Classical loanwords, both pronounced as if written ‹e›) and **ï** (*i jammel* "twin i", pronounced as if written ‹yi›). **w** appears only in foreign words and some names, pronounced like ‹v›.
 
 Key sound changes from Vulgar Latin:
 - Intervocalic lenition: /p t k/ > /v ð j/; /b d g/ often deleted
