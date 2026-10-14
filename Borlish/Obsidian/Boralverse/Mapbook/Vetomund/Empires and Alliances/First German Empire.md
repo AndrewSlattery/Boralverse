@@ -29,7 +29,7 @@ The northern cities began to drift away from imperial authority early. Their may
 
 The empire's slow erosion accelerated sharply with the [[German Secession]]. In 1225 Paul I/XI's [[Pauline Denunciations]] established a rival papal seat at Augsburg, with Bavarn as the epicentre of the schism. Over the following decades each duchy, and in some cases each county, declared either for [[Rome]] or for Augsburg. The resulting patchwork of allegiances brought the empire down "in spectacular fashion". Its collapse made [[Rome]] treat the [[Baptism of the North]] as urgent.
 
-By the end of the thirteenth century "the fiction of a surviving German Empire was laid to rest with the corpse of the first Kingdom of Saxony", and the Houghbrocken were reduced to their core lands upstream at Lepzi and Magdeburg.
+By the end of the thirteenth century "the fiction of a surviving German Empire was laid to rest with the corpse of the first Kingdom of Saxony", and the Houghbrocken were reduced to their core lands upstream at Lepzi and Magdeburgh.
 
 ### Legacy
 After the collapse, Furlain's most frequent rival became the Republic of [[Venise]]. By the sixteenth century a Second German Empire had arisen: Lumbridge was once again an imperial vassal, though Emperor Matthias II (r. 1542–1568) won only symbolic statements of loyalty from its council.

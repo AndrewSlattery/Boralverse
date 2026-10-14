@@ -7583,9 +7583,9 @@ claims:
 - entry: '28.5'
   title: Saxony and Libya
   category: polity
-  claim: Many of the Hohenbrocken dynasty of Saxony ruled the German Empire outright.
+  claim: Many of the Houghbrocken dynasty of Saxony ruled the German Empire outright.
   entities:
-  - name: Hohenbrocken
+  - name: Houghbrocken
     type: group
   - name: German Empire
     type: polity
@@ -15396,14 +15396,14 @@ claims:
 - entry: 83.5
   title: Loveless Lepzi
   category: event
-  claim: The Houghbrocken dynasty ruled from Lepzi before being removed to Magdeburg when the house was reduced to the four-year-old
+  claim: The Houghbrocken dynasty ruled from Lepzi before being removed to Magdeburgh when the house was reduced to the four-year-old
     Marksman Baldur.
   entities:
   - name: Houghbrocken
     type: organisation
   - name: Lepzi
     type: place
-  - name: Magdeburg
+  - name: Magdeburgh
     type: place
   - name: Baldur
     type: person

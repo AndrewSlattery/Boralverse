@@ -13,7 +13,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 3.3	dictionary	sovemblar "to outline"	sovemblar	to outline	True	4	173	1203	dictionary/3.3_sovemblar_to_outline.md
 3.4	dictionary	zygom "valve"	zygom	valve	True	4	187	1140	dictionary/3.4_zygom_valve.md
 3.5	notes	Dane Settlements in the Isles			False	0	252	1684	notes/3.5_Dane_Settlements_in_the_Isles.md
-4.1	excerpt	Rise of the Stadbund			False	0	252	1584	excerpt/4.1_Rise_of_the_Stadbund.md
+4.1	excerpt	Rise of the Stadbund			False	0	252	1588	excerpt/4.1_Rise_of_the_Stadbund.md
 4.2	dictionary	spait "scared"	spait	scared	True	3	138	835	dictionary/4.2_spait_scared.md
 4.3	dictionary	autoschedon "hand-to-hand combat"	autoschedon	hand-to-hand combat	True	2	124	867	dictionary/4.3_autoschedon_hand-to-hand_combat.md
 4.4	dictionary	belem "scene"	belem	scene	True	4	168	1021	dictionary/4.4_belem_scene.md
@@ -127,7 +127,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 26.2	dictionary	debriscellisar "cut back"	debriscellisar	cut back	True	3	114	760	dictionary/26.2_debriscellisar_cut_back.md
 26.3	dictionary	madarc "beat cop"	madarc	beat cop	True	2	111	698	dictionary/26.3_madarc_beat_cop.md
 26.4	dictionary	coutoccar "poke"	coutoccar	poke	True	3	122	782	dictionary/26.4_coutoccar_poke.md
-26.5	notes	Borland			False	0	4103	26262	notes/26.5_Borland.md
+26.5	notes	Borland			False	0	4103	26264	notes/26.5_Borland.md
 27.1	excerpt	The Witch of Tebjacka			False	0	219	1254	excerpt/27.1_The_Witch_of_Tebjacka.md
 27.2	dictionary	coram “in person”			True	2	133	878	dictionary/27.2_coram_“in_person”.md
 27.3	dictionary	kireðam “wholeheartedly”			True	2	134	973	dictionary/27.3_kireðam_“wholeheartedly”.md
@@ -162,7 +162,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 33.2	dictionary	çavel "brain"	çavel	brain	True	3	118	755	dictionary/33.2_çavel_brain.md
 33.3	dictionary	zantr "zenith"	zantr	zenith	True	4	158	967	dictionary/33.3_zantr_zenith.md
 33.4	dictionary	gur "dread"	gur	dread	True	3	142	816	dictionary/33.4_gur_dread.md
-33.5	notes	The Wars of Fealty			False	0	419	2599	notes/33.5_The_Wars_of_Fealty.md
+33.5	notes	The Wars of Fealty			False	0	419	2603	notes/33.5_The_Wars_of_Fealty.md
 34.1	excerpt	Wearing a Mask or a Suit			False	0	240	1344	excerpt/34.1_Wearing_a_Mask_or_a_Suit.md
 34.2	dictionary	sbay "gawp"	sbay	gawp	True	1	111	732	dictionary/34.2_sbay_gawp.md
 34.3	dictionary	dagaðy "here and there"	dagaðy	here and there	True	2	79	517	dictionary/34.3_dagaðy_here_and_there.md
@@ -251,7 +251,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 50.2	dictionary	13th Lexember			True	3	172	1115	dictionary/50.2_13th_Lexember.md
 50.3	dictionary	14th Lexember			True	3	136	976	dictionary/50.3_14th_Lexember.md
 50.4	dictionary	15th Lexember			True	3	134	858	dictionary/50.4_15th_Lexember.md
-50.5	notes	16th Lexember			True	2	459	2880	notes/50.5_16th_Lexember.md
+50.5	notes	16th Lexember			True	2	459	2881	notes/50.5_16th_Lexember.md
 50.6	dictionary	17th Lexember			True	2	128	801	dictionary/50.6_17th_Lexember.md
 50.7	dictionary	18th Lexember			True	3	144	845	dictionary/50.7_18th_Lexember.md
 51.1	excerpt	19th Lexember			True	3	425	2423	excerpt/51.1_19th_Lexember.md
@@ -267,7 +267,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 52.4	dictionary	29th Lexember			True	11	214	1303	dictionary/52.4_29th_Lexember.md
 52.5	notes	30th Lexember			False	2	391	2655	notes/52.5_30th_Lexember.md
 52.6	dictionary	31st Lexember			True	3	130	992	dictionary/52.6_31st_Lexember.md
-53.1	excerpt	Shady Dealings			False	0	250	1479	excerpt/53.1_Shady_Dealings.md
+53.1	excerpt	Shady Dealings			False	0	250	1480	excerpt/53.1_Shady_Dealings.md
 53.2	dictionary	quesq "damson"	quesq	damson	True	4	148	915	dictionary/53.2_quesq_damson.md
 53.3	dictionary	mandrin "cyanide"	mandrin	cyanide	True	2	97	680	dictionary/53.3_mandrin_cyanide.md
 53.4	dictionary	aversion "opposition"	aversion	opposition	True	3	133	1128	dictionary/53.4_aversion_opposition.md
@@ -417,11 +417,11 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 82.3	dictionary	cas sar "online"	cas sar	online	True	2	158	918	dictionary/82.3_cas_sar_online.md
 82.4	dictionary	scenar "stage"	scenar	stage	True	2	105	701	dictionary/82.4_scenar_stage.md
 82.5	notes	London			False	0	429	2643	notes/82.5_London.md
-83.1	excerpt	The Late 12th Century			False	0	246	1468	excerpt/83.1_The_Late_12th_Century.md
+83.1	excerpt	The Late 12th Century			False	0	246	1470	excerpt/83.1_The_Late_12th_Century.md
 83.2	dictionary	narreyar "taunt"	narreyar	taunt	True	3	122	798	dictionary/83.2_narreyar_taunt.md
 83.3	dictionary	eir sauf a "all but"	eir sauf a	all but	True	1	117	663	dictionary/83.3_eir_sauf_a_all_but.md
 83.4	dictionary	linaç "lineage"	linaç	lineage	True	3	125	748	dictionary/83.4_linaç_lineage.md
-83.5	notes	Loveless Lepzi			False	0	327	2024	notes/83.5_Loveless_Lepzi.md
+83.5	notes	Loveless Lepzi			False	0	327	2025	notes/83.5_Loveless_Lepzi.md
 84.1	excerpt	Early Provence			False	0	272	1610	excerpt/84.1_Early_Provence.md
 84.2	dictionary	vondrous "grotesque"	vondrous	grotesque	True	3	101	721	dictionary/84.2_vondrous_grotesque.md
 84.3	dictionary	lodrignether "technical"	lodrignether	technical	True	3	107	833	dictionary/84.3_lodrignether_technical.md
@@ -651,7 +651,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 127.2	dictionary	y cæros ovrir de "make possible"	y cæros ovrir de	make possible	True	1	134	840	dictionary/127.2_y_cæros_ovrir_de_make_possible.md
 127.3	dictionary	broncar "flinch"	broncar	flinch	True	3	139	898	dictionary/127.3_broncar_flinch.md
 127.4	dictionary	snuvr fair "sniff"	snuvr fair	sniff	True	2	123	769	dictionary/127.4_snuvr_fair_sniff.md
-127.5	notes	Deadly Disasters			False	0	335	2036	notes/127.5_Deadly_Disasters.md
+127.5	notes	Deadly Disasters			False	0	335	2037	notes/127.5_Deadly_Disasters.md
 128.1	excerpt	St Margaret Meeting			False	0	234	1327	excerpt/128.1_St_Margaret_Meeting.md
 128.2	dictionary	fardig "solo"	fardig	solo	True	0	140	938	dictionary/128.2_fardig_solo.md
 128.3	dictionary	lau pre yonoscon "in the middle of nowhere"	lau pre yonoscon	in the middle of nowhere	True	0	135	883	dictionary/128.3_lau_pre_yonoscon_in_the_middle_of_nowhere.md

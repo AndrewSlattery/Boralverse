@@ -19,7 +19,7 @@ The relatively-new [[Britain|Kingdom of Britain]] (formed of [[Wales]] and its o
 In the final years of the Wars of Fealty, a code known as Thieves' Script was employed by the forces of [[Andrew III of Markland]], apparently adapted from similar systems used by gangs of housebreakers in Nottingham. It is remembered today as a very early precursor of codes like steeplescript or modern one-zeffre encoding.
 
 # Aftermath
-The poorer economic conditions of the Albick polities in the wake of the Wars of Fealty and the ongoing population displacements/migrations throughout the island left them woefully vulnerable to the ravages of the [[Second Great Dying]]. Almost twice as many deaths per capita are recorded in Markland and English Kent compared with Norman Kent or [[Willemy]] across the British Sea.
+The poorer economic conditions of the Albick polities in the wake of the Wars of Fealty and the ongoing population displacements/migrations throughout the island left them woefully vulnerable to the ravages of the [[Second Great Dying]]. Almost twice as many deaths per capita are recorded in Markland and English Kent compared with Norman Kent or [[Willemy]] across the Kentish Channel.
 
 The advantageous position of the Kingdom of Britain, by contrast, contributed to the successes of King [[Howel of Britain]]'s expansion of naval trade (typified by the ship Phœbos circumnavigating Africa and reaching [[Borune]] in 1516).
 

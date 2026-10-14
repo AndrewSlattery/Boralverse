@@ -3930,7 +3930,7 @@ interrogment /ɪnˌte.ʀɔgˈmɛnt/ research, consultation, self-education
 
     taken from A Mapbook Compendium of Europe, from the Division of Rome until the German Secession (450 - 1250 N), part of the supplementary reference materials provided for students sitting history scitation at the University of Conster. Published by the Tommarth Open School of History in 1997.
 
-The German Empire at the height of the Second Tetrarchy in 1120 N is characterised by tensions between the dual kingdoms of Saxony and Bavarn—the empire at this point is ruled jointly by the Hoghbrocken and Andex dynasties, ruling respectively as King Brunow III from Bardwick and Conrad II from Regensburg. The imperial seat had not yet been fixed; in 1120 N they were administering the Empire from Frankford. Furthermore, the Empire is at this moment quite possibly the most centralised polity in Europe and Near Asia, although this state of affairs would not last for long…
+The German Empire at the height of the Second Tetrarchy in 1120 N is characterised by tensions between the dual kingdoms of Saxony and Bavarn—the empire at this point is ruled jointly by the Houghbrocken and Andex dynasties, ruling respectively as King Brunow III from Bardwick and Conrad II from Regensburg. The imperial seat had not yet been fixed; in 1120 N they were administering the Empire from Frankford. Furthermore, the Empire is at this moment quite possibly the most centralised polity in Europe and Near Asia, although this state of affairs would not last for long…
 
 ##
 
@@ -5317,13 +5317,13 @@ sodal /soˈdal/ [sʊˈdaw] member (of a group), family member, element, componen
 
 25m Septembr
 
-    excerpted from David Huhn's economic history textbook Stadstahten: Sichrer Haven (City-States: Safe Harbor), a treatise on the role of independent trade cities in the development of mercantilism. The book was published in 1923 with funding from the Lunburg Schazhaus.
+    excerpted from David Huhn's economic history textbook Stadstahten: Sichrer Haven (City-States: Safe Harbor), a treatise on the role of independent trade cities in the development of mercantilism. The book was published in 1923 with funding from the Lumbridge Schazhaus.
 
-…close of the thirteenth century as a convenient cutoff. The fiction of a surviving German Empire was laid to rest with the corpse of the first Kingdom of Saxony, with the domain of the Hoghbrocken dynasty reduced to their core lands upstream in Lepzi and Magdeburg. The newly-reduced Margrave Baldur of Saxony, being only 4 years old at the time, was understandably outmanœuvred by the nascent Stadbund.
+…close of the thirteenth century as a convenient cutoff. The fiction of a surviving German Empire was laid to rest with the corpse of the first Kingdom of Saxony, with the domain of the Houghbrocken dynasty reduced to their core lands upstream in Lepzi and Magdeburgh. The newly-reduced Margrave Baldur of Saxony, being only 4 years old at the time, was understandably outmanœuvred by the nascent Stadbund.
 
 But the guild-states known variously as the Stadbund, the Samslutning or the North Collision (we see in Latin documents usually collisio theodisc) did not, of course, appear fully-formed at the dawn of the fourteenth century. We can trace the roots of intercivic contracts restricting tariffs, tolls and other fees back to the early twelfth century. Indeed, even at the height of the Mediæval Imperia, traditionally portrayed as a world (or a least a Europe) of central authority, mayors of the towns in the low Elbe and its tributaries were collaborating independently of their respective lieges.
 
-We must look at early Bardwick, which along with Hamburg and Lunburg comprised the founding core—and later the trading heart—of the Stadbund. Its particular interest stems from its dual position as court of the Hoghbrocken kings and as a highly mercantile trade city. King Ruprecht II in particular will serve as a useful…
+We must look at early Bardwick, which along with Hamburgh and Lumbridge comprised the founding core—and later the trading heart—of the Stadbund. Its particular interest stems from its dual position as court of the Houghbrocken kings and as a highly mercantile trade city. King Ruprecht II in particular will serve as a useful…
 
 ##
 
@@ -5596,7 +5596,7 @@ PART Γ: Answer the following questions in a single word. (maximum 5 minutes)
 2. What relation was King Adalmar of Bavaria to his successor Empress Katharina of Germany, the last ruler of a united Germany for over five hundred years?
 - Answer: Grand-uncle
 
-3. Hamburg was the first German city to formally declare as not subject to the rule of the Emperor, in 1207 N. But which city, almost as powerful a member of the nascent Collision (the Stadbund) as Hamburg herself, followed suit just one year later?
+3. Hamburgh was the first German city to formally declare as not subject to the rule of the Emperor, in 1207 N. But which city, almost as powerful a member of the nascent Collision (the Stadbund) as Hamburgh herself, followed suit just one year later?
 Answer: Dorstad
 
 4. Musab as-Sakr of Ispella led an early faction for independence from the Single Caliphate in the last decade of the twelfth century. But during what activity did he fall to his death, aged 40, postponing such revolutionary ideas for another two generations?
@@ -8187,10 +8187,10 @@ The recent excavation work near Kilcoughbert [Kirkcudbright, Galloway] has uncov
 
 4.1: Rise of the Stadbund
 
-excerpted in translation from David Huhn's 1923 textbook Stadstahten: Sichrer Haven, a treatise on the role of independent trade cities in the development of mercantilism, published with funding from the Lunburg Schazhaus.
+excerpted in translation from David Huhn's 1923 textbook Stadstahten: Sichrer Haven, a treatise on the role of independent trade cities in the development of mercantilism, published with funding from the Lumbridge Schazhaus.
 
 Y mençon ig remaneus un Empir Theudesc fo sevelið ne grauf jos y cadavr dy preu Reyaum Saxon, l'eiðel y dynasty Hougbrocken appartenent stant diminoit vars lorrell'eðegl fondominal amont ne Lepzi e Magdebourg.
-The fiction of a surviving German Empire was laid to rest with the corpse of the first Kingdom of Saxony, with the domain of the Hoghbrocken dynasty reduced to their core lands upstream in Lepzi and Magdeburg. 
+The fiction of a surviving German Empire was laid to rest with the corpse of the first Kingdom of Saxony, with the domain of the Houghbrocken dynasty reduced to their core lands upstream in Lepzi and Magdeburgh. 
 
 Y nou-redoit Marcgrau Baldr de Saxony, temporane no stant for catr annað eld, cou cos comprensibr par ottem manouvr dy Stadbond smargent.
 The newly-reduced Margrave Baldur of Saxony, being only 4 years old at the time, was understandably outmanœuvred by the nascent Stadbund.
@@ -10486,7 +10486,7 @@ Natural features
 
     Dam River, a major east-flowing river which passes through Damvath and empties into the Labbath Sound
     Duðam River, downstream portion of the largest watershed in the northern half of the island
-    English Strait (Naur Anglesc), the sea diving the west coast of Borland from the east coast of Albion
+    English Strait (Naur Anglesc), the sea dividing the west coast of Borland from the east coast of Albion
     Labbath Sound (Bugt Labbað), a large estuary and bay on the east coast where the river Dam empties into the sea
     Nestu, the largest island in the Labbað Sound, known for the medieval Golfhaun sanctuary
     Rustigh Strait (Naur Rustig), the narrow channel of water separating the southern coast of Borland from the mainland
@@ -10740,7 +10740,7 @@ I'm afraid I'll never fit in with them.
 Saxony is a polity in Europe bordering places such as Poland, Willemy and Bohemia.
 History
 
-During the Second Tetrarchy, the Kingdom of Saxony was a major vassal state of the German Empire administered from Bardwick, and many of their Hohenbrocken dynasty ruled the empire outright. The region in the twelfth century is characterised by tensions between Saxony and Bavarn, the other major vassal kingdom of the empire.
+During the Second Tetrarchy, the Kingdom of Saxony was a major vassal state of the German Empire administered from Bardwick, and many of their Houghbrocken dynasty ruled the empire outright. The region in the twelfth century is characterised by tensions between Saxony and Bavarn, the other major vassal kingdom of the empire.
 
 The Kingdom of Saxony was affected by the collapse of the Second Tetrarchy in the thirteenth century; the nascent Stadbund of mercantile cities in the north seceding and reducing Saxony to its lands upstream in Maidburg and Lepzi.
 
@@ -11260,7 +11260,7 @@ The relatively-new Kingdom of Britain (formed of Wales and its outlying tallaths
 In the final years of the Wars of Fealty, a code known as Thieves' Script was employed by the forces of Andrew III of Markland, apparently adapted from similar systems used by gangs of housebreakers in Nottingham. It is remembered today as a very early precursor of codes like steeplescript or modern one-zeffre encoding.
 
 Aftermath
-The poorer economic conditions of the Albic polities in the wake of the Wars of Fealty and the ongoing population displacements/migrations throughout the island left them woefully vulnerable to the ravages of the Second Great Dying. Almost twice as many deaths per capita are recorded in Markland and English Kent compared with Norman Kent or Willemy across the British Sea.
+The poorer economic conditions of the Albic polities in the wake of the Wars of Fealty and the ongoing population displacements/migrations throughout the island left them woefully vulnerable to the ravages of the Second Great Dying. Almost twice as many deaths per capita are recorded in Markland and English Kent compared with Norman Kent or Willemy across the Kentish Channel.
 
 The advantageous position of the Kingdom of Britain, by contrast, contributed to the successses of King Howel of Britain's expansion of naval trade (typified by the ship Phœbos circumnavigating Africa and reaching Borune in 1516).
 
@@ -13090,7 +13090,7 @@ My dearest mother,
 
 First I must reassure you that [her brother] young Crazi has arrived in Miszen safe and in good spirits. He has not taken to commerce as enthusiastically as you had hoped (or at least not as well as he has taken to nights out with soldierly friends and woodheaded mornings!) but his allegedly-charming features seem to have contributed to a string of advantageous deals with the usual suppliers.
 
-You shall I expect be unsurprised to hear that the Potchware [2] woodcarvings refuse to be bought at even half the cost of importing them (never mind Hamburg's stanglehold on the Elbe); eventually I managed to convince a particuarly-credulous customer from Crovatia that they were the only attested artworks of a remote people of Angelica, which limited our losses to an acceptable amount.
+You shall I expect be unsurprised to hear that the Potchware [2] woodcarvings refuse to be bought at even half the cost of importing them (never mind Hamburgh's stanglehold on the Elbe); eventually I managed to convince a particuarly-credulous customer from Crovatia that they were the only attested artworks of a remote people of Angelica, which limited our losses to an acceptable amount.
 
 The mayor continues to promise better roads out west to Lepzi—it is nonsensical that one cannot make the journey in a day and must suffer an uncomfortable night in the only Ossatz lodginghouse with tolerable chambermaids. I cannot see that such projects will find funds for themselves so long as the garrison demands its gold, and so long as the Boheme menace rattles its sabre across the southern…
 
@@ -13462,7 +13462,7 @@ ma sy tegnt visacer fouceur cos rumorað pariscn aïr impet dað an congeries a 
 but his allegedly-charming features seem to have contributed to a string of advantageous deals with the usual suppliers.
 
 Tu nil ða j'ay bon scoc recevir n'oyent ig l'ec ensignment boscer poscvaran son neyant a se cavir acatað teint mitað dy taus meðes innajað la (no dign y dominanç de Hambourg sur troc lonc Elf);
-You shall I expect be unsurprised to hear that the Potchware woodcarvings refuse to be bought at even half the cost of importing them (never mind Hamburg's stanglehold on the Elbe);
+You shall I expect be unsurprised to hear that the Potchware woodcarvings refuse to be bought at even half the cost of importing them (never mind Hamburgh's stanglehold on the Elbe);
 
 toð cas final j'acavau un conement de Crovatia stant enfoldesc particuler ig l'ec fosn y soul ouvr d'art connuð d'un pouvlanç remot n'Angelica, oc ayent nossy despart limitað an quantað supportabr.
 eventually I managed to convince a particuarly-credulous customer from Crovatia that they were the only attested artworks of a remote people of Angelica, which limited our losses to an acceptable amount.
@@ -16451,7 +16451,7 @@ excerpt in translation from scitation questions for the Borrhatic School of Hist
 2. What relation was King Adalmar of Bavarn to his successor Empress Cathrine of Germany, the last ruler of a united Germany for over five hundred years? [Great-uncle]
 
 3. Hambourg sta y preu citað Theudesc a se declarar cos solemn com insouject ag regn dell'Emperour, d'an 1207 N. Ma cal citað, un sodal ny Collijon (y Stadbond) smargent pres possent equal com Hambourg meðes, quottau jout for l'un annað aposc? [Dorstad]
-3. Hamburg was the first German city to formally declare as not subject to the rule of the Emperor, in 1207 N. But which city, almost as powerful a member of the nascent Collision (the Stadbund) as Hamburg herself, followed suit just one year later? [Dorstad]
+3. Hamburgh was the first German city to formally declare as not subject to the rule of the Emperor, in 1207 N. But which city, almost as powerful a member of the nascent Collision (the Stadbund) as Hamburgh herself, followed suit just one year later? [Dorstad]
 
 ##
 
@@ -16509,7 +16509,7 @@ The man has enough parentage for you both.
 Lepzi is the capital city of Saxony, located on the Bleak Alstre.
 
 History
-Lepzi first acted as political centre for the First Kingdom of Saxony, very briefly just prior to its collapse at the close of the thirteenth century. The Houghbrocken dynasty ruled from there for some years before being removed to Magdeburg when the house was reduced to the four-year-old Marksman Baldur.
+Lepzi first acted as political centre for the First Kingdom of Saxony, very briefly just prior to its collapse at the close of the thirteenth century. The Houghbrocken dynasty ruled from there for some years before being removed to Magdeburgh when the house was reduced to the four-year-old Marksman Baldur.
 
 With the conclusion of the First German War in 1770, Saxony was ascendant and controlled more territory than it had at any point in its history. Lepzi was subject to attendant early urbanisation and trebled in population in just fifty years. It was one of the vanguards of the Global Workshop period, exploiting vast amounts of locally-mined coal power.
 
@@ -21070,7 +21070,7 @@ The opportunity's nothing to sniff at.
 
 notes on the subject of various (alt) historical disasters.
 
-The Great Flie Flood was a natural disaster in 1171 Willemy which submerged or swept through large parts of Frisland. Inflowing waters of the Rustig Strait created the island of Texel, and the freshwater Lake Almere (which fed into the Strait along the Flie river) became brackish and eventually fully saline as a maritime gulf.
+The Great Flie Flood was a natural disaster in 1171 Willemy which submerged or swept through large parts of Frisland. Inflowing waters of the Rustigh Strait created the island of Texel, and the freshwater Lake Almere (which fed into the Strait along the Flie river) became brackish and eventually fully saline as a maritime gulf.
 
 The then-duke Lovis the Tall, who had been staying in the environs of Amstel for some months, is the most famous (and most historically influential) casualty of the Flood, but estimates have suggested a death toll approaching ten thousand.
 
@@ -24344,7 +24344,7 @@ History
 
 Founded by the Gauls, the city was known to the Romans as Rotomagus and it became the seat of the local bishopric in the early medieval period. The ninth century saw the incursion of the Normans into the region as part of the wider Dane Supremacy; by 850 Roun was under their control. By the eleventh century Roun had become the seat of the Drengot family, ruling the Duchy of Normandy as a semi-autonomous vassal of the Kingdom of the Franks (the western fragment of the erstwhile Francian Empire).
 
-After the Kernovan Conjuring and the formation of the First Drengot Empire covering much of Albion [Great Britain] and most of Gaul [France], Roun was sidelined. The Drengot Emperors moved their court to Paris, although they continued to personally own the duchies of Normandy and Kent. This period marks the beginning of the persistent political union of these two regions on either side of the English Channel.
+After the Kernovan Conjuring and the formation of the First Drengot Empire covering much of Albion [Great Britain] and most of Gaul [France], Roun was sidelined. The Drengot Emperors moved their court to Paris, although they continued to personally own the duchies of Normandy and Kent. This period marks the beginning of the persistent political union of these two regions on either side of the Kentish Channel.
 
 One of the successor states to the First Drengot Empire was this united Norman Kent, ruled from Roun. King Vincent II of Kent, who ruled in the mid-fifteenth century, is remembered for the expansion of the city keep and for his twin sons (the "Two Henries") who ruled jointly after his death. During this period Roun French developed fully as one standard written form of the language (as opposed to Parisian or Burgund French).
 
@@ -28974,7 +28974,7 @@ Hence, alterations which are individually costly become…
 notes in translation on a German polity.
 
 A mesur dy Scon Tetrarchy, y Reyaum a Saxony intermane un stat vassaler majour nell'Empir Teudesc administrað des Bardovic, e plusour ne lorry dynasty de Hohenbrocken regnaurn sull'empir enter.
-During the Second Tetrarchy, the Kingdom of Saxony was a major vassal state of the German Empire administered from Bardwick, and many of their Hohenbrocken dynasty ruled the empire outright.
+During the Second Tetrarchy, the Kingdom of Saxony was a major vassal state of the German Empire administered from Bardwick, and many of their Houghbrocken dynasty ruled the empire outright.
 
 Y Reyaum a Saxony denoy toccað par y sfondranç dy Scon Tetrarchy ny siecr treç.
 The Kingdom of Saxony was affected by the collapse of the Second Tetrarchy in the thirteenth century.
@@ -31040,7 +31040,7 @@ L'Emperour Drengoçan tramigraurn lorry cort a Paris, con tan ðe parmaneurn a y
 The Drengot Emperors moved their court to Paris, although they continued to personally own the duchies of Normandy and Kent.
 
 L'oc epoc oscey y commet dell'union politic pardurant dell'ec dou region y Canal Cantuer parlocant.
-This period marks the beginning of the persistent political union of these two regions on either side of the English Channel.
+This period marks the beginning of the persistent political union of these two regions on either side of the Kentish Channel.
 
 ##
 
