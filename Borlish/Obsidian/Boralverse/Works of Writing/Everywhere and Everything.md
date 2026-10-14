@@ -1,3 +1,14 @@
+---
+type: work
+author: "[[Justino Silvera]]"
+form: reference
+language: Leon
+original-title: "Jallondes y Jallisca: la Terça Milada"
+dates: "2000"
+year: 2000
+posts:
+  - "155.5"
+---
 Everywhere and Everything: the Third Millenium was published in April 2000 (originally in Leon as *Jallondes y Jallisca: la Terça Milada*) by [[Justino Silvera]] at the request of his publishers. The book purports to contain two thousand pieces of unusual or obscure trivia about the world; while most are accurate, the rushed research process led to several inaccuracies and a few flat-out lies finding their way into the book.
 ## Excerpts
 …[[Threshold force|threshold force]] mill in [[The Groin|the Groin]]..

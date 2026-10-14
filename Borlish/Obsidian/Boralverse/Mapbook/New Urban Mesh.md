@@ -1,3 +1,13 @@
+---
+type: alliance
+dates: "19th c."
+place:
+  - "[[Europe]]"
+posts:
+  - "101.5"
+  - "117.1"
+  - "176.1"
+---
 The **New Urban Mesh** was an alliance of somewhat autonomous cities in Northwest [[Europe]] in the nineteenth century. Among its members were [[London]], [[Conster]], [[Axbane]], [[Pentrose]], [[Amstel]], [[Anvers]] and [[Gant]].
 ## History
 

@@ -1,3 +1,12 @@
+---
+type: war
+dates: late 15th – early 16th c.
+place:
+  - "[[Albion]]"
+posts:
+  - "33.5"
+  - "72.5"
+---
 The Wars of Fealty were a series of conflicts between the polities of [[Albion]] in the late fifteenth and early sixteenth centuries which lasted forty-one years.
 
 # History

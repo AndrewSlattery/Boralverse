@@ -1,3 +1,11 @@
+---
+type: movement
+dates: "18th–19th c."
+posts:
+  - "47.5"
+  - "56.5"
+  - "235.1"
+---
 The Modest Arrangement was a social movement in the eighteenth and nineteenth centuries characterised by more stringent enforcement of morality codes, especially with respect to familial powers.
 
 The Arrangement saw a resurgence in the regions of [[Gaul]] and [[Spain]] in the early nineteenth century after something of an ebb during the [[Long Peace]]. This has been attributed to the rising popularity of the [[Deviance movement]] inspiring a backlash among its opposers; certainly Modest ideology depicts itself as less secure and more embattled in its later incarnations.

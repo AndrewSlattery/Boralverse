@@ -1,3 +1,11 @@
+---
+type: city
+place:
+  - "[[Markland]]"
+posts:
+  - "108.5"
+  - "237.1"
+---
 Tommarth (Merch /ˈtɔ.məθ/) is the capital and largest city of [[Markland]]. It had a population of over 5 million people by the year 2010. The dialect of [[Merch]] spoken by many in Tommarth is widely considered a standard to emulate.
 
 The area was settled by the Angles in the sixth century; by the ninth it had become the primary city of the nascent Merch Kingdom. It was fortified significantly over the next centuries in defence against the Welsh to the west and then against the Danes to the east.

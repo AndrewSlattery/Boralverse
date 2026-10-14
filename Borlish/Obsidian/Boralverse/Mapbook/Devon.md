@@ -1,3 +1,16 @@
+---
+type: region
+aliases:
+  - Greater Devon
+  - Kingdom of Greater Devon
+borlish: Dorogn
+place:
+  - "[[Albion]]"
+  - "[[Britain]]"
+posts:
+  - "63.5"
+  - "233.1"
+---
 Devon (Welsh **Devneint**, locally **Dewna**; Borlish **Dorogn**) refers geographically to the southwestern peninsula of the land of [[Albion]], and politically to one of the most longstanding tallaths of [[Britain]].
 ## History
 Devon is named for the Dumnōniī (the Latin name reflecting Classical Kelt Dubnonī or Dubnantī, meaning "(people) of the deep valley"), a Kelt people who inhabited the region in Roman times.
@@ -8,7 +21,7 @@ In the eighth century, King [[Vigo the Magnificent]] of the Britons spearheaded 
 
 The [[Brethin]] religious order was founded in eighth-century [[Tremonnow]], at that time in Devon (now in Glousing).
 
-Devon remained in political union with [[Kernow]] through the [[Kernovan Conjuring]] of 1028 and the concomitant formation of the [[First Drengot Empire]], which claimed control over much of Albion and most of Gaul. Greater Devon became an ambitious and independent-minded vassal of the Empire, with the House of Kernow always closely aligned with the imperial Drengot family.
+Devon remained in political union with [[Kernow]] through the [[Kernovan Conjuring]] of 1029 and the concomitant formation of the [[First Drengot Empire]], which claimed control over much of Albion and most of Gaul. Greater Devon became an ambitious and independent-minded vassal of the Empire, with the House of Kernow always closely aligned with the imperial Drengot family.
 
 The collapse of the [[First Drengot Empire]] caused political upheaval in Greater Devon. The Realignment of 1225 saw Devon become de facto independent from Kernow, now ruled by a cadet branch of the royal family.
 

@@ -1,6 +1,20 @@
+---
+type: person
+aliases:
+  - Adaillé Nassow
+  - "Adaillé d'Avosche"
+  - Duchess Adaillé
+role: duchess
+dates: "1524–1608"
+year: 1524
+place:
+  - "[[Avosche]]"
+posts:
+  - "16.5"
+---
 Adaillé Nassow (1524–1608) was duchess of [[Avosche]], a duchy in southern [[Willemy]], for much of the sixteenth century and the start of the seventeenth.
 
-Adaillé was born to [[Roger d'Avosche]] and his wife Caroline in 1524, the third of eight children. Her two elder brothers died in infancy (at least one in the [[Second Great Dying]]), as well as her younger brother Peter, and her youngest sister Anne.
+Adaillé was born to [[Roger Nassow, Duke d'Avosche|Roger d'Avosche]] and his wife Caroline in 1524, the third of eight children. Her two elder brothers died in infancy (at least one in the [[Second Great Dying]]), as well as her younger brother Peter, and her youngest sister Anne.
 
 She was raised in early childhood by her nurse [[Elisa Arnoutszen]], cousin (and, later, coauthor) of the renowned physician [[Laurz Arnoutszen]]. During this time Adaillé was noted for her inquisitive and intelligent nature.
 

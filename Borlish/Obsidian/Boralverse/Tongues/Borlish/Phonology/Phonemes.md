@@ -1,3 +1,6 @@
+---
+type: grammar
+---
 ### Consonants
 Borlish has a consonant inventory of middling size. Notable is the presence of /ʒ/ without its voiceless counterpart /ʃ/, due to a relatively recent sound change which backed the latter to /x/.
 

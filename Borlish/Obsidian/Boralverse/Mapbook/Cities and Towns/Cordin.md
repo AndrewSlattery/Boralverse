@@ -1,3 +1,11 @@
+---
+type: city
+place:
+  - "[[Borland]]"
+posts:
+  - "26.5"
+  - "44.5"
+---
 Cordin is a city in [[Borland]]. It is known for its prolific press [[Cordin Editions]], which from the late twentieth century on has provided textbooks to schools nationwide.
 
 # History

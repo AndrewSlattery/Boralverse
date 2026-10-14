@@ -1,3 +1,13 @@
+---
+type: movement
+aliases:
+  - Anti-Paradise theology
+  - Deviance Theology
+dates: from late 18th c.
+posts:
+  - "31.5"
+  - "146.1"
+---
 The Deviance movement, also known as Anti-Paradise theology, is a religious, artistic and political ideology characterised by non-conformity as well as exploration of the avant-garde in all areas of society. 
 
 The term "deviance" has been applied to the movement almost since its inception, with both positive and negative affect. Some scholars have theorised that the term reflects the Wessern dialect pronunciation of standard "defiance", although this is not widely accepted.

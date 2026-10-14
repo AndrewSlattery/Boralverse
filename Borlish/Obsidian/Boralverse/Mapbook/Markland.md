@@ -1,3 +1,11 @@
+---
+type: polity
+place:
+  - "[[Albion]]"
+posts:
+  - "33.5"
+  - "72.5"
+---
 Markland is a polity of [[Albion]], situated east of [[Wales]], north of [[London]] and [[Kent]], and south of [[Northumber]] and [[Dunclothe]].
 
 ![[Markland 2000.png]]

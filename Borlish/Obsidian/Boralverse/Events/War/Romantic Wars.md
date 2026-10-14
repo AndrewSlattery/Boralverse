@@ -1,3 +1,14 @@
+---
+type: war
+dates: mid-17th c. (core 1640–1670)
+year: 1640
+place:
+  - "[[Europe]]"
+posts:
+  - "67.5"
+  - "109.1"
+  - "178.1"
+---
 The Romantic Wars were a loosely-circumscribed collection of wars, uprisings and other conflicts across [[Europe]] which took place through the middle of the seventeenth century. As a whole they are sometimes considered the last truly localised conflicts, since by the next century wars of similar scales would begin to involve the [[Novomund]], and would feature alliances between the powers of Europe, [[Africa]] and [[Asia]] alike. The years 1640 to 1670 cover the 'central' conflicts of the Romantic Wars, although some more peripheral fights may spill earlier or later. 
 
 The Romantic period (to wit, the decades during with the Romantic Wars took place) was characterised by great corrogation projects. For example, the [[Bordew]]-Audaz canal was completed in 1679, connecting the Atlantic and the Middlesea without having to pass through [[Morrack]]-controlled seas.

@@ -1,3 +1,13 @@
+---
+type: polity
+aliases:
+  - Bond of Kent and Normandy
+place:
+  - "[[Albion]]"
+  - "[[Gaul]]"
+posts:
+  - "21.5"
+---
 Kent (formally the Bond of Kent and [[Normandy]]; in Roun French **The Bond de Caint od Normandy**) is a state in southern [[Albion]] and northern [[Gaul]].
 
 ## History

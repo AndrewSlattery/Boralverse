@@ -1,0 +1,81 @@
+filters:
+  and:
+    - file.ext == "md"
+views:
+  - type: table
+    name: Timeline
+    filters:
+      and:
+        - file.hasProperty("year")
+    order:
+      - file.name
+      - note.year
+      - note.dates
+      - note.type
+      - note.place
+    sort:
+      - property: note.year
+        direction: ASC
+  - type: table
+    name: People
+    filters:
+      and:
+        - note.type == "person"
+    order:
+      - file.name
+      - note.role
+      - note.dates
+      - note.place
+      - note.aliases
+      - note.posts
+    sort:
+      - property: note.year
+        direction: ASC
+  - type: table
+    name: Places
+    filters:
+      and:
+        - '["realm", "continent", "region", "island", "polity", "former polity", "alliance", "city", "town", "body of water"].contains(note.type)'
+    groupBy:
+      property: note.type
+      direction: ASC
+    order:
+      - file.name
+      - note.borlish
+      - note.place
+      - note.aliases
+      - note.posts
+  - type: table
+    name: Works
+    filters:
+      or:
+        - note.type == "work"
+        - note.type == "artwork"
+    order:
+      - file.name
+      - note.author
+      - note.form
+      - note.language
+      - note.original-title
+      - note.dates
+    sort:
+      - property: note.year
+        direction: ASC
+  - type: table
+    name: Borlish names
+    filters:
+      and:
+        - file.hasProperty("borlish")
+    order:
+      - file.name
+      - note.borlish
+      - note.type
+  - type: table
+    name: Never posted
+    filters:
+      and:
+        - '!file.hasProperty("posts")'
+    order:
+      - file.name
+      - note.type
+      - file.folder

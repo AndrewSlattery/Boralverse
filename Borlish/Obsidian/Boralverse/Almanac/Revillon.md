@@ -1,4 +1,14 @@
 ---
+type: festival
+aliases:
+  - Winter Feast
+  - Revillon Feast
+borlish: Reveglon
+place:
+  - "[[Borland]]"
+posts:
+  - "19.5"
+  - "96.5"
 fc-date:
   month: 10
   day: 24

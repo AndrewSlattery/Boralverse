@@ -1,3 +1,14 @@
+---
+type: person
+aliases:
+  - Hisham Ar-Rashid
+  - Malik Hisham Ar-Rashid
+role: king
+dates: r. 1601–1610
+year: 1601
+place:
+  - "[[Libya]]"
+---
 Hisham Ar-Rashid (reigned 5th May 1601 - 30th December 1610) was king of [[Libya]]. He is remembered for overseeing lasting poor reforms.
 
 During his reign two factions arose in his court: the Copper faction which opposed his policy, and the Tin faction which supported it. They took their names from the two principal colours of the Libyan banner at the time, which was quartered into two black, one white, and one orange field. From these groups, which far outlasted Hisham, the political terms 'copperplate' and 'tinplate' are derived.

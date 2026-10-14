@@ -13051,7 +13051,7 @@ claims:
 - entry: 63.5
   title: Devon
   category: event
-  claim: Devon remained in political union with Kernow through the Kernovan Conjuring of 1028 N and the concomitant formation
+  claim: Devon remained in political union with Kernow through the Kernovan Conjuring of 1029 N and the concomitant formation
     of the First Drengot Empire.
   entities:
   - name: Devon
@@ -13060,7 +13060,7 @@ claims:
     type: polity
   - name: First Drengot Empire
     type: polity
-  dates: 1028 N
+  dates: 1029 N
 - entry: 63.5
   title: Devon
   category: event
@@ -25822,7 +25822,7 @@ claims:
   _merge_reason: Entry 39.5 is a more specific elaboration of the Andalus portion of entry 23.5. Merging preserves both the
     broader geographic spread and the specific timing and direction of the Andalus expansion.
 - category: event
-  claim: The First Drengot Empire began with the Kernovan Conjuring of 1028 N, through which House Drengot in Normandy invaded
+  claim: The First Drengot Empire began with the Kernovan Conjuring of 1029 N, through which House Drengot in Normandy invaded
     and conquered Kent with the support of Greater Devon's House of Kernow.
   entities:
   - name: First Drengot Empire
@@ -25836,7 +25836,7 @@ claims:
   _merged_from_entries:
   - '64.5'
   - '89.5'
-  _merge_reason: Both claims describe the same founding event. Entry 89.5 supplies the date (1028 N); entry 64.5 names House
+  _merge_reason: Both claims describe the same founding event. Entry 89.5 supplies the date (1029 N); entry 64.5 names House
     Drengot and the House of Kernow explicitly. The merged claim combines all non-redundant details.
 - category: person
   claim: Adaillé Nassow succeeded Roger d'Avosche as Duchess d'Avosche and ruled for many decades until her death in 1608

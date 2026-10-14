@@ -1,3 +1,12 @@
+---
+type: event
+dates: "1225–1251"
+year: 1225
+place:
+  - "[[Augsburg]]"
+posts:
+  - "68.5"
+---
 The German Secession was a schism in Christendom which took place in the first half of the thirteenth century. Often considered one of the most influential religious developments of the second millennium, it led to the permanent formalisation of the [[Augsburg]] See as independent from [[Rome]] with its separate papal line beginning with [[Paul I/XI]].
 
 The Secession generally refers to the period from Paul I/XI's [[Pauline Denunciations|Denunciations]] and declaration of the *sedes sanctissima* in Augsburg in 1225 to the capitulation of Rome in 1251, although religious strife due to the schism would wrack the polities of Germany and surrounding regions for centuries to come.

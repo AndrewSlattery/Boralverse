@@ -1,3 +1,11 @@
+---
+type: polity
+place:
+  - "[[Africa]]"
+posts:
+  - "29.5"
+  - "125.1"
+---
 Morrack is a polity primarily in northwestern [[Africa]].
 
 # History

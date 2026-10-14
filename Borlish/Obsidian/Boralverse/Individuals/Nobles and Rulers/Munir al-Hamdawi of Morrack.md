@@ -1,3 +1,15 @@
+---
+type: person
+aliases:
+  - Munir al-Hamdawi
+role: ruler
+dates: b. 1429
+year: 1429
+place:
+  - "[[Morrack]]"
+posts:
+  - "18.5"
+---
 Munir al-Hamdawi (b. 1429) was the ruler of [[Morrack]] during the latter half of the fifteenth century.
 
 He had a long-standing rivalry with [[Ambrose III of Vascony]], which grew from a childhood enmity to a bitter naval and martial feud.

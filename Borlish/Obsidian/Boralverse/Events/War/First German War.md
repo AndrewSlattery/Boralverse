@@ -1,3 +1,11 @@
+---
+type: war
+dates: "–1770"
+place:
+  - "[[Europe]]"
+posts:
+  - "36.5"
+---
 The First German War (–1770) was a conflict in eighteenth-century [[Europe]] which cannot neatly be lumped in with the somewhat-earlier [[Democratic Wars]]. Its conclusion is usually taken as the start of the [[Long Peace]].
 
 [[Saxony]] was ascendant immediately following the First German War, controlling more territory than it had in any point in its history. This stood in in good stead for early industrialisation, especially in the capital of [[Lepzi]].

@@ -1,3 +1,12 @@
+---
+type: body of water
+aliases:
+  - Eastmere
+place:
+  - "[[Europe]]"
+posts:
+  - "163.5"
+---
 The **Graven Sea** (Merch /ˈgɾɛː.vən ˈseː/), formerly also the **Eastmere**, refers to the arm of the [[Atlantic]] Ocean in northern [[Europe]] east of [[Denmark]] and enclosed by several polities.
 ## Toponymy
 The name derives from Scholastic Latin *Gravinia*, a term for the region around this sea. This is a backformation from *gravinicus, graunicus* "from or pertaining to the Graven Sea". In turn, this appears to have been a late medieval scribal error from former *granvicus*, a borrowing from Old Norse *Gandvik*. This placename, identified with the Graven Sea since the fourteenth century, may have originally referred to any of several bodies of water, including the Arctic Ocean.

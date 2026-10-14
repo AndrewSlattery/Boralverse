@@ -1,3 +1,11 @@
+---
+type: region
+place:
+  - "[[Albion]]"
+posts:
+  - "161.5"
+  - "220.1"
+---
 Dunclothe (Merch /ˈdʊŋ.kluːð/, Welsh Dincluth /dɪŋˈklyːθ/) is a political and cultural region of western [[Albion]], located south of [[Scotland]] and north of [[Markland]]. From the [[Clothe]] river valley it extends down along the coast to the [[Bay of Morcambe]].
 ## Toponomy
 Dunclothe takes its name from the early medieval petty kingdom known alternately as Alt Clud, Strad Clud, or Din Clud; these are ancient British or Guile phrases meaning "cliff, valley or fort of the river Clothe". It is uncertain whether the Dun- element seen in English names for the region reflects Old Irish *dún* "fort" or Old English *dún* "hill". 

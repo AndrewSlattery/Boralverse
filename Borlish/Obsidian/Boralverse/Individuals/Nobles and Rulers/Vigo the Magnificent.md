@@ -1,4 +1,15 @@
-Vigo the Magnificent (d. 761) was king of the Britons in [[Gaul]] (and later of [[Kingdom of Greater Devon|Greater Devon]]) from 720 N until his death.
+---
+type: person
+role: king
+dates: r. 720–761
+year: 720
+place:
+  - "[[Devon]]"
+  - "[[Kernow]]"
+posts:
+  - "18.5"
+---
+Vigo the Magnificent (d. 761) was king of the Britons in [[Gaul]] (and later of [[Devon|Greater Devon]]) from 720 N until his death.
 
 He ascended to the position upon the death of his mother Queen [[Maud of Anzeus]], who as a widow had unified the Kernish kingdoms. This was (in 720) shortly after the [[Catumagin Accords]] with the [[Kingdom of the Franks]] to the east, which ended hostilities and established an official border between the kingdoms.
 

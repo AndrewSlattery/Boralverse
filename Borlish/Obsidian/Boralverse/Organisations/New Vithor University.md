@@ -1,3 +1,13 @@
+---
+type: organisation
+aliases:
+  - Vithor New School
+borlish: Nou Universtað a Viðor
+place:
+  - "[[Vithor]]"
+posts:
+  - "20.5"
+---
  The New Vithor University (Borlish **Nou Universtað a Viðor**) is a major academic institution located in the Borlish city of [[Vithor]].
 
 The Vithor New School had been founded by the fifteenth century; by the nineteenth century it was known under the name "New Vithor University". By 1844 N it included the Vithor Historical Institute (l'Edifiç Historic); said institute was eventually divided into the Faculty of Concurrence History and the Faculty of Domain History.

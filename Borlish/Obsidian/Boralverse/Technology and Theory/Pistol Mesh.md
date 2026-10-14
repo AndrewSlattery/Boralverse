@@ -1,3 +1,9 @@
+---
+type: technology
+borlish: sar pistol
+posts:
+  - "74.5"
+---
 The **pistol mesh** (Borlish *sar pistol*), also referred to simply as the **mesh**, is the global system of long-distance communication which employs a single normalised method for transmitting messages from one endpoint [[Grimmer|grimmer]] to another.
 
 ## Etymology

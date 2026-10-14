@@ -1,3 +1,11 @@
+---
+type: city
+borlish: Marsegl
+place:
+  - "[[Provence]]"
+posts:
+  - "92.5"
+---
 Marsella (Provincial /masˈseʎɔ/; Borlish **Marsegl** /maʀˈsijl/) is a city on the [[Middlesea]] and the capital of [[Provence]].
 
 A raid by itinerant [[Normandy|Norman]] mercenaries sacked the city of Marsella in 946 N, nominally on behalf of the [[Second Roman Empire|Malchassian Romans]]. As it happens, records of this raid contain the first unambiguous mention of identical triplets (Danes born on the isle of Mull around 915) in European history.

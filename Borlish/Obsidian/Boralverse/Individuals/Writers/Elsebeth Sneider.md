@@ -1,3 +1,15 @@
+---
+type: person
+aliases:
+  - Elsebeth Siegert
+role: author
+dates: m. 1772 – d. c. 1830
+year: 1772
+place:
+  - "[[Saxony]]"
+posts:
+  - "24.5"
+---
 Elsebeth Sneider (m. 1772, d. ~1830, née Siegert) was an author from [[Saxony]] and a pioneer of [[Parachthony|parachthon]] romance in general and [[Voidtale|voidtale]] in particular.
 
 ## Life

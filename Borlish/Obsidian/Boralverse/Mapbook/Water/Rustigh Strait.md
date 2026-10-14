@@ -1,3 +1,14 @@
+---
+type: body of water
+aliases:
+  - Rustig Strait
+borlish: Naur Rustig
+place:
+  - "[[Borland]]"
+  - "[[Willemy]]"
+posts:
+  - "46.5"
+---
 The Rustigh Strait (Borlish: **Naur Rustig** /nor rɪˈstaj/, Frisian **Nao Rustig** /nɑw ˈrʏ.stɪg/, literally "calm strait") is the channel of water separating the southern coast of [[Borland]] from the northern coasts of [[Flanders]] and [[Willemy]].
 
 The strait's position often gave it great strategic importance, in terms of both military and trade. For example, coastal cities on the strait like [[Axbane]] and [[Amstel]] were natural stopping points for ships trading between Dane lands to the east and the Welsh and Vascon trade meshes to the west.

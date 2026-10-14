@@ -1,3 +1,13 @@
+---
+type: region
+borlish: Mendeva Bassem
+place:
+  - "[[Mendeva]]"
+posts:
+  - "84.5"
+  - "106.1"
+  - "217.1"
+---
 Lower Mendeva (Borlish Mendeva Bassem /ˌmɛn.deˈva ˈba.sɛm/) is a geographical region comprising the southern section of the continent of [[Mendeva]], located west of the [[Mendevan Gulf]]. The term sometimes also includes the islands of the [[Arcabil]], which are located within said Gulf.
 
 The region is predominated by the polity of [[Mashick]], which stretches from coast to coast and so far north as to border [[Mivock]] in the west and [[Taisha]] in the east.

@@ -1,3 +1,10 @@
+---
+type: language
+place:
+  - "[[Markland]]"
+posts:
+  - "87.5"
+---
 Merch is an English language of the German family of languages which evolved on the island of [[Albion]]. It is closely related to other English languages like Kentish and Wessern, and is the primary language of the polity of [[Markland]].
 
 Contemporary Merch descends from the Early Merch spoken in Markland, which itself descends from Anglian varieties of Old English. 

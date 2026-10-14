@@ -1,3 +1,13 @@
+---
+type: person
+role: author
+dates: fl. 1960–1990
+year: 1960
+place:
+  - "[[Kent]]"
+posts:
+  - "91.5"
+---
 Vincent Margouille (fl. 1960–1990) was a Norman author and professional lineball player. In 1965 he led the [[Kent]] team to its only victory in the [[Lineball Global Tourney]] to date. He is the son of [[Vréqueu Margouille]], who also played for [[Kent]] in the 1935 LGT.
 
 From 1981 on, he authored his best-known series (beginning with *Upstairs, Downstairs*), which follows the people living in a manorhouse during the [[Good Game]] period. Later instalments portray their experiences during the [[Millstone War]].

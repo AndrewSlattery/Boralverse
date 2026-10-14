@@ -1,3 +1,10 @@
+---
+type: polity
+place:
+  - "[[India]]"
+posts:
+  - "41.5"
+---
 Gurjat is a polity on the western coast of [[India]].
 
 # History

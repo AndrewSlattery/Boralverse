@@ -1,3 +1,10 @@
+---
+type: work
+form: exam paper
+posts:
+  - "90.1"
+  - "149.1"
+---
 ## Excerpts
 > Question 1: How did [[Britain]] retain its position of cultural prestige over [[British Mendeva]] during the final years of the nineteenth century even as the latter overtook Britain in population and industry, and to what extent were the ethics of the [[Household Renovation]] exported to the [[Novomund]] via this cachet?
 > 

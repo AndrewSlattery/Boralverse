@@ -1,3 +1,8 @@
+---
+type: organisation
+place:
+  - "[[Dijon]]"
+---
 The Dijon New School is the principal institute of higher education in [[Dijon]]. The School has a department of Concurrence History.
 
 ## Lecturers

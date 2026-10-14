@@ -1,3 +1,11 @@
+---
+type: polity
+borlish: Norðumbr
+place:
+  - "[[Albion]]"
+posts:
+  - "154.5"
+---
 **Northumber** (Borlish **Norðumbr** /nɔːˈðɪm.br̩/) is a polity on the east coast of [[Albion]] which borders [[Markland]], [[Dunclothe]] and [[Scotland]]. Its largest cities are [[Yorwick]] (the capital) and [[Edinbrough]].
 ## History
 Originally a pair of English kingdoms settled through the fifth and sixth centuries, Northumber was invaded and conquered from the late ninth century onwards by forces from [[Denmark]] and [[Horther]]. The city of Yorwick is even alleged to have practically given itself over to Dane rule, deposing the alderman and hoping to offer enough loot freely to the invaders so as to avoid the total destruction of the city.

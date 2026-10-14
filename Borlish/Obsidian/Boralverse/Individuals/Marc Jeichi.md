@@ -1,1 +1,9 @@
+---
+type: person
+role: professor
+dates: fl. 2019
+year: 2019
+place:
+  - "[[Cordin]]"
+---
 Marc Jeichi (fl. 2019) was a professor at the [[University of Cordin]]. He lectured *in peripatetico* for some time at the [[Dijon New School]].

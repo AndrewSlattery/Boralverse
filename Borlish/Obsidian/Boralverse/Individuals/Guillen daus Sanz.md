@@ -1,3 +1,16 @@
+---
+type: person
+aliases:
+  - Guillèn daus Sanz
+  - General daus Sanz
+role: strategist
+dates: b. c. 1450
+year: 1450
+place:
+  - "[[Provence]]"
+posts:
+  - "109.5"
+---
 Guillen daus Sanz (b. ca. 1450, [[Provincial]] /giˈʎẽj daus sɐ̃ts/) was a strategist in [[Provence]] in the years leading up to the [[War of Provincial Independence]], and became a powerful political figure in the decades afterward.
 
 Born a foundling (the surname *daus Sanz* "of the Saints" was widely given to children in orphanages at the time), he joined the (then-Burgund) army at a young age and rose to the position of general after receiving the patronage of [[Daniel Menton]], Lord Amigòt.

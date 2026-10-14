@@ -1,3 +1,12 @@
+---
+type: war
+borlish: Var a Couð
+dates: "1897–1908"
+year: 1897
+posts:
+  - "91.5"
+  - "188.1"
+---
 The Millstone War (1897–1908, Borlish *Var a Couð*) refers to the period of global military conflict often considered to be the dawn of modern warfare.
 
 Though not all of the wars involved spanned the entire eleven years, they are all characterised by a fundamental asymmetry: defensive tactics had outstripped offensive technology. Due to this, front lines worldwide ground to barely-moving trench fortifications.

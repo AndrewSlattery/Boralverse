@@ -1,3 +1,13 @@
+---
+type: person
+role: king
+dates: fl. 1590
+year: 1590
+place:
+  - "[[France]]"
+posts:
+  - "17.5"
+---
 David (fl. 1590) was king of [[France]].
 
 David was dogged by rumours that he was the son of Duchess [[Adaillé Nassow, Duchess d'Avosche|Adaillé d'Avosche]] from before his accession to the throne until his death; her influence on his court was noted and derided by contemporary commentators.

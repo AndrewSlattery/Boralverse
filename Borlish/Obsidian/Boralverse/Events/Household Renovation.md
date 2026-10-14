@@ -1,3 +1,9 @@
+---
+type: movement
+dates: late 19th c.
+posts:
+  - "77.5"
+---
 The Household Renovation of the late nineteenth century was an attitudinal shift towards non-traditional familial structures, the institution of marriage, and the social role of children.
 
 It was prefigured by the deemphasis of religion in government in those countries party to the 1850 [[Laic Declarations]] of Belgrade, as well as contraceptive medical innovations of the time like coshow bed-sleeves and stauron retainers.

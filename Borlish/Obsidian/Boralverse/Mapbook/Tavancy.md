@@ -1,3 +1,13 @@
+---
+type: polity
+aliases:
+  - Tavancine Empire
+place:
+  - "[[Cappatia]]"
+posts:
+  - "29.5"
+  - "80.5"
+---
 Tavancy (Merch /təˈvan.səi/, Run'allo *Tawanden* /taˈwan.dɛn/), formerly the Tavancine Empire, is a politiy in western [[Cappatia]] occupying the coast between the Isthmus to the north and [[Maboutia|Maboutian]] lands to the south.
 ## Toponymy
 The name Tavancy (Latin *Tavantia*) is a back-formation from the adjective Tavancine (Latin *tavantīnus*). This comes from the earliest Latin name *imperium tavantīnum* first attested in the sixteenth century, which was borrowed via Morrove Arabic as a somewhat-mistaken partial calque from the Run'allo *tawantin-suyu* "the quartet of provinces".

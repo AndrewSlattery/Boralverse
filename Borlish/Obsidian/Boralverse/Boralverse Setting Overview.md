@@ -1,3 +1,6 @@
+---
+type: overview
+---
 ## The World
 
 The setting I write in (hereafter "Boralverse") is an alternate history of Earth. The original difference from our own history (hereafter "IRL") is the existence of the island of Borland (Istr Boral) between Great Britain and Denmark, inspired by the IRL existence of Doggerland.

@@ -1,3 +1,10 @@
+---
+type: polity
+place:
+  - "[[India]]"
+posts:
+  - "81.5"
+---
 Madray is a polity in the southeast of [[India]] governed from the city of the same name.
 
 The British ship [[Voyage of the Phœbos|Phœbos]] in the early sixteenth century stopped at the port of Romeswarm in Madray on its geoscopic voyage around [[Africa]] and on to [[Borune]] (where it would meet the [[Morrack]] ship Cynthia travelling in the other direction).

@@ -1,3 +1,12 @@
+---
+type: work
+author: "[[Lucas Osborne]]"
+form: reference
+dates: "1920"
+year: 1920
+posts:
+  - "114.5"
+---
 The Alphabetical Albion is an encyclopaedia of the political history of [[Albion]]. It was written by a consortium of authors including [[Lucas Osborne]] and published by Winchester Scholastic Primers in 1920. The book organises itself into twenty-six sections, one for each letter of the English alphabet in order, with varying levels of contortion required to justify the conceit. Headings include "F: The Wars of Fealty", "Q: Unanswered Questions" and "X: The Necessity of Xenia".
 ## Excerpts
 F: (Wars of) Fealty

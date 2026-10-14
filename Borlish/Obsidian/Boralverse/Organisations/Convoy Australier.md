@@ -1,3 +1,11 @@
+---
+type: organisation
+aliases:
+  - Order of Saint Hemma of Still Water
+posts:
+  - "88.5"
+  - "107.1"
+---
 The Convoy Australier (Merch /ˈkɔn.vəi əˈstɾɛː.liːə/), officially the Order of Saint Hemma of Still Water, is a Christian organisation aligned with [[Rome]] which emerged in the [[Second Tetrarchy]] period. It has undergone several major transformations of purpose since its inception.
 ## History
 

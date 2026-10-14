@@ -1,3 +1,14 @@
+---
+type: work
+aliases:
+  - Mysarnos Codex
+form: manuscript
+dates: "16th c."
+place:
+  - "[[Mysarnos]]"
+posts:
+  - "62.5"
+---
 The Mysarnos Codex is an illustrated manuscript written entirely in an unfamiliar script which eluded decipherment for centuries.
 ## Context
 The Codex was composed in the sixteenth century and first stored by somebody (presumably a monk) at the Library of Saint George the Martyr, one of the largest buildings in the sprawling church complex located north of the city of Mysarnos.

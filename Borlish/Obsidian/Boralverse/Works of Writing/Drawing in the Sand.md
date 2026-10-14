@@ -1,3 +1,11 @@
+---
+type: work
+form: reference
+language: Napolitan
+original-title: "Scheme ne Rene: a Storia d'Amiradanza"
+dates: "1954"
+year: 1954
+---
 Drawing in the Sand: the History of Calculation (originally written in Napolitan as Scheme ne Rene: a Storia d'Amiradanza) is a collaborative reference book published in 1954 by the Agenza Scholaria Fodgesa. It follows the development of numerical methods from prehistory and antiquity, up to the paradigm shift of the past few decades.
 
 # Quotes

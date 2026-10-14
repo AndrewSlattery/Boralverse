@@ -1,3 +1,8 @@
+---
+type: grammar
+posts:
+  - "172.5"
+---
 Note: ‹y› is considered a vowel when written between consonants and/or word boundaries, and a consonant otherwise.
 
 ### Consonants

@@ -1,3 +1,17 @@
+---
+type: person
+aliases:
+  - Ambrose III
+  - Ambrose the Ascendant
+role: king
+dates: "1435–1518"
+year: 1435
+place:
+  - "[[Vascony]]"
+posts:
+  - "14.5"
+  - "56.5"
+---
 Ambrose III (17 March 1435–28 February 1518), also called Ambrose the Ascendant, ruled the Vascon Kingdom of [[Navarre]] and [[Aquitain]] ([[Vascony]]) from 1456 until his death at the age of 83. His father, [[Mark of Tolose]], predeceased him in 1453 when he was 18 years old, and so he ascended to the throne upon the death of his grandfather [[Ambrose II of Vascony]]  (after the brief and swiftly-resolved [[Sapling Crisis]]) three years later.
 
 At the start of Ambrose III's reign, the country was at its territorial maximum, having conquered northern [[Portingale]] (all of [[Galice]] and as far south as [[Braga]] and—nominally—[[Port Calè]]) and southern [[Burgundy]] (which is to say, enough of [[Provence]] to share a border with the Italian states of [[Genova]] and [[Lombardy]]) during the reign of his grandfather.

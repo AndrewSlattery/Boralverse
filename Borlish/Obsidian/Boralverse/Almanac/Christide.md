@@ -1,4 +1,7 @@
 ---
+type: festival
+aliases:
+  - Nativity
 fc-date:
   month: 10
   day: 25

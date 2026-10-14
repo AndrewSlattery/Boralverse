@@ -1,3 +1,8 @@
+---
+type: field
+posts:
+  - "46.5"
+---
 Methodics is the field of study pertaining to the discovery, development and improvement of methods. In this scholastic context a method is any series of instructions that may be unambiguously and repeatably followed to produce some result.
 
 # History

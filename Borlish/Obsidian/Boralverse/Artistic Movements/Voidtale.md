@@ -1,3 +1,13 @@
+---
+type: genre
+aliases:
+  - voidtales
+borlish: trevogt
+dates: from 1795
+year: 1795
+posts:
+  - "79.5"
+---
 Voidtale (Borlish **trevogt** /treˈvɔjt/, portmanteau of **trevold** "novel" and **vogt** "outer space") is a subgenre of [[Parachthony|parachthon]] romance which focuses on voyages through outer space visiting alien worlds.
 
 The genre was pioneered by Saxon author [[Elsebeth Sneider]] with her 1795 work *[[Through a Black Mirror]]*, which sparked a three-decade long fashion for the subject known as the "voidtale craze". This first period is characterised by a strongly pre-empirical understanding of conditions on other worlds: no particular attention is paid to the details of breathable air or bearable gravity, and each bustling planet is peopled by very human societies. Indeed, more than anything else these stories resemble the "geoscopic voyage" tales of the previous century, which depict sailors exploring unknown corners of the Earth and encountering the peoples there.

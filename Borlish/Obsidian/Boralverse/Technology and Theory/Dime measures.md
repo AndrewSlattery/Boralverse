@@ -1,3 +1,12 @@
+---
+type: technology
+aliases:
+  - tithe measures
+  - tenth measures
+posts:
+  - "132.5"
+  - "165.1"
+---
 The **dime measures** (less commonly known as the 'tithe measures' or 'tenth measures') are a modern system of units based on factors of ten. The name derives from the French *dîme* "one-tenth", from synonymous *decimus* in Latin.
 
 The dime measures were codified during the nineteenth century for ease of communication as theoretical development coalesced into a global endeavour. They have been updated several times since, as it has become feasible to use more convenient yardsticks.

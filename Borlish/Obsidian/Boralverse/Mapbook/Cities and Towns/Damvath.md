@@ -1,3 +1,10 @@
+---
+type: city
+place:
+  - "[[Borland]]"
+posts:
+  - "57.5"
+---
 Damvath is the capital city of [[Borland]], located on the River Dam some leagues inland from the coast.
 
 ## Toponymy

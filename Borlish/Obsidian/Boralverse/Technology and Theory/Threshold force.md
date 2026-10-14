@@ -1,3 +1,9 @@
+---
+type: technology
+posts:
+  - "71.5"
+  - "100.1"
+---
 Threshold force is the force derived from splitting the nuxes of atoms. The name 'threshold' refers to the so-called 'threshold heft' of an unstable substance like killdark, above which one has a self-sustaining 'chain detaxion'.
 # History
 The story of threshold force begins in 1902, with the discovery of the atomic nux—that is, the discovery that almost all of the heft of an atom is located near its centre. This took place at the Nÿstad Atellier (then privately owned and run by substantial theorist Lohic Courvoisier de Nÿstad) in the Cappatian city of Varonøw.

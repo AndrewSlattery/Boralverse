@@ -1,3 +1,11 @@
+---
+type: organisation
+borlish: Edition Cordin
+place:
+  - "[[Cordin]]"
+posts:
+  - "94.5"
+---
 Cordin Editions (Borlish **Edition Cordin** /ˌe.diˈdzjɔn kɔrˈdɪn/) is a publishing house founded in the mid-twentieth century and based in the city of [[Cordin]] on [[Borland]].
 
 The company, which is affiliated with the [[University of Cordin]], is recognised for producing educational books for national schools. It also published syllabi covering schooling throughout childhood which were taken up as a standard by most schools in the polity.

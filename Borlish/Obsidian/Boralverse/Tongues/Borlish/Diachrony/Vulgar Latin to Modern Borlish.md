@@ -1,3 +1,8 @@
+---
+type: grammar
+posts:
+  - "117.5"
+---
 The dialects of Borlish are the only surviving descendants of the Insular variety of Vulgar Latin, which comprised Borlish Latin and British Latin. This variety was not overly divergent from the contemporary (ca. 3rd to 5th century) Latin of the continent, with the following exceptions:
 ## Insular Latin Innovations
 

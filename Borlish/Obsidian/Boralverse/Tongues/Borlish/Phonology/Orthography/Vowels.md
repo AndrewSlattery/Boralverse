@@ -1,3 +1,8 @@
+---
+type: grammar
+posts:
+  - "172.5"
+---
 Divide written vowels into two groups. Free vowels are either word-final or separated from the next vowel in the word by a single consonant letter (or one of ‹sc ch th›).
 ‹choma epu idiocy nothe›
 /koˈma eˈpi ˌi.djoˈtsi noˈθe/

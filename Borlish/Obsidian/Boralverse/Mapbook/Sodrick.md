@@ -1,3 +1,10 @@
+---
+type: region
+place:
+  - "[[Northwestern Isles]]"
+posts:
+  - "93.5"
+---
 **Sodrick** (Merch /ˈsɔ.drɪk/, Welsh Heleð /heˈlɛð/) is a region of the [[Northwestern Isles]] comprising many small islands north of [[Wales]] and west of [[Scotland]].
 
 ## Toponymy

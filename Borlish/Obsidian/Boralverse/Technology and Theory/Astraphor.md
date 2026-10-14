@@ -1,3 +1,11 @@
+---
+type: technology
+aliases:
+  - barric force
+posts:
+  - "105.5"
+  - "167.1"
+---
 Astraphor (also called barric force) is the set of phenomena associated with the presence and movement of plentiful substances, or the thrift that one can harness from such movement.
 ## Etymology
 The word 'astraphor' was coined in the seventeenth century to describe the theoretical source of the sparks certain substances (amber, fur, etc.) would create in darkness after being rubbed. It derives from Ancient Greek roots ἀστρᾰπή (astrapḗ) 'lightning' and -φόρος (-phóros) "bearing"; although the expected form would be 'astrapophor', even in the earliest texts we see only the shorter word (possibly due to transcription error).

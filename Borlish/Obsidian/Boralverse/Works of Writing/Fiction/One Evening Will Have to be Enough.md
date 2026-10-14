@@ -1,1 +1,11 @@
+---
+type: work
+author: "[[Josephene Foilliers]]"
+form: novel
+original-title: Un Seir Deura Soffire
+dates: "1913"
+year: 1913
+posts:
+  - "165.5"
+---
 Un Seir Deura Soffire (One Evening Will Have to be Enough) was a 1913 work in the [[Masquira romance|masquira]] genre by [[Roun]] author [[Josephene Foilliers]]. Its riproaring execution of the classic masquira plot structure of schemes and opulence galore made it an instant success across the [[Drengot Collusion]] and beyond; this work was the first book to sell more thna a million copies in its first year.

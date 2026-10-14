@@ -1,3 +1,17 @@
+---
+type: work
+aliases:
+  - Report towards a Normal Teaching for Children at Mantelschool
+form: report
+language: Borlish
+original-title: Contris vars Aðelenç Normal por Ivan a Schol Lajarn
+dates: "1981"
+year: 1981
+posts:
+  - "1.5"
+  - "2.5"
+  - "143.1"
+---
 The 1981 Report towards a Normal Teaching for Children at Mantleschool (released in Borlish as **Contris vars Aðelenç Normal por Ivan a Schol Lajarn**) is a public report from the Ministry for Schools within [[Borland]]'s contemporary anthracite administratration, which was intended to standardise the education of children up to the age of twelve.
 
 ## Excerpts

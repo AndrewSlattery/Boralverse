@@ -1,10 +1,20 @@
+---
+type: period
+aliases:
+  - Medieval Imperia
+dates: "11th–12th c."
+place:
+  - "[[Europe]]"
+posts:
+  - "89.5"
+---
 The Second Tetrarchy, in older works also called the Medieval Imperia, refers to the period of roughly two centuries at the dawn of second-millennium [[Europe]] when a good deal of the land was (at least nominally) under the jurisdiction of four empires: the [[First Drengot Empire]], the [[German Empire]], the [[Second Roman Empire]], and the [[Single Caliphate]].
 
 The name "Second Tetrarchy" was first used in the eighteenth century by the writings of Vascon historian [[David Bensaíd]], in reference to the Roman Tetrarchy of the early fourth century, although the two political regimes had little else in common.
 
-The First Drengot Empire began with the [[Kernovan Conjuring]] of 1028, when [[Normandy]] conquered [[Kent]] with the support of [[Greater Devon]]. Over the next years House Drengot went on to consolidate lands from the [[Middlesea]] to [[Edinburgh]].
+The First Drengot Empire began with the [[Kernovan Conjuring]] of 1029, when [[Normandy]] conquered [[Kent]] with the support of [[Devon|Greater Devon]]. Over the next years House Drengot went on to consolidate lands from the [[Middlesea]] to [[Edinburgh]].
 
-This unity endured until the [[Emergency at Dijon]] in 1170, when the [[Kingdom of Burgundy]] ceased to be a Drengot vassal; the empire was formally dissolved in 1191 and divided among the heirs and allies of Daniel IV.
+This unity endured until the [[Emergency at Dijon]] in 1170, when the [[Burgundy|Kingdom of Burgundy]] ceased to be a Drengot vassal; the empire was formally dissolved in 1191 and divided among the heirs and allies of Daniel IV.
 
 The German Empire descended from the eastern half of the expansive [[Kingdom of the Franks]] after its scission in the ninth century, combining the Eastern Franks with [[Willemy]]. In its first centuries it expanded east and south; the kingdoms of [[Saxony]] and [[Bavarn]] became the empire's preeminent vassals, with their Andex and Houghbrocken dynasties ruling in turn.
 

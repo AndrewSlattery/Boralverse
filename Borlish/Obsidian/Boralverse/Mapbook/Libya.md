@@ -1,3 +1,11 @@
+---
+type: polity
+place:
+  - "[[Africa]]"
+posts:
+  - "28.5"
+  - "119.1"
+---
 Libya is a [[Middlesea]] polity on the north coast of [[Africa]], located between [[Morrack]] to the west and [[Egypt]] to the east.
 
 # History

@@ -1,3 +1,11 @@
+---
+type: period
+dates: "1770–1815"
+year: 1770
+posts:
+  - "22.5"
+  - "221.1"
+---
 In historiography, the Long Peace refers to the decades surrounding the turn of the nineteenth century. Characterised by an absence of prolonged international conflict, the period extends from 1770 until 1815; from the end of the [[First German War]] to the outbreak of the [[Second German War]].
 
 The Long Peace precedes the period of [[Reaction War]], an umbrella term including the Second German War and other contemporaneous conflicts around the world.

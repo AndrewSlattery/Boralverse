@@ -1,3 +1,11 @@
+---
+type: polity
+place:
+  - "[[Spain]]"
+posts:
+  - "39.5"
+  - "202.1"
+---
 Andalus is a polity in the south of the Spanish peninsula. The languages of Morrove Arabic and Mostara Spanish are both widely spoken in the region.
 
 # History

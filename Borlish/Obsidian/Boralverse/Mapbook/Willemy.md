@@ -1,3 +1,10 @@
+---
+type: polity
+place:
+  - "[[Europe]]"
+posts:
+  - "45.5"
+---
 Willemy is a polity in northern [[Europe]], situated east of Norman [[Kent]] and [[France]].
 
 # History

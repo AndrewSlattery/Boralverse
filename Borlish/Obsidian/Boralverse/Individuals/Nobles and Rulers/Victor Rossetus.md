@@ -1,1 +1,11 @@
+---
+type: person
+role: prase
+dates: fl. 6th c.
+place:
+  - "[[Borland]]"
+posts:
+  - "32.5"
+  - "139.5"
+---
 Victor Rossetus 'the Red-haired' (fl. c6) was the first Prase of the Boral Diocese. He was the first unitary ruler of an independent polity comprising a significant fraction of the island of [[Borland]]. He unified the urbanised east of the land while the west and south were settled by Anglians to form [[Angland]] and [[Southbar]], respectively, and it was under him that so-called 'Roman Borland' first began to succesfully repel the new settlers.

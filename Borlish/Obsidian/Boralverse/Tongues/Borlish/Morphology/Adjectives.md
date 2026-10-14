@@ -1,3 +1,8 @@
+---
+type: grammar
+posts:
+  - "192.5"
+---
 Borlish adjectives have two forms: a base form and a comparative form. The comparative is formed by adding a suffix, which shifts stress to the penultimate syllable.
 ### Regular Comparative in -essem
 

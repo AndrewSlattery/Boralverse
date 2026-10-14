@@ -1,4 +1,17 @@
-The Kernovan Conjuring (Borlish *Conjuraçon Cornovan* /kʊnˈʒi.raˈdzɔn ˌkɔr.noˈvan/) was a collaboration between the [[Kingdom of Greater Devon]] and Roger Drengot, Duke of [[Normandy]] to press the Duke's claim to the throne of [[Kent]]. This plot is considered the proximate cause for the creation of the [[First Drengot Empire]] across [[Gaul]] and southern [[Albion]].
+---
+type: event
+borlish: Conjuraçon Cornovan
+dates: "1029"
+year: 1029
+place:
+  - "[[Kent]]"
+  - "[[Normandy]]"
+posts:
+  - "116.5"
+  - "144.1"
+  - "180.1"
+---
+The Kernovan Conjuring (Borlish *Conjuraçon Cornovan* /kʊnˈʒi.raˈdzɔn ˌkɔr.noˈvan/) was a collaboration between the [[Devon|Kingdom of Greater Devon]] and Roger Drengot, Duke of [[Normandy]] to press the Duke's claim to the throne of [[Kent]]. This plot is considered the proximate cause for the creation of the [[First Drengot Empire]] across [[Gaul]] and southern [[Albion]].
 
 The Conjuring was carried out in 1029, following the death of King [[Rodulf of Kent]]. Kent under the long-reigning Rodulf had prospered, with recognised supremacy over the rump [[Wessex]] (albeit not uncontested by [[Devon]]) and over [[Essex]] to the north. After eight decades of political manoeuvring, Rodulf lingered on his deathbed and the succession was deeply uncertain.
 

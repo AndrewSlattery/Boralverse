@@ -1,3 +1,14 @@
+---
+type: genre
+aliases:
+  - masquira
+  - masquira genre
+dates: from 1860
+year: 1860
+posts:
+  - "30.5"
+  - "98.1"
+---
 Masquira romance is a genre of stories which typically feature criminal (or crime-fighting) characters, as well as plots driven by hidden identities, high society and complicated schemes. It overlaps with the slightly-later spycraft genre, especially in modern works which draw on both literary traditions.
 
 The name 'masquira' derives from [[Ezio Carvallo]]'s 1860 trevold *Tejan de Masquira ou Jalico* "In Either a Mask or a Suit", which is widely considered to have pioneered the genre.

@@ -1,4 +1,17 @@
-The First Drengot Empire, or occasionally the Constant Empire, was the westernmost of the four empires comprising the [[Second Tetrarchy]] (also the Medieval Imperia). At its greatest extent it claimed control over much of [[Albion]] and most of [[Gaul]]. Its major vassals were the kingdoms of [[Northumber]], [[Markland]], [[Kent]], [[Kingdom of Greater Devon|Greater Devon]], [[France]] and [[Burgundy]], along with several lower-ranking demesnes.
+---
+type: former polity
+aliases:
+  - Constant Empire
+  - First Drengotian Empire
+dates: "1029–1191"
+year: 1029
+place:
+  - "[[Albion]]"
+  - "[[Gaul]]"
+posts:
+  - "64.5"
+---
+The First Drengot Empire, or occasionally the Constant Empire, was the westernmost of the four empires comprising the [[Second Tetrarchy]] (also the Medieval Imperia). At its greatest extent it claimed control over much of [[Albion]] and most of [[Gaul]]. Its major vassals were the kingdoms of [[Northumber]], [[Markland]], [[Kent]], [[Devon|Greater Devon]], [[France]] and [[Burgundy]], along with several lower-ranking demesnes.
 
 The Empire is named for its ruling family House Drengot, formerly rulers of [[Normandy]] alone. The lesser-used name Constant Empire has been employed sporadically by historians or propagandists attempting to claim the prestige of the Classical-era District of Constantius, which occupied roughly the same geographical extent.
 

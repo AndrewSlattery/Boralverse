@@ -1,3 +1,10 @@
+---
+type: region
+place:
+  - "[[Novomund]]"
+posts:
+  - "129.5"
+---
 The **Arcabil** are a collection of islands in the Atlantic, east of [[Mashick]]. They comprise hundreds of landmasses, of which [[Cocain]] is the largest.
 ## Toponymy
 The name "Arcabil" has traditionally been considered to be an uncomplicated use of Arabic أَرْخَبِيل • ('archabīl) "archipelago", borrowed into Scholastic Latin as Arcabilia (and treated as a plural on the basis of its -bilia ending). However, there is little evidence of such a word existing in Arabic in the fifteenth century.

@@ -1,3 +1,10 @@
+---
+type: town
+place:
+  - "[[Wales]]"
+posts:
+  - "142.5"
+---
 Tremonnow (Merch /tɾəˈmɔ.nə/, Welsh Trevonwy /ˌtɾe.vəˈnui/) is a town in the southeast of [[Wales]], the administrative centre of the district of [[Glousing]].
 ## Toponymy
 The name Tremonnow derives from the Welsh *trew* "town" and the name of the river it lies on, the Monnow (compare Welsh *Mynwy* "the Monnow", which is of unclear origin).

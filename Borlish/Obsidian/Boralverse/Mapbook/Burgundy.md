@@ -1,3 +1,12 @@
+---
+type: polity
+aliases:
+  - Kingdom of Burgundy
+place:
+  - "[[Gaul]]"
+posts:
+  - "75.5"
+---
 Burgundy (Burgund French *Borgogne* /bɔgˈgɔɲɛ/) is a polity in [[Gaul]], situated south of [[France]], west of [[Bavarn]], north of [[Provence]] and east of [[Vascony]]. It has for most of its history been ruled from the city of Geneva.
 
 ## History

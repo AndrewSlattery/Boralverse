@@ -1,3 +1,15 @@
+---
+type: polity
+aliases:
+  - Vascon Kingdom of Navarre and Aquitain
+place:
+  - "[[Gaul]]"
+  - "[[Spain]]"
+posts:
+  - "14.5"
+  - "56.5"
+  - "235.1"
+---
 Vascony (Vascon: **Vasconna**), or more fully the Vascon Kingdom of Navarre and Aquitain (Vascon: **Lo Reiame Vascòn a Navarr'i Aquitanna**, Vask: **Navarron t'Aquitainon Vasca Herria**) is a polity of western [[Europe]] occupying parts of southern [[Gaul]] and northern [[Spain]]. 
 
 # History

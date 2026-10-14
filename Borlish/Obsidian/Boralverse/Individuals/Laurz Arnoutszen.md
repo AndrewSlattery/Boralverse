@@ -1,3 +1,14 @@
+---
+type: person
+role: physician
+dates: fl. 1540
+year: 1540
+place:
+  - "[[Denmark]]"
+posts:
+  - "17.5"
+  - "99.1"
+---
 Laurz Arnoutszen (fl. 1540) was a Danish physician whose work in sanitation shaped the course of European medical history, to such an extent that in the context of medicine one can speak of pre-Arnoutszen and post-Arnoutszen [[Europe]] (although this periodisation can go too far in neglecting others' advancements and successes prior to his work).
 
 At some point after 1535 he collaborated with his cousin [[Elisa Arnoutszen]]. His son was also pivotal in the history of medicine, being partially responsible for the discovery of one-case life.

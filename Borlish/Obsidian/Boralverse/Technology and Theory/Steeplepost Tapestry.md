@@ -1,3 +1,13 @@
+---
+type: object
+dates: "1820"
+year: 1820
+place:
+  - "[[Aiga d'Angoixa]]"
+posts:
+  - "138.5"
+  - "230.1"
+---
 The **Steeplepost Tapestry** (Vascon: *Lo Tapìs Campanaral*) was a screen of several myriad black or white tiles built in [[Ambrosia]]'s capital city of [[Aiga d'Angoixa]]. Completed in 1820 and erected to overlook one of the city's central squares, it was inspired by the (fairly new) 'latticework' art movement.
 
 One ambitious goal for the Tapestry was to be able to portray journalist's sketches of events from across the country with great speed, using the flag-lamp [[Steeplepost|steeplemesh]] infrastructure that had been built up over the last few decades. Although this was achieved several times, the practical limitations of transmitting so much information by steeplepost prevented it from becoming routine. Instead, the majority of the tapestry's time was spent displaying short pieces of news or government messages in text and simple symbols.

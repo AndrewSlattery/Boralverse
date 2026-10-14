@@ -1,3 +1,12 @@
+---
+type: substance
+aliases:
+  - Cozebdo-diamaschal benjamine
+  - Tommy pills
+dates: early 20th c.
+posts:
+  - "157.5"
+---
 **Cozebdo-diamaschal benjamine** (as a medicine sold under several names, including "CD" or "Tommy pills") is a hebetant substance developed in the early twentieth century. It was the result of collaboration between the [[Branwen Sanatory]] in [[New Leudong]] and the [[University of Rimack]] in [[Tavancy]], which sought to develop hebetants with faster action and milder adversions. It was first synthesised in 1932, and a decade later it had surpassed salix derivatives in sales worldwide, due to providing better pain relief (as opposed to merely reducing the symptoms of fever).
 ## Name
 The name of this substance comprises three parts.

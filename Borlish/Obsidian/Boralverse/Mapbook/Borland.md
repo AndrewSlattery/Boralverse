@@ -1,3 +1,15 @@
+---
+type: polity
+borlish: Istr Boral
+place:
+  - "[[Northwestern Isles]]"
+posts:
+  - "26.5"
+  - "95.1"
+  - "139.5"
+  - "164.5"
+  - "195.1"
+---
 Borland (in Borlish **Istr Boral** /ɪstr̩ boˈral/) is the easternmost of the three major landmasses in the [[Northwestern Isles]], and also the name of the singular polity located thereon. The capital of Borland is [[Damvath]], a port city on the east coast of the island.
 ## Etymology
 The name 'Borland' descends via from Old English **Boralland, Borala land** 'land of the Borlish people', where the first element is taken from Latin **Borālēs** 'Borlish people'.
@@ -55,7 +67,7 @@ The influx of English people into Borland continued throughout this period; for 
 
 The question of fealty (that is, whether any kingdom of the island would received official recognition and deference from the others) vexed the island throughout this period, with conflicts leading to temporary alliances between Borland and Southbar or Borland and Angland depending on the political climate.
 
-Finally, in the early ninth century, Roman king [[Stiglan of Borland|Stiglan]] married his son [[Marc of Borland|Marc]] to the only daughter of [[Alfegh of Angland]], unifying their kingdoms and forcing Sothbar to pledge fealty after the circa-810 N [[Battle of Fendal (810)|Battle of Fendal]].
+Finally, in the early ninth century, Roman king [[Stillian of Borland|Stiglan]] married his son [[Marc of Borland|Marc]] to the only daughter of [[Alfegh of Angland]], unifying their kingdoms and forcing Sothbar to pledge fealty after the circa-810 N [[Battle of Fendal (810)|Battle of Fendal]].
 ### Dane-ruled Borland
 Attacks on Borland towns and monasteries by Dane raiders along the coasts began in the late eighth century, spreading gradually westward as viking raids grew lengthier and more lucrative. Through the ninth century raiding is gradually upgraded to long-term settlement, especially in the northern half of the island. Eventually, Dane pretenders (**coronc**) to the Borland throne arose and threatened to topple the kingdom.
 
@@ -206,7 +218,7 @@ By far the most commonly-spoken language in Borland is the [[Borlish language]],
 ### Authors
 - Descard Ausogn, (fl. 1929), amateur historian remembered for his 'Rosy Dawn on Glittering Waves', a controversial account of the history of seafaring since the [[Novomundane Landfall|Landfall]]
 - Dion Becolla (fl. 1968), writer of giftales and historical fiction, known for 'Waging World Peace' (**Paç Mondial Accommettent**)
-- Loðaç Berxon (fl. 1910), author of [[Parachthon romance|parachthon]] works including 'The Firekeeper's Stronghold' (**L'Askouð Pyrrhaz**), and member of the [[Outland Arcabil Association]]
+- Loðaç Berxon (fl. 1910), author of [[Parachthony|parachthon]] works including 'The Firekeeper's Stronghold' (**L'Askouð Pyrrhaz**), and member of the [[Outland Arcabil Association]]
 - Mance Laurent Boneðic (fl. 1898), one-time monk who authored 'Sunrise in Exile: the Iconomachy in the Northern Dioceses'
 - Hadassa Docquerl (fl. 1872), heiress to the barony of Livaucr whose work 'An Incomplete Dictionary of the New London' (**Un Onomatoir Partial dy Novel Londr**) is likely the most famous Vetomundane work from the Futurism period
 - Heudar Fiðaut (fl. c14), courtier of the royal family and author of 'Twenty-Four Laments' (**Catreðejnt Laȝrem**)

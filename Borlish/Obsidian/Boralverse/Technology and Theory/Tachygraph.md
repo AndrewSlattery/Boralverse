@@ -1,3 +1,13 @@
+---
+type: technology
+aliases:
+  - tachy
+  - tacky
+  - tachygraphs
+posts:
+  - "98.5"
+  - "157.1"
+---
 A tachygraph (Merch /ˌta.kɪˈgɾaf/, also informally a **tachy** or **tacky** /ˈta.kəi/) is a device with a keyboard for typing text onto paper, or more recently directly onto a slate.
 ## Etymology
 The word "tachygraph" originates in the mid-nineteenth century as a brand name. It is derived from Ancient Greek τᾰχῠ́ς • (takhús) "quick, fast" and γρᾰ́φω • (gráphō) "draw, write".

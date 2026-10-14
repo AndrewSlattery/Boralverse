@@ -1,3 +1,14 @@
+---
+type: work
+author: "[[Dion Becolla]]"
+form: novel
+language: Borlish
+original-title: Paç Mondial Accommettent
+dates: "1968"
+year: 1968
+posts:
+  - "2.1"
+---
 Waging World Peace (originally published in Borlish as **Paç Mondial Accommettent**) is a 1968 trevold written by [[Neuvort]] writer [[Dion Becolla]]. It was published during the [[General Italian Fervour]] of the late 1960s and early 1970s, but it some respects it owes more to the [[Masquira romance|masquira]] genre, particularly in its 1880s setting at the heart of the [[Good Game]] period.
 
 ## Excerpts

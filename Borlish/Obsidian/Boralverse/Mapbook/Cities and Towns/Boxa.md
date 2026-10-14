@@ -1,3 +1,8 @@
+---
+type: city
+place:
+  - "[[Danaw]]"
+---
 Boxa \[Novi Sad\] is a city on the [[Danaw]] river.
 
 ## People

@@ -1,1 +1,10 @@
+---
+type: person
+role: botanist
+dates: fl. 16th c.
+place:
+  - "[[Willemy]]"
+posts:
+  - "169.5"
+---
 Tewis Camigner (fl. c16) was a botanist from [[Willemy]] during the [[Revitalist period]], sometimes called the father of farm theory. His writings in experientia include the first reference to the high sigar content of beet syrup, which would go on to inspire the 1730s [[Pentrose]] survey. This was a search for a domestic alternative to sugarcane which resulted in the braxoch, a hybrid of Silesian and Cassuvian beets with a characteristic gold colour and the ancestor of almost all modern sugar beets.

@@ -1,3 +1,16 @@
+---
+type: work
+aliases:
+  - Parable of the Mute Bookbinder
+author: "[[Rachel Desselut]]"
+form: treatise
+language: Burgund
+original-title: Fable dew Reillour Mut
+dates: "1743"
+year: 1743
+posts:
+  - "59.5"
+---
 The Parable of the Mute Bookbinder (originally published in Burgund as **Fable dew Reillour Mut**) is a philosophical treatise written in 1743 by noblewoman [[Rachel Desselut]] in response to [[Vallakis]] on the problem of the bounded self-duplication of living things (in brief: how can a finite being contain within itself the ability to create a full copy of itself?).
 
 Desselut's work lays out the separation of Form and of Method, and how they allow for the unsculpted duplication of a bounded being. She argues that in order for living matter to duplicate, the Form must contain within itself an explicit Method describing in some readable language its construction. Thus she inferred the existence of a vital language (in her own writing she called it the Divine Word; we now know it as heredian acid) present in the cases of the body.

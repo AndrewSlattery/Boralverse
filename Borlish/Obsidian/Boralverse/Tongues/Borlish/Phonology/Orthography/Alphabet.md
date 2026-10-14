@@ -1,3 +1,8 @@
+---
+type: grammar
+posts:
+  - "172.5"
+---
 Here are the twenty-seven letters of the standard Borlish alphabet, along with their letter names:
 
 | Letter | Name  | Letter | Name | Letter | Name  |

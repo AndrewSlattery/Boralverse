@@ -1,3 +1,15 @@
+---
+type: battle
+aliases:
+  - Battle of Rexam
+dates: "1483"
+year: 1483
+place:
+  - "[[Rexam]]"
+posts:
+  - "111.5"
+  - "170.1"
+---
 The Battle of Rexam (Merch *Feight at Rexam* /fɛʃt ət ˈɾɛksəm/, Cambric *Brwydr Car Vanteł* /ˈbɾuː.də kaː vənˈtɛɬ/) was a major combat between [[Markland]] and the Kingdom of [[Britain]] which took place in 1483 during the [[Wars of Fealty]].
 
 Rexam (formerly in the Merch language spelt *Wrexham*) had been a contested town on the border of [[Wales]] and [[Markland]] almost from the moment the latter was founded. In 1301, in an act which reignited the [[Mallor Wars]], [[Andrew II of Markland|King Andrew II]] [[Sack of Rexam|sacked]] the town.

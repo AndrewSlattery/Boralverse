@@ -1,3 +1,13 @@
+---
+type: city
+aliases:
+  - Sant Rafeu
+place:
+  - "[[New Provence]]"
+posts:
+  - "60.5"
+  - "111.1"
+---
 Santrafew (Merch /sənˈtɹa.fəw/; Provincial **Sant Rafeu** /sanˈtra.vaw/) is the capital of [[New Provence]]. Located on the [[Mendeva|Mendevan]] coast on the banks of the Becouin River, it is one of the oldest European settlements on the continent's mainland.
 
 # History

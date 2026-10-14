@@ -1,3 +1,12 @@
+---
+type: person
+role: mathematician
+dates: fl. 12th c.
+place:
+  - "[[Trapoles]]"
+posts:
+  - "54.5"
+---
 Nadim of Trapoles (fl. c12) was a mathematician at the Observatory in [[Trapoles]], which at the time was a major [[Middlesea]] port for the [[Single Caliphate]] during the [[Second Tetrarchy]]. He is remembered for formulating the Trapolitan identity:
 
 ![[Trapolitan-identity.png]]

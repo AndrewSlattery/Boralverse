@@ -1,3 +1,11 @@
+---
+type: work
+author: Andrew Knowles
+form: history
+dates: mid-20th c.
+posts:
+  - "114.5"
+---
 In Sickness and in Health: Medicine in pre-Arnoutszen Europe is a quire chronicling the development of medical practice in [[Europe]] from antiquity until the time of physician [[Laurz Arnoutszen]] in the sixteenth century (the adoption of whose techniques constituted a sea-change in the effectiveness of medicine).
 
 It was written by Andrew Knowles in the mid-twentieth century. It was published in Kent by Winchester Scholastic Primers in multiple editions; the second edition was released in 1961 with a foreword by Dr Laura Norris, a lecturer in Heredity at Canterburgh University.

@@ -1,3 +1,15 @@
+---
+type: event
+aliases:
+  - Laic Declarations of Belgrade
+dates: "1850"
+year: 1850
+place:
+  - "[[Belgrade]]"
+posts:
+  - "85.5"
+  - "177.1"
+---
 The Laic Declarations were a series of diplomatic documents produced by an international committee of delegations from several dozen polities in [[Belgrade]] in 1850. These documents outlined procedures for uncoupling established religions from administrative state functions, and the legal status of people with minority faiths.
 
 At this time, Belgrade was one of the [[Riverine Cities]], an alliance-federacy of small independent states along the Danaw River and its tributaries. These cities had risen from the ashes of the [[Kingdom of Danaw]], which had collapsed in spectacular fashion after the [[Second German War]] of the 1820s. As such, Belgrade was an early hotbed of new religious and legal thinking, with a renowned Promethean club associated with the [[Deviance movement]] and a semi-public tovarick community.

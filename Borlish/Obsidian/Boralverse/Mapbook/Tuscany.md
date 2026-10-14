@@ -1,1 +1,8 @@
+---
+type: polity
+place:
+  - "[[Italy]]"
+posts:
+  - "169.5"
+---
 Tuscany is an Italian polity on the [[Tyrrhene Sea]], bordering [[Jeans]], [[Lombardy]] and [[Rome]]. Its capital city is [[Florence]]. Between the tenth and thirteenth centuries it was ruled by the Pisan dynasty, including the renowned Duchess [[Matilda of Tuscany|Matilda]] (r. 1102-1146). The Italian language of Tuscany has contributed many loanwords to European languages due to the prestige and trade wealth of the region.

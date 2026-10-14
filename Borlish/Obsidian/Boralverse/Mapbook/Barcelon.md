@@ -1,3 +1,11 @@
+---
+type: polity
+place:
+  - "[[Spain]]"
+  - "[[Middlesea]]"
+posts:
+  - "43.5"
+---
 Barcelon is a [[Middlesea]] polity in the east of the Spanish peninsula.
 
 # History

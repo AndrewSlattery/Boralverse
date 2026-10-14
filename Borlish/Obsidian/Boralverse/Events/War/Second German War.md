@@ -1,3 +1,13 @@
+---
+type: war
+dates: "1815–1823"
+year: 1815
+place:
+  - "[[Europe]]"
+posts:
+  - "35.5"
+  - "121.1"
+---
 The Second German War (1815–23) was a conflict centred on German lands but involving almost all the polities of Europe. It took place in the early nineteenth century and marks the conventional end of the [[Long Peace]]. This war is considered part of the global phenomenon of [[Reaction War]], which includes politically unrelated but contemporaneous conflicts around the world.
 
 Although [[Vascony]] at first managed not to become embroiled in the conflict, once its interests in [[Mendeva]] and the East were threatened, then-king Hernand IV had no choice but to declare against the [[Northern Concert]] and in favour of the Convoy.

@@ -1,3 +1,13 @@
+---
+type: period
+aliases:
+  - Workshop period
+  - Global Workshop period
+dates: mid-19th c.
+posts:
+  - "76.5"
+  - "186.1"
+---
 The Global Workshop refers to the middle decades of the nineteenth century. It is characterised by the rapid expansion and development of industry across the world. Usual historiography places the Workshop period between the [[Long Peace]] and the [[Good Game]].
 
 The Workshop period brought prosperity to parts of [[Europe]] which had been devastated by the [[Second German War]] of the 1820s, such as the [[Riverine Cities]].

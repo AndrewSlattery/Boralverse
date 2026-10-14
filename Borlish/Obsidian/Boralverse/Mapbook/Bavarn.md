@@ -1,3 +1,10 @@
+---
+type: polity
+place:
+  - "[[Europe]]"
+posts:
+  - "86.5"
+---
 Bavarn (Bóarn /ˈpoː.ɑːn/) is a centrally-located German polity of [[Europe]]. Among others, it borders [[Bohemia]], [[Burgundy]], [[Furlain]], [[Saxony]], and [[Willemy]].
 
 ## History

@@ -1,3 +1,12 @@
+---
+type: object
+place:
+  - "[[Albion]]"
+posts:
+  - "110.5"
+  - "140.1"
+  - "189.1"
+---
 The Redstone Chair (Merch *Redstoan Sete* /ˈɾɛd.stoːn ˈsiːt/) was a wooden throne used by the monarchies of [[Albion]] during the medieval period.
 ## History
 The Redstone Chair was fashioned in the late tenth century around a block of sandstone; the name of the carpenter is forgotten. This block was (allegedly) the block upon which the [[Elved Marriage]] between a princess of [[Markland]] and the ruler of Dane [[Northumber]] was solemnised, ending hostilities between the two polities for almost a century.

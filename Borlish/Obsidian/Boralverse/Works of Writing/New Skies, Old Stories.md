@@ -1,3 +1,15 @@
+---
+type: work
+author: "Simon d'Estiala"
+form: history
+language: Provincial French
+original-title: "Novè Cial, Anzan Conte"
+dates: "1980"
+year: 1980
+posts:
+  - "114.5"
+  - "147.5"
+---
 New Skies, Old Stories (originally published in Provincial French as *Novè Cial, Anzan Conte*) is a work of popular history detailing the origins of the various threads of [[Parachthony|parachthon]] fiction. It was written by Simon d'Estiala and published by [[Prindor Marsillès]] in 1980. Its thesis is that many of the tropes often considered to have been invented by particular parachthon authors are in fact simply examples of existing tropes used in new settings.
 
 ## Excerpts

@@ -1,1 +1,12 @@
+---
+type: work
+author: "[[Cai Sonquo]]"
+form: history
+language: Welsh
+original-title: Łis y Grimrageð
+dates: "1999"
+year: 1999
+posts:
+  - "159.5"
+---
 The [[Grimmer]] Hall (originally in Welsh as Łis y Grimrageð /ɬiːs ə ˌgɾɪm.ɾəˈgɛð/ "The Computing-Women's Hall") is a scholastic reference quire about developments in early [[Methodics|methodics]]. It was published in 1999 and written by [[New Leudong]] methodist [[Cai Sonquo]] during his tenure at the University of [[Mehannin]]. The work covers the use of algorithms from antiquity (for example Euclid's method for finding coarsest division), through the early modern period (e.g. the [[Waveform display]] and its application to astronomy), and into the titular "grimmer halls" (rooms of many people—usually women—performing calculations longhand) of the early twentieth century. The work ends its account just before the invention of the entirely mechanical general-purpose grimmer.

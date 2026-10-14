@@ -1,3 +1,15 @@
+---
+type: event
+aliases:
+  - Landfall of 1471
+borlish: Abanc Novomondin
+dates: "1471"
+year: 1471
+place:
+  - "[[Brasil]]"
+posts:
+  - "171.5"
+---
 The **Novomundane Landfall** (Borlish *Abanc Novomondin*) occurred in 1471 N, when a ship that was part of a [[New Navarre Enterprise]] fishing expedition in the North [[Atlantic]] sighted and made landfall on the island of [[Brasil]]. It marks the start of prolonged contact between the [[Vetomund]] and the [[Novomund]] (notwithstanding evidence of sporadic [[Norrish]] contact with the region), and the first century following the Landfall is known to historians as the [[Intertwining Century]].
 
 The terms Novomund and [[Mendeva]] date to this voyage; a surviving map from the Landfall voyage itself is marked *terrae mendevalensis*, after the [[Vask]] *mendeval* "west".

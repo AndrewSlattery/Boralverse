@@ -1,3 +1,10 @@
+---
+type: city
+place:
+  - "[[Furlain]]"
+posts:
+  - "35.5"
+---
 Verona is a city in the north-east of the Italian peninsula.
 
 # History

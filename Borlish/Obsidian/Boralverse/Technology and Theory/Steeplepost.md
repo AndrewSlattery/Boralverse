@@ -1,3 +1,10 @@
+---
+type: technology
+aliases:
+  - steeplemesh
+posts:
+  - "38.5"
+---
 Steeplepost refers to any of a group of similar technologies (flag-lamp, barrick, longform, gyrer, etc.) used for transmitting messages over long distances.
 
 # Development

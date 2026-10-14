@@ -1,3 +1,10 @@
+---
+type: city
+place:
+  - "[[Saxony]]"
+posts:
+  - "83.5"
+---
 Lepzi is the capital city of [[Saxony]], located on the Bleak Alstre.
 ## History
 

@@ -1,3 +1,12 @@
+---
+type: organisation
+aliases:
+  - Papacy in Rome
+place:
+  - "[[Rome]]"
+posts:
+  - "95.5"
+---
 The Papacy in [[Rome]] is the spiritual seat of much of Christendom.
 
 Despite intermittent conflicts with the Greek patriarchs and several abortive antipope lineages, the Roman Papacy remained the ultimate authority over all Christendom until the [[German Secession]] of the early thirteen century. This created a lasting competing seat in the [[Augsburg See]] which did not recognise the Roman Papacy's legitimacy.

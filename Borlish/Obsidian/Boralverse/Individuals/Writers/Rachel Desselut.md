@@ -1,3 +1,13 @@
+---
+type: person
+role: philosopher
+dates: fl. 1743
+year: 1743
+place:
+  - "[[France]]"
+posts:
+  - "83.5"
+---
 Rachel Desselut (fl. 1743) was a French philosopher. She is best remembered for her 1743 work *[[The Parable of the Mute Bookbinder]]*, which discusses problems of infinite regression and of identity.
 
 She was born to [[Maurice Desselut]], eighth Lord Bouvoin, who was a writer and explorer. Fittingly he was also an infamous libertine (the house name Desselut deriving from an Old French word meaning *dissolute, philandering*).

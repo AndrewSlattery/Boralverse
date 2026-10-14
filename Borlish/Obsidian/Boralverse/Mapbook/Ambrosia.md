@@ -1,3 +1,10 @@
+---
+type: polity
+place:
+  - "[[Mendeva]]"
+posts:
+  - "73.5"
+---
 Ambrosia (Vascon/Vask **Ambroxa**) is a polity of north-eastern [[Mendeva]], comprising several islands and much of the mainland up to the Five Seas. It borders [[New Provence]] to the south.
 ## History
 

@@ -1,8 +1,18 @@
+---
+type: organisation
+aliases:
+  - Brethin order
+dates: from 8th c.
+place:
+  - "[[Tremonnow]]"
+posts:
+  - "23.5"
+---
 The Brethin are a Christian religious order devoted to record-keeping and the maintenance of history. They have societies worldwide and a history dating back to the early medieval period.
 
 The Brethin take their name from the distinctive heavy cloak (in Old Welsh, the **bretin**) worn by all members.
 
-The order was founded in eighth-century [[Tremonnow]]—at that time a border town of the new [[Kingdom of Greater Devon]]—under the patronage of [[Iseld of Devon|Iseld]], daughter of [[Vigo the Magnificent]]. Their original mandate was to preserve in particular the history of the Christianisation of [[Albion]] and [[Ireland]], but the scope of their work quickly expanded to include secular history.
+The order was founded in eighth-century [[Tremonnow]]—at that time a border town of the new [[Devon|Kingdom of Greater Devon]]—under the patronage of [[Iseld of Devon|Iseld]], daughter of [[Vigo the Magnificent]]. Their original mandate was to preserve in particular the history of the Christianisation of [[Albion]] and [[Ireland]], but the scope of their work quickly expanded to include secular history.
 
 Brethin houses spread rapidly throughout the Briton states, and in later centuries they made inroads into [[France]], [[Burgundy]] and as far afield as [[Andalus]] (although they would not gain a foothold in [[Italy]] until after the [[Great Fracture]] of the sixteenth century).
 

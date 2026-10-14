@@ -1,3 +1,12 @@
+---
+type: object
+aliases:
+  - Maritime deck
+dates: "15th c."
+posts:
+  - "153.5"
+  - "171.1"
+---
 The Maritime cards are a deck used most prevalently across the [[Northwestern Isles]], as well as [[Denmark]] and [[Willemy]]. However, this particular style of deck actually originates in fifteenth-century [[Poland]]. The Maritime deck comprises fifty cards organised into five ensigns and three colours: these are gold, bucklers, staves, jewels and arrows.
 ![[Maritime ensigns.png]]
 Many of the cards furthermore have conventional titles separate to their rank and ensign—for example, the deuce of staves is called the Duel, while the sept of jewels is known as the Stars. Over time the artwork on these cards has come to incorporate these thematic elements. In games where some cards trump the rest, the gold ensign typically takes this role, although some more modern games will use the aforementioned "named" cards in this way.

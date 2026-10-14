@@ -1,3 +1,12 @@
+---
+type: work
+author: "[[Elsebeth Sneider]]"
+form: novel
+language: Saxon
+original-title: "Durgh'nen Shorzen Shouer"
+dates: "1795"
+year: 1795
+---
 Through a Black Mirror (originally in Saxon as **Durgh'nen Shorzen Shouer**) is an early example of parachthon romance, written by first-time author [[Elsebeth Sneider]] in 1795. Its immediate popularity sparked the [[Voidtale|voidtale]] craze, which persisted until the [[Second German War]]. The title is a quote from 1 Corinthians.
 
 The book stars Adelaide, a young woman who is whisked away with her sister and her friends on an adventure among the stars with a strange man known only as 'Captain'.

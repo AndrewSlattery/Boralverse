@@ -1,3 +1,15 @@
+---
+type: person
+role: playwright
+dates: fl. 1560
+year: 1560
+place:
+  - "[[Denmark]]"
+posts:
+  - "16.5"
+  - "80.1"
+  - "147.1"
+---
 Absolon Mortenszen was a playwright and commentator in the [[Dane Concert]] of the sixteenth century. In the year 1560 he was living in [[Alburg]], [[Denmark]].
 
 It is though that his grandfather lost his wife and at least two brothers in the [[Second Great Dying]]. He married a woman named Clara at some point before 1560; they did not have any children. He had a brother who married a woman named Beatrys.

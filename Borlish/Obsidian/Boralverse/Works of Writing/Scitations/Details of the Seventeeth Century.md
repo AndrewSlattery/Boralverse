@@ -1,3 +1,12 @@
+---
+type: work
+borlish: Y Siecr Settoç a Sgart Jusser
+form: exam paper
+dates: "2024"
+year: 2024
+posts:
+  - "119.5"
+---
 shortform questions lifted from a 2024 scitation paper for the course Details of the Seventeeth Century (**Y Siecr Settoç a Sgart Jusser**), an avenue of concurrence history offered by the [[Jacobin University of Axbane]].
 
 1. Which groups were expelled from [[Moscat]] in the [[Ibadine Imamate]] in 1652, and which local power would go on to seize the city some months later?

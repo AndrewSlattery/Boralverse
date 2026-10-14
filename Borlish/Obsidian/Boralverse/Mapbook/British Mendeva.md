@@ -1,3 +1,11 @@
+---
+type: region
+place:
+  - "[[Mendeva]]"
+posts:
+  - "102.5"
+  - "184.1"
+---
 British Mendeva refers to the polities of [[Mendeva]] which have undergone significant settlement from or otherwise been significantly influenced by the Kingdom of [[Britain]]. The region is mostly contained within the larger region of [[Gulf Mendeva]]. The polity of the region with the most population and global influence is [[Hasiny]].
 
 ## History

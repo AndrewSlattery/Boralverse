@@ -1,3 +1,12 @@
+---
+type: polity
+aliases:
+  - Kingdom of Britain
+place:
+  - "[[Albion]]"
+posts:
+  - "97.5"
+---
 Britain (Cambrick **Prydein**) is a polity of [[Albion]] centred on [[Wales]] but extending through [[Devon]] and [[Dunclothe]] and out to [[Kernow]] and parts of [[Ireland]].
 
 ## History

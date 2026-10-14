@@ -1,3 +1,6 @@
+---
+type: grammar
+---
 There are several restrictions on where in a syllable or a word certain segments can appear. The consonants /v s ʒ h/ do not occur in coda position, and /ð/ does not occur word-finally. When morphology would place /ð s ʒ/ in a forbidden position they are replaced with /θ z x/ respectively.
 ‹nað-ar nað | fass-ar fas | naj-ar nascn›
 /naˈðar naθ | faˈsar faz | naˈʒar ˈnax.n̩/

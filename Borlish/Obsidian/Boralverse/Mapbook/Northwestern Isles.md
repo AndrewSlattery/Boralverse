@@ -1,3 +1,10 @@
+---
+type: region
+aliases:
+  - Northern Isles
+place:
+  - "[[Europe]]"
+---
 The Northwestern Isles (also the Northern Isles) is a term referring to the islands of the northern coast of western [[Europe]], to wit:
 - [[Ireland]]
 - [[Albion]]

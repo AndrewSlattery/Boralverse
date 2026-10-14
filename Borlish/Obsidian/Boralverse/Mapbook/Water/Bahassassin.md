@@ -1,1 +1,10 @@
+---
+type: body of water
+aliases:
+  - Bahassassin River
+place:
+  - "[[Mendeva]]"
+posts:
+  - "134.5"
+---
 The **Bahassassin River** is the longest river on the continent of Mendeva, with a total length of just over two thousand leagues. The river passes through multiple polities, including [[Zangathy]] and [[Hasiny]], and its eastern tributaries descend from the [[Sturgovan Mountains]]. The largest city on the banks of the Bahassassin is [[Nadacow]], the capital city of Hasiny. The name of the river comes from the Carovacian name *báhassássin* "mother of rivers".

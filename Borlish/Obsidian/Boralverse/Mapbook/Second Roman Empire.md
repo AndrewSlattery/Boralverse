@@ -1,3 +1,15 @@
+---
+type: former polity
+aliases:
+  - Empire of the Hellenes
+  - Empire in Byzantium
+  - Malchassian Rome
+  - Eastern Roman Empire
+posts:
+  - "65.5"
+  - "127.1"
+  - "222.1"
+---
 The Second Roman Empire, seldom or historically referred to as the Empire of the Hellenes, the Empire in Byzantium, Malchassian Rome (specifically denoting the centuries of rule by the Malchassian dynasty) or the Eastern Roman Empire (which extends somewhat further back in time), was the political and cultural continuation of the (Classical) Roman Empire following the reconquest of the city of [[Rome]] from the Eastern Goths by Emperor Justinian I. The Empire persisted in some form for over a millennium, with its final collapse occurring in the seventeenth century.
 
 # History

@@ -1,3 +1,11 @@
+---
+type: island
+place:
+  - "[[Mendeva]]"
+posts:
+  - "35.1"
+  - "53.5"
+---
 Brasil is an island in the North Atlantic off the eastern coast of [[Mendeva]]. In the [[Novomund]] it was both the first location to be temporarily settled by people from the Vetomund and also the inception of sustained contact following the [[Novomundane Landfall|Landfall of 1471]]. 
 
 Unlike the name Mendeva, it is not known when the name Brasil was first used for this land. What is understood is that it was inspired by the Irish myth of *Oil Breasail*, a landmass west of Ireland that was said to be shrouded in mist except for one day every seven years. Islands labelled Brasil or similar wordforms appear sporadically on late-medieval maps of the Atlantic coast, usually much smaller and further east than the real place.

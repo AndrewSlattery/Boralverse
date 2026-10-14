@@ -1,3 +1,11 @@
+---
+type: polity
+place:
+  - "[[Europe]]"
+posts:
+  - "28.5"
+  - "203.1"
+---
 Saxony is a polity in [[Europe]] bordering places such as [[Bavarn]], [[Poland]], [[Willemy]] and [[Bohemia]].
 
 # History

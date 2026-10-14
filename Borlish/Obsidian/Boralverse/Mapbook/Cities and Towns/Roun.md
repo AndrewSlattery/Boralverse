@@ -1,3 +1,11 @@
+---
+type: city
+place:
+  - "[[Kent]]"
+posts:
+  - "158.5"
+  - "225.1"
+---
 Roun (Norman, Kentish /ʀãw̃/) is a port on the [[Seine]] river and the capital city of [[Kent]].
 ## History
 Founded by the Gauls, the city was known to the Romans as Rotomagus and it became the seat of the local bishopric in the early medieval period. The ninth century saw the incursion of the Normans into the region as part of the wider [[Dane Supremacy]]; by 850 Roun was under their control. By the eleventh Roun had become the seat of the [[Drengot]] family, ruling the [[Duchy of Normandy]] as a semi-autonomous vassal of the [[Kingdom of the Franks]] (the western fragment of the erstwhile [[Francian Empire]]).

@@ -1,3 +1,6 @@
+---
+type: grammar
+---
 Throughout this section, the phonetic transcription approximately reflects the mesolectal speech in the capital city of Damvath.
 ### Assimilation
 The phoneme /n/ is pronounced [ŋ] before velars.

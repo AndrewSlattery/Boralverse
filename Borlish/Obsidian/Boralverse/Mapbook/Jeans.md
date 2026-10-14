@@ -1,3 +1,12 @@
+---
+type: polity
+borlish: Jen
+place:
+  - "[[Italy]]"
+posts:
+  - "131.5"
+  - "241.1"
+---
 **Jeans** (Merch /dʒeːnz/; Borlish **Jen** /ʒɛn/; Jean **Zena** /ˈze.na/) is an Italian polity and city of the same name. It comprises the northwest [[Middlesea]] coastline of [[Italy]] bordering [[Provence]] as well as the island of Corse. It has a long history as one of the so-called 'Latin Republics'.
 ## Toponymy
 The Merch name **Jeans** was borrowed from Old French **Jannes** /ˈdʒa.nəs/, deriving originally from Genua in Latin. This is probably simply the contemporary local word for "knee" (cf. Classical Latin *genu*), in reference to the shape of the coastline it lies on.

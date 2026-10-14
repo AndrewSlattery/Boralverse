@@ -1,3 +1,12 @@
+---
+type: technology
+aliases:
+  - augrimmer
+  - grimmers
+borlish: grimmour
+posts:
+  - "107.5"
+---
 A grimmer (Merch /ˈgɾɪ.mə/, Borlish **grimmour** /gʀɪˈmuʀ/), formerly and formally an *augrimmer*, is a device that can be given methods to carry out sequences of arithmetic or logical operations. These methods enable grimmers to perform a wide range of tasks. Grimmers are the substrate of the [[Pistol Mesh|pistol mesh]], which links together billions of such devices.
 
 Calculating devices from the earliest abaci prefigure the grimmer, but its true potential (the ability to perform essentially arbitrary computation, given the correct instructions) arose from theoretic discussions on the possibility of self-replication. In the eighteenth-century, [[Rachel Desselut]] argued that in order for living matter to duplicate, its "Form" must contain a readable "Method" describing its construction. In this way she predicted the form-method separation essential to modern grimmer operation.

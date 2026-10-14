@@ -1,3 +1,19 @@
+---
+type: person
+aliases:
+  - Stiglan of Borland
+  - Stiglan
+  - Stillian
+borlish: Stiglan
+role: king
+dates: r. c. 790–823
+year: 790
+place:
+  - "[[Borland]]"
+posts:
+  - "175.5"
+  - "227.1"
+---
 Stillian of [[Borland]] (r. ca. 790–823 N, [[Borlish]] Stiglan /stajˈlan/) was king of [[Borland#^becd38|Roman Borland]] in the late eighth and early ninth centuries. This so-called [[Borland#^eae453|First Kingdom of Borland]] had grown out of the sub-Roman Diocese of Boral in the early medieval period, having become a monarchy in tandem with (and possibly influenced by) the new petty kingdoms settled by Germanic peoples in the west and south of the island of Borland.
 
 Like all kings of Roman Borland, Stillian claimed to be descended from [[Victor Rossetus]], the semi-mythic figure who united much of the land once external Roman authority receded in the fifth century. The name Stillian descends from Latin Hostīliānus, attested also as the name of a Roman emperor who ruled briefly in 251 N.

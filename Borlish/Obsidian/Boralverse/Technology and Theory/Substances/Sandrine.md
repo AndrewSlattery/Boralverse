@@ -1,3 +1,10 @@
+---
+type: substance
+posts:
+  - "90.5"
+  - "108.1"
+  - "187.1"
+---
 Sandrine (Merch /ˈsan.dɾəin/) is a soluble substance found in citrus and other fruits and vegetables. It is one of the substances essential to mammal life; a severe defect of sandrine is what causes scurvy.
 
 (Do not confuse this substance with mandrine, a deadly poison.)

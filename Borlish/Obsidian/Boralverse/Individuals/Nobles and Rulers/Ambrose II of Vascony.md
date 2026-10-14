@@ -1,3 +1,13 @@
+---
+type: person
+aliases:
+  - Ambrose II
+role: king
+dates: d. 1455
+year: 1455
+place:
+  - "[[Vascony]]"
+---
 Ambrose II (cr. , d. 1455) was king of [[Vascony]].
 
 His eldest son and heir was [[Mark of Tolose]], who died in 1453, causing the throne to pass to Ambrose's grandson, [[Ambrose III of Vascony|Ambrose the Ascendant]], after his death.

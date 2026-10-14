@@ -1,3 +1,8 @@
+---
+type: continent
+place:
+  - "[[Vetomund]]"
+---
 Europe is a continental peninsula in the northern hemisphere.
 
 # Geographic regions
@@ -56,7 +61,7 @@ Europe is a continental peninsula in the northern hemisphere.
 - [[Furlain]]
 - [[Genova]]
 - [[German Empire]]
-- [[Kingdom of Greater Devon]]
+- [[Devon|Kingdom of Greater Devon]]
 - Gwyneth
 - Empire of the Hellenes*
 - Horth

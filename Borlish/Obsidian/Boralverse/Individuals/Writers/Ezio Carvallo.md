@@ -1,3 +1,13 @@
+---
+type: person
+role: author
+dates: fl. 1860
+year: 1860
+place:
+  - "[[Portingale]]"
+posts:
+  - "42.5"
+---
 Ezio Carvallo (fl. 1860) was a [[Portingale]] author most remembered for his contributions to the development of the genre of [[Masquira romance|masquira romance]].
 
 # Works

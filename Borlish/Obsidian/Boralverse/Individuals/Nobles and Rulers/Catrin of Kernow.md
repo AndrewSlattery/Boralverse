@@ -1,3 +1,15 @@
+---
+type: person
+role: noblewoman
+dates: d. 1233
+year: 1233
+place:
+  - "[[Borland]]"
+  - "[[Kernow]]"
+posts:
+  - "42.5"
+  - "131.1"
+---
 Catrin of Kernow (d. 1233) was an influential figure in Tetrarchic [[Borland]].
 # Family
 Catrin of Kernow was the elder sister of King Alan VI of [[Devon|Greater Devon]], who orchestrated the [[Realignment of Devon]] in 1225. Their uncle was [[Pope Damian VI|Damian the Wise]], the first (Roman) Pope to be elected from among the Brethin religious order.

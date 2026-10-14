@@ -1,3 +1,11 @@
+---
+type: polity
+place:
+  - "[[Italy]]"
+posts:
+  - "145.5"
+  - "159.1"
+---
 Furlain (Merch pronunciation /fʊːˈləin/, endonym **Furlagne** /furˈlaɲə/) is a polity in the northeast of the Italian peninsula, whose principal cities are [[Verona]] and [[Udine]]. It borders [[Lombardy]] to the west, [[Bavarn]] to the north, [[Crain]] to the east, and [[Venise]] to the south.
 
 ## History

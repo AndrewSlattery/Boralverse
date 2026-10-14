@@ -1,3 +1,14 @@
+---
+type: person
+role: prince
+dates: d. 1453
+year: 1453
+place:
+  - "[[Vascony]]"
+  - "[[Tolose]]"
+posts:
+  - "134.5"
+---
 Mark of [[Tolose]] (d. 1453) was the son of King [[Ambrose II of Vascony|Ambrose II]] of [[Vascony]], and the father of King [[Ambrose III of Vascony]], both of whom he predeceased.
 
 He married [[Margaret of Iscombe]] shortly before 1435. Along with Ambrose, they had three other children: their first child [[Alexandra of Vascony|Alexandra]], and two younger children [[Victor of Astorga]] and Natalia.

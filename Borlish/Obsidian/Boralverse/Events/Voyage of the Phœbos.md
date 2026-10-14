@@ -1,3 +1,13 @@
+---
+type: event
+aliases:
+  - Phœbos
+dates: early 16th c.
+place:
+  - "[[Britain]]"
+posts:
+  - "100.5"
+---
 The Phœbos was a flagship of the Kingdom of [[Britain]] in the early sixteenth century. Having profited greatly from the disruption of the [[Wars of Fealty]], Britain under [[Howel of Britain|King Howel]] sought to extend its trade mesh past its posts down the west African coast and into Asia directly.
 
 To this end, ships led by the Phœbos (captained by mac Kellot) were tasked with sailing as far east as possible. After rounding Africa and making port in such places as [[Ungotia]], they were directed by [[Uman|Umanick]] and then [[Chinese]] traders. Via [[Gurjat]] and [[Madray]], they eventually arrived in [[Borune]], at that time the southeasternmost land known in the [[Vetomund]].

@@ -1,3 +1,14 @@
+---
+type: organisation
+aliases:
+  - Sunday Sheets
+dates: from 1871
+year: 1871
+place:
+  - "[[Marsella]]"
+posts:
+  - "58.5"
+---
 Fiellas Dimenja (English: Sunday Sheets) is a weekly newspaper almost continuously published from [[Marsella]] since its incorporation in 1871. The paper's notional remit comprises entertainment and recreational news, although in practise it has regularly covered weightier subjects.
 
 ## History

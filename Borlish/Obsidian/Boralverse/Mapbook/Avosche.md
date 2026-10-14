@@ -1,3 +1,11 @@
+---
+type: region
+place:
+  - "[[Willemy]]"
+posts:
+  - "69.5"
+  - "138.1"
+---
 Avosche (Paris French /aˈvɔːʃ/, Willem Dutch /ˈa.vusx/) is a political subregion of [[Willemy]] centred on the city of [[Axton]] (Grand-Aix /gʀãˈdɛis/, Aughen /ˈɔ.xn̩/), with a strong regional identity. At various points a county, a duchy and a march, it has seen both continual territorial instability (situated between French and German powers) and major urban development into the modern period.
 
 ## Etymology
@@ -8,7 +16,7 @@ Compare the English surname Davush (Merch /daːʃ/, Kentish /ˈdaː.vɪʃ/), whi
 ## History
 The County of Avosche emerges shortly after the split of the [[Kingdom of the Franks]] and the concomitant creation of [[Willemy]]. The founding house of Avosche was soon after superseded by marriage by the neighbouring House Nassow (which originated in Francony).
 
-The county was elevated to a duchy in the early sixteenth century, with [[Roger d'Avosche]] becoming the first duke. At this time the region was ruled by France. Roger's daughter, [[Adaillé Nassow, Duchess d'Avosche|Adaillé Nassow]], succeeded him and went on to rule for many decades until her death in 1608. 
+The county was elevated to a duchy in the early sixteenth century, with [[Roger Nassow, Duke d'Avosche|Roger d'Avosche]] becoming the first duke. At this time the region was ruled by France. Roger's daughter, [[Adaillé Nassow, Duchess d'Avosche|Adaillé Nassow]], succeeded him and went on to rule for many decades until her death in 1608. 
 
 During her reign Adaillé accrued significant influence over her liege [[David of France]]. This was punctured by the scandal of her grandson and heir apparent Déricque fleeing to [[New Provence]] in 1589.
 

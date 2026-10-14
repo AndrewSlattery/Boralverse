@@ -1,3 +1,12 @@
+---
+type: region
+borlish: Sothbar
+place:
+  - "[[Borland]]"
+posts:
+  - "94.5"
+  - "130.5"
+---
 Southbar (Borlish Sothbar /sɔθˈbar/ \[sʊhˈbɐː\]) is a region of [[Borland]] in the southwest of the island. Its largest population centre is the city of [[Axbane]].
 ## History
 The petty kingdom of Southbar was founded by Angle immigrants in the fifth century, along with [[Angland]] and several more minor kingdoms. It quickly established itself in opposition to Angland and to the rump sub-Roman Borlish state. At the turn of the ninth century it saw an influx of immigration from East Anglia after it was subjugated by [[Markland]].

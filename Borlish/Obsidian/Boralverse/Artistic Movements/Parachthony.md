@@ -1,3 +1,13 @@
+---
+type: genre
+aliases:
+  - parachthon
+  - parachthon romance
+  - parachthon art
+posts:
+  - "61.5"
+  - "105.1"
+---
 Parachthon art refers to works depicting a world different from the real world, encompassing everything from merely divergent histories to entirely invented settings. The word parachthon was coined in the mid-nineteenth century and derives from the Ancient Greek prefix *παρα-* 'beside, contrary to'" (cognate with Latin *prae-* and English *fore-*) attached to the root *χθών* 'ground, soil, earth, world' (cognate with Latin *humus* 'soil'.)
 
 # History

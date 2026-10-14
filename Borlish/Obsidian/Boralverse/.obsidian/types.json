@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "type": "text",
+    "borlish": "text",
+    "role": "text",
+    "author": "text",
+    "form": "text",
+    "language": "text",
+    "original-title": "text",
+    "dates": "text",
+    "year": "number",
+    "place": "multitext",
+    "posts": "multitext"
+  }
+}

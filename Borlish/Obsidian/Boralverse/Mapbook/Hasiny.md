@@ -1,3 +1,11 @@
+---
+type: polity
+place:
+  - "[[British Mendeva]]"
+posts:
+  - "118.5"
+  - "145.1"
+---
 Hasiny is the largest and most populous of the polities of [[British Mendeva]]. This refers to the region of [[Mendeva]] which have undergone significant settlement from or otherwise been significantly influenced by the Kingdom of [[Britain]].
 
 Hasiny is centred on the lower parts of the watershed of the Bahassassin River, but its lands extend sufficiently far northeast so as to share a short border with [[New Provence]] along part of the [[Sturgovan Mountains|Sturgovan]] range. It borders the polity of [[Taisha]] to the west, and its capital city is [[Nadacow]], which lies on the Bahassassin.

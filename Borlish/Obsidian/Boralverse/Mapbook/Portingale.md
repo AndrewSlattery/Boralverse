@@ -1,3 +1,11 @@
+---
+type: polity
+place:
+  - "[[Spain]]"
+posts:
+  - "55.5"
+  - "234.1"
+---
 Portingale is a polity in the western part of the Spanish peninsula, bordering [[Vascony]] and [[Andalus]], both of which have in the past conquered parts of its territory.
 # History
 

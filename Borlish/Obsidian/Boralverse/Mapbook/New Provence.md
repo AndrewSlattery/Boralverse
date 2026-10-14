@@ -1,3 +1,10 @@
+---
+type: polity
+place:
+  - "[[Mendeva]]"
+posts:
+  - "27.5"
+---
 New Provence is a coastal polity in the east of [[Mendeva]]. It is named for [[Provence]], a small [[Middlesea]] state whose trading ships first set up trading posts along the coast of Mendeva in the early sixteenth century.
 
 The country borders [[Ambrosia]] to the north, the states of [[Gulf Mendeva]] to the south, and it shares a short border with [[Hasiny]] to the southwest. It extends inland in places as far as the [[Sturgovan Mountains]].

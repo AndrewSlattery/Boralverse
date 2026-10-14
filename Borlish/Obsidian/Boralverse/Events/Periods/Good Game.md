@@ -1,3 +1,12 @@
+---
+type: period
+aliases:
+  - Good Game period
+dates: late 19th c.
+posts:
+  - "78.5"
+  - "110.1"
+---
 The Good Game period refers to the final decades of the nineteenth century, especially when construed as a time of rising global powers formed of alliances and meshes of trade and technology binding the world together. It conventionally follows the [[Global Workshop]] period of spreading industry and ends with the outbreak of the [[Millstone War]].
 
 The same [[Laic Declarations]] of Belgrade in 1850 which prefigured the social and moral shifts of the [[Household Renovation]] also set the stage for the political realignment of the Good Game decades, which new alliances between states that could not have countenanced such ties even a generation earlier. 

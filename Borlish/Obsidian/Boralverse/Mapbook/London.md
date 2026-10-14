@@ -1,3 +1,12 @@
+---
+type: polity
+borlish: Londr
+place:
+  - "[[Albion]]"
+posts:
+  - "82.5"
+  - "118.1"
+---
 London (Borlish **Londr** /ˈlɔn.dr̩/) is a city and polity on the island of [[Albion]]. The city is downstream on the River Tames, and the polity comprises much of the Tames' watershed. It is bordered to the north by [[Markland]], the south by [[Kent]], and the west by [[Britain]].
 ## History
 London was established by the Romans shortly after their invasion around 50 N, named from a Kelt placename referring to the local floodplain.

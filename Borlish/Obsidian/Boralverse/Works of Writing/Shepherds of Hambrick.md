@@ -1,3 +1,12 @@
+---
+type: work
+author: "[[Sconet Ydreç]]"
+form: history
+language: Borlish
+original-title: Acr a Sauð Vellig
+dates: "2008"
+year: 2008
+---
 Shepherds of Hambrick: the Small History of Dane [[Borland]] (published originally in Borlish as **Acr a Sauð Vellig** "Acres of Docile Ewes") is a 2008 explanatory work intended for the lay audience and published by [[Cordin]] Editions. Its author, [[Sconet Ydreç]], was commissioned to write the text by her institution, the department for Concurrence History at the [[New Vithor University]].
 
 ## Quotes

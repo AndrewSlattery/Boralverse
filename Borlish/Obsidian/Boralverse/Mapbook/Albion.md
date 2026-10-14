@@ -1,3 +1,10 @@
+---
+type: island
+place:
+  - "[[Northwestern Isles]]"
+posts:
+  - "40.5"
+---
 Albion is the largest of the [[Northwestern Isles]], situated directly north of [[Gaul]]. To its west and east lie [[Ireland]] and [[Borland]], respectively.
 
 # History
@@ -32,7 +39,7 @@ The [[Long Peace]] around the turn of the nineteenth century saw the [[Deviance 
 - [[Britain]]
 - [[Drengot Collusion]]
 - Dunclothe
-- [[Kingdom of Greater Devon]]
+- [[Devon|Kingdom of Greater Devon]]
 - [[Kent]]
 - [[Markland]]
 - [[Northumber]]

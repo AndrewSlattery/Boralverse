@@ -1,3 +1,13 @@
+---
+type: alliance
+dates: mid-19th c. – 1961
+place:
+  - "[[Europe]]"
+posts:
+  - "34.5"
+  - "101.1"
+  - "129.1"
+---
 The Drengot Collusion was a multinational alliance-federacy in northwestern [[Europe]]. Named for the older Drengot Empires (themselves named for the Norman noble family who first united much of [[Gaul]] and [[Albion]]), it grew from various treaties in the mid-nineteenth century into the principal power in the region until its dramatic collapse in 1961.
 
 # History

@@ -1,3 +1,6 @@
+---
+type: grammar
+---
 The final syllable is usually stressed.
 ‹scadom tatover›
 /xaˈdɔm ˌta.toˈvɛr/
