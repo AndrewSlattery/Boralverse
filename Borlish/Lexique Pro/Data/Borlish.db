@@ -159,6 +159,20 @@
 
 \mn fin1
 
+\lx a gest
+\ps adv
+
+\ge de facto
+\ge in practice
+\ge in fact
+\ge actually
+
+\xv A gest, aucel son progenies jug dez dragon.
+\xe In fact, birds are descended from dinosaurs.
+
+\et a Middle Borlish borrowing from legal Latin ad gestum "de facto", literally "to the deed", along with parallel formation a verb < ad verbum "de jure", literally "to the word". In general contexts it is seen from the sixteenth century.
+\mn gest
+
 \lx a groglon
 \ps adj
 
@@ -710,7 +724,7 @@
 \ge butter up
 \ge chat up
 
-\xv M'orruðe l'ouger er nos abrevant auvorn.
+\xv M'orruða l'ouger er nos abrevant auvorn.
 \xe I thought the host gave us lots to drink.
 
 \et from Old Borlish abrevar "to water", likely borrowed from Old French synonymous abrever in Old French. This is a metathetic variant of abevrer, which descends from Vulgar Latin abbiberō "I water" (which the Old Borlish may alternatively reflect directly), a derivative of Classical bibō "I drink". The word's association with alcohol and social gatherings shows influence from slang term abrevað "tipsy, squiffy, somewhat drunk", literally "watered".
@@ -2449,6 +2463,22 @@
 \ge study of chemicals
 
 \et Middle Borlish < Arabic < Ancient Greek
+
+\lx alçor
+\ps adj
+
+\ge higher
+\ge further
+\ge additional
+\ge advanced
+\ge tricky
+\ge 4-D
+\ge clever
+
+\xv L'a un vellisqment alçor.
+\xe She's playing 4D chess.
+
+\et eighteenth century, originally in universities to refer to subjects like Rhetoric Alçor "Higher Rhetoric"; a direct borrowing from Latin altior "higher". Eventually the word was applied to institutions as a whole, like the Schol Alçor de Nadacou "Nadacow Higher School". Its vernacular extension originates in student slang during the Good Game period.
 
 \lx alcot
 \ps question word
@@ -4248,6 +4278,24 @@
 
 \et Old Borlish < Latin
 
+\lx ascreuçon
+\ps n
+
+\ge assignment
+\ge allocation
+\ge attribution
+\ge imputation
+\ge credit
+\ge categorisation
+\ge classification
+\ge ranking
+
+\xv Ajoutaç alcot a tu dell'ascreuçon n'Adighe?
+\xe How are you enjoying your assignment to Adigh?
+
+\et seventeenth-century noun form derived from ascreir "ascribe, impute, attribute, assign" by analogy with nouns like parceuçon "perception" from parcevir "to perceive". The verb reflects Latin ascrībō "I appoint, enrol, insert, add in writing".
+\mn ascreir
+
 \lx asculdað
 \ps adj
 
@@ -5665,7 +5713,8 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 \ps n
 
 \ge tub
-\ge bowel
+\ge bowl
+\ge basin
 
 \et Vulgar Latin baccinum < Gaulish
 
@@ -7336,6 +7385,29 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 
 \et Old Borlish < Vulgar Latin
 
+\lx borel
+\ps n
+
+\ge idiot
+\ge fool
+\ge numpty
+\ge nincompoop
+\ge numbskull
+\ge dunderhead
+\ge sap
+\ge patsy
+\ge rube
+\ge chump
+\ge schmuck
+\ge yokel
+\ge bumpkin
+\ge rustic
+
+\xv L'agathin la nommau de borel a phasm prose.
+\xe The minister called her an idiot on live TV.
+
+\et disputed. The word is seen from the early Middle Borlish period with indeterminate meaning. Possibly a diminutive from an unattested *bour "peasant", which would have been borrowed from Old English (ġe)būr "farmer". Otherwise, perhaps a direct descendant from Latin puerīlis "youthful; childish". However, both explanations require somewhat irregular sound changes.
+
 \lx borjon
 \ps n
 
@@ -7437,7 +7509,7 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 \ge bad press
 \ge opprobrium
 
-\xv Dou madarc interromoirn un bosaç ny routel.
+\xv Dou madarc interrompoirn un bosaç ny routel.
 \xe Two cops interrupted a shoutout in the alley.
 
 \et 20C, pejorative or augmentative derivation from bos "gun"; attested almost immediately in the metaphorical senses.
@@ -7822,6 +7894,24 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 \ge over-dress
 
 \et Middle Borlish < Old Aquitain < Italian < Latin
+
+\lx broðoquin
+\ps n
+
+\ge gibberish
+\ge gobbledegook
+\ge nonsense
+\ge babble
+\ge double Dutch
+\ge bullshit
+\ge tosh
+\ge balderdash
+\ge poppycock
+
+\xv Jo vay noc a l'ec broðoquin scoutar.
+\xe I don't have to listen to this bullshit.
+
+\et fourteenth century with various spellings, originally meaning "the language of non-Borlish speakers on Borland, especially of the northern Norrish speakers". Both Norrish and English languages had been spoken for several centuries on the north and west of the island, respectively. The word is presumed to be an adaptation of the Borland Norrish phrase broð oc vin "bread and wine" (the alternative broðr oc ven "brother and friend" is considered less plausible).
 
 \lx brogmoð
 \ps n
@@ -9078,7 +9168,7 @@ Metaphorical usage is seen from the seventeeth century, while the modern adminis
 \et descendant of Latin carduus or cardō "wild thistle".
 
 \lx cardonnar
-\ps n
+\ps ar v
 
 \ge card
 \ge tease
@@ -9962,6 +10052,24 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ge water bottle
 
 \et Old Borlish < Vulgar Latin
+
+\lx cay seg a veðerrem
+\ps interj
+
+\ge say no more
+\ge wink wink
+
+\ps n
+
+\ge elephant in the room
+
+\xv Quippe alcun hom nil y budr de cay-seg-a-veðerrem svoccar.
+\xe Surely nobody will mention the looming elephant in the room.
+
+\et idiom first attested in this form in the late eighteenth century but having many variants beforehand; literally "it takes six (months) for the eldest (child)". This refers to a couple's first child being born only six months after the wedding, a situation where it is clear to everyone what happened but to mention it explicitly would be impolite.
+\mn cair
+\mn segs
+\mn veðerrem
 
 \lx ce
 \ps n
@@ -15480,6 +15588,23 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et Middle Borlish < Welsh
 
+\lx daugnam
+\ps n
+
+\ge prat
+\ge ninny
+\ge dupe
+\ge patsy
+\ge tosser
+\ge jerk
+
+\xv Ty fraðr es untal daugnam incaint sceir sy lucr volar.
+\xe Your brother's the kind of dupe who'll get his money stolen.
+
+\et borrowed in the late nineteenth century from Markland English daugnam /ˈdəwg.nəm/ "contemptible man, idiot"; the word's etymology often mistakenly linked to Sarzan Dawkinholm (whose surname was pronounced the same), long-serving and much-lambasted Outland Minister in Markland at the time.
+
+In fact, the surname and the word both descend from variously-spelt epithets for illegimate offspring in the royal houses of medieval Albion. These are Anglicisations of the Norman daucun houme "from nobody"—compare modern Borlish alcun hom /ˌa.gɪˈnɔm/ "nobody".
+
 \lx ðaugr
 \ps n
 
@@ -18596,6 +18721,16 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 
 \et Old Borlish < Latin
 
+\lx dorangot
+\ps n
+
+\ge overcoat
+
+\xv Jo sarrau voloppant y dorangot atorn.
+\xe I pulled the overcoat tight around me.
+
+\et from the eighteenth century, borrowed from Paris French dourangote "riding coat, overcoat". This is adapted from the now-obsolete Kentish term Durham-coat, named for the city in Northumber.
+
 \lx ðorar
 \ps ar v
 
@@ -19846,6 +19981,20 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \mn eir
 \mn lonc
 \mn far
+
+\lx eir sauf a
+\ps r v
+
+\ge come close to
+\ge all but
+\ge almost
+
+\xv J'eu sauf a lou sveilar n'ortellent atras.
+\xe I nearly woke them up as I snuck past.
+
+\et idiom literally "to go except to", first attested in the fifteenth century. The verb eir "to go" descends directly from Latin eō "I go", while the preposition sauf "except" is slightly problematic. The regular descendant of Latin salvus "free (of)" should be sau; the final -f may be due to influence from Old French.
+\mn eir
+\mn sauf
 
 \lx el
 \ps n
@@ -21858,6 +22007,26 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 
 \et Latin
 
+\lx fabr
+\ps n
+
+\ge tale
+\ge story
+\ge narrative
+\ge play
+\ge production
+\ge performance
+\ge drama
+\ge adventure
+\ge excitement
+\ge matter
+\ge concern
+
+\xv Nos vail tout un picq pog de fabr a nossy jorn.
+\xe We could all do with a bit less excitement in our lives.
+
+\et from Old Borlish fable "fable, tale" a semi-learned borrowing (possibly via Old French) from Latin fabula "narrative, story". Seen in the sense of "play" from the thirteenth century, which may be an independent development or perhaps influenced by Classical usage of fabula to mean "poem, dramatic narration". The philosophical sense, first seen in the nineteenth century, is definitely a learned use from the Classical word, which could be used in that way.
+
 \lx fabricar
 \ps ar v
 
@@ -22212,7 +22381,7 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ge pipe dream
 \ge castle in the air
 
-\xv Toð gent dema l'ig autonomy Rurtagn no sta for un fancy.
+\xv Toð gent deman l'ig autonomy Rurtagn no sta for un fancy.
 \xe Everyone said Ruritanian independence was a pipe dream.
 
 \et a Middle Borlish contraction of fantasy "imagination, concept, idea". This descends from Latin phantasia "notion; phantom; imagination", which was borrowed from Greek φαντασίᾱ • phantasíā "appearance, image". The extension of the word to showy displays, first seen in philosophical Borlish in the eighteenth century, may reflect knowledge of the Greek etymon (which was used similarly).
@@ -23237,6 +23406,41 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ge loiter
 
 \et Middle Borlish < Old Norse
+
+\lx flasq
+\ps adj
+
+\ge limp
+\ge sagging
+\ge flaccid
+\ge flabby
+\ge flimsy
+\ge loose
+\ge unenthusiastic
+\ge half-hearted
+\ge dispassionate
+\ge tepid
+\ge pathetic
+\ge pitiful
+\ge hapless
+
+\xv Jo scavoy un grinment flasq dy melodram.
+\xe I wrote an unenthusiastic review of the show.
+
+\et borrowed in the Middle Borlish period from early Norman flasque "soft, malleable". This appears to be a hypercorrected variant of earlier flaque, descending from Latin flaccus "flabby, sagging". The unetymological /s/ would reflect analogy from other words whose coda /s/ had been lost in Parisian French. The term has been applied to emotion since the seventeenth century, and to people since the nineteenth.
+
+\lx flaut
+\ps n
+
+\ge boating
+\ge sailing
+\ge fleet
+\ge armada
+
+\xv Ðe faun flaut casc juglot.
+\xe They go boating each July.
+
+\et direct descendant from Old Borlish flaut "fleet, group of ships", a borrowing from Old English flēot "ship, group of ships" (related to float).
 
 \lx fleiçar
 \ps ar v
@@ -30793,6 +30997,25 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \mn poðir
 \mn star
 
+\lx ja sceint
+\ps adj
+
+\ge extant
+\ge in existence
+\ge surviving
+\ge attested
+\ge recorded
+\ge present
+\ge in evidence
+\ge preexisting
+
+\xv Cay gravatoir y massem de descovan ja sceint dy siecr catorç.
+\xe It's the largest collection of extant fourteenth-century folios.
+
+\et phrase meaning "still being there", used as legal jargon from the early Middle Borlish period. The adverb ja "already, still, yet" descends directly from Latin iam "already, now" (the homonym ja "yes" is a Germanic borrowing and thus likely unrelated). The participle sceint "being there, existing" comes from the verb sceir "for there to be" used in existential sentences (scey uncos "there is something"). This descends via Old Borlish seer, sier, scer "exist, be located" from Latin sedeō "I sit".
+\mn ja
+\mn sceint
+
 \lx jacas
 \ps n
 
@@ -32058,7 +32281,7 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge argument
 \ge controversy
 
-\et Old Borlish < Latin
+\et Old Borlish < Latin querēla
 
 \lx kerel trocar
 \ps ar v
@@ -32077,6 +32300,26 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ge argue
 
 \et Old Borlish
+
+\lx kerellabr
+\ps adj
+
+\ge controversial
+\ge arguable
+\ge disputed
+
+\et Old Borlish
+
+\lx kerellaç
+\ps n
+
+\ge row
+\ge spat
+\ge tiff
+\ge argy-bargy
+
+\et pejorative noun from kerellar "quarrel".
+\mn kerellar
 
 \lx keren
 \ps n
@@ -33099,6 +33342,22 @@ Old Borlish < Latin illa
 \et idiom meaning "donkey's work", attested from the eighteenth century.
 \mn laur1
 \mn asn
+
+\lx laur mettr coll'un man
+\ps r v
+
+\ge take matters into one's own hands
+\ge shoulder responsibility
+\ge get to work
+\ge masturbate
+
+\xv Ða vos nouð l'occeir jo met laur coll'un man!
+\xe If you won't kill him then I'll do it myself!
+
+\et Idiom in use since the Middle Borlish period, literally "to put work with the one hand". It is an extension of preexisting laur mettr "to tackle an issue, to take a job", from now-rare laur "work" < Latin labor (or a deverbal from laurar "to work") and mettr "to put" < Latin mittō "I send". In the last sense, first attested in writing in 1883 (possibly; more certain usages by the early c20), via a lewd reinterpretation of the literal sense of the idiom.
+\mn laur1
+\mn mettr
+\mn man
 
 \lx laurar
 \ps ar v
@@ -34167,6 +34426,29 @@ Old Borlish < Latin illa
 
 \mn tan
 
+\lx lon theu
+\ps adv
+
+\ge idly
+\ge carelessly
+\ge thoughtlessly
+\ge mindlessly
+\ge unintentionally
+\ge accidentally
+\ge by accident
+\ge by mistake
+\ge by chance
+\ge unexpectedly
+\ge coincidentally
+\ge spontaneously
+
+\xv Y stuðant er y scaumel maneyant lon theu.
+\xe The student was idly fidgeting with the pen.
+
+\et phrase meaning "without will", attested from the Old Borlish period. The preposition lon "without, lacking" is thought to descend from Latin adverb longē "far away, for a long time". The noun theu "will, habit" was borrowed in the Old Borlish period from Old English þēaw "wont, behaviour". Extension to happenstances and mistakes is seen from the early modern period.
+\mn lon
+\mn theu
+
 \lx lon voç
 \ps adj
 
@@ -35094,13 +35376,26 @@ Old Borlish < Latin illa
 \mn magn
 \mn hour
 
-\lx magnfeyant
+\lx magnfayent
 \ps adj
 
-\ge gorgeous
-\ge handsome
+\ge splendid
+\ge sumptuous
+\ge magnificent
+\ge august
+\ge eminent
+\ge munificent
+\ge generous
+\ge magnanimous
+\ge accomplished
+\ge impressive
+\ge grandiose
+\ge overblown
 
-\et Old Borlish < Late Latin
+\xv Nos n'ayau jamay nuçal tan magnfayent assistuð.
+\xe We'd never attended such a magnificent wedding.
+
+\et late Old Borlish maȝn faȝent (also as one word), a calque adaptation of Latin magnificus "great, splendid" as maȝn "much, a lot" and faȝent "doing", from Latin magnus "big" and faciēns "doing, making". Unambiguously ironic or deprecatory usage is seen only from the late nineteenth century.
 
 \lx magntumn
 \ps n
@@ -38713,6 +39008,20 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \et Old Borlish < Latin
 
+\lx nacleu n'oc ort
+\ps adj
+
+\ge looking up
+\ge optimistic
+\ge on the up
+
+\xv Posc je Pasq sta jo nacleu n'oc ort.
+\xe After Easter things were looking up.
+
+\et idiom first attested in Manuel Kigman's poetry of the fifteenth century, literally "sloping in the ascent". The noun ort "lift, rise, ascent" directly reflects Latin ortus "risen, originated, appeared" (and given the lack of early attestations it may be a reborrowing), while nacleu is from Latin acclīvis "steep".
+\mn nacleu
+\mn ort
+
 \lx nað
 \ps adj
 
@@ -39422,6 +39731,27 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 \ge nought
 
 \et Old Borlish < Latin
+
+\lx nienter
+\ps adj
+
+\ge void
+\ge empty
+\ge vacant
+\ge useless
+\ge ineffective
+\ge futile
+\ge vain
+\ge invalid
+\ge worthless
+\ge nihilist
+\ge pessimistic
+
+\xv L'arra oç saut ig caye sy mariðaç dovem nienter.
+\xe He must have known his second marriage was void.
+
+\et adjective derivation from nien "nothing" (earlier nient), which reflects either nē gentem "no person" or nē entem "no being" in Late Latin. Even in early texts the word has seldom been used literally (competing with vogt "empty"); senses to the effect of "amounting to nothing" predominate.
+\mn nien
 
 \lx nievr
 \ps n
@@ -47496,6 +47826,21 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Middle Borlish < Latin
 
+\lx protagoneyar
+\ps ar v
+
+\ge star in
+\ge lead
+\ge dominate
+\ge predominate
+\ge drive
+\ge be the talk of
+
+\xv Jo lo memour noc cu protagoney l'oç lasc.
+\xe I can't remember who stars in that film.
+
+\et nineteenth century, verbal derivative based on the noun protagonist "lead actor, dominating factor". This is an early modern borrowing via Scholastic Latin from Greek πρωταγωνιστής • (prōtagōnistḗs) "lead actor". The word is attested in non-dramatic usage from the early twentieth century.
+
 \lx protas
 \ps n
 
@@ -48020,43 +48365,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \ge queen
 
 \et Old Borlish < Old English
-
-\lx querel
-\ps n
-
-\ge quarrel
-\ge argument
-
-\et Laitn querēla
-
-\lx querellabr
-\ps adj
-
-\ge controversial
-\ge arguable
-\ge disputed
-
-\et Old Borlish
-
-\lx querellaç
-\ps n
-
-\ge row
-\ge spat
-\ge tiff
-\ge argy-bargy
-
-\et pejorative noun from querellar "quarrel".
-\mn querellar
-
-\lx querellar
-\ps ar v
-
-\ge quarrel
-\ge argue
-
-\et verb from querel "quarrel"
-\mn querel
 
 \lx quesq
 \ps n
@@ -48831,6 +49139,24 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 \ge scratch
 
 \et Old Borlish < Vulgar Latin
+
+\lx rascettongar
+\ps ar v
+
+\ge sparkle
+\ge twinkle
+\ge scintillate
+\ge crackle
+\ge spark
+\ge engross
+\ge fascinate
+\ge captivate
+\ge spellbind
+
+\xv Jo cossir tell'yam rascettongandessem.
+\xe I find your uncle more fascinating.
+
+\et verbalisation of Middle Borlish noun (ra)scetonc "spark, flash of light", [the initial ra- seems for a while to have been reanalysed as an intensive prefix] from Old English adjective ræscettung "sparkling, gleaming". The related verb ræscettan "crackle" reaches western dialects of Borlish as scettar "[of metal] to glitter, to be valuable" (possibly influenced in meaning by scet "coin").
 
 \lx rascou
 \ps n
@@ -52514,6 +52840,27 @@ The word itself is a borrowing from Old French sarrazin "Muslim, Saracen" reflec
 
 \et Old Borlish < Medieval Latin < onomatopoeia
 
+\lx sbayour
+\ps n
+
+\ge bystander
+\ge onlooker
+\ge witness
+\ge spectator
+\ge rubbernecker
+\ge voyeur
+\ge peeping Tom
+\ge gossip
+\ge busybody
+\ge quidnunc
+\ge nosy parker
+
+\xv Toð gent saun ig cay ty morrig un sbayour jaçol.
+\xe Everyone knows your aunt's an inveterate gossip.
+
+\et first seen with the later senses in the nineteenth century, agentive derivation from sbayar "gawp, goggle". This reflects Medieval Latin exbadō "I gape", from early slang verb badō "I yawn". Originally the term was exclusive negative or insulting; by the early twentieth century more neutral usage begins to be attested.
+\mn sbayar
+
 \lx sbloðir
 \ps ir2 v
 
@@ -53522,6 +53869,20 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \et Old Borlish < Latin
 
+\lx scon stemn
+\ps adj
+
+\ge second (cousin)
+\ge unprototypical
+\ge non-central
+
+\xv Jo save noc tu aus cosvour scon stemn n'Ambrosia!
+\xe I didn't know you had second cousins in Ambrosia!
+
+\et literally "second lineage"; the adjective scon derives directly from Latin secundus "second" with some irregular reduction (to wit, sporadic loss of the pretonic vowel), while the noun stemn reflects Old Borlish stemn "(plant) stem, sapling", from the synonymous Old English stemn. In metaphorical usage, seen from the sixteenth century.
+\mn scon
+\mn stemn
+
 \lx scondr
 \ps r v
 
@@ -54296,6 +54657,25 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge top-notch
 
 \et Middle Borlish < Latin
+
+\lx semblant
+\ps n
+
+\ge ilk
+\ge kind
+\ge sort
+\ge type
+\ge appearance
+\ge look
+\ge aspect
+\ge mien
+\ge countenance
+\ge expression
+
+\xv Jo poð ceu segr de tal semblant pacentar.
+\xe I have little patience for men of that ilk.
+
+\et from Old French semblant "appearance; resemblance; the look on one's face", originally the present participle of sembler "to seem, resemble", itself from synonymous similāre in Vulgar Latin, a refashioning of Classical similis "like, similar". In the modern language the term usually has dismissive or otherwise deprecating connotations.
 
 \lx semman
 \ps n
@@ -56239,7 +56619,7 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge orgasm
 \ge climax
 
-\xv Y sounç d'abat interromoy eç accommission corrogaçonnal.
+\xv Y sounç d'abat interrompoy eç accommission corrogaçonnal.
 \xe War breaking out interrupted those infrastructure projects.
 
 \et nominal derivative from verb souvr "solve, let go, release, launch", from solvō "I loosen, untie"; or, directly from a Latin noun solventia "a loosening, an untying". In the last sense attested from as early as the eighteenth century in erotic literature; the term continues to be dispreferred in formal or technical contexts.
@@ -57483,6 +57863,32 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \mn clavir
 \mn man
+
+\lx star luïscent a
+\ps ar v
+
+\ge have to do with
+\ge be related to
+\ge be relevant to
+
+\xv My commission hander no's bogr luïscent all'occijon.
+\xe My sex life has nothing to do with the murder.
+
+\et idiom first attested in the fifteenth century, literally "to be playing at" and likely derived via the sense "to be participating in (some activity)". The participle luïscent "playing" comes from luïr "to play", which descends from a late Insular Latin lūdīre, lūdēscere "to play". These are both conjugational regularisations of lūdere in Classical Latin.
+\mn star
+\mn luïr
+
+\se ney ne Nivon
+\ps interj
+
+\ge what's that got to do with anything
+\ge what's that got to do with the price of fish
+
+\xv Com es oc luïscent a ney ne Nivon?
+\xe What's that got to do with anything?
+
+\et literally "What does this have to do with snow in Japan?", first used in the nineteenth century and of obscure motivation; perhaps just in reference to the unlikelihood of snow in Japan affecting anything in Borland. The noun ney "snow" reflects Latin nix, nivem "snow", while the placename Nivon "Japan" is a sixteenth-century borrowing eventually from 日本, contemporaneously pronounced /niˈɸon/.
+\mn ney
 
 \lx star sull'oc barstant
 \ps ar v
@@ -59531,7 +59937,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge be horny
 \ge be aroused
 
-\xv Nos orruðe casc y gent ausn taur a ençar destr.
+\xv Nos orruða casc y gent ausn taur a ençar destr.
 \xe It looked like everyone was eager to get going.
 
 \et literally "to have bull", idiom attested (in the slightly different sense of impulsiveness) from the sixteenth century. The last sense is attested sporadically from the late nineteenth century and reached its peak popularity in the mid-twentieth.
@@ -62128,6 +62534,19 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et late medieval borrowing from non-classical Latin ubīquitās "ubiquity", nominal derivation of ubīque "everywhere". Applied in philosophical contexts throughout the Latinate Vetomund from the sixteenth century, and used in particular for Ubiquity (originally as an insult) in 1848, in the translation of lady explorer Poshack Nerwaman's dismissive critique of political developments in Mashick.
 
+\lx udomintel
+\ps n
+
+\ge nanny
+\ge wet nurse
+\ge babysitter
+\ge childminder
+
+\xv Jo vel hur dar an udomintel.
+\xe I would like to hire a babysitter.
+
+\et nineteenth-century borrowing from Italian udomintello "nursemaid, wet nurse", which is an adaptation of earlier and synonymous Furlain udomitel; the insertion of -n- is thought to be by analogy with other household words from the Latin words domus "house", dominus "master, lord". In turn, the Furlain is taken from neighbouring Crovatian udomiteł "foster parent, adoptive parent", an agentive derivation of udomiti "to shelter, give home to".
+
 \lx ugnlac
 \ps n
 
@@ -62222,6 +62641,25 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \ge to grow on someone
 \ge for someone to get used to (something)
+
+\lx un tarç dagr
+\ps n
+
+\ge neither fish nor fowl
+\ge grey area
+\ge ambiguity
+\ge maverick
+\ge renegade
+\ge iconoclast
+\ge law unto oneself
+
+\xv L'ec aldr aun ja un tarç dagr me rent.
+\xe With these parents I've been neither fish nor fowl.
+
+\et clipped form of earlier proverb no plom ben aur ja tarç dagr "neither lead nor gold but [a] secret third [thing]". This has itself been frozen in an archaic dialect due to its appearance in the evergreen plays of Kinollesau—in Modern Borlish we might instead see necun plom ben aur, aglon un treyem scos.
+
+The word tarç "third" descends directly from synonymous Latin tertius and now exists in complementary distribution with later derivation treyem < trēs "three". The disused adjective dagr "secret, hidden, unknown" comes via Old Borlish daȝl, daȝr from Old English deagol "secret, obscure, dark".
+\mn tarç
 
 \lx unanim
 \ps adj
@@ -63652,7 +64090,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \ge sell
 
-\et Middle Borlish < Vulgar Latin
+\et Middle Borlish < Vulgar Latin vendicāre “sell”.
 
 \lx vençon
 \ps n
@@ -64406,6 +64844,29 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Middle Borlish < Middle French
 
+\lx vis
+\ps adv
+
+\ge evidently
+\ge of course
+\ge manifestly
+\ge as you know
+\ge in fact
+\ge actually
+\ge in reality
+\ge indeed
+\ge it transpires
+\ge it turns out
+\ge apparently
+
+\xv Vis no som nos jamay eut a Duncloð.
+\xe We've actually never been to Dunclothe.
+
+\et extracted in the late Middle Borlish period from expressions like vis es… "it is seen that…", as the past participle of veir "to see" < Latin videō "I see". Speculation that it is instead a retention of Old Borlish ivis "sure, certain", a borrowing from synonymous Old English gewiss, is unsupported by any intermediate attestations (though cf modern Merch awice /əˈwəis/ "indeed, yes").
+
+The word is often found in the collocation Or vis… "Well, actually…", especially when it is used at the start of sentences.
+\mn veir
+
 \lx visaç
 \ps n
 
@@ -64581,7 +65042,7 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge accessory
 \ge abettor
 
-\xv Sy vlangr porra noc y diamant vendr pre annað.
+\xv Sy vlangr porra noc y diamant vençar pre annað.
 \xe Her fence won't be able to sell the diamonds for years.
 
 \et mid-19C in underworld slang, imported from the slightly earlier British form recorded in the Glamour of Deganny. This in turn reflects Suahile [Swahili] valanguri, plural of mlanguri "healer", used in Ongutian [Zanzibari] argot to mean "profiteer, black marketeer". The Borlish term was popularised outside criminal circles by its use in a series of high-profile mob trials in the first decade of the twentieth century.
@@ -65300,6 +65761,23 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et An alteration of earlier vugrar, borrowed in the Old Borlish period from Old English wyrġan "to strangle, worry".
 
+\lx vunnastr
+\ps adj
+
+\ge merry
+\ge jolly
+\ge festive
+\ge brisk
+\ge lively
+\ge tipsy
+\ge a bit drunk
+\ge slightly inebriated
+
+\xv Nos broucaum un crevoscr vunnastr accougl.
+\xe We spent a merry evening together.
+
+\et from Old Borlish wunuast(re) "joyful, joyous", the first part of which is thought to be cognate to Old English wynn "joy, happiness". Direct borrowing of the noun is considered unlikely, however, since it was uncommon in prose and usually confined to poetry. The most commonly held view is that the Old Borlish is borrowed from the derived adjective wynfæst "joyful", with the final -r being a later addition by analogy with other adjectives ending in -astre < Latin -aster, -astrum.
+
 \lx vurt
 \ps n
 
@@ -65761,6 +66239,21 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \ge female horse
 
 \et Old Borlish < Vulgar Latin
+
+\lx yela
+\ps interj
+
+\ge bye
+\ge ciao
+\ge goodbye
+\ge farewell
+\ge hello
+\ge hi
+
+\xv Le dis "Yela!" pre bouð souvr.
+\xe He said "Bye!" then hung up.
+
+\et via Middle Borlish yelað "farewell, goodbye" from Old Borlish vos ielað "may you fare well, be strong, abide, endure, persevere". This is a conjugated form of ieleir "abide, persist, persevere" (the would-be reflex yelir is obsolete by the fourteenth century), which is thought to reflect Latin haereō "I cling, adhere, remain fixed". As a greeting the word is attested from the early twentieth century.
 
 \lx yemal
 \ps adj

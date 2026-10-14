@@ -96,6 +96,7 @@ A: Correct!
 A: vau, vað, van. I've also added in the present sbj forms.
 - **Q7.** Past participle **eið** (C647, S16311) or **eut** (S13352 *Jo's eut may hellinar…*)?
 A: Ah, eið is a relic of previous iterations. We should resolve them all to eut.
+- E97 (2026-10-13): *pre tu vay*, *pre vos vayað* confirm the subjunctive 2SG **vay** and 2PL **vayað**.
 
 ## fair 'do, make' (*r v*)
 
@@ -185,6 +186,7 @@ Non-finite: infinitive **stovir**, present participle **stovent**, past particip
 
 - I've marked the 1st and 2nd person as non-existent because the grammatical subject is always the thing needed. Fill them in if they do exist.
 - **Q15.** Future **storra** (S28358, C2556) or **stoura** (S15604, S23106)?
+- E110 (2026-10-13): *L'oç me stovent es…* confirms the PRS.PTCP **stovent**, with an oblique experiencer.
 
 ## deïr 'owe; must' (*ir1 v*)
 
@@ -243,12 +245,15 @@ Non-finite: infinitive **volir**, present participle **volent**, past participle
 
 | | 1SG | 2SG | 3SG | 1PL | 2PL | 3PL |
 |---|---|---|---|---|---|---|
-| present | **nil** | **nil** | **nil** | noum? | **nouð** | **noun** |
+| present | **nil** | **nil** | **nil** | noum? | **nouð** | **noun** (E87) |
 | imperfect | **nole** | **nole** | **nole** | **nolau** | nolað? | **nolen** |
+| preterite | noleu | noleu | **noleu** (E107) | noleum? | noleust? | noleurn? |
 | pres. subjunctive | **nel** | **nel** | **nel** | **neleu** | **neleð** | neln? |
 | impf. subjunctive | **nolois** | **nolois** | **nolois** | noloisseu? | noloisseð? | noloisn? |
 
 Non-finite: infinitive **nolir**, present participle **nolent**.
+
+- E107 (2026-10-13): *La noleu sy nom me digr* 'She wouldn't (refused to) tell me her name', an event; the imperfect *nole* is used for a description. So *nolir* has a preterite.
 
 ## cair 'fall; happen; (copular) be' (*r v*)
 
@@ -281,6 +286,7 @@ Non-finite: infinitive **cair**, present participle **caint**, past participle _
 Non-finite: infinitive **sceir**, present participle **sceint**, past participle **sceut** (*No'r sceut alcun sign de við…*, C867).
 
 - *sceir* agrees with the following noun phrase (*Sceyen a coul fix chrestan…*), so only 3rd-person forms are needed.
+- E98 (2026-10-13): *Sceyen atorn de veint hom ig* (the user's correction of *scein*) confirms the imperfect 3PL **sceyen**.
 - **Q20.** *Degnant ig sceusn ragost comportant ny region…* 'Although similar stews existed in the region…' (C1354) has **sceusn**. So the imperfect subjunctive of *sceir* is identical to that of *poðir* (*sceus*, *sceusn*). Is that intended, or should one of them change?
 
 ## denir 'become' (*ir1 v*)
@@ -320,4 +326,7 @@ Non-finite: infinitive **remanir**, present participle **remanent**, past partic
 ## Other questions
 
 - **Q23.** *orruðar* 'seem' is an *-ar* verb, but its imperfect is *orruðe* in the corpus (S15880, S23514, S24429), where *orruða* is expected. Is it irregular, or is *orruðe* a slip?
-- Not covered yet: *cavir* 'get' (*caf, caif, cof/coum/courn, caut*), *venir*, *tenir*, *veir* 'see' (*vis*), *digr* 'say' (*dig, dis, disrn*), *mettr* 'put' (*mis*), *yembr* 'arrive, manage' (*yem, yemoy, yent*). These can be a second round for the Verb Tables appendix.
+A (elicitation E89, 2026-10-13): the imperfect is the regular **orruða** (*Orruða le fos las*). The three corpus *orruðe* were retconned to *orruða* on 2026-10-13.
+- **Q24.** Some *-oy* preterites drop the stem's last consonant: *penoy* (*pendr*), *attenoy* (*attendr*), *descenoy*, *interromoy*, *tarromoy*. Others keep it: *vendoy*, *pardoy*, *rompoy* (*rompr*, E84, C413), *mordoy* (*mordr*, E96). Is this lexical, or is there a rule?
+A (user, 2026-10-13): "I think I was basing that on how -ndr verbs behave (usually deleting the -d-), but actually I think the voiceless -p- should resist that and stay." So *p* stays: *interrompoy*, *tarrompoy* (the corpus was retconned). *d* after *n* usually goes. *vendoy* was an artefact of obsolete *vendr* 'sell'. The usual verb is the regular *vençar* (from Latin *vendicāre*), and the corpus was retconned on 2026-10-13.
+- Not covered yet: *cavir* 'get' (*caf, caif, cof/coum/courn, caut*), *venir*, *tenir*, *veir* 'see' (*vis*), *digr* 'say' (*dig, dis, disrn*), *mettr* 'put' (*mis*; also *parmettr* 'permit', preterite *parmis*, E51), *pascr* 'eat' (PST.PTCP *paut*, E57), *yembr* 'arrive, manage' (*yem, yemoy, yent*), *promettr* 'promise' (preterite *promis*, E92), *ovrir* 'open' (preterite *ovroy*, E93), *mordr* 'bite' (preterite *mordoy*, E96), *souvr* 'release' (PST.PTCP *soluð*, E99), *recarr* 'require, need' (PST.PTCP *recas*, E110). These can be a second round for the Verb Tables appendix.

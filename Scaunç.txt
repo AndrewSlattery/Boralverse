@@ -279,9 +279,9 @@ siemprað /sjɛmˈpʀaθ/ [sɪmˈpʀah] cheerful, content, in a good mood
 
 < past participle of siemprar “to be cheerful, to celebrate” (now only in certain dialects), from some variant of the salutation siempr! “always!”, traditionally said at feasts and other get-togethers.
 
-Ðe parmettoirn nos entraum siemprað.
+Ðe parmisrn nos entraum siemprað.
 They cheerfully let us come in.
-/ðe paʀˈmɪzɛʀn noz enˈtʀom sjɛmˈpʀaθ/
+/ðe paʀˈmɪzrn noz enˈtʀom sjɛmˈpʀaθ/
 [ðe pɐːˈmɪzɐn noz ɪnˈtʀom sɪmˈpʀah]
 
 ##
@@ -2016,7 +2016,7 @@ He looked back and saw the innkeeper standing still by the door.
 
 translation into Borlish and into West Vascon (León) of the famously-circuitous first sentence of A Door, Once Opened by Clarissa Bellamy, published 1920 by Sagittarius Editions. Translated into Borlish by Gonnilt Dispað, and into West Vascon by García Ramires.
 
-Y livrer a Rout Hawthorn sta segr formous parcanç trent annað eld, eð y preu veg oyon Frederick l'encontrau, un crevoscr preuç ny stað de 1755, ja l'au (a mesur de raut rouðar con sy sour) dou vertað appris dy segr : y primer, ig le vende livr d'un qualtað hautessem e noc obstroint un preç boncoppessem a toð hom autr ne Sowbruck, ben Londr meðes, ma parisce a sgart calscon soutenuð cos immachiabr com casc vocationnað dy muncef (degnant ig lonc y mont sy seut majon fosn picq) ; y doussem, ig le sperisce par eç jorn plusour con prevart magr e fort men por explanation.
+Y livrer a Rout Hawthorn sta segr formous parcanç trent annað eld, eð y preu veg oyon Frederick l'encontrau, un crevoscr preuç ny stað de 1755, ja l'au (a mesur de raut rouðar con sy sour) dou vertað appris dy segr : y primer, ig le vença livr d'un qualtað hautessem e noc obstroint un preç boncoppessem a toð hom autr ne Sowbruck, ben Londr meðes, ma parisce a sgart calscon soutenuð cos immachiabr com casc vocationnað dy muncef (degnant ig lonc y mont sy seut majon fosn picq) ; y doussem, ig le sperisce par eç jorn plusour con prevart magr e fort men por explanation.
 
 El lirrero a Cay Hawthorn yera un hombre appuesto que tenía trienta ańos quisá, y quando Frederick attopólo a primera vez, una nochina suave de verano 1755, savía pueste un rumoscitino con su ermana dos hechos sorre el hombre : primer loar, vendía lirros de mayor calidá y stesso de menor precio que hace nadie a Sowbruck, o bien todo Londre, pero conducíase tan immacquiablemente como todos los vocazonistes del coceyo (malla su casa fuera pequina) ; segundo loar, sumíase días seguidas casi espontáneamente y a fondo sin pretexto.
 
@@ -3193,7 +3193,7 @@ first -ir conjugation, s variant (past participle lous)
 
 < 9C, from Old Boral louger, fouger “to gleam, to flash”, from Latin fulgeō “I flash, I lighten” (see also fourraç “lightning”, from the same root). The initial consonant shift from f to l is difficult to explain, with two main competing theories. First claims metathesis to floger around 6C with subsequent loss of f, although this has holes. More accepted is simply corruption from the similar verb luȝr “to shine” and noun lumnair “light”.
 
-    L'eç ogl de my fraðr lousern sou clar dy lun oppos.
+    L'eç ogl a my fraðr lousern sou clar dy lun oppos.
 
     My brother's eyes gleamed in the light of the full moon.
 
@@ -3683,11 +3683,11 @@ pelur /peˈlɪʀ/ [pɪˈlɪː] hide, pelt, fur (hairs or clothing material), als
 
 < 9C as p(i)elure “fur, as clothing”, derivation from piel “skin, hide”, itself from Latin pellis “pelt”. Extension to the hair of living animals by 13C, and of humans by 16C.
 
-    Y Colluïsc Aquarian vendoy pelur sou patronisment de Martin IV.
+    Y Colluïsc Aquarian vençau pelur sou patronisment de Martin IV.
 
     The Aquarian Guild sold fur under the patronage of Martin IV.
 
-    /i ˌko.laˈjɪx aˌkwa.ʀiˈjan vɛnˈdɔj peˈlɪʀ su paˌtʀo.nɪzˈmɛnt de maʀˈtɪn ˈka.tʀ̩/
+    /i ˌko.laˈjɪx aˌkwa.ʀiˈjan vɛnˈtso peˈlɪʀ su paˌtʀo.nɪzˈmɛnt de maʀˈtɪn ˈka.tʀ̩/
 
 ##
 
@@ -4224,7 +4224,7 @@ There had, admittedly, been ample occasion for someone to slip it into her bag b
 Indoutabr a la lo laiscað insurveilað unveg ben may a mesur de sy nombrous hour a majon livr dy facultað, un certan volum carnt parmy l'eç roum labyrinthin stant untal emblem dell'Universtað a Sant Marin.
 Doubtless she had left it unattended at least once in her several hours in the faculty bookhouse, searching for a particular volume among the labyrinthine spaces so emblematic of the University of Saint Marinus.
 
-Ben parcanç meðes yon l'interromoy retorn n'y rout veil citaðer pedallant con un quignou acatant dy refectoir.
+Ben parcanç meðes yon l'interrompoy retorn n'y rout veil citaðer pedallant con un quignou acatant dy refectoir.
 Or perhaps even as she stopped to buy a pastry from the refettorio, before pedalling on down the old town streets.
 
 Nentamen, la vacillau pre y ragot rescað fair defleiçar.
@@ -5365,7 +5365,7 @@ manouvr /maˈnu.vr̩/ [mɐˈnu.vɐ] tactic, manœuvre, turn (of a game), act
 “Noc ig Sy Nobiltað veir, per se,” demorau Zoe, se sarvent dell'occasion por tornar avars e sy novel soiç sgardar fort. Cavel fosc e coutrað cort ; oc no stant usual parmy gent ant lonc caðen ancestral veunt proism, ma dy tegnt visacer val le pesar noc enter foran.
 “Not to see His Grace, per se,” Zoe demurs, taking the opportunity to turn and look properly at her new companion. Dark hair, closely-shorn—not typical among those with long family ties in the area, though his complexion suggested he wasn't entirely foreign.
 
-“O, clar comoscon!” Y soury prolongant tras y visaç dy segr es delicat e curious. Un hom raut par enigma, parcanç, ben toð cas oc volent lo supportar por gra de collocq. “Vos conjuraçonnað se pondr sull'un rout deur nossy tragres souscen, j'appon ?”
+“O, clar comoscon!” Y soury prolongant tras y visaç ag segr es delicat e curious. Un hom raut par enigma, parcanç, ben toð cas oc volent lo supportar por gra de collocq. “Vos conjuraçonnað se pondr sull'un rout deur nossy tragres souscen, j'appon ?”
 “Ah, of course!” The smile that spreads across the man's face is charming and curious. Someone delighted at mystery, perhaps, or at least someone willing to humour it for the sake of conversation. “You plan to stand one street over from tomorrow's parade, I take it?”
 
 ##
@@ -6693,7 +6693,7 @@ Power lies in the perfect manipulation of the words, and the one whose mastery o
 L'oc maistr no's Rey Jundreth, ni alcun dell'ambasctour zucarrað, ni baron a largeç de collocq.
 The master is not King Junderth, nor any of the silver-tongued diplomats, or verbose barons.
 
-Le's y Prinç Heriter Arthur, duellist e tarnaç, degnant alcun hom saif : l'oc es sy massem victoir jusc oy.
+Le's y Prinç Heriter Arthur, duellist e tarnaç, degnant alcun hom saif : l'oc es sy maissem victoir jusc oy.
 It is the duellist taverner Crown Prince Arthur, though nobody knows it: this is his greatest triumph to date.
 
 Ma sou ciel all'acr d'addoçment, glay ne man, toð sy tact e commission exact de parol son inutr.
@@ -7670,7 +7670,7 @@ Young robins were singing, stood on the branches.
 
 excerpted from Neyanç a Sagnt Stevan (Saint Stephen's Snowfall), a short story penned in 1980 by Borlish author Fuyo Jaðom, adapted from the tales he would tell his children when they were young.
 
-Havan son haut parmy loy outem por volour. Toð gent la es hastant, commovent e se peyaçant atorn.
+Havan son haut parmy loy outem por volour. Toð gent la son hastant, commovent e se peyaçant atorn.
 Ports are one of the best places for thieves. Everyone there is in a hurry, bustling about and smacking into each other.
 
 La son y marcant desirant for repaðrir cas lou; maðr annoyað attenent a lorrell'ivan appreuçar.
@@ -8002,7 +8002,7 @@ Martha agreed, having clearly come to a similar conclusion.
 Le souprenent, y domn surcou fort fruyour, ant pas leger e gournanç d'hour scur.
 To his surprise, she proved a good dancer, with light steps and a good sense of timing.
 
-Tandic ençau y cançon sevent, le vis ig Yvet oncau Lucas all'area fruy. Benjamin parceveu n'approvant ig le luy tenoy man distr con pogn fatuous e skassant—y compromis seyon fair accougl dec Lucas refusau y pie d'Yvet piestar. Surcas au y fait ig degnant le volois pront eð allagr se fornir d'aer issugt, le spornau skiseç mancar.
+Tandic ençau y cançon sevent, le vis ig Yvet oncau Lucas all'area fruy. Benjamin parceveu n'approvant ig le luy tenoy man distr con pogn fatuous e skassant—y compromis seyon fair accougl dec Lucas refusau y pie a Yvet piestar. Surcas au y fait ig degnant le volois pront eð allagr se fornir d'aer issugt, le spornau skiseç mancar.
 As the next song started, he saw Yvette dragging Lucas onto the dance floor. Benjamin noted with approval that he held her right hand in an awkward, crushing grip—the compromise they'd reached over Lucas' unwillingness to tread on her feet. Apparently, while he had no objection to being dull, he drew the line at clumsy.
 
 Benjamin apponoy ja oc eus. Defait de skiseç volois noc un aer de vertað por toð gent ayent le vis ne combat.
@@ -10160,7 +10160,7 @@ excerpt in translation from Conjugation, Operation and the Devil's Music: The Ea
 Baron Monçating y sest fo nað par Segr Josua e Domn Evangelin durant yarn l'an 1770 sur lorry dominion ne Launembrig.
 The sixth Baron Monçating was born to Lord Josua and Lady Evangelin in the winter of 1770 at their estate in Launembrig. 
 
-Segr Josua, cos incoïbr, sta luy meðes un parsonaç querellabr ny melle damvaðesc deut a raçon plusour:
+Segr Josua, cos incoïbr, sta luy meðes un parsonaç kerellabr ny melle damvaðesc deut a raçon plusour:
 Lord Josua, inevitably, was himself a controversial figure in Damvath society for several reasons: 
 
 stant un ivan des y staddomain cappatian,
@@ -10193,17 +10193,17 @@ I didn't know you had second cousins in Ambrosia!
 
 ##
 
-25.3: querellabr "controversial"
+25.3: kerellabr "controversial"
 
-querellabr /ˌkwe.rɛˈla.br̩/ [ˌkwe.ʀɪˈla.bɐ]
+kerellabr /ˌke.rɛˈla.br̩/ [ˌke.ʀɪˈla.bɐ]
 - controversial, contentious, characterised by or liable to cause argument;
 - disputed, arguable, open to debate with respect to validity or genuineness
 
-Etymology: potential adjectival derivation from verb querellar "to argue, debate, quarrel", itself derived from noun querel "dispute, argument, quarrel". This descends from Old Boral, borrowed from synonymous Old French querele, which reflects Latin querēla "complaint, grievance".
+Etymology: potential adjectival derivation from verb kerellar "to argue, debate, quarrel", itself derived from noun kerel "dispute, argument, quarrel". This descends from Old Boral, borrowed from synonymous Old French querele, which reflects Latin querēla "complaint, grievance".
 
-Querellabr es ou l'oç imascry fos vray meðes volað.
-/ˌkwe.rɛˈla.br‿ɛz oðr̩ lɔts ˌi.maxˈri fɔz vre meˈðɛz voˈlaθ/
-[ˌkwe.ʀɪˈla.b‿ɪz ˈo.ðɐ lɔs ˌi.mɐxˈʀi fɔz vʀe mɪˈðɛz vʊˈlah]
+Kerellabr es ou l'oç imascry fos vray meðes volað.
+/ˌke.rɛˈla.br‿ɛz oðr̩ lɔts ˌi.maxˈri fɔz vre meˈðɛz voˈlaθ/
+[ˌke.ʀɪˈla.b‿ɪz ˈo.ðɐ lɔs ˌi.mɐxˈʀi fɔz vʀe mɪˈðɛz vʊˈlah]
 arguable be.3s if def=s.dt sculpture be.sbj.ipf true even steal-ptcp.pst
 It's debatable whether that sculpture was even really stolen.
 
@@ -10265,8 +10265,8 @@ debriscellisar /ˌde.briˌxɛ.liˈzar/ [ˌde.bʀɪˌçɛ.lɪˈzɐː]
 
 Etymology: a Middle Boral period derivation from briscel "shrub, bush", literally "cause to be rid of low-growing plants". This noun from earlier arbriscel, diminutive of arbr "tree". In extended use the verb is seen from the eighteenth century.
 
-Jo's debriscellisant por scoy d'un seman a scitation.
-/ʒɔz ˌde.briˌxɛ.liˈzant pɔr xɔj dɪn seˈman a ˌxi.taˈtsjɔn/
+Jo's debriscellisant por scoy d'un semman a scitation.
+/ʒɔz ˌde.briˌxɛ.liˈzant pɔr xɔj dɪn sɛˈman a ˌxi.taˈtsjɔn/
 [ʒoz ˌde.bʀɪˌçɛ.lɪˈzan pɔː xɔj dɪn sɪˈman a ˌçi.tɐˈtsjɔn]
 1s=cop prune-ptcp.prs for easy.job of=indef week at exam
 I'm laying the groundwork for a piece-of-cake exam week.
@@ -10901,7 +10901,7 @@ These were usually dense cities and urban areas undergoing rapid growth.
 Ne Safford, com bustr, ja fornið con doujug fondaminal e starc d'accaçment, y joun Bourgmer Crawford surveilau l'instauration dy preu banc redirigent a ambit accacer.
 In Safford, for example, which already had a robust postal infrastructure, the young Mayor Crawford oversaw the installation of the first redirection banks in post offices.
 
-L'eç banc tarromoy y model cossy descreibr: un mission dað sera prefis con un scifr muncever (triant parmig, a Makerfell sta lo MKF) parmettent ag zygomour d'y mission accaçar apar vars y bon ambit veciner, seut par un scifr majonner (normalisað aval com catr keren e soulor un lettr) eð ant l'ec scifr sceus y mission star tramis vars y bon machin.
+L'eç banc tarrompoy y model cossy descreibr: un mission dað sera prefis con un scifr muncever (triant parmig, a Makerfell sta lo MKF) parmettent ag zygomour d'y mission accaçar apar vars y bon ambit veciner, seut par un scifr majonner (normalisað aval com catr keren e soulor un lettr) eð ant l'ec scifr sceus y mission star tramis vars y bon machin.
 These pioneered the system in which a given missive would be prepended with a borough code (for example, Makerfell's was MKF) allowing the switchers to send the message through to the correct local post office, followed by a house code (eventually standardised to four digits followed by a letter) whence the message could be transmit to the correct machine.
 
 ##
@@ -11774,11 +11774,11 @@ sovragl /soˈvrɛjl/ [sʊˈvʀɛjʊ]
 
 Etymology: direct descendant from Latin subligāculum "loincloth, kilt" exhibiting l-r dissimilation (attested from as early as c8 in Old Boral sovreiaȝle "waistband, overskirt") likely reinforced by the etymologically-unrelated prefix sovr- "over, above". Synchronically analysable as sovrar "pass, go over" + -agl, an unproductive nominal suffix producing words for tools or other instruments.
 
-Y sovragl seyon me dað sta adornað par fylau.
-/i soˈvrɛjl siˈjɔn me daθ sta ˌa.dɔrˈnaθ par fiˈlo/
-[i sʊˈvʀɛjʊ ˌsjɔm.mɪˈdah sta ˌa.dʊːˈnah pɐː fɪˈlo]
-def belt 3s.ins 1s.obl give-p.pst be.ipfv decorate-p.pst by crow
-The belt she gave me was decorated with crows.
+Y sovragl seyon me dað sta adornað con flour.
+/i soˈvrɛjl siˈjɔn me daθ sta ˌa.dɔrˈnaθ kɔn flur/
+[i sʊˈvʀɛjʊ ˌsjɔm.mɪˈdah sta ˌa.dʊːˈnah kɔn fluː]
+def belt 3s.ins 1s.obl give-p.pst be.ipfv decorate-p.pst with flower
+The belt she gave me was decorated with flowers.
 
 ##
 
@@ -11851,7 +11851,7 @@ Most pressing was the inexorable rise in Viking activity along the coast.
 Gazou ag banc dy Sein e l'Orn ern inceut eç meis paravant, ma dagormay ðe spanoirn ag vest; y monastir a Landvennick meðes se cof incendiað a cainç l'an 888 N. 
 Raids along the Seine and the Orne had begun in earnest some decades prior, but now spread west; even the monastery at Landvennick was burned to the ground in 888 N. 
 
-Necun no'rn y commovenç dy dannesc vecinað com piglment; ag dou cost dy Canal caf batman benoçaurn l'instabiltað politic (oc a digr y sfondranç Wessaxon ag norð e l'eç querel lombard ag souð) por eðegl concarr e fragossau instançar.
+Necun no'rn y commovenç dy dannesc vecinað com piglment; ag dou cost dy Canal caf batman benoçaurn l'instabiltað politic (oc a digr y sfondranç Wessaxon ag norð e l'eç kerel lombard ag souð) por eðegl concarr e fragossau instançar.
 Nor were the Danes' activities confined to looting; on both sides of the Channel war leaders took advantage of political instability (the collapse of Wessex in the north and the Lombard disputes in the south) to conquer territory and settle. 
 
 Scey evidenç ig gent dannesc reseyen doutr meðes y flou Vir, oc stant part lonc y tarm fransc e domnon com lo fo traitað nell'Accord Catumagin dy siecr ogt,
@@ -13159,7 +13159,7 @@ We're loitering at the shops while he has a haircut.
 
 excerpt in translation from the diaries of Nadàlla fi Carol, who grew up in sixteenth-century Santrafew in the early days of New Provence.
 
-Sceye ja ancour un querel ac con Dembro e sy scourm a cimter cas y recostroinç dy naf posc ig l'un dy muðel souvau sfondranç l'an derran.
+Sceye ja ancour un kerel ac con Dembro e sy scourm a cimter cas y recostroinç dy naf posc ig l'un dy muðel souvau sfondranç l'an derran.
 There has been yet another argument with Dembro and his masons over the reconstruction of the nave after one of the buttresses failed last year.
 
 Y fastig provisour ne bosc pin es parcevibr auvorn, e des l'argument entr Paðr e Dembro le's menað vars digr y motif senglessem vel ig nos descenau certan pieç dy pieðry deur y cost surveunt e cossy forniscau y naf con fastig for ne bosc.
@@ -13761,7 +13761,7 @@ These great infrastrusture projects characterise the Romantic period, although t
 L'oc nom es primer benoçað posc y Rix Democratic, candon y mitað nuverrem ny siecr settoç er stimað, lon raçonnabiltað, stant un final d'asc aure cas reloðeç e civiltað.
 The name is first used after the Democratic Wars, when the latter half of the seventeenth century was seen, nonsensically, as the last golden age of refinement and civilisation.
 
-Defagl es comparaçon noc fair entrell'ec stat insoler e querellant n'Europ ny dezein 1660 e, com bustr, l'eç gran veyaç geoscopic de mac Kellot eð al-Casmi ny siecr derran, ben l'envou Novomondan replenið ny sevent.
+Defagl es comparaçon noc fair entrell'ec stat insoler e kerellant n'Europ ny dezein 1660 e, com bustr, l'eç gran veyaç geoscopic de mac Kellot eð al-Casmi ny siecr derran, ben l'envou Novomondan replenið ny sevent.
 It is hard not to contrast these insular, squabbling European states of the 1660s with, say, the great geoscopic voyages of mac Kellot and al-Casmi of the previous century, or the renewed Novomundane interest of the next.
 
 Nentamen, nell'oc asc es ig poum nos y cart modern e suetessem vistar ençant a smargr tras Europ.
@@ -14673,7 +14673,7 @@ The stones of the land side were covered in thick moss, while the salt breeze st
 Y fenestr meðes lughen con veðr zajadau ag colour—neðan y clartað—de smaraud.
 Even the windows glittered with jackdaw glass the colour—if not the clarity—of emeralds.
 
-A starn dy mur citaðer naja cos lent y gamblas de sy paðr lonc y canal argent sceint just con y rout leyað, trencant a biasc cos artificial par y mersc paneller.
+A starn dy mur citaðer naja cos lent y gamblas a sy paðr lonc y canal argent sceint just con y rout leyað, trencant a biasc cos artificial par y mersc paneller.
 Outside the city walls her father's barge proceeded slowly along the silver canal which ran parallel to the raised road, cutting at an unnatural angle through the patchwork fenland.
 
 Vray, jusc oy ern ðe passaç faint de tal tardiscenç ig ða y costoscment ern porsief lour dant lor ðe voloisn ja certan star attegnt eð oncað alcheðr vars Tisholm.
@@ -17022,7 +17022,7 @@ excerpt in translation from 1930 book Prove your Knowledge!, a part of the serie
 8. Cal fey Nicolà s Avignon d'an 1347 stant rumorað com un rout vars y sfondranç final dell'Empir Roman Dovem?
 8. What did Nicolà s Avignon do in 1347 that is said to have led to the final collapse of the Second Roman Empire?
 
-9. Un querel sur y postion dy Caðer ne Pieðr Roug entr cal dou stat albic akirtau y Rix cas Fieltað eç dezein parmanent?
+9. Un kerel sur y postion dy Caðer ne Pieðr Roug entr cal dou stat albic akirtau y Rix cas Fieltað eç dezein parmanent?
 9. A dispute over the location of the Redstone Chair between which two Albic states sparked the decades-long Wars of Fealty?
 
 10. Cu sta y preu domn stant instroyour an universtað european, d'an 1219 com sodal nell'Universtað Sant'Antonnio a Padou?
@@ -17669,10 +17669,10 @@ ranscellar /ˌran.xɛˈlar/ [ˌʀan.çɪˈlɐː]
 
 Etymology: verbal derivative of ranscel "branch, Y-shape, divergence", which reflects Vulgar Latin *rāmuscellum "little branch". This is a double diminutive of Classical rāmus "branch, bough, limb".
 
-Dou rout ranscellau n'un bosc gauvn.
-/du rut ˌran.xɛˈlo nɪn bɔx ˈgo.vn̩/
-[du ʀut ˌʀan.cɪˈlo nɪm bɔx ˈgo.vɐn]
-two road fork-pst in-indf wood yellow.
+Dou rout ranscellaurn n'un bosc gauvn.
+/du rut ˌran.xɛˈlorn nɪn bɔx ˈgo.vn̩/
+[du ʀut ˌʀan.cɪˈloːn nɪm bɔx ˈgo.vɐn]
+two road fork-pst-3p in-indf wood yellow.
 Two roads diverged in a yellow wood.
 
 ##
@@ -19181,7 +19181,7 @@ Thus, fruit would be preserved in ways which removed their sandrine content (for
 Un grap theoretic cos vray nole avenir pre siecr settoç, candon sceye descovart par bonaventur ig laprot guy poun doutr scurvog accarr (human e guy son soltumnesc parmy l'œcumen animal cas noc poðir sandrin detaxionnar cos autonom des çucar).
 Truly theoretic understanding would not come until the seventeenth century, when it was discovered by chance that the guy-coney can also develop scurvy (humans and guys are rare among animals in not creating sandrine in our bodies from sugar).
 
-L'oc parmettoy experienç fort scrutiniosessem eð expediðessem sur guy, por y bon ploghanç de frugt e leum discernir par effectualtað cas scurvog coïr.
+L'oc parmis experienç fort scrutiniosessem eð expediðessem sur guy, por y bon ploghanç de frugt e leum discernir par effectualtað cas scurvog coïr.
 This allowed for much more rigorous and time-efficient testing on guys, to determine what preparations of fruits and vegetables were effective at preventing scurvy.
 
 All'yenç dy siecr ogtoç er l'issar usual denuð saf a limmon sdroyar diluïð com lembic starc durant veyaç marin lonc.
@@ -20240,9 +20240,9 @@ sounç /sunts/ [suns]
 
 Etymology: nominal derivative from verb souvr "solve, let go, release, launch", from solvō "I loosen, untie"; or, directly from a Latin noun solventia "a loosening, an untying". In the last sense attested from as early as the eighteenth century in erotic literature; the term continues to be dispreferred in formal or technical contexts.
 
-Y sounç de var interromoy eç accommission corrogaçonal.
-/i sunts de ˈvar ɪnˌtɛ.roˈmɔj ɛts ˌa.kɔ.mɪˈsjɔn ˌkɔ.roˌga.tsoˈnal/
-[i suns dɪ ˈvɐː‿ʀɪnˌtɛ.ʀʊˈmɔj ɛ‿ˌtsa.kʊ.mɪˈsjɔn ˌkɔ.ʀʊˌga.tsʊˈnal]
+Y sounç de var interrompoy eç accommission corrogaçonal.
+/i sunts de ˈvar ɪnˌtɛ.rɔmˈpɔj ɛts ˌa.kɔ.mɪˈsjɔn ˌkɔ.roˌga.tsoˈnal/
+[i suns dɪ ˈvɐː‿ʀɪnˌtɛ.ʀʊmˈpɔj ɛ‿ˌtsa.kʊ.mɪˈsjɔn ˌkɔ.ʀʊˌga.tsʊˈnal]
 df release of war interrupt-pst p.dt project infrastructural
 War breaking out interrupted those infrastructure projects.
 
@@ -20850,9 +20850,9 @@ laur d'asn /lor ˈda.zn̩/ [loː ˈda.zɐn]
 
 Etymology: idiom meaning "donkey's work", attested from the eighteenth century. The noun laur "work, job" is a deverbal from laurar "to work"; the noun asn "donkey; dunce" descends directly from synonymous asinus in Latin.
 
-J'azia ne spien ig un hom interromois my laur d'asn.
-/ʒaˈzja ne spjɛn aj ɪn ɔm ɪnˌtɛ.roˈmɔjz mi lor ˈda.sn̩/
-[ʝɐˈzja ne spjɛn aj ɪn ɔm ɪnˌtɛ.ʀʊmɔjz mi loː ˈda.sɐn]
+J'azia ne spien ig un hom interrompois my laur d'asn.
+/ʒaˈzja ne spjɛn aj ɪn ɔm ɪnˌtɛ.rɔmˈpɔjz mi lor ˈda.sn̩/
+[ʝɐˈzja ne spjɛn aj ɪn ɔm ɪnˌtɛ.ʀʊmpɔjz mi loː ˈda.sɐn]
 1s-stand-ipf in hope cmp indf person interrupt-ipf.sbj 1s.gn toil of=donkey
 I stood, hoping someone would interrupt the tedium.
 
@@ -21094,7 +21094,7 @@ The various military catastrophes stoked discontent in Rome and elsewhere, along
 
 excerpt in translation from the 1920 work A Door, Once Opened by Clarissa Bellamy.
 
-L'aer bisan de harvest feya mornç ag gien d'Evangelin cant la quaucau par Rout San Margaret, con sy mantel raffleyant dereðr.
+L'aer bisan de harvest feya mornç ag gien a Evangelin cant la quaucau par Rout San Margaret, con sy mantel raffleyant dereðr.
 The crisp autumn air nipped at Evangeline's cheeks as she hurried down St Margaret's Lane, her cloak billowing behind her.
 
 Cayen l'yeul a Londr un aucoum vivaç des y commovenç de marcant e carrot, eð y fler de castagn stant attost ðolen des y vagn d'un vençour proism.
@@ -21950,7 +21950,7 @@ excerpt in translation from the [real-life] book The Henchmen of Zenda by KJ Cha
 L'yarn parmane com un madarc obstroint tras semman perpetu e monoton, e soulor lo fey exeunt pre un cocoro.
 Winter lingered like an unwanted policeman for endless monotonous weeks, and then departed overnight.
 
-Nos se sveilau an jorn affaçað de lag verdeyant parsemnað d'ec borjon de flour, cant orruðe l'eiðel enter fos sy quidel yettant a fragnent a vivaçtað a coup.
+Nos se sveilau an jorn affaçað de lag verdeyant parsemnað d'ec borjon de flour, cant orruða l'eiðel enter fos sy quidel yettant a fragnent a vivaçtað a coup.
 We woke one day to green meadows dotted with the beginnings of flowers, as the entire country seemed to throw off its blankets and burst into life at once.
 
 Aucel ençaurn a cantar, agnel apparisceurn des zefr, y paç dy Castel a Zenda fo smuïð, eð y reu de my við denoy trent veg convoluðessem.
@@ -22676,7 +22676,7 @@ In myth, Æacos was the grandfather…
 
 notes in translation on the subject of the Kernovan Conjuring.
 
-Y Conjuraçon Cornovan sta un collaboraçon entr y Reyaum a Dorogn Massem e Roger Drengot, Duc a Normandy por y pretenjon dy Duc sur y thron de Cantuer appoyar. 
+Y Conjuraçon Cornovan sta un collaboraçon entr y Reyaum a Dorogn maissem e Roger Drengot, Duc a Normandy por y pretenjon dy Duc sur y thron de Cantuer appoyar. 
 The Kernovan Conjuring was a collaboration between the Kingdom of Greater Devon and Roger Drengot, Duke of Normandy to press the Duke's claim to the throne of Kent.
 
 Cossirað es l'oc vellisqment com y caus y proismessem por ig y Preu Empir Drengoçan inceveus tras Gal eð Albion souðer.
@@ -23258,7 +23258,7 @@ ja sceint /ʒa xint/ [ʝa çint]
 
 Etymology: phrase meaning "still being there", used as legal jargon from the early Middle Borlish period. The adverb ja "already, still, yet" descends directly from Latin iam "already, now" (the homonym ja "yes" is a Germanic borrowing and thus likely unrelated). The participle sceint "being there, existing" comes from the verb sceir "for there to be" used in existential sentences (scey uncos "there is something"). This descends via Old Borlish seer, sier, scer "exist, be located" from Latin sedeō "I sit".
 
-Cay gravatoir y massem de descovan ja sceint dy siecr catorç.
+Cay gravatoir y maissem de descovan ja sceint dy siecr catorç.
 /ke ˌgra.vaˈtɔir i ˈma.sɛm de ˌde.xoˈvan ʒa xint di ˈsjɛ.kr̩ kaˈtɔrts/
 [ke ˌgʀa.vɐˈtɔjɐ i ˈma.sɐm de ˌde.xʊˈvan ʝa çint di ˈsjɛ.kɐ kɐˈtɔːts]
 fall archive df big.cmp of folio yet there.be-p.prs of-df century 14
@@ -23511,9 +23511,9 @@ taur aïr /tor ɛˈjir/ [toː‿ʀɪˈʝɪː]
 
 Etymology: literally "to have bull", idiom attested (in the slightly different sense of impulsiveness) from the sixteenth century. The noun taur was altered from early Middle Borlish tor to be closer to Latin taurus "bull, steer". The last sense is attested sporadically from the late nineteenth century and reached its peak popularity in the mid-twentieth.
 
-Nos orruðe casc y gent ausn taur a ençar destr.
-/nɔz ˌɔ.riˈðe kax i ʒɛnt ozn̩ tor a ɛnˈtsar dɛstr̩/
-[nʊˌzɔ.ʀɪˈðe kax i ʝɛnt ˈo.zɐn toː‿ʀa ɪnˈtsɐː ˈdɛ.stɐ]
+Nos orruða casc y gent ausn taur a ençar destr.
+/nɔz ˌɔ.riˈða kax i ʒɛnt ozn̩ tor a ɛnˈtsar dɛstr̩/
+[nʊˌzɔ.ʀɪˈða kax i ʝɛnt ˈo.zɐn toː‿ʀa ɪnˈtsɐː ˈdɛ.stɐ]
 1p seem-ipf each df person have.sbj.ipf-3p bull to start-inf out
 It looked like everyone was eager to get going.
 
@@ -23786,9 +23786,9 @@ bosaç /boˈzats/ [bʊˈzas]
 
 Etymology: 20C, pejorative or augmentative derivation from bos "gun"; attested almost immediately in the metaphorical senses. The noun bos "gun" (cf. Merch boss "gun") is borrowed from Willem Dutch (arm)bósz "gun", which descends via armbaust "crossbow" and synonymous Old French arbaleste from Latin arcuballista "crossbow".
 
-Dou madarc interromoirn un bosaç ny routel.
-/du maˈdark ɪnˌtɛ.roˈmɔirn̩ ɪn boˈzats ni ruˈtɛl/
-[du mɐˈdɐːk ɪnˌtɛ.ʀʊˈmɔ.jɐn ɪm bʊˈzas ni ʀʊˈtɛl]
+Dou madarc interrompoirn un bosaç ny routel.
+/du maˈdark ɪnˌtɛ.rɔmˈpɔirn̩ ɪn boˈzats ni ruˈtɛl/
+[du mɐˈdɐːk ɪnˌtɛ.ʀʊmˈpɔ.jɐn ɪm bʊˈzas ni ʀʊˈtɛl]
 two cop interrupt-pst-3p indf gunfire in-df alley
 Two cops interrupted a shoutout in the alley.
 
@@ -24268,7 +24268,7 @@ The second of the extensions is located directly opposite the first, as indicate
 
 notes in translation on the territory of Provence in the medieval period.
 
-Provenç Mitað-Asc sta un vassal sou massem possenç divers tras un millenner pres.
+Provenç Mitað-Asc sta un vassal sou maissem possenç divers tras un millenner pres.
 Medieval Provence was a vassal of various greater powers for almost a millennium.
 
 Lo denoy incorporað nell'Empir Françan durant sy spanjon ny siecr seg e lo parmaneu com un sodal de sy ronç vester posc ig l'empir dehisceu a dou part ny siecr nouf.
@@ -24426,8 +24426,8 @@ abrevar /ˌa.breˈvar/ [ˌa.bʀɪˈvɐː]
 
 Etymology: from Old Borlish abrevar "to water", likely borrowed from Old French synonymous abrever in Old French. This is a metathetic variant of abevrer, which descends from Vulgar Latin abbiberō "I water" (which the Old Borlish may alternatively reflect directly), a derivative of Classical bibō "I drink". The word's association with alcohol and social gatherings shows influence from slang term abrevað "tipsy, squiffy, somewhat drunk", literally "watered".
 
-M'orruðe l'ouger er nos abrevant auvorn.
-/ˌmɔ.riˈðe luˈʒɛr ɛr nɔz ˌa.breˈvant oˈvɔrn/
+M'orruða l'ouger er nos abrevant auvorn.
+/ˌmɔ.riˈða luˈʒɛr ɛr nɔz ˌa.breˈvant oˈvɔrn/
 [ˌmɔ.ʀɪˈða lʊˈʝɛː‿ʀɛː nʊˌza.bʀɪˈvant ʊˈvɔːn]
 1s.obl=seem-ipf df=host cop.ipf 1p water-p.prs a.lot
 I thought the host gave us lots to drink.
@@ -25005,7 +25005,7 @@ Loðaç Berxon (b. 1865) led the Borland chapters of the Outland Arcabil Associa
 
 The first then-called "house of odyssey" [cinema] to sell tickets to the public on a regular basis was established in Boxa [Novi Sad, Serbia] in 1912. One of the venue's first great successes was a recording of a ballet concert accompanied by the St Hurroco Youth Orchestra of Furlain [Friuli].
 
-Un Seir Deura Soffire (One Evening Will Have to be Enough) was a 1913 work in the masquira genre by Roun author Josephene Foilliers. Its riproaring execution of the classic masquira plot structure of schemes and opulence galore made it an instant success across the Drengot Collusion and beyond; this work was the first book to sell more thna a million copies in its first year.
+Un Seir Deura Soffire (One Evening Will Have to be Enough) was a 1913 work in the masquira genre by Roun author Josephene Foilliers. Its riproaring execution of the classic masquira plot structure of schemes and opulence galore made it an instant success across the Drengot Collusion and beyond; this work was the first book to sell more than a million copies in its first year.
 
 The literary genre of social comedy has its origins in the late 1910s, with authors like Dorotha Quistack and Judeta Barracin adapting elements of prior genres like lovetales and adolescences. Social comedy is characterised by plots with low stakes, an emphasis on personal friendships and enmities, and generally either rural or low-class urban settings.
 
@@ -25024,7 +25024,7 @@ Old snow blanketed the forest floor, trampled upon with footprints in every dire
 Un hom er la sevent. L'idea parvenoy lon prevart ben motivaçon.
 She was being followed. The thought arrived without warning or justification.
 
-La s'interromoy entr y taisc visnous de dou casner antic, cant sy respir fayen dragon nell'aer, e la da cur all'ouç paçent ny bosc.
+La s'interrompoy entr y taisc visnous de dou casner antic, cant sy respir fayen dragon nell'aer, e la da cur all'ouç paçent ny bosc.
 She paused between the gnarled trunks of two ancient oaks, her breath dragoning in the air, and took in the woods' patient silence.
 
 Con un maldicçon soçavaver la se commoveu cos lejar y pis, e de sell'azig la sgranfeyau y crost de glaç sou y neyanç.
@@ -25911,7 +25911,7 @@ One of the boys—barefoot, eyes too big for his gut—tried to snatch a crust a
 Le lançau sourey, sautau a asseïr sur y banc çaveyað ne feutr, e bechettau lon graç.
 He grinned, leapt into a seat on the felt-topped bench, and dug in gracelessly.
 
-Dereðr dy roum, tarnaç movant porseveu un querellaç—uncos lasdr a them d'un feurðon de tar.
+Dereðr dy roum, tarnaç movant porseveu un kerellaç—uncos lasdr a them d'un feurðon de tar.
 Across the room, pouting drunkards carried on a spat—something pathetic about an acre of land.
 
 ##
@@ -26870,7 +26870,7 @@ continued translation from the beginning of [real-life] book The Henchmen of Zen
 Jo dign Jasper Detchard, e lonc y narrað de Rassendyll jo so mort.
 My name is Jasper Detchard, and according to Rassendyll’s narrative I am dead.
 
-L'oc derra vos orruðar sy tranqment mesurar, dað ig jo no so l'ec parol dictant all'oregl d'un benoyour a fler de caul des dereðr dy sougl.
+L'oc derra vos orruðar sy tranqment mesurar, dað ig jo no so l'ec parol dictant all'oregl a un benoyour a fler de caul des dereðr dy sougl.
 This should give you some idea of his accuracy, since I do not dictate these words to some cabbage-scented medium from beyond the veil.
 
 No scey alcun dout ig jo sera mort prell'hour yon alcun hom lein l'ec fougl—
@@ -27403,7 +27403,7 @@ excerpt in translation from the 1992 trevold The Vanilla Manoeuvre (originally p
 Y contris alandau n'un descovannet mejoncr, fait impacent sdruçollar tras y tabr.
 The dossier arrived in a nondescript folder, shoved impatiently across the table.
 
-Cattridge l'ovreu varsant eð examinau l'icon y quagl depegntant: un domn eld y carantein ant un sourey picq sousonnant a secret massem.
+Cattridge l'ovroy varsant eð examinau l'icon y quagl depegntant: un domn eld y carantein ant un sourey picq sousonnant a secret maissem.
 Cattridge flipped it open and studied the photograph of the target: a woman in her forties with a small smile that hinted at larger secrets.
 
 Tre agent mort a mesur de tan semman, verim detaxionnað des fæx sougl—no se poðe l'oç panel mesveir.
@@ -28985,7 +28985,7 @@ The nascent Stadbund of mercantile cities in the north seceded and reduced Saxon
 Cossirað es ig Saxony a y plurem dy vajot vancað des y Var Theudesc Primer; ny souc den y polity gourna may d'eiðel a alcot seyon posseut n'aucun hour de sy histoir.
 Saxony is considered to have profited most from the First German War; in its aftermath the polity controlled more territory than it had at any point in its history.
 
-Durant y siecr novoç, y Çaucr Azur Marian (oc instaurað a Lepcy) tarromoy commouð vars reform cas ley de heritanç e de dreit slecçonal.
+Durant y siecr novoç, y Çaucr Azur Marian (oc instaurað a Lepcy) tarrompoy commouð vars reform cas ley de heritanç e de dreit slecçonal.
 In the nineteenth century, the Blue Marian Society (which was founded in Lepzi) spearheaded movements for reform to inheritance and suffrage laws.
 
 ##
@@ -30174,9 +30174,9 @@ vlangr /ˈvlan.gr̩/ [ˈvlaŋ.gɐ]
 
 Etymology: mid-19C in underworld slang, imported from the slightly earlier British form recorded in the Glamour of Deganny. This in turn reflects Suahile [Swahili] valanguri, plural of mlanguri "healer", used in Ongutian [Zanzibari] argot to mean "profiteer, black marketeer". The Borlish term was popularised outside criminal circles by its use in a series of high-profile mob trials in the first decade of the twentieth century.
 
-Sy vlangr porra noc y diamant vendr pre annað.
-/si ˈvlan.gr̩ pɔˈra nɔk i djaˈmant ˈvɛn.dr̩ pre aˈnaθ/
-[si ˈvlaŋ.gɐ pʊˈʀa nɔg i djɐˈmant ˈvɛn.dɐ pʀe ɐˈnaθ]
+Sy vlangr porra noc y diamant vençar pre annað.
+/si ˈvlan.gr̩ pɔˈra nɔk i djaˈmant vɛnˈtsar pre aˈnaθ/
+[si ˈvlaŋ.gɐ pʊˈʀa nɔg i djɐˈmant vɛnˈtsɐː pʀe ɐˈnaθ]
 3s.gn fence can-fut ng df diamond sell-inf before year
 Her fence won't be able to sell the diamonds for years.
 
@@ -32633,10 +32633,10 @@ fancy /fanˈtsi/ [fɐnˈtsi]
 
 Etymology: a Middle Borlish contraction of fantasy "imagination, concept, idea". This descends from Latin phantasia "notion; phantom; imagination", which was borrowed from Greek φαντασίᾱ • phantasíā "appearance, image". The extension of the word to showy displays, first seen in philosophical Borlish in the eighteenth century, may reflect knowledge of the Greek etymon (which was used similarly).
 
-Toð gent dema l'ig autonomy Rurtagn no sta for un fancy.
-/tɔθ ʒɛnt deˈma laj oˌto.noˈmi rɪrˈtɛjn no sta fɔr ɪn fanˈtsi/
-[tʊˈʝɛnt dɪˈma lai ʊˌto.nʊˈmi ʀɪːˈtɛin nʊˈsta fɔː‿ʀin fɐnˈtsi]
-all people opine-ipf cmp independence Ruritania ng be.ipf only indf mirage
+Toð gent deman l'ig autonomy Rurtagn no sta for un fancy.
+/tɔθ ʒɛnt deˈman laj oˌto.noˈmi rɪrˈtɛjn no sta fɔr ɪn fanˈtsi/
+[tʊˈʝɛnt dɪˈman lai ʊˌto.nʊˈmi ʀɪːˈtɛin nʊˈsta fɔː‿ʀin fɐnˈtsi]
+all people opine-ipf-3p cmp independence Ruritania ng be.ipf only indf mirage
 Everyone said Ruritanian independence was a pipe dream.
 
 ##
@@ -32872,4 +32872,118 @@ Every sci-fi novel has a portal in its last chapter.
 
 ##
 
-243.5:
+243.5: Borlish Articles and Demonstratives
+
+Borlish nouns don't inflect at all for number, gender or case. Number and definiteness are carried by articles and demonstratives.
+
+The Definite Article
+
+The definite article is ‹y› before a consonant (including a pronounced ‹h›). Before a vowel, a silent ‹h› or consonantal ‹y›, it is elided to ‹l'›, which is written joined to the following word.
+
+    ‹y mur | y hayennaç | l'esc | l'hostel | l'yenç›
+    /i mɪr | i ˌhe.jɛˈnats | lɛx | lɔsˈtɛl | ljɛnts/
+    'the wall | the workload | the bait | the hotel | the arrival'
+
+Three common prepositions fuse with y before a consonant:
+
+    ‹ag | dy | ny›
+    /ɛj | di | ni/
+    'to the | of the | in the'
+
+Before a vowel, a larger (but still closed) set of prepositions fuse with l'.
+
+    ‹all' dell' nell' | coll' sull' poll' pall' | entrell' contrell' | soll'›
+    'to the, of the, in the | with the, on the, for the, by the | between the, against the | under the'
+
+Fusion only happens when the noun phrase is the preposition's complement. When a preposition introduces an infinitive clause, the infinitive's object comes first and so may directly follow the preposition. Then the article stays separate: y primer a y mont circonnavigar 'the first to circumnavigate the world'.
+
+A noun phrase with y may be singular or plural. If its number shows at all, it shows in verb agreement.
+
+    ‹Y tissour aun un exeunt scenað.›
+    /i tɪˈsur on ɪn ɛkˈsawnt xeˈnaθ/
+    the weaver have.3PL a walkout stage-PTCP
+    'The weavers have staged a walkout.'
+
+The Indefinite Article
+
+The indefinite article is un, identical to the numeral 'one'. It contracts with the same three prepositions as y: an 'to a', d'un 'of a', n'un 'in a'.
+
+    ‹Dou rout ranscellaurn n'un bosc gauvn.›
+    /du rut ˌran.xɛˈlorn nɪn bɔx ˈgo.vn̩/
+    two road fork-PST-3p in.a wood yellow
+    'Two roads diverged in a yellow wood.'
+
+Indefinite plurals are either bare or take a demonstrative (see below) or a quantifier like pieç 'some'.
+
+The Demonstratives
+
+Borlish has four demonstratives, distinguishing near from far and singular from plural.
+
+    ‹oc ec | oç eç›
+    /ɔk ɛk | ɔts ɛts/
+    'this these | that those'
+
+Before a noun, a demonstrative normally follows the definite article, which (since the demonstratives all begin with a vowel) is always l' or one of its fused forms: l'oc, dell'oc, all'oç, pall'eç. Since the noun itself never changes, this combination is the main way to mark a definite noun phrase as singular or plural.
+
+    ‹L'oc scuir pasc. | L'ec scuir pascn.›
+    /lɔk xajr pax | lɛk xajr ˈpax.n̩/
+    'This boy eats. | These boys eat.'
+
+In this role the "pointing" force of the demonstrative is often weak, and English is better served by a plain 'the'.
+
+    ‹L'ec voç de nossy felau echovan tras y pereð.›
+    /lɛk vɔts de nɔˈsi feˈlo ˌe.koˈvan traz i peˈrɛθ/
+    the=these voice of our mate resound-IPFV.3PL across the bulkhead
+    'The voices of our mates carried through the partition.'
+
+Without the article, the plural demonstratives mark an indefinite plural, like an English bare plural.
+
+    ‹Y regnanç er ec hom mixallant a casc jorn.›
+    /i rijˈnants ɛr ɛk ɔm ˌmɪ.ksaˈlant a kax ʒɔrn/
+    the regime be.IPFV these person guillotine-PTCP at each day
+    'The regime was beheading people every day.'
+
+Bare demonstratives also turn up in expressions of time: oc aubon 'this morning', oc annað 'this year', ec noit 'at night', oç noit 'overnight'.
+
+Finally, the demonstratives can stand alone as pronouns. Normally they take the article, so l'oc 'this (one)' and l'oç 'that (one)' behave like any other noun phrase. In a more literary style, the bare forms are placed before the verb as objects, just like object pronouns.
+
+    ‹Ða gent oc saun, y sar marcer dourra mal.›
+    /ða ʒɛnt ɔk son i sar marˈtsɛr duˈra mal/
+    if people this know-3PL the net commercial hurt-FUT badly
+    'If people find out about this, the trade network will suffer.'
+
+##
+
+244.1: Fears for the Feast
+
+letter and reply in translation from the advice column of Niacer, a Borlish Sunday magazine, in its issue of 1974 December 15. The column employs an anonymous team of counsellors labelled only by number.
+
+My bel maðr es y tort dell'ivan torrent por y Fest Reveglon de nossy parroiç cay may a trent annað.
+My mother-in-law has baked the child's pie for our parish's Winter Feast for over thirty years.
+
+Dec sy man son affauðant, l'a me peðið a lo torrir poll'oc Reveglon.
+Since her hands are failing her she has asked me to bake it for this Revillon.
+
+Ma la flagit ig jo obsequïsc sy method, oc meyon tojorn trovað un pog sec, eð ig jo benoç y croç boscer parey seyon tojorn covauclið ne sy tort.
+But she insists that I follow her recipe, which I've always found rather dry, and that I use the same wooden cross that she's always hidden in her pies.
+
+Jo vel magn faïr y tort fair a my façon meðes.
+I would much prefer to make the pie my own way.
+
+Me stou veram fair com la dig? — Sr Covart-de-Farin
+Must I really do as she says? — Mr Covered-in-Flour
+
+n7: Torrað lo a sy façon, for meðes poll'oc annað.
+n7: Bake it her way, if only for this year.
+
+La vos tramet un plaç ag caf de sy tabr de trent annað, e la desir lo veir ne bon man.
+She's handing you a place at the head of her table of thirty years, and she wants to see it in good hands.
+
+Alcun hom ny Fest jamira ða y past es sec.
+Nobody at the Feast will mind if the pastry is dry.
+
+Vos arreð plausibr y Reveglon sevent por vossy tort meðes.
+You will likely have next Revillon for your own pie.
+
+Costojeð y croç.
+Keep the cross.
