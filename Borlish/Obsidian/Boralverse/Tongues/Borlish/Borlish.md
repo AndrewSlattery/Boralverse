@@ -6,12 +6,12 @@ borlish: Borallesc
 place:
   - "[[Borland]]"
 ---
-Borlish (Borlish **Borallesc**) is the language of [[Borland]] and the only surviving branch of Insular Romance. It shares many features with Gallo-Romance, including the loss of case and intervocalic lenition, and was heavily influenced in the first millennium by Old English and Old Norse.
+Borlish (Borlish **Borallesc**) is the language of [[Borland]] and the only surviving branch of Insular Romance. It shares many features with Gallo-Romance, including the loss of case and intervocalic lenition, and was heavily influenced in the first millennium by Old English and Old Norrish.
 
 ## Origins
 Borlish descends from the Insular variety of Vulgar Latin, which comprised Borlish Latin and British Latin; it is the only surviving descendant of either. The sound changes from Latin are set out in [[Vulgar Latin to Modern Borlish]].
 
-The language took a handful of words from the Kelt tongue spoken on the island at the time of the Roman conquest, such as **macquar** "raise, rear" (compare Welsh *magu*) and **vrug** "heather" (Welsh *grug*). Far more came from Old English, through Angle settlement after the Roman withdrawal, and from Old Norse, through Dane settlement in the Viking Age.
+The language took a handful of words from the Kelt tongue spoken on the island at the time of the Roman conquest, such as **macquar** "raise, rear" (compare Welsh *magu*) and **vrug** "heather" (Welsh *grug*). Far more came from Old English, through Angle settlement after the Roman withdrawal, and from Old Norrish, through Dane settlement in the Viking Age.
 
 ## Periods
 **Old Borlish** lasted until about the mid-thirteenth century. The vernacular first appears in monastic writing: records of the monk Tobarus (eighth century) are partly in Borlish, and the eighth-century Halvuy chronicle already attests Old Borlish words. In the tenth century alone, Old English took words such as *danny* "nuisance", *bather* "stringed instrument" and *parren* "newcomer" from Old Borlish.

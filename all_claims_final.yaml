@@ -393,7 +393,7 @@ claims:
   source_work: '844–900: Early Dane Kingdom-Building across the Northwestern Isles'
   category: work
   claim: 'The course ''844–900: Early Dane Kingdom-Building across the Northwestern Isles'' is taught at the Tremonnow Open
-    School and covers the transition from viking raids to the establishment of permanent Norse communities in the Northwestern
+    School and covers the transition from viking raids to the establishment of permanent Norrish communities in the Northwestern
     Isles.'
   entities:
   - name: '844–900: Early Dane Kingdom-Building across the Northwestern Isles'
@@ -550,7 +550,7 @@ claims:
   title: Dane Settlements in the Isles
   source_work: '844–900: Early Dane Kingdom-Building across the Northwestern Isles'
   category: language
-  claim: Norse names persisted in the Guile and British Danelands long after those populations had otherwise adopted local
+  claim: Norrish names persisted in the Guile and British Danelands long after those populations had otherwise adopted local
     languages.
   entities:
   - name: Guile
@@ -3838,7 +3838,7 @@ claims:
 - entry: '19.5'
   title: The Winter Feast
   category: language
-  claim: '''Jolveisre'' is taken from Old Norse ''jólveizla'' meaning ''Yule feast''.'
+  claim: '''Jolveisre'' is taken from Old Norrish ''jólveizla'' meaning ''Yule feast''.'
   entities:
   - name: jolveisre
     type: concept
@@ -9478,7 +9478,7 @@ claims:
 - entry: '40.5'
   title: Albion
   category: event
-  claim: The Guithle kingdom of Scotland was established in the ninth century with the help of Harald the Blue of Sodrick,
+  claim: The Guile kingdom of Scotland was established in the ninth century with the help of Harald the Blue of Sodrick,
     displacing or merging with the existing Pict culture and language.
   entities:
   - name: Scotland
@@ -11356,7 +11356,7 @@ claims:
   category: technology
   claim: Cozebdo-diamaschal benjamine (CD) is a painkiller first synthesised in 1932 N.
   entities:
-  - name: cozebdo-diamaschal benjamine
+  - name: cozebdone-diamaschal benjamine
     type: technology
   dates: 1932 N
 - entry: 51.5
@@ -11364,7 +11364,7 @@ claims:
   category: glossary
   claim: Cozebdo-diamaschal benjamine (CD) is the Boralverse term for ibuprofen.
   entities:
-  - name: cozebdo-diamaschal benjamine
+  - name: cozebdone-diamaschal benjamine
     irl: ibuprofen
     type: concept
 - entry: 51.5
@@ -11372,7 +11372,7 @@ claims:
   category: technology
   claim: CD was a product of collaboration between the Branwen Sanatory in New Leudong and the University of Rimack in Tavancy.
   entities:
-  - name: cozebdo-diamaschal benjamine
+  - name: cozebdone-diamaschal benjamine
     type: technology
   - name: Branwen Sanatory
     type: organisation
@@ -11423,7 +11423,7 @@ claims:
   category: technology
   claim: CD surpassed salix-derivative pills in annual sales everywhere from Zangathy to Adighe.
   entities:
-  - name: cozebdo-diamaschal benjamine
+  - name: cozebdone-diamaschal benjamine
     type: technology
   - name: Zangathy
     type: polity
@@ -12344,7 +12344,7 @@ claims:
 - entry: 57.5
   title: Damvath
   category: place
-  claim: The name Damvath derives from the Norse name Damvað, meaning 'ford on the Dam'.
+  claim: The name Damvath derives from the Norrish name Damvað, meaning 'ford on the Dam'.
   entities:
   - name: Damvath
     type: place
@@ -15084,7 +15084,7 @@ claims:
   title: Tavancy
   category: technology
   claim: In the early 1930s N, a collaboration between the Branwen Sanatory in New Leudong and the University of Rimack in
-    Tavancy led to the discovery of cozebdo-diamaschal benjamine (ibuprofen) as an effective painkiller without significant
+    Tavancy led to the discovery of cozebdone-diamaschal benjamine (ibuprofen) as an effective painkiller without significant
     adversions.
   entities:
   - name: Branwen Sanatory
@@ -16615,7 +16615,7 @@ claims:
 - entry: 93.5
   title: 'Lexember 2023 – 1: ceu'
   category: language
-  claim: The name Sodrick was originally a demonym for the people of Soder (Old English Sodor), descending from Old Norse
+  claim: The name Sodrick was originally a demonym for the people of Soder (Old English Sodor), descending from Old Norrish
     suðreyjar 'southern islands'.
   entities:
   - name: Sodrick
@@ -16623,7 +16623,7 @@ claims:
 - entry: 93.5
   title: 'Lexember 2023 – 1: ceu'
   category: event
-  claim: Sodrick was settled during the Norse ascendancy of the eighth and ninth centuries, at the same time as Danes arrived
+  claim: Sodrick was settled during the Norrish ascendancy of the eighth and ninth centuries, at the same time as Danes arrived
     on the shores of Albion and Ireland.
   entities:
   - name: Sodrick
@@ -19763,7 +19763,7 @@ claims:
   title: Chemical Etymology
   source_work: Veriloquace Glossary of Alchemy (Rotcham University Primers)
   category: language
-  claim: The word killdark entered usage in 1810, derived from Welsh kildárc (1805) from the Irish shire of Killdara, where
+  claim: The word killdark entered usage in the 1820s, derived from Welsh kildárc (1824) from the Irish shire of Killdara, where
     the element was first isolated.
   entities:
   - name: killdark
@@ -22151,12 +22151,12 @@ claims:
 - entry: 151.5
   title: War and Peace
   category: technology
-  claim: A collaboration involving the Branwen Sanatory in New Leudong's capital invented the chemical painkiller cozebdo-diamaschal
+  claim: A collaboration involving the Branwen Sanatory in New Leudong's capital invented the chemical painkiller cozebdone-diamaschal
     benjamine.
   entities:
   - name: Branwen Sanatory
     type: organisation
-  - name: cozebdo-diamaschal benjamine
+  - name: cozebdone-diamaschal benjamine
     type: concept
   - name: New Leudong
     type: polity
@@ -22165,7 +22165,7 @@ claims:
   category: glossary
   claim: Cozebdo-diamaschal benjamine is the Boralverse term for ibuprofen.
   entities:
-  - name: cozebdo-diamaschal benjamine
+  - name: cozebdone-diamaschal benjamine
     irl: ibuprofen
     type: concept
 - entry: 151.5
@@ -22355,7 +22355,7 @@ claims:
 - entry: 154.5
   title: Northumber
   category: event
-  claim: From the late ninth century, Northumber was invaded and conquered by forces from Denmark and Horther; the city of
+  claim: From the late ninth century, Northumber was invaded and conquered by forces from Denmark and Horth; the city of
     Yorwick is alleged to have offered itself to Dane rule to avoid destruction.
   entities:
   - name: Northumber
@@ -22364,7 +22364,7 @@ claims:
     type: place
   - name: Denmark
     type: polity
-  - name: Horther
+  - name: Horth
     type: polity
   dates: late 9th c. N
 - entry: 154.5
@@ -22677,7 +22677,7 @@ claims:
   claim: Cozebdo-diamaschal benjamine was first synthesised in 1932 as a result of collaboration between the Branwen Sanatory
     in New Leudong and the University of Rimack in Tavancy; a decade later it had surpassed salix derivatives in sales worldwide.
   entities:
-  - name: cozebdo-diamaschal benjamine
+  - name: cozebdone-diamaschal benjamine
     type: concept
   - name: Branwen Sanatory
     type: organisation
@@ -23217,7 +23217,7 @@ claims:
   title: Like Oil and Water
   category: language
   claim: The name Graven Sea derives from Scholastic Latin Gravinia, backformed from gravinicus, itself a minim scribal error
-    from granvicus, a borrowing of Old Norse Gandvik; the archaic synonym Eastmere is a calque from German language names.
+    from granvicus, a borrowing of Old Norrish Gandvik; the archaic synonym Eastmere is a calque from German language names.
   entities:
   - name: Graven Sea
     type: place
@@ -23493,7 +23493,7 @@ claims:
   source_work: Veriloquace Glossary of Alchemy (Rotcham University Primers)
   category: language
   claim: Od configure was coined in 1922 from od meaning 'unpaired, indivisible by two' and configure meaning 'stereoisomer';
-    od derives from Early Merch odde from Old Norse oddi 'third; odd'.
+    od derives from Early Merch odde from Old Norrish oddi 'third; odd'.
   entities:
   - name: od configure
     type: concept

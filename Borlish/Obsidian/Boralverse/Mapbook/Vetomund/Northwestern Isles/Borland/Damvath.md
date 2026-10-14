@@ -9,7 +9,7 @@ Damvath is the capital city of [[Borland]], located on the River Dam some league
 
 ## Toponymy
 
-The name Damvath derives from the Norse name Damvað "ford on the Dam". The river's name is pre-Roman and is likely cognate with the Tames in [[Albion]] and the Tamaga in [[Portingale]]. 
+The name Damvath derives from the Norrish name Damvað "ford on the Dam". The river's name is pre-Roman and is likely cognate with the Tames in [[Albion]] and the Tamaga in [[Portingale]]. 
 
 ## History
 

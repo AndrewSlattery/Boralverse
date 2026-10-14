@@ -10,7 +10,7 @@ The story of threshold force begins in 1902, with the discovery of the atomic nu
 
 The first threshold mills capable of supplying force for general use were in operation by the 1960s. These, and the unsettling martial applications of threshold force which had already been demonstrated on a small scale, brought the concept of harmful shortform luxes into the popular consciousness. Many a blacklayer film of the period and thereafter features unstoppable invisible rays inflicting horrors on the characters.
 
-The corporal used in the vast majority of threshold mills, killdark, was first isolated in the mid-nineteenth century in the Irish shire of Killdara (whence, via Welsh *kildárc* 'from Killdara', the substance's name).
+The corporal used in the vast majority of threshold mills, killdark, was first isolated in the early nineteenth century in the Irish shire of Killdara (whence, via Welsh *kildárc* 'from Killdara', the substance's name).
 
 [[Portingale]] was a pioneer of threshold force, funding research into its effectivity in the 1950s in a bid to reduce their dependence on [[Astraphor|astraphor]] exported by the [[Drengot Collusion]]. The polity's efforts were repaid in full; Portingale became a net exporter of [[Astraphor|astraphor]] in the 1970s.
 
