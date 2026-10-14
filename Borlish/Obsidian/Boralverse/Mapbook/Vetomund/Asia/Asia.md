@@ -24,8 +24,8 @@ The name comes from Greek *Asíā* "Anatole", likely from Hittite *Assua* "north
 In the [[Democratic Wars]] of the mid-eighteenth century many states quarrelled for control over parts of India. Both nearby powers like China and distant trade interests like [[Britain]] became embroiled.
 
 ## East Asia
-- [[Cathay]], in the north, permanently sundered from China in the late fourteenth century. Under Kitan rule it deliberately set itself apart from its southern neighbour.
-- China, also called the Southern Empire. In 1520 its Hangthen Edict declared that if the world could be girdled, China should tie the ropes herself.
+- [[Cathay]], in the north, permanently sundered from China in the late fourteenth century. Under Kitan rule it is held to have deliberately set itself apart from its southern neighbour.
+- [[China]], also called the Southern Empire. In 1520 its Hangthen Edict declared that if the world could be girdled, China should tie the ropes herself.
 - Nivon
 
 ## South-East Asia

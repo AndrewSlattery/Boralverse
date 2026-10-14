@@ -40,7 +40,7 @@ The name is found on world maps from 1689, and in print from 1692. It comes from
 - Seldiva
 - Bengal
 - [[Cathay]]
-- China, also called the Southern Empire
+- [[China]], also called the Southern Empire
 - [[Nackon Day]]
 - Zampanagar
 - Tacday Ancore
