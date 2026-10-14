@@ -39,9 +39,9 @@ Europe is a continental peninsula in the northern hemisphere.
 - Awry
 - [[Barcelon]]
 - [[Bavarn]]
-- [[Borland#Sub-Roman Borland|Boral Diocese]]
+- [[History of Borland#Sub-Roman Borland|Boral Diocese]]
 - [[Borland]]
-   - [[Borland#First Kingdom of Borland|First Kingdom of Borland]]
+   - [[History of Borland#First Kingdom of Borland|First Kingdom of Borland]]
 - [[Boxa]]
 - [[Britain]]
 - [[Burgundy]]
