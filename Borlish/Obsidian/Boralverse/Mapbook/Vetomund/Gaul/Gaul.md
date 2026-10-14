@@ -39,6 +39,7 @@ In 1852 Norman Kent, France and Burgundy (re-formed without a monarch) united po
 - [[Vascony]], occupying parts of southern Gaul and northern Spain
 - [[Kernow]], the north-western peninsula, now a tallath of [[Britain]], with the city of [[Nauned]]
 - [[Tolose]], a city and region in the south, belonging to Barcelon since the early sixteenth century (barring some brief exceptions)
+- [[Flanders]], on the northern coast between Normandy and Willemy, part of Norman Kent in the eighteenth century
 - [[Willemy]], east of Kent and France, with its subregion [[Avosche]]
 
 ## Languages
