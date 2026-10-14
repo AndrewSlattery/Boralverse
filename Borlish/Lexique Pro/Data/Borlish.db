@@ -10338,6 +10338,23 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et Latin
 
+\lx Ceteromont
+\ps n
+
+\ge Ceteromund
+\ge Oceania
+\ge Antarctica
+
+\et 18C, Scholastic Latin cēteromundus "the other world", from cēterus "rest, remainder"
+
+\se Ceteromondan
+\ps adj
+
+\ge Ceteromundane
+\ge Oceanian
+
+\et adjective from Ceteromont, after Novomondan
+
 \lx ceu
 \ps adv
 
@@ -40486,16 +40503,6 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \et Old Borlish < Vulgar Latin
 
-\lx Novomondan
-\ps adj
-
-\ge Novomundane
-\ge New World
-\ge American
-
-\et Latin novomundānus, from Novomont "New World"
-\mn Novomont
-
 \lx Novomont
 \ps n
 
@@ -40505,6 +40512,15 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 \ge America
 
 \et Latin novus mundus "new world"
+
+\se Novomondan
+\ps adj
+
+\ge Novomundane
+\ge New World
+\ge American
+
+\et Latin novomundānus, from Novomont "New World"
 
 \lx noxal
 \ps n
@@ -64501,6 +64517,30 @@ The word tarç "third" descends directly from synonymous Latin tertius and now e
 \ge dress
 
 \et Old Borlish < Latin vestītus
+
+\lx Vetomont
+\ps n
+
+\ge Vetomund
+\ge Old World
+\ge Afro-Eurasia
+
+\xv Communeyaçon entr Mendeva Bassem eð y Vetomont fey commet ny siecr cinqueç jagerrem par vascel marcander soll'ægid dy Colluy dy Nou Mont des Morrac.
+\xe Contact between Lower Mendeva and the Vetomund [Old World] began in the late fifteenth century with merchant ships from the Morrack New World Company.
+
+\et 17C, Scholastic Latin vetomundus "old world", formed by analogy with novomundus (see Novomont)
+
+\se Vetomondan
+\ps adj
+
+\ge Vetomundane
+\ge Old World
+\ge Afro-Eurasian
+
+\xv Ag fin dy siecr novoç, y possenç broucað de Nou Provenç au ombr jait sull'oç de sy progentour Vetomondan.
+\xe By the end of the nineteenth century, the power of New Provence had eclipsed that of its Vetomundane progenitor.
+
+\et adjective from Vetomont, after Novomondan
 
 \lx veunt
 \ps n
