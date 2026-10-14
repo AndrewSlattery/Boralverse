@@ -29834,9 +29834,9 @@ quoncein /kwɔnˈtsin/ [kwʊnˈtsin]
 
 Etymology: twentieth-century calque of Willem quonzerád "young adulthood", an abstract derivation from southern dialect quonze "twenty" (standard twinte); the second element was replaced with the Borlish suffix -ein denoting a number of years (as in dezein "decade", carantein "a period of forty years"), which descends from Latin -ennium "years". Metaphorical extension of the word usually refers either to inexperience and naïveté or to a pinnacle of performance and flourishing.
 
-La passau y quoncein par y Novomond aðendrar.
-/la paˈso i kwɔnˈtsin par i ˌno.voˈmɔnd ˌa.ðɛnˈdrar/
-[la pɐˈso i kwʊnˈtsin pɐː‿ʀi ˌno.vʊˈmɔnd ˌa.ðɪnˈdʀɐː]
+La passau y quoncein par y Novomont aðendrar.
+/la paˈso i kwɔnˈtsin par i ˌno.voˈmɔnt ˌa.ðɛnˈdrar/
+[la pɐˈso i kwʊnˈtsin pɐː‿ʀi ˌno.vʊˈmɔnt ˌa.ðɪnˈdʀɐː]
 3s.f spend-pst df twenties by df new.world tour-inf
 She spent her twenties travelling the Americas.
 
@@ -30240,7 +30240,7 @@ Lower Mendeva is a geographical region comprising the southern section of the co
 Parveg l'oc dob contien oðig l'eç istr dell'Arcabil, eç se situant entarn dy Bugt amont.
 The term sometimes also includes the islands of the Arcabil [Caribbean], which are located within said Gulf.
 
-Communeyaçon entr Mendeva Bassem eð y Vetomond fey commet ny siecr cinqueç jagerrem par vascel marcander soll'ægid dy Colluy dy Nou Mont des Morrac.
+Communeyaçon entr Mendeva Bassem eð y Vetomont fey commet ny siecr cinqueç jagerrem par vascel marcander soll'ægid dy Colluy dy Nou Mont des Morrac.
 Contact between Lower Mendeva and the Vetomund [Old World] began in the late fifteenth century with merchant ships from the Morrack New World Company.
 
 Ny region prepondr y polity de Mascic, oc se respandent des cost vars cost e vars y norð cos suffighent por tarmn broucar con Mivoc ag vest e con Taisca all'aust.
@@ -31980,7 +31980,7 @@ The name of the northern Novomundane continent, Mendeva, is attested (in the obs
 
 By contrast, the name of Cappatia is seen only from the 1570s. It enters Merch via Latin cappatiānus and Arabic from Run'allo [Quechua] cappacha "this world (as opposed to an underworld or a celestial world)", via contact between Morrack merchants and the Tavancine [Inca] Empire in the sixteenth century.
 
-Vetomund [/ˈnɔ.vʊ.mʊnd/] n. the continents of Africa, Asia and Europe, as well as their off-lying islands. 1689 on world maps (1692 in print) < Scholastic Latin vetomundus "old world", formed in the manner of novomundus, by analogy.
+Vetomund [/ˈvɛ.tʊ.mʊnd/] n. the continents of Africa, Asia and Europe, as well as their off-lying islands. 1689 on world maps (1692 in print) < Scholastic Latin vetomundus "old world", formed in the manner of novomundus, by analogy.
 
 The three Vetomundane continents appear in Merch throughout its existence and back into Old English. They descend directly from Latin.
 Africa has its roots in Latin Āfer, usually taken to be from a Punic name for their people related to 𐤏𐤐𐤓 • afar "dust".
@@ -32697,7 +32697,7 @@ There is one tablet mentioning Christianity—…struck down whether he be Chris
 
 notes in translation on a sixteenth-century figure.
 
-Maria Joquinnera, tan dignant y Princes de Mendeva, sta un domn d'orin Nappesc, nað lonc y Guittoc bassem, e la veyaçau ag Vetomond vars y fin ag dezein 1530.
+Maria Joquinnera, tan dignant y Princes de Mendeva, sta un domn d'orin Nappesc, nað lonc y Guittoc bassem, e la veyaçau ag Vetomont vars y fin ag dezein 1530.
 Maria Joquinnera, also known as the Princess of Mendeva, was a woman of Nappe [Lenape] origin, born by the lower Guittoc [Delaware] River, who travelled to the Vetomund [Old World] in the late 1530s.
 
 Ostendað ne plusour cort Vetomondin com y princes desracinað d'un gent Mendevan, la sta, lonc toð y tesmogn temporane, un glossomath e un çavel politic excellent.
