@@ -20,7 +20,7 @@ Not long after its inception, Brethin houses included both monasteries and conve
 
 Of particular note are the Brethin of [[Kernow]]; they became the most influential school within the order during the late medieval period, with a substantial increase in membership through the twelfth century. At this time many courts of [[Europe]] employed monks of the Brethin of Kernow as advisors.
 
-After the medieval period and until the modern day, the Brethin ran several major printing operations, such as the [[Yievle]] Brethin Primers, and educational institutions, such as the [[Tremonow Open School]] (formerly the Brethin Mesh Institute).
+After the medieval period and until the modern day, the Brethin ran several major printing operations, such as the [[Yievle]] Brethin Primers, and educational institutions, such as the [[Tremonnow Open School]] (formerly the Brethin Mesh Institute).
 
 ## Notable members
 * Pope [[Pope Damian VI|Damian VI (the Wise)]], reigned 1199-1208 N

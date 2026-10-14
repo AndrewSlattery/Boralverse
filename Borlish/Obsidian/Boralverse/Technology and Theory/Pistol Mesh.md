@@ -16,5 +16,5 @@ The pistol mesh grew out of several earlier technologies, all the way back to th
 
 A century later sees the emergence of [[Tachygraph|tachygraphs]], devices allowing one to type text directly onto the barric [[Steeplepost|steeplepost]] from the comfort of one's home. However, it was only with the rise of general grimmers in the twentieth century that we start to recognise the modern pistol mesh.  
 
-By the late twentieth century, the pistol mesh was sufficiently mature that whole enterprises could be conducted using it as a medium. For example, at this time the Tremonow Open School (formerly the Brethin Mesh Institute) offered history courses across [[Albion]] entirely via mesh.
+By the late twentieth century, the pistol mesh was sufficiently mature that whole enterprises could be conducted using it as a medium. For example, at this time the Tremonnow Open School (formerly the Brethin Mesh Institute) offered history courses across [[Albion]] entirely via mesh.
 
