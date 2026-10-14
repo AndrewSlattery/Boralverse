@@ -13,7 +13,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 3.3	dictionary	sovemblar "to outline"	sovemblar	to outline	True	4	173	1203	dictionary/3.3_sovemblar_to_outline.md
 3.4	dictionary	zygom "valve"	zygom	valve	True	4	187	1140	dictionary/3.4_zygom_valve.md
 3.5	notes	Dane Settlements in the Isles			False	0	252	1684	notes/3.5_Dane_Settlements_in_the_Isles.md
-4.1	excerpt	Rise of the Stadbund			False	0	252	1588	excerpt/4.1_Rise_of_the_Stadbund.md
+4.1	excerpt	Rise of the Stadbund			False	0	252	1587	excerpt/4.1_Rise_of_the_Stadbund.md
 4.2	dictionary	spait "scared"	spait	scared	True	3	138	835	dictionary/4.2_spait_scared.md
 4.3	dictionary	autoschedon "hand-to-hand combat"	autoschedon	hand-to-hand combat	True	2	124	867	dictionary/4.3_autoschedon_hand-to-hand_combat.md
 4.4	dictionary	belem "scene"	belem	scene	True	4	168	1021	dictionary/4.4_belem_scene.md
@@ -1043,7 +1043,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 202.3	dictionary	Lexmber 2025 - 31: se corruð "set"	Lexmber 2025 - 31: se corruð	set	True	5	220	1343	dictionary/202.3_Lexmber_2025_-_31_se_corruð_set.md
 202.4	dictionary	mornç a morn "piece of the action"	mornç a morn	piece of the action	True	2	156	891	dictionary/202.4_mornç_a_morn_piece_of_the_action.md
 202.5	notes	Braxoch beet			False	0	455	2983	notes/202.5_Braxoch_beet.md
-203.1	excerpt	Saxony			False	0	245	1470	excerpt/203.1_Saxony.md
+203.1	excerpt	Saxony			False	0	245	1469	excerpt/203.1_Saxony.md
 203.2	dictionary	cug "fall"	cug	fall	True	7	186	1171	dictionary/203.2_cug_fall.md
 203.3	dictionary	lat "root"	lat	root	True	4	152	879	dictionary/203.3_lat_root.md
 203.4	dictionary	vry "prestige"	vry	prestige	True	3	144	936	dictionary/203.4_vry_prestige.md
