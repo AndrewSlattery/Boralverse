@@ -17,6 +17,8 @@ The name is found on world maps from 1689, and in print from 1692. It comes from
 - Empires and alliances: [[First Drengot Empire]], [[Second Roman Empire]], [[Drengot Collusion]], [[New Urban Mesh]], [[Riverine Cities]]
 
 ## Africa
+*Main article: [[Africa]]*
+
 - [[Morrack]], in the north-west of the continent
 - [[Libya]], on the [[Middlesea]] coast between Morrack and Egypt
 - [[Egypt]], whose city of Cairo was the seat of the [[Single Caliphate]]
@@ -27,6 +29,8 @@ The name is found on world maps from 1689, and in print from 1692. It comes from
 - Sant Adrian, an island under Vascon control since the fifteenth century
 
 ## Asia
+*Main article: [[Asia]]*
+
 - [[Persia|The Persias]]
 - Armenia, site of the Hellenic Conflict of the 1640s
 - The Riyalid Sultanate, in the seventeenth century the largest Muslim state in the world

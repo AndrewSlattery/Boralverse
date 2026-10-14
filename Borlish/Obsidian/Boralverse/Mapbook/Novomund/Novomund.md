@@ -16,6 +16,8 @@ Many crops now cultivated worldwide were first farmed in the Novomund, including
 The name is a univerbation of Latin *novus mundus* "new world"; the phrase *dē novō mundō* "from the new world" is attested from 1509, and Scholastic Latin *novomundus* later supplied the vernacular forms.
 
 ## Mendeva
+*Main article: [[Mendeva]]*
+
 The name Mendeva is attested in the adjectival form *mendēvalēnsis* on maps from the 1471 Landfall voyage. It derives from Vask *mendeval* "west", itself likely a borrowing from Vascon *vent de val* "valley wind".
 
 - Regions: [[Lower Mendeva]], [[Gulf Mendeva]], [[British Mendeva]]
@@ -35,12 +37,14 @@ The name Mendeva is attested in the adjectival form *mendēvalēnsis* on maps fr
 The Arcabil are a collection of islands in the Atlantic, east of Mashick, with a complicated history of influences from various Vetomundane powers. [[Cocain]] is the largest.
 
 ## Cappatia
+*Main article: [[Cappatia]]*
+
 The name Cappatia is seen only from the 1570s. It comes via Latin *Cappātia* and Arabic from Run'allo *cappacha* "this world", through contact between Morrack merchants and the Tavancine Empire.
 
 - [[Tavancy]], a major polity on the western coast, descended from the Tavancine Empire
 - Maboutia, south of Tavancy
 - Dovachine, a minor polity at the southern tip of the continent
-- Staddomains along the eastern coast, among them Neuwillem, Parnaven and Waronøu of Dutch influence and Monçating of Borlish influence
+- Staddomains along the eastern coast, among them Neuwillem, Parnaven and Varonøw of Dutch influence and Monçating of Borlish influence
 
 ## See also
 - [[Novomundane Landfall]]

@@ -1,5 +1,6 @@
 ---
 type: realm
+borlish: Ceteromont
 ---
 The Ceteromund comprises the continents of [[Angelica]] and [[Australia]], together with landmasses such as [[Tecamaw]]. It is the last named of the three realms into which geographers have divided the large landmasses of the world since the early nineteenth century, alongside the [[Vetomund]] and the [[Novomund]].
 
@@ -7,6 +8,8 @@ The Ceteromund comprises the continents of [[Angelica]] and [[Australia]], toget
 The name comes from Scholastic Latin *cēteromundus* "the other world", from *cēterus* "rest, remainder". It is first found in 1772, in theoretical use for any lands not yet categorised.
 
 ## Angelica
+*Main article: [[Angelica]]*
+
 The name Angelica is first attested in Latin in the eighteenth century, as an alteration of earlier *Angalica* or *Angalaca*, which originally applied only to the continent's northern coast. It came via Arabic and Bāsan from a local language, perhaps Dual Jungle *āngangaraca* "ancestral lands", literally "bone country".
 
 - [[New Leudong]], in the south-east of the continent
