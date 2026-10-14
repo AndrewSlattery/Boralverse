@@ -12,7 +12,7 @@ The ancient Gauls spoke Gaulish, a Kelt language. Several of its words survive i
 ## The Franks
 Provence was incorporated into the expanding Francian Empire in the sixth century. Around 720 the Catumagin Accords ended hostilities between the [[Kingdom of the Franks]] and the Kernish kingdoms and fixed a border between them, part of which ran along the river Vire.
 
-In the ninth century the Francian Empire divided in two. Its eastern half, combined with [[Willemy]], became the [[German Empire]], while the western fragment continued as the Kingdom of the Franks, or the West Francian Kingdom. In the mid-tenth century the West Francian king Robert I held court in [[Paris]], while the Kingdom of Aquitain was ruled from Bordew.
+In the ninth century the Francian Empire divided in two. Its eastern half, combined with [[Willemy]], became the [[First German Empire|German Empire]], while the western fragment continued as the Kingdom of the Franks, or the West Francian Kingdom. In the mid-tenth century the West Francian king Robert I held court in [[Paris]], while the Kingdom of Aquitain was ruled from Bordew.
 
 Viking raids along the Seine and the Orne began in earnest in the ninth century and then spread west; the monastery at Landvennick in Kernow was burned in 888. [[Normandy]] grew from Dane settlements in the north of Gaul in the ninth and tenth centuries, and the Franks formally ceded it in the tenth century. By the eleventh century it was the Duchy of Normandy, a semi-autonomous Frankish vassal ruled from Roun by the Drengot family.
 

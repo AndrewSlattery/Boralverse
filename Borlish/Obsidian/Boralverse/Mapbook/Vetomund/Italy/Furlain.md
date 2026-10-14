@@ -9,7 +9,7 @@ posts:
 Furlain (Merch pronunciation /fʊːˈləin/, endonym **Furlagne** /furˈlaɲə/) is a polity in the northeast of the Italian peninsula, whose principal cities are [[Verona]] and [[Odin]]. It borders [[Lombardy]] to the west, [[Bavarn]] to the north, [[Crain]] to the east, and [[Venise]] to the south.
 
 ## History
-During the [[Second Tetrarchy]] of the eleventh and twelfth centuries, the March of Furlain was the southernmost part of the [[German Empire]], at first a direct imperial vassal and later specifically consolidated under the suzerainty of the Kingdom of Bavarn. After the collapse of the German Empire in the thirteenth century, Furlain's most frequent rival became the Republic of [[Venise]]. 
+During the [[Second Tetrarchy]] of the eleventh and twelfth centuries, the March of Furlain was the southernmost part of the [[First German Empire|German Empire]], at first a direct imperial vassal and later specifically consolidated under the suzerainty of the Kingdom of Bavarn. After the collapse of the German Empire in the thirteenth century, Furlain's most frequent rival became the Republic of [[Venise]]. 
 
 Furlain suffered a severe earthquake in 1348 which destroyed both the castle and cathedral in Odin. Reference to this event is the first attestation of the word *quagment* "earthquake" in the [[Borlish]] language.
 

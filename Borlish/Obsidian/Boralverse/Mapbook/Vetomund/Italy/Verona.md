@@ -8,7 +8,7 @@ posts:
 Verona is a city in the north-east of the Italian peninsula.
 
 # History
-During the tenth century and into the time of the [[Second Tetrarchy]], Verona and its province were contested between the [[Kingdom of the Lombards]] (and latterly, [[Lombardy]]) and the [[German Empire]]. The Verona branch of the Adelchian dynasty ruled Lombardy during the eleventh century.
+During the tenth century and into the time of the [[Second Tetrarchy]], Verona and its province were contested between the [[Kingdom of the Lombards]] (and latterly, [[Lombardy]]) and the [[First German Empire|German Empire]]. The Verona branch of the Adelchian dynasty ruled Lombardy during the eleventh century.
 
 In the late twelfth and early thirteenth centuries, Verona was part of (and the most prosperous city in) the duchy of [[Furlain]].
 

@@ -8,7 +8,9 @@ place:
 posts:
   - "21.5"
 ---
-Kent (formally the Bond of Kent and [[Normandy]]; in Roun French **The Bond de Caint od Normandy**) is a state in southern [[Albion]] and northern [[Gaul]].
+Kent (formally the Bond of Kent and [[Normandy]]; in Roun French **The Bond de Caint od Normandy**) is a state in southern [[Albion]] and northern [[Gaul]], with its capital at [[Roun]].
+
+The Kentish Channel divides Kent both geographically and linguistically. English Kent, in Albion, speaks the English language Kentish; across the Channel, Norman Kent (in the eighteenth century, [[Normandy]] and [[Flanders]]) speaks Norman. "Norman Kent" is also used of the whole polity under its Norman rulers.
 
 ## History
 ### Pre-Conjuring Kent
@@ -17,7 +19,9 @@ In the first millennium, Kent was first an independent English kingdom and then 
 In the tenth century, King [[Jothey of Borland]] arrived in Kent with his queen and children, twice-exiled from [[Borland]] and [[Southbar]] following the Dane invasions of the island.
 
 ### Pre-Conjuring Normandy
-Normandy was formed from Dane settlements in the north of Gaul in the ninth and tenth centuries. By the eleventh it had been established as a vassal of the [[Kingdom of the Franks]] as the [[Duchy of Normandy]], ruled by the [[Drengot]] family. It stretched from the Vire river in the west to much of [[Flanders]] in the east, and Norman in-migration southward to found towns such as [[Thelmass]] continued for some centuries.
+*Main article: [[Normandy]]*
+
+Normandy was formed from Dane settlements in the north of Gaul in the ninth and tenth centuries. By the eleventh it had been established as a vassal of the [[Kingdom of the Franks]] as the [[Normandy|Duchy of Normandy]], ruled by the [[Drengot]] family. It stretched from the Vire river in the west to much of [[Flanders]] in the east, and Norman in-migration southward to found towns such as [[Thelmass]] continued for some centuries.
 
 As the [[Dane Supremacy]] in the north waned in the tenth century, many left [[Sodrick]] and other Danish lands to the relative prosperity of Normandy. Moreover, Norman ships participated in raids along the coasts of [[Europe]] through this period, as far afield as [[Marsella]] in 946 N.
 

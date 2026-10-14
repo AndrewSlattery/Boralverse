@@ -9,7 +9,7 @@ Willemy is a polity in northern [[Europe]], situated east of Norman [[Kent]] and
 
 # History
 
-The Duchy of Willemy was a minor polity within the [[German Empire]] during the [[Second Tetrarchy]] of the eleventh and twelfth centuries. Forming much of the empire's border with the [[First Drengot Empire]] to the west, defence against the marksmen of Willemy led Drengot Emperor [[Roger II, Drengot Emperor|Roger II]] to spend greatly on castle fortifications from [[Flanders]] to the Alps.
+The Duchy of Willemy was a minor polity within the [[First German Empire|German Empire]] during the [[Second Tetrarchy]] of the eleventh and twelfth centuries. Forming much of the empire's border with the [[First Drengot Empire]] to the west, defence against the marksmen of Willemy led Drengot Emperor [[Roger II, Drengot Emperor|Roger II]] to spend greatly on castle fortifications from [[Flanders]] to the Alps.
 
 The [[Great Flie Flood]] of 1171 swept away much of [[Lower Frisia]] in Willemy, creating several new islands in the [[Rustigh Strait]] (such as Texel) and killing then-ruler [[Lovis the Tall]], who was in Amstel at the time. The devastation in the region is thought to have allowed Borlish [[Axbane]] to flourish as a trading post in the following century.
 

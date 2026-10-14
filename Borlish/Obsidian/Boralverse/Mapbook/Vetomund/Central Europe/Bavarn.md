@@ -8,7 +8,7 @@ posts:
 Bavarn (Bóarn /ˈpoː.ɑːn/) is a centrally-located German polity of [[Europe]]. Among others, it borders [[Bohemia]], [[Burgundy]], [[Furlain]], [[Saxony]], and [[Willemy]].
 
 ## History
-During the [[Second Tetrarchy]], the Kingdom of Bavarn was one of the two main players in the [[German Empire]]; the Empire was for some time ruled jointly by the Houghbrocken and Andex dynasties of Saxony and Bavarn respectively.
+During the [[Second Tetrarchy]], the Kingdom of Bavarn was one of the two main players in the [[First German Empire|German Empire]]; the Empire was for some time ruled jointly by the Houghbrocken and Andex dynasties of Saxony and Bavarn respectively.
 
 Thirteenth-century Bavarn was the epicentre of the [[Pauline Denunciations]] and the [[German Secession]], leading to the establishment of the [[Augsburg See]]. The concomitant strife saw each vassal in Bavarn declare either for [[Rome]] or for [[Augsburg]], in a powderkeg patchwork of allegiances that would collapse the Empire entirely. Bavarn itself would never regain as much Adriatic coast as it had enjoyed just prior to these events.
 

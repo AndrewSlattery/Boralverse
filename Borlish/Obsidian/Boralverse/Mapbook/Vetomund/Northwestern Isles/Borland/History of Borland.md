@@ -66,11 +66,11 @@ Attacks on Borland towns and monasteries by Dane raiders along the coasts began 
 
 After the fall of the First Kingdom in 898 (and the establishment of Dane Borland ruled from Damvath), the young King [[Jothey of Borland|Jothey]] went into exile with his wife Queen [[Brenna of Barrow]] to Sothbar. There they remained at court for over twenty years, and had several children. Subsequently they were forced to flee again to Kent as Dane Borland conquered the remainder of the island, uniting it for the first time since the Roman Empire.
 ## Medieval Imperia
-In the context of the [[First Drengot Empire]] to the west and the [[German Empire]] to the south, independent Borland had significant strategic value both militarily and economically. This was especially true in the towns and cities along the south coast such as [[Axbane]], which saw a great increase in harbour traffic during the eleventh and twelfth centuries.
+In the context of the [[First Drengot Empire]] to the west and the [[First German Empire|German Empire]] to the south, independent Borland had significant strategic value both militarily and economically. This was especially true in the towns and cities along the south coast such as [[Axbane]], which saw a great increase in harbour traffic during the eleventh and twelfth centuries.
 
 This period also saw the arrival of the [[Jacobin Fraternity]] to the island. Forced to flee [[Flanders]] in 1067 after being implicated in a popular uprising against Emperor [[Geoffrey II, Drengot Emperor|Geoffrey II]], they built the Penisular Monastery overlooking the city of Axbane.
 ## Post-Tetrarchic Borland
-With the collapse of the [[German Empire]] and growing sympathies towards the [[Augsburg See]], Rome considered the [[Baptism of the North]] an urgent undertaking. The Rome-allied Duchy of [[Crain]] collaborated with Borlish missionary forces and the [[Convoy Australier]] to bring Christianity to [[Lithow]] and its more distant [[Graven Sea]] neighbours.
+With the collapse of the [[First German Empire|German Empire]] and growing sympathies towards the [[Augsburg See]], Rome considered the [[Baptism of the North]] an urgent undertaking. The Rome-allied Duchy of [[Crain]] collaborated with Borlish missionary forces and the [[Convoy Australier]] to bring Christianity to [[Lithow]] and its more distant [[Graven Sea]] neighbours.
 
 The late thirteenth century sees the birth of a Borlish-language body of literature. Although we have earlier examples of treaties and religious texts in the vulgar tongue, works written in Borlish were hitherto sparse and either utilitarian or didactic.
 

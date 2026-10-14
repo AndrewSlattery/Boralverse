@@ -60,7 +60,7 @@ Europe is a continental peninsula in the northern hemisphere.
 - [[France]]
 - [[Kingdom of the Franks]]
 - [[Furlain]]
-- [[German Empire]]
+- [[First German Empire]]
 - [[Devon|Kingdom of Greater Devon]]
 - Empire of the Hellenes*
 - Horth

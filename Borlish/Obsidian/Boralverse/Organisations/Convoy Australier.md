@@ -9,7 +9,7 @@ posts:
 The Convoy Australier (Merch /ˈkɔn.vəi əˈstɾɛː.liːə/), officially the Order of Saint Hemma of Still Water, is a Christian organisation aligned with [[Rome]] which emerged in the [[Second Tetrarchy]] period. It has undergone several major transformations of purpose since its inception.
 ## History
 
-The Convoy began in the eleventh century in the Duchy of [[Crain]], a member of the [[German Empire]] subordinate to [[Bavarn]]. In the first decades of its existence the Convoy was in essence a (quite literally) glorified band of mercenaries.
+The Convoy began in the eleventh century in the Duchy of [[Crain]], a member of the [[First German Empire|German Empire]] subordinate to [[Bavarn]]. In the first decades of its existence the Convoy was in essence a (quite literally) glorified band of mercenaries.
 
 The Convoy was heavily involved in the first crusades and related ventures, from the [[Principality of Mystra]] in [[Greece]] to the unsuccessful forays in [[Jerusalem]]. It was appointed to administrate the new states of [[Antioch]] and [[Port Simon]] soon after their conquests in the twelfth century.
 

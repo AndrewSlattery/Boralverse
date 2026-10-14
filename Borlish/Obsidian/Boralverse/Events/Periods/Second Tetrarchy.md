@@ -8,7 +8,7 @@ place:
 posts:
   - "89.5"
 ---
-The Second Tetrarchy, in older works also called the Medieval Imperia, refers to the period of roughly two centuries at the dawn of second-millennium [[Europe]] when a good deal of the land was (at least nominally) under the jurisdiction of four empires: the [[First Drengot Empire]], the [[German Empire]], the [[Second Roman Empire]], and the [[Single Caliphate]].
+The Second Tetrarchy, in older works also called the Medieval Imperia, refers to the period of roughly two centuries at the dawn of second-millennium [[Europe]] when a good deal of the land was (at least nominally) under the jurisdiction of four empires: the [[First Drengot Empire]], the [[First German Empire|German Empire]], the [[Second Roman Empire]], and the [[Single Caliphate]].
 
 The name "Second Tetrarchy" was first used in the eighteenth century by the writings of Vascon historian [[David Bensaíd]], in reference to the Roman Tetrarchy of the early fourth century, although the two political regimes had little else in common.
 
