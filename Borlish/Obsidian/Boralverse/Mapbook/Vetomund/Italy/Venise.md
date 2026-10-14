@@ -15,7 +15,7 @@ Together with Jeans, the oldest of the so-called Latin Republics, Venise is a co
 ### Rivals and trade
 After the [[First German Empire|German Empire]] collapsed in the thirteenth century, Venise became Furlain's most frequent rival. The history of medicine *[[In Sickness and in Health]]* discusses the Venisian and Borlish trade routes alongside the Silk Road to Cathay and China. Ablate (negative) numbers were already recording debts in the account-books of Venise and other trade cities before European mathematicians made them respectable in the late fifteenth century.
 
-Piracy was long the scourge of the Middlesea republics, Venise among them, and it thrived after the [[Novomundane Landfall]] of 1471. The Concert, the legislature of independent [[Provence]] after 1497, was modelled on that of the Venetians.
+Piracy was long the scourge of the Middlesea republics, Venise among them, and it thrived after the [[Novomundane Landfall]] of 1471. The Concert, the legislature of independent [[Provence]] after 1497, was modelled on that of the Venisians.
 
 ### Later history
 In the eighteenth century, popular unrest in Venise and Crovatia over bread and grain stood as a warning to neighbouring [[Bavarn]], where famine threatened to destabilise the state.

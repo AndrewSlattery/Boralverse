@@ -8,7 +8,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 2.3	dictionary	dessoclar "to topple"	dessoclar	to topple	True	2	117	824	dictionary/2.3_dessoclar_to_topple.md
 2.4	dictionary	stancour "tinker"	stancour	tinker	True	3	160	1083	dictionary/2.4_stancour_tinker.md
 2.5	notes	Children's Curriculum, part 2			False	12	310	1876	notes/2.5_Children's_Curriculum,_part_2.md
-3.1	excerpt	Agricultural Innovations			False	0	297	1868	excerpt/3.1_Agricultural_Innovations.md
+3.1	excerpt	Agricultural Innovations			False	0	297	1872	excerpt/3.1_Agricultural_Innovations.md
 3.2	dictionary	smoutar "riot"	smoutar	riot	True	2	115	796	dictionary/3.2_smoutar_riot.md
 3.3	dictionary	sovemblar "to outline"	sovemblar	to outline	True	4	173	1203	dictionary/3.3_sovemblar_to_outline.md
 3.4	dictionary	zygom "valve"	zygom	valve	True	4	187	1140	dictionary/3.4_zygom_valve.md
@@ -461,7 +461,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 91.2	dictionary	cambr pijon "lodgings"	cambr pijon	lodgings	True	2	104	718	dictionary/91.2_cambr_pijon_lodgings.md
 91.3	dictionary	arreloðeçað "in one's Sunday best"	arreloðeçað	in one's Sunday best	True	2	105	748	dictionary/91.3_arreloðeçað_in_one's_Sunday_best.md
 91.4	dictionary	droug "contribution"	droug	contribution	True	4	145	949	dictionary/91.4_droug_contribution.md
-91.5	notes	Millstone War			False	0	283	1799	notes/91.5_Millstone_War.md
+91.5	notes	Millstone War			False	0	283	1794	notes/91.5_Millstone_War.md
 92.1	excerpt	Barruèc			False	0	321	1741	excerpt/92.1_Barruèc.md
 92.2	dictionary	scagl a natur "the way of things"	scagl a natur	the way of things	True	2	183	1114	dictionary/92.2_scagl_a_natur_the_way_of_things.md
 92.3	dictionary	ascreuçon "assignment"	ascreuçon	assignment	True	3	110	828	dictionary/92.3_ascreuçon_assignment.md

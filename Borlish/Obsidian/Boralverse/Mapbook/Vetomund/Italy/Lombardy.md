@@ -32,7 +32,7 @@ Lombard is the language of Lombardy. Borlish borrowed *zizania* "discord" from i
 
 ## People
 - Jacob III (1087–1130), king of Lombardy
-- [[Audace Saviano]] (fl. 1891), diplomat of the Good Game period, whose granddaughter was the author [[Honorine Maignard]]
+- [[Audace Saviano]] (fl. 1891), diplomat of the Good Game period, whose daughter was the author [[Honorine Maignard]]
 - Jovanna Ariperto (fl. 1998), historian at the Autonome University and author of *Developments in Philosophy since the Revitalist Period*
 - Dijaca Rofotto (fl. 1997), historian of medieval religion at the Sovereign Library, author of *On the Christianisation of the Northwestern Isles*
 

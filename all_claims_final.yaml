@@ -16417,14 +16417,14 @@ claims:
 - entry: 91.5
   title: Millstone War
   category: person
-  claim: Honorine Maignard was the granddaughter of Lombard diplomat Audace Saviano.
+  claim: Honorine Maignard was the daughter of Lombard diplomat Audace Saviano.
   entities:
   - name: Honorine Maignard
     type: person
   - name: Audace Saviano
     type: person
   relationships:
-  - type: granddaughter
+  - type: daughter
     from: Honorine Maignard
     to: Audace Saviano
 - entry: 91.5
@@ -20569,7 +20569,7 @@ claims:
 - entry: 134.5
   title: A Motley Miscellany
   category: work
-  claim: '''Wings Afire'' (Italian: ''Ale in Fiamme'', 1824) is an opera written by Venetian composer Chiarina Bruno and first
+  claim: '''Wings Afire'' (Italian: ''Ale in Fiamme'', 1824) is an opera written by Venisian composer Chiarina Bruno and first
     performed in the Verona Arena.'
   entities:
   - name: Wings Afire
