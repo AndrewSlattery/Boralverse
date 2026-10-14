@@ -20,7 +20,7 @@ Vascony was forced to cede [[Portingale]], its economic heart, to Andalus after 
 Andalus was embroiled in conflict with Morrack (as its neighbour attempted a reconquest) for a prolonged period in the eighteenth century; some but not all of the involved skirmishes are traditionally grouped with the concurrent [[Democratic Wars]] unfolding globally. A signalling line from Cordova to Málaga set-up at this time would develop into the world's first [[Steeplepost|steeplepost]] connection between two major cities.
 
 # People
-- Abdul Raman IV (fl. 1188), ruler of the Emirate of Cordova under the [[Single Caliphate]]
+- Abdul Raman IV (fl. 1188), ruler of the Admiralty of Cordova under the [[Single Caliphate]]
 - Joan Bensaíd (fl. 1951), author of the 1951 scholastic quire 'The Communication Toolset' (**El Herramente de Communicazón**)
 - Jorala (fl. c18-19), landscape artist born in Cazris whose later work was influenced by the [[Voidtale|voidtale]] craze
 - Judeta Barracin (fl. 1919), author who helped pioneer the genre of [[Social comedy]] with her work 'Flaxen Hearts'
