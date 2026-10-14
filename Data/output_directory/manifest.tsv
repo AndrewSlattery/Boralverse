@@ -331,7 +331,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 65.2	dictionary	pille "felted"	pille	felted	True	3	117	723	dictionary/65.2_pille_felted.md
 65.3	dictionary	costoscment "authorities"	costoscment	authorities	True	1	86	694	dictionary/65.3_costoscment_authorities.md
 65.4	dictionary	gamblas "barge"	gamblas	barge	True	2	122	802	dictionary/65.4_gamblas_barge.md
-65.5	notes	Second Roman Empire			False	0	335	2185	notes/65.5_Second_Roman_Empire.md
+65.5	notes	Second Roman Empire			False	0	335	2183	notes/65.5_Second_Roman_Empire.md
 66.1	excerpt	The "Metric" System			False	0	280	1573	excerpt/66.1_The_Metric_System.md
 66.2	dictionary	sucquar "sag"	sucquar	sag	True	3	123	681	dictionary/66.2_sucquar_sag.md
 66.3	dictionary	roçon "dew"	roçon	dew	True	4	102	644	dictionary/66.3_roçon_dew.md
@@ -451,7 +451,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 89.2	dictionary	yeul ovart "thoroughfare"	yeul ovart	thoroughfare	True	2	136	864	dictionary/89.2_yeul_ovart_thoroughfare.md
 89.3	dictionary	annex denover "afterthought"	annex denover	afterthought	True	2	150	1047	dictionary/89.3_annex_denover_afterthought.md
 89.4	dictionary	sveldr "whittle"	sveldr	whittle	True	5	171	1033	dictionary/89.4_sveldr_whittle.md
-89.5	notes	Second Tetrarchy			False	0	437	2667	notes/89.5_Second_Tetrarchy.md
+89.5	notes	Second Tetrarchy			False	0	437	2665	notes/89.5_Second_Tetrarchy.md
 90.1	excerpt	London in the "Good Game" period			False	0	263	1631	excerpt/90.1_London_in_the_Good_Game_period.md
 90.2	dictionary	zar "serious"	zar	serious	True	5	190	1158	dictionary/90.2_zar_serious.md
 90.3	dictionary	dorangot "overcoat"	dorangot	overcoat	True	1	77	551	dictionary/90.3_dorangot_overcoat.md

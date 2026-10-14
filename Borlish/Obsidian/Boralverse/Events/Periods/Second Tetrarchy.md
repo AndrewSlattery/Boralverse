@@ -20,7 +20,7 @@ The German Empire descended from the eastern half of the expansive [[Kingdom of 
 
 By the end of the twelfth century, the northern cities were developing into the mercantile Stadbund and away from imperial authority. The slow erosion of the German Empire accelerated rapidly during the [[German Secession]] of the thirteenth century, and by the end of that century the fiction of a surviving German Empire was laid to rest with the corpse of the first Kingdom of Saxony.
 
-The Second Roman Empire had existed since the (short-lived) reconquest of [[Rome]] from the Eastern Goths by Justinian I in 536; it would persist in some form for over a millennium. The eleventh and twelfth centuries did see the empire reach a territorial maximum, controlling territory from [[Corsica]] in the west to [[Derban]] on the [[Hazaran Sea]] in the east.
+The Second Roman Empire had existed since the (short-lived) reconquest of [[Rome]] from the Eastern Goths by Justinian I in 536; it would persist in some form for over a millennium. The eleventh and twelfth centuries did see the empire reach a territorial maximum, controlling territory from [[Corse]] in the west to [[Derban]] on the [[Hazaran Sea]] in the east.
 
 It was only in the late seventeenth century that the Second Roman Empire ceased to exist in any meaningful sense (despite several periods of only nominal continuity), due to a succession crisis and a series of dramatic civil wars.
 

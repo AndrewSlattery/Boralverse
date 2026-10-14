@@ -13426,7 +13426,7 @@ claims:
   title: Second Roman Empire
   category: polity
   claim: During the Second Tetrarchy, the Second Roman Empire reached a territorial maximum with the capture of Derban in
-    1026 N, controlling lands from Corsica in the west to the Hazaran Sea in the east.
+    1026 N, controlling lands from Corse in the west to the Hazaran Sea in the east.
   entities:
   - name: Second Roman Empire
     type: polity
@@ -16262,11 +16262,11 @@ claims:
   title: Second Tetrarchy
   category: polity
   claim: In the eleventh and twelfth centuries, the Second Roman Empire reached a territorial maximum, controlling territory
-    from Corsica in the west to Derban on the Hazaran Sea in the east.
+    from Corse in the west to Derban on the Hazaran Sea in the east.
   entities:
   - name: Second Roman Empire
     type: polity
-  - name: Corsica
+  - name: Corse
     type: place
   - name: Derban
     type: place

@@ -204,9 +204,9 @@ The single most consequential fact here is that **there are two Popes**, and bot
 | **Lombardy** | ● | The **Lombard marquisates were abolished in the 1860s**. Contains **Saint Marinus** (Autonome University, C11; the Sovereign Library on Titan). Importing Portingale astraphor by 1970 |
 | **Jeans** | ◐ | [Genoa] + the island of **Corse**. Oldest of the **Latin Republics** (C10); led by an elected *console* |
 | **Venise** | ◐ | Republic; a Latin Republic; long rival of Furlain |
-| **Furlain** | ● | [Friuli]; principal cities **Verona** and **Udine**; borders Lombardy, Bavarn, Crain, Venise. The **St Hurroco Youth Orchestra** was recorded in 1912 |
+| **Furlain** | ● | [Friuli]; principal cities **Verona** and **Odin** [Udine]; borders Lombardy, Bavarn, Crain, Venise. The **St Hurroco Youth Orchestra** was recorded in 1912 |
 | **Tuscany** | ◐ | Capital **Florence** |
-| **Naples, Sicily (Kingdom of Greater Sicily), Genova, Sardine, Corsica, Tyrrhene Isles, Adigh** | ○ | Listed in `Europe.md` |
+| **Naples, Sicily (Kingdom of Greater Sicily), Sardine, Tyrrhene Isles, Adigh** | ○ | Listed in `Europe.md` |
 
 A **"General Italian Fervour"** is dated to 1968 — an unexplained modern Italian political/cultural episode. **Gap.**
 
