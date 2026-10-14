@@ -437,7 +437,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 86.3	dictionary	hapr "groceries"	hapr	groceries	True	3	148	994	dictionary/86.3_hapr_groceries.md
 86.4	dictionary	bougr "fellow"	bougr	fellow	True	2	121	795	dictionary/86.4_bougr_fellow.md
 86.5	notes	Bavarn			False	0	350	2290	notes/86.5_Bavarn.md
-87.1	excerpt	Deviance Exam			False	0	299	1892	excerpt/87.1_Deviance_Exam.md
+87.1	excerpt	Deviance Exam			False	0	299	1891	excerpt/87.1_Deviance_Exam.md
 87.2	dictionary	teurfiar "sully"	teurfiar	sully	True	3	129	855	dictionary/87.2_teurfiar_sully.md
 87.3	dictionary	amaçgat ðescant "breeding ground"	amaçgat ðescant	breeding ground	True	2	134	933	dictionary/87.3_amaçgat_ðescant_breeding_ground.md
 87.4	dictionary	moulous "hefty"	moulous	hefty	True	3	92	616	dictionary/87.4_moulous_hefty.md
@@ -517,7 +517,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 100.3	dictionary	caugtrbal "football"	caugtrbal	football	True	1	104	665	dictionary/100.3_caugtrbal_football.md
 100.4	dictionary	ricottabr "funny"	ricottabr	funny	True	2	107	729	dictionary/100.4_ricottabr_funny.md
 100.5	notes	Voyage of the Phœbos			False	0	251	1458	notes/100.5_Voyage_of_the_Phœbos.md
-101.1	excerpt	Drengot Collusion			False	0	210	1377	excerpt/101.1_Drengot_Collusion.md
+101.1	excerpt	Drengot Collusion			False	0	210	1376	excerpt/101.1_Drengot_Collusion.md
 101.2	dictionary	raussið "backwards"	raussið	backwards	True	3	119	781	dictionary/101.2_raussið_backwards.md
 101.3	dictionary	scroçabr "agonising"	scroçabr	agonising	True	3	109	810	dictionary/101.3_scroçabr_agonising.md
 101.4	dictionary	appragl phasm "television set"	appragl phasm	television set	True	1	97	740	dictionary/101.4_appragl_phasm_television_set.md
@@ -1093,7 +1093,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 212.3	dictionary	quoncein "young adulthood"	quoncein	young adulthood	True	3	173	1152	dictionary/212.3_quoncein_young_adulthood.md
 212.4	dictionary	benoyour "medium"	benoyour	medium	True	2	174	1129	dictionary/212.4_benoyour_medium.md
 212.5	notes	German languages			False	0	300	1903	notes/212.5_German_languages.md
-213.1	excerpt	Historiography Questions 2			False	0	268	1648	excerpt/213.1_Historiography_Questions_2.md
+213.1	excerpt	Historiography Questions 2			False	0	268	1647	excerpt/213.1_Historiography_Questions_2.md
 213.2	dictionary	dragoman "interpreter"	dragoman	interpreter	True	3	166	1132	dictionary/213.2_dragoman_interpreter.md
 213.3	dictionary	pedisecq "attendant"	pedisecq	attendant	True	3	142	928	dictionary/213.3_pedisecq_attendant.md
 213.4	dictionary	enhautir "boost"	enhautir	boost	True	2	114	816	dictionary/213.4_enhautir_boost.md

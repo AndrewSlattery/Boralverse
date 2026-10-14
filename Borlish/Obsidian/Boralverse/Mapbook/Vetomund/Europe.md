@@ -47,7 +47,7 @@ Europe is a continental peninsula in the northern hemisphere.
 - [[Burgundy]]
 - Connaught
 - Cordoba
-- Corsica
+- Corse
 - [[Crain]]
 - [[Crovatia]]
 - [[Kingdom of Danaw]]
@@ -57,18 +57,18 @@ Europe is a continental peninsula in the northern hemisphere.
 - [[First Drengot Empire]]
 - [[Dunclothe]]
 - Florence
+- [[France]]
 - [[Kingdom of the Franks]]
 - [[Furlain]]
-- [[Genova]]
 - [[German Empire]]
 - [[Devon|Kingdom of Greater Devon]]
-- Gwyneth
 - Empire of the Hellenes*
 - Horth
 - Italian Concert
+- [[Jeans]]
 - [[Kent]]
 - [[Kernow]]
-- Kief
+- Kiew
 - Lenster
 - Lithow
 - [[Kingdom of the Lombards]]
@@ -78,13 +78,13 @@ Europe is a continental peninsula in the northern hemisphere.
 - [[Morrack]]\*
 - Munster
 - Naples
-- Normandy
+- [[Normandy]]
 - [[Northumber]]
 - [[Poland]]
 - [[Portingale]]
 - [[Provence]]
 - [[Lombardy]]
-- Rome
+- [[Rome]]
    - Papal Dominium
 - [[Saxony]]
 - Scotland
@@ -96,13 +96,14 @@ Europe is a continental peninsula in the northern hemisphere.
 - [[Southbar]]
 - [[Stadbund]]
 - [[Tolose]]
-- Tuscany
+- [[Tuscany]]
 - Tyrconnal
 - Valland
 - [[Vascony]]
-- Venise
+- [[Venise]]
 - [[Wales]]
 - [[Wessex]]
 - [[Willemy]]
+- Wynneth
 
 \*These polities are (or have been) only partly in Europe.
