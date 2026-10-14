@@ -13971,21 +13971,21 @@ claims:
   title: Threshold force
   category: event
   claim: The story of threshold force begins in 1902 N with the discovery of the atomic nux at the Nÿstad Atellier in the
-    Cappatian city of Warnøw.
+    Cappatian city of Varonøw.
   entities:
   - name: threshold force
     type: concept
   - name: Nÿstad Atellier
     type: organisation
-  - name: Warnøw
+  - name: Varonøw
     type: place
   dates: 1902 N
 - entry: 71.5
   title: Threshold force
   category: glossary
-  claim: Warnøw is the Boralverse name for a city located where Vitória (Espírito Santo), Brazil is in IRL.
+  claim: Varonøw is the Boralverse name for a city located where Vitória (Espírito Santo), Brazil is in IRL.
   entities:
-  - name: Warnøw
+  - name: Varonøw
     irl: Vitória, Brazil
     type: place
 - entry: 71.5
@@ -23743,7 +23743,7 @@ claims:
 - entry: 171.5
   title: Novomundane Landfall
   category: event
-  claim: 'The Novomundane Landfall (Borlish: Abanc Novomondin) occurred in 1471 N when a ship on a New Navarre Enterprise
+  claim: 'The Novomundane Landfall (Borlish: Abanc Novomondan) occurred in 1471 N when a ship on a New Navarre Enterprise
     fishing expedition sighted and made landfall on the island of Brasil, marking the start of prolonged contact between the
     Vetomund and the Novomund.'
   entities:

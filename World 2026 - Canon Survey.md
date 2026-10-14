@@ -377,7 +377,7 @@ An **Outland Arcabil Association** worked for the Arcabil diaspora globally, wit
 | **Tavancy** | ● | [~Colombia, Ecuador, Peru, Bolivia, northern Chile]. Descendant of the **Tavantine** [Inca] Empire, occupying the west coast from the **Isthmus** [of Panama] south to Maboutian lands. Emperor Cariwasari (r. 1599–1660) had the longest reign in Cappatian history and was probably assassinated on Morrack orders. **University of Rimack** [Lima]. Runs a **Ministry for Effectiveness** |
 | **Maboutia** | ◐ | [~Chilean lands], south of Tavancy |
 | **Dovachine** | ● | [~southern Patagonia, Tierra del Fuego]. Minor polity at the continent's southern tip; named from Arabic "smoke", after the smoke-towers sighted by Captain al-Casmi in 1513 |
-| **Staddomains of the east coast** | ● | **Neuwillem** (Willem/Dutch; the *Bróderratcronike* 1561–97; still producing historians in **2024**), **Parnaven** (older seaport), **Waronøu / Varonøw** [~Vitória, ES] (the **Nÿstad Atellier**, 1902 discovery; the **Varonøw Higher Edifice**), **Monçating** (Borlish; a Borlish barony), **Awasúconda** [~Paraná] (host of the first **Cup of Cappatia**, 1908/09) |
+| **Staddomains of the east coast** | ● | **Neuwillem** (Willem/Dutch; the *Bróderratcronike* 1561–97; still producing historians in **2024**), **Parnaven** (older seaport), **Varonøw** [~Vitória, ES] (the **Nÿstad Atellier**, 1902 discovery; the **Varonøw Higher Edifice**), **Monçating** (Borlish; a Borlish barony), **Awasúconda** [~Paraná] (host of the first **Cup of Cappatia**, 1908/09) |
 
 **Cappatian peoples/languages named:** Run'allo [Quechua], Warnine [Guaraní], Yengatow [Tupi], Veonic [Wayuu].
 Geography: the **Anticone Mountains** [the Andes], the **Awasú** river, the **Camboshung Ridge**.

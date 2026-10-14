@@ -137,7 +137,7 @@ History II, question 10:
   opened to public viewing elsewhere in January 1996. The Deganny display **ends** the year before the
   new viewings **begin**.
 - **The orthography is not Borlish.** Borlish has ‹ç ð æ œ ï› and no ‹á›. The acute marks *Culombálu* as
-  a foreign name carried into Merch/Borlish unaltered, the way *Waronøu* and *Cráyenschot* are.
+  a foreign name carried into Merch/Borlish unaltered, the way *Varonøw* and *Cráyenschot* are.
 
 ### Deganny is not a random peg
 

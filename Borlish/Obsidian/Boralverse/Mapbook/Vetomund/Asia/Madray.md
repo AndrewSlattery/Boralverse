@@ -11,7 +11,7 @@ The British ship [[Voyage of the Phœbos|Phœbos]] in the early sixteenth centur
 
 The death of King Rahulamathavan in 1735 is thought to have been due to an early outbreak of [[Pennackit dysentery|pennackit dysentery]] (although global outbreaks of the disease would not begin in earnest until 1753).
 
-As part of the general [[Democratic Wars]] period in the mid-eighteenth century, many states quarrelled for control over parts of India, including Madray. Both relatively nearby powers like [[Cathay]] and distant trade interests like [[Britain]] became embroiled.
+As part of the general [[Democratic Wars]] period in the mid-eighteenth century, many states quarrelled for control over parts of India, including Madray. Both relatively nearby powers like [[China]] and distant trade interests like [[Britain]] became embroiled.
 
 The eighteenth century also saw many technological developments out of this region. For example, the use of pedal holes in musical instruments was pioneered by the peria nadaswarm (the apex of arms races to widen pitch ranges and increase volume) which would influence instruments like the torriot into their modern forms.
 
