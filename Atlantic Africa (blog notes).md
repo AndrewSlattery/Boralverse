@@ -211,7 +211,7 @@ fits no European, Arabic, Mendevan or South Asian pattern already established in
 |---|---|---|
 | **Fuyo Jaðom** | ● fl. 1980, **Borlish** author of *Neyanç a Sagnt Stevan* ("Saint Stephen's Snowfall"), short stories adapted from tales he told his children (`Mapbook/Borland.md:214`) | Given name fits no European pattern. Surname is fully Borlish-orthographic (‹ð›) — i.e. **naturalised spelling on a non-native stem**, exactly what a third- or fourth-generation surname looks like. |
 | **Endric Kirennaga** | ● fl. 2009, **Borlish** masquira author of *Apollon Cogmaðer* ("Apollo on Holiday") (`Mapbook/Borland.md:215`) | Merch/Germanic given name + a four-syllable surname with no European shape. The classic diaspora signature: local forename, retained surname. |
-| **Takach Domoko** | Author of *We Will Burn Together*, "notable for its openly tovarick characters" (`Masquira romance.md:29`) | **Nationality is never stated anywhere.** Wholly unclaimed, and the most African-looking name in the corpus. |
+| **Takach Domoko** | Author of *We Will Burn Together*, "notable for its openly tovaric characters" (`Masquira romance.md:29`) | **Nationality is never stated anywhere.** Wholly unclaimed, and the most African-looking name in the corpus. |
 
 > **This is the single most useful finding for the entry.** Borland already has two modern authors — one
 > from 1980, one from 2009 — whose names canon has never explained. A C17–C18 Borlish-guild staddomain in

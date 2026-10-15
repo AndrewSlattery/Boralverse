@@ -24,7 +24,7 @@ The early public reaction to the Deviance movement varied significantly. It has 
 
 In 1850 a tide of secularisation began with the passing of the [[Laic Declarations]] in [[Belgrade]], which have largely been credited to the strong influence of Anti-Paradise theology in the [[Riverine Cities]] after the collapse of Danaw.
 
-In the later nineteenth century the Deviance movement was connected to the spread of the genre of [[Masquira romance|masquira romance]], possibly via their shared connections to tovarick communities.
+In the later nineteenth century the Deviance movement was connected to the spread of the genre of [[Masquira romance|masquira romance]], possibly via their shared connections to tovaric communities.
 
 # Features
 Many composers of the early nineteenth century were affiliated with the Deviance movement, and considered their music to be in the Deviant spirit. The music of Deviance composers emphasised emotion and the manipulation of the audience, and this helped make music the least controversial part of Anti-Paradism in its first few decades.
@@ -34,7 +34,7 @@ The Deviance movement was interested in folk traditions and stories; one example
 Supporters of the early Deviance movement are often portrayed as wearing lewd or otherwise-inappropriate clothing; it is difficult to ascertain the extent to which this reflected a real practice, as opposed to it being an invention by their detractors.
 
 # Notable supporters
-- Dr Mickel Cráyenschot (fl. c19), physician in French [[Willemy]] and early public tovarick
+- Dr Mickel Cráyenschot (fl. c19), physician in French [[Willemy]] and early public tovaric
 - [[Simon, Baron Monçating|Lord Simon, sixth Baron Monçating]] (b. 1770), infamous libertine of the [[Damvath]] melee
 - Poshack Nerwaman (fl. c19), famed lady explorer originally of [[Mashick]], sister to the composer Mollam Bushta
 - Ton Cráyenschot (fl. c19), composer remembered for the opera *Ad Pentaculum*, marked entirely in five

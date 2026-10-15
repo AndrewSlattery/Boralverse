@@ -147,12 +147,12 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 30.2	dictionary	evier "sink"	evier	sink	True	2	92	571	dictionary/30.2_evier_sink.md
 30.3	dictionary	costojar "protect"	costojar	protect	True	3	117	753	dictionary/30.3_costojar_protect.md
 30.4	dictionary	baury "panic"	baury	panic	True	2	126	796	dictionary/30.4_baury_panic.md
-30.5	notes	Masquira Romance			False	0	565	3639	notes/30.5_Masquira_Romance.md
+30.5	notes	Masquira Romance			False	0	565	3637	notes/30.5_Masquira_Romance.md
 31.1	excerpt	2-D Geometry			False	0	258	1472	excerpt/31.1_2-D_Geometry.md
 31.2	dictionary	vellisquar “scheme”			True	2	132	907	dictionary/31.2_vellisquar_“scheme”.md
 31.3	dictionary	guyer “anti-clockwise”			True	2	120	831	dictionary/31.3_guyer_“anti-clockwise”.md
 31.4	dictionary	bacchabond “Dionysian”			True	2	146	1001	dictionary/31.4_bacchabond_“Dionysian”.md
-31.5	notes	The Deviance movement			False	0	559	3663	notes/31.5_The_Deviance_movement.md
+31.5	notes	The Deviance movement			False	0	559	3661	notes/31.5_The_Deviance_movement.md
 32.1	excerpt	A Bookshop			False	0	227	1290	excerpt/32.1_A_Bookshop.md
 32.2	dictionary	suðel "patch"	suðel	patch	True	3	133	803	dictionary/32.2_suðel_patch.md
 32.3	dictionary	oblimanç "passion"	oblimanç	passion	True	2	184	1209	dictionary/32.3_oblimanç_passion.md
@@ -222,7 +222,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 45.2	dictionary	sortir ag vousc "to tryst"	sortir ag vousc	to tryst	True	2	187	1180	dictionary/45.2_sortir_ag_vousc_to_tryst.md
 45.3	dictionary	ollem "elm"	ollem	elm	True	2	169	963	dictionary/45.3_ollem_elm.md
 45.4	dictionary	birgasq "apricot"	birgasq	apricot	True	4	169	1103	dictionary/45.4_birgasq_apricot.md
-45.5	notes	Willemy			False	0	425	2586	notes/45.5_Willemy.md
+45.5	notes	Willemy			False	0	425	2585	notes/45.5_Willemy.md
 46.1	excerpt	Wearing a Mask or a Suit (cont.)			False	0	231	1260	excerpt/46.1_Wearing_a_Mask_or_a_Suit_(cont.).md
 46.2	dictionary	bro "dude"	bro	dude	True	2	164	1038	dictionary/46.2_bro_dude.md
 46.3	dictionary	descorçar "peer"	descorçar	peer	True	3	163	1031	dictionary/46.3_descorçar_peer.md
@@ -259,7 +259,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 51.3	dictionary	21st Lexember			True	2	101	638	dictionary/51.3_21st_Lexember.md
 51.4	dictionary	22nd Lexember			True	4	140	821	dictionary/51.4_22nd_Lexember.md
 51.5	notes	23rd Lexember			True	3	387	2487	notes/51.5_23rd_Lexember.md
-51.6	dictionary	24th Lexember			True	2	112	779	dictionary/51.6_24th_Lexember.md
+51.6	dictionary	24th Lexember			True	2	112	778	dictionary/51.6_24th_Lexember.md
 51.7	dictionary	25th Lexember			True	3	161	956	dictionary/51.7_25th_Lexember.md
 52.1	excerpt	26th Lexember			True	4	433	2581	excerpt/52.1_26th_Lexember.md
 52.2	dictionary	27th Lexember			True	2	112	727	dictionary/52.2_27th_Lexember.md
@@ -287,7 +287,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 56.3	dictionary	reloðeç "finery"	reloðeç	finery	True	3	99	742	dictionary/56.3_reloðeç_finery.md
 56.4	dictionary	liesc "period"	liesc	period	True	3	112	679	dictionary/56.4_liesc_period.md
 56.5	notes	Vascony			False	0	765	4764	notes/56.5_Vascony.md
-57.1	excerpt	Bad Soap			False	0	247	1485	excerpt/57.1_Bad_Soap.md
+57.1	excerpt	Bad Soap			False	0	247	1484	excerpt/57.1_Bad_Soap.md
 57.2	dictionary	enonç "list"	enonç	list	True	2	88	523	dictionary/57.2_enonç_list.md
 57.3	dictionary	got ag mar fondr "tilt at windmills"	got ag mar fondr	tilt at windmills	True	3	149	793	dictionary/57.3_got_ag_mar_fondr_tilt_at_windmills.md
 57.4	dictionary	geoscopic "globe-trotting"	geoscopic	globe-trotting	True	4	112	791	dictionary/57.4_geoscopic_globe-trotting.md
@@ -356,7 +356,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 70.2	dictionary	haubrjoranç "advertising"	haubrjoranç	advertising	True	2	115	848	dictionary/70.2_haubrjoranç_advertising.md
 70.3	dictionary	sdroy "stock"	sdroy	stock	True	3	139	846	dictionary/70.3_sdroy_stock.md
 70.4	dictionary	nacleu n'oc ort "looking up"	nacleu n'oc ort	looking up	True	1	111	683	dictionary/70.4_nacleu_n'oc_ort_looking_up.md
-70.5	notes	Monks and Metropoleis			False	0	288	1858	notes/70.5_Monks_and_Metropoleis.md
+70.5	notes	Monks and Metropoleis			False	0	288	1857	notes/70.5_Monks_and_Metropoleis.md
 71.1	excerpt	Atomic Theory			False	0	237	1493	excerpt/71.1_Atomic_Theory.md
 71.2	dictionary	heu "appearance"	heu	appearance	True	2	105	681	dictionary/71.2_heu_appearance.md
 71.3	dictionary	svingar "brandish"	svingar	brandish	True	2	79	590	dictionary/71.3_svingar_brandish.md
@@ -391,7 +391,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 77.2	dictionary	egreir "disembark"	egreir	disembark	True	4	162	992	dictionary/77.2_egreir_disembark.md
 77.3	dictionary	lavaç "wasteful"	lavaç	wasteful	True	2	97	673	dictionary/77.3_lavaç_wasteful.md
 77.4	dictionary	orruðar "seem"	orruðar	seem	True	3	141	867	dictionary/77.4_orruðar_seem.md
-77.5	notes	Continents and Conjugality			False	0	260	1740	notes/77.5_Continents_and_Conjugality.md
+77.5	notes	Continents and Conjugality			False	0	260	1739	notes/77.5_Continents_and_Conjugality.md
 78.1	excerpt	Decline of Feudaliam			False	0	290	1729	excerpt/78.1_Decline_of_Feudaliam.md
 78.2	dictionary	scaðr "square"	scaðr	square	True	6	146	865	dictionary/78.2_scaðr_square.md
 78.3	dictionary	joivr "frost"	joivr	frost	True	3	119	731	dictionary/78.3_joivr_frost.md
@@ -431,7 +431,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 85.2	dictionary	surplombar "overhang"	surplombar	overhang	True	5	164	1037	dictionary/85.2_surplombar_overhang.md
 85.3	dictionary	seucq historic "posterity"	seucq historic	posterity	True	1	110	748	dictionary/85.3_seucq_historic_posterity.md
 85.4	dictionary	yeustman "brewer"	yeustman	brewer	True	2	128	864	dictionary/85.4_yeustman_brewer.md
-85.5	notes	Laic Declarations			False	0	308	2110	notes/85.5_Laic_Declarations.md
+85.5	notes	Laic Declarations			False	0	308	2109	notes/85.5_Laic_Declarations.md
 86.1	excerpt	Letter to the Editor			False	0	240	1471	excerpt/86.1_Letter_to_the_Editor.md
 86.2	dictionary	improbar "disapprove of"	improbar	disapprove of	True	3	109	774	dictionary/86.2_improbar_disapprove_of.md
 86.3	dictionary	hapr "groceries"	hapr	groceries	True	3	148	994	dictionary/86.3_hapr_groceries.md
@@ -906,7 +906,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 176.3	dictionary	jom "cobalt"	jom	cobalt	True	2	143	844	dictionary/176.3_jom_cobalt.md
 176.4	dictionary	gevrment "circuitry"	gevrment	circuitry	True	3	138	923	dictionary/176.4_gevrment_circuitry.md
 176.5	notes	The Light that Casts a Thousand Shadows			False	0	296	1913	notes/176.5_The_Light_that_Casts_a_Thousand_Shadows.md
-177.1	excerpt	Laic Declarations			False	0	260	1640	excerpt/177.1_Laic_Declarations.md
+177.1	excerpt	Laic Declarations			False	0	260	1639	excerpt/177.1_Laic_Declarations.md
 177.2	dictionary	ubicqfeyar "promote"	ubicqfeyar	promote	True	3	124	854	dictionary/177.2_ubicqfeyar_promote.md
 177.3	dictionary	soucorsour "lifeguard"	soucorsour	lifeguard	True	3	153	994	dictionary/177.3_soucorsour_lifeguard.md
 177.4	dictionary	destourmar "demob"	destourmar	demob	True	3	125	793	dictionary/177.4_destourmar_demob.md
@@ -1035,7 +1035,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 201.2	dictionary	Lexember 2025 - 23: jahesment "set"	Lexember 2025 - 23: jahesment	set	True	2	119	814	dictionary/201.2_Lexember_2025_-_23_jahesment_set.md
 201.3	dictionary	Lexember 2025 - 24: jagatteyar "set"	Lexember 2025 - 24: jagatteyar	set	True	3	116	787	dictionary/201.3_Lexember_2025_-_24_jagatteyar_set.md
 201.4	dictionary	Lexember 2025 - 25: Suthocq "Set"	Lexember 2025 - 25: Suthocq	Set	True	3	235	1502	dictionary/201.4_Lexember_2025_-_25_Suthocq_Set.md
-201.5	notes	Lexember 2025 - 26: bot "set"			True	3	451	2833	notes/201.5_Lexember_2025_-_26_bot_set.md
+201.5	notes	Lexember 2025 - 26: bot "set"			True	3	451	2832	notes/201.5_Lexember_2025_-_26_bot_set.md
 201.6	dictionary	Lexember 2025 - 27: ormal "set"	Lexember 2025 - 27: ormal	set	True	4	193	1207	dictionary/201.6_Lexember_2025_-_27_ormal_set.md
 201.7	dictionary	Lexember 2025 - 28: uscar "set"	Lexember 2025 - 28: uscar	set	True	4	163	996	dictionary/201.7_Lexember_2025_-_28_uscar_set.md
 202.1	excerpt	Lexember 2025 - 29: dos "set"			True	4	383	2341	excerpt/202.1_Lexember_2025_-_29_dos_set.md

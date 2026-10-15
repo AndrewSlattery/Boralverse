@@ -8139,7 +8139,7 @@ claims:
 - entry: '30.5'
   title: Masquira Romance
   category: culture
-  claim: Masquira romance was popular early on with the semi-public tovarick communities in the Riverine Cities.
+  claim: Masquira romance was popular early on with the semi-public tovaric communities in the Riverine Cities.
   entities:
   - name: masquira romance
     type: concept
@@ -8148,7 +8148,7 @@ claims:
 - entry: '30.5'
   title: Masquira Romance
   category: culture
-  claim: Tovarick communities spread the influence of masquira through Europe and the Novomund, along with the broader Deviance
+  claim: Tovaric communities spread the influence of masquira through Europe and the Novomund, along with the broader Deviance
     movement.
   entities:
   - name: masquira romance
@@ -8158,7 +8158,7 @@ claims:
 - entry: '30.5'
   title: Masquira Romance
   category: work
-  claim: '''We Will Burn Together'' by Takach Domoko is notable for its openly tovarick characters.'
+  claim: '''We Will Burn Together'' by Takach Domoko is notable for its openly tovaric characters.'
   entities:
   - name: We Will Burn Together
     type: work
@@ -8357,7 +8357,7 @@ claims:
   title: The Deviance Movement
   category: event
   claim: In the later nineteenth century, the Deviance movement was connected to the spread of masquira romance, possibly
-    via shared connections to tovarick communities.
+    via shared connections to tovaric communities.
   entities:
   - name: Deviance movement
     type: event
@@ -8395,7 +8395,7 @@ claims:
 - entry: '31.5'
   title: The Deviance Movement
   category: person
-  claim: Dr Mickel Cráyenschot (fl. c19) was a physician in French Willemy and an early public tovarick.
+  claim: Dr Mickel Cráyenschot (fl. c19) was a physician in French Willemy and an early public tovaric.
   entities:
   - name: Mickel Cráyenschot
     type: person
@@ -10500,7 +10500,7 @@ claims:
 - entry: 45.5
   title: Willemy
   category: person
-  claim: Mickel Cráyenschot was publicly tovarick even as France embraced the Modest Arrangement.
+  claim: Mickel Cráyenschot was publicly tovaric even as France embraced the Modest Arrangement.
   entities:
   - name: Mickel Cráyenschot
     type: person
@@ -13889,7 +13889,7 @@ claims:
   title: Monks and Metropoleis
   category: polity
   claim: The Riverine Cities were a hotbed for underground or subversive organisations, including the Deviance movement, and
-    hosted several semi-public tovarick communities.
+    hosted several semi-public tovaric communities.
   entities:
   - name: Riverine Cities
     type: polity
@@ -14819,7 +14819,7 @@ claims:
   title: Continents and Conjugality
   category: culture
   claim: The popularity of the masquira literary genre came hand in hand with the Household Renovation, and masquira was especially
-    popular in tovarick circles.
+    popular in tovaric circles.
   entities:
   - name: masquira
     type: culture
@@ -14828,9 +14828,9 @@ claims:
 - entry: 77.5
   title: Continents and Conjugality
   category: glossary
-  claim: Tovarick is the Boralverse term for queer.
+  claim: Tovaric is the Boralverse term for queer.
   entities:
-  - name: tovarick
+  - name: tovaric
     irl: queer
     type: concept
 - entry: 77.5
@@ -15648,7 +15648,7 @@ claims:
 - entry: 85.5
   title: Laic Declarations
   category: place
-  claim: Belgrade had a renowned Promethean club associated with the Deviance movement and a semi-public tovarick community.
+  claim: Belgrade had a renowned Promethean club associated with the Deviance movement and a semi-public tovaric community.
   entities:
   - name: Belgrade
     type: place

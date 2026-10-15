@@ -1442,7 +1442,7 @@ Y reloðeç ag tarner sta aplattiscent.|The host's gentility was irritating.
 Vos kiglaust y liesc je sont Avril.|You missed the 7th of April deadline.
 Set recoglt de savon e d'ougl landant son oy eliminað deur y misol a varous posc tesmogn de conement ant orteyanç gra se caut par benoç den.|Seven soap and washing-oil products have been removed from shop shelves after customers have reported severe rashes after use.
 L'ec recoglt (troveð enonç total n'affis) son abrangent a bar vençað dy colluy connuð Pax e Candeller.|The products (for a full list see insert) include bars from the well-known cleaningware companies Pax and Chandler.
-Narrað svattour suggern y blasmabr sey un lot impur a copros lauric de natron, un matier fameyant addað cos respanent n'ougl e bar a savon.|Early reports suggest that the culprit may be an impure batch of natre's laurick cuprose, a foaming substance widely added to soap oils and bars.
+Narrað svattour suggern y blasmabr sey un lot impur a copros lauric de natron, un matier fameyant addað cos respanent n'ougl e bar a savon.|Early reports suggest that the culprit may be an impure batch of natre's lauric cuprose, a foaming substance widely added to soap oils and bars.
 Gimmolt vars l'origin dy contamination furtivir n'aun solution yent, ma y defait de bustr comportant referið des y ligt dy març d'enascment de Libya (dont Istr Boral innasc y majortað dell'ec ivorc alchemic por detaxion) appen vars ig y spin vel y molin poliscent a Haldanvion hamtar.|Efforts to trace the source of the contamination are as yet inconclusive, though the lack of any similar cases reported in the rest of Libya (from where Borland imports the majority of these alchemical products for detaxion)'s export market suggests that the issue may lie with the refining mills at Haldanvion.
 L'oc enonç es abrangent a my nom ou?|Does this list have my name on it?
 Jo fon got ag mar cay dou meis.|I've got nothing done for two months.
@@ -2502,7 +2502,7 @@ Y Declar Laic intermanen un series de document traitancer prodoit par un consegl
 L'ec document forgaurn un ossatur de lodrignað por religion statuer desjovar deur y foncçon administraçonnal de polity, e por y stat cas ley de gent a fieltað mendrancer.|These documents outlined procedures for uncoupling established religions from administrative state functions, and the legal status of people with minority faiths.
 All'oc epoc, Belgrad sta sodal ny Citað Floyan, un alleyanç-federaç de picq polity autonom lonc y Floy Danau e sy confluyenç.|At this time, Belgrade was one of the Riverine Cities, an alliance-federacy of small independent states along the Danaw River and its tributaries.
 L'ec citað ern leyað des y cendr dy Reyaum Danavan, oc stant sfondrað de façon spectacler posc y Var Teudesc Dovem ny dezein 1820.|These cities had risen from the ashes of the Kingdom of the Danaw, which had collapsed in spectacular fashion after the Second German War of the 1820s.
-Cossy scient, Belgrad sta un amaçgat ðescant primal por novel doctrin cas religion e ley, ant un çaucr Promethean parnommað alligað ag commouð Desveyant eð un communtað tovaresc meg ovart.|As such, Belgrade was an early hotbed of new religious and legal thinking, with a renowned Promethean club associated with the Deviance movement and a semi-public tovarick community.
+Cossy scient, Belgrad sta un amaçgat ðescant primal por novel doctrin cas religion e ley, ant un çaucr Promethean parnommað alligað ag commouð Desveyant eð un communtað tovaresc meg ovart.|As such, Belgrade was an early hotbed of new religious and legal thinking, with a renowned Promethean club associated with the Deviance movement and a semi-public tovaric community.
 Nuvr soð vos melle faint con y gentagl.|You've been mixing with riffraff recently.
 Jo broiðau l'entrlaçour coll'outrley.|I mixed up the scammer and the outlaw.
 Y bourg deleu l'oc hoðic ne souc d'un courstray.|The town fired this councillor due to an affair.
@@ -2997,3 +2997,5 @@ La vos tramet un plaç ag caf de sy tabr de trent annað, e la desir lo veir ne 
 Alcun hom ny Fest jamira ða y past es sec.|Nobody at the Feast will mind if the pastry is dry.
 Vos arreð plausibr y Reveglon sevent por vossy tort meðes.|You will likely have next Revillon for your own pie.
 Costojeð y croç.|Keep the cross.
+Jo so amo-tamo cas music.|I have broad taste in music.
+Y coquet dy quistour es bonet ma fay noc magn.|The phone's lite model looks nice but doesn't do much.

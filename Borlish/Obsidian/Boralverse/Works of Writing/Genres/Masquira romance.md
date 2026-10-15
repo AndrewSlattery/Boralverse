@@ -23,7 +23,7 @@ The popularity of masquira supplanted to some extent the dwindling [[Voidtale|vo
 In the 1940s and 50s there was a resurgence in popularity for masquira romance, christened the 'Spring Tide'; this period saw many film adaptations the genre's classics and thus cemented its place in modern popular culture.
 
 # Social Detaxion
-The narrative focus in masquira romance on characters with hidden identities has led several marginal groups to embrace masquira tales over the decades. Perhaps most notably, the genre was very popular early on with the semi-public tovarick communities in the [[Riverine Cities]]. These communities spread the influence of masquira through Europe and the [[Novomund]], particularly along with the broader [[Deviance movement]].
+The narrative focus in masquira romance on characters with hidden identities has led several marginal groups to embrace masquira tales over the decades. Perhaps most notably, the genre was very popular early on with the semi-public tovaric communities in the [[Riverine Cities]]. These communities spread the influence of masquira through Europe and the [[Novomund]], particularly along with the broader [[Deviance movement]].
 
 Indeed, the tovarism connection was barely obfuscated in some works (see particularly Takach's *We Will Burn Together*), and the popularity of the genre is widely understood to have contributed to the [[Household Renovation]].
 
@@ -37,4 +37,4 @@ The popularity of the subgenre of kevler romance in Borland during the [[Good Ga
 - One Evening Will Have to Be Enough (*Un Seir Deura Soffire*), 1913 trevold by [[Roun]] author Josephène Foilliers notable for being the first book on record to sell more than a million copies in its first year
 - Outrun the Dawn (*Die Demrung Üverholn*), 1946 work written by Bronswick native Elke Hannawald remembered for subverting the trope of the masked hero by revealing the protagonist's identity in the book's second chapter
 - Waging World Peace (*Paç Mondial Accommettent*), 1968 giftale written by Neuvort author Dion Becolla 
-- We Will Burn Together, written by Takach Domoko and notable for its openly tovarick characters
+- We Will Burn Together, written by Takach Domoko and notable for its openly tovaric characters

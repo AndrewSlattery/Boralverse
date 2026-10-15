@@ -10,7 +10,7 @@ China (Borlish **Scin**), also called the Southern Empire, is an empire in the e
 
 ## History
 ### The age of exploration
-News of western exploration reached the Southern Empire around 1470. Chinese merchants met the crew of the British ship *[[Voyage of the Phœbos|Phœbos]]* at Mombasa, and their reports to the Southern Emperor are said to have changed the course of history. Chinese traders then guided the *Phœbos* on to [[Gurjat]], [[Madray]] and [[Borune]], whose port city of Sinquan held an annual fair with a Chinese quarter older than the sultan's conversion to Islam.
+News of western exploration reached the Southern Empire around 1470. In 1468 Chinese merchants met the crew of the [[Morrack]] ship *Orion* at Mombasa, and their reports to the Southern Emperor are said to have changed the course of history. Nearly fifty years later Chinese traders guided the British ship *[[Voyage of the Phœbos|Phœbos]]* on to [[Gurjat]], [[Madray]] and [[Borune]], whose port city of Sinquan held an annual fair with a Chinese quarter older than the sultan's conversion to Islam.
 
 In 1520, hearing of the planned circumnavigation of the globe by ships from [[Morrack]] and Britain, the Southern Emperor issued the Hangthen Edict. It declared that if the world could be girdled, China should tie the ropes herself. Chinese ships went on to reach the [[Novomund]], and the sixteenth-century epic of exploration *The Sea Peoples* is considered one of the greatest Chinese works ever written.
 
