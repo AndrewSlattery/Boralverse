@@ -271,6 +271,7 @@ Non-finite: infinitive **cair**, present participle **caint**, past participle _
 - *coum* and *courn* in the corpus belong to *cavir* 'get', not to *cair*.
 - Elicitation E18 (2026-10-12): the user gives **cous** as the imperfect subjunctive (*Degnant ig cous tart*), and *cay tart* 'it is late (in the day)'.
 - **Q19.** Is the preterite **cou** (S14795, S26207, C754) or **cayeu** (*Le cayeu sy pie nognt*, C177)? Compound *surcair* has *surcayeurn* (C300), which fits *cayeu*. Since the impf. subjunctive **cous** fits *cou*, are both in use?
+- E127 (2026-10-17): the user's *Nossy tourm surcou y dovem* gives the compound *surcair* the preterite **surcou**. The corpus has *surcou* 6× and *surcourn* 4×, against one *surcayeurn* (C300). This points to *cou*; E131 asks about *cair* itself.
 
 ## sceir 'there be; exist' (*r v*)
 
@@ -310,7 +311,7 @@ Non-finite: infinitive **denir**, present participle denent?, past participle **
 
 | | 1SG | 2SG | 3SG | 1PL | 2PL | 3PL |
 |---|---|---|---|---|---|---|
-| present | **reman** | **reman** | **reman** | remaneu? | remaneð? | **remainn** |
+| present | **remain** (E118) | **reman** | **reman** | remaneu? | remaneð? | **remainn** |
 | imperfect | **remane** | **remane** | **remane** | remanau? | remanað? | **remanen** |
 | preterite | **remaneu** | **remaneu** | **remaneu** | ___ | ___ | ___ |
 | future | remandray? | remandra? | remandra? | ___ | ___ | ___ |
@@ -320,6 +321,7 @@ Non-finite: infinitive **denir**, present participle denent?, past participle **
 Non-finite: infinitive **remanir**, present participle **remanent**, past participle ___.
 
 - **Q22.** Is the 1SG present *reman* or the i-mutated *remain*? The verb chapter says i-mutation affects 1SG/3PL present in some verbs.
+A (elicitation E118, 2026-10-17): ***remain*** (*Jo remain ac fin je Viendr*), i-mutated like the 3PL.
 
 ---
 

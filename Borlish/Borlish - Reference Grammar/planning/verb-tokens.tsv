@@ -1103,7 +1103,7 @@ line	form	gloss	lemma	class	category	person	ending	sentence	translation
 21208	çaveyar	cushion-inf	çaveyar	ar	INF		-ar	Dig mey; tu va noc a y los me çaveyar.	Tell me; you don't have to sugarcoat it.
 17537	ðalleyant	spreadeagle-p.prs	ðalleyar	ar	PRS.PTCP		-ant	Dou cat ern ðalleyant sou sol blanc.	Two cats were basking in the sunlight.
 32046	ðarar	farm-inf	ðarar	ar	INF		-ar	Ðe voun cal seget ðarar sull'oc acr?	Which crop will they farm in this field?
-27341	ðejau	tuck-pst	ðejar	ar	PST	1SG	-au	Jo ðejau y pie neðan y port closisceus.	I wedged the door open with my foot.
+27341	ðejau	tuck-pst	ðejar	ar	PST	1SG	-au	Jo ðejau y pie neðan y port se closisceus.	I wedged the door open with my foot.
 13133	ðescar	feed-inf	ðescar	ar	INF		-ar	Faç la noc gavir neðan sy soir ðescar.	Making her have fun will only make her sadder.
 27253	ðescar	bait-inf	ðescar	ar	INF		-ar	Caye gimmolt lasdr a y smoutour ðescar.	It was a pathetic attempt to egg on the riots.
 16857	ðescant	feed-p.prs	ðescar	ar	PRS.PTCP		-ant	Cay l'oç muncef un amaçgat ðescant vars huyaç.	That district is a hotspot of mob activity.
@@ -1197,7 +1197,7 @@ line	form	gloss	lemma	class	category	person	ending	sentence	translation
 28293	beyollir	set-inf	beyollir	ir2	INF		-ir	Veleð l'oc smaraut beyollir ne my çondr.	Please set this emerald into my pendant.
 27168	bondisceu	bound-pst	bondir	ir2	PST	?	-isceu	Y çarf bondisceu tras un reu mormonnant.	The stag leapt over a babbling brook.
 30449	cambir	change-inf	cambir	ir2	INF		-ir	Ðe son cuidant vars tostrman cambir.	They're thinking of changing barber.
-27341	closisceus	close-ipf.sbj	closir	ir2	IPFV.SBJV	?	-isceus	Jo ðejau y pie neðan y port closisceus.	I wedged the door open with my foot.
+27341	closisceus	close-ipf.sbj	closir	ir2	IPFV.SBJV	?	-isceus	Jo ðejau y pie neðan y port se closisceus.	I wedged the door open with my foot.
 11123	closið	close-p.pst	closir	ir2	PST.PTCP		-ið	Com suðel eu nos y fenestr zachettað ne closið.	As a hack we've glued the windows shut.
 28869	complir	achieve-inf	complir	ir2	INF		-ir	Jo save noc ou poðir un dos may de gouth complir.	I didn't know if I could do another set of pushups.
 22741	congenið	beget-p.pst	congenir	ir2	PST.PTCP		-ið	Y parol 'sauð' e 'veð' son congenið de Veðr Norresc.	The words 'ewe' and 'ram' descend from Old Norrish.

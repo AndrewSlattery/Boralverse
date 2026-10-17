@@ -5,7 +5,7 @@ graðleur /gʀaðˈlawʀ/ [gʁɐðˈlawɐ] volunteer
 < Old Borlish (a) grad liure “freely, voluntarily”, literally “with free will”
 < Latin grātus “will” and līber “free, unrestricted”.
 
-donation /donaˈtsjɔn/  [ˌdonɐˈtsjɔn] donation, gift
+donaçon /donaˈtsɔn/  [ˌdonɐˈtsɔn] donation, gift
 
 < borrowed ca. 1250 from Latin dōnātiō, dōnātiōnem “an act of giving, of presenting”, from dōnō “I give”.
 
@@ -268,10 +268,10 @@ nohas /noˈhaz/ [nʊˈxaz] (of economics) right-wing, conservative
 
 < 1751, from Arabic نحاس (nuḥās) with the same sense, and originally “copper”. Inspired by the Copper faction in the court of Malik Hisham Al-Rashid (reigned 1601-1610) of Libya, who petitioned against the poor reforms he oversaw. The Copper, and their opposition, the Tin, took their names from the two principal colours of the Libyan banner at the time, which was quartered into two black, one white, and one orange field. These two terms – nohas and casdir – were borrowed into various European languages through the success of the Vascon writer David Bensaíd's treatise on statecraft The Three Cities, which was translated into over twenty languages. Compare for example French nouase, kasdir.
 
-Stou y Duc coy l'eç nohas parmy sull'administration d'autortað may accarr.
+Stou y Duc coy l'eç nohas parmy sull'administraçon d'autortað may accarr.
 The Duke must stop the right-wing in his regime gaining more influence.
-/stu i ˈdɪk cɔj ˌlɛts noˈhaz paʀˈmi siladˌministʀaˈtsjɔn ˌdotɔʀˈtaθ me aˈkaʀ/
-[stu i ˈdɪk cɔj ˌlɛs nʊˈxaz pɐːˈmi silɐdˌministʀɐˈtsjɔn ˌdotɔːˈtah me ɐˈkɐː] 
+/stu i ˈdɪk cɔj ˌlɛts noˈhaz paʀˈmi siladˌministʀaˈtsɔn ˌdotɔʀˈtaθ me aˈkaʀ/
+[stu i ˈdɪk cɔj ˌlɛs nʊˈxaz pɐːˈmi silɐdˌministʀɐˈtsɔn ˌdotɔːˈtah me ɐˈkɐː] 
 
 ##
 
@@ -1122,7 +1122,7 @@ Cossy sta l'oç. Candon la hamta cas mey, mama passa eç hour ne me gasant lon v
 
 Y surveilour a ancour me parolar, ma jo luy dona plu magn cur. Soulor l'a me dit : “Or, jo figur ig vos veleð desirar vossy maðr veir ?”
 
-J'ay me leyað lon alcun respos e l'a me menað vars y port. L'eç scagl descendent, le's lançað all'explanation.
+J'ay me leyað lon alcun respos e l'a me menað vars y port. L'eç scagl descendent, le's lançað all'explanaçon.
 
 “Nos eu la fis ne nossy picq mortuer. Por ig l'eç autr n'ain angoist may. Candon casc edifiçour fol y sougl, eç autr dienn tis par dou ben trey jorn. Certan l'oç forc novel trevagl por toð gent.”
 
@@ -1246,8 +1246,8 @@ e pardon nos nossy deut*
 /a paʀˈdɔn no ˈnɔstʀ‿i ˈdawt/
 com nos lou pardau nos deyent.
 /kɔm ˈno lu paʀˈdo no diˈjɛnt/
-E dug nos noc vars tentation
-/e ˈdaj no ˈnɔk vaʀz ˌtɛntaˈtsjɔn/
+E dug nos noc vars tentaçon
+/e ˈdaj no ˈnɔk vaʀz ˌtɛntaˈtsɔn/
 ma descaðen nos de mal.
 /pi ˌdɛskaˈðɛn no de ˈmal/
 
@@ -1686,10 +1686,10 @@ Thomas can always see it in their eyes, almost a flash, the way a cat's eyes cat
 Parveg Thomas se ren delicat aðief a scapar ag dalr doutous.
 Sometimes Thomas can charm his way out of the pit of doubt.
 
-Autr veg, com l'oc noit, le sa luy valois raut fugr tostessem ant ancour l'occasion.
+Autr veg, com l'oc noit, le sa luy valois raut fugr tostessem ant ancour l'occajon.
 Other times, like tonight, he knows he should have bolted when he had the chance.
 
-Y vacil a se tramutað ne scoul, e degnant ig le beut sy douç explanation, eð ig le coul nell'aucoum deur vijon, ja sa le lo's tart demay.
+Y vacil a se tramutað ne scoul, e degnant ig le beut sy douç explanaçon, eð ig le coul nell'aucoum deur vijon, ja sa le lo's tart demay.
 The flicker has turned to a glare, and although he valiantly makes his excuses and slips away into the crowd, he knows it's already too late.
 
 ##
@@ -2016,7 +2016,7 @@ He looked back and saw the innkeeper standing still by the door.
 
 translation into Borlish and into West Vascon (León) of the famously-circuitous first sentence of A Door, Once Opened by Clarissa Bellamy, published 1920 by Sagittarius Editions. Translated into Borlish by Gonnilt Dispað, and into West Vascon by García Ramires.
 
-Y livrer a Rout Hawthorn sta segr formous parcanç trent annað eld, eð y preu veg oyon Frederick l'encontrau, un crevoscr preuç ny stað de 1755, ja l'au (a mesur de raut rouðar con sy sour) dou vertað appris dy segr : y primer, ig le vença livr d'un qualtað hautessem e noc obstroint un preç boncoppessem a toð hom autr ne Sowbruck, ben Londr meðes, ma parisce a sgart calscon soutenuð cos immachiabr com casc vocationnað dy muncef (degnant ig lonc y mont sy seut majon fosn picq) ; y doussem, ig le sperisce par eç jorn plusour con prevart magr e fort men por explanation.
+Y livrer a Rout Hawthorn sta segr formous parcanç trent annað eld, eð y preu veg oyon Frederick l'encontrau, un crevoscr preuç ny stað de 1755, ja l'au (a mesur de raut rouðar con sy sour) dou vertað appris dy segr : y primer, ig le vença livr d'un qualtað hautessem e noc obstroint un preç boncoppessem a toð hom autr ne Sowbruck, ben Londr meðes, ma parisce a sgart calscon soutenuð cos immachiabr com casc vocationnað dy muncef (degnant ig lonc y mont sy seut majon fosn picq) ; y doussem, ig le sperisce par eç jorn plusour con prevart magr e fort men por explanaçon.
 
 El lirrero a Cay Hawthorn yera un hombre appuesto que tenía trienta ańos quisá, y quando Frederick attopólo a primera vez, una nochina suave de verano 1755, savía pueste un rumoscitino con su ermana dos hechos sorre el hombre : primer loar, vendía lirros de mayor calidá y stesso de menor precio que hace nadie a Sowbruck, o bien todo Londre, pero conducíase tan immacquiablemente como todos los vocazonistes del coceyo (malla su casa fuera pequina) ; segundo loar, sumíase días seguidas casi espontáneamente y a fondo sin pretexto.
 
@@ -2987,7 +2987,7 @@ Fred looked at her. The last time she'd tried to make excuses for Goodman, he'd 
 “Or, noc,” admis la. “Portant—”
 “Well, no,” she admitted. “But—”
 
-“Jo n'ay l'hour por sy figuration realisar n'y mont stoppant sur far,” continu Fred. “Ða meðes jo lo desira—e j'ig clam cos honest faus.”
+“Jo n'ay l'hour por sy figuraçon realisar n'y mont stoppant sur far,” continu Fred. “Ða meðes jo lo desira—e j'ig clam cos honest faus.”
 “I don't have time to indulge his fantasies about stopping the world in its tracks,” Fred went on. “Even if I wanted to—which, to be frank, I don't.
 
 Desirað vos savir cal er jo faint, y moment la Godman fey sy picraug inutr poll'oç fest crevoscr ?“ L'attis alcun respos.
@@ -3083,11 +3083,11 @@ in formal writing to envelop, to swaddle
 
 < from 8C in Old Borlish envovre, ivouvre “to wrap up, to involve, to devote” (in early sources we see primarily the religious “to devote oneself to a cause”, but this is presumably just a function of the available sources), from Latin involvō “to roll up, to envelop”. Sense “to interest” from 14C; generally “to surround” from 16C. Northern Old Borlish dialect form eunoir leads to modern eunovir “to pledge, to swear”.
 
-    Jo vusc ðe envoloirn noc y bourgmer all'oc delusion.
+    Jo vusc ðe envoloirn noc y bourgmer all'oc delujon.
 
     I wish they hadn't involved the mayor in this deception.
 
-    /ʒo ˈvɪx ðe ˌɛn.voˈlɔj.ʀn̩ nɔk i buʀgˈmɛʀ a.lɔk ˌde.liˈzjɔn/
+    /ʒo ˈvɪx ðe ˌɛn.voˈlɔj.ʀn̩ nɔk i buʀgˈmɛʀ a.lɔk ˌde.liˈʒɔn/
 
 ##
 
@@ -3095,7 +3095,7 @@ in formal writing to envelop, to swaddle
 
     extract from the Borlish translation of We Wake to Broken Windows, by Norman author Mark Deuthex. It was published by Maison Bateller (Ferryman House) in 1973, in the hey-day of the spycraft romance. It draws on the author's own experience working for the Red House in Roun, whose activities were revealed to the public as part of the Furore of 1961. The events of that year led to the collapse of the Drengot Collusion (in particular, Darchild's tinplate government) and eventually to the Kentish ostracon reforms, used as a model in several polities around the globe.
 
-Lorrell'ouçon remanent, parisc toð cas final, es l'oc administration e cultur fugr ag saluçon d'ig ðe aun tout oblatað deull'ec við.
+Lorrell'ouçon remanent, parisc toð cas final, es l'oc administraçon e cultur fugr ag saluçon d'ig ðe aun tout oblatað deull'ec við.
 So their remaining option, as it stands, is running from the very government and society that they have given everything but their lives to save.
 
 L'oc es indigndað, ma Paul Lacan es hom prest a savir ig bempart dy mont no's oc.
@@ -3339,7 +3339,7 @@ No doubt they'll have unmoored before Mr Tremane can collect her luggage and tic
 “Crerreð vos nos meritau un hostel sur mar, Treman ?” Macaria a s'aðelið n'Anglesc, toð cas, ða meðes y gendr local reman cos sporadic incomprensibr.
 “Do you suppose we merit a sea-front hotel, Tremane?” Macaria's English is improving, at least, although the local variety is still occasionally incomprehensible.
 
-Contrig, sy capabiltað ne Cambresc no's provað in tesquo, eð oy porra la l'oç humiglation particuler repoussar ag crevoscr.
+Contrig, sy capabiltað ne Cambresc no's provað in tesquo, eð oy porra la l'oç humiglaçon particuler repoussar ag crevoscr.
 On the other hand, she has never attempted Welsh in tesquo, and now she can save that particular humiliation for this evening.
 
 ##
@@ -3368,11 +3368,11 @@ that is, in an unmonitored or unscripted environment
 
 < 17C, from Scholastic Latin in tesquō with its modern meaning, literally meaning “in the wasteland, in the deserts”. Used originally in natural theory to contrast with older in experientiā “in an experimental setting”, it was coopted into general use in several European languages by the late 19C.
 
-    L'oc solution effectuar in tesquo surcay mout defaglessem.
+    L'oc soluçon effectuar in tesquo surcay mout defaglessem.
 
     Implementing this solution is often more difficult in practice.
 
-    /lɔk ˌso.liˈtsjɔn ˌe.fɛkˈtjaʀ ˌɪntɛsˈkwo sɪʀˈke mut ˌde.fɛjˈlɛ.sɛm/
+    /lɔk ˌso.liˈtsɔn ˌe.fɛkˈtjaʀ ˌɪntɛsˈkwo sɪʀˈke mut ˌde.fɛjˈlɛ.sɛm/
 
 ##
 
@@ -3431,7 +3431,7 @@ havan /haˈvan/ harbour, port, docks
 Matheu aye malais e calt tandic le mene y patrician Morracan tras y manoir assombrið.
 Matthew felt queasy and hot as he led the Morrack gentleman through the darkened house.
 
-S'envount nell'oc conjuraçon no sta ottem all'act por yon Sr Bocuz au luy menaçað descusion. Parcanç piour ja.
+S'envount nell'oc conjuraçon no sta ottem all'act por yon Sr Bocuz au luy menaçað descujon. Parcanç piour ja.
 What he was doing now was no better than what Mr. Bocuz had threatened to expose him for. Perhaps even worse.
 
 Y quanga vel certan le desmettr ða l'aye catoum pront d'ig seyon appos tojorn, Matheu partenent – ma l'oc sey fort raçon aðief por ig le l'occy.
@@ -3553,17 +3553,17 @@ Before Tomaş could speak, Andŗey turned to look at him, and there was somethin
 
 16m Jugn
 
-descusion /ˌde.xiˈzjɔn/ revelation, betrayal, uncovering
+descujon /ˌde.xiˈʒɔn/ revelation, betrayal, uncovering
 
 especially the revealing of something secret
 
 < first attested 1687 in Messegn's opera Montagn Inscas (Unclimbed Mountains), non-etymological nominalisation from descondr “to reveal, to betray, to tell (a secret)”. This verb from des-, a prefix that inverts meaning, and scondr “to hide, to cover up, to keep secret”, itself from Latin abscondō “I cover, I conceal”. This form presumably by analogy from pairs such as contondr ~ contusion “to strike ~ bruise”.
 
-    Y descusion de vossell'yam porra noc pardon cavir tan fagl.
+    Y descujon de vossell'yam porra noc pardon cavir tan fagl.
 
     Your uncle's betrayal cannot be so easily forgiven.
 
-    /i ˌde.xiˈzjɔn de vɔsˌtʀe.liˈjam poˈʀa nɔk paʀˈdɔn kaˈvɪʀ tan ˈfɛjl/
+    /i ˌde.xiˈʒɔn de vɔsˌtʀe.liˈjam poˈʀa nɔk paʀˈdɔn kaˈvɪʀ tan ˈfɛjl/
 
 ##
 
@@ -3724,7 +3724,7 @@ There is little discussion of the kernel until the long peace at the end of the 
 Par surcresc, inconnuð es l'hom preu apponent ig ny nouç assey y lengaç vital a Desselut, ma l'idea au y maglur scholastic parvas cos enter (dy Vetomund toð cas) pre annað 1813.
 Moreover, it is unclear who first proposed that the kernel might house Desselut's vital language, but the idea had thoroughly percolated at least the Vetomundane scholastic mesh by 1813.
 
-L'oc annað, y theorist Gorjatic Manesc Camdar editau sull'interrogment ny fecondation a spogn marin, parcevent ig y nouç casel de sperm unisc coll'oç nouç dell'ou.
+L'oc annað, y theorist Gorjatic Manesc Camdar editau sull'interrogment ny fecondaçon a spogn marin, parcevent ig y nouç casel de sperm unisc coll'oç nouç dell'ou.
 In this year, Gurjat theorist Manesh Camdar published his research on fecundation [fertilisation] in marine sponges, observing that the kernel of sperm unites with that of the egg.
 
 ##
@@ -3860,11 +3860,11 @@ parvar /paʀˈvaʀ/ [pɐːˈvɐː] to percolate, to spread throughout, to infuse
 
 < literally “to go throughout”, a Middle Borlish derivation from var “to go” < Latin vādō “I go” with the prefix par- < Latin per-, an intensive or completive affix. Attested from 15C, originally in competition with regularised parvadar~pervadar (cf. French parvader, pervazir—this from Burgundian, etc.), but these are lost by the early seventeenth century.
 
-    Evidenç faïscent variation Iscovalian parva casc œcumen natural.
+    Evidenç faïscent variaçon Iscovalian parva casc œcumen natural.
 
     Evidence for evolution by natural selection is everywhere in nature.
 
-    /ˌe.viˈdɛnts ˌfɛ.jiˈxɛnt ˌva.ʀjaˈtsjɔn ˌɪs.ko.vaˈljan paʀˈva kax ˌe.kiˈmɛn ˌna.tiˈʀal/
+    /ˌe.viˈdɛnts ˌfɛ.jiˈxɛnt ˌva.ʀjaˈtsɔn ˌɪs.ko.vaˈljan paʀˈva kax ˌe.kiˈmɛn ˌna.tiˈʀal/
 
 ##
 
@@ -3878,7 +3878,7 @@ parvar /paʀˈvaʀ/ [pɐːˈvɐː] to percolate, to spread throughout, to infuse
 Bravessem ne Scin, ne Cathay—yonoscon ec monð slognað, sou ciel la alcun hom porra vossy parollaç zucarrað oïr,
 Even better, to China or Cathay—somewhere months away, a land where none can understand your fucking candied words,
 
-vossell'ec suggestion jonnovar me torquent e me tirant e m'ammenant vars me fornir coll'annihilation a my mesur!
+vossell'ec suggestion jonnovar me torquent e me tirant e m'ammenant vars me fornir coll'annihilaçon a my mesur!
 your butterfly-innocent suggestions that twist and pull and guide me to build myself a bespoken annihilation!
 
 Vos eð y mont atorn forgað ne livr tellard, toð inscaut par sign e histoir deluïscent,
@@ -4253,11 +4253,11 @@ also zetrar /zeˈtʀaʀ/ make a note, write down a memo
 
 < 19C, from Norman French zetre [zɛt] (with spelling pronunciation in Boral), originally from Bavarian zötter “slip of paper” via Italian zettere and Provencial zeter meaning “note, memo”. The Bavarian is an alteration of former 16C zettel (Saxon zedel) from Italian cedola < Latin schedula “leaf of paper”. Verbal derivation from 1909 in writing but attested in recording for a decade or more earlier.
 
-    L'edition dy zetr scandalous Darchild akirtau Cant n'insorgenç.
+    L'ediçon dy zetr scandalous Darchild akirtau Cant n'insorgenç.
 
     Publishing the scandalous Darchild memo sparked unrest in Kent.
 
-    /ˌle.diˈtsjɔn di ˈzɛ.tʀ̩ ˌxan.daˈluz daʀˈtsjɪld* ˌa.kɪʀˈto kant ˌnɪn.sɔʀˈgɛnts/
+    /ˌle.diˈtsɔn di ˈzɛ.tʀ̩ ˌxan.daˈluz daʀˈtsjɪld* ˌa.kɪʀˈto kant ˌnɪn.sɔʀˈgɛnts/
 
 *someone with a better accent might have [dɐːˈtʃʉːd].
 
@@ -4269,7 +4269,7 @@ facsimilar /fakˌsi.miˈlaʀ/ [fɐkˌsi.mɪˈlɐː] to duplicate, to replicate, 
 
 < 18C, derived from adjective/noun facsimile “exact copy, duplicate”, a 16C borrowing from Scholastic Latin phrase fac simile “make similar”. See also late 19C Borlish tachygraph [typewriter] brand Faxim, a clipping of these.
 
-    Y preu facsimilation d'un heredtatur human enter fo ne prinvir 1969.
+    Y preu facsimilaçon d'un heredtatur human enter fo ne prinvir 1969.
 
     The first time a human genome was copied in entirety was in spring 1969.
 
@@ -4543,7 +4543,7 @@ It is perhaps foolhardy to attribute the decline of Voidtale trevolds solely to 
 Nos posseu tan digr, parmig, l'idea de novel œcumen splorar e de novel cultur encontrar n'au plu attragnt ; l'ovartur Caddisovan laiscau pog “tar enigmatic” por descovrir,
 We might say, for example, that the idea of exploring new lands and meeting new civilisations had lost its shine, with the opening of Caddisow leaving few “mysterious lands” to discover,
 
-eð y sar campaner defassant parmis a gent ne toð loy de communeyar cos veloç fort may (particuler, apprendr ig politia lontan stan magn ordineressem a sy figuration!)
+eð y sar campaner defassant parmis a gent ne toð loy de communeyar cos veloç fort may (particuler, apprendr ig politia lontan stan magn ordineressem a sy figuraçon!)
 and the developing steeple-mesh allowing people everywhere to communicate far more rapidly (in particular, to discover that distant nations were often much less exotic than one imagined!).
 
 Toð cas final, romanç parachthon partenent, y dezein milloy dy siecr novoç sta untal nazir.
@@ -4628,7 +4628,7 @@ raðar /ʀaˈðaʀ/ [ʀɐˈðɐː] to cycle, to ride a bike
 
     excerpted from the book Des Delt vars Dois : Y Stoir d'Educaçon (From Tablets to Slates: The Story of Education), in the style of an academic textbook but intended for a broad audience, written by Theign Roufler and released 2016 by Cordin Editions.
 
-Durant y siecr catorç ençau nos a normalisation real parcevir dy model mitað-asc d'universtað tras Europ, de Galway a Gratz.
+Durant y siecr catorç ençau nos a normalleyaçon real parcevir dy model mitað-asc d'universtað tras Europ, de Galway a Gratz.
 It is during the fourteenth century that we see true standardisation of the mediaeval university system across Europe, from Galway to Gratz.
 
 Y Reyaum a Boral dell'oc hour triant parmig, Lyce Noccair addoceu sy studiant nell'ec Cinq Art Romannesc.
@@ -4969,11 +4969,11 @@ aðelent /ˌa.ðeˈlɛnt/ [ˌa.ðɪˈlɛn(t)] tutor, teacher (especially private
 
 < 11C in later Old Borlish, participle derivation from aðelir “to grant land” (> modern “to improve”), first referring to the stewards in the royal court responsible for granting land to lower nobles, such as barons. Later shifted along with the verb to guardians and tutors of the aristocracy, and by 18C also to privately-employed tutors in general.
 
-    Y position d'Anscon com aðelent ag joun heriter apporta magn advantaç.
+    Y posson d'Anscon com aðelent ag joun heriter apporta magn advantaç.
 
     Anscon's position as tutor to the young heir brought many advantages.
 
-    /i ˌpo.ziˈtsjɔn  danˈxɔn kɔm ˌa.ðeˈlɛnt ɛj ʒun ˌe.ʀiˈtɛʀ ˌa.pɔʀˈta mɛjn ˌad.vanˈtats/
+    /i pɔˈsɔn  danˈxɔn kɔm ˌa.ðeˈlɛnt ɛj ʒun ˌe.ʀiˈtɛʀ ˌa.pɔʀˈta mɛjn ˌad.vanˈtats/
 
 ##
 
@@ -5058,7 +5058,7 @@ members of which still predominated in the aristocracy and held significant poli
 Pall'oc façon sta y stabliscment dy Novel Enterpris Navarran un manouvr treblað :
 In this way the founding of the New Navarre Enterprise was a three-fold manœuvre:
 
-primer, oc reitfiau y position de Vascony com forniscour e porçonnour suprem de març trocað par Europ enter ;
+primer, oc reitfiau y posson de Vascony com forniscour e porçonnour suprem de març trocað par Europ enter ;
 first, it solidified Vascony's position as supreme supplier and distributor of trade goods throughout Europe;
 
 dovem, oc dau a sy vassal y possendessem un rout vars autortað e risceç y thron noc menaçant ;
@@ -5267,7 +5267,7 @@ variant in -s of -r conjugation (past participle spas)
 “Bon trianç. Ma la's uncos vos valent savir pre decidr final.”
 “Good choice. But there is something you should know before making a final decision.”
 
-“Jo connosc deja le's dannesc, bossir,” dis Benjamin. Certan des autr agent vascon scanen reclam cas y nation a Lucas,
+“Jo connosc deja le's dannesc, bossir,” dis Benjamin. Certan des autr agent vascon scanen reclam cas y naçon a Lucas,
 “I'm already aware he's Danish, sir,” Benjamin said. A number of the other Vascon agents took issue with Lucas' nationality,
 
 suggernt ig, com outem, le no'r for comfiabr tandic l'eç envou a JY no fosn l'eç a Collujon combattent sou ciel ovart.
@@ -5362,7 +5362,7 @@ manouvr /maˈnu.vr̩/ [mɐˈnu.vɐ] tactic, manœuvre, turn (of a game), act
 “Soð vos ac por l'avent dy novel Rey a Nadacou veir ?” Un hom haut e slanc colluïsc Zoe sur y pladisc, remplisc peðent all'hontarn con saluð.
 “Are you here to see the new King arrive in Nadacow?” A tall, slender man joins Zoe at the bar, signalling the tender for a refill.
 
-“Noc ig Sy Nobiltað veir, per se,” demorau Zoe, se sarvent dell'occasion por tornar avars e sy novel soiç sgardar fort. Cavel fosc e coutrað cort ; oc no stant usual parmy gent ant lonc caðen ancestral veunt proism, ma dy tegnt visacer val le pesar noc enter foran.
+“Noc ig Sy Nobiltað veir, per se,” demorau Zoe, se sarvent dell'occajon por tornar avars e sy novel soiç sgardar fort. Cavel fosc e coutrað cort ; oc no stant usual parmy gent ant lonc caðen ancestral veunt proism, ma dy tegnt visacer val le pesar noc enter foran.
 “Not to see His Grace, per se,” Zoe demurs, taking the opportunity to turn and look properly at her new companion. Dark hair, closely-shorn—not typical among those with long family ties in the area, though his complexion suggested he wasn't entirely foreign.
 
 “O, clar comoscon!” Y soury prolongant tras y visaç ag segr es delicat e curious. Un hom raut par enigma, parcanç, ben toð cas oc volent lo supportar por gra de collocq. “Vos conjuraçonnað se pondr sull'un rout deur nossy tragres souscen, j'appon ?”
@@ -5911,16 +5911,16 @@ folker /fɔlˈkɛr/ [fʊwˈkɛː] fern, bracken, thick brambles; countryside cov
 
     in translation to Borlish and English from the 1998 scholastic quire Sviluppi in Philosophia dal Periodo Revitalisto (Developments in Philosophy since the Revitalist Period) by historical deixist Jovanna Ariperto, researcher at the Autonome University of Saint Marinus. 
 
-Renduð connuðessem pall'eç ouvr a Dufresne e Fayeda y dezein final de siecr settoç, l'oc apponment affirmau toð við aurn se formað ag moment de Creation.
+Renduð connuðessem pall'eç ouvr a Dufresne e Fayeda y dezein final de siecr settoç, l'oc apponment affirmau toð við aurn se formað ag moment de Creaçon.
 Popularised by the works of Dufresne and Fayeda in the last decade of the seventeenth century, this theory asserted that all life had formed at the moment of Creation.
 
-Lo parmaneu n'affirmant casc veunt prosequent crescoirn des gendr minuscr de lou (nommað zoia par Dufresne, valent noc oc broðiar con y benoç actual dy parol við unicasel descrint), lou meðes form minusclessem stant y generation grand-figl, et cetera.
+Lo parmaneu n'affirmant casc veunt prosequent crescoirn des gendr minuscr de lou (nommað zoia par Dufresne, valent noc oc broðiar con y benoç actual dy parol við unicasel descrint), lou meðes form minusclessem stant y generaçon grand-figl, et cetera.
 It further stated that each successive generation grew from miniature versions of themselves (which Dufresne called zoia, not to be confused with our modern use of the term for one-case life), themselves containing yet-smaller forms for the grandchild generation, and so on.
 
 Figur temporane un form human piquessem afont ne casel sperm mostrant illustrn l'oc apponment l'un eð y creinç y dou l'ig un maðr no sta for hum y babe (semnað dy paðr) la aðoint.
 Contemporary diagrams showing a tiny human form inside a spermcase illustrate both this theory and the impression that the mother was merely the soil where the baby, planted by the father, grew.
 
-Eç attriboint, problem de predestination innað coll'oc parceuçon—ma certan l'eç rendoirn l'apponment abhorrent ben heres ny domain Augsbourger—
+Eç attriboint, problem de predestinaçon innað coll'oc parceuçon—ma certan l'eç rendoirn l'apponment abhorrent ben heres ny domain Augsbourger—
 Setting aside issues of predestination inherent in this approach—though of course this rendered the theory anathema or even heretical in the Augsburg dominia—
 
 y reclam pront (veyað d'al-Siddik l'ouvr 1696 Ag Figl a Zeno) sta y fait de recarnt un caðen infinið de zoia jamay picquessem postular, voluð hamtar ne casc animal mascr sur y Tar.
@@ -6094,7 +6094,7 @@ scencar /xɛnˈkar/ [çɪŋˈkɐː] to pour (out), to give or offer a drink, to 
 
     excerpted in translation to Boral and to English from the 1930 parachthon lovetale Galatheo, jait'O Sciença do Ben e do Mao (Galatheus, or the Knowledge of Good and Evil), written by Marcio Dourao during the Portingale Anarchy. Banned in Vascony and Morrack for its background politics (and, unofficially, for its main plot; neither polity had quite forgotten their roles in the Modest Arrangement of the previous century), it was nonetheless popular elsewhere, and was published in over twenty languages.
 
-Cas final, posc toll'eç loit e combat, toð y calver e dolour, y majon livr de Faraje beut pog solution a Drico.
+Cas final, posc toll'eç loit e combat, toð y calver e dolour, y majon livr de Faraje beut pog soluçon a Drico.
 In the end, after all the struggles and fighting, all the strife and pain, Faraje's library offers Driquo few answers.
 
 La no son nien ny majon oy for memoir—e tan gast de deyaç partið jaçol.
@@ -6323,7 +6323,7 @@ concrescr /kɔnˈkrɛ.xr̩/ [kʊŋˈkʀɛçɐ] to instantiate, to give form, to 
 
 also concreuçon /ˌkɔn.krawˈtsɔn/ instantiation, model, example, prototype
 
-< since 15C, taken from Scholastic Latin concrescō “I instantiate, give form”, adapted from Classical Latin concrescō “I thicken, curdle, stiffen, congeal” as first used in the philosophy and theology of post-Imperial Italy (see in particular Di Santi by Monitore da Torin). The noun would perhaps more regularly be concretion /ˌkɔn.kreˈtsjɔn/, but analogical pressure from words like parceuçon “perception” gives the modern form, attested since 17C.
+< since 15C, taken from Scholastic Latin concrescō “I instantiate, give form”, adapted from Classical Latin concrescō “I thicken, curdle, stiffen, congeal” as first used in the philosophy and theology of post-Imperial Italy (see in particular Di Santi by Monitore da Torin). The noun would perhaps more regularly be concreçon /ˌkɔn.kreˈtsɔn/, but analogical pressure from words like parceuçon “perception” gives the modern form, attested since 17C.
 
     Vos erreð l'ec model concrescr pre lou mostrar ag concegl.
 
@@ -7806,7 +7806,7 @@ translation of an excerpt from the short story L'Ange et L'Ingéni (The Angel an
 "Ja," acquïsceu l'ansc, movent por sy nucq frottar. "Ja, cal es ig meyon deut fair?"
 "Fine," the angel acquiesces, reaching to rub the back of his neck. "Fine, what should I do?"
 
-Cos final le's pesant a l'oc Creation gournar luy meðes; ma ac tan le's commant carnt, sorc dant a Bologin con—uncos autr. "Dayað mey lengaç," dis le.
+Cos final le's pesant a l'oc Creaçon gournar luy meðes; ma ac tan le's commant carnt, sorc dant a Bologin con—uncos autr. "Dayað mey lengaç," dis le.
 At last he's thinking of enforcing his own control of this Creation; even then he looks for orders, which is concerning and—something else. "Give me languages," Bulodgin says.
 
 "Pardon?"
@@ -8268,13 +8268,13 @@ But to mention Psellos of Crete is inevitably to discuss the Marmeronist heresy 
 
 translation from The Fourth Burning of London, and other Screwups: the Eventful History of Things Going Wrong, a 2014 textbook written by former lovetale writer Galarça fi Molhomé, who studied domain history at the University of Huzatre in Vascony.
 
-Toð ratiocination convoluð com l'eç noscon cossirað jusc oy nell'oc capparol arra pres certan doum damnað, for meðes dec—lonc vegl refrain leonesc—un veskit es inkintabr sur un doçan d'aguil.
+Toð ratiocinaçon convoluð com l'eç noscon cossirað jusc oy nell'oc capparol arra pres certan doum damnað, for meðes dec—lonc vegl refrain leonesc—un veskit es inkintabr sur un doçan d'aguil.
 Any scheme which is as convoluted as the ones we have seen so far in this chapter is almost certainly doomed, if only because—as they say in Leon—one cannot knit a veskit on a dozen needles. 
 
 Conjuraçon criminal partenent, nos porreu a plaç l'astuç dy stel original ne masquira Matthias o Grallon sevir: "Vayað noc vars y Lun por un Jorala accarr". 
 In the case of criminal plots, we might instead heed the advice of the original icon of masquira Matthias o Grallon: "Do not go to the moon to acquire a Jorala". 
 
-Casc pas e conjuraçonnour ancour poun un pognt a sfondranç surcair, e nos parceveu nullig alcun illustration parfaitessem dell'oc axiom a ny decadenç dy staddomain awasoucondesc.
+Casc pas e conjuraçonnour ancour poun un pognt a sfondranç surcair, e nos parceveu nullig alcun illustraçon parfaitessem dell'oc axiom a ny decadenç dy staddomain awasoucondesc.
 Every new step, every added conspirator is a potential collapse point, and nowhere is this principle more perfectly illustrated than the tale of the downfall of the Awasúconda staddomain.
 
 Situað amont (deg lau atorn derim tras y Fastig Camboscung deur y veðerrem treborth nommað Parnaven) sur y banc dy floy Awasou, l'oc region sta un sodal par comparaçon tart a y band d'instançment enajant jogndr lonc y colon de Cappatia auster.
@@ -8356,7 +8356,7 @@ At its height in the sixteenth century Mysarnos was a hub for the Revitalist mov
 
 excerpted in translation from trevold Children of the Battle of Rexam, written in 1931 by schoolteacher Jon Paldreth.
 
-Noc obstroint le sta fait pog martial de character, Andreu ant sy ment indeslocabr a jainç e sepostion nonscalent vars tact naðeu vole dar ig jo fos incaint a carceration souvar entr y mur dy Castel Safford lon tarm, ben fin a le sceus me benoçar ottem.
+Noc obstroint le sta fait pog martial de character, Andreu ant sy ment indeslocabr a jainç e seposson nonscalent vars tact naðeu vole dar ig jo fos incaint a carceraçon souvar entr y mur dy Castel Safford lon tarm, ben fin a le sceus me benoçar ottem.
 Though he was not particularly martial-minded, Andrew's uncompromising tactical nous and cavalier disregard for simple diplomacy meant I would likely languish as a prisoner at Safford Castle indefinitely, or until he could put me to some better use.
 
 Val pog; y cambr sta calt cos bel degnant y morostað de janver tras port, ant un foy kirtant eudæmon sou tapeçment lonc un victoir markesc ancour descreint—j'appone—tandy y pardastr afont no sta bogr discernibr.
@@ -8548,7 +8548,7 @@ excerpted from The Latin Republics: Jewels under Tyrian Standards, written by Ja
 Appos tant—Amigòt degnau noc nos sarvir par un chronic mantenent—es ig sy regn durau ogtoç annað por sceus Menton garantir sy heriter triað vole soutien pres unanim recevir dy Concert, l'edifiç de legifiçour provençal ant form emprontað dell'oc veneçan.
 It is also supposed—Amigòt did not do us the service of keeping a chronicle—that his rule lasted eighteen years to allow Menton to ensure his chosen successor enjoyed near-unanimous support of the Concert, the Provincial legislative house modelled after the Venisians'.
 
-Sell'ouçon faïð Raimond Aurellex, ayent sy sour y jundressem mariðað e dont y fraðr Lohis fo mort cant le fey caf poll'assaut ag Battagl de Satillew, perisceu d'un mescanç caucer ne 1511 (eð y recordation commun noc obstroint, l'oc cainç particuler sta cos implausibr occijon).
+Sell'ouçon faïð Raimond Aurellex, ayent sy sour y jundressem mariðað e dont y fraðr Lohis fo mort cant le fey caf poll'assaut ag Battagl de Satillew, perisceu d'un mescanç caucer ne 1511 (eð y recordaçon commun noc obstroint, l'oc cainç particuler sta cos implausibr occijon).
 His first choice Raimond Aurellex, who had married his youngest sister and whose brother Lohis had died leading the charge at the Battle of Satillew, died in a hunting accident in 1511 (and despite the popular understanding, this particular incident was likely not an assassination).
 
 Toð case final, y Concert eligeu y cosvour de Menton, Antoin Amigòt, por y Concert gournar sou y cur glacent e giðanç martial de daus Sanz, Daniel Menton sell'influyenç issarnt lon dout apar magn posc le soloy ombisc cos nominal.
@@ -8999,7 +8999,7 @@ excerpt from The Story of Borland (Y Stoir d'Istr Boral), a school history textb
 Sceyen a coul fix chrestan venent ag Dioces Boral (eð aval y Preu Reyaum d'Istr Boral) dell'eç annað tardessem ny siecr cinq e vars y siecr set cos fort.
 There was a steady influx of Christians into the Diocese of Boral (and later the First Kingdom of Borland) from the latter years of the fifth century, well into the seventh.
 
-Cos tost, larc parmy lou stan chrestan roman ben keltesc meðes deslocað par y migration germanic, jusc ig ny regn dy Pap Mercur II a 590N au Rom un envou particuler yent cas eðeglment por y picq reyaum, deyent temporane agir costojal contr un Sothbar starchessem.
+Cos tost, larc parmy lou stan chrestan roman ben keltesc meðes deslocað par y migraçon germanic, jusc ig ny regn dy Pap Mercur II a 590N au Rom un envou particuler yent cas eðeglment por y picq reyaum, deyent temporane agir costojal contr un Sothbar starchessem.
 Early on, many of these were Roman or even Celtic Christians displaced by the Germanic migrations, and by the time of Pope Mercury II in 590N, Rome had taken a particular strategic influence in the small kingdom, which at the time was on the defensive against a stronger Sothbar.
 
 Pre toð autr, y novel Reyaum er cossirað com un fragossau chrestan vital yon Rom poðe missioner accaçar aust e vest por aïðanç dar ny proselytisment d'Albion e l'eiðel dannesc.
@@ -9094,7 +9094,7 @@ The particular pathophoric zoia that causes pennackit had been established in pa
 (defagl es ec accont primal connoscr different d'autr malais dysentresc, ma scein fardiment ig y mort de Rey Rahoulamathavan a Madray l'an 1735 e plusour irrouçon ne Scin tras y derran siecr avenoy desig l'oc malais),
 (early reports are difficult to distinguish from other dysenteric ailments, but the death of King Rahulamathavan of Madray in 1735 and several outbreaks in China over the preceding century are suspected to be of the disease),
 
-ma respanment mondial nole ençar pre 1753, ny souc dell'eç Rix Democratic eð y deslocation cohernt de gent.
+ma respanment mondial nole ençar pre 1753, ny souc dell'eç Rix Democratic eð y deslocaçon cohernt de gent.
 but global spread would not begin until 1753, in the aftermath of the Democratic Wars and the concomitant movement of peoples.
 
 Par mejan de vascel marcander e de soldart, lonc l'eç flou a Pers eð ag Rusc, y zoia fey passaç incoïbr cant l'eu vars occas.
@@ -9477,7 +9477,7 @@ His great treatise on medical handiwork [surgery] and other practice included re
 
 excerpt from Conjugation, Operation e Diabolica in Musica: Y Commouð Deviant Primal (The Early Deviance Movement), a 1970 historical review written by Borlish popular historian Catrin Veçount.
 
-Nell'oc capparol voum nos un survol accommettr dell'eç autranç cas barðment compostion, cas frameð musical, cas apprestanç de melody e harmoin, cas con- e desjogntur deur y model preluïscent, e cas y detaxion de costum mondial con particulertað vecin.
+Nell'oc capparol voum nos un survol accommettr dell'eç autranç cas barðment composson, cas frameð musical, cas apprestanç de melody e harmoin, cas con- e desjogntur deur y model preluïscent, e cas y detaxion de costum mondial con particulertað vecin.
 In this chapter we shall undertake an overview of the changes in instrumentation, in musical structure, in melodic and harmonic structure, in con- and disjuncture from the earlier styles, and in the detaxion of global traditions with vicine particularities.
 
 Reconnosc dant all'experiç de Monçating con y barð, commettreu nos parmy scaumel ag toriot.
@@ -9662,7 +9662,7 @@ excerpt in translation from 1994 work Albic Medicine in the Workshop Decades, Pa
 Vin eð autr beçon yeustað ern reconnuð com matier possent contamen coïr des y Mitað-Asc, e lembic cadarað denent cavibr generallessem ny siecr seç parmette a Arnoutszen de lo rannuðar durant sy gran homily sur curaçon.
 Wine and other fermented drinks had been noted as a preventative of infection since the medieval period, and the wider availability of distilled lembick in the sixteenth century allowed Arnoutszen to recommend it in his great treatise.
 
-L'eç avanç dy Paç Lonc menau ag descovart de solution ja effectuallessem.
+L'eç avanç dy Paç Lonc menau ag descovart de soluçon ja effectuallessem.
 The advances of the Long Peace led to the discovery of yet more effective solutions. 
 
 Y molin por salpeðr (costroit por lou fornir con poið dy kynous a pouvr neir cant ðe mancaurn depost tesqual) ne Zampanagar e Tacday Ancor pres se sarvoirn de vreic marin com matier cru.
@@ -10248,7 +10248,7 @@ excerpt in translation from Vitoria Queiros' 1998 quaterno Thirteen Inventions w
 Par surcresc, l'accaç campaner barric sta nuverrem aðief a noc ancour l'ançan doujug a gonfan e lamp destarrir, magn afferjarant tras Spagn, Gal eð Italy.
 Moreover, the barrick steeplepost was still so young that it had not displaced the earlier flag-lamp system, widespread across Spain, Gaul and Italy.
 
-Deur certan exclusion (cos celeberrem y fil Cracou a Bitom ne Pologn souðer), debriscellisað er y tar prest ag respanment d'accaç filað tras Europ aust e norðer, e vray des l'ec polity receveu nos y majortað dy tarrouçon cas astrapophor nell'Asc Asteller aval.
+Deur certan exclujon (cos celeberrem y fil Cracou a Bitom ne Pologn souðer), debriscellisað er y tar prest ag respanment d'accaç filað tras Europ aust e norðer, e vray des l'ec polity receveu nos y majortað dy tarrouçon cas astrapophor nell'Asc Asteller aval.
 With some exceptions (notably the Cracow-Bitom line in southern Poland), the ground was clear for the spread of wired post across northern and eastern Europe, and indeed it is from these places that we get most of the barrick innovations of the late Workshop period.
 
 Lor l'eç tachygraph filað primal stan fatuous por laurar e tan car por accarr—doutr allors sceye pog advantaç savibr a edifiç marcant, possent cos fagl hur dar an coutoccour ja suet cas y model d'Adamich.
@@ -10265,9 +10265,9 @@ debriscellisar /ˌde.briˌxɛ.liˈzar/ [ˌde.bʀɪˌçɛ.lɪˈzɐː]
 
 Etymology: a Middle Borlish period derivation from briscel "shrub, bush", literally "cause to be rid of low-growing plants". This noun from earlier arbriscel, diminutive of arbr "tree". In extended use the verb is seen from the eighteenth century.
 
-Jo's debriscellisant por scoy d'un semman a scitation.
-/ʒɔz ˌde.briˌxɛ.liˈzant pɔr xɔj dɪn sɛˈman a ˌxi.taˈtsjɔn/
-[ʒoz ˌde.bʀɪˌçɛ.lɪˈzan pɔː xɔj dɪn sɪˈman a ˌçi.tɐˈtsjɔn]
+Jo's debriscellisant por scoy d'un semman a scitaçon.
+/ʒɔz ˌde.briˌxɛ.liˈzant pɔr xɔj dɪn sɛˈman a ˌxi.taˈtsɔn/
+[ʒoz ˌde.bʀɪˌçɛ.lɪˈzan pɔː xɔj dɪn sɪˈman a ˌçi.tɐˈtsɔn]
 1s=cop prune-ptcp.prs for easy.job of=indef week at exam
 I'm laying the groundwork for a piece-of-cake exam week.
 
@@ -10898,7 +10898,7 @@ However, in those places where there was early adoption, the [tachygraph] proved
 L'eç region prepondran citað fort appopulað e domain urban aðoinç rapid souvant.
 These were usually dense cities and urban areas undergoing rapid growth.
 
-Ne Safford, com bustr, ja fornið con doujug fondaminal e starc d'accaçment, y joun Bourgmer Crawford surveilau l'instauration dy preu banc redirigent a ambit accacer.
+Ne Safford, com bustr, ja fornið con doujug fondaminal e starc d'accaçment, y joun Bourgmer Crawford surveilau l'instauraçon dy preu banc redirigent a ambit accacer.
 In Safford, for example, which already had a robust postal infrastructure, the young Mayor Crawford oversaw the installation of the first redirection banks in post offices.
 
 L'eç banc tarrompoy y model cossy descreibr: un mission dað sera prefis con un scifr muncever (triant parmig, a Makerfell sta lo MKF) parmettent ag zygomour d'y mission accaçar apar vars y bon ambit veciner, seut par un scifr majonner (normalisað aval com catr keren e soulor un lettr) eð ant l'ec scifr sceus y mission star tramis vars y bon machin.
@@ -11185,7 +11185,7 @@ excerpt in translation from a review of Zachariah, a horror film about a vampire
 Un sgaranç deull'ouvr usual de Kiawaman, l'oc fabr zortlasc nos ramen vars y dezein 1820, parmy y scadriscenç dy Paç Lonc eð y commet de Rix Reagent.
 A departure from Kiawaman's usual fare, this blacklayer tale takes us back to the 1820s, amid the disintegration of the Long Peace and the beginning of Reaction War. 
 
-Des y rout accis sou aer ny Boxa autonom vars l'ossatur parsanant de Stamboul, l'oc adaptation dy trevold canonic de Petcov 'Majat Cherveniat' (Y Segr Roug) atten a form redar ag gur e l'enigma ne nossy catr heros sgardar y natur vray dy Zacharia eponym descovrir cos lent.
+Des y rout accis sou aer ny Boxa autonom vars l'ossatur parsanant de Stamboul, l'oc adaptaçon dy trevold canonic de Petcov 'Majat Cherveniat' (Y Segr Roug) atten a form redar ag gur e l'enigma ne nossy catr heros sgardar y natur vray dy Zacharia eponym descovrir cos lent.
 From the gaslit streets of independent Boxa to the recovering shell of Stamboul, this adaptation of Petcov's classic trevold 'Majat Cherveniat' (The Red Man) tries to recreate the dread and mystery of watching our four heroes slowly discover the true nature of the eponymous Zachariah.
 
 Infeliç es ig l'eç bel horam d'œcumen e l'affixion d'un cogmaðer risc tavancin (dont y cainç secuð es majortaðer emprontað des l'eç d'Elenor ny livr) sein y zantr soltumesc n'un film scompiglous ceter.
@@ -11467,7 +11467,7 @@ excerpt from the Borland vicine mesh distributed library pages on masquira roman
 Nell'ec ouvr a Carvallo—l'oc preu livr no stant for y primer parmy un rig de doçan—forn introdoit plusour dy qualtað natural por un racont masquiral, e sell'ouvr lou accomblaurn primer accougl com untað cohernt.
 It was Carvallo's works—this first book being only the first in a dozen-strong series—which introduced many of the essential properties of a masquira tale, and first presented them together as a coherent whole.
 
-Com bustr, Jalico forgau pres solter y noçon dy romanç kevlar ant heros deyent un sonc preçous accarr a mesur d'un vellisqment convoluð straccanç e delusion partenent;
+Com bustr, Jalico forgau pres solter y noçon dy romanç kevlar ant heros deyent un sonc preçous accarr a mesur d'un vellisqment convoluð straccanç e delujon partenent;
 For example, Jalico almost singlehandedly creates the conceit of the kevler in which our protagonist must obtain a valuable item by means of a complicated scheme involving trickery and deception; 
 
 nos reconnoscm y parol meðes nel y jout sarvir durant certan hour, dec un inceuçon borallesc aïr.
@@ -11649,7 +11649,7 @@ Prince Pether Tamaha, lesser-known son of the illustrious Hasinic monarchy, has 
 Par surcresc, sy granpaðr y Rey a refusað le sauvar de decoxion, stant jainç a dað lon preluïscment.
 Furthermore, his grandfather the King has declined to bail him out, in an unprecedented move.
 
-Postulation jaçol es convencuð ig y joun prinç (oc ayent un jubilation opulent de nascenç trentem receut ny Davarn Heul fevruer nuverrem, ant may de cinq mil d'assistour) no's lon hiat sy redon despardent eð y scurtað dell'askouð parent confiant.
+Postulaçon jaçol es convencuð ig y joun prinç (oc ayent un jubilaçon opulent de nascenç trentem receut ny Davarn Heul fevruer nuverrem, ant may de cinq mil d'assistour) no's lon hiat sy redon despardent eð y scurtað dell'askouð parent confiant.
 Longtime speculation has held that the young prince (who hosted a lavish thirtieth birthday celebration in the Davarn Heul this February, with over five thousand attendees) has been regularly running through his funds and relying on his family's coffers. 
 
 ##
@@ -11974,7 +11974,7 @@ excerpt in translation from A Baptism of Fire: Christianity and the Graven, writ
 Ant captanç particuler scey y ducað carniol, oc cos remarcabr y citað abondant de Veron gournant, tan eð eiðel uvrautr austessem.
 Of particular interest is the duchy of Crain, which importantly controlled the prosperous city of Verona, as well as fertile lands further east.
 
-Ig lo declarau sy promotion dy Papacy Roman er plausibr nastiðessem des faibiltað a des farvour religious vray, ma toð cas final l'aye un eðegl parfait por contriboir ag Batesm dy Norð.
+Ig lo declarau sy promoçon dy Papacy Roman er plausibr nastiðessem des faibiltað a des farvour religious vray, ma toð cas final l'aye un eðegl parfait por contriboir ag Batesm dy Norð.
 Their declaration in support of the Roman Papacy was likely more pragmatic than out of true religious fervour, but in any case they were perfectly positioned to contribute to the Baptism of the North.
 
 Degnant ig l'Ordr de Sagnt Hemma all'Aug Calm (y Convey Australier) fosn y Batesm condugnt con soutien moneðer de Taxon a Hongary par dezein plusour, sou contingent dy Secession German denoy y Batesm un accommission prement.
@@ -12167,7 +12167,7 @@ excerpt in translation from 1943 history book The Mysarnos Problem: the Enigma o
 Ma neðan carrug mettr avant naumagl, retorneu ag citað yon a nossy racont sy commet.
 But lest we get ahead of ourselves, let us return to the city where our saga begins.
 
-Y citað a Mysarnos es l'ançan cafloy ny Principaltað de Mystra, un stat mordether stant vassal sou Rom des y siecr onç fin a sy dissolution com issent parmy eç dy Rix Romannesc dy siecr settoç.
+Y citað a Mysarnos es l'ançan cafloy ny Principaltað de Mystra, un stat mordether stant vassal sou Rom des y siecr onç fin a sy dissoluçon com issent parmy eç dy Rix Romannesc dy siecr settoç.
 The city of Mysarnos is the former capital of the Principality of Mystra, a Roman mordether vassal state from the eleventh century until its dissolution as a result of the Romantic Wars in the seventeenth.
 
 L'oc nom es tan denuð cos janual l'oç benoçað por y bourg grec vecin ja sceint (stant tardessem corporalisað cos solemn com un muncef de Mysarnos) connuð nell'asc antic com Pylos.
@@ -12264,7 +12264,7 @@ Our neighbours to the east have never matched the globe-spanning workshop and ho
 Nentamen, ða meðes par proximtað soul, y lengaç anglesc son cos parmanent vanagl borallesc adaptant de jaçol com y Mitað-Asc.
 Nonetheless, if only by virtue of proximity, the English languages have been adapting Borlish terms even from the medieval period.
 
-Com bustr, degnant ig nos ligeu l'eç siecr tost nell'Istr posc-roman con migration des Albion vars Istr Boral (cos particuler, par issent dy reduction markesc d'Anglia Auster ny siecr nouf),
+Com bustr, degnant ig nos ligeu l'eç siecr tost nell'Istr posc-roman con migraçon des Albion vars Istr Boral (cos particuler, par issent dy reduction markesc d'Anglia Auster ny siecr nouf),
 For example, while we associate the early centuries of the post-Roman Isles with migration from Albion into Borland (in particular, after the Merch subjugation of East Anglia in the ninth century),
 
 ec parol com danny "un treublant, applattiscent", bather "baðr con fil" e parren "sojornour, un alandað, corrovað" entraurn Veðr Anglesc des Veðr Boral ny siecr deg soul (lonc lorry preu yenç ne chronic de monastir).
@@ -12350,7 +12350,7 @@ Two decades later Sothbar surrendered to Dane Borland and the family were forced
 
 excerpt in translation from 1999 scholastic quire The Grimmer Hall: Developments in Early Methodics (originally published in Cambrick as Łys y Grymrageð: Dasplygad nhy Methodig Kysevin), written by New Leudong historian and methodist Cai Sonquo during his tenure at the University of Mehannin (Brisbane).
 
-Obligað no's un sautel lonc demay cas figuration por y despley ondatim benoçar por regest exactessem augrimar dy gyr de corp cisjovial.
+Obligað no's un sautel lonc demay cas figuraçon por y despley ondatim benoçar por regest exactessem augrimar dy gyr de corp cisjovial.
 It does not take too great a conceptual leap to use the waveform display to compute more accurate records of the gyres of cisjovial bodies.
 
 Vray, pre y siecr novoç tost ja encontrau nos prefaction magn tranq de conjonction planeter Ixion envount ny scaunç dell'astronom ambrojan Fabian Mostàf,
@@ -12362,7 +12362,7 @@ grandson of the mathematician Raymond al Mustafa who himself had helped develop 
 Nell'oc asc er Mostàf laurant all'observatoir de Paratzon ne Brasil auster e noc obstroint y sar campaner parvasiscent se cous progression,
 At this time Mostàf was working at the observatory at Paratzon in eastern Brasil [Newfoundland] and despite advancements in the spreading steeplemesh,
 
-collaboration tras l'ocean atlantic remanen lent, descovart plusour sceint fait cos istrað ny Novomont e Vetomont y dou.
+collaboraçon tras l'ocean atlantic remanen lent, descovart plusour sceint fait cos istrað ny Novomont e Vetomont y dou.
 collaboration across the Atlantic remained slow, with several discoveries made separately in the Novomund and Vetomund alike.
 
 ##
@@ -12646,7 +12646,7 @@ Proponents
 
 excerpt in translation from the condensed study materials for the New Vithor course Concurrence History of the 16th Century: Death, Ships and the Movement of the Heavens.
 
-Un bustr l'oc eutað dessur contradignt es Vascony; l'oc a graç a profit Novomondan des pelur eð autr enascment un aðoinç cas pouvlanç souvað de 1500 vars 1550 (Portingale noc ig inclus) com issent d'immigration.
+Un bustr l'oc eutað dessur contradignt es Vascony; l'oc a graç a profit Novomondan des pelur eð autr enascment un aðoinç cas pouvlanç souvað de 1500 vars 1550 (Portingale noc ig inclus) com issent d'immigraçon.
 One counterexample to the above trend is Vascony which, thanks to Novomundane profits in furs and other goods, actually saw in increase in population from 1500 to 1550 (excluding Portingale) due to immigration.
 
 Y fin dell'Ascenenç Vascon con y Var dy Dou Quen vole denou mettr ag model feudal ne Vascony pre fos y siecr fis, portant.
@@ -12655,7 +12655,7 @@ The end of the Vascon Ascendancy with the War of the Two Queens would end feudal
 (Val svoccar ig l'oc no sta kynous y dicerrem vars y model feudal finir nell'aust, yon l'eç concarnç islamesc de Kieu e de Cazany russesc souvartoy y nobiltað cos colombandessem.)
 (It is worth mentioning that this was not the main factor in ending feudalism in the east, where the Islamic conquests of Kiew and Russian Cazany upended the nobility more directly.)
 
-L'un effeit parcanç imprefaibr dy diminution dy model feudal sta y reitfianç de ley com cod suntuer.
+L'un effeit parcanç imprefaibr dy diminuçon dy model feudal sta y reitfianç de ley com cod suntuer.
 One, perhaps unexpected, effect of the decline of the feudal system was the strengthening of laws such as sumptuary codes.
 
 ##
@@ -13056,7 +13056,7 @@ aposc /aˈpɔx/ [ɐˈpɔx]
 - henceforth, going forward, in future, from now on, at all times after the present;
 - onward, continually, going on without pause or hesitation;
 
-Etymology: adverbial derivation from prepostion posc "after, since" < Late  Latin posque < post quem "after which". This word was originally  restricted to taking complements "after I get back" rather than nominal arguments "after the wedding", for which one would use now-obsolete pos < Latin post "after, behind"; the former had displaced the latter by  the fifteenth century.
+Etymology: adverbial derivation from preposition posc "after, since" < Late  Latin posque < post quem "after which". This word was originally  restricted to taking complements "after I get back" rather than nominal arguments "after the wedding", for which one would use now-obsolete pos < Latin post "after, behind"; the former had displaced the latter by  the fifteenth century.
 
     Y cat venoirn aç seðel aposc.
     /i kat veˈnɔj.rn̩ ats seˈðɛl aˈpɔx/
@@ -13331,7 +13331,7 @@ extract and translation from Shallmews and Fithels: the influence of post-Tetrar
 All'hour yonoscon nos eu tesmogn d'eç melody manoscart ny music romannesc temporane, nos veim benoç dy kyriel tras Europ occas, norðer jusc Mondovel tan souðer jusc Baglem, donc arð es sell'orin real definir.
 By the time we do have evidence of manoscard melody in contemporary popular music, we see use of the scale across western Europe as far north as Mondwell [Anglesey] and as far south as Bagliemmo [Palermo], so it is difficult to determine its true homeland. 
 
-Cay appondr ig y kyriel spanoy des Luberon tras Borgogn e soulor lontanessem par y siecr treç un postulation ant evidenç tan com toð autr, oc a digr alcun entr no's cos particuler suajoir.
+Cay appondr ig y kyriel spanoy des Luberon tras Borgogn e soulor lontanessem par y siecr treç un postulaçon ant evidenç tan com toð autr, oc a digr alcun entr no's cos particuler suajoir.
 The presumption that it radiated from Luberon through Burgundy and outward through the thirteenth century is as well-evidenced as any alternative hypothesis, which is to say not particularly convincingly. 
 
 Certain scholer aun soumis ig l'oc asmuth d'influyenç fos vray ados, eð ig y kyriel se cous introdoit ne Manosq par un joun monc ayent lo saut des y hammel a sy figleç.
@@ -13507,18 +13507,18 @@ Your secretary was poisoned with cyanide-laced tea.
 
 ##
 
-53.4: aversion "opposition"
+53.4: averjon "opposition"
 
-aversion /ˌa.vɛrˈzjɔn/ [ˌa.vɪːˈzjɔn]
+averjon /ˌa.vɛrˈʒɔn/ [ˌa.vɪːˈʒɔn]
 - opposition, resistance, pushback, dissent, the state of being in disagreement with someone's actions;
 - discontent, disgruntlement, dissatisfaction, resentment, feelings of unhappiness with the status quo;
 - resistance, rebellion, uprising, revolt, organisation struggling for liberation against an authority seen as illegitimate (especially when underground or otherwise cloak-and-dagger)
 
 Etymology: from Middle Borlish aversion "opposition, resistance", seemingly the confluence of the two Latin roots āvertō "I turn away, repulse" and non-classical advertō "I oppose, fight against" (a backformation from adversārius "opponent"). In the last sense used especially for Collusion-supported movements through the twentieth century in regions dominated by Ubiquitous administration.
 
-Banc redirigent machinal receveurn magn aversion.
-/bank reˌdi.riˈʒɛnt ˌma.kiˈnal ˌre.tseˈvaw.rn̩ mɛjn ˌa.vɛrˈzjɔn/
-[baŋk ʀɪˌdi.ʀɪˈʝɛn ˌma.kɪˈnaw ˌʀe.tsɪˈva.wɐn mɛjn ˌa.vɪːˈzjɔn]
+Banc redirigent machinal receveurn magn averjon.
+/bank reˌdi.riˈʒɛnt ˌma.kiˈnal ˌre.tseˈvaw.rn̩ mɛjn ˌa.vɛrˈʒɔn/
+[baŋk ʀɪˌdi.ʀɪˈʝɛn ˌma.kɪˈnaw ˌʀe.tsɪˈva.wɐn mɛjn ˌa.vɪːˈʒɔn]
 bank redirect-p.prs mechanical receive-pst.3p much opposition
 Automated redirection banks were met with significant opposition.
 
@@ -13879,7 +13879,7 @@ The products (for a full list see insert) include bars from the well-known clean
 Narrað svattour suggern y blasmabr sey un lot impur a copros lauric de natron, un matier fameyant addað cos respanent n'ougl e bar a savon.
 Early reports suggest that the culprit may be an impure batch of natre's lauric cuprose, a foaming substance widely added to soap oils and bars.
 
-Gimmolt vars l'origin dy contamination furtivir n'aun solution yent, ma y defait de bustr comportant referið des y ligt dy març d'enascment de Libya (dont Istr Boral innasc y majortað dell'ec ivorc alchemic por detaxion) appen vars ig y spin vel y molin poliscent a Haldanvion hamtar.
+Gimmolt vars l'origin dy contaminaçon furtivir n'aun soluçon yent, ma y defait de bustr comportant referið des y ligt dy març d'enascment de Libya (dont Istr Boral innasc y majortað dell'ec ivorc alchemic por detaxion) appen vars ig y spin vel y molin poliscent a Haldanvion hamtar.
 Efforts to trace the source of the contamination are as yet inconclusive, though the lack of any similar cases reported in the rest of Libya (from where Borland imports the majority of these alchemical products for detaxion)'s export market suggests that the issue may lie with the refining mills at Haldanvion.
 
 ##
@@ -14146,10 +14146,10 @@ excerpt in translation from The Varied Benefits of Malice Aforethought (publishe
 Caye un crevoscr affreidant je Avril joun e l'eç residu final de stað ern gliðant apart con un bris fresc de harvest.
 It was a chilly evening in early April, the last remnants of summer finally drifting away on a crisp autumn breeze.
 
-Cos exact y gendr a crevoscr volois Laum faïr passar cas luy ne sy randy quemant tacquaveyan nell'autranç compliscent affignt an scaunç deut a edition je l'aubon ados,
+Cos exact y gendr a crevoscr volois Laum faïr passar cas luy ne sy randy quemant tacquaveyan nell'autranç compliscent affignt an scaunç deut a ediçon je l'aubon ados,
 Exactly the type of evening Laum would have preferred to spend in his cosy Tacquave apartment putting the finishing touches on an article due for edition the next morning,
 
-ben parcanç jolleint an tarn beçon scencant con sy colleg por un je nascenç ben munganç jubilar—ben l'explanation doujugher calscon por lembic consumir.
+ben parcanç jolleint an tarn beçon scencant con sy colleg por un je nascenç ben munganç jubilar—ben l'explanaçon doujugher calscon por lembic consumir.
 or perhaps out at a bar getting drinks with his coworkers to celebrate a birthday or anniversary—or whichever flimsy excuse for alcohol consumption.
 
 Aglon, le'r aziant n'un manoir a Kevig scaunt dy deshormejanç poll'indrec carið d'un dynast quidam.
@@ -14445,13 +14445,13 @@ The Mysarnos Problem: the Enigma of an Inconvenient Codex, a popular narrative h
 
 excerpt in translation from 1998 work A Baptism of Fire: Christianity and the Graven, written by Agata Naziunas.
 
-…tandic y statu quo de prepondranç imperial sta deja mi dehiscent (ant y dissolution dy Preu Empir Drengoçan ag vest,
+…tandic y statu quo de prepondranç imperial sta deja mi dehiscent (ant y dissoluçon dy Preu Empir Drengoçan ag vest,
 …while the status quo of Imperial hegemony was already falling apart (with the dissolution of the First Drengotian Empire to the west,
 
 l'irrouçon Jennesc all'eç Istr Tyrrhen l'an 1207 eð reyaum ne Magref e ne Libya y dou se declarant autonomy l'an 1237 N/634 هـ), y vray bodanç a mort vene com y Secession German.
 the Jeanish invasion of the Tyrrhene Isles in 1207 and the declaration of independent Morrove and Libyan kingdoms in 1237 N/634 هـ), its true death knell was the German Secession. 
 
-A mesur de dezein porsevent ag Denonçation Paulin casc ducað sevrað (e cas sporadic casc jarlað!) promoveurn ða Rom ben Augsbourg, un panel de fieltað prest a dirompr forgant oc, lon digr, menau colombant vars y sfondranç dell'Empir German com spectacr fablous.
+A mesur de dezein porsevent ag Denonçaçon Paulin casc ducað sevrað (e cas sporadic casc jarlað!) promoveurn ða Rom ben Augsbourg, un panel de fieltað prest a dirompr forgant oc, lon digr, menau colombant vars y sfondranç dell'Empir German com spectacr fablous.
 Through the decades after the Pauline Denuncations each individual duchy (and in some cases each county!) declared either for Rome or for Augsburg, in a powderkeg patchwork of allegiances that, of course, led to the collapse of the German Empire in spectacular fashion.
 
 Se poð envou particuler dar ag ducað a Cragn, oc cos diçr gournanç issarr sur y citað vige de Triest, tan com feu uvrauterrem  vars l'est.
@@ -14579,7 +14579,7 @@ All shortform and penetrating œculux are scattering, and depending on conventio
 Y mesur y longessem a lumner poðent in experientia un fondamen atomic scadrir es tor 400 magr polç, ja  no stant lonc com lumner visibr calscon.
 The longest span of light which can in theory scatter an atomic base is around 400 scant-inches, which is not yet as long as any visible light.
 
-Scey hasart ne gran illumination des lumner a mesur tan cort, e feliç es aer avogl y majortað a tal lux nastið par y Sol (ma noc l'entertað, com vil bruslanç tesmognar!). 
+Scey hasart ne gran illuminaçon des lumner a mesur tan cort, e feliç es aer avogl y majortað a tal lux nastið par y Sol (ma noc l'entertað, com vil bruslanç tesmognar!). 
 High exposure to light of such brief span is dangerous, and fortunately air blocks the majority of such luxes that the Sun emits (although not all, as a sunburn will attest!).
 
 ##
@@ -14721,9 +14721,9 @@ gamblas /gamˈblaz/ [gɐmˈblaz]
 
 Etymology: Middle Borlish borrowing from contemporaneous Kentish gamblass "barge", itself extracted from Welsh łong gamblas "canal ship". It is presumed that the first component łong "ship" was treated in Kentish by folk-etymology as the adjective "long", in a reversal of its Latin origin in (navis) longa "longship".
 
-L'oc compostion de pont parmet coval menn gamblas apar.
-/lɔk ˌkɔm.pɔsˈtsjɔn de pɔnt parˈmɛt koˈval mɛnn̩ gamˈblaz aˈpar/
-[lɔ ˌkɔm.pʊsˈtsjɔn de pɔnt pɐːˈmɛt kʊˈvaw ˈmɛnɐn gɐmˈblaz ɐˈpɐː]
+L'oc composson de pont parmet coval menn gamblas apar.
+/lɔk ˌkɔm.pɔˈsɔn de pɔnt parˈmɛt koˈval mɛnn̩ gamˈblaz aˈpar/
+[lɔ ˌkɔm.pʊˈsɔn de pɔnt pɐːˈmɛt kʊˈvaw ˈmɛnɐn gɐmˈblaz ɐˈpɐː]
 def-s.px arrangement of bridge allow horse lead-3p barge through
 This bridge design allows horses to draw barges past it.
 
@@ -14760,7 +14760,7 @@ The league, which had been even less consistent across Europe than the foot, was
 y mesur cas ustol y "migl" vole cavir inclus parmy y mesur degm com cinq mil pie, ben un demy a lau.
 the traditional measure of the "mile" would be folded into the dime measures as five thousand feet, or half a league.
 
-L'oc contingent es autrað alcant soul dagormay, candon y pie (e cossy scient y lau) se cou un redefinition ne 1946 por ig y veloçtað normal œ tey cos exact deg gran lau par second.
+L'oc contingent es autrað alcant soul dagormay, candon y pie (e cossy scient y lau) se cou un redefiniçon ne 1946 por ig y veloçtað normal œ tey cos exact deg gran lau par second.
 This state of affairs has changed only once since, with the redefinition of the foot (and therefore the league) in 1946 setting the normal speed [the speed of light] œ to precisely ten great leagues per second.
 
 ##
@@ -15122,7 +15122,7 @@ Dormaget uses the narrow view to illuminate the broad in every aspect of his fil
 Ða y belem stan grivlað a se produgr ny palaç e castel a Huzatr e Cartau, defagl all'auditoir vel y comport vistar entr y glonscel cambresc n'Albion ag scon nuçal d'Alexandra a Vascony e sy veyaç famous.
 If the scenes were confined to the palaces and castles of Huzatre and Cartaw, it would be hard to connect the Welsh tangles in Albion to the second marriage of Alexandra of Vascony and her famed voyage.
 
-Aglon poum nos y sensation a sculd parental sentir all'abat contr gam sgarant lonc y dou cainç secuð nell'oc caðen filmer.
+Aglon poum nos y sensaçon a sculd parental sentir all'abat contr gam sgarant lonc y dou cainç secuð nell'oc caðen filmer.
 Instead we can feel the sense of parental obligation warring with wanderlust in both threads of this filmic tapestry.
 
 L'Ascenent vil lon fregn denir siemprtað sull'icon stival, e l'oc merit fort l'oç sign a ðoranç.
@@ -15213,13 +15213,13 @@ Since the first periodic tables in the 1840s it had been realised that naively o
 (y celeberrem ig stove de raçon starc janthin inquillir parmy sy confraðr detaxional com muria),
 (most notably the strong motivation to place iodine with similarly-reacting substances like chlorine),
 
-eð alcun motivation theoretic por ec tal per de corporal trocar nell'orn nole soumission cavir pre dezein.
+eð alcun motivaçon theoretic por ec tal per de corporal trocar nell'orn nole soumission cavir pre dezein.
 and no scientific basis for swapping such pairs of elements in the order would be proposed for decades.
 
 A veg temporane, l'occorrenç pariscent lon conjogntur yonoscon ig lonc mesuranç y corporal y legeressem teyen tout pondranç atomic monfiað pres exact com l'oç a aquifex,
 At the same time, the apparently-unrelated phenomenon wherein the lightest elements had all been measured to have atomic weights almost exact multiples of that of hydrogen,
 
-cant oc se mantene bogr cas l'eç lordessem (corporal tal cojan meðes com es cuivr!), flagita expostion cavir.
+cant oc se mantene bogr cas l'eç lordessem (corporal tal cojan meðes com es cuivr!), flagita exposson cavir.
 while this was not true at all of heavier ones (even such prosaic substances as copper!), demanded explanation.
 
 ##
@@ -15315,7 +15315,7 @@ The mayor continues to promise better roads out west to Lepzi—
 mocry es ig se poð noc l'aðendranç quottar entr ort eð occas e donc stou un noit incommod souvar ag casatabr solter d'Ossatz ant magð a cambr supportabr.
 it is nonsensical that one cannot make the journey in a day and must suffer an uncomfortable night in the only Ossatz lodginghouse with tolerable chambermaids.
 
-Jo porray noc creir ig tal corrogation veun patronisment se trovar tandic y garnçon sein sell'aur flagitant,
+Jo porray noc creir ig tal corrogaçon veun patronisment se trovar tandic y garnçon sein sell'aur flagitant,
 I cannot see that such projects will find funds for themselves so long as the garrison demands its gold,
 
 e tandic y menaç bohamesc sey tijon svingant dereðr dy tarm souðer.
@@ -15437,7 +15437,7 @@ Sarzan Dawkinholm (fl. c19), long-serving and much-lambasted Outland Minister
 
 excerpt in translation from a review of 1934 film The Ascendant by Jacint Brunat, which appeared in Marsellan newspaper Fiellas Dimenja.
 
-Jo nil for vertað—opportun es l'oc edition tan brey posc y solstiç neðan jo pos noc parcanç l'eç sodal haubrjorançasterrem ovart concedr ny fabr cortal e historic nuverrem de Dormaget.
+Jo nil for vertað—opportun es l'oc ediçon tan brey posc y solstiç neðan jo pos noc parcanç l'eç sodal haubrjorançasterrem ovart concedr ny fabr cortal e historic nuverrem de Dormaget.
 I shall be honest—the timing of this release so soon after the solstice perhaps let me better indulge the obviously-propagandist elements of Dormaget's latest historical courtly drama.
 
 L'Ascenenç Vascon tey noc eiðel insuet poll'argent neir, con y Jo so Ambrosc intimessem d'Agochino ayent y parceuçon pouvlancer concreut poll'oc rey vascon durablessem.
@@ -15634,7 +15634,7 @@ excerpt in translation from scitation questions for the Safford Technic Scole's 
 Posc y closiscment dy Var Theudesc Primer d'an 1770, Saxony er mi ascenent e brouca auteç sur eiðel may all'oç seyon aut a veg calscon ne sy histoir. Cossireð y scaunç de Sneider sull'urbanfianç tost cohernt de Lepzi. Diçr alcot er sy scaunç influïð pall'oc e par y nuçal d'an 1772 entr luy eð Otto Sneider, scholer ag Sterncundhaus?
 With the conclusion of the First German War in 1770, Saxony was ascendant and controlled more territory than it had at any point in its history. Consider Sneider's writing about the attendant early urbanisation of Lepzi. To what extent did this and her 1772 marriage to Sterncundhaus scholar Otto Sneider influence her writing?
 
-"L'eutað Trevogt macquau un generation de domn e segr astr mirant e donc luy dabr es nis toð cas final vars y descovart vogder lonc mi plaç dy siecr novoç; y vecinanç dy planet Janus par bint Inám, eð y costregnç dy veloçtað normal, com bustr." Diçr alcot soð vos concordant all'oc inquit?
+"L'eutað Trevogt macquau un generaçon de domn e segr astr mirant e donc luy dabr es nis toð cas final vars y descovart vogder lonc mi plaç dy siecr novoç; y vecinanç dy planet Janus par bint Inám, eð y costregnç dy veloçtað normal, com bustr." Diçr alcot soð vos concordant all'oc inquit?
 “The Voidtale fashion reared a generation of star-gazing men and women and thus was ultimately responsible for the cosmic discoveries of the mid-nineteenth century; bint Inám locating the planet Janus, and the normal speed being fixed, for example.” To what extent do you agree with this quote?
 
 ##
@@ -15826,7 +15826,7 @@ When he finally lets his gaze drop from the clouds to the roof, it looks decent.
 Noc just exact com valent, nentamen: l'ec ardois aun untal nuvreç eð aplattið ant cogn parfait y catr.
 Not quite like it should, though: the slates are so unmistakably new and uniform with perfect corners.
 
-Scey ne bon mont fragnç e lamn jagottað a casc postion yonoscon y glaç joivrau ne japot tras l'yarn e bojau l'ardois a vougheç.
+Scey ne bon mont fragnç e lamn jagottað a casc posson yonoscon y glaç joivrau ne japot tras l'yarn e bojau l'ardois a vougheç.
 There should be cracks and uneven edges in all the spots where the ice dammed up in the winter and pushed the slates awry.
 
 Ma toð ig es partið. Cay comoscon ða toð toll'eç annað stan diglað, ben ða alcun cainç den no'r bogr occors.
@@ -15912,19 +15912,19 @@ excerpt in translation from the condensed study materials for the New Vithor cou
 L'ustol es y model feudal stimar defonct cos enter posc 1550 N, ben toð cas deur polity insoler com Borgogn eð Avry.
 It is usual to consider the feudal system entirely defunct by 1550 N, at least outside of insular polities like Burgundy and Awry.
 
-Soumis son un diverstað a mejan por l'oc dissolution expondr; creudessem orruð certain parmy a eç autr.
+Soumis son un diverstað a mejan por l'oc dissoluçon expondr; creudessem orruð certain parmy a eç autr.
 A variety of reasons for this collapse have been suggested; some are more widely accepted than others.
 
 Mout soumont es un tramou de labour sarver deut ag Scon Gran Morenç, abiltant ig l'eç païsan ayent survecuð flagitn contingent dijarblessem de lorry segnour.
 Often cited is a labour shortage of serfs due to the Second Great Dying, allowing those peasants who remained to demand more favourable conditions from their lords.
 
-L'oc es tesmognað par y conjogntur parceut entr diminution de pouvlanç e liberalisation (tan com hastous alcot a y clas entrpos smargent creut).
+L'oc es tesmognað par y conjogntur parceut entr diminuçon de pouvlanç e liberalleyaçon (tan com hastous alcot a y clas entrpos smargent creut).
 This is evidenced by the correlation observed between population loss and liberalisation (as well as how quickly the nascent middle class grew).
 
 Com bustr, Istr Boral sou Joseph III pardoy may a carant murðon gent, un sont de sy pouvlanç;
 For example, Borland under Joseph III lost over forty myriad people, one-seventh of its population;
 
-sarvaç (deja a pognt d'exeunt fair) fo abolið cas ley d'an 1564 N, ma ant l'oç hour yent lo no'r existant veraçter sull'istr tras un generation.
+sarvaç (deja a pognt d'exeunt fair) fo abolið cas ley d'an 1564 N, ma ant l'oç hour yent lo no'r existant veraçter sull'istr tras un generaçon.
 serfdom (already on its last legs) was legally abolished in 1564 N, but by that point it had not de facto existed on the island for a generation.
 
 ##
@@ -16351,7 +16351,7 @@ Though convincing records are either fragmentary or clearly biased (even Brethin
 creut cos general es ig y cort dy scavin l'ablegau preluïscent com çamoc,
 it is generally believed that the alderman's court threw him out pre-emptively as a sop,
 
-ne spien de vanc aur aðief oblatar volonter ag gazovour por poðir un devastation total dy citað evitar.
+ne spien de vanc aur aðief oblatar volonter ag gazovour por poðir un devastaçon total dy citað evitar.
 hoping to offer enough treasure freely to the invaders that they could avoid a total destruction of the city.
 
 
@@ -16444,7 +16444,7 @@ Gunna Despath (fl. 1920), translator who was born Gonnilt Dispað in Borland
 
 excerpt in translation from scitation questions for the Borrhatic School of History at Combert's 1977 course 1167-1225 N: The Collapse of the Second Tetrarchy and the Final Decades of the Roman Totality.
 
-1. Ne cal comtað, regnað sou Comt Jerron, se prodoy l'Urgenç noncupað d'an 1170, y donjon devastant absoluð e menant vars y secession de Borgogn (e tandem y dissolution) dell'Empir Constant? [Dijon] 
+1. Ne cal comtað, regnað sou Comt Jerron, se prodoy l'Urgenç noncupað d'an 1170, y donjon devastant absoluð e menant vars y secession de Borgogn (e tandem y dissoluçon) dell'Empir Constant? [Dijon] 
 1. In which county, ruled by Count Jerròn, did the 1170 "Emergency" take place, utterly destroying the keep and leading to the secession of Burgundy from (and eventually the dissolution of) the Constant Empire? [Dijon]
 
 2. Cal gendr de parenteç aye Rey Adalmar a Bavarn con sy heriter Empres Catharin a Germany, y regnour final an Germany unið pre may a cinq cent annað? [Granyam]
@@ -16545,7 +16545,7 @@ At least, that is, for the next eighteen years of manœuvring against a hungry B
 (Compris cos general es ig Segr Amigòt [Daniel Menton] stablisceu Marsegl com y cafloy de Provenç cos majortaðer por y flottisc de Jondumal surveilar coðelous; moustr den ne Part III: Veil Jen.) 
 (It is generally understood that Lord Amigòt [Daniel Menton] established Marsella as the capital of Provence in large part to closely monitor Jondumal's fleets, about which see Part III: Old Jeans.)
 
-Pre y fin de sy regn d'an 1517, Segr Amigòt aye y tarm con Borgogn e Barcelon fis a plaç, ant Narbona ligt sou obligation doblað vars Menton e vars Jaume III.
+Pre y fin de sy regn d'an 1517, Segr Amigòt aye y tarm con Borgogn e Barcelon fis a plaç, ant Narbona ligt sou obligaçon doblað vars Menton e vars Jaume III.
 By the end of his rule in 1517, Lord Amigòt had solidified the borders with Burgundy and Barcelon, with Narbona left with double obligations to Menton and to Jaume III.
 
 ##
@@ -16708,7 +16708,7 @@ The Deviance Incorporation of Folk Tales, 1970 sociological work by Dr Tanasio C
 
 excerpt in translation from the collected correspondence of Michæl Bervisson (17th June 1799–12th January 1849), political historian and social reformist. This exceprt is from a letter to his editors concerning proposed alterations to his magnum opus Roma Æternal: Ec Vascel a These (An Eternal Rome: Ships of Theseus).
 
-Dovem, m'ajoutabr vel improbation redirigir tan com sera parcanç nos prevenibr (cos particuler l'un bougr aquilin nolent my plum teurfiar) e l'eç argument refutar cos direct ny scrit.
+Dovem, m'ajoutabr vel improbaçon redirigir tan com sera parcanç nos prevenibr (cos particuler l'un bougr aquilin nolent my plum teurfiar) e l'eç argument refutar cos direct ny scrit.
 Second, I would like to divert as much criticism as we might possibly anticipate (in particular one aquiline fellow who shall not sully my quill) and rebut those arguments directly in the text.
 
 Nell'oc spien, posseu nos y capparol Caf Jammel prolongar por caglou irrayar a comoscon l'Empir Constant drengoçan ag vest eð y Roman malchassian all'aust y dou issaroirn y Cligs (tras y siecr derran yon unið) por lorry pretension vars continuitað con Rom basfiar?
@@ -16824,7 +16824,7 @@ scitation questions in translation from the 2007 course Religion in the Second M
 (iii) Diçr alcot sta y resmargenç dell'Apprestanç Modest ne Spagn e Gal com effeit dell'ec novel idea religious? Compareð y farvenç de cuidour modest ig inclus y Marchis de Caillat ben Diana Theodora Queiroz y pro-Marian Azur contr y philosoph de commouð preluïscent cosvour a Modest.
 (iii) To what extent was the resurgence of the Modest Arrangement in Spain and Gaul in reaction to these new religious ideas? Compare the fervence of Modest thinkers like the Marquis de Caillat or proto-Blue Marian Diana Theodora Queiroz to the philosophers of earlier Modest-like movements.
 
-(iv) Lonc vossell'opinion, cu scavoy (ben scavoirn) cos incaindessem l'edition incendier d'an 1799 Et Nous Amerons les Fux (E Nos Amareu eç Foy), un ouvr tarromour cas Theology a Desveyanç? Tesmogneð vossell'apponment con poið modern e temporane, e hasmeð dou ben may autr ouçon cas plausibiltað.
+(iv) Lonc vossell'opinion, cu scavoy (ben scavoirn) cos incaindessem l'ediçon incendier d'an 1799 Et Nous Amerons les Fux (E Nos Amareu eç Foy), un ouvr tarromour cas Theology a Desveyanç? Tesmogneð vossell'apponment con poið modern e temporane, e hasmeð dou ben may autr ouçon cas plausibiltað.
 (iv) In your opinion, who is, or are, the most likely author(s) of the incendiary 1799 publication Et Nous Amerons les Fux (And We Will Love the Fire), a seminal work in Deviance Theology? Back up your theory with modern and contemporary sources, and contrast the likelihood of at least two other candidates.
 
 ##
@@ -17022,7 +17022,7 @@ excerpt in translation from 1930 book Prove your Knowledge!, a part of the serie
 8. Cal fey Nicolà s Avignon d'an 1347 stant rumorað com un rout vars y sfondranç final dell'Empir Roman Dovem?
 8. What did Nicolà s Avignon do in 1347 that is said to have led to the final collapse of the Second Roman Empire?
 
-9. Un kerel sur y postion dy Caðer ne Pieðr Roug entr cal dou stat albic akirtau y Rix cas Fieltað eç dezein parmanent?
+9. Un kerel sur y posson dy Caðer ne Pieðr Roug entr cal dou stat albic akirtau y Rix cas Fieltað eç dezein parmanent?
 9. A dispute over the location of the Redstone Chair between which two Albic states sparked the decades-long Wars of Fealty?
 
 10. Cu sta y preu domn stant instroyour an universtað european, d'an 1219 com sodal nell'Universtað Sant'Antonnio a Padou?
@@ -17197,10 +17197,10 @@ Discuss the rise of the New Urban Mesh and their subsumption into the Collusion,
 Cos tranquessem, comparaçon fair dy racont de lorry benoç de spionnaç all'Aust por gournment dirigir lonc asmuth san cas commarç con y realtað plausibr.
 In particular, compare the popular account of their use of espionage in the East to steer politics in tradewise-beneficial directions with the likely reality.
 
-Valour dar ag postion d'emphas sur y droug d'orðenjanç marin e cos particuler sur y cavibiltað de carbon por y commarç Urban basfiar.
+Valour dar ag posson d'emphas sur y droug d'orðenjanç marin e cos particuler sur y cavibiltað de carbon por y commarç Urban basfiar.
 Give credit for emphasising the role of maritime technology and especially access to coal in supporting the Urban trade.
 
-Respos carr eç mostrant ig y stuðant es eut doutr a for y lasc d'an 1968 "Sr Desarden, Prinç Nuçal" sgardar; ig le's aglon suet ag mesur dy seucq de James Desarden nell'Adminstration Muncever cos equal pre sell'ascreuçon a Nacon Day e posc y scandal d'an 1887 y dou.
+Respos carr eç mostrant ig y stuðant es eut doutr a for y lasc d'an 1968 "Sr Desarden, Prinç Nuçal" sgardar; ig le's aglon suet ag mesur dy seucq de James Desarden nell'Administraçon Muncever cos equal pre sell'ascreuçon a Nacon Day e posc y scandal d'an 1887 y dou.
 Look for responses which prove that the student has done more than watch 1968 film “Mr Desarden, Prince Consort”; that they are actually familiar with James Desarden's career in the City Administration both before his assignment to Nackon Day [Thailand] and after the scandal of 1887.
 
 ##
@@ -17290,7 +17290,7 @@ Sir Hendric and his inseparable friend and neighbour Captain Gafr had raised the
 tras annað lorry parrinment vars region divers n'Africa eð Angelica abrejant por poðir remanir cas Baðot tras casc stað candon le repaðre de schol.
 for years curtailing their trips to far-flung regions across Africa and Angelica so that they could be there each summer when he returned from school. 
 
-L'aye pluottað n'apponent ig confraðreç fagl lon convolution sou ciel azur borallesc sta un step ny scagl a natur.
+L'aye pluottað n'apponent ig confraðreç fagl lon convoluçon sou ciel azur borallesc sta un step ny scagl a natur.
 He had grown up assuming that easy, uncomplicated companionship under blue Borlish skies was the natural order of things. 
 
 Sceint oy, posc un biennial brey parmy fraðr de camp denovant vars sell'apocalyps coram meðes, l'oç parisce Eden soluð.
@@ -17631,13 +17631,13 @@ excerpt in translation from the 1990 edition of collected sample scitation paper
 Y benoç de lengaç cas racontaçon poð stroy nos descondr sur y discrepanç entr region n'Albion ayent y sfondranç dy Preu Empir Drengoçan ammonir. Arguteð:
 The use of language in storytelling can tell us much about the differences between regions of Albion which presaged the collapse of the First Drengot Empire. Discuss:
 
-(i) y droug dy recougl dy siecr catorç "L'eç Cont ag Bosc n'Enfield" por l'expostion ranscellant cas cont a pouvr dy Duc Saðour e sy Band Masquað normalisar, 
+(i) y droug dy recougl dy siecr catorç "L'eç Cont ag Bosc n'Enfield" por l'exposson ranscellant cas cont a pouvr dy Duc Saðour e sy Band Masquað normalisar, 
 (i) the role of fourteenth-century compendium The Tales of Enfield Wood in codifying the divergent folklore interpretations of the Farmer Duke and his Masked Band,
 
 (ii) y dehiscenç aðoint entr y lengaç markesc e cantesc com es tesmognað par y parol inquittað nell'oc recougl, e
 (ii) the growing separation between the Merch and Kentish tongues as evidenced by the vocabulary attested in this compendium, and
 
-(iii) diçr alcot se poð motivation dar all'identfianç dy scrittour all'oc ouvr con Jovan d'Yare (y reconnuðessem d'aïr l'accont historic Y Gran Morenç scaut).
+(iii) diçr alcot se poð motivaçon dar all'identfianç dy scrittour all'oc ouvr con Jovan d'Yare (y reconnuðessem d'aïr l'accont historic Y Gran Morenç scaut).
 (iii) the extent to which the traditional identification of this work's author with John of Yare (most known for having written historical account The Great Dying) can be justified.
 
 
@@ -17711,7 +17711,7 @@ The library is silent.
 
 ---
 
-Cordin Editions (Borlish Edition Cordin /ˌe.diˈtsjɔn kɔrˈdɪn/) is a publishing house founded in the mid-twentieth century and based in the city of Cordin on Borland.
+Cordin Editions (Borlish Ediçon Cordin /ˌe.diˈtsɔn kɔrˈdɪn/) is a publishing house founded in the mid-twentieth century and based in the city of Cordin on Borland.
 
 The company, which is affiliated with the University of Cordin, is recognised for producing educational books for national schools. It also published syllabi covering schooling throughout childhood which were taken up as a standard by most schools in the polity.
 Publications
@@ -17948,7 +17948,7 @@ scitation questions in translation from the Dijon New School's domain history co
 i) Y Conflict Hellen n'Armeny a mesur dy dezein 1640 val sodaltað parmy l'eç Rix Romannesc ou? Soumettað argument sell'inclujon basfiant e hasmant, cur particuler dant ag kerellanç religious cohernt ag Retorsion Rialid.
 i) Should the Hellenic Conflict in Armenia of the 1640s be classified as a Romantic War? Give arguments for and against its inclusion, with particular attention to the religious strife concomitant with the Rialid Revenge.
 
-ii) Ant soumoin all'ouvr Var lon Mur par Vijairana, arguteð l'eç apponment y faïblessem endeutant motivation dar all'ableganç de toð y marcant gourjat e seldivan des Moscat d'an 1652 N (1062 H), meis plusour pre y concarnç dell'Imamat Ibadinean par soldatry hadramoçan.
+ii) Ant soumoin all'ouvr Var lon Mur par Vijairana, arguteð l'eç apponment y faïblessem endeutant motivaçon dar all'ableganç de toð y marcant gourjat e seldivan des Moscat d'an 1652 N (1062 H), meis plusour pre y concarnç dell'Imamat Ibadinean par soldatry hadramoçan.
 ii) With reference to Vijairania's War Without Walls, discuss the most popular theories attempting to explain the expulsion of all Gurjat and Seldivan traders from Moscat in 1652 N (1062 H), several months before the fall of the Ibadine Imamate to Hadramot forces.
 
 iii) Diçr alcot poðe Morrac profit tenir des y mort dell'Emperour Cariwasari por enajanç d'argent vars y Vetomont monfiar e cossy bors yembr por lorry rix ne cors con Vascony e Libya?
@@ -18100,7 +18100,7 @@ DNA in the 18th century
 Desselut ratiocinau l'ig exist un lengaç vital (parmy sy scaunç a luy la lo nommau y Parol Divin) present nell'eç casel dy corp.
 Desselut inferred the existence of a vital language (in her own writing she called it the Divine Word) present in the cases of the body.
 
-Rumour tardessem noc obstroint, plausibr no's ig la stimaus l'oc lengaç hebreu a verb, con tan l'exponois comport plusour ne sell'edition.
+Rumour tardessem noc obstroint, plausibr no's ig la stimaus l'oc lengaç hebreu a verb, con tan l'exponois comport plusour ne sell'ediçon.
 Despite later rumours, she probably did not believe this language was literally Hebrew, although she made several analogies in her publications.
 
 D'an 1770 y preu livr se descreint sceint fo scaut par un scrittour lon nom e lor condonað vars l'Universtað ne Houlm.
@@ -19808,7 +19808,7 @@ The Numeric Week - Saturday 14th October 1950
 1500: Y lonctum par lau de Japetos III, y novel conjogntur Atlantic oy depos des Morrac vars Ambrosia eð ayent sy preu boðanç augtað je Maucr derran. Vellisquað cos original pall'eç administraçon a catr man d'an 1943, l'accommission dene demorað veg monfeyað deut ag confluyenç de hey cas bors e, lon digr, y sounç dy var. Y snar conjogn y citað de Gadir ag floy Soux e Paratzon ne Brasil auster.
 1500: The length in leagues of Japetos III, the new Atlantic link laid down between Morrack and Ambrosia which conveyed its first messages this last Wednesday. Originally conceived by the two administrations in concert in 1943, the endeavour was delayed several times due both to budgetary concerns and, of course, the outbreak of war. The cable connects the cities of Gadire on the river Soux [Agadir, Morocca] and Paratzon in eastern Brasil [St John's, Newfoundland].
 
-3: L'enombr de vouð dessur dell'opposson ny cambr Yansief yon y soumission dy clou Zachet por interrogment sull'effectualtað de molin a forç sougl se cof yer eligt, ne souc d'un veðrvent imprefait cas y jure suajonnant dy Minister a Ðar. Partejan aun (ða lorry nosthybr sey visant vars y Collujon ben contrig) caglou irrayað cos divers sull'eç advantaç cohernt a men basant a astraphor Drengoçan e sull'occasion de l'Andron a Alchemy ne Lisbon extollir com mojol ny doujug mondial.
+3: L'enombr de vouð dessur dell'opposson ny cambr Yansief yon y soumission dy clou Zachet por interrogment sull'effectualtað de molin a forç sougl se cof yer eligt, ne souc d'un veðrvent imprefait cas y jure suajonnant dy Minister a Ðar. Partejan aun (ða lorry nosthybr sey visant vars y Collujon ben contrig) caglou irrayað cos divers sull'eç advantaç cohernt a men basant a astraphor Drengoçan e sull'occajon de l'Andron a Alchemy ne Lisbon extollir com mojol ny doujug mondial.
 3: The number of votes by which the Mortar coalition's proposal to fund effectivity research into threshold force mills [nuclear power plants] passed in the Yansieve chamber yesterday, after a surprising volte-face from the Ministry for Farming advisory board. Proponents have (depending on their sympathies or lack thereof regarding the Collusion) pointed variously to the benefits of relying less on Drengot astraphor [electricity] and of elevating Lisbon's Faculty of Alchemy to a hub on the world stage.
 
 ##

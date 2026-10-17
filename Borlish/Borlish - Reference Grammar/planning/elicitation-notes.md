@@ -38,6 +38,8 @@ Marks: ✔ the answer states it directly · ? Claude's inference, to confirm in 
 - S20261013120138 (E81–E90, filed 2026-10-13).
 - S20261013125142 (E91–E100, filed 2026-10-13). The user corrected some forms in chat: E93 *ovreu* → *ovroy*; E98 *scein* → *sceyen*; E100 *accort* → *accordn* and *no's* → *no son*.
 - S20261013144712 (E101–E110, filed 2026-10-13).
+- S20261017174937 (E111–E120, filed 2026-10-17).
+- S20261017184710 (E121–E130, filed 2026-10-17).
 
 ## Conflicts with drafted chapters or the corpus
 
@@ -169,6 +171,32 @@ The original note follows: `pronouns.tex` §Imperatives and `tam.tex` §Commands
       - Corpus: 9 lines.
       - Output: 25.3, renamed to `25.3_kerellabr_controversial.md`, plus 25.1, 40.1, 51.1, 56.1, 88.1 and 175.1. All match a regeneration, and their 7 `manifest.tsv` rows were copied from it.
       - `.db`: *querel* and *querellar* were removed as duplicates of *kerel* and *kerellar*. *kerel* takes over the etymology (*Old Borlish < Latin querēla*). *querellabr* and *querellaç* became ***kerellabr*** and ***kerellaç*** and moved beside *kerellar*.
+25. **Intransitive *closir*** (E114). User (2026-10-17): "I think *closir* should be transitive, so I've fixed the cases of intransitive *closir* in the Scaunç file (elsewhere will need aligning)." The user's commit 902c0b7 added *se* in three Scaunç sentences: S19364 *y crescenç den se closisceu*, S21273 *Y port dy cahut se closisceu*, S27341 *y port se closisceus*, the last with its IPA, phonetic and gloss lines. **Aligned 2026-10-17:**
+    - Corpus 1871, 2026 and 2493; the `.db` `\xv` line.
+    - Output 110.1, 130.1 and 190.3, which match a regeneration; their `manifest.tsv` rows were copied from it.
+26. ***soluçon* or *solution*?** (E121.)
+    - E121 and the `.db` have *soluçon* 'solution, answer'.
+    - The corpus has ***solution*** in five sentences: C291 *L'oc solution effectuar…*, C557 *pog solution a Drico*, C888 = C1143 *descovart de solution*, C916 = C1171 *y bon solution augrimar*, C1446 *n'aun solution yent*. It never has *soluçon*.
+    - ~~To ask: retcon those to *soluçon*?~~ **Applied 2026-10-17 (user: "I revised Borlish words ending -Vtion and -Vsion to -Vçon and -Vjon"):**
+      - Scaunç 3371 (IPA /ˌso.liˈtsɔn/), 6097, 9665 and 13882. S10005 already had *soluçon*.
+      - The 7 corpus tokens.
+      - Output 20.1 and 57.1, which match a regeneration; their `manifest.tsv` rows were copied from it.
+      - **Follow-on, applied 2026-10-17 (user-approved):** every remaining Borlish *-Vtion*/*-Vsion* is now *-Vçon*/*-Vjon*. Exceptions:
+        - *position* → ***posson***, and the stray *-postion* forms (*postion*, *compostion*, *expostion*, *sepostion*) → *-posson*, matching the existing *composson*, *exposson*, *opposson*;
+        - the typo *Adminstration* → *Administraçon*.
+      - Scope:
+        - Scaunç: 82 Borlish lines, including the Lexember headwords *donaçon* and *descujon*, the Lord's Prayer *tentaçon*, the publisher name *Ediçon Cordin*, and the hypothetical *concreçon* in an etymology. Also 13 IPA and phonetic lines (*tsjɔn* → *tsɔn*, *zjɔn* → *ʒɔn*, *posson* /pɔˈsɔn/, *composson* /ˌkɔm.pɔˈsɔn/).
+        - The corpus's Borlish column: 89 lines. Two `.db` `\xv` lines.
+        - 45 output files, which match a regeneration; their `manifest.tsv` rows were copied from it.
+      - Left alone:
+        - English text, including six English lines sitting in the corpus's Borlish column (C977, C2215, C2217, C2757, C2839, C2916) and the English typo *prepostion* in the *posc* etymology;
+        - *aversion* (post 53.4), which ends in *-rsion*, not *-Vsion*, so the rule doesn't cover it.
+      - Not in the `.db`: *naçon*, *humiglaçon*, *normalleyaçon*, *civilleyaçon*, *contaminaçon*, *redefiniçon*, *liberalleyaçon*, *convoluçon*, *tentaçon*.
+      - **Second pass, 2026-10-17 (user):**
+        - *aversion* → ***averjon***, matching the `.db` headword. This covers the Scaunç post 53.4 title, headword and example, all with IPA /ˌa.vɛrˈʒɔn/ and phonetic [ˌa.vɪːˈʒɔn]. Also the corpus line, six `.db` `\xv` lines, and the output, which was renamed to `53.4_averjon_opposition.md`. The etymology's "Middle Borlish *aversion*" is kept as the historical form.
+        - *-isation* nouns take ***-eyaçon***, with a stem-final *l* doubled, like the existing *panelleyaçon* and *corporalleyaçon*: *normalisaçon* → ***normalleyaçon*** (S4631, C405), *liberalisaçon* → ***liberalleyaçon*** (S15921, C1611, output 78.1), *civilisaçon* → ***civilleyaçon*** (C1437). Verbs in *-isar* (*normalisað*, *corporalisað*, *debriscellisar*) are a separate series and are left alone.
+        - The English typo *prepostion* → *preposition* in the *posc* etymology: S13059, the `.db` `\et` line and output 50.4.
+        - Output 50.4, 53.4 and 78.1 match a regeneration; their `manifest.tsv` rows were copied from it.
 
 ---
 
@@ -226,6 +254,14 @@ The original note follows: `pronouns.tex` §Imperatives and `tam.tex` §Commands
 - **Settles:**
   - ✔ A **collective noun takes singular agreement** (*a*). Distributive *a cascun* 'each' makes the individuals explicit without changing the agreement (compare *un solt a cascun* 'a shilling each', C2952).
   - ✔ 'Resign' is the .db compound ***ombisc souvr*** 'release a resignation'. In the perfect, *ombisc* stands between the auxiliary and the participle like any object (compare *J'oy tu a un religion minour soluð*, C840). *soluð* is the PST.PTCP of *souvr*.
+
+### E115 · Neither of them is ready.
+- **Borlish:** *Necun de lou son prest.* (also *Alcun de lou son prest.*, "*alcun* is somewhat proscribed for 'none of two'")
+- **IPA:** /neˈkɪn de lu sɔn prɛst/
+- **Gloss:** neither of 3PL.DSJ be.3PL ready
+- **Settles:**
+  - ✔ *necun de* + disjunctive 'neither of' takes a **plural verb** (*son*).
+  - ✔ *alcun* 'none' is used for two as well, but that use is somewhat proscribed.
 
 ## Questions & Commands
 
@@ -486,6 +522,14 @@ The original note follows: `pronouns.tex` §Imperatives and `tam.tex` §Commands
   - ✔ 'About it' is the bare adverb ***dessur***, with no pronoun. 'About that' is *sull'oç*.
   - ✔ The verb is ***kerellar***. *querel-* has been retconned to *kerel-* (Conflict 24).
 
+### E111 · Who bought what?
+- **Borlish:** *Cu accatau cal?*
+- **IPA:** /ki ˌa.kaˈto kal/
+- **Gloss:** who buy.PST which
+- **Settles:**
+  - ✔ A **multiple wh-question** fronts one wh-word, here the subject *cu*. The other stays in place (*cal* 'what').
+  - ✔ 'What' as an object can be ***cal***.
+
 ## Negation
 
 ### E01 · Nobody wants the last egg.
@@ -575,6 +619,17 @@ The original note follows: `pronouns.tex` §Imperatives and `tam.tex` §Commands
   - ✔ *accordar* 3PL **accordn**, PRS.PTCP **accordant**.
 - **Follow-up:** E112 (concord with *star*).
 
+### E112 · Not everyone was listening.  (after a long speech)
+- **Borlish:** *Noc toð gent no'rn cur dant.* (also *Noc toð gent dan cur.*, *Noc toð gent no'rn lo scoutant.*, *Noc toð gent lo scoutan.*)
+- **IPA:** /nɔk tɔθ ʒɛnt nɔrn kɪr dant/  ·  /…dan kɪr/  ·  /…nɔrn lo xuˈtant/  ·  /…lo xuˈtan/
+- **Gloss:** NEG all people NEG=be.IPFV.3PL attention give-PRS.PTCP  ·  … give.IPFV.3PL attention  ·  … NEG=be.IPFV.3PL 3SG.ACC listen-PRS.PTCP  ·  … 3SG.ACC listen.IPFV.3PL
+- **Settles:**
+  - ✔ With the **progressive**, the auxiliary is negated as well (*no'rn*, *no son*), even when *noc* already negates the subject. This is **negative concord on the auxiliary**, as in E100.
+  - ✔ With a **simple verb** there is no second negation (*dan cur*, *lo scoutan*).
+  - ? The user gave no progressive without *no*, so that is presumably impossible.
+  - ✔ *no'rn* is the negative of *ern* (3PL of *er*).
+  - ✔ 'Listen' is ***cur dar*** 'pay attention' or ***scoutar*** with an object.
+
 ## Relative Clauses
 
 ### E07 · The woman who lives next door is a doctor.
@@ -641,6 +696,14 @@ See *Information Structure*. A cleft uses *l'un* + a participial relative with t
   - ✔ The corpus agrees: *dont y fraðr Lohis fo mort* (C782), *dont y dors caf appoyað* (C674). When the possessed noun is the object it still comes first, and the verb inverts: *dont y lengaç n'ay jo nien* (C719).
   - ✔ 'That's the man' is *L'oç es y segr*, with distal *l'oç*.
   - ✔ *mordr* has the preterite **mordoy**. Corpus *moroy* is *morir* 'die', not this verb.
+
+### E119 · This is the house where I was born.
+- **Borlish:** *L'oc es y majon yon jo fo nað.*
+- **IPA:** /lɔk ɛz i maˈʒɔn jɔn ʒo fo naθ/
+- **Gloss:** DEF=PROX.SG be.3SG DEF house where 1SG be.PST born
+- **Settles:**
+  - ✔ The locative relative uses ***yon*** 'where', with subject–verb order inside, as in embedded wh-clauses (E82).
+  - ✔ 'Was born' is *fo nað* (E63).
 
 ## Coordination & Subordination
 
@@ -748,6 +811,32 @@ See *Information Structure*. A cleft uses *l'un* + a participial relative with t
   - ✔ ***pre*** 'before' takes a finite clause directly, with no *ig*, and the verb is **subjunctive**: *vay*, not indicative *va*. The corpus agrees: *pre tu attent uncos novel* (C60), *pre Marc sceus…* (C227).
   - ✔ After the fronted clause the main clause is an ordinary imperative: 2SG *closisc*, the indicative, and 2PL *closiscað*, the subjunctive, as `verb-morphology.tex` says.
 
+### E120 · I saw him leave the house.
+- **Borlish:** *Jo le vis y majon salir.* (also *Jo le vis sortir dy majon.*)
+- **IPA:** /ʒo le vɪz i maˈʒɔn saˈlɪr/  ·  /…sɔrˈtɪr di maˈʒɔn/
+- **Gloss:** 1SG 3SG.M.ACC see.PST DEF house leave.INF  ·  … go.out.INF from.DEF house
+- **Settles:**
+  - ✔ A **perception verb** takes a **bare infinitive**. The perceived person is a clitic on the perception verb (*le vis*).
+  - ✔ The infinitive's object comes before it (*y majon salir*). With *sortir* 'go out' the source follows as a prepositional phrase (*sortir dy majon*).
+
+### E125 · I heard her singing in the kitchen.
+- **Borlish:** *Jo l'oyeu cantar ny cocin.* (also *Jo l'oyeu star cantant ny cocin.*, "I heard her be singing…"; *Jo l'oyeu oc cantant ny cocin.*, "I heard her, who was singing…")
+- **IPA:** /ʒo lɔˈjau kanˈtar ni koˈtsɪn/  ·  /…star kanˈtant…/  ·  /…ɔk kanˈtant…/
+- **Gloss:** 1SG 3SG.F=hear.PST sing.INF in.DEF kitchen
+- **Settles:**
+  - ✔ Perception verbs take a **bare infinitive** for an ongoing action too (compare E120).
+  - ✔ A progressive infinitive (*star cantant*) is possible.
+  - ✔ ***oc* + participle** forms a non-restrictive reduced relative ('her, who was singing'). The corpus has the same: *y Çaucr Azur Marian (oc instaurað a Lepcy)*, C2699.
+
+### E126 · Unless you hurry, you'll miss the train.
+- **Borlish:** *Preðauc tu quauc, tu kiglara y convey.* ("subjunctive (not visible on *quaucar* 'to proceed with haste')")
+- **IPA:** /preˈðok ti kwok | ti ˌkaj.laˈra i kɔnˈvi/
+- **Gloss:** unless 2SG hurry.SBJV | 2SG miss-FUT DEF train
+- **Settles:**
+  - ✔ 'Unless' is ***preðauc*** + **subjunctive**.
+  - ✔ A fronted adverbial clause does not trigger inversion (*tu kiglara*), as in E50.
+  - ✔ 'Miss (a train)' is *kiglar*.
+
 ## Comparison
 
 ### E04 · Halina is taller than me, but shorter than her brother.
@@ -821,6 +910,23 @@ See *Information Structure*. A cleft uses *l'un* + a participial relative with t
   - ✔ 'More' is ***may*** and 'fewer' is ***men***. ***maissem*** is the comparative of *gran* 'big', so *livr maissem* means 'bigger books'. E123 checks mass nouns.
   - ✔ The second conjunct leaves out the verb and the standard.
 - **Follow-up:** E123 ('less' with a mass noun).
+
+### E113 · My car isn't as fast as yours.
+- **Borlish:** *My car no's tan veloç com y tien.* (also *…com y vostr.*; *My car no's veloç com y tien / y vostr.*)
+- **IPA:** /mi kar nɔz tan veˈlɔts kɔm i tjɛn/  ·  /…i ˈvɔs.tr̩/
+- **Gloss:** 1SG.POSS car NEG=be.3SG so fast as DEF yours.SG  ·  … DEF yours.PL
+- **Settles:**
+  - ✔ ***tan* is optional under negation too**. The user offers both versions.
+  - ✔ A **possessive pronoun** is the article + *tien*/*vostr* (*y tien* 'yours').
+  - ✔ *no's* is the negative 3SG of the copula.
+
+### E123 · I have less time than you.
+- **Borlish:** *J'ay hour men a tey.* (also *…a vos.*)
+- **IPA:** /ʒe ur mɛn a ti/
+- **Gloss:** 1SG=have time less to 2SG.DSJ
+- **Settles:**
+  - ✔ ***men*** after the noun is both 'fewer' and 'less'. Comparing quantities works the same way for count and mass nouns (E109).
+  - ✔ 'Time' is *hour*.
 
 ## Information Structure
 
@@ -911,6 +1017,16 @@ See *Information Structure*. A cleft uses *l'un* + a participial relative with t
   - ✔ A **pseudocleft** is *l'oç* + a participial clause + copula. The experiencer is either the **agentive pronoun** *meyon* with a past participle (*meyon recas*, as in *l'oç seyon rovað*, `determiners.tex`) or an oblique clitic with *stovent* (*me stovent*).
   - ✔ ***recas*** is the **past participle of *recarr*** 'require, need' (user; *recarr* is in the .db). The corpus *aïr recas* (C667 *n'aye recas* 'had needed', C976 *n'aun recas* 'don't need') is therefore the perfect of *recarr*, and *candon recas* (C808) is 'when needed'.
   - ✔ 'Holiday' is *cogmað*, with the adjective after it.
+
+### E121 · Only Marc knew the answer.
+- **Borlish:** *For Marc sa y soluçon.* (User: "*For* [subject]… restricts the subject (Marc, and no-one else). *Soul*… restricts the verb (Marc *knew* it, and didn't do anything else to or with it).")
+- **IPA:** /fɔr mark sa i ˌso.liˈtsɔn/
+- **Gloss:** only Marc know DEF solution
+- **Settles:**
+  - ✔ ***for*** restricts the constituent that follows it, including a subject (*For Marc sa…*). The verb is still second.
+  - ✔ Clause-initial ***soul*** restricts the **predicate**, not the subject (*Soul Marc sa…* 'Marc only *knew* it'). It stands outside the V2 count (E105).
+  - ? Whether a fronted *for* + non-subject triggers inversion is still open. E141 asks.
+- **Follow-up:** E141 (*for* + fronted non-subject).
 
 ## Voice & Valency
 
@@ -1013,8 +1129,15 @@ Weather verbs: see E08 (*cay ploy*). Causative *fair* + infinitive: see E03.
   - ✔ The **anticausative** takes reflexive ***se***.
   - ✔ 'By itself' is ***toð soul*** 'all alone'.
   - ✔ The preterite of *ovrir* is ***ovroy*** (user), as in `verb-morphology.tex` (Conflict 19).
-  - ? The corpus also has a plain intransitive with no *se*: *Y port dy cahut closisceu* 'The cabin door slammed shut' (C2026).
+  - ✔ *closir* likewise needs *se* (E114). The corpus once had a plain intransitive, *Y port dy cahut closisceu* (C2026), but it now reads *Y port dy cahut se closisceu* (Conflict 25).
 - **Follow-up:** E114 (is *se* needed?).
+
+### E114 · The door closed.  (nobody touched it)
+- **Borlish:** *Y port se closisceu.* (User: "Good catch! I think *closir* should be transitive, so I've fixed the cases of intransitive *closir* in the Scaunç file (elsewhere will need aligning).")
+- **IPA:** /i pɔrt se ˌklo.ziˈxau/
+- **Gloss:** DEF door REFL close.PST
+- **Settles:**
+  - ✔ ***closir* is transitive**, so the anticausative needs ***se***, as with *ovrir* (E93). The corpus is aligned (Conflict 25).
 
 ## Copulas & Modals
 
@@ -1084,8 +1207,16 @@ Existential *sceir* under negation: see E05. Experiencer *stovir* with an *a*-ph
   - ✔ Personal ***parir* + infinitive** reports a direct impression. Impersonal ***orruðar* + clause** covers surmise, as in E89.
   - ✔ With *parir* the clitic object of the infinitive goes before the infinitive (*te connoscr*).
   - ? After *orruðar* the complementiser *ig* is optional. E89 had none.
-  - ? The mood after *orruðar* is unclear here, because *connosc* is both indicative and subjunctive. E89 had subjunctive *fos*. E122 asks.
+  - ✔ The mood after *orruðar* is **subjunctive**. *connosc* is ambiguous, but E122 has *l'ay*, and E89 had *fos*.
 - **Follow-up:** E122 (mood after *orruðar*).
+
+### E122 · It seems she has a new car.
+- **Borlish:** *Orruð l'ay un novel car.* (also *Orruð ig l'ay un novel car.*, "interchangeable, as 'It seems that she…' and 'It seems she…' are")
+- **IPA:** /ɔˈrɪθ le ɪn noˈvɛl kar/  ·  /ɔˈrɪθ aj le…/
+- **Gloss:** seem 3SG.F=have.SBJV INDF new car
+- **Settles:**
+  - ✔ *orruðar* takes the **subjunctive** (*ay*). This settles the open question from E106.
+  - ✔ ***ig* is optional** after *orruðar*, freely.
 
 ## Tense, Aspect & Mood
 
@@ -1182,6 +1313,22 @@ Present after *ða* for a future condition, and the *volir* future: see E08. *vi
   - ✔ A past refusal is ***nolir*** + infinitive, in either the **imperfect** *nole* (description) or the **preterite** ***noleu*** (event). So *nolir* has a preterite.
   - ✔ In the infinitive phrase the object noun phrase comes first, then the clitic, then the infinitive (*sy nom me digr*).
 
+### E124 · I doubt that he knows.
+- **Borlish:** *Jo dout ou le oc saif.*
+- **IPA:** /ʒo dut u le ɔk sef/
+- **Gloss:** 1SG doubt whether 3SG.M PROX.SG know.SBJV
+- **Settles:**
+  - ✔ ***doutar*** takes ***ou*** 'whether' (not *ig*) + **subjunctive**, like *s'entrovar* (E101) and a questioned *savir* (E85).
+  - ✔ The object is the pronoun ***oc*** 'it', placed before the verb in clitic position.
+
+### E128 · That must be the postman.
+- **Borlish:** *L'oç sera l'hom accaç.*
+- **IPA:** /lɔts seˈra lɔm aˈkats/
+- **Gloss:** DEF=DIST.SG be.FUT DEF=person post
+- **Settles:**
+  - ✔ The **epistemic future** expresses a present inference: *sera* 'must be'. This answers CHECK tam:192.
+  - ✔ 'Postman' is *hom accaç*.
+
 ## Verb Morphology
 
 New or confirmed forms (also entered in `irregular-verbs.md`):
@@ -1233,6 +1380,8 @@ New or confirmed forms (also entered in `irregular-verbs.md`):
 - E91–E100: *peðir* preterite **peðeu**; *attendr* IPFV.SBJV **attenois**; *promettr* preterite **promis**; *ovrir* preterite **ovroy** (user correction); *mordr* preterite **mordoy**; *eir* subjunctive 2SG **vay**, 2PL **vayað**; *closir* imperative **closisc**, 2PL **closiscað**; *teir* imperfect 3PL **teyen**; *sceir* imperfect 3PL **sceyen**; *souvr* PST.PTCP **soluð**; *accordar* 3PL **accordn** (user correction of *accort*), PRS.PTCP **accordant**.
 - Q24 (user, 2026-10-13): *p* is kept before *-oy* (*rompoy*, *interrompoy*, *tarrompoy*; corpus retconned, Conflict 21). *d* after *n* is usually lost (*penoy*, *attenoy*, *descenoy*). *vendoy* was an artefact of obsolete *vendr*, retconned to *vençar* (Conflict 22).
 - E101–E110: *s'entrovar* 1SG **entrou**; *entrar* preterite 1SG **entrau**; *er* contracted **'r**; *najar* INF; *kerellar* SBJV 1PL **kerelleu**; *desirar* imperfect **desira**; *parir* present 3SG **parisc**; *orruðar* present 3SG **orruð**; *nolir* imperfect **nole**, preterite **noleu** (new); *apportar* imperative **apport**; *stovir* PRS.PTCP **stovent**.
+- E111–E120: *er* NEG 3PL **no'rn**; *dar* IPFV 3PL **dan**, PRS.PTCP **dant**; *scoutar* IPFV 3PL **scoutan**, PRS.PTCP **scoutant**; *closir* preterite **closisceu**; *cantar* 3SG **cant**; *eir* preterite **eu**; *remanir* 1SG **remain** (Q22), PRS.PTCP **remanent**; *veir* preterite **vis**.
+- E121–E130: *orruðar* 3SG **orruð** + SBJV **ay**; *doutar* 1SG **dout**; *oyir* preterite **oyeu**; *quaucar* SBJV **quauc**; *kiglar* FUT **kiglara**; *surcair* preterite **surcou** (Q19 evidence); *pascr* preterite **pau**; *star* FUT **sera**; *yembr* PST.PTCP **yent** (with *star*).
 
 ## Pronouns
 
@@ -1374,6 +1523,14 @@ Also in this batch: pronoun after *a* 'than' is disjunctive (E04); pronoun order
   - ✔ The 2SG imperative is the indicative (*apport*), followed by the disjunctive *mey*, as the chapters say.
   - ✔ A measure phrase is **measure noun + *a* + bare noun**: *un cop a tag*, *dou trenc a pan* (user, after Conflict 23), like the corpus *veðr a brandvin*, *trenc a lox*, *pajot a savon*. This is the possessive *a* extended to measures.
 
+### E129 · Not the red one, the green one.
+- **Borlish:** *Noc y roug, y vert.*
+- **IPA:** /nɔk i ruj | i vɛrt/
+- **Gloss:** NEG DEF red | DEF green
+- **Settles:**
+  - ✔ An adjective with the article stands alone as a noun ('the red one').
+  - ✔ ***noc*** comes before the negated constituent.
+
 ## Adjectives
 
 ### Position of *novel* (from E06; the user's question)
@@ -1425,6 +1582,36 @@ Prenominal adjectives so far: *novel* (decided), *veil* (E15), *bel* (E58).
 - *ig* 'there' follows the finite verb (E56).
 - *moutessem* 'more (often)' vs *maissem* 'more (in quantity)' in correlatives (E60).
 
+### E116 · She sings beautifully.
+- **Borlish:** *La cant bel.* (also *La cant cos bel.*, "less elegant here; some verb-adverb pairs collocate well without *cos*, especially common ones, and especially with intransitive verbs")
+- **IPA:** /la kant bɛl/
+- **Gloss:** 3SG.F sing beautiful
+- **Settles:**
+  - ✔ A **bare adjective** serves as a manner adverb in common verb–adverb collocations, especially with intransitive verbs.
+  - ✔ ***cos* + adjective** is the general adverb, and is less elegant where a collocation exists (compare E14).
+
+### E117 · He almost fell off the ladder.
+- **Borlish:** *L'eu sauf a cair des y scagler.*
+- **IPA:** /lau sof a ker dɛz i xɛjˈlɛr/
+- **Gloss:** 3SG.M=go.PST safe to fall.INF from DEF ladder
+- **Settles:**
+  - ✔ 'Almost' with a verb is ***eir sauf a*** + infinitive (a .db phrase). The tense goes on *eir* (*eu*).
+  - ✔ 'Off' is ***des*** 'from'.
+  - ✔ ***scagler*** 'ladder' is **not in the .db**.
+  - ? This sidesteps Q19, the preterite of *cair*. E131 asks it directly.
+- **Follow-up:** E131 (preterite of *cair*).
+
+### E130 · He hasn't arrived yet, but his luggage is already here.
+- **Borlish:** *Le no's ja ac yent, ma sy carc veyaçour es ac deja.* ("*deja* preferred over *ja* in constituent-final position, I think")
+- **IPA:** /le nɔz ʒa ak jɛnt | ma si kark ˌvi.jaˈtsur ɛz ak deˈʒa/
+- **Gloss:** 3SG.M NEG=be.3SG yet here arrive.PST.PTCP | but 3SG.POSS load travel be.3SG here already
+- **Settles:**
+  - ✔ 'Yet' in a negative is ***ja***, between the auxiliary and the participle.
+  - ✔ ***deja*** 'already' is preferred at the **end** of a constituent; *ja* is used inside the verb phrase.
+  - ✔ *yembr* takes *star* in the perfect (*no's … yent*).
+  - ✔ 'Luggage' is *carc veyaçour* 'travel load'.
+- **Follow-up:** E142 (*ja* vs *deja*).
+
 ## Prepositions
 
 - *cas* + disjunctive/noun 'at the home of' (E08); *cas coster* 'next door' (E07).
@@ -1448,6 +1635,16 @@ Prenominal adjectives so far: *novel* (decided), *veil* (E15), *bel* (E58).
   - ✔ The verb is left out of the second conjunct.
   - ✔ *cos primer* is a slightly more formal 'first' than bare *primer* (see *Adverbs*).
 
+### E118 · I'm staying here until Friday.
+- **Borlish:** *Jo remain ac fin je Viendr.* ("*fin a* 'until' can in some constructions take other prepositional phrases like *je Viendr* 'on Friday'"; also *Jo's remanent ac fin je Viendr.*)
+- **IPA:** /ʒo reˈmen ak fɪn ʒe ˈvjɛn.dr̩/  ·  /ʒɔz ˌre.maˈnɛnt…/
+- **Gloss:** 1SG stay.1SG here until on Friday
+- **Settles:**
+  - ✔ The 1SG present of *remanir* is i-mutated ***remain***, which answers **Q22**.
+  - ✔ 'Until' is ***fin a***. Before another prepositional phrase the *a* is dropped: *fin je Viendr* 'until (on) Friday'.
+  - ✔ The progressive *Jo's remanent* is also possible.
+- **Follow-up:** E132 (future of *remanir*).
+
 ## Numerals
 
 - 'In 1066' is *d'an 1066* (E41).
@@ -1462,6 +1659,16 @@ Prenominal adjectives so far: *novel* (decided), *veil* (E15), *bel* (E58).
   - ✔ The idiomatic way to give a count is ***teir* 'number'**, with the counted group as subject. The corpus has the same: *Y soucorsour … teyen catr* (C2415), *Teyen catorç frend ag tarn* (C1751). Existential *sceir* is the literal version.
   - ✔ *sceir* agrees with the following plural (*sceyen … hom*), and the imperfect 3PL is **sceyen**.
   - ✔ 'There' can follow a noun inside its phrase: *l'eç hom ig* 'the people there'.
+
+### E127 · Our team came second.
+- **Borlish:** *Nossy tourm surcou y dovem.* ("*surcou*, past of copulative verb *surcair* 'to end up being, to turn out to be'"; after an ordinary verb, *cos dovem*: *Jo pau y lox cos dovem* 'I ate the pizza second')
+- **IPA:** /nɔˈsi turm sɪrˈku i doˈvɛm/  ·  /ʒo po i lɔks kɔz doˈvɛm/
+- **Gloss:** 1PL.POSS team turn.out.PST DEF second  ·  1SG eat.PST DEF pizza ADVZ second
+- **Settles:**
+  - ✔ A predicative ordinal takes the article (*y dovem*) after the copular verb ***surcair*** 'end up, turn out'.
+  - ✔ An adverbial ordinal is *cos* + ordinal (*cos dovem*).
+  - ✔ The preterite of *surcair* is ***surcou***. The corpus has *surcou* 6× and *surcourn* 4×, against one *surcayeurn*, which bears on Q19.
+  - ? *tourm* means 'troop, squadron' in the .db; 'team' would be a new sense.
 
 ## Conjunctions & Particles
 
@@ -1520,4 +1727,9 @@ New words and senses that came up in answers, for the `.db`:
 - ***najar***: add 'swim' (E103).
 - ***dessur*** (adv) 'about it' (E104): a usage note.
 - ~~*querel-* / *kerel-*~~: **done** (Conflict 24).
+- ***scagler*** 'ladder' (E117): **not in the .db.**
+- ***tourm***: add 'team' (E127).
+- ***carc veyaçour*** 'luggage' (E130): phrase entry.
+- ***deja***: note that it is preferred at the end of a constituent (E130).
+- ***fin a***: note that it drops *a* before another prepositional phrase (*fin je Viendr*, E118).
 - ***all'hour yon*** 'by the time' (E72); hortative ***ig*** 'let…' (E76): usage notes.
