@@ -7874,14 +7874,14 @@ Metaphorical usage is seen from the seventeenth century, while the modern admini
 
 \et Middle Borlish < Medieval Latin
 
-\lx bricot nouç
+\lx bricot nuçal
 \ps n
 
 \ge wedding gift
 \ge wedding present
 
 \mn bricot
-\mn nouç
+\mn nuçal
 
 \lx briglant
 \ps adj
@@ -9952,7 +9952,14 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \lx cavel
 \ps n
 
+\ue plural
 \ge hair
+
+\ps n
+
+\ue singular
+\ge a hair
+\ge strand of hair
 
 \et Old Borlish < Latin
 
@@ -44363,6 +44370,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
+
+\lx paus
 \ps interj
 
 \ge hang on
@@ -44371,15 +44387,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
-
-\lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -46957,6 +46964,7 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \lx pouvlanç
 \ps n
 
+\ue plural only
 \ge population
 \ge headcount
 

@@ -208,7 +208,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 42.3	dictionary	murðon "ten thousand"	murðon	ten thousand	True	2	175	1086	dictionary/42.3_murðon_ten_thousand.md
 42.4	dictionary	nervous "confident"	nervous	confident	True	4	133	881	dictionary/42.4_nervous_confident.md
 42.5	notes	Two Pens			False	0	220	1327	notes/42.5_Two_Pens.md
-43.1	excerpt	Mysarnos			False	0	226	1327	excerpt/43.1_Mysarnos.md
+43.1	excerpt	Mysarnos			False	0	225	1324	excerpt/43.1_Mysarnos.md
 43.2	dictionary	janualtað "hindsight"	janualtað	hindsight	True	2	114	811	dictionary/43.2_janualtað_hindsight.md
 43.3	dictionary	mordeth "expedition"	mordeth	expedition	True	4	197	1302	dictionary/43.3_mordeth_expedition.md
 43.4	dictionary	toxen "alarm"	toxen	alarm	True	2	121	762	dictionary/43.4_toxen_alarm.md
@@ -1218,7 +1218,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 237.3	dictionary	kivougl "holly"	kivougl	holly	True	4	171	1036	dictionary/237.3_kivougl_holly.md
 237.4	dictionary	obsequïr "give away"	obsequïr	give away	True	4	163	1026	dictionary/237.4_obsequïr_give_away.md
 237.5	notes	The Old Country			False	0	591	3557	notes/237.5_The_Old_Country.md
-238.1	excerpt	Rebound			False	0	292	1639	excerpt/238.1_Rebound.md
+238.1	excerpt	Rebound			False	0	292	1638	excerpt/238.1_Rebound.md
 238.2	dictionary	outrvolar "overshoot"	outrvolar	overshoot	True	5	172	1051	dictionary/238.2_outrvolar_overshoot.md
 238.3	dictionary	cocheyau "stilt"	cocheyau	stilt	True	4	159	952	dictionary/238.3_cocheyau_stilt.md
 238.4	dictionary	magnfayent "magnificent"	magnfayent	magnificent	True	4	123	876	dictionary/238.4_magnfayent_magnificent.md

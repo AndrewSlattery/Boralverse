@@ -48,6 +48,9 @@ Marks: ✔ the answer states it directly · ? Claude's inference, to confirm in 
 - S20261018001927 (E191–E200, filed 2026-10-18).
 - S20261018011432 (E201–E210, filed 2026-10-18).
 - S20261018120854 (E115 amended, E211–E220, filed 2026-10-18).
+- S20261018133545 (E221–E226, E228–E230, filed 2026-10-18).
+- S20261018133949 (E227, filed 2026-10-18).
+- S20261018170105 (E231–E240, filed 2026-10-18).
 
 ## Conflicts with drafted chapters or the corpus
 
@@ -247,7 +250,14 @@ The original note follows: `pronouns.tex` §Imperatives and `tam.tex` §Commands
 34. ***tan con*** **and *Morrenç* in the corpus** (found while drafting `complex-sentences.tex`, 2026-10-18). C425 had *…Scon Grant **Morrenç**), tan **con** sy fraðr postir Peðr…* where S4839 has *Morenç* and *tan com*.
     - **Resolved 2026-10-18 (user):** "*tan com*, *morenç*". **Applied:** C425 now matches S4839. C1609 and C2273 had the same *Morrenç* (S15918, S23921 *Morenç*), and C1609 also had *Mout soumont **is** un tramou…* for Scaunç *es*; all aligned to Scaunç. The `.db` headword is already *morenç*. No IPA lines or output copies.
 35. ***souscrit*** **or *souscreut* 'signature'?** (E219.) E219 has *met **souscreut** all'oc*, and the `.db` noun is *souscreut*. But Scaunç has a dictionary post for ***souscrit*** /suˈxʀɪt/ 'signature, logo', "past participle of *souscrir* 'to sign'" (S3399–S3405), with the example *Y joun rey vil jamay souscrit dar all'oc concort abhorrent* (S3405 = C292), and also *de catoum e de souscrit* (S3333 = C285).
-    - **To ask:** which is current? If *souscreut*, should the post and its example be retconned (no output copies; it's an early un-numbered post)?
+    - ~~To ask: which is current?~~ **Resolved 2026-10-18 (user):** "souscreut is current". **Applied:** the dictionary post's headword (*souscreut* /suˈxʀawt/, in the post's own IPA style), its example and IPA line (S3405, S3409), S3333, corpus C285 and C292, and `simple-clause.tex`. The etymology line keeps *Middle Borlish souscrit* as the historical form (S3403), and **on the user's instruction** now says the verb was remodelled as *souscreir* (now archaic, as in the `.db`), with the participle *souscreut*, by analogy with *-r* verbs ending in *-eir* such as *creir* (PST.PTCP *creut*). "(now obsolete)" was dropped. The user also had S7396 = C665 *E la souscris con nau d'amour* changed to the preterite ***souscreu***, like *creu*, *leu*. No output copies; `Data/pre-2022 notes.txt` left alone. Script `souscreut_fix.py`, backups in `backup_souscreut/`.
+36. ***ovreum*** **or *ovroim*?** (E224.) E224 has the preterite 1PL *nos **ovreum***, of the *-eu* type. But the preterite of *ovrir* was settled as ***ovroy*** (E93, Conflict 19; corpus 4×), and the 1PL of an *-oy* preterite is *-oim* (*venoim*, *attenoim*).
+    - ~~To ask: is the 1PL *ovroim*?~~ **Resolved 2026-10-18 (user):** "*ovroim*, yes". E224 is recorded with *ovroim*, and so is `complex-sentences.tex`.
+37. ***hier*** **or *heir* 'son'?** (E229 *sell'hier*.) The `.db` headword for 'son' is ***heir***, and the corpus has *all'heir Arnoutzen* 'the younger Arnoutzen' (C321).
+    - ~~To ask: a typo for *heir*?~~ **Resolved 2026-10-18 (user):** "*heir*, yes". E229 is recorded as *sell'heir*.
+38. **Double consonants before the 3PL *-n*** (2026-10-18). After E228 *quotn* the user first chose *quottn* and *jagottn* (applied to S25294, C2411, output 169.1). Shown the other corpus forms, *pasn* (*passar*, S31416), *rappousn* (*rappoussar*, S26622), *reconvocn* (*reconvoccar*, S26627), *volopn* (*voloppar*, S2294), *foln* (*follar*, S1039) and *sousonn* (*sousonnar*, S17792), the user reconsidered.
+    - **Resolved (user):** "let's revise the 3pl forms to all use single consonants. (The only exception in the corpus before was *battn*, I think, which we can revise to *batn*.)" So a doubled stem consonant is written **single** before the 3PL *-n*: *batn*, *jagotn*, *quotn*, *pasn*. The forms above were already correct. A stem in *-nn* gives *-nn* (*sousonn*), and a stem ending in a single *n* keeps stem *n* + ending *n* (*vienn*, *dienn*).
+    - **Applied:** *battn* → ***batn*** in S32324, C2938 and output 238.1. The earlier *jagottn* was reverted to ***jagotn*** in S25294, C2411 and output 169.1. Both outputs match a regeneration and their `manifest.tsv` rows were copied. A scan (`gem_scan.py`) of Scaunç, the corpus, the `.db`, the outputs, the vault, the claims file and the RG finds no other doubled consonant + *n*. The rule is added to `verb-morphology.tex` §Endings. Script `single_n_fix.py`, backups in `backup_single_n/`.
 
 ---
 
@@ -336,6 +346,39 @@ The original note follows: `pronouns.tex` §Imperatives and `tam.tex` §Commands
   - ✔ 'Getting dark' is *cay sombr **denent***: the adjective followed by the present participle of *denir* 'become'. So *cair* + adjective + *denent* expresses a change in progress in the surroundings. *denir* PRS.PTCP **denent** is confirmed (it was a guess in `irregular-verbs.md`).
   - ✔ *sombr* 'dim, dark' (the `.db` has 'dim, sombre, muted').
 - **Follow-up:** E222 ('It got colder and colder').
+
+### E222 · It got colder and colder, and by six it was already dark.
+- **Borlish:** *Caye freit e freidessem, e pre seg ja caye noit.* (also *Caye freit e freidessem denent, …*, "more emphasis on the change with the participle of *denir* 'become' there"; *…, e prell'hour seg*; *…eð a seg* / *eð all'hour seg* "(before six vs at six)"; *caye sombr* "(it was gloomy)" or *caye noit* "(it was night-time)")
+- **IPA:** /kɛˈje frit e friˈdɛ.sɛm | e pre sij ʒa kɛˈje nɔjt/
+- **Gloss:** fall.IPFV cold and cold-CMPR | and before six already fall.IPFV night
+- **Settles:**
+  - ✔ 'Colder and colder' is the adjective + *e* + its comparative: *freit e freidessem*. The comparative of *freit* is ***freidessem***, with *t* → *d* before the suffix.
+  - ✔ A gradual change in the past takes the **imperfect** *caye*. Adding *denent* (E216) stresses the change.
+  - ✔ 'By six' is *pre seg* or *prell'hour seg* 'before (the hour) six'; 'at six' is *a seg* / *all'hour seg*.
+  - ✔ 'It was dark' is *caye noit* 'it was night'; *caye sombr* is 'it was gloomy'.
+- **Follow-up:** E232 (the present: 'getting warmer every day').
+
+### E226 · The guests arrived, and then the music began.
+- **Borlish:** *L'host alandaurn, e soulor ençau y music.* (also *…e soulor y music ençau.* User: "Yes, *ençar* 'to begin' also allows this inversion. I should say that this optional inversion does not occur with pronoun subjects." "appearing/arriving/beginning and posing (stand, sit, lie) are the two main categories of verbs in the class.")
+- **IPA:** /lɔst ˌa.lanˈdo.rn̩ | e suˈlɔr ɛnˈtso i miˈzɪk/
+- **Gloss:** DEF=guest arrive.PST.3PL | and then begin.PST DEF music
+- **Settles:**
+  - ✔ The class of verbs with frequent **optional inversion** (like *venir*, chat 2026-10-18) has two main groups: verbs of **appearing, arriving and beginning** (*ençar*), and verbs of **posture** ('stand', 'sit', 'lie').
+  - ✔ This optional inversion **never occurs with a pronoun subject**.
+  - ✔ The plain order *y music ençau* is also fine.
+  - ✔ *host* 'guest(s)' with a plural verb; *alandar* 'arrive' (preterite 3PL **alandaurn**); intransitive *ençar* 'begin' (preterite **ençau**).
+  - ✔ This answers the `simple-clause.tex` CHECK on the class of *venir*.
+- **Follow-up:** E231 (a posture verb after a fronted place phrase).
+
+### E231 · On the hill stood an old castle.  (the opening of a story)
+- **Borlish:** *Sur y collin sceye un veil castel.* ("using the 'there is' copula"; "more specifically pose-like": *Sur y collin parmane un veil castel.*)
+- **IPA:** /sir i kɔˈlɪn xiˈje ɪn vil kaˈstɛl/
+- **Gloss:** on DEF hill there.be-IPFV INDF old castle
+- **Settles:**
+  - ✔ 'Stood' in a scene-setting sentence is the existential ***sceir*** (imperfect *sceye*), which always has its noun phrase after it, so the fronted place phrase is followed by verb–subject order.
+  - ✔ For a more posture-like reading the user chose ***parmanir*** 'persist, linger, remain', not a verb meaning 'stand'. It inverts in the same way. *parmane* is read here as the imperfect 3SG, on the pattern of *venir* → *vene*.
+  - ? The answer does not show whether subject–verb order (*Sur y collin un veil castel parmane*) is possible, or which verb is the plain 'stand' (posture class, E226).
+- **Follow-up:** a true posture verb ('lie', 'sit') after a fronted place phrase, with both orders.
 
 ## Questions & Commands
 
@@ -677,6 +720,15 @@ The original note follows: `pronouns.tex` §Imperatives and `tam.tex` §Commands
   - ✔ **No question word can be extracted from a complement clause**, just as nothing can be relativised out of one (E209). 'Who do you think…' becomes ***lonc tey*** 'according to you' + a simple question.
   - ✔ A fronted object question word inverts a pronoun subject: *cu vis la*.
   - ✔ This answers the `sentence-types.tex` CHECK on E212.
+
+### E223 · Did you go to the market with Anna yesterday?  (to a friend, a neutral question)
+- **Borlish:** *Tu eu ag marcað con Anna je ados ou?* ("pretty neutral or questioning if it was yesterday"; *Tu eu ag marcað ou con Anna je ados?* "was it to the market"; *Tu eu ag marcað con Anna ou je ados?* "was it with Anna")
+- **IPA:** /ti aw ɛj marˈkaθ kɔn aˈna ʒe aˈdɔz u/
+- **Gloss:** 2SG go.PST to.DEF market with Anna day.of behind Q
+- **Settles:**
+  - ✔ ***ou* follows the constituent being questioned.** At the end it is neutral, or questions the last constituent (*je ados*). *…ag marcað ou con Anna…* asks 'was it to the market?', and *…con Anna ou je ados?* asks 'was it with Anna?'. This explains E218 *Se va lontan ou des ac…*, which questions the distance.
+  - ✔ `sentence-types.tex` already states the rule; these are now its examples.
+  - ✔ *eir* preterite 2SG **eu**; colloquial *je ados* 'yesterday'.
 
 ## Negation
 
@@ -1150,6 +1202,27 @@ See *Information Structure*. A cleft uses *l'un* + a participial relative with t
   - ✔ 'Without doing' is ***lon*** + INF, with the object before the infinitive (E193): *lon un parol digr*.
   - ✔ *partir* preterite 3SG ***parteu*** (an *-eu* preterite, not *-oy*).
 
+### E224 · After he had left, we opened the wine.
+- **Borlish:** *Posc le fo partið, nos ovroim y vin.* (submitted with *ovreum*, corrected by the user to *ovroim*, Conflict 36. User: "*posc* takes *fo*"; "sth like *Alcant ig le'r partið,…* for 'Once he had left,…' takes the imperfect *er*": "after the event" against "once the state held")
+- **IPA:** /pɔx le fo parˈtɪθ | nɔz oˈvrɔjm i vɪn/
+- **Gloss:** after 3SG.M be.PST leave.PST.PTCP | 1PL open.PST.1PL DEF wine
+- **Settles:**
+  - ✔ *posc* + finite clause takes the **pluperfect with the preterite auxiliary** *fo* (*le fo partið*): the main event follows a completed event.
+  - ✔ ***alcant ig*** 'once' (*alcant* 'once, one time') takes the pluperfect with the **imperfect** auxiliary *er* (*le'r partið*): the main event happens once the resulting state holds.
+  - ✔ The fronted clause does not invert the main clause (*nos ovroim*).
+  - ✔ *ovrir* preterite 1PL **ovroim**, the *-oy* type, as *ovroy* (user, Conflict 36).
+  - ✔ This answers the `complex-sentences.tex` CHECK on the tense after *posc*.
+
+### E225 · She went out, even though it was raining.
+- **Borlish:** *La sorteu con tan cous ploy.* (also *La sorteu, degnant ig cous ploy.*, "more formal, more written")
+- **IPA:** /la sɔrˈtaw kɔn tan kus plɔj/
+- **Gloss:** 3SG.F go.out.PST with so.much fall.IPFV.SBJV rain
+- **Settles:**
+  - ✔ *con tan* + **imperfect subjunctive** is 'even though' (as the user said in chat, 2026-10-18), here with no comma. *degnant ig* + subjunctive means the same but is "more formal, more written".
+  - ✔ The weather keeps its verb–subject order inside the clause: *cous ploy*.
+  - ✔ *sortir* preterite 3SG **sorteu** (*-eu* type, like *parteu*).
+  - ✔ This answers the `complex-sentences.tex` CHECK on *con tan* vs *degnant ig*.
+
 ## Comparison
 
 ### E04 · Halina is taller than me, but shorter than her brother.
@@ -1251,6 +1324,27 @@ See *Information Structure*. A cleft uses *l'un* + a participial relative with t
   - ✔ User: the alternatives are "more common in speech than the original: colloquial speech is less comfortable with **modified numerals directly modifying nouns**". The alternatives are a collective noun ***veintaç*** 'twenty-some' + *de*, or the numeral phrase after the noun (*Eç hom may a veint*).
   - ✔ *an* is the indefinite article before a vowel (*an veintaç*).
   - ✔ **User, in chat:** *-aç* is **productive** for collective numerals, "although it would sound a bit odd on non-multiples of 10". So *veintaç*, *trentaç*… *veintaç* isn't in the `.db` yet.
+
+### E232 · It's getting warmer every day.  (early spring)
+- **Borlish:** *Cay caldessem casc jorn.* (also *Cay caldessem denent casc jorn.*, "but this means that the temperature is rising within each day")
+- **IPA:** /ke kalˈdɛ.sɛm kax ʒɔrn/
+- **Gloss:** fall warm-CMPR each day
+- **Settles:**
+  - ✔ A gradual change from day to day is the present of weather *cair* + the **bare comparative**: *Cay caldessem casc jorn*. There is no need for *e* + repetition (E222 *freit e freidessem*) when *casc jorn* gives the steps.
+  - ✔ Adding ***denent*** changes the meaning: the change is in progress *within* each day ('it warms up every day'). So *denent* marks an ongoing change, not just emphasis.
+  - ✔ ***cald*** 'warm' (comparative ***caldessem***) is **not in the `.db`**, which has only the noun *caldour* 'heat, warmth'.
+  - ✔ 'Every day' is bare *casc jorn*.
+
+### E240 · The rich get richer and the poor get poorer.
+- **Borlish:** *Y risc dienn riscessem eð y povr dienn poverrem.*
+- **IPA:** /i rɪx ˈdjɛnn̩ rɪˈxɛ.sɛm | ɛθ i ˈpɔv.r̩ ˈdjɛnn̩ pɔˈvɛ.rɛm/
+- **Gloss:** DEF rich become-3PL rich-CMPR and DEF poor become-3PL poor-CMPR
+- **Settles:**
+  - ✔ An adjective used as a noun takes the article and has **no plural marking**. The plural reading shows only in the verb (*dienn*).
+  - ✔ 'Get richer' is ***denir*** + comparative: *dienn riscessem*. For a general truth the present of *denir* is used, not *cair* (E232).
+  - ✔ Comparatives: *risc* → ***riscessem***; *povr* → ***poverrem*** (syllabic *-r*, as *nuvr* → *nuverrem*).
+  - ✔ *eð* before the vowel of *y*.
+  - ✔ *denir* present 3PL **dienn** (stem *n* + ending *n*, like *vienn*).
 
 ## Information Structure
 
@@ -1370,6 +1464,17 @@ See *Information Structure*. A cleft uses *l'un* + a participial relative with t
   - ✔ In situ, the order is the ordinary SVO, with no inversion.
   - ✔ ***ec*** + day is habitual 'on Xdays'; ***je*** + day is a single 'on Xday'. E141 should be *For ec Sol* (user).
   - ? Clause-initial *soul* wasn't used here, which fits it restricting the predicate rather than an adjunct.
+
+### E234 · Actually, it was Marc who called, not Anna.  (correcting a friend)
+- **Borlish:** *Or vis sta Marc (l'un) ayent lign fait, noc Anna.* ("*Or vis* is a longer variant of *Vis*, rather like 'Well actually,…'"; also *Or vis sta Marc (l'un) lign faint, noc Anna.*, "using the present participle of *fair* instead of that of *aïr fait*, marking the past tense less but still understandable (it was Mark calling,…)")
+- **IPA:** /ɔr vɪs sta mark (lɪn) eˈjɛnt lajn fet | nɔk aˈna/
+- **Gloss:** well indeed be.IPFV Marc (DEF=one) have-PRS.PTCP line do.PST.PTCP | NEG Anna
+- **Settles:**
+  - ✔ Fronted ***vis*** also corrects someone else. ***Or vis*** is a longer variant, like 'well, actually'. As with *vis* (E230), the verb comes second: *Or vis sta Marc…*.
+  - ✔ It is a subject cleft as in E30 and E74: FOCUS + imperfect *sta* + (optional) ***l'un*** + participial relative. Here the copula precedes the focus because of the inversion after *vis*. *l'un* may be left out.
+  - ✔ The participle can be the perfect *ayent … fait* or the present *faint*. The present participle marks the past less clearly ('it was Marc calling').
+  - ✔ The contrast follows with ***noc***: *…, noc Anna*.
+  - ✔ 'Call (by phone)' is *lign fair* (E197, E213), with the noun before the non-finite verb.
 
 ## Voice & Valency
 
@@ -1555,6 +1660,27 @@ Weather verbs: see E08 (*cay ploy*). Causative *fair* + infinitive: see E03.
   - ✔ *vleutar* 'forget' (preterite **vleutau**); *brusctar* 'scorch' for burnt food.
   - ✔ This answers the `voice.tex` CHECK on E215.
 
+### E221 · I'm getting my bike repaired this week, so I'm walking.
+- **Borlish:** *Jo's my rað cavent restaurað oc semman, donc jo's aulant.*
+- **IPA:** /ʒɔz mi raθ kaˈvɛnt ˌre.stoˈraθ ɔk sɛˈman | dɔŋk ʒɔz oˈlant/
+- **Gloss:** 1SG=be 1SG.POSS bike get.PRS.PTCP restore.PST.PTCP PROX.SG week | so 1SG=be walk.PRS.PTCP
+- **Settles:**
+  - ✔ 'Get something done' (E211: *cavir* + object + PTCP) works in the **progressive**: *jo's … cavent restaurað*. *cavir* PRS.PTCP **cavent**.
+  - ✔ The word order fits E193: the **NP object precedes** the non-finite *cavent*, and the **result participle follows** it as a verbal complement: *[my rað] cavent [restaurað]*.
+  - ✔ 'This week' is bare *oc semman*, with no article (compare *n'oc hour*, *pre oc annað*).
+  - ✔ *donc* 'so'; *jo's aulant* 'I'm walking' (*aular*).
+- **Follow-up:** E235 (in a command).
+
+### E235 · Get your coat cleaned before the wedding!  (to a friend)
+- **Borlish:** *Faç ty jacquot landar pre y nuçal!* ("using the causative 'have [someone] clean your coat', which feels most natural here"; "more in parallel": *Caif ty jacquot landað…*)
+- **IPA:** /fats ti ʒaˈkɔt lanˈdar pre i niˈtsal/
+- **Gloss:** make.IMP 2SG.POSS jacket wash-INF before DEF wedding
+- **Settles:**
+  - ✔ 'Get something done' in a command is most naturally the **causative *fair* + infinitive**: *Faç ty jacquot landar*. The object NP stands **after the imperative and before the infinitive**, as non-finite verbs follow their objects.
+  - ✔ The *cavir* construction (E211, E221) also works: *Caif ty jacquot landað* with the participle. *cavir* imperative 2SG **caif** (the same form as the subjunctive).
+  - ✔ *fair* imperative 2SG **faç**; *landar* 'wash'; *pre* + NP 'before'; *jacquot* 'jacket, coat'.
+- **Follow-up:** a pronoun object or causee in the same command ('Get it cleaned!', 'Have him clean it!').
+
 ## Copulas & Modals
 
 Existential *sceir* under negation: see E05. Experiencer *stovir* with an *a*-phrase: see E01.
@@ -1659,7 +1785,7 @@ Existential *sceir* under negation: see E05. Experiencer *stovir* with an *a*-ph
   - ✔ ***stovir*** with a **different-subject** complement takes a **subjunctive** clause, with optional *l'ig*, as `tam.tex` already says (E146).
   - ✔ So do ***aïr besogn ig*** and ***aïr recar ig*** 'have need that' (*besogn*, *recar* n 'need', both in the `.db`).
   - ✔ 'Sign' is *mettr souscreut a* 'put (one's) signature to'; *met* is the subjunctive 2SG of *mettr*.
-  - ? The noun is *souscreut* here and in the `.db`, but *souscrit* in Scaunç (Conflict 35).
+  - ✔ The noun is ***souscreut***, as here and in the `.db` (user; Scaunç's *souscrit* retconned, Conflict 35).
 
 ### E220 · He must have forgotten.
 - **Borlish:** *L'arra oc vleutað.* (User: "*oc* standing in for 'to do so', as usual. If it's an object he forgot, instead of an action, say *…lo vleutað*.")
@@ -1954,6 +2080,8 @@ New or confirmed forms (also entered in `irregular-verbs.md`):
 - E191–E200: *denir* preterite 3SG **denoy**; *star* preterite 3SG **fo**; *rompr* PST.PTCP **ront**; *dar* PST.PTCP **dað**; *poðir* 2PL **pouð**; *ovrir* INF; *leir* INF; *partir* 3SG **part**; *yembr* 3SG **yem**; *figr* SBJV 2PL **fighað** /faˈjaθ/; *scoutar* SBJV 2PL **scouteð**; *parolar* SBJV 2PL **paroleð**; *volir* 1SG **vil**; *vuscar* SBJV 1PL **vusceu**; *aïr* SBJV 1SG **ay**, IPFV.SBJV 1SG **aus**.
 - E201–E210: *fair* preterite 1SG **fey**; *coupar* INF; *cavir* preterite 1SG/3SG **cof**; *tondr* PST.PTCP **tos**; *detenir* PST.PTCP **detenuð**; *denir* preterite 3SG **denoy**; *rajogndr* future 1PL **rajogndreu**; *vuscar* 1SG **vusc**; *star* SBJV 2SG **sey**; *venir* 1SG **vien**; *partir* preterite 3SG **parteu**; *venir* preterite 3SG **venoy**; *trovar* PRS.PTCP **trovant**; *poðir* future 3SG **porra**; *vardir* INF; *veir* IMP **vey**, 2PL **veyað**; *creir* 1SG **crey**; *encontrar* PST.PTCP **encontrað**.
 - E211–E220: *fair* preterite 1SG/3SG **fey**; *cavir* preterite 1SG **cof**; *venir* imperfect 1SG **vene**; *fragndr* preterite 3SG **fragnoy**; *cair* PRS.PTCP **caint**; *denir* PRS.PTCP **denent**; *vleutar* preterite 1SG **vleutau**, PST.PTCP **vleutað**; *attorrir* preterite 3SG **attorroy**; *pascr* preterite 1PL **paum**; *mettr* SBJV 2SG **met**; *aïr* future 3SG **arra**; *eir* 3SG **va**; *nafrar* 1SG **nafr**.
+- E221–E230: *cavir* PRS.PTCP **cavent**; *aular* PRS.PTCP **aulant**; *cair* imperfect 3SG **caye**; *star* preterite 3SG **fo**; *er* 3SG **er** (*le'r*); *ovrir* preterite 1PL **ovroim** (user correction of *ovreum*, Conflict 36); *sortir* preterite 3SG **sorteu**; *alandar* preterite 3PL **alandaurn**; *ençar* preterite 3SG **ençau**; *quottar* present 3PL **quotn** (single consonant before *-n*, Conflict 38); *aïr* 1SG **ay**; *autrar* PST.PTCP **autrað**; *bojar* PST.PTCP **bojað**; *eir* preterite 2SG **eu**.
+- E231–E240: *sceir* imperfect 3SG **sceye**, 3PL **sceyen**; *parmanir* 3SG **parmane** (read as imperfect); *aïr* PRS.PTCP **ayent**; *fair* PRS.PTCP **faint**, imperative 2SG **faç**; *cavir* imperative 2SG **caif**; *luïr* present 3SG **luïsc**; *cantar* present 3SG **cant**; *veir* imperative 1PL **veyau**; *denir* present 3PL **dienn**.
 
 ## Pronouns
 
@@ -2242,6 +2370,16 @@ Also in this batch: pronoun after *a* 'than' is disjunctive (E04); pronoun order
   - ✔ 'A lot of' is ***un moul de*** (*moul* 'lump, mass').
   - ✔ 'A piece of cake' is ***un clou a vastel***: *clou* 'clove; segment, slice, piece' (`.db`, which has *dou clou a vastel* as its example).
 
+### E239 · I need a coffee cup, not a paper cup.  (clearing up after a party)
+- **Borlish:** *Me stou un cop a caffay, noc un cop de papir.* (User: "Exactly right; *a* for purpose, *de* (or in some constructions, *ne*) for material")
+- **IPA:** /me stu ɪn kɔp a kaˈfe | nɔk ɪn kɔp de paˈpɪr/
+- **Gloss:** 1SG.OBL be.needed INDF cup for coffee | NEG INDF cup of paper
+- **Settles:**
+  - ✔ ***N a N*** marks purpose (*cop a caffay*, as *ketr a tag*, E06), and ***N de N*** marks material (*cop de papir*). In some constructions material takes ***ne***.
+  - ✔ 'I need' is *Me stou* + NP, with an oblique experiencer.
+  - ? Which constructions take *ne* for material?
+- **Follow-up:** *ne* for material ('a gold ring', 'a wooden table').
+
 ## Adjectives
 
 ### Position of *novel* (from E06; the user's question)
@@ -2297,6 +2435,27 @@ Prenominal adjectives so far: *novel* (decided), *veil* (E15), *bel* (E58).
   - ✔ A **modified** adjective (*magn car* 'very expensive') goes **after** the noun.
   - ✔ ***magn*** 'very' precedes the adjective.
   - ✔ *car* 'car' and *car* 'expensive' are homophones; ***saleyað*** (lit. 'salted') is an alternative for 'pricey'. The `.db` lists *saleyað* only as 'salted, salty, brackish, briny', so the 'expensive' sense is new.
+
+### E229 · He is proud of his son, but afraid of dogs.
+- **Borlish:** *Le's fier de sell'heir, ma l'a hougr de can.* (submitted with *hier*, a typo for *heir*: user, Conflict 37)
+- **IPA:** /lɛz fjɛr de sɛˈlir | ma la hɔjr de kan/
+- **Gloss:** 3SG.M=be proud of 3SG.POSS-DEF=son | but 3SG.M=have fear of dog
+- **Settles:**
+  - ✔ *fier* 'proud' takes ***de***.
+  - ✔ 'Afraid' is not an adjective but ***aïr hougr de*** 'have fear of', with the subject repeated for the new verb (*l'a*).
+  - ✔ A generic plural object is bare: *de can* 'of dogs'.
+  - ✔ 'Son' is ***heir*** (`.db`; the answer's *hier* was a typo). The IPA /ir/ is my transcription, with *ei* = /i/ as in *freit*, *veint*.
+- **Follow-up:** E236 ('good at', 'bad at').
+
+### E236 · She is good at chess but bad at singing.
+- **Borlish:** *La's faur ne scac ma febr ne cantar.* (also *La luïsc scac fort ma cant mal.* "(She plays chess well but sings badly)")
+- **IPA:** /las for ne xak ma ˈfɛb.r̩ ne kanˈtar/
+- **Gloss:** 3SG.F=be skilled in chess but weak in sing-INF
+- **Settles:**
+  - ✔ 'Good at' is ***faur ne*** 'skilled in' and 'bad at' is ***febr ne*** 'weak in'. Both take ***ne***, with a noun (*ne scac*) and with an infinitive (*ne cantar*).
+  - ✔ The second adjective shares the subject and copula: *ma febr ne cantar*.
+  - ✔ With verbs: *fort* 'well' and ***mal*** 'badly' follow the verb (*luïsc scac fort*, *cant mal*). The `.db` has *mal* only as an adjective.
+  - ✔ *luïr* 'play' (*ir2*) present 3SG **luïsc**; *cantar* 3SG **cant**.
 
 ## Adverbs
 
@@ -2538,6 +2697,29 @@ Prenominal adjectives so far: *novel* (decided), *veil* (E15), *bel* (E58).
   - ✔ 'Or' between alternatives is ***ben***.
   - ✔ *rajogndr* 'meet up' future 1PL ***rajogndreu***.
 
+### E228 · The stadium holds 123,456 people.
+- **Borlish:** *12,3456 hom quotn l'arena.* (the user briefly corrected this to *quottn*, then settled on single consonants before the 3PL *-n*, Conflict 38. Read *Doç murðon trent catr cent cinquant seg hom…*; also *L'arena poð 12,3456 hom abrangir.*)
+- **IPA:** /dɔts mɪrˈðɔn trɛnt katr̩ tsɛnt tsɪnˈkwant sij ɔm ˈkwɔt.n̩ laˈre.na/
+- **Gloss:** twelve myriad thirty four hundred fifty six person fit-3PL DEF=arena
+- **Settles:**
+  - ✔ Numbers are **written in groups of four**, with a comma after the myriads: *12,3456*.
+  - ✔ 123,456 is read *doç murðon trent catr cent cinquant seg*: the number of myriads (*doç*), then the remainder counted in hundreds (*trent catr cent cinquant seg*).
+  - ✔ 'Hold (people)' is either *quottar* 'fit into' with the people as subject (*… hom quotn l'arena*), or *poðir abrangir* 'can contain' with the place as subject. *arena* and *abrangir* are in the `.db`.
+  - ✔ The infinitive is ***quottar*** (user). It **is** in the `.db` ('fit into, pull off, suit, be affordable, divide'); I had searched for *quotar*. Compare the corpus *ða ðe voun lo quottar* 'if they'll fit' (C2051). The 3PL is ***quotn***, with the doubled consonant written single before *-n* (Conflict 38).
+- **Follow-up:** E233 (over a million; a year with no hundreds).
+
+### E233 · In 2024 the city had 1,250,000 inhabitants.
+- **Borlish:** *D'an 2024 y pouvlanç dy citað teyen 125,0000.* (also *D'an 2024 sceyen 125,0000 hom ny citað.*; the number is read "…*cent veint cinq murðon*")
+- **IPA:** /dan … i puˈvlants di tsiˈtaθ tiˈjɛn tsɛnt vint tsɪnk mɪrˈðɔn/
+- **Gloss:** of=year 2024 DEF population of.DEF city number-IPFV.3PL hundred twenty five myriad
+- **Settles:**
+  - ✔ 1,250,000 is ***cent veint cinq murðon*** '125 myriads', written ***125,0000*** in groups of four. A count of myriads above a hundred is read like any other number.
+  - ✔ 'Had N inhabitants' is either *y pouvlanç … teyen N* 'the population numbered N', or existential *sceyen N hom ny citað* 'there were N people in the city'. *sceir* agrees with its plural NP (imperfect 3PL **sceyen**).
+  - ✔ *teyen* is 3PL because ***pouvlanç* 'population' is a plurale tantum** (user, 2026-10-18). The corpus agrees: *Sy pouvlanç teyen…* (C2930), *Y pouvlanç celtesc … no son…* (C1751). C1325 had *ant un pouvlanç teint pres trey murðon*; the user: the *un* "should probably not" be there. **Applied:** *un* removed in S12176, C1325 and output 43.1 (matches a regeneration; `manifest.tsv` row copied). The `.db` now marks *pouvlanç* `\ue plural only`, and *cavel* `\ue plural` 'hair' with a second sense `\ue singular` 'a hair, strand of hair' (user). Script `pouvlanc_fix.py`.
+  - ? The year was written in figures, so its reading is still open. By the rule that a zero hundreds place is read in thousands it should be *dou mil veint catr*. Compare *novoç cent ogtant catr* (1984, `numerals.tex`).
+  - ✔ *D'an* + year 'in (the year)', as in `numerals.tex`.
+- **Follow-up:** the reading of a year like 2008 or 2024, and the 'number' verb with a singular collective subject.
+
 ## Conjunctions & Particles
 
 - Question particle *ou* (E03): it comes straight after the questioned part, so it is clause-final only when the whole clause is questioned (E44, E19).
@@ -2560,6 +2742,17 @@ Prenominal adjectives so far: *novel* (decided), *veil* (E15), *bel* (E58).
   - ✔ Hesitant 'well' is ***or***, set off by a comma, with no inversion after it.
   - ✔ 'I suppose' (conceding) is ***admettr*** 'admit' + *ig* + **indicative**.
   - ✔ 'Be right' is ***aïr bon*** 'have good'.
+
+### E230 · Actually, I've changed my mind. Anyway, it doesn't matter.  (to a friend, about weekend plans)
+- **Borlish:** *Vis ay jo m'autrað de noçon. Or bon, cay noc zar.* (also *Vis ay jo me bojað.*, "Actually, I've reconsidered—lit. I've moved myself")
+- **IPA:** /vɪz e ʒo moˈtraθ de noˈtsɔn | ɔr bɔn | ke nɔk zar/
+- **Gloss:** indeed have.1SG 1SG 1SG.OBL=change.PST.PTCP of notion | well good | fall NEG serious
+- **Settles:**
+  - ✔ 'Actually' is fronted ***vis*** 'indeed', with verb-second inversion (*Vis ay jo…*), as in E79 *Vis oc fey jo!*.
+  - ✔ 'Change one's mind' is reflexive ***s'autrar de noçon*** 'change oneself of notion', or ***se bojar*** 'move oneself, reconsider' (in the `.db`). The reflexive clitic sits on the participle of the *aïr* perfect (*ay … m'autrað*).
+  - ✔ 'Anyway' is ***Or bon*** 'well, right', which stands outside the clause, so there is no inversion. Compare *Or bon, tenau a lo javigar* (`tam.tex`).
+  - ✔ 'It doesn't matter' is ***Cay noc zar***, the negative of *Cay zar!* 'It's serious, it's not a game' (`.db` *zar*).
+- **Follow-up:** E234 (*vis* correcting someone else).
 
 ## Register & Address
 
@@ -2607,13 +2800,48 @@ Prenominal adjectives so far: *novel* (decided), *veil* (E15), *bel* (E58).
   - ✔ 'Excuse me, I'm sorry' is ***Pardon*** (the `.db` noun 'sorry, forgiveness'), intensified by ***a my gran sogr*** 'to my great sorrow'. *bossir* 'sir' is the vocative (E210).
   - ✔ The literary *tan nafr jo* 'so (much) do I grieve' fronts *tan* and inverts the subject (V2); *nafrar* 'be sad' 1SG **nafr**.
   - ✔ 'Don't mention it' is ***No scey calscon*** 'there isn't anything': free-choice *calscon* under negation, with *no* + *sceir*.
-  - ? **To ask:** is *calcscon* a typo for *calscon*? The IPA assumes so.
+  - ✔ *calcscon* was a typo for ***calscon*** (user, 2026-10-18).
   - ✔ This answers the `sentence-types.tex` CHECK on apologies (E214).
 - **Follow-up:** E227 ('excuse me' to get attention).
+
+### E227 · Excuse me, could you tell me the way to the station?  (stopping a stranger in the street)
+- **Borlish:** *Hello, vos veleð l'asmuth vars y quarf me digr?* (also *Hello, vos veleð me lo digr, comoscon yembr ag quarf?*, "could you tell me how to get to the station")
+- **IPA:** /hɛˈlo | vɔz veˈlɛθ lazˈmɪθ varz i kwarf me ˈdaj.r̩/  ·  /…vɔz veˈlɛθ me lo ˈdaj.r̩ | ˌko.moˈxɔn ˈjɛm.br̩ ɛj kwarf/
+- **Gloss:** hello | 2PL will.2PL.SBJV DEF=direction towards DEF station 1SG.OBL say.INF  ·  …2PL will.2PL.SBJV 1SG.OBL 3SG.N.ACC say.INF | how arrive.INF to.DEF station
+- **Settles:**
+  - ✔ The attention-getter 'excuse me' to a stranger is ***Hello*** (`.db` interjection 'hello, hi, hey'), not *Pardon*, which is the apology (E214).
+  - ✔ The polite request is *vos veleð* + INF, as in E19 (*Vos veleð me digr ou yon es y quarf?*), here without *ou*.
+  - ✔ The NP object comes before the clitic and the infinitive: *[l'asmuth vars y quarf] me digr*, like *Jo vil un astuç te dar*.
+  - ✔ 'The way to' is *l'asmuth vars* 'the direction towards'.
+  - ✔ In the alternative, an anticipatory *lo* (*me lo digr*) points to the indirect question that follows after a comma. That question is *comoscon* 'how' + INF: *comoscon yembr ag quarf* 'how to get to the station'.
+  - ✔ This answers the `sentence-types.tex` CHECK on 'excuse me'.
+
+### E237 · — Goodbye, see you tomorrow! — Bye, take care!  (two colleagues leaving work)
+- **Borlish:** *Ag sont; veyau nos je posc! Yera, faç cur!* (User: "*Ag sont!* (neutral farewell; literally 'to the seventh' but probably actually altered from *ag sevent* 'to the next')"; "*veyau nos* 'let us see each other' ← note for plurals that the imperative forms of the 1p and 2p reflexive objects are *nos* and *vos*, even tho they're *se* normally"; "*yera* (informal farewell, and also colloquially a greeting)"; "*cur fair* (to take care)")
+- **IPA:** /ɛj sɔnt | veˈjo nɔs ʒe pɔx | jeˈra | fats kɪr/
+- **Gloss:** to.DEF seventh | see-IMP.1PL 1PL.REFL day.of after | bye | make.IMP care
+- **Settles:**
+  - ✔ The neutral farewell is ***Ag sont!*** 'to the seventh', probably altered from *ag sevent* 'to the next'. ***Yera*** is the informal farewell and, colloquially, a greeting (`.db`).
+  - ✔ 'See you' is the 1PL imperative of reciprocal *se veir*: ***veyau nos***. In commands the 1PL and 2PL reflexive is ***nos*** / ***vos***, though elsewhere the plural reflexive is *se*. This fits `pronouns.tex`: in commands a first- or second-person pronoun takes its disjunctive form, reflexives included.
+  - ✔ 'Take care' is ***faç cur*** (*cur fair*).
+  - ✔ 'Tomorrow' here is *je posc* 'the day after'.
+  - ✔ This answers the `sentence-types.tex` CHECK on 'goodbye'.
+
+### E238 · — Cheers! — To the bride and groom!  (raising glasses at a wedding)
+- **Borlish:** *Jouft! Poll'ec nou mariðað!* (User: "*jouft* 'cheers!' < some germanic adaption of a latin formula involving *iuvet* 'let it help'")
+- **IPA:** /ʒuft | pɔˈlɛk nu ˌma.riˈðaθ/
+- **Gloss:** cheers | for.DEF=PROX.PL new marry.PST.PTCP
+- **Settles:**
+  - ✔ The general toast is ***Jouft!*** (not in the `.db`). Its source is a Germanic adaptation of a Latin formula with *iuvet* 'may it help'.
+  - ✔ 'To X' is ***pol*** + NP. The couple are present, so the plural takes the proximal *l'ec* (`determiners.tex`).
+  - ✔ 'The newlyweds' is ***nou mariðað*** 'new married', a participle used as a noun.
+  - ✔ This answers the `sentence-types.tex` CHECK on toasts.
 
 ## Lexicon
 
 New words and senses that came up in answers, for the `.db`:
+- From E231–E240: ***cald*** adj 'warm' (comparative *caldessem*, E232); ***jouft*** interj 'cheers!' (E238); ***mal*** as an adverb 'badly' (E236). Phrases: *Ag sont* 'goodbye' (E237), *cur fair* 'take care' (E237), *faur ne* 'good at', *febr ne* 'bad at' (E236), *Or vis* 'well, actually' (E234), *nou mariðað* 'newlyweds' (E238).
+- From E221–E230: phrases *s'autrar de noçon* 'change one's mind' (E230), *Cay noc zar* 'it doesn't matter' (E230), *alcant ig* 'once (that)' (E224).
 - From E211–E220: ***restaurar*** v 'restore, repair' (E211). Perhaps also the phrases *fair lign* 'phone' (E197, E213) and *No scey calscon* 'don't mention it' (E214).
 - From E201–E210: ***bedon*** 'madam' (polite, < *bel domn*; mostly a vocative, also a noun; E210; *bossir*'s entry could note the same), and *tondr* PST.PTCP ***tos*** (E201). Perhaps *mensc* 'archaic; current in *de tal mensc*'.
 - ~~From E171–E190~~ **Added to the `.db` 2026-10-18 (user request):** ***ront*** adj 'broken, snapped' (PST.PTCP of *rompr*, `\mn rompr`), ***manne*** n 'handful', ***çattrin*** n 'umbrella', ***acas*** adv 'at home', ***hottover*** n 'newspaper', ***complagnt*** n 'complaint', ***tardiscenç*** n 'delay, lateness', ***carin*** n 'darling, dear, sweetheart'. Each is placed alphabetically; only *ront* has an `\et`. Already in the `.db`: *saleyað* 'expensive' and *joun* 'child'. Not added: the informal diminutives in *-et, -ot, -el, -in* (*majonnot*, *canottin*, E175), which are a grammar point.

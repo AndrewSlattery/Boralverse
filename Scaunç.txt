@@ -3330,7 +3330,7 @@ first -ir conjugation, sporadic (as valir; future stem survaldr-, past participl
 Macaria Josforo sa ig l'yembra noc y ferscip mattin pront la la sal y vec e respir nell'aer fum e mar de Weston, oc bourg commovent.
 Macaria Josforo knows she's missed the morning ferry the moment she steps off the veck and inhales the smoke-sea air of bustling Weston.
 
-Or, par vertað enter y ferscip nað ancour ne havan, ma l'eç rig de catoum e de souscrit e de “Carraçon sereð vos sojornant ?” son voit dell'ec cogmaðer ne bonet e marcant ne tædium seyon vis normal.
+Or, par vertað enter y ferscip nað ancour ne havan, ma l'eç rig de catoum e de souscreut e de “Carraçon sereð vos sojornant ?” son voit dell'ec cogmaðer ne bonet e marcant ne tædium seyon vis normal.
 Well – the ferry is technically still at port, but the queues for stamps and signatures and “What is the purpose of your trip?” are empty of the usual bonneted holidaymakers and bored businessmen.
 
 Lon dout, y vascel arra se deshormejað pre Sr Treman porra sy carc e masctig coglir.
@@ -3396,17 +3396,17 @@ Professor Michael Bervisson
 
 7m Jugn
 
-souscrit /suˈxʀɪt/ signature, logo
+souscreut /suˈxʀawt/ signature, logo
 
 more generally something characteristic of a person, place or group
 
-< late 15C in Middle Borlish souscrit “signature, approval, authorisation”, past participle of souscrir “to sign, to authorise” (now obsolete), adapted from Latin subscrībō “I append, I write underneath”, after the practice of signing one's name of the end of documents. Extension to “characteristic feature” 18C; to “logo” 19C as an innovation of the Global Workshop decades.
+< late 15C in Middle Borlish souscrit “signature, approval, authorisation”, past participle of souscrir “to sign, to authorise”, adapted from Latin subscrībō “I append, I write underneath”, after the practice of signing one's name of the end of documents. The verb was later remodelled as souscreir (now archaic), with the participle souscreut, by analogy with -r verbs ending in -eir such as creir “to believe” (past participle creut). Extension to “characteristic feature” 18C; to “logo” 19C as an innovation of the Global Workshop decades.
 
-    Y joun rey vil jamay souscrit dar all'oc concort abhorrent.
+    Y joun rey vil jamay souscreut dar all'oc concort abhorrent.
 
     The young king will never give his signature to this despicable treaty.
 
-    /i ʒun ˈʀi vɪl jaˈme suˈxʀɪt daʀ aˌlɔk kɔnˈkɔʀt ˌab.hoˈʀɛnt/
+    /i ʒun ˈʀi vɪl jaˈme suˈxʀawt daʀ aˌlɔk kɔnˈkɔʀt ˌab.hoˈʀɛnt/
 
 ##
 
@@ -6000,7 +6000,7 @@ zoia /zoˈja/ [zʊjˈja] microbe, microorganism; any of the one-celled forms of 
 
     excerpt with English translation from the 1872 trevold Un Onomatoir Parçal dy Novel Londr (An Incomplete Dictionary of the New London), written by Hadassa Docquerl, heiress to the barony of Livaucr in the north. Probably the most famous Vetomundane work from the Futurism period of parachthon romance, it follows a tourist in the unspecified future visiting a rebuilt London some decades after it was destroyed in a so-called "Annihilation War". This book is also notable for containing the first use of "slate" to refer to a screen which can display information.
 
-Thomas refey sell'azig e sortoy ny colloir dy carrot, s'affignt all'aucoum a gent attenent descendr.
+Thomas refey sell'azig e sorteu ny colloir dy carrot, s'affignt all'aucoum a gent attenent descendr.
 Thomas remade his shoes and stood up into the car's corridor, joining the throng of people waiting to disembark.
 
 L'ec fenestr defassaurn, un termin actif revelant oc compos ne figur accapellað stivað sou laçploy por y temp noc idone eluïr.
@@ -7393,7 +7393,7 @@ They were tasked with building a bridge of cast iron alone.
 
 excerpt in Boral and English from sensation trevold [novel] While Gold Yet Runs in My Veins, a work in the giftale genre by Dutch author Carlyn van Stede. Originally published in 1965 (in Dutch as Zolang Gout dór myn Ádren Noh Vlóye), its parachthonic take on the genre follows several characters with extraordinary abilitiesabilities and their adventures in sixteenth-century Italy and Awry.
 
-"La dis se pondr voud a me rajondr candon y dou vendraun nos sautellar. E la souscris con nau d'amour."
+"La dis se pondr voud a me rajondr candon y dou vendraun nos sautellar. E la souscreu con nau d'amour."
 “She said that she was looking forward to seeing me when they next come to visit. And she signed off with love.”
 
 Vanna sors de sy caðer, aulau reðr Marin atorn, e luy mis y man sur y spal, lou pognant. "Jo te lo dis. Lausc? Jo te dis ig la n'aye recas for d'hour may."
@@ -12173,7 +12173,7 @@ The city of Mysarnos is the former capital of the Principality of Mystra, a Roma
 L'oc nom es tan denuð cos janual l'oç benoçað por y bourg grec vecin ja sceint (stant tardessem corporalisað cos solemn com un muncef de Mysarnos) connuð nell'asc antic com Pylos.
 The name has retrospectively also been applied to the nearby preexisting Greek town (which was later officially incorporated as a municipality of Mysarnos) known in antiquity as Pylos.
 
-A sy sommet ny siecr seç sta Mysarnos un mojol por y commouð revitalist, ant un pouvlanç teint pres trey murðon.
+A sy sommet ny siecr seç sta Mysarnos un mojol por y commouð revitalist, ant pouvlanç teint pres trey murðon.
 At its height in the sixteenth century Mysarnos was a hub for the Revitalist movement, with a population of nearly thirty thousand.
 
 ##
@@ -13464,7 +13464,7 @@ but his allegedly-charming features seem to have contributed to a string of adva
 Tu nil ða j'ay bon scoc recevir n'oyent ig l'ec ensignment boscer poscvaran son neyant a se cavir acatað teint mitað dy taus meðes innajað la (no dign y dominanç de Hambourg sur troc lonc Elf);
 You shall I expect be unsurprised to hear that the Potchware woodcarvings refuse to be bought at even half the cost of importing them (never mind Hamburgh's stanglehold on the Elbe);
 
-toð cas final j'acavau un conement de Crovatia stant enfoldesc particuler ig l'ec fosn y soul ouvr d'art connuð d'un pouvlanç remot n'Angelica, oc ayent nossy despart limitað an quantað supportabr.
+toð cas final j'acavau un conement de Crovatia stant enfoldesc particuler ig l'ec fosn y soul ouvr d'art connuð d'un gent remot n'Angelica, oc ayent nossy despart limitað an quantað supportabr.
 eventually I managed to convince a particuarly-credulous customer from Crovatia that they were the only attested artworks of a remote people of Angelica, which limited our losses to an acceptable amount.
 
 ##
@@ -17789,7 +17789,7 @@ The inn had fourteen guests at the time of the murder.
 
 Celtic Borland
 
-Y pouvlanç celtesc d'Istr Boral (y Bora Ale noncupað temporane) no's fort mis a regest. Y pog bustr tesmogn de lorry lengaç sousonn an dehiscenç for recent des y lengaç britton; creut es ig ðe alandau sull'istr des Albion, e noc des y tarmagn cos direct.
+Y pouvlanç celtesc d'Istr Boral (y Bora Ale noncupað temporane) no son fort mis a regest. Y pog bustr tesmogn de lorry lengaç sousonn an dehiscenç for recent des y lengaç britton; creut es ig ðe alandau sull'istr des Albion, e noc des y tarmagn cos direct.
 The Celt population of Borland (self-described as the Bora Ale) is poorly documented. The few attestations of their language suggest only a recent divergence from the Briton tongue; they are thought to have arrived on the island from Albion, not directly from the continent.
 
 L'oc cultur er conjognt ag sar marcer d'Europ par mejan dell'enascment de stan e de far. Jarry innajað dell'oc epoc es yent trovað tras toll'istr des loy allors remot com Egypt e Pers.
@@ -31896,7 +31896,7 @@ Meanwhile the Cynthia and the Orion had returned. Claims from later centuries th
 
 notes in translation on the region of Portingale [Portugal, Galicia] in a three-century span.
 
-Ant sy pouvlanç ec prepondrant lonc y rimot, Portingal se cof devastað cos tost e lon pietað par y Scon Gran Morenç nell'eç annað ne souc dell'yenç dy pest n'Europ d'an 1519N; un quinç entr y pouvlanç moroy pre fos y dezein passað.
+Ant sy pouvlanç ec prepondrant lonc y rimot, Portingal se cof devastað cos tost e lon pietað par y Scon Gran Morenç nell'eç annað ne souc dell'yenç dy pest n'Europ d'an 1519N; un quint entr y pouvlanç moroirn pre fos y dezein passað.
 With its population concentrated along the coast, Portingale was ravaged early and mercilessly by the Second Great Dying in the years following the plague's arrival in Europe in 1519N; one fifth of the population died within the decade.
 
 Stove Vascony par forç cession fair de sell'eiðel Portingal (sy mojolon cas empory) vars Andalus posc un rig de cug militer durant y Rix Romannesc dy siecr settoç mejan.
@@ -32321,7 +32321,7 @@ notes in translation on rebound, a wall-and-ball game of the Middlesea [Mediterr
 Sur casc rimot dy Miterran, toð citað ben toun ec y nom meritant broucn un mur a rebont.
 On every coast of the Middlesea, any city or town worthy of the name boasts a rebound wall.
 
-Dou compleis, ben dou per den—ben a gest un nombr quidam d'alumn felau ben de veðr amig—battn a to-rutto y bal dur ne cogr, con lanç ben peyaç contr y mur ligs ne pieðr.
+Dou compleis, ben dou per den—ben a gest un nombr quidam d'alumn felau ben de veðr amig—batn a to-rutto y bal dur ne cogr, con lanç ben peyaç contr y mur ligs ne pieðr.
 Two players, or two pairs—or in practice any number of schoolmates or old friends—strike the hard leather ball in turn, with throws or kicks against the smooth stone wall.
 
 Un try finisc candon un hasmour poð noc y bal offirr pre y scon bondisc contr y paið, ben candon y bal outrvol y zon de joy (tragçað cos insolemn ne creð, ben durablessem con loson zajadau).
