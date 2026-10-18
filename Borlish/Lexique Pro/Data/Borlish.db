@@ -841,6 +841,12 @@
 
 \mn vespr
 
+\lx acas
+\ps adv
+
+\ge at home
+\ge home
+
 \lx acavar
 \ps ar v
 
@@ -8037,14 +8043,14 @@ Metaphorical usage is seen from the seventeenth century, while the modern admini
 
 \sd Corporals
 
-\lx bruslaç
+\lx brusctaç
 \ps n
 
 \ge sunburn
 
 \et Old Borlish
 
-\lx bruslar
+\lx brusctar
 \ps ar v
 
 \ge scorch
@@ -9284,6 +9290,13 @@ Metaphorical usage is seen from the seventeenth century, while the modern admini
 \et Old Borlish, past participle of carir
 \mn carir
 
+\lx carin
+\ps n
+
+\ge darling
+\ge dear
+\ge sweetheart
+
 \lx carir
 \ps ir2 v
 
@@ -9731,6 +9744,13 @@ Metaphorical usage is seen from the seventeenth century, while the modern admini
 
 \et Old Borlish < Latin
 
+\lx catrem
+\ps adj
+
+\ge fourth
+
+\et Old Borlish
+
 \lx cattin
 \ps n
 
@@ -9738,6 +9758,11 @@ Metaphorical usage is seen from the seventeenth century, while the modern admini
 \ge darling
 
 \et Old Borlish
+
+\lx çattrin
+\ps n
+
+\ge umbrella
 
 \lx cauç
 \ps n
@@ -10096,7 +10121,7 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et idiom first attested in this form in the late eighteenth century but having many variants beforehand; literally "it takes six (months) for the eldest (child)". This refers to a couple's first child being born only six months after the wedding, a situation where it is clear to everyone what happened but to mention it explicitly would be impolite.
 \mn cair
-\mn segs
+\mn seg
 \mn veðerrem
 
 \lx ce
@@ -10569,6 +10594,13 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 \ps n
 
 \ge period of fifty years
+
+\lx cinquem
+\ps adj
+
+\ge fifth
+
+\et Old Borlish
 
 \lx circol
 \ps n
@@ -12114,6 +12146,11 @@ The word has seen significant semantic bleaching over time; the sense "poem" is 
 
 \et Middle Borlish, agent derivation from the verb compeðir "compete, contend, fight". The word has been used in political contexts since the late seventeenth century, although it only became widespread a hundred years later.
 \mn compeðir
+
+\lx complagnt
+\ps n
+
+\ge complaint
 
 \lx compleis
 \ps n
@@ -16074,6 +16111,13 @@ In fact, the surname and the word both descend from variously-spelt epithets for
 
 \et Old Borlish < Latin
 
+\lx deghem
+\ps adj
+
+\ge tenth
+
+\et Old Borlish
+
 \lx degm
 \ps adj
 
@@ -19062,13 +19106,6 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 
 \et from northern dialect ðourskan "menhir", allied with Scots Guile [Scottish Gaelic] tursaghan "stone circle". These both originate in Old Norrish þurs "ogre, monster"; standing stones across northwestern Europe were described as the petrified forms of legendary giants. The term entered standard Borlish in the seventeenth century, and has been used for legendary creatures in imitation of its Norrish etymon since that was uncovered in the nineteenth century.
 
-\lx doussem
-\ps adj
-
-\ge second
-
-\et Old Borlish
-
 \lx doutar
 \ps ar v
 
@@ -19095,6 +19132,13 @@ The alternative with the most backing is that the word reflects Latin adiciō "I
 
 \mn doutr
 \mn allors
+
+\lx dovem
+\ps adj
+
+\ge second
+
+\et Old Borlish
 
 \lx dragar
 \ps ar v
@@ -22244,6 +22288,21 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 
 \et Old Borlish < Latin
 
+\lx fair battr ag cour
+\ps r v
+
+\ge make one feel alive
+\ge give one an adrenaline rush
+\ge thrill
+\ge excite
+\ge animate
+\ge invigorate
+
+\et idiom first attested in the poetry of Kigman (15C), literally "to make the heart beat"
+\mn fair
+\mn cour
+\mn battr
+
 \lx fair defleiçar
 \ps r v
 
@@ -22263,21 +22322,6 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 
 \mn fair
 \mn ðougl
-
-\lx fair y cour battr
-\ps r v
-
-\ge make one feel alive
-\ge give one an adrenaline rush
-\ge thrill
-\ge excite
-\ge animate
-\ge invigorate
-
-\et idiom first attested in the poetry of Kigman (15C), literally "to make the heart beat"
-\mn fair
-\mn cour
-\mn battr
 
 \lx fais
 \ps n
@@ -24938,7 +24982,7 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 \ge press
 \ge play
 
-\xv Jo's y jarry frottant tras un demy d'hour.
+\xv Jo's y jarry frottant tras un demeg d'hour.
 \xe I've been scrubbing dishes for half an hour.
 
 \et from Old Borlish, borrowed from (or possibly the source of) Old French frotter "rub, polish". This is in either case of uncertain origin, but is generally thought to reflect Latin participle frictus of fricō "I rub, chafe". Musical senses are attested from the Middle Borlish period.
@@ -28516,6 +28560,11 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et Old French < Latin
 
+\lx hottover
+\ps n
+
+\ge newspaper
+
 \lx hou
 \ps n
 
@@ -29013,6 +29062,8 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ps adv
 
 \ge there
+\ge at it
+\ge to it
 
 \ps conj
 
@@ -30488,19 +30539,19 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \ps n
 
 \ge settlement
-\ge colonisation
-\ge colonization
+\ge colony
 
-\et noun from instançar "settle"
-\mn instançar
+\et Middle Borlish < Italian < Latin
 
 \lx instançment
 \ps n
 
 \ge settlement
-\ge colony
+\ge colonisation
+\ge colonization
 
-\et Middle Borlish < Italian < Latin
+\et noun from instançar "settle"
+\mn instançar
 
 \lx instauraçon
 \ps n
@@ -32359,15 +32410,6 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 \mn kerel
 \mn trocar
 
-\lx kerellar
-\ps ar v
-
-\ge dispute
-\ge quarrel
-\ge argue
-
-\et Old Borlish
-
 \lx kerellabr
 \ps adj
 
@@ -32387,6 +32429,15 @@ Used as a proper noun until the discovery of other galaxies in the Good Game per
 
 \et pejorative noun from kerellar "quarrel".
 \mn kerellar
+
+\lx kerellar
+\ps ar v
+
+\ge dispute
+\ge quarrel
+\ge argue
+
+\et Old Borlish
 
 \lx keren
 \ps n
@@ -35977,6 +36028,11 @@ Old Borlish < Latin illa
 \ge be revealed
 
 \et Middle Borlish < Latin
+
+\lx manne
+\ps n
+
+\ge handful
 
 \lx manneç
 \ps n
@@ -40537,6 +40593,13 @@ More tempting might be Arabic مَنْهُوك • (manhūk) "exhasuted, spent",
 
 \et Old Borlish < Latin
 
+\lx novem
+\ps adj
+
+\ge ninth
+
+\et Old Borlish
+
 \lx Novembr
 \ps n
 
@@ -41374,19 +41437,26 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Old Borlish < Latin
 
-\lx ogtaf
-\ps adj
-
-\ge eighth
-
-\et Old Borlish < Latin
-
 \lx ogtant
 \ps num
 
 \ge eighty
 
 \et Old Borlish < Latin
+
+\lx ogtau
+\ps adj
+
+\ge eighth
+
+\et Old Borlish < Latin
+
+\lx ogtem
+\ps adj
+
+\ge eighth
+
+\et Old Borlish
 
 \lx ogtoç
 \ps num
@@ -44293,15 +44363,6 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 \mn fair
 
 \lx paus
-\ps n
-
-\ge pause
-\ge stop
-\ge interruption
-
-\et Middle Borlish < Latin
-
-\lx paus
 \ps interj
 
 \ge hang on
@@ -44310,6 +44371,15 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et imperative of pausar "stop"
 \mn pausar
+
+\lx paus
+\ps n
+
+\ge pause
+\ge stop
+\ge interruption
+
+\et Middle Borlish < Latin
 
 \lx paus yembr
 \ps r v
@@ -51641,6 +51711,15 @@ In parachthony [sci-fi/fantasy] circles the word spread rapidly, reaching books 
 
 \et Old Borlish
 
+\lx ront
+\ps adj
+
+\ge broken
+\ge snapped
+
+\et Past participle of rompr
+\mn rompr
+
 \lx ros
 \ps n
 
@@ -54668,6 +54747,13 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \et Middle Borlish < Latin
 
+\lx seg
+\ps num
+
+\ge six
+
+\et Old Borlish < Latin
+
 \lx seget
 \ps n
 
@@ -54683,6 +54769,13 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 
 \et Middle Borlish borrowing from Latin seges "field sown with a cereal crop", used metonymically for the field's contents. Used metaphorically for masses which visually resemble standing crops, the word is especially common in military contexts.
 
+\lx seghem
+\ps adj
+
+\ge sixth
+
+\et Old Borlish
+
 \lx segnour
 \ps n
 
@@ -54697,13 +54790,6 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge man
 \ge lord
 \ge Sir
-
-\et Old Borlish < Latin
-
-\lx segs
-\ps num
-
-\ge six
 
 \et Old Borlish < Latin
 
@@ -54960,6 +55046,13 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \ge seventy
 
 \et Old Borlish < Latin
+
+\lx settem
+\ps adj
+
+\ge seventh
+
+\et Old Borlish
 
 \lx settoç
 \ps num
@@ -59740,6 +59833,12 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Old Borlish < Latin
 
+\lx tardiscenç
+\ps n
+
+\ge delay
+\ge lateness
+
 \lx target
 \ps n
 
@@ -62166,13 +62265,6 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 
 \et Middle Borlish < Old French < Vulgar Latin < Ancient Greek
 
-\lx tressem
-\ps adj
-
-\ge third
-
-\et Old Borlish
-
 \lx treu
 \ps adj
 
@@ -62249,6 +62341,13 @@ The transfer of the name from Egyptian mythology to general folktales is the fau
 \xe Please don't tell me anything – I've not yet read the fourth book in the series.
 
 \et circa 1640, from Dench bog trevold “octavo book” (that is, a book printed on sheets in octavo size). Literally “three-fold”, named as octavo parchment is produced by folding folios three times.
+
+\lx treyem
+\ps adj
+
+\ge third
+
+\et Old Borlish
 
 \lx triaç
 \ps n
@@ -64034,6 +64133,16 @@ The word tarç "third" descends directly from synonymous Latin tertius and now e
 
 \et Old Borlish < Latin
 
+\lx veintaç
+\ps n
+
+\ge score
+\ge twenty or so
+\ge twenty-odd
+
+\et From veint "twenty" with the collective suffix -aç
+\mn veint
+
 \lx veint-catr kirat
 \ps adj
 
@@ -64575,7 +64684,7 @@ The word tarç "third" descends directly from synonymous Latin tertius and now e
 \ge Old World
 \ge Afro-Eurasia
 
-\xv Communeyaçon entr Mendeva Bassem eð y Vetomont fey commet ny siecr cinqueç jagerrem par vascel marcander soll'ægid dy Colluy dy Nou Mont des Morrac.
+\xv Communeyaçon entr Mendeva Bassem eð y Vetomont fey commet ny siecr quinç jagerrem par vascel marcander soll'ægid dy Colluy dy Nou Mont des Morrac.
 \xe Contact between Lower Mendeva and the Vetomund [Old World] began in the late fifteenth century with merchant ships from the Morrack New World Company.
 
 \et 17C, Scholastic Latin vetomundus "old world", formed by analogy with novomundus (see Novomont)
