@@ -31,6 +31,7 @@ Non-finite: infinitive **star**, present participle **stant**, past participle *
 
 Contractions: **jo's**, **tu's**, **le's / la's / lo's**, **no's**.
 - **no's** stands for 1SG *no so* as well as 3SG *no es*: *Jo no's jamay eut a Rom* (E48). The user calls the full *no so* the careful form.
+- **Colloquial inverted forms** (user, E165): *so jo* → **sco**, *es tu* → **stu**, 3SG **zy** (any 3SG, < *es y*, from an old epicene 3SG pronoun *y*; E181); *som nos* → **sonos**, *soð vos* → **sovos**, *son ðe* → **soðe**. In very slangy speech they also turn up without inversion. The tag question is *oc no's tu?*, colloquially *no stu?* (E166).
 
 **Singular imperatives (user, 2026-10-12).** The 2SG imperative is normally the present indicative SG (*da*, *vien*, *va*). A closed set uses the subjunctive instead: **sey** (*star*), **ay** (*aïr*), **faç** (*fair*), **saif** (*savir*) and **remain** (*remanir*). The user chose *va* for *eir* (not *vay*); the corpus has no *vay* imperatives to retcon. Plural imperatives are always subjunctive.
 
@@ -168,6 +169,7 @@ Non-finite: infinitive **poðir**, present participle **poðent**, past particip
 Non-finite: infinitive **valir**, present participle **valent**, past participle **valuð**.
 
 - The verb usually has an oblique experiencer and a postverbal subject (*Nos vaun saget forgar…?* 'Are titanium arrowheads worth it [to us]?', S23881), so the 1st and 2nd person forms may rarely be needed.
+- E159 confirms the impersonal use with an infinitive: *Te val requïr* 'You ought to rest'.
 - **Q13.** What is the future: *valdra*, *vaudra*, or something else? (Compare *tenir* → *tendra*.)
 - **Q14.** The imperfect subjunctive *valois* has the *-oi-* stem, but the preterite 3PL is *valeurn*. Is the preterite *valoy, valoim, valoist, valoirn* or *valeu…*?
 
@@ -261,7 +263,7 @@ Non-finite: infinitive **nolir**, present participle **nolent**.
 |---|---|---|---|---|---|---|
 | present | **cay** | **cay** | **cay** | **caim** | **caið** | **cain** |
 | imperfect | **caye** | **caye** | **caye** | cayau? | cayað? | **cayen** |
-| preterite | **cou / cayeu** | **cou / cayeu** | **cou / cayeu** | ___ | ___ | ___ |
+| preterite | **cou** | **cou** | **cou** (E131) | ___ | ___ | courn? |
 | future | carray? | **carra** | **carra** | carreu? | carreð? | carraun? |
 | pres. subjunctive | cay? | cay? | cay? | ___ | ___ | cain? |
 | impf. subjunctive | **cous** | **cous** | **cous** | cousseu? | cousseð? | cousn? |
@@ -272,6 +274,7 @@ Non-finite: infinitive **cair**, present participle **caint**, past participle _
 - Elicitation E18 (2026-10-12): the user gives **cous** as the imperfect subjunctive (*Degnant ig cous tart*), and *cay tart* 'it is late (in the day)'.
 - **Q19.** Is the preterite **cou** (S14795, S26207, C754) or **cayeu** (*Le cayeu sy pie nognt*, C177)? Compound *surcair* has *surcayeurn* (C300), which fits *cayeu*. Since the impf. subjunctive **cous** fits *cou*, are both in use?
 - E127 (2026-10-17): the user's *Nossy tourm surcou y dovem* gives the compound *surcair* the preterite **surcou**. The corpus has *surcou* 6× and *surcourn* 4×, against one *surcayeurn* (C300). This points to *cou*; E131 asks about *cair* itself.
+A (elicitation E131, 2026-10-17): ***cou*** (*Le cou des y scagler*). The corpus *cayeu* (C177) and *surcayeurn* (C300) were retconned to *cou* and *surcourn* on 2026-10-17 (Conflict 27 in the notes).
 
 ## sceir 'there be; exist' (*r v*)
 
@@ -301,7 +304,7 @@ Non-finite: infinitive **sceir**, present participle **sceint**, past participle
 | pres. subjunctive | **din** | **din** | **din** | denau? | denað? | **dinn** |
 | impf. subjunctive | ___ | ___ | ___ | ___ | ___ | ___ |
 
-Non-finite: infinitive **denir**, present participle denent?, past participle **denuð**.
+Non-finite: infinitive **denir**, present participle **denent** (E216, *cay sombr denent*), past participle **denuð**.
 
 - It patterns like *venir* (*vien/vienn*, subjunctive *vin/vinn*, preterite *venoy*, future *vendra*).
 - **Answered by elicitation E28 (2026-10-12):** the preterite is **denoy** (*Le denoy instroyour posc y var*). *deneu*/*deneurn* were slips. They were retconned to *denoy*/*denoirn* throughout on 2026-10-12, on the user's instruction. The corpus 3PL of the *-oy* type is **-oirn**: *denoirn* 4×, *venoirn*, *spanoirn*, *mettoirn* and others. So the paradigm is *denoy … denoirn*.
@@ -314,7 +317,7 @@ Non-finite: infinitive **denir**, present participle denent?, past participle **
 | present | **remain** (E118) | **reman** | **reman** | remaneu? | remaneð? | **remainn** |
 | imperfect | **remane** | **remane** | **remane** | remanau? | remanað? | **remanen** |
 | preterite | **remaneu** | **remaneu** | **remaneu** | ___ | ___ | ___ |
-| future | remandray? | remandra? | remandra? | ___ | ___ | ___ |
+| future | remandray? | remandra? | remandra? | **remandreu** (E132) | ___ | ___ |
 | pres. subjunctive | **remain** | **remain** | **remain** | remanau? | remanað? | remainn? |
 | imperative | — | **remain** | — | ___ | ___ | — |
 
@@ -331,4 +334,4 @@ A (elicitation E118, 2026-10-17): ***remain*** (*Jo remain ac fin je Viendr*), i
 A (elicitation E89, 2026-10-13): the imperfect is the regular **orruða** (*Orruða le fos las*). The three corpus *orruðe* were retconned to *orruða* on 2026-10-13.
 - **Q24.** Some *-oy* preterites drop the stem's last consonant: *penoy* (*pendr*), *attenoy* (*attendr*), *descenoy*, *interromoy*, *tarromoy*. Others keep it: *vendoy*, *pardoy*, *rompoy* (*rompr*, E84, C413), *mordoy* (*mordr*, E96). Is this lexical, or is there a rule?
 A (user, 2026-10-13): "I think I was basing that on how -ndr verbs behave (usually deleting the -d-), but actually I think the voiceless -p- should resist that and stay." So *p* stays: *interrompoy*, *tarrompoy* (the corpus was retconned). *d* after *n* usually goes. *vendoy* was an artefact of obsolete *vendr* 'sell'. The usual verb is the regular *vençar* (from Latin *vendicāre*), and the corpus was retconned on 2026-10-13.
-- Not covered yet: *cavir* 'get' (*caf, caif, cof/coum/courn, caut*), *venir*, *tenir*, *veir* 'see' (*vis*), *digr* 'say' (*dig, dis, disrn*), *mettr* 'put' (*mis*; also *parmettr* 'permit', preterite *parmis*, E51), *pascr* 'eat' (PST.PTCP *paut*, E57), *yembr* 'arrive, manage' (*yem, yemoy, yent*), *promettr* 'promise' (preterite *promis*, E92), *ovrir* 'open' (preterite *ovroy*, E93), *mordr* 'bite' (preterite *mordoy*, E96), *souvr* 'release' (PST.PTCP *soluð*, E99), *recarr* 'require, need' (PST.PTCP *recas*, E110). These can be a second round for the Verb Tables appendix.
+- Not covered yet: *cavir* 'get' (*caf, caif, cof/coum/courn, caut*), *venir*, *tenir*, *veir* 'see' (*vis*), *digr* 'say' (*dig, dis, disrn*), *mettr* 'put' (*mis*; also *parmettr* 'permit', preterite *parmis*, E51), *pascr* 'eat' (PST.PTCP *paut*, E57), *yembr* 'arrive, manage' (*yem, yemoy, yent*), *promettr* 'promise' (preterite *promis*, E92), *ovrir* 'open' (preterite *ovroy*, E93), *mordr* 'bite' (preterite *mordoy*, E96), *souvr* 'release' (PST.PTCP *soluð*, E99), *recarr* 'require, need' (PST.PTCP *recas*, E110), *salir* 'get out' (SBJV 3SG *sail*, E145), *fugr* 'flee' (SBJV 3SG *fug*, E145), *addocir* 'inform' (PST.PTCP *addoit*, E152), *digr* (PST.PTCP *dit*, E152), *cavir* SBJV 2PL *caivað* (E163), *attendr* 'wait for' (PRS.PTCP *attenent*, E164), *scaur* 'write' (PRS.PTCP *scaunt*, E164; 1SG *scau*, E180), *veur* 'live' (1SG *veu*, PRS.PTCP *veunt*, E176), *asseïr* 'sit' (PST.PTCP *asseïð*, PRS.PTCP *asseyent*, E172), *recevir* 'receive' (preterite 3PL *receveurn*, E178), *rompr* 'break' (irregular PST.PTCP *ront*, user 2026-10-18; preterite *rompoy*), *figr* 'put; (*figr a*) stop' (SBJV 2PL *fighað* /faˈjaθ/, with *gh* keeping the vocalic *g* before a vowel, E197), *yembr* (3SG *yem*, E194), *tondr* 'shear' (irregular PST.PTCP *tos*, E201), *partir* (preterite 3SG *parteu*, E206), *poðir* (future 3SG *porra*, E208), *rajogndr* 'meet up' (future 1PL *rajogndreu*, E203), *venir* (imperfect 1SG *vene*, E213; pattern for *denir*'s unconfirmed imperfect *dene*), *fragndr* 'shatter' (preterite 3SG *fragnoy*, E215), *attorrir* 'bake' (preterite 3SG *attorroy*, E217), *pascr* (preterite 1PL *paum*, E217), *mettr* (SBJV 2SG *met*, E219). These can be a second round for the Verb Tables appendix.

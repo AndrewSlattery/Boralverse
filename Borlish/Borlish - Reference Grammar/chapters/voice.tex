@@ -1,29 +1,117 @@
 % !TEX root = ../b-rg.tex
 \chapter{Voice and Valency}\label{ch:voice}
-\stub
 
-% --- Planned sections ---
-% \section{Transitivity}
-%   Transitive, intransitive and ambitransitive verbs; indirect objects
-%   (a + NP, oblique clitics); other oblique arguments.
-% \section{Impersonal verbs}
-%   Weather verbs and other subjectless predicates; dummy subjects?
-% \section{Reflexive and middle}
-%   Inherently reflexive verbs ('v rfl' in the lexicon); reciprocal use;
-%   impersonal se (se poð 'it may be').
-% \section{The passive}
-%   Past passives follow the aspect of the auxiliary (elicitation E13;
-%   corpus retconned 2026-10-12 via the Passive Review):
-%   fo + PST.PTCP = event, agent with par (Y pont fo costroit par y Roman);
-%   er + PST.PTCP = process in progress or habit (Y pont er costroit
-%   'was being built'; frugt er conservað 'fruit would be preserved');
-%   sta + PST.PTCP = resulting state, no agent; what makes up the state
-%   takes con (sta cercondað con soldart, sta adornað con flour; E43, E68).
-%   See planning/elicitation-notes.md (E13, Conflict 7) and E41-E43.
-% \section{Agentive participle constructions}
-%   Past participle + agentive pronoun (teyon rovað) as a passive-like
-%   construction; outside relative clauses too?
-% \section{Causatives and permissives}
-%   laiscar + infinitive; others?
-% \section{Experiencer constructions}
-%   Oblique experiencers with impersonal predicates.
+This chapter describes how Borlish verbs relate their participants to the grammatical functions of subject and object. It covers transitivity and the auxiliary choice that follows from it, verbs with an oblique experiencer, the reflexive and anticausative uses of \bl{se}, the passive in its several forms, and the causative and permissive constructions. The forms of the periphrases themselves are given in Chapter~\ref{ch:tam}, and the pronouns in Chapter~\ref{ch:pronouns}.
+
+\section{Transitivity}\label{sec:transitivity}
+A transitive verb takes a direct object, which follows a finite verb and precedes a non-finite one (Section~\ref{sec:tam-overview}). An indirect object, typically a recipient or addressee, is either an oblique clitic before the verb or a prepositional phrase with \bl{a} `to': \bl{Jo t'accatau l'oc} `I bought you this', \bl{Dig lour\ldots} `Tell them\ldots', \bl{y lettr m'accaçað} `the letter sent to me'. A beneficiary may also be expressed with \bl{por} `for' and a disjunctive pronoun: \bl{J'accatau l'oc por tey} `I bought this for you'.
+
+Transitivity is a matter of how a verb is used rather than a fixed property of the verb. Many transitive verbs can be used without an object, as \bl{pascr} `eat' is in \bl{Jo's ja paut} `I've already eaten'. A verb so used counts as intransitive, and takes \bl{star} rather than \bl{aïr} in the perfect. So does a verb whose complement is a prepositional infinitive, such as \bl{decidr de} `decide to' (Section~\ref{sec:perfect-star}).
+
+The reverse does not hold, however: a transitive verb cannot simply be used intransitively with its object as subject. `The door opened' must be \bl{Y port s'ovroy}, with the reflexive, and not \bl{*Y port ovroy} (Section~\ref{sec:anticausative}).
+
+\section{Experiencer constructions}\label{sec:experiencers}
+A number of verbs and expressions of need, fitness, liking and bodily state express the experiencer not as the subject but as an oblique, while the thing needed, liked or experienced is the subject or there is no subject at all.
+
+\subsection{\bl{stovir}, \bl{valir} and similar verbs}
+\bl{Stovir} `be needed, be wanted' takes the experiencer as an oblique clitic before the verb, or as an \bl{a}-phrase after its subject. Its subject, the thing needed, usually follows the verb and controls its agreement (Section~\ref{sec:subject-pronouns}). The subject may be a noun phrase, an infinitive phrase, or a noun phrase followed by an infinitive, as in `X needs doing'.
+    \glsen{Stou y fastig dy majon a my maðr emendar.}{stu i faˈstaj di maˈʒɔn a mi ˈma.ðr̩ ˌe.mɛnˈdar}{{be.needed} {\Def} roof {of.\Def} house to {\First\Sg.\Poss} mother {repair-\Inf}}{The roof of my mother's house needs repairing.}
+\bl{Stovir} suits needing and lacking better than preferring. For a simple preference, `want' is \bl{desirar}: \bl{Alcun hom desir l'ou derran} `Nobody wants the last egg' is more natural than \bl{Stou l'ou derran a alcun hom}.
+
+\bl{Valir} `be worth' with an oblique experiencer and an infinitive expresses what someone ought to do, and \bl{incombir} `behove' works the same way (\bl{T'incombisce te leyar tostessem} `You should have got up earlier'; Section~\ref{sec:tam-modality}).
+    \glsen{Te val requïr.}{te val re.kwajˈɪr}{{\Second\Sg.\Obl} {be.worth} {rest-\Inf}}{You ought to rest.}
+
+\subsection{\bl{plagr} `please'}
+Liking may be expressed either with the transitive verb \bl{amar} `love, like', with the liker as subject, or with \bl{plagr} `please', with the thing liked as subject and the liker as an oblique clitic or an \bl{a}-phrase. With \bl{plagr} the subject usually comes first and the verb agrees with it.
+    \glsen{Pom plagn a Ana, e coðogn a Tom.}{pɔm plajn a ˈa.na e koˈðɔjn a tɔm}{apple {please-\Third\Pl} to Ana and pear to Tom}{Ana likes apples, and Tom pears.}
+Compare \bl{Ana am pom, e Tom coðogn}, with \bl{amar}, and \bl{l'oç noc me plagnt} `the one I don't like', literally `the one not pleasing me'.
+
+\subsection{Seeming}
+Seeming has two constructions. Personal \bl{parir} `seem' takes the person or thing described as its subject, with an adjective or an infinitive, and reports a direct impression. Impersonal \bl{orruðar} `seem' takes an oblique experiencer, if any, and a subjunctive clause with or without \bl{ig}, and also covers inference and hearsay: \bl{Le parisce las} `He looked tired', but \bl{Orruða le fos las} `It seemed he was tired' (Section~\ref{sec:subjunctive}).
+
+\subsection{Bodily states}
+Bodily states such as cold and hunger are expressed with \bl{aïr} `have' and a noun or adjective: \bl{aïr freit} `be cold', \bl{aïr fam} `be hungry'. A few states also have a verb of their own, such as \bl{famir} `be hungry', which tends to mean `starve' or to sound like a child's complaint.
+    \glsen{J'ay freit, eð y joun famiscn.}{ʒe frit eθ i ʒun faˈmɪx.n̩}{{\First\Sg=have.\First\Sg} cold and {\Def} young {be.hungry-\Third\Pl}}{I'm cold, and the children are hungry.}
+
+\section{Constructions without a subject}\label{sec:impersonal}
+Borlish does not drop its subjects (Section~\ref{sec:subject-pronouns}), but some constructions have none to express.
+
+Weather, the time of day and other facts about the surroundings are expressed with \bl{cair} `fall' and a following subject, in the order verb--subject: \bl{cay ploy} `it's raining' (literally `rain falls'), \bl{cay tart} `it's late', \bl{Cay l'hour alcot?} `What time is it?' (literally `The hour falls how much?'). Originally used of rain and snow, the construction has spread to all kinds of weather, and from there to times, situations and other circumstances. The verb takes the tense required by the context, with the usual aspectual contrast. A bounded stretch of time takes the preterite. The imperfect sets the scene, from a point of view somewhere within the period: \bl{Caye ney\ldots} `It was snowing\ldots'.
+    \glsen{Cou ney toð y noit.}{ku ni tɔθ i nɔjt}{{fall.\Pst} snow all {\Def} night}{It snowed all night.}
+The existential verb \bl{sceir} `there be' works in the same way, with its subject after it (\bl{Scey cu?} `Who's there?').
+
+The reflexive \bl{se} serves as an impersonal subject `one, you' with a third person singular verb, especially with \bl{poðir} `can'.
+    \glsen{Se poð jamay savir cal pos avenir.}{se pɔθ ʒaˈme saˈvɪr kal pɔz ˌa.veˈnɪr}{{\Refl} can never {know-\Inf} what {can.\Sbjv} {happen-\Inf}}{You never know what might happen.}
+
+\section{The reflexive and the anticausative}\label{sec:reflexive-middle}
+
+\subsection{Reflexive and reciprocal}
+A reflexive verb has the reflexive clitic \bl{se}, or \bl{me} and \bl{te} in the first and second person singular, as its object (Section~\ref{sec:reflexive}). The reflexive marks the possessor of a body part, which itself takes the article (\bl{Le se rompoy y braç} `He broke his arm'), and it marks reciprocal action, reinforced by \bl{lou meðes} `each other'. Some verbs are inherently reflexive, such as \bl{se tenir} `stay' and \bl{s'entrovar} `wonder'. In compound tenses a reflexive verb takes \bl{aïr} when the reflexive is its direct object and \bl{star} when it is an indirect object (Section~\ref{sec:perfect-star}).
+
+\subsection{The anticausative}\label{sec:anticausative}
+The intransitive counterpart of a transitive verb of change, describing the change without any agent, is formed with the reflexive. The subject is the thing that undergoes the change.
+    \glsen{Y port s'ovroy toð soul.}{i pɔrt sɔˈvrɔj tɔθ sul}{{\Def} door {\Refl=open-\Pst} all alone}{The door opened by itself.}
+    \glsen{Y port se closisceu.}{i pɔrt se ˌklo.ziˈxau}{{\Def} door {\Refl} {close-\Pst}}{The door closed.}
+Another example is \bl{Y lamp se quïsceu} `The light went out'. The reflexive is required: verbs such as \bl{ovrir} `open' and \bl{closir} `close' are transitive, and there is no plain intransitive \bl{*y port closisceu}. `By itself' is \bl{toð soul} `all alone'.
+% CHECK: E215 (round 22) asks how the anticausative compares with denir +
+% participle for a change with no agent ('the vase broke when it fell').
+
+\section{The passive}\label{sec:passive}
+Borlish has no passive inflection. Its passives are periphrases of the past participle with an auxiliary, and they differ in which auxiliary is used and in what they say about the event.
+
+\subsection{Passives with \bl{star}}\label{sec:passive-star}
+The commonest passive combines a past participle with \bl{star} `be'. In the past, the three past forms of the auxiliary make the same aspectual distinctions as \bl{star} itself does as a copula (Section~\ref{sec:past-tenses}).
+\begin{itemize}
+    \item The preterite \bl{fo} with the participle forms an \textbf{event passive}, which reports a single completed event. Only this passive takes an agent, introduced by \bl{par} `by'. A dated event in the past always takes \bl{fo}: \bl{Y castel fo destroit par y Normant d'an 1066} `The castle was destroyed by the Normans in 1066'.
+    \item The copula \bl{er} with the participle forms a \textbf{progressive passive}, for a process under way at the time referred to (\bl{y majon er pegntað} `the house was being painted'), and for habits (\bl{frugt er conservað} `fruit would be preserved').
+    \item The imperfect \bl{sta} with the participle forms a \textbf{stative passive}, describing the state that resulted from an earlier event (\bl{y port sta zamicað} `the door was locked'). It takes no agent. What the state consists of is introduced with \bl{con} `with', not \bl{par}: \bl{Y palaç sta cercondað con soldart} `The palace was surrounded with soldiers', \bl{sta adornað con flour} `was decorated with flowers'.
+\end{itemize}
+    \glsen{Y pont fo costroit par y Roman.}{i pɔnt fo koˈstrɔjt par i roˈman}{{\Def} bridge {be.\Pst} {build.\Pst.\Ptcp} by {\Def} Roman}{The bridge was built by the Romans.}
+    \glsen{Cant nos venoim, y majon er pegntað eð y port sta ja zamicað.}{kant nɔz veˈnɔjm i maˈʒɔn ɛr pɪjnˈtaθ eθ i pɔrt sta ʒa ˌza.miˈkaθ}{when {\First\Pl} {come-\Pst.\First\Pl} {\Def} house {\Cop.\Ipfv} {paint-\Pst.\Ptcp} and {\Def} door {be.\Ipfv} already {lock-\Pst.\Ptcp}}{When we arrived, the house was being painted and the door was already locked.}
+    \glsen{Y palaç sta cercondað con soldart.}{i paˈlats sta ˌtsɛr.kɔnˈdaθ kɔn sɔlˈdart}{{\Def} palace {be.\Ipfv} {surround-\Pst.\Ptcp} with soldier}{The palace was surrounded by soldiers.}
+The progressive passive of a habit may take a \bl{par} phrase of means: \bl{frugt er conservað par mejan\ldots} `fruit would be preserved by means of\ldots'. Adverbs such as \bl{ja} `already' come between the auxiliary and the participle (\bl{sta ja zamicað}).
+
+The three-way distinction between \bl{fo}, \bl{er} and \bl{sta} is made only in the past, where it follows the distinction between the preterite and the imperfect. The present has a single passive, \bl{es} with the participle, which covers events, processes and states alike. It describes a present state, as in \bl{Y rostr a my creðon es coroccað} `The tip of my pencil has snapped', but it also takes an agent with \bl{par}: \bl{L'oc es tesmognað par y conjogntur parceut entr diminuçon de pouvlanç e liberalleyaçon} `This is evidenced by the correlation observed between population loss and liberalisation'. It is used impersonally with a following clause: \bl{Rumorað es ig l'oç prinç sey zamicað an masmorrat} `That prince is rumoured to be locked in a dungeon'. The perfect of a passive has the participle \bl{stað} before the main participle (\bl{fo stað mis a regest} `had been documented'; Section~\ref{sec:perfect-star}).
+% CHECK: the future passive (sera + PTCP, presumably also a single form) is
+% unattested. sera + PTCP of an intransitive is the future perfect (jo seray
+% dormið 'I must have slept', C17), parallel to fo + PTCP below.
+
+Because \bl{star} is also the perfect auxiliary of intransitive verbs, \bl{fo} + participle is the pluperfect of an intransitive verb but the event passive of a transitive one (\bl{Jo fo yent tost demay} `I had arrived too early', \bl{y pont fo costroit} `the bridge was built'). The two do not collide, since a verb used transitively forms its own perfect with \bl{aïr}.
+
+In literary style, after a fronted adverbial, the whole verb group of a passive may precede a heavy subject: \bl{Nell'ec ouvr a Carvallo forn introdoit plusour dy qualtað natural\ldots} `In these works of Carvallo were introduced several of the essential qualities\ldots'. The ordinary order would put the subject between the auxiliary and the participle, as after any fronted constituent (\bl{Posc pieç minut fo y sar remorcað des y mar torvant} `After a few minutes the net was pulled out of the troubled sea').
+
+\subsection{The passive of ditransitive verbs}
+With a verb such as \bl{dar} `give', the standard passive has the theme as its subject. The recipient keeps its \bl{a} and is usually placed first in the clause, with the inversion that a fronted constituent brings about.
+    \glsen{A mey fo l'oc annel dað par my granmaðr.}{a mi fo lɔk aˈnɛl daθ par mi granˈma.ðr̩}{to {\First\Sg.\Dsj} {be.\Pst} {\Def=\Prox.\Sg} ring {give.\Pst.\Ptcp} by {\First\Sg.\Poss} grandmother}{I was given this ring by my grandmother.}
+In informal speech, though not usually in writing, the recipient can instead be the subject. The \bl{a} then remains behind after the participle in its stranded form \bl{ig} `to it' (Section~\ref{sec:oblique-relatives}): \bl{Jo fo l'oc annel dað ig par my granmaðr}, \bl{Nos fom un cart dað ig all'entranç} `We were given a map at the entrance'.
+
+\subsection{Passives with \bl{denir} and \bl{se cavir}}\label{sec:passive-denir}
+Two further constructions describe a change of state with no agent in view. \bl{Denir} `become' with a past participle or adjective presents the change as something that simply happened to the subject. The reflexive of \bl{cavir} `get', \bl{se cavir}, with a past participle, implies that some quality of the subject, or something it did, contributed to the outcome, much like English \textit{get oneself arrested}.
+    \glsen{Le se cof detenuð, eð y parcel denoy repars.}{le se kɔf ˌde.teˈnɪθ ɛθ i parˈtsɛl deˈnɔj reˈparz}{{\Third\Sg.\M} {\Refl} {get.\Pst} {arrest.\Pst.\Ptcp} and {\Def} parcel {become-\Pst} lost}{He got himself arrested, and the parcel got lost.}
+The \bl{denir} passive contrasts with the event passive, which presents the change as brought about by someone, whether or not they are named.
+    \glsen{Y fenestr denoy ront durant y torvegl, ma y port fo ront pall'eç scuir.}{i feˈnɛs.tr̩ deˈnɔj rɔnt dɪˈrant i tɔrˈvɛjl ma i pɔrt fo rɔnt paˈlɛts xajr}{{\Def} window {become-\Pst} {break.\Pst.\Ptcp} during {\Def} storm but {\Def} door {be.\Pst} {break.\Pst.\Ptcp} {by.\Def=\Dist.\Pl} boy}{The window got broken in the storm, but the door was broken by the boys.}
+Unlike the \bl{denir} passive, \bl{se cavir} may take an agent with \bl{par} or \bl{de}: \bl{L'accommission se cof interront par y sounç d'enmigtað} `The project was interrupted by the outbreak of hostilities', \bl{J'ay me caut orbeutað d'un coroncr ovart} `I've been swindled by a blatant impostor'. Since \bl{se} is its direct object, \bl{se cavir} forms its perfect with \bl{aïr}: \bl{Y majon a se caut vençað} `The house has been sold'. It is also the usual way of describing a haircut: \bl{Jo me cof tos} `I got my hair cut' (literally `I got myself shorn').
+
+\subsection{The agentive participle}
+The past participle with an agentive pronoun (\bl{meyon rovað} `asked by me') forms the participial relative clauses on objects (Section~\ref{sec:object-relatives}), and through them the free relatives and clefts (\bl{L'oç meyon recas es un cogmað lonc} `What I need is a long holiday'; Section~\ref{sec:free-relatives}).
+% CHECK: is the agentive participle used outside relative clauses, e.g. as an
+% absolute or predicative construction ('the letter (was) written by me')?
+
+\section{Causatives and permissives}\label{sec:causatives}
+
+\subsection{Causative \bl{fair}}
+The usual causative is \bl{fair} `make, do' with an infinitive. The causee, the person or thing made to act, is an indirect object of \bl{fair}, whether the infinitive is transitive or intransitive. As a pronoun it takes its oblique form and stands before \bl{fair} (\bl{lour fey}). As a noun phrase it takes \bl{a} and stands either before or after the infinitive phrase. The infinitive's own object comes before the infinitive, as any object does before a non-finite verb, and its object pronoun stays on the infinitive (\bl{L'instroyour lour fey lou landar} `The teacher made them wash them'; Section~\ref{sec:causative-pronouns}).
+    \glsen{Y capitan lour fey attendr a starn.}{i ˌka.piˈtan lur fi aˈtɛn.dr̩ a starn}{{\Def} captain {\Third\Pl.\Obl} {make.\Pst} {wait-\Inf} at outside}{The captain made them wait outside.}
+    \glsen{L'instroyour fey all'eç ivan y man se landar.}{ˌlɪn.strɔˈjur fi aˈlɛts iˈvan i man se lanˈdar}{{\Def=teacher} {make.\Pst} {to.\Def=\Dist.\Pl} child {\Def} hand {\Refl} {wash-\Inf}}{The teacher made the children wash their hands.}
+The same holds when the causee is not a person: \bl{Jem fey reuvr ag papir} `Jem turned the paper over' (literally `made return to the paper'), \bl{fair battr ag cour} `get one's heart racing, thrill' (literally `make beat to the heart'). Several common verbs are causatives of this kind, such as \bl{fair pascr} `feed' (\bl{Tu a fait pascr ag cat ou?} `Have you fed the cat?').
+
+When the causee is left unexpressed, the construction means `have something done': \bl{Jo fey my cavel coupar} `I had my hair cut', which reads as `I made [someone] cut my hair'.
+% CHECK: E211 (round 22) asks about a causee pronoun together with an object
+% pronoun, and about an agent with par ('had it painted by a friend').
+
+\bl{Fair} also forms a causative with a subjunctive clause, without \bl{ig}, in which the causee is the subject of the clause: \bl{Y jonglour fey l'oç bal yemois reunt} `The magician made the ball reappear' (Section~\ref{sec:subjunctive}).
+
+\subsection{Permissives}
+`Let, allow' is \bl{parmettr} `permit' with \bl{de} and an infinitive. The person permitted is the indirect object of \bl{parmettr} itself, and the infinitive's object stands between \bl{de} and the infinitive.
+    \glsen{La nos parmis de sy car emprontar.}{la nɔz parˈmɪz de si kar ˌɛm.prɔnˈtar}{{\Third\Sg.\F} {\First\Pl} {permit.\Pst} of {\Third\Sg.\Poss} car {borrow-\Inf}}{She let us borrow her car.}
+\bl{Laiscar} `leave' is not attested as a permissive. `Let me \ldots!', offering to do something, is expressed either with \bl{ig} and the subjunctive, \bl{Ig jo t'aïð!} `Let me help you!', or with the imperative of \bl{parmettr}, \bl{Parmet mey de t'aïðar!}, or with \bl{vel jo} and the infinitive (Section~\ref{sec:commands}).

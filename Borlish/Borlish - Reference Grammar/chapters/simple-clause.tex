@@ -1,25 +1,106 @@
 % !TEX root = ../b-rg.tex
 \chapter{The Simple Clause}\label{ch:simple-clause}
-\stub
 
-% --- Planned sections ---
-% \section{Basic constituent order}
-%   SVO in finite clauses; objects precede infinitives
-%   (poðent [obj] [inf], de [obj] [inf]) and often participles; order of
-%   direct and indirect objects and other arguments.
-% \section{Subject-verb agreement}
-%   Agreement as the main carrier of number (l'ec scuir pascn).
-% \section{Null subjects}
-%   Are subject pronouns optional? (Scaunç shows both.)
-% \section{Clitics}
-%   All the clitics in one place (Lingua questionnaire 2.1.8): object and
-%   reflexive pronouns, n', elided articles; where they attach, their
-%   relative order, and combinations that are not allowed.
-% \section{Adverbials and negation}
-%   noc after the finite verb; adverbs after noc; positions of adverbial
-%   phrases and clauses.
-% \section{Inversion}
-%   Verb before subject in wh-questions (cascif parmist vos ...), after
-%   se poð, with fronted objects -- a verb-second tendency?
-% \section{Nonverbal and copular predicates}
-%   Cross-reference Copulas, Auxiliaries and Modal Verbs.
+This chapter describes the declarative main clause: the order of its constituents, subject--verb agreement, the clitics, the position of adverbs, and the verb-second rule that inverts the subject and the finite verb after a fronted constituent. Questions and commands are treated in Chapter~\ref{ch:sentence-types}, negation in Chapter~\ref{ch:negation}, and subordinate clauses in Chapter~\ref{ch:complex-sentences}.
+
+\section{Basic constituent order}\label{sec:basic-order}
+With a finite lexical verb, the order of a main clause is subject--verb--object. Prepositional phrases and most adverbs follow the object.
+    \glsen{J'accatau l'oc por tey.}{ˌʒa.kaˈto lɔk pɔr ti}{{\First\Sg=buy-\Pst} {\Def=\Prox.\Sg} for {\Second\Sg.\Dsj}}{I bought this for you.}
+In a verb phrase headed by a non-finite verb, an infinitive or a participle, the order is reversed: a noun-phrase object always stands before the verb. This holds whether the non-finite verb follows a modal or an auxiliary, or a preposition such as \bl{lon} `without' or \bl{posc} `after' (\bl{lon un parol digr} `without saying a word', \bl{posc l'oc capparol finir} `after finishing this chapter'). So the finite clause is verb--object, but the non-finite verb phrase is object--verb.
+    \glsen{Jo desir l'oç livr leir.}{ʒo deˈzɪr lɔts livr̩ lir}{{\First\Sg} want {\Def=\Dist.\Sg} book {read-\Inf}}{I want to read that book.}
+    \glsen{L'administraçon a ombisc soluð.}{ˌlad.mi.nɪs.traˈtsɔn a ɔmˈbɪx soˈlɪθ}{{\Def=government} have resignation {release.\Pst.\Ptcp}}{The government has resigned.}
+A complement that is itself a verb phrase, by contrast, follows the non-finite verb that governs it. In \bl{Jo desir poðir vastel pascr} `I want to be able to eat cake', the complement \bl{vastel pascr} `eat cake' (itself object--verb) follows the infinitive \bl{poðir}; in \bl{Jo vil aïr toð y fougl recas scaut pre Reveglon} `I will have all the required pages written before Revillon', the object \bl{toð y fougl recas} precedes the infinitive \bl{aïr} and the participle \bl{scaut} follows it. The non-finite verb phrase is thus head-final for noun-phrase objects and head-initial for verbal complements.
+
+A clitic pronoun stands immediately before the verb it belongs to (Section~\ref{sec:clitics}). In a non-finite verb phrase it therefore comes between a noun-phrase object and the verb: \bl{Jo vil un astuç te dar} `I'll give you a hint', \bl{vos pouð y tarn me loitar} `you can rent out the pub to me'.
+
+\subsection{Two objects}
+With a finite verb, the direct object usually comes first and the indirect object, marked with \bl{a}, follows it. A long direct object may follow the indirect object instead, as in \bl{oc dau a sy vassal y possendessem un rout vars autortað e risceç\ldots} `it gave his most powerful vassals an avenue to power and riches\ldots'.
+    \glsen{Jarry accis dan aer cordial ag salon.}{ʒaˈri aˈksɪz dan aˈɛr kɔrˈdjal ɛj saˈlɔn}{pottery {light.up.\Pst.\Ptcp} {give-\Ipfv.\Third\Pl} air welcoming {to.\Def} parlour}{Pottery lamps gave the parlour a welcoming feel.}
+With a non-finite verb, the direct object precedes the verb and the indirect object follows it, like other prepositional phrases: \bl{Y joun rey vil jamay souscrit dar all'oc concort abhorrent} `The young king will never give his signature to this despicable treaty', \bl{pre lou mostrar ag concegl} `before you show them to the council'. A pronoun indirect object is a clitic and precedes the verb (\bl{Jo luy dau un cromn} `I gave him some cash'), as does the causee of \bl{fair} (Section~\ref{sec:causative-pronouns}).
+
+\section{Subject--verb agreement}\label{sec:agreement}
+The finite verb agrees with its subject in person and number. Since nouns do not inflect for number (Chapter~\ref{ch:nouns}), the verb is often the only sign that a subject is plural: \bl{y stuðant teyen veint un} `there were twenty-one students' (literally `the student numbered twenty-one', with a plural verb).
+    \glsen{Y gent n'Ausçagm smoutaurn desig l'occijon.}{i ʒɛnt noˈsɛjm smuˈto.rn̩ deˈzaj ˌlɔk.siˈʒɔn}{{\Def} people {in=Ausçagm} {riot-\Pst.\Third\Pl} {because.of} {\Def=killing}}{The Ausçagm public rioted because of the murder.}
+A collective noun takes a singular verb, as in \bl{L'administraçon a ombisc soluð} above. The individuals can be brought out by adding distributive \bl{a cascun} `each', which leaves the agreement unchanged: \bl{L'administraçon a ombisc soluð a cascun}.
+
+Several quantified subjects take a plural verb: \bl{toð gent} `everyone', \bl{cascun de} `each of' with a plural noun phrase (Section~\ref{sec:indefinite-pronouns}), and \bl{necun de} `neither of, none of'.
+    \glsen{Toð gent ern ricottant, y rey meðes.}{tɔθ ʒɛnt ɛrn ˌri.kɔˈtant i ri meˈðɛz}{all people {\Cop.\Ipfv-\Third\Pl} {laugh-\Prs.\Ptcp} {\Def} king even}{Everyone was laughing, even the king.}
+    \glsen{Necun de lou son prest.}{neˈkɪn de lu sɔn prɛst}{neither of {\Third\Pl.\Dsj} {be.\Third\Pl} ready}{Neither of them is ready.}
+Coordinated subjects take a plural verb (\bl{Marc e Halina venoirn} `Marc and Halina came'). A subject that follows its verb controls agreement in the same way, as with \bl{stovir} `be needed' (\bl{Nos stoun balis sobottal luicessem} `We need stronger radio transmitters') and \bl{plagr} `please' (\bl{Pom plagn a Ana} `Ana likes apples', literally `apples please Ana'; Section~\ref{sec:experiencers}).
+
+\section{The subject}\label{sec:clause-subject}
+A finite verb always has an expressed subject, even where its ending would identify the person (Section~\ref{sec:subject-pronouns}). The exceptions are commands, the optional expletive `it' (\bl{Parcanç sera ottem vos ignoreð\ldots} `Perhaps it is better you not know\ldots'), and the constructions with no subject at all: weather and time expressions with \bl{cair}, in which the noun after the verb is itself the subject, existential \bl{sceir}, and impersonal \bl{se} (Section~\ref{sec:impersonal}). A subject shared by coordinated verbs is expressed once (Section~\ref{sec:coordination}).
+
+Some verbs regularly take their subject after them: \bl{stovir}, \bl{valir}, \bl{plagr} and other verbs with an oblique experiencer (Section~\ref{sec:experiencers}), and \bl{cair} `fall, happen' with its following subject (\bl{Cou ney toð y noit} `It snowed all night'). These subjects are part of the verb's own construction and are not affected by the verb-second rule below.
+
+\section{Clitics}\label{sec:clitics}
+Borlish has the following clitics, all of which lean on the following word:
+\begin{itemize}
+    \item the subject pronouns \bl{jo}, \bl{le}, \bl{la}, \bl{lo}, which elide before a vowel (\bl{j'}, \bl{l'}) and contract with the copula (\bl{jo's}, \bl{la'r}; Section~\ref{sec:subject-pronouns});
+    \item the accusative and oblique pronouns, the reflexive \bl{se} (Section~\ref{sec:object-pronouns}), and \bl{oc} `it, so' as a pro-form for a clause or verb phrase (\bl{j'oc fay} `I do so', \bl{Jo dout ou le oc saif} `I doubt that he knows');
+    \item the negator \bl{no}, elided to \bl{n'} (Section~\ref{sec:neg-no});
+    \item the definite article \bl{y} and its contractions with prepositions and possessives (\bl{ag}, \bl{ny}, \bl{dy}, \bl{all'}, \bl{mell'}; Section~\ref{sec:art-contraction}).
+\end{itemize}
+Before a finite verb, they come in a fixed order:
+\begin{center}\small
+\begin{tabular}{l l l l l}
+    subject & \bl{no} & 1st/2nd person & \bl{se} -- accusative -- oblique & finite verb
+\end{tabular}
+\end{center}
+Thus \bl{Jo te lo dis} `I told you so', \bl{ðe no lo son} `they are not (so)', \bl{la no l'aye} `she did not (have it)'. Non-finite verbs take their own clitics, which do not climb to the auxiliary or modal (\bl{Jo no poð lou affaçar} `I can't confront them', \bl{la n'a lo dit} `she hasn't said it'). Only the causee of \bl{fair} attaches to the finite verb (Section~\ref{sec:causative-pronouns}). In commands, the pronouns follow the verb instead (Section~\ref{sec:imperative-pronouns}).
+
+Two words that might be expected among the clitics are not clitics: \bl{ig} `there, to it', which follows the finite verb (Section~\ref{sec:adverb-position}), and the negator \bl{noc}, which is an ordinary adverb (Section~\ref{sec:neg-noc}).
+
+\section{The position of adverbs}\label{sec:adverb-position}
+Adverbs of manner follow the verb and its object. A common adjective can serve as the adverb on its own, especially with intransitive verbs; otherwise the adverb is formed with \bl{cos} (Chapter~\ref{ch:adverbs}).
+    \glsen{La cant bel.}{la kant bɛl}{{\Third\Sg.\F} sing beautiful}{She sings beautifully.}
+Adverbs and adverbials of time, frequency and place usually come at the end of the clause, or at its beginning, where they trigger inversion (Section~\ref{sec:v2}).
+    \glsen{Ðe nos visitn ec Sol cos frequent.}{ðe nɔz viˈzɪt.n̩ ɛk sɔl kɔz freˈkwɛnt}{{\Third\Pl} {\First\Pl} {visit-\Third\Pl} {\Prox.\Pl} Sunday {\Adv} frequent}{They often visit us on Sundays.}
+\bl{Mout} `often' after the verb is read as `many times (on each occasion)': \bl{Ðe nos visitn mout ec Sol} `On Sundays they visit us many times'. For the usual sense, it is fronted (\bl{Mout nos visitn ðe ec Sol}).
+
+A few short adverbs stand between an auxiliary and its participle, among them \bl{ja} `already, yet', \bl{jamay} `never' and \bl{nuvr} `recently' (\bl{Le no's ja ac yent} `He hasn't arrived yet', \bl{J'er nuvr sortið} `I'd just left'). \bl{Ja} can only stand there. Its synonym \bl{deja} can stand there too, but is preferred at the end, which is the most natural position in speech.
+    \glsen{Tu's paut deja? Ja, jo's paut deja.}{tiz pot deˈʒa ʒa ʒoz pot deˈʒa}{{\Second\Sg=be} {eat.\Pst.\Ptcp} already yes {\First\Sg=be} {eat.\Pst.\Ptcp} already}{Have you eaten already? --- Yes, I've eaten already.}
+The adverb \bl{ig} `there, to it' follows the finite verb directly, and follows an inverted subject as well (\bl{Oy vay jo ig} `Now I'm going there').
+    \glsen{Ja, jo vay ig par oy.}{ʒa ʒo ve aj par ɔj}{yes {\First\Sg} {go.\First\Sg} there for now}{Yes, I'm going there right now.}
+The focusing adverbs \bl{for} `only' and \bl{meðes} `even' are placed next to the constituent they focus, \bl{for} before it and \bl{meðes} after it (\bl{Jo convoccau for Sarah} `I only invited Sarah', \bl{y rey meðes} `even the king'; Chapter~\ref{ch:information-structure}). The position of \bl{noc} is described in Section~\ref{sec:neg-noc}.
+
+\section{Verb-second order}\label{sec:v2}
+In a main clause the finite verb is the second constituent. When the clause begins with its subject, this gives the ordinary subject--verb order. When something else comes first, such as an adverb, an adverbial phrase or a focused constituent, the subject moves after the finite verb. Pronoun subjects invert as well as noun subjects.
+    \glsen{Yer accatau Marc un novel ketr a tag.}{jɛr ˌa.kaˈto mark ɪn noˈvɛl ˈkɛt.r̩ a tɛj}{yesterday {buy-\Pst} Marc {\Indf} new kettle to tea}{Yesterday Marc bought a new teapot.}
+    \glsen{Lor luïsceum nos caugtrbal jos y loub.}{lɔr ˌlaj.iˈxawm nɔz ˌkoj.tr̩ˈbal ʒɔjz i lub}{then {play-\Pst.\First\Pl} {\First\Pl} football by {\Def} mall}{Then we played football near the shops.}
+    \glsen{Lor rou y diac ouð y ley vel y taus terren allocquar.}{lɔr ru i djak uθ i li vɛl i toz tɛˈrɛn ˌa.lɔˈkwar}{then ask {\Def} journo whether {\Def} law {will.\Sbjv} {\Def} rate land {address-\Inf}}{The journo then asks if the law will affect land tax.}
+Only the finite verb moves. With an auxiliary or modal, the subject follows the auxiliary and the rest of the verb phrase keeps its place, with the non-finite verb at the end. Preverbal \bl{no} and any clitics stay with the finite verb, so the subject follows the whole group.
+    \glsen{Primer voum nos pascr, soulor nos voum descorrir.}{priˈmɛr vum nɔz ˈpax.r̩ suˈlɔr nɔz vum ˌde.xɔˈrɪr}{first {will.\First\Pl} {\First\Pl} {eat-\Inf} then {\First\Pl} {will.\First\Pl} {discuss-\Inf}}{First we'll eat, then we'll talk.}
+    \glsen{Jamay n'ayen ðe un bourg uvrauterrem vis.}{ʒaˈme nɛˈjɛn ðe ɪn burg ˌi.vroˈtɛrm̩ vɪz}{never {\Neg=have-\Ipfv-\Third\Pl} {\Third\Pl} {\Indf} town {bucolic-\Cmpr} {see.\Pst.\Ptcp}}{They had never seen such an idyllic town.}
+    \glsen{Nuvr ay jo un oblimanç aut vars possenç illimitabr.}{ˈni.vr̩ e ʒo ɪn ˌo.bliˈmants ot varz poˈsɛnts iˌli.miˈta.br̩}{recently {have.\First\Sg} {\First\Sg} {\Indf} desire {have.\Pst.\Ptcp} towards might unlimited}{Lately I have had a craving for unlimited power.}
+An expletive subject inverts in the same way: \bl{Parcanç es lo temerer, y decadenç a trevogt blasmar unic ag morostað n'Europ posc y var} `It is perhaps foolhardy to attribute the decline of Voidtale trevolds solely to the gloom of post-war Europe'. So does the subject after a constituent restricted by \bl{for} `only' (\bl{For ec Sol pascm nos carn} `Only on Sundays do we eat meat'), after fronted \bl{mout} `often', and after a fronted \bl{oc} in a contradiction (\bl{Vis oc fey jo!} `Yes, I did!'). Questions with a question word invert for the same reason (Section~\ref{sec:content-questions}). Polar questions keep the subject first and add \bl{ou} (Section~\ref{sec:polar-questions}).
+% CHECK: integrated time phrases built on a clause invert too: Posc cay
+% prinvir porreu nos alcheðr 'Next spring we can start over' (pronouns.tex),
+% and the literary C389 Y moment apen ig David aðeleu y Taleð Dorogner,
+% malgrað, ignitaurn y tijon usual… 'Almost as soon as David declared the
+% Tallath of Devon, however, did the usual tensions ignite'. Is that the rule
+% for any phrase headed by a noun or preposition, against clauses with a
+% subordinator (cant, ða), which never invert?
+
+\subsection{Initial elements outside the clause}
+Several kinds of initial element do not count for the verb-second rule, and leave the subject before the verb.
+
+An adverb set off from the clause by a pause stands outside it: beside \bl{Yer accatau Marc\ldots} there is \bl{Yer, Marc accatau un novel ketr a tag}. A fronted adverbial clause behaves in the same way, whether it is finite or not: \bl{Cant nos venoim, y majon er pegntað\ldots} `When we arrived, the house was being painted\ldots', \bl{Ða cay ploy je posc, nos voum remanir cas nos} `If it rains tomorrow, we'll stay at home', \bl{Pre decidr, vos pouð y tarn me loitar} `Before you decide, you can rent out the pub to me'.
+
+A topic placed before the clause and taken up again by a clitic pronoun (left dislocation) is likewise outside it.
+    \glsen{L'oç lasc, jo n'ay jamay lo vis.}{lɔts lax ʒo ne ʒaˈme lo vɪz}{{\Def=\Dist.\Sg} film {\First\Sg} {\Neg=have.\First\Sg} never {\Third\Sg.\N.\Acc} {see.\Pst.\Ptcp}}{That film, I've never seen it.}
+Conjunctions do not count either: \bl{e} `and', \bl{ma} `but', \bl{ben} `or', and the conjunction \bl{soulor} `then, next'. \bl{Soulor} contrasts here with the adverb \bl{lor} `then', which does trigger inversion (\bl{Lor luïsceum nos\ldots}, above). After \bl{soulor}, a fronted adverb inverts the subject as usual (\bl{e soulor tandem venoy y vec} `and then finally the bus came'). In literary or narrative style the subject may also be placed after an intransitive verb with nothing fronted at all (\bl{e soulor venoy tandem y vec}).
+    \glsen{Nos attenoim un hour, e soulor y vec venoy tandem.}{nɔz ˌa.teˈnɔjm ɪn ur e suˈlɔr i vɛk veˈnɔj tanˈdɛm}{{\First\Pl} {wait-\Pst.\First\Pl} {\Indf} hour and then {\Def} bus {come-\Pst} {at.last}}{We waited an hour, and then the bus finally came.}
+Clause-initial \bl{soul} `alone' restricts the predicate and also stands outside the clause: \bl{Soul jo desira aïðar} `I only wanted to help (and did nothing else)', against \bl{Jo desira for aïðar} `I only wanted to help (and nothing else)'.
+
+\subsection{Subordinate clauses}
+Subordinate clauses are not verb-second. Their subject precedes the verb, whatever comes first (\bl{cant nos venoim} `when we arrived', \bl{ða cay ploy} `if it rains', with the subject \bl{ploy} after \bl{cair} as usual).
+% CHECK: Jo no poð lou affaçar pre vienn y flottisc 'I can't confront them
+% until reinforcements arrive' (S12672) has verb–subject order after pre. Is
+% this the literary postposed subject of an intransitive verb (as in soulor
+% venoy tandem y vec), or something about pre?
+
+\section{Nonverbal predicates}\label{sec:nonverbal-predicates}
+A predicate noun, adjective or locative phrase follows its copular verb, which agrees with the subject in the usual way. Besides \bl{star} `be' and the copula \bl{er} (Chapter~\ref{ch:copulas}), several verbs take predicates: \bl{remanir} `remain' (\bl{y varous remanen yert} `the shops were still open'), \bl{surcair} `turn out, end up' (\bl{Nossy tourm surcou y dovem} `Our team came second'), \bl{denir} `become', and \bl{parir} and \bl{orruðar} `seem' (Section~\ref{sec:experiencers}).
+    \glsen{Nossy cat es authican fin a quelt.}{nɔˈsi kat ɛz ˌo.θiˈkan fɪn a kwɛlt}{{\First\Pl.\Poss} cat be self.sufficient end at dinner}{Our cat is standoffish until dinnertime.}
+Clefts and pseudoclefts are identificational copular clauses, with the focus as subject and a participial clause headed by \bl{l'un} `the one' or \bl{l'oç} `that one' as predicate (\bl{Jovanna sta l'un ayent y fenestr fragnt} `It was Jovanna who broke the window'; Chapter~\ref{ch:information-structure}).
