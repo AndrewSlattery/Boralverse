@@ -19029,9 +19029,9 @@ claims:
 - entry: 118.5
   title: Hasiny
   category: person
-  claim: Bayac Coswteg (fl. 19th c.) was a diarist and political agitator from Hasiny.
+  claim: Bayac Cosoteg (fl. 19th c.) was a diarist and political agitator from Hasiny.
   entities:
-  - name: Bayac Coswteg
+  - name: Bayac Cosoteg
     type: person
   dates: fl. 19th c. N
 - entry: 118.5
