@@ -51,6 +51,6 @@ The 2010 Œcumen Count, a regular census, recorded that Utter Safford was the se
 - Anna and Ralph Highwater (fl. 1930), cowriters of the series of books 'Games for Sorties and Excourses'
 - Challow Huddresfell (fl. 1956), historian who wrote 'Daughters of the Sea: The Northwestern Isles'
 - Jason Ridley (fl. 1967), who with others wrote the quire 'A Handbook of Natural Theory'
-- Dr Harold Westcamp (fl. 1997), who wrote the series of textbooks 'Albick Medicine in the Workshop Decades'
+- Dr Harold Westcamp (fl. 1997), who wrote the series of textbooks 'Albic Medicine in the Workshop Decades'
 ## Others
 - Sarzan Dawkinholm (fl. c19), long-serving and much-lambasted Outland Minister

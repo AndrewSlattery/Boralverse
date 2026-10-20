@@ -24803,7 +24803,7 @@ claims:
 - entry: 185.5
   title: England
   category: language
-  claim: 'There are four English languages spoken on Albion: Northumber, Wessern, Kentish, and Merch, in order of number of
+  claim: 'There are four English languages spoken on Albion: Northumber, Wessern, Kentish, and Merch, in ascending order of number of
     speakers; the name England in most languages derives from Medieval Latin Anglonia, from Angli meaning ''Angles''.'
   entities:
   - name: England

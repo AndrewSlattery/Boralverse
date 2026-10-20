@@ -23,4 +23,4 @@ The [[Drengot Collusion]] arose among the French polities of this period. The co
 Many items of vocabulary were innovated in the Workshop period, including *recoil* "manufacture", *underwrit* "logo", *counterzoic* "anti-microbial" and *retainer* "IUD".
 
 ## References
-- *Albick Medicine in the Workshop Decades*, a series of volumes by Dr Harold Westcamp published by the Conster Health Edifice, funded by the [[Markland]] Ministry for Health.
+- *Albic Medicine in the Workshop Decades*, a series of volumes by Dr Harold Westcamp published by the Conster Health Edifice, funded by the [[Markland]] Ministry for Health.

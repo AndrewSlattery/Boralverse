@@ -307,7 +307,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 60.3	dictionary	reu "stream"	reu	stream	True	4	159	909	dictionary/60.3_reu_stream.md
 60.4	dictionary	nis "effort"	nis	effort	True	5	142	924	dictionary/60.4_nis_effort.md
 60.5	notes	Santrafew			False	0	393	2531	notes/60.5_Santrafew.md
-61.1	excerpt	Viking Raids			False	0	262	1612	excerpt/61.1_Viking_Raids.md
+61.1	excerpt	Viking Raids			False	0	262	1611	excerpt/61.1_Viking_Raids.md
 61.2	dictionary	grivlar "sift"	grivlar	sift	True	4	112	717	dictionary/61.2_grivlar_sift.md
 61.3	dictionary	glonscel "tangle"	glonscel	tangle	True	2	94	603	dictionary/61.3_glonscel_tangle.md
 61.4	dictionary	avant sy rau "shamelessly"	avant sy rau	shamelessly	True	2	226	1484	dictionary/61.4_avant_sy_rau_shamelessly.md
@@ -950,7 +950,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 185.2	dictionary	pestriçon "formation"	pestriçon	formation	True	2	123	871	dictionary/185.2_pestriçon_formation.md
 185.3	dictionary	a cascun "respectively"	a cascun	respectively	True	4	162	990	dictionary/185.3_a_cascun_respectively.md
 185.4	dictionary	bastegl "bulwark"	bastegl	bulwark	True	4	139	986	dictionary/185.4_bastegl_bulwark.md
-185.5	notes	England			False	0	405	2667	notes/185.5_England.md
+185.5	notes	England			False	0	406	2677	notes/185.5_England.md
 186.1	excerpt	Global Workshop			False	0	245	1551	excerpt/186.1_Global_Workshop.md
 186.2	dictionary	excellent "conspicuous"	excellent	conspicuous	True	3	115	798	dictionary/186.2_excellent_conspicuous.md
 186.3	dictionary	progentar "beget"	progentar	beget	True	3	112	789	dictionary/186.3_progentar_beget.md

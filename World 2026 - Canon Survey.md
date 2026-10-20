@@ -155,7 +155,7 @@ Northwestern Isles [Ireland, GB, Borland]", so Ireland is inside the modern cult
 
 #### Absorbed / historical on Albion
 **Wessex** (subdued by Kent by c. 1000), **Anglia** (annexed by Markland, Treaty of Oxford, late C8),
-**Essex**, **Alba**, **Powes**, **Mondwell** [Anglesey], **Markish Lincon**, **Chester** (last Duke killed 1483).
+**Essex**, **Alba**, **Powes**, **Mondwell** [Anglesey], **Merch Lincon**, **Chester** (last Duke killed 1483).
 (**Wynneth** was formerly listed here; it is a living subregion of Wales — see Britain above.)
 
 ---

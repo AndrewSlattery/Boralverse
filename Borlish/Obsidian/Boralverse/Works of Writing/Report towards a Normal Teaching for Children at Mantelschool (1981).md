@@ -18,7 +18,7 @@ The 1981 Report towards a Normal Teaching for Children at Mantelschool (released
 > …have at least a mozate understanding of the development from prehistory until the time of the [[Second Tetrarchy]], although individual schools are encouraged to include more recent material as it relates to vicine matters. This may include the traditions of the local village or quarter, or else notable events (battles, discoveries, etc) which occurred nearby.
 > 
 > Taken in order, pupils should have the opportunity to learn about:
-> - waves of migration into Borland up to and including the Albick Kelts 
+> - waves of migration into Borland up to and including the Albic Kelts 
 > - - early farming and the stoneware found in the Revel mounds (compared to the better-preserved Orkney site at Scarreth)
 > - - travel, transport and technology, including the trade necessary for bronze, the later introduction of iron, and the construction of the Çadrosc labyrinth
 > - - the intertribal system of hill forts in the pre-Classical period and the culture around authority, with reference to extant art, sculpture and jewellery

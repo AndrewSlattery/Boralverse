@@ -7034,7 +7034,7 @@ excerpted from sensation trevold [novel] Children of the Battle of Rexam (releas
 
 …with the young prince; though he was not particularly martial-minded, Andrew's uncompromising tactical mind and cavalier disregard for simple diplomacy meant I would likely languish as a prisoner at Safford Castle indefinitely, or until he could put me to some better use.
 
-No matter; the room was warm despite the January gloom outside, a merrily-crackling fire under a long tapestry depicting—I assumed—another Mercian victory, though it was anyone's guess against whom. On the other wall, the clarity of the panes suggested they were a recent addition to this old wing, possibly commissioned from the Bavarn masters. Elsewhere I had noticed many windows still held the jackdaw glass of the previous century, in a sickly green that could not quite be offset with torchlight.
+No matter; the room was warm despite the January gloom outside, a merrily-crackling fire under a long tapestry depicting—I assumed—another Merch victory, though it was anyone's guess against whom. On the other wall, the clarity of the panes suggested they were a recent addition to this old wing, possibly commissioned from the Bavarn masters. Elsewhere I had noticed many windows still held the jackdaw glass of the previous century, in a sickly green that could not quite be offset with torchlight.
 
 At least I had little of which to complain in the view. We were south of the town proper, and past the many outbuildings stretched unmolested woodland, beyond which…
 
@@ -14264,7 +14264,7 @@ Nentamen, y reyaum anglesc aun s'apprestað a l'ec gazou (e cos final ec irrouç
 Nonetheless, the English kingdoms were prepared for these raids (and eventually, invasions) to vastly different degrees.
 
 Compareð y lot de Lincon marchesc con ig de Yorvic norðumbran: y primer cou jamay, e certan denoy y bourg starchið cos impilaðessem ne Marclont tras y dezein plusour candon l'aye veraçter benoç com y tarm de regn dannesc.
-Compare the fates of Merch Lincon to Northumbren Yorwick: the former never fell, and in fact became the most heavily-fortified town in Markland for the several decades it served as the de facto border of Danish rule.
+Compare the fates of Merch Lincon to Northumber Yorwick: the former never fell, and in fact became the most heavily-fortified town in Markland for the several decades it served as the de facto border of Danish rule.
 
 ##
 
@@ -26944,7 +26944,7 @@ England (Merch /ˈɛn.glənd/, Norman Engleterre /ˈɛ̃ng.tɛʀ/, Welsh Łoegr 
 
 The majority of languages not listed above refer to this region by some borrowing or adaptation of Medieval Latin Anglōnia "England". This was formed by analogy to e.g. Saxōnia "Saxony" from the root Anglī "Angles", one of the German peoples who populated the region in the sub-Roman and early medieval period. The exceptional Welsh and Borlish toponyms are presumably cognate (see Old Borlish variant form Laȝr "Englishman"), reflecting a hypothesised Classical Kelt word laecor "warriors".
 
-There are (according to mainstream analysis) four English languages spoken on Albion; in order of number of speakers these are Northumber, Wessern, Kentish and Merch. The polity of Northumber extends from the Humber to Edinbrough along the eastern side of Albion, but its local tongue, which has more Norrish influence than other Englishes, competes for use there with the more prestigious Merch. Wessern is predominantly spoken in Britain [Wales, Devon, etc], where it enjoys co-official status in some tallaths [~provinces] but a decidedly subordinate role. Wessern features geminate consonants and the simplification of coda clusters (compare Merch dark /daːk/ to Wessern darick /ˈda.ɾək/ "dark"), as well as fricative voicing between vowels and at the start of words.
+There are (according to mainstream analysis) four English languages spoken on Albion; in ascending order of number of speakers these are Northumber, Wessern, Kentish and Merch. The polity of Northumber extends from the Humber to Edinbrough along the eastern side of Albion, but its local tongue, which has more Norrish influence than other Englishes, competes for use there with the more prestigious Merch. Wessern is predominantly spoken in Britain [Wales, Devon, etc], where it enjoys co-official status in some tallaths [~provinces] but a decidedly subordinate role. Wessern features geminate consonants and the simplification of coda clusters (compare Merch dark /daːk/ to Wessern darick /ˈda.ɾək/ "dark"), as well as fricative voicing between vowels and at the start of words.
 
 Kentish is one of the two languages of Kent along with Norman. Kent is a polity divided by the Kentish Channel [English Channel], both geographically and linguistically. Nonetheless, Kentish has had much more French influence over the past millennium than other Englishes, which continues to this day. For example, Kentish is the only English language within the so-called "roral ambit", having a uvular rhotic.
 

@@ -53,4 +53,4 @@ The [[Long Peace]] around the turn of the nineteenth century saw the [[Deviance 
 - *Daughters of the Sea: The Northwestern Isles* by Challow Huddresfell, published by Safford University Primers
 - *[[The Alphabetical Albion]]* by Lucas Osborne et al., published by Winchester Scholastic Primers, 1920
 - *Post-Drengotian Albion: the Long Thirteenth Century* by Professor Nuraddin Venzer, published by the New Lincoln School, 1973
-- *Albick Medicine in the Workshop Decades* by Dr Harold Westcamp, published by the Conster Health Edifice, 1992
+- *Albic Medicine in the Workshop Decades* by Dr Harold Westcamp, published by the Conster Health Edifice, 1992
