@@ -9,7 +9,7 @@ year: 1890
 posts:
   - "59.5"
 ---
-Men of Jet and Diamond (originally published in Welsh under the title **Dynnon o Vuhuð a Diamont**) is an 1890 trevold written by [[Hasiny|Hasinick]] Welshman [[Cadogan Torrior]], shortly after he graduated from the [[University of Nadacou]] as a scholar of diplomacy.
+Men of Jet and Diamond (originally published in Welsh under the title **Dynnon o Vuhuð a Diamont**) is an 1890 trevold written by [[Hasiny|Hasinic]] Welshman [[Cadogan Torrior]], shortly after he graduated from the [[University of Nadacou]] as a scholar of diplomacy.
 
 Published by Blackburn Editions, the work is a rather late member of the first wave of [[Masquira romance|masquira romance]]. The book was modestly popular in eastern [[Mendeva]], but became much more widely known after being adapted by a [[New Provence]] guild into the wildly-succesful 1951 film 'Jet White' (New Provincial **Blanc Sabaje**).
 

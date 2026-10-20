@@ -76,7 +76,7 @@ Vascony "lost over a fifth of its population to the Second Great Dying" (1518–
 reason. **The Vascon push down the African coast stalls at Bioko and never resumes.**
 
 **C15–C16 — Morrack.** Munir al-Hamdawi founds the **New World Company** (شركة العالم الجديد) in **1463**;
-Morracan ships make first Vetomundane contact with the Arcabil, Mashick and Tavancy, and are **first to
+Morrack ships make first Vetomundane contact with the Arcabil, Mashick and Tavancy, and are **first to
 circumnavigate the world**, reaching the Great Borunesk Meeting of 1517 *via Cappatia*. Ports: **Gadire**
 [Agadir], **Tanger**, **Anfa** [Casablanca], **X̀r l Joas** [Ksar es-Seghir]. Note the direction of travel —
 Morrack's imperial energy goes **west**, not south.

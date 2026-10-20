@@ -4999,11 +4999,11 @@ claims:
 - entry: '22.5'
   title: The Long Peace
   category: period
-  claim: The Decadence of Belgrade denotes the waning power of the Kingdom of the Danube.
+  claim: The Decadence of Belgrade denotes the waning power of the Kingdom of the Danaw.
   entities:
   - name: Decadence of Belgrade
     type: period
-  - name: Kingdom of the Danube
+  - name: Kingdom of the Danaw
     type: polity
 - entry: '22.5'
   title: The Long Peace
@@ -7915,7 +7915,7 @@ claims:
 - entry: '29.5'
   title: Morrack
   category: event
-  claim: Morracan ships were the first to circumnavigate the world, having reached the Great Borunesk Meeting of 1517 via
+  claim: Morrack ships were the first to circumnavigate the world, having reached the Great Borunesk Meeting of 1517 via
     Cappatia.
   entities:
   - name: Morrack
@@ -7943,7 +7943,7 @@ claims:
 - entry: '29.5'
   title: Morrack
   category: event
-  claim: The suspected Morracan assassination of Cariwasari was purportedly to allow for more profitable silver trade from
+  claim: The suspected Morrack assassination of Cariwasari was purportedly to allow for more profitable silver trade from
     Tavancy.
   entities:
   - name: Cariwasari
@@ -12557,7 +12557,7 @@ claims:
 - entry: 59.5
   title: 19th-century Espionage and the Invention of Software
   category: work
-  claim: '''Men of Jet and Diamond'' (Welsh: ''Dynnon o Vuhuð a Diamont'') is an 1890 N trevold written by Hasinick Welshman
+  claim: '''Men of Jet and Diamond'' (Welsh: ''Dynnon o Vuhuð a Diamont'') is an 1890 N trevold written by Hasinic Welshman
     Cadogan Torrior.'
   entities:
   - name: Men of Jet and Diamond
@@ -16942,7 +16942,7 @@ claims:
   title: mancel
   category: person
   claim: Pope Hermeneus II (fl. ca. 1250) was more totalist than his predecessors in reaction to the German Secession and
-    was the instigator of the Baptism of the North.
+    was the reinvigorator of the Baptism of the North.
   entities:
   - name: Hermeneus II
     type: person
@@ -18725,14 +18725,14 @@ claims:
 - entry: 115.5
   title: Turbulent Times
   category: event
-  claim: Major events of the Mendevan Unmooring include the War for Ambrosia and the Hasinick Revolution, as well as the quieter
+  claim: Major events of the Mendevan Unmooring include the War for Ambrosia and the Hasinic Revolution, as well as the quieter
     Departure of Mashick.
   entities:
   - name: Mendevan Unmooring
     type: period
   - name: War for Ambrosia
     type: event
-  - name: Hasinick Revolution
+  - name: Hasinic Revolution
     type: event
   - name: Departure of Mashick
     type: event
@@ -18747,10 +18747,10 @@ claims:
 - entry: 115.5
   title: Turbulent Times
   category: glossary
-  claim: The Hasinick Revolution took place in the region approximately equivalent to the lower part of the Mississippi watershed,
+  claim: The Hasinic Revolution took place in the region approximately equivalent to the lower part of the Mississippi watershed,
     and was directed against Britain.
   entities:
-  - name: Hasinick Revolution
+  - name: Hasinic Revolution
     irl: lower Mississippi watershed
     type: event
 - entry: 115.5

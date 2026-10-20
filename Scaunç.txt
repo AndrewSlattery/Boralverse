@@ -6435,7 +6435,7 @@ capparol /ˌka.paˈrɔl/ [ˌka.pɐˈʀɔw] chapter, section (of a book); also el
 
 …and while the status quo of Imperial hegemony was already falling apart (with the dissolution of the First Drengotian Empire to the west, the Jeanish invasion of the Tyrrhene Isles in 1207 and the declaration of independent Morrove and Libyan kingdoms in 1237/هـ634), its true death knell was the German Secession. Through the decades after the Pauline Denuncations each individual duchy (and in some cases each county!) declared either for Rome or for Augsburg, in a powderkeg patchwork of allegiances that, of course, led to the collapse of the German Empire in spectacular fashion.
 
-Of particular interest is the duchy of Crain (ducātum Carniolæ), which importantly controlled the prosperous city of Trieste, as well as fertile lands further east. Their declaration in support of the Roman Papacy was likely more pragmatic than out of true religious fervour (bordering both Lombardy and Crovatia), but in any case they were perfectly positioned to contribute to the Baptism of the North.
+Of particular interest is the duchy of Crain (ducātum Carniolæ), which importantly controlled the prosperous city of Trieste, as well as fertile lands further east. Their declaration in support of the Roman Papacy was likely more pragmatic than out of true religious fervour (bordering both Furlain and Crovatia), but in any case they were perfectly positioned to contribute to the Baptism of the North.
 
 Though the Order of Saint Hemma of Still Water (the Convoy Australier) had been leading the Baptism with monetary backing from Taxon of Awry for several decades, it is in the context of the German Secession that the Baptism became an urgent project. Along with a new, more totalist Pope in Hermeneus II, it was feared that Augsburg might spread heresy faster than Rome could reach the North. To this end, forces from Rome-allied Crain and Borland converged on their first target: Lithow…
 
@@ -7117,7 +7117,7 @@ excerpted from Ghendaline Cecchino's scholastic quire Tightrope Walking: a Lingu
 
 …a borrowing from Norrish or English by considering which softenings have occured within the word—but be careful! If you don't know the source of the loanword precisely you can fail to take into account its original pronunciation. For example, one might suppose Boral <fruyar> "to dance" must be a very early borrowing from Old English frician, to have done away with the /k/ completely. But in fact evidence of Sothbar dialect particularities suggests that in the proximate source the verb was already pronounced /ˈfriːjːan/, from which we can only conclude that the word enters Boral at some point after the evolution of /dʒ/ (textual evidence dates it to at least the ninth century).
 
-Later on (see chapter 6) we will also see how sound changes have no memory—later sound changes can reverse the effects of earlier ones, even centuries later. The most impressive example of this process in Boral must be the early deletion of Latin <v> between vowels (hypothesised to have been underway even in the late Classical period), together with the circa seventeenth-century insertion of <v> to break up hiatus between /o/ and another vowel. For example, the Latin novellus "young, newly made" yields Old Borlish noel "fresh, newborn", and Modern Boral novel "new". Often, however, such reversals affect only a portion…
+Later on (see chapter 6) we will also see how sound changes have no memory—later sound changes can reverse the effects of earlier ones, even centuries later. The most impressive example of this process in Boral must be the early deletion of Latin <v> between vowels (hypothesised to have been underway even in the late Classical period), together with the circa seventeenth-century insertion of <v> to break up hiatus between /o/ and another vowel. For example, the Latin novellus "young, newly made" yields Old Borlish noel "fresh, newborn", and Modern Borlish novel "new". Often, however, such reversals affect only a portion…
 
 ##
 
@@ -8326,7 +8326,7 @@ frigsar /frajˈzar/ [fʀɐjˈzɐː]
 - to fry, to cook food in a pan with oil or similar fat
 - to aggravate, provoke, incite, to cause someone or a group of people to become angry or outraged
 
-Etymology: first attested in early Modern Boral, apparently a backformation from noun frigsoir "frying pan" and replacing earlier verb frigr < Latin frīgō "I roast, fry, parch". The noun is an Old Borlish derivation with the tool suffix -oir, modelled on the past participle friȝs < Insular Latin frīxus "roasted, fried". Use of the verb in the sense "aggravate" is first seen in the nineteenth century.
+Etymology: first attested in early Modern Borlish, apparently a backformation from noun frigsoir "frying pan" and replacing earlier verb frigr < Latin frīgō "I roast, fry, parch". The noun is an Old Borlish derivation with the tool suffix -oir, modelled on the past participle friȝs < Insular Latin frīxus "roasted, fried". Use of the verb in the sense "aggravate" is first seen in the nineteenth century.
 
 J'er pol frigsant je ados cas mey.
 /ʒɛr pɔl frajˈzant ʒe aˈdɔz kaz mi/
@@ -9142,7 +9142,7 @@ ja galað /ʒa gaˈlaθ/ [ʝa gɐˈlah]
 - come to that, for that matter, as far as the current topic is concerned;
 - speaking of, relatedly, on a topic related to the one currently under discussion
 
-Etymology: adverbial expression first seen in early Modern Boral, literally meaning "already escorted" or "still accompanying". The particle ja "now, already, still, ever" (also "yes", in which sense it comes from Germanic) descends uncomplicatedly from Latin iam "already".
+Etymology: adverbial expression first seen in early Modern Borlish, literally meaning "already escorted" or "still accompanying". The particle ja "now, already, still, ever" (also "yes", in which sense it comes from Germanic) descends uncomplicatedly from Latin iam "already".
 
 The past participle galað from verb galar "to escort, accompany, take with one" (and also "to court, woo, step out with", its original sense) is a backformation from galant "courteous, chivalrous"; this is a borrowing from the homonymous Middle French, which derives from gale "pomp, festivity, mirth", of obscure origin.
 
@@ -9300,7 +9300,7 @@ lovastr /loˈvastr̩/ [lʊˈvas.tɐ]
 - chatty, gossipy, prone to friendly informal conversation;
 - nosy, prying, snoopy, offensively curious or inquisitive
 
-Etymology: from Old Borlish lo(ȝ)vaçtre "talkative, forthcoming" (also loȝvastre following the syncretism of Latinate adverbial ending -aciter with pejorative -aster), from Latin loquāciter "in a talkative manner". Deletion of yogh in the first syllable is seen also in sevir "to follow" < Vulgar Latin sequīre; the behaviour of medial -qu- is somewhat inconsistent and may by conditioned by the surrounding vowels. Development of the more negative senses of the word occurs in the early Modern Boral period.
+Etymology: from Old Borlish lo(ȝ)vaçtre "talkative, forthcoming" (also loȝvastre following the syncretism of Latinate adverbial ending -aciter with pejorative -aster), from Latin loquāciter "in a talkative manner". Deletion of yogh in the first syllable is seen also in sevir "to follow" < Vulgar Latin sequīre; the behaviour of medial -qu- is somewhat inconsistent and may by conditioned by the surrounding vowels. Development of the more negative senses of the word occurs in the early Modern Borlish period.
 
 Tan lovastr es ty sour por toð gent sauraun den oy.
 /tan loˈvastr‿ɛz ti sur pɔr tɔθ ʒɛnt soˈron dɛn ɔj/
@@ -9496,7 +9496,7 @@ It was only with the advent of pedal holes—adapted from mechanisms pioneered w
 kigmau /kajˈmo/ [kɐjˈmo]
 - lardons, diced meat and especially diced pork as used in salads, soups or pies
 
-Etymology: early Modern Boral borrowing from Welsh kigmow /kɪɣmɔw/ "pork" (from Old Welsh cig moh /kig mɔχ/), literally "pig meat", with the particular meaning due to the characteristic savoury handheld pies of the Tallath of Devon.
+Etymology: early Modern Borlish borrowing from Welsh kigmow /kɪɣmɔw/ "pork" (from Old Welsh cig moh /kig mɔχ/), literally "pig meat", with the particular meaning due to the characteristic savoury handheld pies of the Tallath of Devon.
 
 "Inacavabr es soup a kigmau pascr con digntað, donc nel attendr," avars la, l'oc Laum forniscent de pudour dec le no'r ja *stað* attenent.
 /iˌna.kaˈvabr̩ ɛz sup a kajˈmo ˈpaxr̩ kɔn dajnˈtaθ | dɔŋk nɛl aˈtɛndr̩ | aˈvarz la | lɔk lom ˌfɔr.niˈxɛnt de puˈdur dɛk le nɔr ʒa staθ aˈte.nɛnt/
@@ -9957,7 +9957,7 @@ In historiography, the Long Peace refers to the decades surrounding the turn of 
 The Long Peace precedes the period of Reaction War, an umbrella term including the Second German War and other contemporaneous conflicts around the world.
 
 Contemporaneous periods include:
-- the Decadence of Belgrade, denoting the waning power of the Kingdom of the Danube;
+- the Decadence of Belgrade, denoting the waning power of the Kingdom of the Danaw;
 - the Mendevan Unmooring, which refers to the greater political and economic independence enjoyed by the Vetomundane settlements in Mendeva at this time;
 - the Romantic Revival, an artistic and political movement characterised by optimism and heroism, especially with its focus on recapturing the 'brighter past' of the seventeenth century.
 
@@ -11294,7 +11294,7 @@ The man must be a local, come to gawk at the foreigners.
 sbay /sbe/ [zbe]
 - open-mouthed expression, the act of gawping at something or someone either in stupefaction or intrusive fascination
 
-Etymology: deverbal derivation from sbayar "to gape, gawp" via Old Borlish from Medieval Latin exbadō "I gape, open wide". The somewhat pejorative sense in Modern Boral is likely due to interference from the circumfix s- -ar (as in sboccar "to smirk"). The Latin is a derivative of synonymous badō, which is of unclear (possibly onomatopoeic) origin.
+Etymology: deverbal derivation from sbayar "to gape, gawp" via Old Borlish from Medieval Latin exbadō "I gape, open wide". The somewhat pejorative sense in Modern Borlish is likely due to interference from the circumfix s- -ar (as in sboccar "to smirk"). The Latin is a derivative of synonymous badō, which is of unclear (possibly onomatopoeic) origin.
 
 Cogmaðer son sbay dant ag cascat n'Onnacra.
 /ˌkɔj.maˈðɛr sɔn sbe dant ɛj kaˈxat ˌnɔ.naˈkra/
@@ -12579,7 +12579,7 @@ un tarç dagr /ɪn tarts dɛjr̩/ [ɪn ˈtɐːs ˈdɛjɐ]
 - grey area, ambiguity, a situation intermediate between more familiar states that is not clear or where the rules are not known
 - maverick, renegade, iconoclast, law unto oneself, a person refusing to be bound by societal conventions
 
-Etymology: clipped form of earlier proverb no plom ben aur ja tarç dagr "neither lead nor gold but [a] secret third [thing]". This has itself been frozen in an archaic dialect due to its appearance in the evergreen plays of Kinollesau—in Modern Boral we might instead see necun plom ben aur, aglon un treyem scos.
+Etymology: clipped form of earlier proverb no plom ben aur ja tarç dagr "neither lead nor gold but [a] secret third [thing]". This has itself been frozen in an archaic dialect due to its appearance in the evergreen plays of Kinollesau—in Modern Borlish we might instead see necun plom ben aur, aglon un treyem scos.
 
 The word tarç "third" descends directly from synonymous Latin tertius and now exists in complementary distribution with later derivation treyem < trēs "three". The disused adjective dagr "secret, hidden, unknown" comes via Old Borlish daȝl, daȝr from Old English deagol "secret, obscure, dark".
 
@@ -12799,7 +12799,7 @@ pisar /piˈzar/ [pɪˈzɐː]
 - weigh out, distribute, apportion, to divde into portions according to some criterion;
 - consider, weigh up, assess, to deliberate on the relative importance of differnet factors
 
-Etymology: from Old Borlish pisar, pesar "to weigh, consider", the combination of the native descendant of Latin pēnsō "I ponder, purchase" (which also gives Modern Boral pesar "think") along with a secondary verbal derivation from noun pis "weight, measure", from Latin pēnsum "allotment, quota".
+Etymology: from Old Borlish pisar, pesar "to weigh, consider", the combination of the native descendant of Latin pēnsō "I ponder, purchase" (which also gives Modern Borlish pesar "think") along with a secondary verbal derivation from noun pis "weight, measure", from Latin pēnsum "allotment, quota".
 
 Y lan a filar se coun pisað cos inequal.
 /i lan a fiˈlar se kun piˈzaθ kɔz ˌi.neˈkwal/
@@ -12817,7 +12817,7 @@ You will at the very least do me the service of not moving to Paris, city of gre
 Dec Hortense oc lerra cos certan, jo vil l'eç bon vouð de Clara communeyar e rescaur ig vos porreð pront se sarvir dy lencorf cas Vauhan; for carað Marduth ag Tesoir Tyche.
 As Hortense is certainly reading, I shall pass on Clara's well-wishes and reiterate that you are welcome to make use of the Vauhan lencorve; just ask for Marduth at the Tyche Bank.
 
-Y scourm de Pether son tan voluð, parisc lo, a partir de bel Albion traiçonous.
+Y scourm de Peðer son tan voluð, parisc lo, a partir de bel Albion traiçonous.
 Pether's lot are also destined, it seems, to leave fair, perfidious Albion.
 
 Ig degnant jo lour day ascuranç continu de xeny oy ðe son resoluð sur najar lonc y gran flou mendevan vars un ventur calscon seyon trovabr a Hasiny.
@@ -17884,7 +17884,7 @@ Nuntius (fl. ca. 1100), who instituted a reform of the Julian calendar and moved
 Damian V (1110-1121), born Humbert of Ravenna in 1047
 Damian VI (1199–1208), called 'the Wise', and first member of the Brethin in the role
 Just (1208–), who called for a renewed Crusade for Jerusalem in 1210 (known to history as the Failed Crusade)
-Hermeneus II (fl. ca. 1250), more totalist than his predecessors in reaction to the German Secession and instigator of the Baptism of the North
+Hermeneus II (fl. ca. 1250), more totalist than his predecessors in reaction to the German Secession and reinvigorator of the Baptism of the North
 
 ##
 
@@ -20828,7 +20828,7 @@ An early work of his, A Complete Assembly of the Towns and Cities of Markland fo
 
 excerpt in translation from notes on the polity of Morrack [Morocco].
 
-Y Colluy dy Nou Mont nommað cos auspecer fo corporalleyað par Malic Mounir al-Hamdawi d'an 1643, e pres pront la nonçamen dell'Abanc Novomondan fos yent a cort ern vascel dy Colluy accaçað vars y vest.
+Y Colluy dy Nou Mont nommað cos auspecer fo corporalleyað par Malic Mounir al-Hamdawi d'an 1463, e pres pront la nonçamen dell'Abanc Novomondan fos yent a cort ern vascel dy Colluy accaçað vars y vest.
 The prophetically-named New World Company was established by Malik Munir al-Hamdawi in 1463, and almost as soon as news of the Novomundane Landfall had reached court were ships of the Company sent westward.
 
 Cay l'oc flottisc ayent communeyanç fait con y gent dell'Arcabil, tan com y dou empir Mascic e Tavancin.
@@ -25769,7 +25769,7 @@ Cay descreuçon dy contrdontaçon dy Reyaum ag Danau.
 /ke ˌdɛ.xrauˈtsɔn di ˌkɔntr̩ˌdɔn.taˈtsɔn di riˈjom ɛi daˈno/
 [ke ˌdɛ.xʀɐuˈtsɔn di ˌkɔn.tɐˌdɔn.tɐˈtsɔn di ʀjom ɛi dɐˈno]
 fall description of-df downfall of-df kingdom at.df Danube
-It describes the downfall of the Danube Kingdom.
+It describes the downfall of the Danaw Kingdom.
 
 ##
 
@@ -30138,7 +30138,7 @@ excerpt from The Structure of Twentieth-Century Polities, a 2024 reference work 
 
 The original remit of the Ministry for Consequences was purely reactive: it was to monitor the impact of policies implemented by laws and by the decrees of other ministries (e.g. Family, Farming or Wealth) and to publish reports on their effects. Institutions with similar functions had existed in many governments for centuries (and arguably millennia, in the cases of Cathay, China and the Persias), though they were rarely so centralised and so independent in their activities. Despite its later failings, the Collusion's anthracite government in the 1930s recognised that Consequences would have to maintain editorial autonomy or else be subject to censorship from the very government it was intended to monitor.
 
-At the time of writing, Ministries for Consequences have been established in several dozen polities worldwide, from the Ministry for Effectiveness in Tavancy [~Incan Empire] to the Ministry for the Future in Nackon Dai [Thailand]. The concept spread most rapidly in the late 1960s and through the 1970s, as the fallout of the Furore of 1961 revealed how important…
+At the time of writing, Ministries for Consequences have been established in several dozen polities worldwide, from the Ministry for Effectiveness in Tavancy [~Incan Empire] to the Ministry for the Future in Nackon Day [Thailand]. The concept spread most rapidly in the late 1960s and through the 1970s, as the fallout of the Furore of 1961 revealed how important…
 
 ##
 
@@ -30409,7 +30409,7 @@ History
 
 The eastern half of modern Taisha was, until the seventeenth century, part of the Hasiny confederacy of Carovacian peoples, from which the neighbouring polity takes its name. The southern and western reaches were under the influence of a series of Mashick [Aztec] vassals, trading upriver along the Tocolon and across the interior.
 
-First Vetomundane contact was with Morrack's New World Company in the 1510s, and through the later sixteenth century Mashick expanded northeast along the coast, establishing frontier towns. Mashick's authority in the far northeast remained thin, and from the middle seventeenth century onward British and Jaughta [Choctaw] ranchers and merchants (operating with the tacit imprimatur of the Kingdom of Britain) moved steadily west into the Tocolon basin. For most of the eighteenth century the region had three overlapping structures of governance: Mashick regents in the south and west, Hasinick towns along the coast, and Carovacian councils in the interior.
+First Vetomundane contact was with Morrack's New World Company in the 1510s, and through the later sixteenth century Mashick expanded northeast along the coast, establishing frontier towns. Mashick's authority in the far northeast remained thin, and from the middle seventeenth century onward British and Jaughta [Choctaw] ranchers and merchants (operating with the tacit imprimatur of the Kingdom of Britain) moved steadily west into the Tocolon basin. For most of the eighteenth century the region had three overlapping structures of governance: Mashick regents in the south and west, Hasinic towns along the coast, and Carovacian councils in the interior.
 
 The Concordat of Aberdocolon (1850), signed in the namesake port city, formalised this arrangement. The agreement involved the Mashick crown, the newly autonomous Hasinic crown, and elected Carovacian leaders. The Concordat's practical effect was minimal (its commissioners spent most of the subsequent decades arbitrating cattle-rustling disputes) but later Taishan historiography elevated it into a founding document in which the region's three constituent communities were recognised as co-equal parties.
 
@@ -31203,7 +31203,7 @@ The vizier continued accruing influence.
 
 Is it important that London's first monarch as an independent polity, Queen Margaret, was a woman? Any royal who could, as she could, claim familial connections to both the house of Markland and the recently attainted house of Kent would likely have sufficed, but the political convenience of Margaret's specific position cannot be overstated. Markland had been in the habit of bestowing rule of London onto the younger sons of its kings and queens (as Margaret's father was) for the last two centuries. For its part, Kent had never been so much in the habit of queens as Markland was, and so despite the fact that Margaret's mother was the executed Kentish king's sister, she was not considered a likely candidate for revanchist pro-monarchist factions in Kent to rally around.
 
-In any case, like many of the royals who managed to retain their positions in the aftermath of the Democratic Wars (compare the kings of Madray [Madurai] or Nackon Dai [Thailand]), Queen Margaret's political powers were significantly trammelled. The elected position of Lord Mayor, which had garnered ever more influence since the days of the Medieval Imperia, was…
+In any case, like many of the royals who managed to retain their positions in the aftermath of the Democratic Wars (compare the kings of Madray [Madurai] or Nackon Day [Thailand]), Queen Margaret's political powers were significantly trammelled. The elected position of Lord Mayor, which had garnered ever more influence since the days of the Medieval Imperia, was…
 
 [attached: a map of the borders of the polity of London in 1755 N, some years following the end fo the Democratic Wars in Albion. Its neighbours are Markland to the north, Britain to the west, and Kent to the south.]
 
@@ -31872,7 +31872,7 @@ further excerpts from Milda'h Ragner's 1954 popular history Grex Byd: Covarrod y
 
 2: Fair of the Turning Winds
 
-…my grandmother's schoolbooks, it was not in honour of its British [~Welsh] and Morrack [Moroccan] guests that the Greet Meeting was convened. At least a century before any merchant ship had rounded Africa, an annual fair had become tradition at Sinquan [Singkawang]. This city on Borune's northwestern coast would fill each year with traders from China, Gurjat [Gujarat] and further afield, who would then remain there until the rain-winds changed their heading and allowed them to return home. The fair and the Chinese quarter pre-date the sultan's conversion and the maskeds [mosques].
+…my grandmother's schoolbooks, it was not in honour of its British [~Welsh] and Morrack [Moroccan] guests that the Great Meeting was convened. At least a century before any merchant ship had rounded Africa, an annual fair had become tradition at Sinquan [Singkawang]. This city on Borune's northwestern coast would fill each year with traders from China, Gurjat [Gujarat] and further afield, who would then remain there until the rain-winds changed their heading and allowed them to return home. The fair and the Chinese quarter pre-date the sultan's conversion and the maskeds [mosques].
 
 Harbour rolls, registers and manifests are scattered now in universities across the globe; an enterprising historian may use them all to reconstruct the gathering of 1517, when al-Casmi's Cynthia arrived to find mac Kellot's Phœbos at anchor. and… 
 

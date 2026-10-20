@@ -21,7 +21,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 5.1	excerpt	Convoluted Schemes			False	0	299	1820	excerpt/5.1_Convoluted_Schemes.md
 5.2	dictionary	praxitel "sculptor"	praxitel	sculptor	True	5	236	1495	dictionary/5.2_praxitel_sculptor.md
 5.3	dictionary	deðal "thimble"	deðal	thimble	True	3	150	913	dictionary/5.3_deðal_thimble.md
-5.4	dictionary	frigsar "to fry"	frigsar	to fry	True	2	135	799	dictionary/5.4_frigsar_to_fry.md
+5.4	dictionary	frigsar "to fry"	frigsar	to fry	True	2	135	801	dictionary/5.4_frigsar_to_fry.md
 5.5	notes	The Mysarnos Codex			False	0	281	1754	notes/5.5_The_Mysarnos_Codex.md
 6.1	excerpt	A Merch Castle			False	0	273	1638	excerpt/6.1_A_Merch_Castle.md
 6.2	dictionary	nacleu "slope"	nacleu	slope	True	9	264	1652	dictionary/6.2_nacleu_slope.md
@@ -66,7 +66,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 14.1	excerpt	Pennackit Dysentery			False	0	241	1458	excerpt/14.1_Pennackit_Dysentery.md
 14.2	dictionary	gimmoldr "toil"	gimmoldr	toil	True	4	176	1060	dictionary/14.2_gimmoldr_toil.md
 14.3	dictionary	vesson "outfit"	vesson	outfit	True	2	110	648	dictionary/14.3_vesson_outfit.md
-14.4	dictionary	ja galað "come to that"	ja galað	come to that	True	2	167	1016	dictionary/14.4_ja_galað_come_to_that.md
+14.4	dictionary	ja galað "come to that"	ja galað	come to that	True	2	167	1018	dictionary/14.4_ja_galað_come_to_that.md
 14.5	notes	Ambrose III of Vascony			False	0	430	2615	notes/14.5_Ambrose_III_of_Vascony.md
 15.1	excerpt	Apollo on Holiday			False	0	240	1386	excerpt/15.1_Apollo_on_Holiday.md
 15.2	dictionary	youdar "numb"	youdar	numb	True	3	136	835	dictionary/15.2_youdar_numb.md
@@ -74,7 +74,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 15.4	dictionary	ouveg "sullen"	ouveg	sullen	True	2	119	771	dictionary/15.4_ouveg_sullen.md
 15.5	notes	The Second Great Dying			False	0	260	1595	notes/15.5_The_Second_Great_Dying.md
 16.1	excerpt	To Save a Life			False	0	233	1343	excerpt/16.1_To_Save_a_Life.md
-16.2	dictionary	lovastr "chatty"	lovastr	chatty	True	3	157	1016	dictionary/16.2_lovastr_chatty.md
+16.2	dictionary	lovastr "chatty"	lovastr	chatty	True	3	157	1018	dictionary/16.2_lovastr_chatty.md
 16.3	dictionary	kenopleus "space travel"	kenopleus	space travel	True	1	128	845	dictionary/16.3_kenopleus_space_travel.md
 16.4	dictionary	jubon "doublet"	jubon	doublet	True	2	133	844	dictionary/16.4_jubon_doublet.md
 16.5	notes	Adaillé Nassow & Absolon Mortenszen			False	0	287	1693	notes/16.5_Adaillé_Nassow_&_Absolon_Mortenszen.md
@@ -84,7 +84,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 17.4	dictionary	orbeutar "swindle"	orbeutar	swindle	True	2	124	839	dictionary/17.4_orbeutar_swindle.md
 17.5	notes	Significant Figures			False	0	352	2274	notes/17.5_Significant_Figures.md
 18.1	excerpt	On the Torriot			False	0	291	1845	excerpt/18.1_On_the_Torriot.md
-18.2	dictionary	kigmau "lardons"	kigmau	lardons	True	1	179	1117	dictionary/18.2_kigmau_lardons.md
+18.2	dictionary	kigmau "lardons"	kigmau	lardons	True	1	179	1119	dictionary/18.2_kigmau_lardons.md
 18.3	dictionary	yevot "scope"	yevot	scope	True	2	117	803	dictionary/18.3_yevot_scope.md
 18.4	dictionary	parsir "learn"	parsir	learn	True	3	141	851	dictionary/18.4_parsir_learn.md
 18.5	notes	Significant Figures, cont.			False	0	375	2215	notes/18.5_Significant_Figures,_cont..md
@@ -107,7 +107,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 22.2	dictionary	quaðeglad "campus"	quaðeglad	campus	True	2	116	822	dictionary/22.2_quaðeglad_campus.md
 22.3	dictionary	soumonir "reference"	soumonir	reference	True	2	119	771	dictionary/22.3_soumonir_reference.md
 22.4	dictionary	hey "fence"	hey	fence	True	3	155	913	dictionary/22.4_hey_fence.md
-22.5	notes	The Long Peace			False	3	345	2223	notes/22.5_The_Long_Peace.md
+22.5	notes	The Long Peace			False	3	345	2222	notes/22.5_The_Long_Peace.md
 23.1	excerpt	The Girdled World			False	0	265	1591	excerpt/23.1_The_Girdled_World.md
 23.2	dictionary	augrimar "to calculate"	augrimar	to calculate	True	3	128	930	dictionary/23.2_augrimar_to_calculate.md
 23.3	dictionary	annexar "supplement"	annexar	supplement	True	3	116	789	dictionary/23.3_annexar_supplement.md
@@ -164,7 +164,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 33.4	dictionary	gur "dread"	gur	dread	True	3	142	816	dictionary/33.4_gur_dread.md
 33.5	notes	The Wars of Fealty			False	0	419	2603	notes/33.5_The_Wars_of_Fealty.md
 34.1	excerpt	Wearing a Mask or a Suit			False	0	240	1344	excerpt/34.1_Wearing_a_Mask_or_a_Suit.md
-34.2	dictionary	sbay "gawp"	sbay	gawp	True	1	111	732	dictionary/34.2_sbay_gawp.md
+34.2	dictionary	sbay "gawp"	sbay	gawp	True	1	111	734	dictionary/34.2_sbay_gawp.md
 34.3	dictionary	dagaðy "here and there"	dagaðy	here and there	True	2	79	517	dictionary/34.3_dagaðy_here_and_there.md
 34.4	dictionary	fallout "venture"	fallout	venture	True	3	106	682	dictionary/34.4_fallout_venture.md
 34.5	notes	The Drengot Collusion			False	0	385	2502	notes/34.5_The_Drengot_Collusion.md
@@ -229,7 +229,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 46.4	dictionary	gevou "watch out!"	gevou	watch out!	True	3	153	1004	dictionary/46.4_gevou_watch_out!.md
 46.5	notes	Channels			False	0	427	2773	notes/46.5_Channels.md
 47.1	excerpt	King James Stew			False	0	248	1427	excerpt/47.1_King_James_Stew.md
-47.2	dictionary	un tarç dagr "neither fish nor fowl"	un tarç dagr	neither fish nor fowl	True	3	209	1261	dictionary/47.2_un_tarç_dagr_neither_fish_nor_fowl.md
+47.2	dictionary	un tarç dagr "neither fish nor fowl"	un tarç dagr	neither fish nor fowl	True	3	209	1263	dictionary/47.2_un_tarç_dagr_neither_fish_nor_fowl.md
 47.3	dictionary	haft "busy"	haft	busy	True	3	150	905	dictionary/47.3_haft_busy.md
 47.4	dictionary	pallort "mussel"	pallort	mussel	True	2	100	661	dictionary/47.4_pallort_mussel.md
 47.5	notes	The Modest Arrangement			False	0	277	1799	notes/47.5_The_Modest_Arrangement.md
@@ -240,7 +240,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 48.5	notes	2nd Lexember			True	5	513	3301	notes/48.5_2nd_Lexember.md
 48.6	dictionary	3rd Lexember			True	3	184	1182	dictionary/48.6_3rd_Lexember.md
 48.7	dictionary	4th Lexember			True	2	129	835	dictionary/48.7_4th_Lexember.md
-49.1	excerpt	5th Lexember			True	3	387	2220	excerpt/49.1_5th_Lexember.md
+49.1	excerpt	5th Lexember			True	3	387	2221	excerpt/49.1_5th_Lexember.md
 49.2	dictionary	6th Lexember			True	4	148	949	dictionary/49.2_6th_Lexember.md
 49.3	dictionary	7th Lexember			True	4	149	958	dictionary/49.3_7th_Lexember.md
 49.4	dictionary	8th Lexember			True	3	130	792	dictionary/49.4_8th_Lexember.md
@@ -418,7 +418,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 82.4	dictionary	scenar "stage"	scenar	stage	True	2	105	701	dictionary/82.4_scenar_stage.md
 82.5	notes	London			False	0	429	2643	notes/82.5_London.md
 83.1	excerpt	The Late 12th Century			False	0	246	1469	excerpt/83.1_The_Late_12th_Century.md
-83.2	dictionary	narreyar "taunt"	narreyar	taunt	True	3	122	798	dictionary/83.2_narreyar_taunt.md
+83.2	dictionary	narreyar "taunt"	narreyar	taunt	True	3	122	800	dictionary/83.2_narreyar_taunt.md
 83.3	dictionary	eir sauf a "all but"	eir sauf a	all but	True	1	117	663	dictionary/83.3_eir_sauf_a_all_but.md
 83.4	dictionary	linaç "lineage"	linaç	lineage	True	3	125	748	dictionary/83.4_linaç_lineage.md
 83.5	notes	Loveless Lepzi			False	0	327	2025	notes/83.5_Loveless_Lepzi.md
@@ -485,7 +485,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 95.2	dictionary	spaiðoir "drawer"	spaiðoir	drawer	True	2	131	811	dictionary/95.2_spaiðoir_drawer.md
 95.3	dictionary	sousonnar "imply"	sousonnar	imply	True	2	65	459	dictionary/95.3_sousonnar_imply.md
 95.4	dictionary	key "button"	key	button	True	4	143	856	dictionary/95.4_key_button.md
-95.5	notes	mancel "sleeve"			True	4	337	2104	notes/95.5_mancel_sleeve.md
+95.5	notes	mancel "sleeve"			True	4	337	2107	notes/95.5_mancel_sleeve.md
 95.6	dictionary	Lexember 16 - 2023: cout "elbow"	Lexember 16 - 2023: cout	elbow	True	4	122	663	dictionary/95.6_Lexember_16_-_2023_cout_elbow.md
 95.7	dictionary	tossottar "splutter"	tossottar	splutter	True	2	95	601	dictionary/95.7_tossottar_splutter.md
 96.1	excerpt	sont "guilty"			True	3	374	2418	excerpt/96.1_sont_guilty.md
@@ -888,7 +888,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 172.5	notes	How to spell Borlish			False	0	996	5437	notes/172.5_How_to_spell_Borlish.md
 173.1	excerpt	Nicolas of Avignon			False	0	233	1453	excerpt/173.1_Nicolas_of_Avignon.md
 173.2	dictionary	entrquïscoir "break room"	entrquïscoir	break room	True	2	125	855	dictionary/173.2_entrquïscoir_break_room.md
-173.3	dictionary	contrdontaçon "downfall"	contrdontaçon	downfall	True	2	99	723	dictionary/173.3_contrdontaçon_downfall.md
+173.3	dictionary	contrdontaçon "downfall"	contrdontaçon	downfall	True	2	99	722	dictionary/173.3_contrdontaçon_downfall.md
 173.4	dictionary	mesaventoresq "shambolic"	mesaventoresq	shambolic	True	2	105	817	dictionary/173.4_mesaventoresq_shambolic.md
 173.5	notes	American Toponymy			False	0	258	1693	notes/173.5_American_Toponymy.md
 174.1	excerpt	Modern Provence			False	0	248	1539	excerpt/174.1_Modern_Provence.md
@@ -1122,7 +1122,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 218.2	dictionary	bosty "brothel"	bosty	brothel	True	3	151	1019	dictionary/218.2_bosty_brothel.md
 218.3	dictionary	focment "husbandry"	focment	husbandry	True	3	137	973	dictionary/218.3_focment_husbandry.md
 218.4	dictionary	masmorrat "dungeon"	masmorrat	dungeon	True	3	116	821	dictionary/218.4_masmorrat_dungeon.md
-218.5	notes	Taisha			False	0	430	2866	notes/218.5_Taisha.md
+218.5	notes	Taisha			False	0	430	2865	notes/218.5_Taisha.md
 219.1	excerpt	Another Queen of Ruritania			False	0	228	1236	excerpt/219.1_Another_Queen_of_Ruritania.md
 219.2	dictionary	cambir "swap"	cambir	swap	True	3	123	842	dictionary/219.2_cambir_swap.md
 219.3	dictionary	nancir "contract"	nancir	contract	True	3	104	684	dictionary/219.3_nancir_contract.md
