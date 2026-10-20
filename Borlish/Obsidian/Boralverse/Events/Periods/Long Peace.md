@@ -23,6 +23,6 @@ The Long Peace saw the inception of the [[Deviance movement]] (also called Anti-
 The [[Armourcloth|armourcloth]] fashion (of women's evening dress decorated in the style of military uniform) has its beginnings early in this period, and is still most strongly associated with it, despite several revivals. The advent of [[Straightforward Fashion]] occurs somewhat later, beginning in the first decade of the nineteenth century.
 
 ## Contemporaneous periods
-- the [[Decadence of Belgrade]], denoting the waning power of the [[Kingdom of Danaw]];
+- the [[Decadence of Belgrade]], denoting the waning power of the [[Kingdom of the Danaw|Kingdom of Danaw]];
 - the [[Mendevan Unmooring]], which refers to the greater political and economic independence enjoyed by the Vetomundane settlements in [[Mendeva]] at this time;
 - the [[Romantic Revival]], an artistic and political movement characterised by optimism and heroism, especially with its focus on recapturing the 'brighter past' of the seventeenth century.

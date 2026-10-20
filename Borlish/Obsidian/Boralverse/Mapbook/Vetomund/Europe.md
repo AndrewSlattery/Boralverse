@@ -50,7 +50,7 @@ Europe is a continental peninsula in the northern hemisphere.
 - Corse
 - [[Crain]]
 - [[Crovatia]]
-- [[Kingdom of Danaw]]
+- [[Kingdom of the Danaw|Kingdom of Danaw]]
 - [[Dane Concert]]
 - [[Denmark]]
 - [[Drengot Collusion]]

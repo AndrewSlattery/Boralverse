@@ -18,6 +18,6 @@ The Northern Concert were a major power involved in the war, and they were allie
 
 The Kingdom of [[France]] was seen to have profited unjustly from the Second German War, gaining significant territory while (according to many) not investing much manpower or material resources.
 
-The [[Kingdom of Danaw]] collapsed in spectacular fashion in the wake of the war, laying the groundwork for the rise of the [[Riverine Cities]].
+The [[Kingdom of the Danaw|Kingdom of Danaw]] collapsed in spectacular fashion in the wake of the war, laying the groundwork for the rise of the [[Riverine Cities]].
 
 In the 1820s and 30s, immigration to the [[Novomund]] (and especially to [[New Provence]]) spiked from those countries which had been most devastated by the war.

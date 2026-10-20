@@ -13,7 +13,7 @@ The Deviance movement, also known as Anti-Paradise theology, is a religious, art
 The term "deviance" has been applied to the movement almost since its inception, with both positive and negative affect. Some scholars have theorised that the term reflects the Wessern dialect pronunciation of standard "defiance", although this is not widely accepted.
 
 # History
-The Deviance movement arose in the late eighteenth century during the [[Long Peace]], in an environment of rapid scientific progress. In [[Europe]], much of the development of Anti-Paradise theology took place within the Promethean clubs of [[Albion]] and [[Kingdom of Danaw|Danaw]]. These regions were both home to significant religious minorities and the Church (of whichever stripe) was strongly associated with local authority.
+The Deviance movement arose in the late eighteenth century during the [[Long Peace]], in an environment of rapid scientific progress. In [[Europe]], much of the development of Anti-Paradise theology took place within the Promethean clubs of [[Albion]] and [[Kingdom of the Danaw|Danaw]]. These regions were both home to significant religious minorities and the Church (of whichever stripe) was strongly associated with local authority.
 
 An important early work to the Deviance movement was the anonymously-published 'And We Will Love the Fire' (originally *Et Nous Amerons les Fux*), which began circulating in 1799 to immediate moral outrage. Though almost a dozen plausible candidates for its authorship have been seriously proposed, no consensus has ever been reached on the issue.
 
