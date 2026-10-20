@@ -202,7 +202,7 @@ fits no European, Arabic, Mendevan or South Asian pattern already established in
 - **Adamara Godwilham** — *Tell Me, Telmy!* (1936); her father is **Bartelmy**, and "Godwilham Desk" is a
   Kentish media pseudonym of the Borlish author Willaum Desq. A Merch/Kentish surname.
 - **Mollam Bushta**, **Poshack Nerwaman**, **Tazim Gennun**, **Sólin Izcoál**, **Yollamaniza Elcabir** — all
-  explicitly **Mashick**. **Bayac Cosωteg** — **Hasiny** (the ‹ω› is a Jaughta orthographic convention).
+  explicitly **Mashick**. **Bayac Coswteg** — **Hasiny**.
   **Cai Sonquo** — New Leudong. **Indvar Vijarrania** — Ajamarn.
 
 ### Live candidates

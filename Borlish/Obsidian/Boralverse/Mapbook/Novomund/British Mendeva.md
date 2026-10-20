@@ -10,7 +10,7 @@ British Mendeva refers to the polities of [[Mendeva]] which have undergone signi
 
 ## History
 
-In the seventeenth century, exploratory voyages by ships of the Kingdom of Britain founded staddomains along the Mendevan Gulf, which would grow via settlement, treaty and conquest into the polities of British Mendeva.  
+In the seventeenth century, exploratory voyages by ships of the Kingdom of Britain founded staddomains along the Arcabil Gulf, which would grow via settlement, treaty and conquest into the polities of British Mendeva.  
 
 The '[[herdtale]]' tradition of storytelling which originated in nineteenth-century Mendeva was brought to wider recognition via several popular works published jointly in British Mendeva and Britain. Conversely, the [[Masquira romance|masquira]] genre overtook the region later in that century following its popularity in the [[Vetomund]].
 

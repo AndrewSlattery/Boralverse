@@ -24,4 +24,4 @@ Through Welsh and other European and North African accounts of the Meeting, Borl
 - [[Asia]]
 
 ## References
-- *Grex Byd: Covarrod y Vaɯr Morɯn* (*A Girdled World: The Great Borunesk Meeting*) by Milda'h Ragner, 1954
+- *Grex Byd: Covarrod y Vawr Morwn* (*A Girdled World: The Great Borunesk Meeting*) by Milda'h Ragner, 1954

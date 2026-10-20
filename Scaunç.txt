@@ -689,7 +689,7 @@ I sell only the finest clockwork, made of zinc or bronze.
 
 “Perhaps we should have sent for a Kentish witness! They might learn the subtle craft of ending the wars they start.”
 
-- origin unknown; popularly attributed to General Guillen daus Santz on the eve of the Battle of Margès, 1499
+- origin unknown; popularly attributed to General Guillen daus Sanz on the eve of the Battle of Margès, 1499
 
 ___
 
@@ -6522,7 +6522,7 @@ naðeu /naˈðaw/ intuitive, easy to understand; naïve, not thought through, ba
 
 12m Decembr
 
-    short excerpt from Milda'h Ragner's 1954 popular history Grex Byd: Covarrod y Vaur Morwn (A Girdled World: The Great Borunesk Meeting), a popular account of the 1517 coming together of people from around the world on the island of Borune [Borneo], and the sequence of events that led up to it.
+    short excerpt from Milda'h Ragner's 1954 popular history Grex Byd: Covarrod y Vawr Morwn (A Girdled World: The Great Borunesk Meeting), a popular account of the 1517 coming together of people from around the world on the island of Borune [Borneo], and the sequence of events that led up to it.
 
 …this commonly-held misconception. In fact, more than a dozen crewmembers of mac Kellot's Phœbos had at least some Arabic; the British and Morrack mercantile domains had overlapped in Gaul and Spain for nearly two centuries at this point. At least two were entirely fluent writers, if not speakers—al-Hamid's book of circular functions was as yet untranslated in Latin and was an invaluable navigational aid.
 
@@ -9977,7 +9977,7 @@ The armourcloth fashion (of women's dress decorated in the style of military uni
 
 23.1: The Girdled World
 
-excerpt in translation from Milda'h Ragner's 1954 popular history Grex Byd: Covarrod y Vaur Morɯn (A Girdled World: The Great Borunesk Meeting)
+excerpt in translation from Milda'h Ragner's 1954 popular history Grex Byd: Covarrod y Vawr Morwn (A Girdled World: The Great Borunesk Meeting)
 
 Veraçter, may a doç scourmer ny Phœbos sou mac Kellot saven arabesc parolar un pog toð cas; l'eiðel commarcer Brittesc e Morracan ern surponent ne Gal e Spagn pres dou siecr all'oc hour.
 In fact, more than a dozen crewmembers of mac Kellot's Phœbos had at least some Arabic; the British and Morrack mercantile domains had overlapped in Gaul and Spain for nearly two centuries at this point. 
@@ -10075,7 +10075,7 @@ extract in translation from late classical historian Robiaut Scarvon's 1952 text
 Lonc y façon la ageurn y Roman allors tras l'empir, l'eç traitment sagntað eð eç divintað ja existant a Istr Boral tradugsern ðe ny caglou e reforgaurn ðe ny jout dy pantheon romannesc.
 Much as the Romans did across the rest of the empire, the pre-existing sacred practices and divinities on Borland were interpreted through the lens of and recast in the mould of the Roman pantheon.
 
-L'oc poðe font aïr des comport magn naðusc doujugher—com bustr, y veðerrem veneraçon por Nahalennia lonc y rimmot souðer eð auster all'istr, luy stant un deves de commarç e dell'ocean, denoy incorporað de raçon inconnuð con y cult por Pluton e luy deves runið vars sy femn Proserpina.
+L'oc poðe font aïr des comport magn naðusc doujugher—com bustr, y veðerrem veneraçon por Nahalennia lonc y rimmot souðer eð auster all'istr, luy stant un deves de commarç e dell'occeyan, denoy incorporað de raçon inconnuð con y cult por Pluton e luy deves runið vars sy femn Proserpina.
 This could be based on really quite tenuous analogies—for example, the old worship of Nahalennia along the southern and western coasts of the island, who was a goddess of trade and the ocean, was absorbed for unclear reasons into the cult of Pluto and she was syncretised with his wife Proserpina.
 
 Eç autr deitað stan vecinaðessem ben jogndessem indesbroiðabr sur particulertað geographic, e cossy sceint stan compliscabr lon dolour com part all'œcumen religious de Rom.
@@ -12362,7 +12362,7 @@ grandson of the mathematician Raymond al Mustafa who himself had helped develop 
 Nell'oc asc er Mostàf laurant all'observatoir de Paratzon ne Brasil auster e noc obstroint y sar campaner parvasiscent se cous progression,
 At this time Mostàf was working at the observatory at Paratzon in eastern Brasil [Newfoundland] and despite advancements in the spreading steeplemesh,
 
-collaboraçon tras l'ocean atlantic remanen lent, descovart plusour sceint fait cos istrað ny Novomont e Vetomont y dou.
+collaboraçon tras l'occeyan atlantic remanen lent, descovart plusour sceint fait cos istrað ny Novomont e Vetomont y dou.
 collaboration across the Atlantic remained slow, with several discoveries made separately in the Novomund and Vetomund alike.
 
 ##
@@ -14832,7 +14832,7 @@ excerpt in translation from the January 2003 N scitation documents for the cours
 (α) Y plausiblessem es cal hom parmy eç plusour stant soumis com amour de Rey Ambrosc III?
 (α) Who is the most probable out of the many people who are claimed to have been lovers of King Ambrose III?
 
-(β) Cal cainç produgs y fonç notoir dy vascel Estellas daus Sanz, oc volent denir ja y scon nau solter acavant l'ocean Atlantic trasir?
+(β) Cal cainç produgs y fonç notoir dy vascel Estellas daus Sanz, oc volent denir ja y scon nau solter acavant l'occeyan Atlantic trasir?
 (β) What caused the infamous sinking of the Estellas daus Sanz, which would have been the second lone ship to make the Atlantic crossing?
 
 (γ) Carraçon n'au y Var por y Succession Barcelon un liesc a for 4 jorn?
@@ -16603,7 +16603,7 @@ It's an online collection of narrative tropes.
 
 84.5: Lower Mendeva
 
-Lower Mendeva (Borlish Mendeva Bassem /ˌmɛn.deˈva ˈba.sɛm/) is a geographical region comprising the southern section of the continent of Mendeva, located west of the Mendevan Gulf. The term sometimes also includes the islands of the Arcabil, which are located within said Gulf.
+Lower Mendeva (Borlish Mendeva Bassem /ˌmɛn.deˈva ˈba.sɛm/) is a geographical region comprising the southern section of the continent of Mendeva, located west of the Arcabil Gulf. The term sometimes also includes the islands of the Arcabil, which are located within said Gulf.
 
 Contact between Lower Mendeva and the Vetomund began in the late fifteenth century with merchant ships from the Morrack New World Company (established by Malik Munir al-Hamdawi in 1463). In turn, traders therefrom encountered the peoples of the Arcabil, the Mashick Empire in Lower Mendeva, and further south the Tavancine Empire in Cappatia.
 
@@ -18691,7 +18691,7 @@ British Mendeva refers to the polities of Mendeva which have undergone significa
 
 History
 
-In the seventeenth century, exploratory voyages by ships of the Kingdom of Britain founded staddomains along the Mendevan Gulf, which would grow via settlement, treaty and conquest into the polities of British Mendeva.
+In the seventeenth century, exploratory voyages by ships of the Kingdom of Britain founded staddomains along the Arcabil Gulf, which would grow via settlement, treaty and conquest into the polities of British Mendeva.
 
 The 'herdtale' tradition of storytelling which originated in nineteenth-century Mendeva was brought to wider recognition via several popular works published jointly in British Mendeva and Britain. Conversely, the masquira genre overtook the region later in that century following its popularity in the Vetomund.
 
@@ -18875,7 +18875,7 @@ brief references for some writers previously mentioned in my worldbuilding notes
 
 Olexi Harchenko (fl. c19) was a Zahid Russian [1] author from the city of Boxa [~Novi Sad, Serbia]. He wrote the widely-translated mystery work Разгадто (Dénouement), whose title was borrowed into Italian as rasgatto "resolution, unravelling of a mystery", and from there into many European languages.
 
-Thoffina'h Girmont (fl. 2005) is a British author who wrote Arthurian romance Y Ðreic o Redrɯth (The Dragon of Redrouth). The book is loosely based on the old tales codified in eleventh-century England (and reworked in post-Imperia Wales), but owes much more to the ahistorical reimaginings of the Long Peace [~1800] period.
+Thoffina'h Girmont (fl. 2005) is a British author who wrote Arthurian romance Y Ðreic o Redrwth (The Dragon of Redrouth). The book is loosely based on the old tales codified in eleventh-century England (and reworked in post-Imperia Wales), but owes much more to the ahistorical reimaginings of the Long Peace [~1800] period.
 
 Heudar Fiðaut (fl. c14) was a Borlish writer who is an important source of vernacular Middle Borlish texts. His most famous work is Catreðejnt Lagrem (Twenty-four Laments); his works together contain many first attestations of Borlish words (for example, graçant "merciful").
 
@@ -19279,7 +19279,7 @@ Morency Rivellerson (fl. 1976), clavierman and author of music textbooks
 
     notes in translation on the Romantic Period (ca. 1640–1700).
 
-L'epoc Romannesc sta descreut par gran accommission corrogaçonal. Com bustr, y canal entr Bordeu e Audaz fo complið d'an 1679, l'ocean Atlantic eð y Miterran conjognent lon deïr eðegl maritim trasir ec dominað par Morrac.
+L'epoc Romannesc sta descreut par gran accommission corrogaçonal. Com bustr, y canal entr Bordeu e Audaz fo complið d'an 1679, l'occeyan Atlantic eð y Miterran conjognent lon deïr eðegl maritim trasir ec dominað par Morrac.
 The Romantic period was characterised by great infrastructure projects. For example, the Bordew-Audaz canal was completed in 1679, connecting the Atlantic and the Middlesea without having to pass through Morrack-controlled seas.
 
 Polity e stat vassal plusour survescoirn noc a liesc dy Rix Romannesc; com bustr, y Principaltað de Mystra ne Greç, oc sceint com vassal dy Scon Empir Roman des y siecr onç, fo cos solemn dissoluð com faughanç parmy eç dy Rix Romannesc.
@@ -20268,7 +20268,7 @@ People
 Bayac Coswteg (fl. c19), diarist and political agitator
 Kjartan Rhysvor (fl. 1889), author of spycraft work While Embers Cool (Pan Oera'r Glo)
 King Maldwen Tamaha (fl. 1950), long-reigning monarch
-Peðr Tamaha (fl. 1950), bon-vivant prince notorious for perennial debt troubles
+Pether Tamaha (fl. 1950), bon-vivant prince notorious for perennial debt troubles
 Cadwgan Torriwr (fl. 1890), author of masquira work Men of Jet and Diamond (Dynnon o Vuhuð a Diamont)
 
 ##
@@ -25795,7 +25795,7 @@ What emerged was an overlong, farcical tale.
 
 Ax /aks/ [~SW Alaska] a peninsular polity in northwestern Mendeva [North America], along with the surrounding mainland region and an extended chain of islands leading west into the northern Lovac Ocean [Pacific]. 1780 < French l'Axe < poss. Vascon or Portingale l'Axa, a Axa < early 18C Arabic الأَقْصَى • al-Aqśá "the Furthest" < folk etymology from Oranger [Aleut] alaxsxaq "mainland", influenced by its northerly location and sheer distance from Mashick [Mexico]. Originally referring specifically to the peninsula, the term was extended to the island chain itself by the Morrack [Moroccan] surveyors who first recorded the term in a Vetomundane [Afroeurasian] language.
 
-Bahassassin /ˌba.hɐˈsa.sɪn/ [Mississippi River] the longest and most voluminous river in Mendeva at over twenty hundred leagues, flowing south into the Gulf of the Arcabil [Gulf of Mexico] through Hasiny. 1704 < Mid 17C Welsh Bahassassin < Carovacian [Caddo] báhassássin "mother of rivers".
+Bahassassin /ˌba.hɐˈsa.sɪn/ [Mississippi River] the longest and most voluminous river in Mendeva at over twenty hundred leagues, flowing south into the Arcabil Gulf [Gulf of Mexico] through Hasiny. 1704 < Mid 17C Welsh Bahassassin < Carovacian [Caddo] báhassássin "mother of rivers".
 
 Cocain /kʊˈkəin/ [Cuba] the largest of the islands of the Arcabil [Caribbean], or the polity that occupies this region and part of mainland Mendeva. 1530, repurposing of the word's previous meaning of "an imaginary land of folklore with an abundance of food, drink and other pleasures". This dates back to the late 14C < French Cocagne, Lombard Cuccagna, of uncertain further origin. The term has been connected to Willem Dutch cúkye "small cake" < Classical German cōcoō "cake" and to Old Irish cucann "food ration" < Latin coquīna "kitchen", but both have issues of provenance.
 
@@ -25808,7 +25808,7 @@ notes in translation on the later history of Provence.
 L'eç dezein apres stan l'asc cant y Provenç sovran hurstau y sona d'un republic marcander excellent.
 The following decades saw independent Provence take its place as a preeminent mercantile republic.
 
-Ag fin dy siecr seç lorry sar marcer aye se spanuð tras l'ocean Atlantic vars treborth ne Mendeva com Santrafeu nou stablið.
+Ag fin dy siecr seç lorry sar marcer aye se spanuð tras l'occeyan Atlantic vars treborth ne Mendeva com Santrafeu nou stablið.
 By the end of the sixteenth century their trade network reached across the Atlantic to port towns in Mendeva [North America] like the newly-established Santrafew.
 
 L'ec toun volen alcant aposc se combinar all'eiðel de Nou Provenç.
@@ -30234,8 +30234,8 @@ veronic [/vɪˈɾɔ.nɪk/ "plastic"] n. any of manifold substances with an exten
 
 notes in translation on the subcontinental region of Lower Mendeva.
 
-Mendeva Bassem es un region geographic abrangent dy part souðer ny tarmagn de Mendeva, se situant ag vest dy Bugt Mendevan.
-Lower Mendeva is a geographical region comprising the southern section of the continent of Mendeva [North America], located west of the Mendevan Gulf.
+Mendeva Bassem es un region geographic abrangent dy part souðer ny tarmagn de Mendeva, se situant ag vest dy Bugt Arcabil.
+Lower Mendeva is a geographical region comprising the southern section of the continent of Mendeva [North America], located west of the Arcabil Gulf.
 
 Parveg l'oc dob contien oðig l'eç istr dell'Arcabil, eç se situant entarn dy Bugt amont.
 The term sometimes also includes the islands of the Arcabil [Caribbean], which are located within said Gulf.
@@ -31867,7 +31867,7 @@ The two families had a protracted feud.
 
 233.5: The Great Borunesk Meeting
 
-further excerpts from Milda'h Ragner's 1954 popular history Grex Byd: Covarrod y Vaɯr Morɯn (A Girdled World: The Great Borunesk Meeting), a popular account of the 1517 coming together of people from around the world on the island of Borune [Borneo], and the sequence of events that led up to it.
+further excerpts from Milda'h Ragner's 1954 popular history Grex Byd: Covarrod y Vawr Morwn (A Girdled World: The Great Borunesk Meeting), a popular account of the 1517 coming together of people from around the world on the island of Borune [Borneo], and the sequence of events that led up to it.
 
 
 2: Fair of the Turning Winds

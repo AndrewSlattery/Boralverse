@@ -2,12 +2,12 @@
 type: body of water
 aliases:
   - Atlantic Ocean
-borlish: ocean Atlantic
+borlish: occeyan Atlantic
 place:
   - "[[Vetomund]]"
   - "[[Novomund]]"
 ---
-The Atlantic Ocean (Borlish **ocean Atlantic**) is the ocean between the [[Vetomund]] to the east and the [[Novomund]] to the west. The Novomund, or New World, takes in the lands west of the Atlantic, and [[Mendeva]] lies between the Atlantic and the Lovac Ocean.
+The Atlantic Ocean (Borlish **occeyan Atlantic**) is the ocean between the [[Vetomund]] to the east and the [[Novomund]] to the west. The Novomund, or New World, takes in the lands west of the Atlantic, and [[Mendeva]] lies between the Atlantic and the Lovac Ocean.
 
 ## Geography
 The [[Middlesea]] joins the Atlantic in the west, and the [[Graven Sea]] is an arm of the Atlantic in northern Europe, east of Denmark. [[Gaul]] has coasts on both the Atlantic and the Middlesea. In the west of the ocean lie [[Brasil]], an island in the North Atlantic off the eastern coast of Mendeva, and the islands of the [[Arcabil]], east of [[Mashick]].
