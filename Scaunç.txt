@@ -33094,3 +33094,47 @@ There being no further business, the meeting closed at half past nine, and membe
 
 ##
 
+245.2: mandovy "peanut"
+
+mandovy /ˌman.doˈvi/ [ˌman.dʊˈvi]
+- peanut, groundnut, the plant or its edible seed which ripens underground in a papery pod;
+- peanut butter, the ground nut used as a spread or a dressing;
+- nutshell, a brief summary containing the essential gist of a matter;
+- (slang, plural only) stash, nest egg, savings or valuables hidden e.g. around the house or in a separate account
+
+Etymology: originally in the staddenzen Borlish of the Novomund, a borrowing from Yengatow [Tupi] mandubi "peanut". The sense "peanut butter" is a twentieth-century clipping of saus de mandovy "peanut sauce". The sense "nutshell" arises in the nineteenth century as an alteration of earlier ne nouç "in a walnut", itself after a Classical anecdote due to Pliny of an Iliad copied small enough to fit in a nutshell. The slang sense, from the mid-twentieth century, probably alludes to the plant burying its own pods.
+
+My granmaðr aye mandovy sou y paið.
+/mi granˈma.ðr̩ ɛˈje ˌman.doˈvi su i peθ/
+[mi gʀɐmˈma.ðʀ‿ɪˈʝe ˌman.dʊˈvi su i peθ]
+1s.gn grandmother have-ipf peanut under df floor
+My gran kept a stash under the floorboards.
+
+##
+
+245.3: passar roug "struggle"
+
+passar roug /paˈsar ruj/ [pɐˈsɐː ʀuj]
+- struggle, flounder, have a hard time of it, to meet one setback after another;
+- run at a loss, be in deficit, to spend more than comes in;
+- (medicine) ail, worsen, to take a turn for the worse;
+- (education) fail, be marked down, to come back covered in corrections
+
+Etymology: idiom first attested in seventeenth-century merchants' correspondence, literally "to spend (time) red", from the practice of entering debts and losses in red ink in ledgers. The medical sense, from the eighteenth century, was likely helped along by the flush of fever, and the scholastic sense a century later by teachers' red-ink corrections. The general sense of struggling is from the twentieth century.
+
+Y varous pas roug cay tre annað.
+/i vaˈruz paz ruj ke tre aˈnaθ/
+[i vɐˈʀuz paz ʀuj ke tʀe ɐˈnah]
+df shop pass red fall three year
+The shop has been running at a loss for three years.
+
+##
+
+245.4: manne "handful"
+
+manne /maˈne/ [mɐˈne]
+- handful, fistful, as much as one hand can hold or grasp;
+- hand, the cards dealt to a single player;
+- round, deal, a single dealing of the cards and its play (also in extended use to other board games);
+- a few, a scattering, a number that could be counted on one hand;
+- lot, fortune, the circumstances one is dealt and must make the best of
