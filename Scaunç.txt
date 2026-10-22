@@ -33138,3 +33138,15 @@ manne /maˈne/ [mɐˈne]
 - round, deal, a single dealing of the cards and its play (also in extended use to other board games);
 - a few, a scattering, a number that could be counted on one hand;
 - lot, fortune, the circumstances one is dealt and must make the best of
+
+Etymology: Middle Borlish, from man "hand" (from Latin manus) and -e, a highly productive suffix of quantity or measure whose provenance is uncertain: it may be borrowed from Old French -é (from Latin -ātus), or else continue Latin -ēdō (compare e.g. forcotte "forkful", sdroyette "USB-ful"). The card-playing senses are seen from the seventeenth century and the figurative "lot, fortune" from the eighteenth; extension of the sense "round" to board games is from the twentieth.
+
+Se fig y manne dað.
+/se faj i maˈne daθ/
+[se faj i mɐˈne daθ]
+rfl lay.down df handful give-p.pst
+You play the hand you're dealt.
+
+##
+
+245.5:

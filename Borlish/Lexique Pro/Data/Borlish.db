@@ -24080,6 +24080,13 @@ The latter sense is seen mostly in the idiom l'oc m'es euxon (literally "this is
 
 \et Old Borlish
 
+\se forcotte
+\ps n
+
+\ge forkful
+
+\et measure noun from forcot "fork" with the suffix -e (compare manne "handful")
+
 \lx forcul
 \ps n
 
@@ -36074,6 +36081,20 @@ Old Borlish < Latin illa
 \ps n
 
 \ge handful
+\ge fistful
+\ge hand
+\ge round
+\ge deal
+\ge a few
+\ge a scattering
+\ge lot
+\ge fortune
+
+\xv Se fig y manne dað.
+\xe You play the hand you're dealt.
+
+\et Middle Borlish, from man "hand" (from Latin manus) and -e, a highly productive suffix of quantity or measure whose provenance is uncertain: it may be borrowed from Old French -é (from Latin -ātus), or else continue Latin -ēdō (compare e.g. forcotte "forkful", sdroyette "USB-ful"). The card-playing senses are seen from the seventeenth century and the figurative "lot, fortune" from the eighteenth; extension of the sense "round" to board games is from the twentieth.
+\mn man
 
 \lx manneç
 \ps n
@@ -54554,6 +54575,13 @@ Often in the phrase step ny scagl a natur "part of the natural order of things, 
 \xe She's got backup copies on the drive.
 
 \et diminutive of noun sdroy "depot, warehouse, stockpile", first attested in Middle Borlish isdroȝ "freight, goods transported by water". This was borrowed via synoymous zdruog in contemporary Saxon, likely from Polish zdroi "spring, small stream; origin, source". The historical and modern senses are presumed to be independent derivations; the latter first appears over a century after the former became practically obsolete.
+
+\se sdroyette
+\ps n
+
+\ge USB-ful
+
+\et measure noun from sdroyet "drive, storage device" with the suffix -e (compare manne "handful")
 
 \lx sdruçol
 \ps n
