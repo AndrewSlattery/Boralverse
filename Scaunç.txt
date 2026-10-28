@@ -1060,9 +1060,9 @@ onyx /oˈnɪks/ [ʊˈniks] onyx (gemstone), scallop (species of mussel), variety
 
 < Seen variously in Old and Early Middle Borlish as oneç, onniç, etc.; relatinised to onyx by 14C. The Latin onyx “onyx, yellowish gemstone, scallop” borrowed from Greek ὄνυξ (ónux, “nail, onyx”), from the ancestral ƕnōghs as before.
 
-Y lagç onyx con saus a kes er collüið de bou aromað.
+Y lagç onyx con saus de kes er collüið de bou aromað.
 The scallop pasta in cheese sauce came with spiced beef.
-/i ˈlɛjts oˈnɪks kɔn ˌsoz a ˈkɛz ɛʀ ˌkolaˈjɪθ de ˈbu ˌaʀoˈmaθ/
+/i ˈlɛjts oˈnɪks kɔn ˌsoz de ˈkɛz ɛʀ ˌkolaˈjɪθ de ˈbu ˌaʀoˈmaθ/
 
 ##
 
@@ -33126,7 +33126,7 @@ Y varous pas roug cay tre annað.
 /i vaˈruz paz ruj ke tre aˈnaθ/
 [i vɐˈʀuz paz ʀuj ke tʀe ɐˈnah]
 df shop pass red fall three year
-The shop has been running at a loss for three years.
+The shop has lost money for three years.
 
 ##
 
