@@ -45,7 +45,7 @@ Into the twentieth century, Vascony maintained strong ties with its neighbour Pr
 - Hernand IV (fl. 1820), who reigned during the height of the Modest Arrangement and the Second German War
 
 ## Other nobles
-- Princess [[Alexandra of Vascony]] (b. ca. 1430), first European royal to set foot in the Nvomund
+- Princess [[Alexandra of Vascony]] (b. ca. 1434), first European royal to set foot in the Nvomund
 - Prince [[Mark of Tolose]] (d. 1453), who predeceased his son Ambrose III
 - Princess Natalia of Vascony (b. ca. 1440), younger sister of Ambrose III
 - Prince [[Victor of Astorga]] (b. ca. 1440), younger brother of Ambrose III

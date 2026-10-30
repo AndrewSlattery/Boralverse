@@ -17,7 +17,7 @@ Born a foundling (the surname *daus Sanz* "of the Saints" was widely given to ch
 
 It was on the advice of daus Sanz that Lord Amigòt was able to secure the aid of King [[Marc V of France]]; [[France]] had reconciled with [[Normandy]] to avoid the tangle that was the [[Albion]] [[Wars of Fealty]]. With this support, he and several other noble families declared independence from [[Burgundy]] on the twenty-first of June, 1497 (which to this day is a national holiday in Provence).
 
-The following quote is popularly attributed to daus Sanz on the eve of the [[Battle of Margès (1499)]]. It mocks the states of Albion which had been embroiled in the Wars of Fealty for the past two decades.
+The following quote is popularly attributed to daus Sanz on the eve of the [[Battle of Margès (1499)]]. It mocks the states of Albion which had been embroiled in the Wars of Fealty for the past three decades.
 > Perhaps we should have sent for a Kentish witness! They might learn the subtle craft of ending the wars they start.
 
 After Daniel Menton's rule over independent Provence ended in 1517, his cousin Antoin was elected by the Concert under the close attention and martial guidance of daus Sanz.

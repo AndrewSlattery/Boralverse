@@ -1,13 +1,14 @@
 ---
 type: war
-dates: late 15th – early 16th c.
+dates: 1467–1513
+year: 1467
 place:
   - "[[Albion]]"
 posts:
   - "33.5"
   - "72.5"
 ---
-The Wars of Fealty were a series of conflicts between the polities of [[Albion]] in the late fifteenth and early sixteenth centuries which lasted forty-one years.
+The Wars of Fealty were a series of conflicts between the polities of [[Albion]] in the late fifteenth and early sixteenth centuries which lasted forty-six years.
 
 # History
 The traditional account asserts that the Wars of Fealty broke out due to a dispute over the location of the [[Redstone Chair]], a low-backed wooden throne inlaid with a sandstone block said to have been the stone over which the tenth-century [[Elved Marriage]] (which ended hostilities between Dane [[Northumber]] and [[Markland]] for almost a century and on which many subsequent monarchs had been crowned) was solemnised.

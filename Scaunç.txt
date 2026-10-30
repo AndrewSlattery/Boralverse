@@ -4604,7 +4604,7 @@ Of course, Vascony was not the only nearby state attempting to reach Asia by sea
 
 After the Landfall, the Company's efforts were swiftly redirected to the Novomund [the New World] (as were the naval efforts, however paltry, of most of Europe at this time). However, a notable exception was the relatively-new Kingdom of Britain, where Howel's ships had already set up resupply ports along the African coast. Having profited from the ongoing Wars of Fealty which raged across the rest of Albion [Great Britain], the king was convinced more opportunity lay in connecting the European market directly to Asia. Doubtless he also wanted to displace the Borlish supremacy in the northern trade (although this ambition would not be achieved in his lifetime).
 
-In any case, the tale of the twin voyages of the Cynthia and the Phœbos (of Morrack and Britain respectively) remains to this day one of the greatest stories of exploration and discovery the world has ever known, measuring up to Homer's Odyssey and Quoming's The Sea Peoples. Directed by Umanick and Chinese traders, mac Kellot's Phœbos sailed to Gurjat, Madray and eventually made port at Borune in 1516. This was at the time almost the south-eastern extremity of the known Vetomund.
+In any case, the tale of the twin voyages of the Cynthia and the Phœbos (of Morrack and Britain respectively) remains to this day one of the greatest stories of exploration and discovery the world has ever known, measuring up to Homer's Odyssey and Quoming's The Sea Peoples. Directed by Umanic and Chinese traders, mac Kellot's Phœbos sailed to Gurjat, Madray and eventually made port at Borune in 1516. This was at the time almost the south-eastern extremity of the known Vetomund.
 
 Meanwhile, the Cynthia under al-Casmi (himself a Persian immigrant to Morrack) had no less interesting a journey…
 
@@ -13853,7 +13853,7 @@ Ranolf VI, (crowned 1170), during whose reign Leon became a vassal of the kingdo
 Ambrose III "The Ascendant" (17 March 1435–28 February 1518), who presided over the Vascon Ascendancy
 Hernand IV (fl. 1820), who reigned during the height of the Modest Arrangement and the Second German War
 Other nobles
-Princess Alexandra of Vascony (b. ca. 1430), first European royal to set foot in the Nvomund
+Princess Alexandra of Vascony (b. ca. 1434), first European royal to set foot in the Nvomund
 Prince Mark of Tolose (d. 1453), who predeceased his son Ambrose III
 Princess Natalia of Vascony (b. ca. 1440), younger sister of Ambrose III
 Prince Victor of Astorga (b. ca. 1440), younger brother of Ambrose III
@@ -15403,7 +15403,7 @@ The First Drengot Empire of the eleventh and twelfth centuries counted Markland 
 
 The Mallor Wars were reignited after a quiescent period by the martial-minded King Andrew II, with the Sack of Rexam in 1301 during which the original St Brigid's Abbey burned to the ground.
 
-Markland was embroiled in the Wars of Fealty in the late fifteenth and early sixteenth centuries. Tensions over the location and possession of the Redstone Chair boiled over into a conflict that would last forty-one years. Markland conceded several battles to the young Kingdom of Britain in the early years of the wars, culminating in the 1483 Battle of Rexam which expanded the borders of Wales in the north and killed the last Duke of Chester.
+Markland was embroiled in the Wars of Fealty in the late fifteenth and early sixteenth centuries. Tensions over the location and possession of the Redstone Chair boiled over into a conflict that would last forty-six years. Markland conceded several battles to the young Kingdom of Britain in the early years of the wars, culminating in the 1483 Battle of Rexam which expanded the borders of Wales in the north and killed the last Duke of Chester.
 
 In the final years of the Wars of Fealty, a code known as Thieves' Script was employed by the forces of King Andrew III, apparently adapted from similar systems used by gangs of housebreakers in Nottingham. It is remembered today as a very early precursor of codes like steeplescript or modern one-zeffre encoding.
 
@@ -18520,7 +18520,7 @@ You should invite your sister; she's so funny.
 
 The Phœbos was a flagship of the Kingdom of Britain in the early sixteenth century. Having profited greatly at the expense of the other polities of Albion [Great Britain] during the Wars of Fealty, Britain under King Howel sought to extend its trade mesh past its posts down the west African coast, and trade with Asia directly by sea.
 
-To this end, a coterie of ships led by the Phœbos (and itself captained by Martan mac Kellot) was tasked with sailing as far east as possible. After rounding Africa and making port in such places as Ungotia [Zanzibar], they were directed by Umanick [Omani] and then Chinese traders. Via Gurjat and Madray [1], they eventually arrived in Borune, at that time the southeasternmost land known in the Vetomund.
+To this end, a coterie of ships led by the Phœbos (and itself captained by Martan mac Kellot) was tasked with sailing as far east as possible. After rounding Africa and making port in such places as Ungotia [Zanzibar], they were directed by Umanic [Omani] and then Chinese traders. Via Gurjat and Madray [1], they eventually arrived in Borune, at that time the southeasternmost land known in the Vetomund.
 
 The Phœbos was thus present at the Great Borunesk Meeting of 1517. The ship's meeting with the Morrack ship the Cynthia in the port city of Sinquan is the definitive moment in the course of the Meeting, and it appears in several book and film adaptations. It is popularly assumed that the crews could not understand one another; in fact at least a dozen crewmembers of the Phœbos spoke some Arabic, as the British and Morrack trade meshes had overlapped for centuries.
 
@@ -19347,7 +19347,7 @@ Born a foundling (the surname daus Sanz "of the Saints" was widely given to chil
 
 It was on the advice of daus Sanz that Lord Amigòt was able to secure the aid of King Marc V of France; France had reconciled with Normandy to avoid the tangle that was the Albion Wars of Fealty. With this support, he and several other noble families declared independence from Burgundy on the twenty-first of June, 1497 (which to this day is a national holiday in Provence).
 
-The following quote is popularly attributed to daus Sanz on the eve of the Battle of Margès (1499). It mocks the states of Albion which had been embroiled in the Wars of Fealty for the past two decades.
+The following quote is popularly attributed to daus Sanz on the eve of the Battle of Margès (1499). It mocks the states of Albion which had been embroiled in the Wars of Fealty for the past three decades.
 
 Perhaps we should have sent for a Kentish witness! They might learn the subtle craft of ending the wars they start.
 
@@ -25532,7 +25532,7 @@ The terms Novomund and Mendeva [North America] date to this voyage; a surviving 
 
 The Landfall occurred at the height of the so-called Vascon Ascendancy, when Vascony [N Spain, SW France] reached its territorial maximum under Ambrose III, and the trade opportunities that arose over the following decades were just as beneficial for the polity. Ambrose's rival, Munir al-Hamdawi of Morrack [Morocco], quickly redirected the efforts of his presciently-named New World Company westward (having previously maintained trade routes to the East), leading to the discovery of the faster southern route to the Novomund and the islands of the Arcabil [Caribbean].
 
-The first Vetomundane royal to set foot in the Novomund was King Ambrose's elder sister Princess Alexandra of Vascony, who visited the new settlement of Paratzon [St John's, NL] in the 1490s. It is unknown why she (and several female attendants) undertook the voyage, although her second husband's various deficiencies and scandals have been implicated. Her visit is remembered for advancing understanding of scurvy (the chemical sandrine [vitamin C] is named in her honour), although it would take over a century and experiments with guy-conies [guinea pigs] before ships could come close to effectively preventing the malady.
+The first Vetomundane royal to set foot in the Novomund was King Ambrose's elder sister Princess Alexandra of Vascony, who visited the new settlement of Paratzon [St John's, NL] in the 1470s. It is unknown why she (and several female attendants) undertook the voyage, although her second husband's various deficiencies and scandals have been implicated. Her visit is remembered for advancing understanding of scurvy (the chemical sandrine [vitamin C] is named in her honour), although it would take over a century and experiments with guy-conies [guinea pigs] before ships could come close to effectively preventing the malady.
 
 ##
 
@@ -33149,4 +33149,29 @@ You play the hand you're dealt.
 
 ##
 
-245.5:
+245.5: The Old Country (cont. 2)
+
+continued excerpt (covering the years 1424 to 1517) from The Old Country, a tourist guidebook about Britain [~Wales et al.] aimed at travellers from British Mendeva [~US South] written by Ossewma'h Ariandro.
+
+…founding a kingdom when they formed a unified fleet. The lords of the tallaths [provinces] had spent a generation learning that they needed an ultimate authority (and scapegoat) for the navy and its contracts.
+
+The tallaths kept their own courts, levies, taxes and languages, and gave the crown only their navies, their coinage and their ambassadors. The final oaths were sworn on David's Day, rendering the New Year, the patron's day and the founding of the kingdom a single festival. (This goes some way to explaining Deganny [Conwy].)
+
+The Wars of Fealty
+
+The Wars of Fealty began over the Redstone Chair, a throne which Britain had neither claim to nor use for. Nonetheless, Britain joined from a position of strength and spent the early years extracting concessions from Markland. At Rexam [Wrexham] in 1483 the last Duke of Chester was killed, and when the attack on Chester itself was rebuffed shortly afterwards, Britain—with the border more or less where it wanted it—bowed out, leaving the rest of Albion [Great Britain] to fight on for another thirty years.
+
+The marriages of this period are illustratively prestigious. Margaret of Iscombe [Exeter] married Prince Mark of Tolose, heir to Vascony, so that Ambrose the Ascendant and his elder sister Alexandra had a Devoner mother. Alexandra's second marriage, made during the wars but before her famous voyage to the Novomund, was into Wales.
+
+Howel's road
+
+King Howel spent the subsequent peace on harbours. By the turn of the century a chain of British victualling stations ran down the Atlantic coast of Africa, built to reach Asia directly by sea.
+
+The Phœbos, captained by Martan mac Kellot, went down that road and kept going, via Ungotia [Zanzibar] and Gurjat [Gujarat], where it spent several months of 1512, and on through Madray [Madurai]. In 1516 it reached Borune [Borneo], and at Sinquan [Singkawang] the following year the Morrack [Moroccan] ship Cynthia found it at anchor.
+
+The popular story that the two crews could not understand each other is wrong; a dozen men aboard the Phœbos had some Arabic. What actually passed between the ships is unknown, because the relevant pages of al-Casmi's otherwise immaculate logbook are missing.
+
+Mac Kellot, having been told how much ocean stretched out to the east, declined to sail round the world and instead turned back. The next British ships to cross an ocean went west, and…
+
+##
+

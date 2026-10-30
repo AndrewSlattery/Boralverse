@@ -12254,11 +12254,11 @@ claims:
 - entry: 56.5
   title: Vascony
   category: person
-  claim: Princess Alexandra of Vascony (b. ca. 1430 N) was the first European royal to set foot in the Novomund.
+  claim: Princess Alexandra of Vascony (b. ca. 1434 N) was the first European royal to set foot in the Novomund.
   entities:
   - name: Alexandra of Vascony
     type: person
-  dates: b. ca. 1430 N
+  dates: b. ca. 1434 N
 - entry: 56.5
   title: Vascony
   category: person
@@ -23792,7 +23792,7 @@ claims:
   title: Novomundane Landfall
   category: person
   claim: Princess Alexandra of Vascony, elder sister of King Ambrose III, was the first Vetomundane royal to set foot in the
-    Novomund; she visited the settlement of Paratzon in the 1490s.
+    Novomund; she visited the settlement of Paratzon in the 1470s.
   entities:
   - name: Alexandra
     type: person
@@ -23804,7 +23804,7 @@ claims:
   - type: sibling
     from: Alexandra
     to: Ambrose III
-  dates: 1490s N
+  dates: 1470s N
 - entry: 171.5
   title: Novomundane Landfall
   category: glossary
@@ -23822,7 +23822,7 @@ claims:
     type: person
   - name: sandrine
     type: concept
-  dates: 1490s N
+  dates: 1470s N
 - entry: 172.5
   title: How to spell Borlish
   category: language

@@ -1,4 +1,4 @@
-245.5: Hands Given and Hands Left
+###.5: Hands Given and Hands Left
 
     excerpt in translation from The Registered Hand: Identification from the Leu Ledgers to the Grimmer, a history by New Leudong historian Mared Hau, originally published in New Leudong Cambrick in 2009 through the University of Mehannin.
 
