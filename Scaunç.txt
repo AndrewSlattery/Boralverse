@@ -11704,7 +11704,7 @@ Etymology: sixteenth-century borrowing reflecting Norman hiat, Lombard hiato or 
     1p use-pst-1p def gap for dessert buy-inf
     We used the interval to get sweets.
 
-*both pronounciations (and even the misspelling yat) are widespread in the modern period, though the latter is in some quarters proscribed.
+*both pronunciations (and even the misspelling yat) are widespread in the modern period, though the latter is in some quarters proscribed.
 
 ##
 
@@ -33196,4 +33196,65 @@ Some of the oldest civilisations made figurines like the Egyptian voshapty [usha
 
 ##
 
-246.2:
+246.2: quincarol "straight man"
+
+quincarol /ˌkwɪn.kaˈrɔl/ [ˌkwɪŋ.kɐˈʀɔl]
+- (archaic) ladies' man, gallant, womaniser, a man much given to the company or pursuit of women;
+- (dialect) the only man in a household or a workplace of women;
+- straight man, heterosexual man, a man attracted exclusively or predominantly to women;
+- (modifier) straight, het, heterosexual, (of a man) attracted exclusively or predominantly to women;
+- laddish, boorish, characteristic of stereotypical depictions of heterosexual men
+
+(in the latter senses also quin /kwɪn/ [kwɪn])
+
+Etymology: though current in the first sense since Middle Borlish, the word later survived mainly in dialect. It comes from a compound of Old Norse kvinna "woman" and karl "man, fellow", literally "women's man" (compare Old Norse kvennamaðr "womaniser"). It was reintroduced into standard Borlish via twentieth-century tovaric [queer] slang; the clipping quin is from the 1970s.
+
+L'hontarn es quincarol, ma sy fraðr no's oc.
+/lɔnˈtarn ɛz ˌkwɪn.kaˈrɔl | ma si ˈfraðr̩ nɔz ɔk/
+[lʊnˈtɐːn ɪz ˌkwɪŋ.kɐˈʀɔl | ma si ˈfʀa.ðɐ nɔz ɔk]
+df=bartender be straight | but 3s.gn brother ng=be s.px
+The bartender is straight, but his brother isn't.
+
+##
+
+246.3: jalicquazur "abracadabra"
+
+jalicquazur /ˌʒa.li.kwaˈzɪr/ [ˌʝa.lɪ.kwɐˈzɪː]
+- (interjection) hey presto, abracadabra, alakazam, the word spoken at the climax of a conjuring trick (also in metaphorical use);
+- sleight of hand, legerdemain, conjuring, stage magic or a single magic trick;
+- hocus pocus, a claimed marvel or relic dismissed as stage trickery;
+- flimflam, sharp practice, a swindle worked by misdirection;
+- jiggery-pokery, fiddling, fudging the numbers, cooking the books, underhand manipulation of accounts or results
+
+Etymology: late eighteenth century, from y Jalicq Azur "the Bluejacket" (from jalicq "waistcoat, tuxedo", ultimately from Turk yelec via Arabic and Portingale, and azur "blue", via Portingale from Arabic), the stage name of an illusionist who played to Damvath and Cordin society during the Long Peace. The epenthetic /-w-/ reflects an older pronunciation of q-final words before vowels.
+
+Though still unidentified, it has been suggested that the Bluejacket was a woman in men's clothing, possibly part of the nascent Deviance movement. The name appears to have been shouted by the audience at the climaxes of Bluejacket's illusions. The dismissive sense flourished in the polemics surrounding the Laic Declarations, and the financial senses are from the twentieth century.
+
+Y nombler fey jalicquazur coll'accont.
+/i nɔmˈblɛr fi ˌʒa.li.kwaˈzɪr ˌkɔ.laˈkɔnt/
+[i nʊmˈblɛː fi ˌʝa.lɪ.kwɐˈzɪː ˌkɔ.lɐˈkɔnt]
+df banker do.pst abracadabra with-df=account
+The treasurer fiddled the accounts.
+
+##
+
+246.4: rad "transgender"
+
+rad /rad/ [ʀad]
+- trans, transgender, having a gender other than the one assigned at birth;
+- characteristic of a particular culture of trans people (as in trans music, trans fashion, etc.);
+- (biology, colloquially) sequentially hermaphroditic, changing sex during its life;
+- (linguistics) exhibiting quirky gender agreement within a language's system of noun classes;
+- retrofitted, repurposed, converted, (of e.g. buildings, ships or computer programs) having been altered or extended for another use
+
+Etymology: late nineteenth century, from the tovaric scene of the Riverine Cities, borrowing a Slavone word, most likely Zahid Russian rado "gladly, willingly; on purpose, deliberately", from Proto-Slavic *ràdъ "glad, willing". The biological and linguistic senses are twentieth-century extensions in popular science writing and in grammarians' slang respectively; the last sense originates in estate agents' jargon of the 1980s, from which it spread to other converted things.
+
+Y randy sta un varous rad.
+/i ranˈdi sta ɪn vaˈruz rad/
+[i ʀɐnˈdi sta ɪn vɐˈʀuz ʀad]
+df apartment be.ipf indf warehouse trans
+The flat was a converted warehouse.
+
+##
+
+246.5:

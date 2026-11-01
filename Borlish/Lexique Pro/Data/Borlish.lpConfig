@@ -23,6 +23,11 @@
    </abbrev>
 
    <sortOrder type="icu-rules">
+&amp;ae &lt;&lt; æ &lt;&lt;&lt; Æ
+&amp;c &lt; ç &lt;&lt;&lt; Ç
+&amp;d &lt; ð &lt;&lt;&lt; Ð
+&amp;i &lt;&lt; ï &lt;&lt;&lt; Ï
+&amp;oe &lt;&lt; œ &lt;&lt;&lt; Œ
    </sortOrder>
 
    <trait name="IsSortNeeded" value="true"/>
