@@ -4365,11 +4365,11 @@ claims:
 - entry: '20.5'
   title: A University, and Twins
   category: person
-  claim: Jacomo Bruno was a minor landowner in Furlaine in the early nineteenth century.
+  claim: Jacomo Bruno was a minor landowner in Furlain in the early nineteenth century.
   entities:
   - name: Jacomo Bruno
     type: person
-  - name: Furlaine
+  - name: Furlain
     type: place
   dates:
   - early 19th century
@@ -4492,11 +4492,11 @@ claims:
 - entry: '20.5'
   title: A University, and Twins
   category: person
-  claim: Chiarina Bruno was born at her father's estate in western Furlaine.
+  claim: Chiarina Bruno was born at her father's estate in western Furlain.
   entities:
   - name: Chiarina Bruno
     type: person
-  - name: Furlaine
+  - name: Furlain
     type: place
 - entry: '20.5'
   title: A University, and Twins
@@ -9021,7 +9021,7 @@ claims:
 - entry: '35.5'
   title: Verona & War
   category: event
-  claim: Borland participated in the Second German War, with Borlish soldiers present alongside Bavarn and Furlaine fighters
+  claim: Borland participated in the Second German War, with Borlish soldiers present alongside Bavarn and Furlain fighters
     at the Battle of Hulm in 1821.
   entities:
   - name: Borland
@@ -15709,7 +15709,7 @@ claims:
 - entry: 86.5
   title: Bavarn
   category: polity
-  claim: Bavarn (Bóarn) is a centrally-located German polity of Europe, bordering Bohemia, Burgundy, Furlaine, Saxony, and
+  claim: Bavarn (Bóarn) is a centrally-located German polity of Europe, bordering Bohemia, Burgundy, Furlain, Saxony, and
     Willemy.
   entities:
   - name: Bavarn

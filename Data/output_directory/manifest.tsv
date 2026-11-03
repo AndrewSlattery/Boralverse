@@ -97,7 +97,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 20.2	dictionary	ja oc eus "just as well"	ja oc eus	just as well	True	1	176	1060	dictionary/20.2_ja_oc_eus_just_as_well.md
 20.3	dictionary	y jainç tauger "the long game"	y jainç tauger	the long game	True	3	193	1227	dictionary/20.3_y_jainç_tauger_the_long_game.md
 20.4	dictionary	doujug veunt "ecosystem"	doujug veunt	ecosystem	True	2	146	975	dictionary/20.4_doujug_veunt_ecosystem.md
-20.5	notes	A University, and Twins			False	7	376	2327	notes/20.5_A_University,_and_Twins.md
+20.5	notes	A University, and Twins			False	7	376	2325	notes/20.5_A_University,_and_Twins.md
 21.1	excerpt	The Midnight Impostor			False	0	278	1675	excerpt/21.1_The_Midnight_Impostor.md
 21.2	dictionary	uvrautr "fertile"	uvrautr	fertile	True	3	135	936	dictionary/21.2_uvrautr_fertile.md
 21.3	dictionary	yert "awake"	yert	awake	True	3	173	1011	dictionary/21.3_yert_awake.md
@@ -127,7 +127,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 26.2	dictionary	debriscellisar "cut back"	debriscellisar	cut back	True	3	114	757	dictionary/26.2_debriscellisar_cut_back.md
 26.3	dictionary	madarc "beat cop"	madarc	beat cop	True	2	111	698	dictionary/26.3_madarc_beat_cop.md
 26.4	dictionary	coutoccar "poke"	coutoccar	poke	True	3	122	782	dictionary/26.4_coutoccar_poke.md
-26.5	notes	Borland			False	0	4103	26264	notes/26.5_Borland.md
+26.5	notes	Borland			False	0	4103	26263	notes/26.5_Borland.md
 27.1	excerpt	The Witch of Tebjacka			False	0	219	1254	excerpt/27.1_The_Witch_of_Tebjacka.md
 27.2	dictionary	coram “in person”			True	2	133	878	dictionary/27.2_coram_“in_person”.md
 27.3	dictionary	kireðam “wholeheartedly”			True	2	134	973	dictionary/27.3_kireðam_“wholeheartedly”.md
@@ -172,7 +172,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 35.2	dictionary	zillapr "buttercup"	zillapr	buttercup	True	1	104	749	dictionary/35.2_zillapr_buttercup.md
 35.3	dictionary	lon fregn "undoubtedly"	lon fregn	undoubtedly	True	3	169	1018	dictionary/35.3_lon_fregn_undoubtedly.md
 35.4	dictionary	heilant "dry land"	heilant	dry land	True	2	111	667	dictionary/35.4_heilant_dry_land.md
-35.5	notes	Verona & War			False	0	354	2198	notes/35.5_Verona_&_War.md
+35.5	notes	Verona & War			False	0	354	2197	notes/35.5_Verona_&_War.md
 36.1	excerpt	Heist Fiction			False	0	215	1309	excerpt/36.1_Heist_Fiction.md
 36.2	dictionary	goðou "tunnel"	goðou	tunnel	True	3	147	968	dictionary/36.2_goðou_tunnel.md
 36.3	dictionary	flagitar "insist"	flagitar	insist	True	3	104	710	dictionary/36.3_flagitar_insist.md
@@ -247,7 +247,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 49.5	notes	9th Lexember			True	3	454	2880	notes/49.5_9th_Lexember.md
 49.6	dictionary	10th Lexember			True	3	115	726	dictionary/49.6_10th_Lexember.md
 49.7	dictionary	11th Lexember			True	3	144	981	dictionary/49.7_11th_Lexember.md
-50.1	excerpt	12th Lexember			True	4	428	2600	excerpt/50.1_12th_Lexember.md
+50.1	excerpt	12th Lexember			True	4	428	2598	excerpt/50.1_12th_Lexember.md
 50.2	dictionary	13th Lexember			True	3	172	1115	dictionary/50.2_13th_Lexember.md
 50.3	dictionary	14th Lexember			True	3	136	976	dictionary/50.3_14th_Lexember.md
 50.4	dictionary	15th Lexember			True	3	134	859	dictionary/50.4_15th_Lexember.md
@@ -436,7 +436,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 86.2	dictionary	improbar "disapprove of"	improbar	disapprove of	True	3	109	774	dictionary/86.2_improbar_disapprove_of.md
 86.3	dictionary	hapr "groceries"	hapr	groceries	True	3	148	994	dictionary/86.3_hapr_groceries.md
 86.4	dictionary	bougr "fellow"	bougr	fellow	True	2	121	795	dictionary/86.4_bougr_fellow.md
-86.5	notes	Bavarn			False	0	350	2289	notes/86.5_Bavarn.md
+86.5	notes	Bavarn			False	0	350	2288	notes/86.5_Bavarn.md
 87.1	excerpt	Deviance Exam			False	0	299	1890	excerpt/87.1_Deviance_Exam.md
 87.2	dictionary	teurfiar "sully"	teurfiar	sully	True	3	129	855	dictionary/87.2_teurfiar_sully.md
 87.3	dictionary	amaçgat ðescant "breeding ground"	amaçgat ðescant	breeding ground	True	2	134	933	dictionary/87.3_amaçgat_ðescant_breeding_ground.md

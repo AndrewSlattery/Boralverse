@@ -5110,9 +5110,9 @@ image
 
 …library has finally provided me with Dümmeyer's treatise on collection and delivery; I will not appease you by pretending to have read it, but be assured I will find the hours for it this very week! Dear Johan insists it is all atmospherical and futile nonsense, but then Johan trusts no mathematics since Craddock's book on distance room. Honestly I'm surprised he consents to use even the mechanical methods, but I suppose he isn't quite bone-headed enough to make his workshop designing more difficult for himself.
 
-Have you any plans to go south this summer? I hear they shall reopen the arena in Verona to performances—they say Bruno's Wings Afire will be the first shown there since the war! I had the pleasure of knowing her brother Jacom before she was ever known to the wider world (apparently they are astonishingly similar in appearance, even for twins); we fought together at Hulm in 21. That was an astonishingly-mismanaged offensive and in all honestly prolonged the war for months, but I mustn't start this rant, or I will never end.
+Have you any plans to go south this summer? I hear they shall reopen the arena in Verona to performances—they say Bruno's Wings Afire will be the first shown there since the war! I had the pleasure of knowing her brother Jacom before she was ever known to the wider world (apparently they are astonishingly similar in appearance, even for twins); we fought together at Hulm in 21. That was an astonishingly-mismanaged offensive and in all honesty prolonged the war for months, but I mustn't start this rant, or I will never end.
 
-Jacom had nothing but praise for his sister and their parents, in any case (although the desire for a warm bed and the call of peacetime Furlain no doubt inflenced his recollection), so I cannot do anything but recommend the opera to you. If in the end you hate the singing you will at least have the pleasure of restored Roman architecture!
+Jacom had nothing but praise for his sister and their parents, in any case (although the desire for a warm bed and the call of peacetime Furlain no doubt influenced his recollection), so I cannot do anything but recommend the opera to you. If in the end you hate the singing you will at least have the pleasure of restored Roman architecture!
 
 Your friend,
 Darren Brodus
@@ -9749,14 +9749,14 @@ Offered courses
 - Concurrence History of the 16th Century: Death, Ships and the Movement of the Heavens (Histoir Concorrent, s16 : Mort, Vascel eð y Motion Celest); 2008
 __
 
-Jacomo Bruno (fl. 1821) was a minor landowner in Furlaine in the early nineteenth century. He was the twin brother of composer Chiarina Bruno, who is better-remembered.
+Jacomo Bruno (fl. 1821) was a minor landowner in Furlain in the early nineteenth century. He was the twin brother of composer Chiarina Bruno, who is better-remembered.
 
 Jacomo fought in the Second German War, and participated alongside Borlish troops in the shambolic 1821 Battle of Hulm. During this service he met future mathematician Darren Brodus, with whom he would strike a life-long epistolary friendship.
 __
 
 Chiarina Bruno (fl. 1824) was a librettist and composer active in the early nineteenth century, primarily in the aftermath of the Second German War. Her most enduring work is the opera Ale in Fiamme (Wings Afire), an adaptation of the story of Icarus.
 
-Born at her father's estate in western Furlaine, she lived in Verona for most of her adult life. She had a twin brother Jacomo; they were noted for their remarkably similar appearance, even for twins.
+Born at her father's estate in western Furlain, she lived in Verona for most of her adult life. She had a twin brother Jacomo; they were noted for their remarkably similar appearance, even for twins.
 
 ##
 
@@ -10420,7 +10420,7 @@ Borland in the Long Peace and afterward
 
 The location of the Borlish parliament had until this point not been fixed to one building—usually one member would donate use of an estate for the duration of a legislative session. In the late eighteenth century this state of affairs ended, with the completion of the Jacobin Estates (Palaç Jagovin) in Damvath.
 
-During the inflamed period of Reaction War which followed the Long Peace, Borland participated in the Second German War. Borlish soldiers were present at the disastrously mismanaged Battle of Hulm in 1821, and they fought alongside troops from many nearby countries, such as Furlaine and Crovatia. The war and Borland's alliance with the Northern Concert sparked major mozard protests in cities across the country.
+During the inflamed period of Reaction War which followed the Long Peace, Borland participated in the Second German War. Borlish soldiers were present at the disastrously mismanaged Battle of Hulm in 1821, and they fought alongside troops from many nearby countries, such as Furlain and Crovatia. The war and Borland's alliance with the Northern Concert sparked major mozard protests in cities across the country.
 
 Borland in the Workshop decades
 
@@ -11450,7 +11450,7 @@ The Second German War (1815–23) was a conflict centred on German lands but inv
 
 Although Vascony at first managed not to become embroiled in the conflict, once its interests in Mendeva and the East were threatened, then-king Hernand IV had no choice but to declare against the Northern Concert and in favour of the Convoy.
 
-Borland participated in the war, with Borlish soldiers present alongside Bavarn and Furlaine fighters at the disastrously mismanaged Battle of Hulm in 1821.
+Borland participated in the war, with Borlish soldiers present alongside Bavarn and Furlain fighters at the disastrously mismanaged Battle of Hulm in 1821.
 
 The Northern Concert were a major power involved in the war, and they were allied with Borland, not uncontroversially—the alliance sparked many mozard protests in cities across the country.
 
@@ -13002,10 +13002,10 @@ Jo broucau con hugt sy fraðr Jacom connoscr pre jamay fos la reconnuð cos mond
 I had the pleasure of knowing her brother Jacom before she was ever known to the wider world (apparently they are astonishingly similar in appearance, even for twins); we fought together at Hulm in 21.
 
 L'oç gazou a se caut mesgournað cos horfiant eð lon alcun fegnment y var prolongað lonc meis—ma jo no dey l'oc invectif souvr neðan jamay lo quïr.
-That was a horrifically-mismanaged offensive and in all honestly prolonged the war for months—but I mustn't start this rant, or I will never end.
+That was a horrifically-mismanaged offensive and in all honesty prolonged the war for months—but I mustn't start this rant, or I will never end.
 
 Jacom n'aye nien fait for sy sour e lorrell'aldr lavar, toð cas final (ig degnant un quil quemant desirar eð y convoc de Frioul an asc paçous sevir volois lon fregn sy memoranç influïr), e donc no poð jo nien fair for te rannuðar all'oc melodram.
-Jacom had nothing but praise for his sister and their parents, in any case (although the desire for a warm bed and the call of peacetime Furlaine no doubt influenced his recollection), so I cannot do anything but recommend the opera to you.
+Jacom had nothing but praise for his sister and their parents, in any case (although the desire for a warm bed and the call of peacetime Furlain no doubt influenced his recollection), so I cannot do anything but recommend the opera to you.
 
 ##
 
@@ -16774,7 +16774,7 @@ A new guy's just started at the grocer's.
 
 86.5: Bavarn
 
-Bavarn (Bóarn /ˈpoː.ɐːn/) is a centrally-located German polity of Europe. Among others, it borders Bohemia, Burgundy, Furlaine, Saxony, and Willemy.
+Bavarn (Bóarn /ˈpoː.ɐːn/) is a centrally-located German polity of Europe. Among others, it borders Bohemia, Burgundy, Furlain, Saxony, and Willemy.
 
 History
 

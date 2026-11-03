@@ -15,7 +15,7 @@ Furlain suffered a severe earthquake in 1348 which destroyed both the castle and
 
 The [[Armourcloth|armourcloth]] trend in women's fashion (which emulated men's military dress) began in Furlain during the [[Long Peace]] in the late eighteenth century. The local term *voinacciale* (from *voina*, a slang term for a soldier) was borrowed into several other languages to describe the style.
 
-Troops from Furlain fought in the [[Second German War]] (1815–23), principally against Bavarn. Furlain was allied with such countries as [[Borland]], with whom they undertook the disastrous [[Battle of Hulm (1821)|Battle of Hulm]] in 1821.
+Troops from Furlain fought in the [[Second German War]] (1815–23), principally against Bavarn. Furlain was allied with such countries as [[Borland]], with whom they undertook the disastrous [[Battle of Hulm (1821)|Battle of Hulm]] in 1821. Furlain changed sides during the war, since at Hulm its troops fought alongside Bavarn.
 ## People
 - [[Chiarina Bruno]] (fl. 1824), librettist and composer who wrote the opera [[Wings Afire]].
 - [[Jacomo Bruno]] (fl. 1821), twin of the better-known Chiarina and soldier of the [[Second German War]].
