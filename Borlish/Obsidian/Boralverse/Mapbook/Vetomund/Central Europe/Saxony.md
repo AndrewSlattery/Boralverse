@@ -6,7 +6,7 @@ posts:
   - "28.5"
   - "203.1"
 ---
-Saxony is a polity in [[Europe]] bordering places such as [[Bavarn]], [[Poland]], [[Willemy]] and [[Bohemia]].
+Saxony is a polity in [[Europe]] bordering places such as [[Bavarn]], [[Poland]], [[Willemy]] and [[Bohamy]].
 
 # History
 During the [[Second Tetrarchy]], the Kingdom of Saxony was a major vassal state of the [[First German Empire|German Empire]] administered from Bardwick, and many of their Houghbrocken dynasty ruled the empire outright. The region in the twelfth century is characterised by tensions between Saxony and [[Bavarn]], the other major vassal kingdom of the empire.

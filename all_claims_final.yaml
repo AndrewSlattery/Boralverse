@@ -2894,21 +2894,21 @@ claims:
 - entry: '15.5'
   title: The Second Great Dying
   category: event
-  claim: Bohemia is a notable example of a state which suffered fewer casualties in the Second Great Dying, according to its
+  claim: Bohamy is a notable example of a state which suffered fewer casualties in the Second Great Dying, according to its
     own records.
   entities:
-  - name: Bohemia
+  - name: Bohamy
     type: polity
   - name: Second Great Dying
     type: event
 - entry: '15.5'
   title: The Second Great Dying
   category: event
-  claim: The records of Burgundy and Bohemia regarding casualties in the Second Great Dying cannot entirely be trusted.
+  claim: The records of Burgundy and Bohamy regarding casualties in the Second Great Dying cannot entirely be trusted.
   entities:
   - name: Burgundy
     type: polity
-  - name: Bohemia
+  - name: Bohamy
     type: polity
   - name: Second Great Dying
     type: event
@@ -7393,12 +7393,12 @@ claims:
 - entry: '27.5'
   title: New Provence
   category: economics
-  claim: In the sixteenth and seventeenth centuries, New Provincial trading posts dealt primarily with Mastoiset peoples,
+  claim: In the sixteenth and seventeenth centuries, New Provincial trading posts dealt primarily with Mastoisèt peoples,
     exchanging metal tools for beaver pelts.
   entities:
   - name: New Provence
     type: polity
-  - name: Mastoiset
+  - name: Mastoisèt
     type: group
   dates:
   - 16th century N
@@ -7550,7 +7550,7 @@ claims:
 - entry: '28.5'
   title: Saxony and Libya
   category: polity
-  claim: Saxony is a polity in Europe bordering Poland, Willemy, and Bohemia.
+  claim: Saxony is a polity in Europe bordering Poland, Willemy, and Bohamy.
   entities:
   - name: Saxony
     type: polity
@@ -7558,7 +7558,7 @@ claims:
     type: polity
   - name: Willemy
     type: polity
-  - name: Bohemia
+  - name: Bohamy
     type: polity
 - entry: '28.5'
   title: Saxony and Libya
@@ -15709,7 +15709,7 @@ claims:
 - entry: 86.5
   title: Bavarn
   category: polity
-  claim: Bavarn (Bóarn) is a centrally-located German polity of Europe, bordering Bohemia, Burgundy, Furlain, Saxony, and
+  claim: Bavarn (Bóarn) is a centrally-located German polity of Europe, bordering Bohamy, Burgundy, Furlain, Saxony, and
     Willemy.
   entities:
   - name: Bavarn
@@ -19551,9 +19551,9 @@ claims:
 - entry: 124.5
   title: Who's Who (1700s Edition)
   category: glossary
-  claim: Bohamish is the Boralverse term for Czech.
+  claim: Boham is the Boralverse term for Czech.
   entities:
-  - name: Bohamish
+  - name: Boham
     irl: Czech
     type: concept
 - entry: 124.5

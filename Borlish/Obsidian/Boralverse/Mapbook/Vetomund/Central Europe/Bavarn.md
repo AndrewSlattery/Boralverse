@@ -5,7 +5,7 @@ place:
 posts:
   - "86.5"
 ---
-Bavarn (Bóarn /ˈpoː.ɑːn/) is a centrally-located German polity of [[Europe]]. Among others, it borders [[Bohemia]], [[Burgundy]], [[Furlain]], [[Saxony]], and [[Willemy]].
+Bavarn (Bóarn /ˈpoː.ɑːn/) is a centrally-located German polity of [[Europe]]. Among others, it borders [[Bohamy]], [[Burgundy]], [[Furlain]], [[Saxony]], and [[Willemy]].
 
 ## History
 During the [[Second Tetrarchy]], the Kingdom of Bavarn was one of the two main players in the [[First German Empire|German Empire]]; the Empire was for some time ruled jointly by the Houghbrocken and Andex dynasties of Saxony and Bavarn respectively.

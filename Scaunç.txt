@@ -3493,12 +3493,12 @@ also proof, certificate; see verb catoumar “to validate, to certify”
 
 Refers to the period of roughly one hundred and fifty years for which much of Europe was under the (occasionally theoretical) rule of empire. Known also – especially in older texts – as the Medieval Imperia, or as the Roman Decadence.
 
-The most limited timeframe to which this title routinely refers is from 1091, with the consolidation of Bohemia and Lower Pannonia into the German Empire under Bertholdt II, until 1170, when the Emergency at Dijon led to the establishment of an independent Kingdom of Burgundy (and soon the dissolution of the Constant Empire). More usual is to include everything from the Norman-led subjugation of Kent (and installation of the House of Kernow in Dumnonia) in 1029 to the death of Daniel IV (the Drengotian domains being much divided among his family and friends) in 1191.
+The most limited timeframe to which this title routinely refers is from 1091, with the consolidation of Bohamy and Lower Pannonia into the German Empire under Bertholdt II, until 1170, when the Emergency at Dijon led to the establishment of an independent Kingdom of Burgundy (and soon the dissolution of the Constant Empire). More usual is to include everything from the Norman-led subjugation of Kent (and installation of the House of Kernow in Dumnonia) in 1029 to the death of Daniel IV (the Drengotian domains being much divided among his family and friends) in 1191.
 
 The four empires constituting the Second Tetrarchy were:
 
     the aforementioned Constant Empire, under the Drengot dynasty and comprising for most of its duration the kingdoms of West Francia, Wessex, Markland and Dumnonia.
-    the German Empire, in particular under the Houghbrocken and Andex dual imperium, and including more than a dozen states – principally the Kingdom of Saxony, the Duchy of Willemy and the Kingdom of Bohemia.
+    the German Empire, in particular under the Houghbrocken and Andex dual imperium, and including more than a dozen states – principally the Kingdom of Saxony, the Duchy of Willemy and the Kingdom of Bohamy.
     the Empire of the Hellenes (also called the Second Roman Empire), especially considered from its territorial maximum in 1026, controlling lands from Corse to the shores of the Hazaran Sea.
     the Single Caliphate ruled from Cairo, primarily after the centralisation reforms of the early eleventh century (although the further territories such as the Admiralty of Cordova or the Turkish lands were never as closely-ruled).
 
@@ -5169,7 +5169,7 @@ By the dawn of the seventeenth century he had already assumed authority over wha
 Oc sevent vien strait des y quayer a sy figl primer, Natagl :
 What follows is an extract from the diary of his eldest child Natalie:
 
-Tant con y carc usual de març calscon desirað dy Concert Mastoiset sbolognar con
+Tant con y carc usual de març calscon desirað dy Concert Mastoisèt sbolognar con
 Along with the usual bevy of whichever goods the Concert wishes to foist upon the Mastoisèt
 
 (bon Paðr crey nien aðerraun nossell'amicabiltað tal com eramn e far may accaçant,
@@ -6623,7 +6623,7 @@ ii) With reference to Vijarrania's War without Walls, discuss the most popular t
 iii) To what extent was Morrack [Morocco] able to exploit the death of Emperor Carivasary [7] to increase silver exports to the Vetomund [Eurasia] and finance their ongoing wars with Vascony and Libya?
 
 Question 14 (50 minutes)
-“The Mastoiset [Massachusett people] were bought with promises of horses and other protection from their expansionist neighbours west of the Sturgovan Mountains [the Appalachians], and without their aid the British Sack of Santrafew [8] could never have succeeded. Mayor Alexandre fi Marco's subsequent ban on trade with (and the twenty-mile exile of) all Mendevan peoples was thus justified, despite the 1621 Becouin Treaty.” — mac Harlach, The Making of Mendeva, 1888 N
+“The Mastoisèt [Massachusett people] were bought with promises of horses and other protection from their expansionist neighbours west of the Sturgovan Mountains [the Appalachians], and without their aid the British Sack of Santrafew [8] could never have succeeded. Mayor Alexandre fi Marco's subsequent ban on trade with (and the twenty-mile exile of) all Mendevan peoples was thus justified, despite the 1621 Becouin Treaty.” — mac Harlach, The Making of Mendeva, 1888 N
 
 What does mac Harlach's point of view regarding the Sack of Santrafew reveal about the political climate of Britain during the Good Game [9] decades?
 
@@ -9261,7 +9261,7 @@ Vascony lost over a fifth of its population, and Borland (at the time ruled by J
 
 Individual fatalities attributed to the Second Great Dying include: the wife and brothers of the grandfather of Dane playwright Absolon Mortenszen; the two elder brothers of Adaillé, Duchess d'Avosche.
 
-Coastal areas and polities with closer ties to naval trade were hit harder and more quickly by the plague. Burgundy and Bohemia are notable examples of states which (according to their own records, which cannot entirely be trusted) suffered fewer casualities than most, while Portingale and Provence were ravaged early and mercilessly.
+Coastal areas and polities with closer ties to naval trade were hit harder and more quickly by the plague. Burgundy and Bohamy are notable examples of states which (according to their own records, which cannot entirely be trusted) suffered fewer casualities than most, while Portingale and Provence were ravaged early and mercilessly.
 
 There was (and still is) a common misconception that people blamed cats and dogs for spreading the plague; this idea is only attested in connection with the Second Great Dying several decades after the event. It perhaps originated with stories of the monastery at Bonn, which banished all animals from the grounds in 1512 after several deaths (probably in actuality due to luetic pox).
 
@@ -10648,7 +10648,7 @@ New Provence was a coastal polity in the east of Mendeva. It is named for Proven
 
 The country bordered Ambrosia to the north, the states of Gulf Mendeva to the south, and it shares a short border with Hasiny to the southwest. It extends inland in places as far as the Sturgovan Mountains.
 
-In the sixteenth and seventeenth centuries the trading posts along the New Provincial coast dealt primarily with Mastoiset peoples, exchanging (for example) metal tools for beaver pelts.
+In the sixteenth and seventeenth centuries the trading posts along the New Provincial coast dealt primarily with Mastoisèt peoples, exchanging (for example) metal tools for beaver pelts.
 
 Although by the 20th century the polity was politically independent from Provence, cultural ties remained strong, including shared newspapers and substantial movement of people in both directions. They also shared (until at least 1943) more restrictive morality laws than their neighbours, being the strongest remnants of the Modest Arrangement of the century prior and notable non-signatories of the 1850 Laic Declarations of Belgrade.
 
@@ -10737,7 +10737,7 @@ I'm afraid I'll never fit in with them.
 
 28.5: Saxony and Libya
 
-Saxony is a polity in Europe bordering places such as Poland, Willemy and Bohemia.
+Saxony is a polity in Europe bordering places such as Poland, Willemy and Bohamy.
 History
 
 During the Second Tetrarchy, the Kingdom of Saxony was a major vassal state of the German Empire administered from Bardwick, and many of their Houghbrocken dynasty ruled the empire outright. The region in the twelfth century is characterised by tensions between Saxony and Bavarn, the other major vassal kingdom of the empire.
@@ -15319,7 +15319,7 @@ Jo porray noc creir ig tal corrogaçon veun patronisment se trovar tandic y garn
 I cannot see that such projects will find funds for themselves so long as the garrison demands its gold,
 
 e tandic y menaç bohamesc sey tijon svingant dereðr dy tarm souðer.
-and so long as the Bohamish menace rattles sabres across the southern border.
+and so long as the Boham menace rattles sabres across the southern border.
 
 Y clavir a y joun Walter hamtað ant zeltað a plaç de sparteç; ja neðan cay noc tan foudent freit tras port oc posseu nos eir allors deull'yevot de sy heloit!
 Young Walter has taken to the clavier with zeal if not skill; would that it were not this damned cold outside and one had somewhere to go out of his earshot!
@@ -16774,7 +16774,7 @@ A new guy's just started at the grocer's.
 
 86.5: Bavarn
 
-Bavarn (Bóarn /ˈpoː.ɐːn/) is a centrally-located German polity of Europe. Among others, it borders Bohemia, Burgundy, Furlain, Saxony, and Willemy.
+Bavarn (Bóarn /ˈpoː.ɐːn/) is a centrally-located German polity of Europe. Among others, it borders Bohamy, Burgundy, Furlain, Saxony, and Willemy.
 
 History
 
@@ -17484,7 +17484,7 @@ Y Latin obligað a se manifestað com vacquer lon kiveu—nos se trovau ny mal �
 The compulsory Latin has revealed itself less than useless—we run in the wrong circles—but the Dutch they have here is almost as awful as that of those Flemish performers we had some summers ago.
 
 Jo prefay volir habituar, ma interim jo so gavent auvorn demay ne borgogn e bohemian parolant coll'ec soiç d'Albert.
-I expect I will acclimate, but for now I am having far too much fun speaking Burgund and Bohemian with Albert's company.
+I expect I will acclimate, but for now I am having far too much fun speaking Burgund and Boham with Albert's company.
 
 No scey alcun los ag nonçamen noscon caut d'eromn cas pan?
 Does the news we get of bread troubles have any basis?
@@ -18188,7 +18188,7 @@ The Kingdom of Britain was founded in the fifteenth century, formalising the suz
 
 Britain's economic success at this time drove ventures in Africa. Resupply ports along the western coast eventually allowed for the flourishing of direct sea trade between Europe and Asia.
 
-The seventeenth century saw the dawn of British exploration of the Novomund, founding staddomains along the southern Gulf. These would coalesce into several polities known collectively as British Mendeva over the next centuries, the largest of which is Hasiny. Britain here found itself in conflict with Provence's settlements on the east coast; for example, the Sack of Santrafew was undertaken by an alliance of British and Mastoiset forces.
+The seventeenth century saw the dawn of British exploration of the Novomund, founding staddomains along the southern Gulf. These would coalesce into several polities known collectively as British Mendeva over the next centuries, the largest of which is Hasiny. Britain here found itself in conflict with Provence's settlements on the east coast; for example, the Sack of Santrafew was undertaken by an alliance of British and Mastoisèt forces.
 
 After the Angelican Landfall, emigration from Britain (along with more formal state-building enterprise from Cathay) helped form the modern polity of New Leudong.
 
@@ -20814,7 +20814,7 @@ He spent his latter years travelling, eventually settling in Brasil [Newfoundlan
 
 Marian Siegert ~ Miller (1725–56) was the illegitimate daughter of Elias Villingen, second Duke of Far Suebia [~a region west of Swabia]. She grew up at the ducal seat in Castle Carlsfeld as a recognised bastard, and was close with the Duke's younger legitimate children. She married Albert Siegert, a merchant in leather and a magnate of the shoemaking industry, at the age of eighteen, and moved with him to Lepzi [Leipzig].
 
-From her regular correpondence with her half-brother Thomas she is known to have learnt to speak Burgund as a child and Bohamish [Czech] as an adult. With Albert she had several children, the eldest of whom would become the pioneering author Elsebeth Sneider.
+From her regular correpondence with her half-brother Thomas she is known to have learnt to speak Burgund as a child and Boham [Czech] as an adult. With Albert she had several children, the eldest of whom would become the pioneering author Elsebeth Sneider.
 
 -
 

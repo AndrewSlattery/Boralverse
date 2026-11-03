@@ -220,10 +220,10 @@ territory than at any point in its history) and the **Second** (1815–23).
 
 | Polity | | Notes |
 |---|---|---|
-| **Bavarn** | ● | [Bavaria]. Borders Bohemia, Burgundy, Furlain, Saxony, Willemy, Ruritania. Contains the **Duchy of Far Suebia** (created C17, ruled from former Burgund capital Geneva) and the ecclesiastically peculiar city of **Waduz**. Regensburg, Augsburg, Hulm [Ulm], Stoccart |
+| **Bavarn** | ● | [Bavaria]. Borders Bohamy, Burgundy, Furlain, Saxony, Willemy, Ruritania. Contains the **Duchy of Far Suebia** (created C17, ruled from former Burgund capital Geneva) and the ecclesiastically peculiar city of **Waduz**. Regensburg, Augsburg, Hulm [Ulm], Stoccart |
 | **Saxony** | ● | Capital **Lepzi** [Leipzig]; also Bardwick, Maidburg, Miszen [Meissen]. Ascendant after the First German War. The **Blue Marian Society** (founded Lepzi) drove C19 inheritance and suffrage reform |
 | **Stadbund / Corvine Concert** | ◐ | Guild-league of mercantile cities (also *Samslutning*, *collisio theodisc*); seceded from Saxony in the C13. Bardwick, Bremen, Wrozlav (admitted 1341). As the **Bróderrat**, founded staddomains in Atlantic Cappatia |
-| **Bohemia / Bohamy** | ● | The Boham [Czech] language. A modern-day sentence: "so long as the Bohamish menace rattles sabres across the southern border" |
+| **Bohamy** | ● | The Boham [Czech] language. A modern-day sentence: "so long as the Boham menace rattles sabres across the southern border" |
 | **Ruritania** | ● | *Rurtagn* / *Rürzen* / *Ruravsko*. Minor German-speaking kingdom, east of Bavarn, south of Bohamy, north of Crain. Capital **Strelsau** on the Danaw. Ruled by the **Elphberg** dynasty (blue eyes, dark red hair); red is the royal colour |
 | **Crain** | ◐ | [~Slovenia, southern Austria]. Duchy in the German Empire under Bavarn; controlled **Trieste**. Birthplace of the **Convoy Australier** |
 | **Poland** | ● | Origin of the **Maritime deck** of cards (C15). The Armanburg Tachygraph sold there from 1842; machovin [strontium] discovered there in the 1780s. A modern line: "This alliance will be a bulwark against Poland" |

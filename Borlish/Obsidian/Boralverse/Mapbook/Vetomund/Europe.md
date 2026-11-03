@@ -7,7 +7,7 @@ Europe is a continental peninsula in the northern hemisphere.
 
 # Geographic regions
 ## Lands
-- [[Bohemia]]
+- [[Bohamy]]
 - Frisia
 - [[Gaul]]
    - Flanders

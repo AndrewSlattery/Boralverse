@@ -72,7 +72,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 15.2	dictionary	youdar "numb"	youdar	numb	True	3	136	835	dictionary/15.2_youdar_numb.md
 15.3	dictionary	ustolment "manners"	ustolment	manners	True	2	145	966	dictionary/15.3_ustolment_manners.md
 15.4	dictionary	ouveg "sullen"	ouveg	sullen	True	2	119	771	dictionary/15.4_ouveg_sullen.md
-15.5	notes	The Second Great Dying			False	0	260	1595	notes/15.5_The_Second_Great_Dying.md
+15.5	notes	The Second Great Dying			False	0	260	1594	notes/15.5_The_Second_Great_Dying.md
 16.1	excerpt	To Save a Life			False	0	233	1343	excerpt/16.1_To_Save_a_Life.md
 16.2	dictionary	lovastr "chatty"	lovastr	chatty	True	3	157	1018	dictionary/16.2_lovastr_chatty.md
 16.3	dictionary	kenopleus "space travel"	kenopleus	space travel	True	1	128	845	dictionary/16.3_kenopleus_space_travel.md
@@ -137,7 +137,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 28.2	dictionary	y parol robar "to choose one's words"	y parol robar	to choose one's words	True	2	133	861	dictionary/28.2_y_parol_robar_to_choose_one's_words.md
 28.3	dictionary	jamir "complain"	jamir	complain	True	2	84	582	dictionary/28.3_jamir_complain.md
 28.4	dictionary	neðolmar "comply"	neðolmar	comply	True	3	115	686	dictionary/28.4_neðolmar_comply.md
-28.5	notes	Saxony and Libya			False	0	477	2985	notes/28.5_Saxony_and_Libya.md
+28.5	notes	Saxony and Libya			False	0	477	2984	notes/28.5_Saxony_and_Libya.md
 29.1	excerpt	A Letter from Bervisson			False	0	270	1608	excerpt/29.1_A_Letter_from_Bervisson.md
 29.2	dictionary	treublar "annoy"	treublar	annoy	True	2	123	772	dictionary/29.2_treublar_annoy.md
 29.3	dictionary	vessonary "catalogue"	vessonary	catalogue	True	3	139	962	dictionary/29.3_vessonary_catalogue.md
@@ -362,7 +362,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 71.3	dictionary	svingar "brandish"	svingar	brandish	True	2	79	590	dictionary/71.3_svingar_brandish.md
 71.4	dictionary	enombrar "array"	enombrar	array	True	7	206	1369	dictionary/71.4_enombrar_array.md
 71.5	notes	Threshold force			False	0	313	1980	notes/71.5_Threshold_force.md
-72.1	excerpt	Meissen Woes			False	0	215	1207	excerpt/72.1_Meissen_Woes.md
+72.1	excerpt	Meissen Woes			False	0	215	1204	excerpt/72.1_Meissen_Woes.md
 72.2	dictionary	ombisc "resignation"	ombisc	resignation	True	2	145	981	dictionary/72.2_ombisc_resignation.md
 72.3	dictionary	monfiar "multiply"	monfiar	multiply	True	3	130	899	dictionary/72.3_monfiar_multiply.md
 72.4	dictionary	confraðr "ilk"	confraðr	ilk	True	2	71	466	dictionary/72.4_confraðr_ilk.md
@@ -436,7 +436,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 86.2	dictionary	improbar "disapprove of"	improbar	disapprove of	True	3	109	774	dictionary/86.2_improbar_disapprove_of.md
 86.3	dictionary	hapr "groceries"	hapr	groceries	True	3	148	994	dictionary/86.3_hapr_groceries.md
 86.4	dictionary	bougr "fellow"	bougr	fellow	True	2	121	795	dictionary/86.4_bougr_fellow.md
-86.5	notes	Bavarn			False	0	350	2288	notes/86.5_Bavarn.md
+86.5	notes	Bavarn			False	0	350	2287	notes/86.5_Bavarn.md
 87.1	excerpt	Deviance Exam			False	0	299	1890	excerpt/87.1_Deviance_Exam.md
 87.2	dictionary	teurfiar "sully"	teurfiar	sully	True	3	129	855	dictionary/87.2_teurfiar_sully.md
 87.3	dictionary	amaçgat ðescant "breeding ground"	amaçgat ðescant	breeding ground	True	2	134	933	dictionary/87.3_amaçgat_ðescant_breeding_ground.md
@@ -467,7 +467,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 92.3	dictionary	ascreuçon "assignment"	ascreuçon	assignment	True	3	110	828	dictionary/92.3_ascreuçon_assignment.md
 92.4	dictionary	rediveu "second-hand"	rediveu	second-hand	True	3	95	662	dictionary/92.4_rediveu_second-hand.md
 92.5	notes	Marsella			False	0	249	1649	notes/92.5_Marsella.md
-93.1	excerpt	Leipzig Letter			False	0	281	1618	excerpt/93.1_Leipzig_Letter.md
+93.1	excerpt	Leipzig Letter			False	0	281	1615	excerpt/93.1_Leipzig_Letter.md
 93.2	dictionary	porrujonnar "protrude"	porrujonnar	protrude	True	3	116	763	dictionary/93.2_porrujonnar_protrude.md
 93.3	dictionary	Eden soluð "a lost Eden"	Eden soluð	a lost Eden	True	1	114	719	dictionary/93.3_Eden_soluð_a_lost_Eden.md
 93.4	dictionary	ðalleyar "spread-eagle"	ðalleyar	spread-eagle	True	2	106	668	dictionary/93.4_ðalleyar_spread-eagle.md
@@ -636,7 +636,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 124.2	dictionary	entr hugt e gavisc "torn"	entr hugt e gavisc	torn	True	2	163	1001	dictionary/124.2_entr_hugt_e_gavisc_torn.md
 124.3	dictionary	fis "done"	fis	done	True	5	159	926	dictionary/124.3_fis_done.md
 124.4	dictionary	dignant "appropriate"	dignant	appropriate	True	2	102	662	dictionary/124.4_dignant_appropriate.md
-124.5	notes	Who's Who (1700s Edition)			False	2	334	2098	notes/124.5_Who's_Who_(1700s_Edition).md
+124.5	notes	Who's Who (1700s Edition)			False	2	334	2095	notes/124.5_Who's_Who_(1700s_Edition).md
 125.1	excerpt	Early Modern Morrack			False	0	218	1339	excerpt/125.1_Early_Modern_Morrack.md
 125.2	dictionary	laur d'asn "drudgery"	laur d'asn	drudgery	True	2	113	719	dictionary/125.2_laur_d'asn_drudgery.md
 125.3	dictionary	ðorn de hanc "sideswipe"	ðorn de hanc	sideswipe	True	2	147	891	dictionary/125.3_ðorn_de_hanc_sideswipe.md
