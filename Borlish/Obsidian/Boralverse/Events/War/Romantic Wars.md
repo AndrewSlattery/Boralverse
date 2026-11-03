@@ -17,7 +17,7 @@ Perennial adversaries [[Vascony]] and Morrack continued their protracted fight t
 
 Several polities and vassal states did not survive the Romantic Wars; for example, the [[Principality of Mystra]] in [[Greece]], which had existed as a vassal of the [[Second Roman Empire]] since the eleventh century, was formally dissolved in the aftermath of the Romantic Wars.
 
-[[Willemy]] was the focal point of the Blue Trans-Willem War (not to be confused with the Red Trans-Willem War), which indirectly led to the dissolution of the Kingdom of [[Burgundy]] and the creation of the Duchy of Far Suebia in [[Bavarn]].
+[[Willemy]] was the focal point of the Blue Trans-Willem War (not to be confused with the White Trans-Willem War), which indirectly led to the dissolution of the Kingdom of [[Burgundy]] and the creation of the Duchy of Far Suebia in [[Bavarn]].
 
 [[Borland]]'s involvement in the Romantic Wars was restricted to a failed invasion (culminating in the Hawkirch Surrender of 1623), along with unstable arrangements with neighbouring polities regarding military aid in their conquests.
 

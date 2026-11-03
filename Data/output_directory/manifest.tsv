@@ -222,7 +222,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 45.2	dictionary	sortir ag vousc "to tryst"	sortir ag vousc	to tryst	True	2	187	1180	dictionary/45.2_sortir_ag_vousc_to_tryst.md
 45.3	dictionary	ollem "elm"	ollem	elm	True	2	169	963	dictionary/45.3_ollem_elm.md
 45.4	dictionary	birgasq "apricot"	birgasq	apricot	True	4	169	1103	dictionary/45.4_birgasq_apricot.md
-45.5	notes	Willemy			False	0	425	2585	notes/45.5_Willemy.md
+45.5	notes	Willemy			False	0	425	2587	notes/45.5_Willemy.md
 46.1	excerpt	Wearing a Mask or a Suit (cont.)			False	0	231	1260	excerpt/46.1_Wearing_a_Mask_or_a_Suit_(cont.).md
 46.2	dictionary	bro "dude"	bro	dude	True	2	164	1038	dictionary/46.2_bro_dude.md
 46.3	dictionary	descorçar "peer"	descorçar	peer	True	3	163	1031	dictionary/46.3_descorçar_peer.md
@@ -317,7 +317,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 62.3	dictionary	çamoc "jam"	çamoc	jam	True	4	161	1003	dictionary/62.3_çamoc_jam.md
 62.4	dictionary	vugl "blockage"	vugl	blockage	True	2	94	548	dictionary/62.4_vugl_blockage.md
 62.5	notes	The Mysarnos Codex			False	0	407	2546	notes/62.5_The_Mysarnos_Codex.md
-63.1	excerpt	Decline of Empire			False	0	257	1544	excerpt/63.1_Decline_of_Empire.md
+63.1	excerpt	Decline of Empire			False	0	257	1545	excerpt/63.1_Decline_of_Empire.md
 63.2	dictionary	sciftar "spread"	sciftar	spread	True	4	147	887	dictionary/63.2_sciftar_spread.md
 63.3	dictionary	lasc "film"	lasc	film	True	3	164	952	dictionary/63.3_lasc_film.md
 63.4	dictionary	cosogr "jointly"	cosogr	jointly	True	5	207	1219	dictionary/63.4_cosogr_jointly.md
@@ -331,7 +331,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 65.2	dictionary	pille "felted"	pille	felted	True	3	117	723	dictionary/65.2_pille_felted.md
 65.3	dictionary	costoscment "authorities"	costoscment	authorities	True	1	86	694	dictionary/65.3_costoscment_authorities.md
 65.4	dictionary	gamblas "barge"	gamblas	barge	True	2	122	795	dictionary/65.4_gamblas_barge.md
-65.5	notes	Second Roman Empire			False	0	335	2183	notes/65.5_Second_Roman_Empire.md
+65.5	notes	Second Roman Empire			False	0	337	2183	notes/65.5_Second_Roman_Empire.md
 66.1	excerpt	The "Metric" System			False	0	280	1573	excerpt/66.1_The_Metric_System.md
 66.2	dictionary	sucquar "sag"	sucquar	sag	True	3	123	681	dictionary/66.2_sucquar_sag.md
 66.3	dictionary	roçon "dew"	roçon	dew	True	4	102	644	dictionary/66.3_roçon_dew.md
@@ -346,7 +346,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 68.2	dictionary	ne ðougl "rushed"	ne ðougl	rushed	True	1	124	706	dictionary/68.2_ne_ðougl_rushed.md
 68.3	dictionary	teissir "weave"	teissir	weave	True	6	183	1082	dictionary/68.3_teissir_weave.md
 68.4	dictionary	jug "continually"	jug	continually	True	2	131	805	dictionary/68.4_jug_continually.md
-68.5	notes	The German Secesssion			False	0	396	2437	notes/68.5_The_German_Secesssion.md
+68.5	notes	The German Secesssion			False	0	396	2440	notes/68.5_The_German_Secesssion.md
 69.1	excerpt	Gingerbread			False	0	291	1752	excerpt/69.1_Gingerbread.md
 69.2	dictionary	contentar "appease"	contentar	appease	True	3	140	929	dictionary/69.2_contentar_appease.md
 69.3	dictionary	auteç "ownership"	auteç	ownership	True	3	140	910	dictionary/69.3_auteç_ownership.md
@@ -436,7 +436,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 86.2	dictionary	improbar "disapprove of"	improbar	disapprove of	True	3	109	774	dictionary/86.2_improbar_disapprove_of.md
 86.3	dictionary	hapr "groceries"	hapr	groceries	True	3	148	994	dictionary/86.3_hapr_groceries.md
 86.4	dictionary	bougr "fellow"	bougr	fellow	True	2	121	795	dictionary/86.4_bougr_fellow.md
-86.5	notes	Bavarn			False	0	350	2290	notes/86.5_Bavarn.md
+86.5	notes	Bavarn			False	0	350	2289	notes/86.5_Bavarn.md
 87.1	excerpt	Deviance Exam			False	0	299	1890	excerpt/87.1_Deviance_Exam.md
 87.2	dictionary	teurfiar "sully"	teurfiar	sully	True	3	129	855	dictionary/87.2_teurfiar_sully.md
 87.3	dictionary	amaçgat ðescant "breeding ground"	amaçgat ðescant	breeding ground	True	2	134	933	dictionary/87.3_amaçgat_ðescant_breeding_ground.md
@@ -647,7 +647,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 126.3	dictionary	nastr "strap"	nastr	strap	True	3	118	639	dictionary/126.3_nastr_strap.md
 126.4	dictionary	soccos destr "red-handed"	soccos destr	red-handed	True	2	119	750	dictionary/126.4_soccos_destr_red-handed.md
 126.5	notes	Chemical Etymology			False	5	245	1562	notes/126.5_Chemical_Etymology.md
-127.1	excerpt	Medieval Empire			False	0	257	1642	excerpt/127.1_Medieval_Empire.md
+127.1	excerpt	Medieval Empire			False	0	261	1642	excerpt/127.1_Medieval_Empire.md
 127.2	dictionary	y cæros ovrir de "make possible"	y cæros ovrir de	make possible	True	1	134	840	dictionary/127.2_y_cæros_ovrir_de_make_possible.md
 127.3	dictionary	broncar "flinch"	broncar	flinch	True	3	139	898	dictionary/127.3_broncar_flinch.md
 127.4	dictionary	snuvr fair "sniff"	snuvr fair	sniff	True	2	123	769	dictionary/127.4_snuvr_fair_sniff.md
@@ -1014,7 +1014,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 198.1	excerpt	Lexember 2025 - 1: offiçar "set"			True	3	413	2621	excerpt/198.1_Lexember_2025_-_1_offiçar_set.md
 198.2	dictionary	Lexember 2025 - 2: entisar "set"	Lexember 2025 - 2: entisar	set	True	7	207	1254	dictionary/198.2_Lexember_2025_-_2_entisar_set.md
 198.3	dictionary	Lexember 2025 - 3: beyollir "set"	Lexember 2025 - 3: beyollir	set	True	7	329	2046	dictionary/198.3_Lexember_2025_-_3_beyollir_set.md
-198.5	notes	Lexember 2025 - 5: orisontment "set"			True	4	441	2809	notes/198.5_Lexember_2025_-_5_orisontment_set.md
+198.5	notes	Lexember 2025 - 5: orisontment "set"			True	4	441	2811	notes/198.5_Lexember_2025_-_5_orisontment_set.md
 198.6	dictionary	Lexember 2025 - 6: despondr "set"	Lexember 2025 - 6: despondr	set	True	5	178	1047	dictionary/198.6_Lexember_2025_-_6_despondr_set.md
 198.7	dictionary	Lexember 2025 - 7: ereðmfeyar "set"	Lexember 2025 - 7: ereðmfeyar	set	True	5	205	1381	dictionary/198.7_Lexember_2025_-_7_ereðmfeyar_set.md
 199.1	excerpt	Lexember 2025 - 8: hoxar "set"			True	2	430	2461	excerpt/199.1_Lexember_2025_-_8_hoxar_set.md
@@ -1062,7 +1062,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 206.2	dictionary	aðaun "as one"	aðaun	as one	True	4	167	1027	dictionary/206.2_aðaun_as_one.md
 206.3	dictionary	çondr "pendant"	çondr	pendant	True	3	143	916	dictionary/206.3_çondr_pendant.md
 206.4	dictionary	erref "rescue"	erref	rescue	True	3	137	846	dictionary/206.4_erref_rescue.md
-206.5	notes	The Scathe of Saint Sophia			False	0	312	1985	notes/206.5_The_Scathe_of_Saint_Sophia.md
+206.5	notes	The Scathe of Saint Sophia			False	0	316	1989	notes/206.5_The_Scathe_of_Saint_Sophia.md
 207.1	excerpt	Blue Trans-Willem War			False	0	285	1765	excerpt/207.1_Blue_Trans-Willem_War.md
 207.2	dictionary	gouth "pushup"	gouth	pushup	True	3	143	810	dictionary/207.2_gouth_pushup.md
 207.3	dictionary	nougl "distaff"	nougl	distaff	True	4	150	945	dictionary/207.3_nougl_distaff.md
@@ -1073,7 +1073,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 208.3	dictionary	lon theu "accidentally"	lon theu	accidentally	True	3	142	914	dictionary/208.3_lon_theu_accidentally.md
 208.4	dictionary	foyer figr "settle down"	foyer figr	settle down	True	2	108	724	dictionary/208.4_foyer_figr_settle_down.md
 208.5	notes	Chemical Etymology (cont. 4)			False	3	267	1803	notes/208.5_Chemical_Etymology_(cont._4).md
-209.1	excerpt	Medieval Mayor			False	0	244	1390	excerpt/209.1_Medieval_Mayor.md
+209.1	excerpt	Medieval Mayor			False	0	244	1393	excerpt/209.1_Medieval_Mayor.md
 209.2	dictionary	cirteyar "peddle"	cirteyar	peddle	True	4	142	882	dictionary/209.2_cirteyar_peddle.md
 209.3	dictionary	encromnar "scarf"	encromnar	scarf	True	3	118	791	dictionary/209.3_encromnar_scarf.md
 209.4	dictionary	protagoneyar "star in"	protagoneyar	star in	True	3	140	865	dictionary/209.4_protagoneyar_star_in.md

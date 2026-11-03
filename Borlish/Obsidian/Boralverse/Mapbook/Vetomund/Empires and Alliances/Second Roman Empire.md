@@ -19,5 +19,5 @@ During the [[Second Tetrarchy]], the Empire reached a territorial maximum (with 
 
 Following the fall of the northern Lombards in [[Italy]], the ruling family fled to the Empire and managed to obtain appreciable clout there. Some members were appointed to administer the Empire's western themes, and the written accounts of others are history's strongest sources for certain events during the turmoil of the [[German Secession]] in the thirteenth century.
 
-Having fallen into somewhat of a state of disrepair, the fourteenth century saw extensive reconstruction of Saint Sophia's cathedral along with expansion of the complex, headed by Burgund architect Nicolà s'Avignon. It is for this reason that s'Avignon is sometimes jocularly referred to as the "architect of the Empire's demise", given the tragic events that would take place within Saint Sophia's three hundred years later.
+Having fallen into somewhat of a state of disrepair, the fourteenth century saw extensive reconstruction of Saint Sophia's cathedral along with expansion of the complex, headed by Burgund architect Nicolà s Avignon. It is for this reason that s Avignon is sometimes jocularly referred to as the "architect of the Empire's demise", given the tragic events that would take place within Saint Sophia's three hundred years later.
 

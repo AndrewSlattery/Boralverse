@@ -17,7 +17,7 @@ In the [[Revitalist Period]] and for some time afterwards, Willemy was split bet
 
 Trading operations from Willem and its cities in the [[Stadbund]] (the Bróderrat) contributed to staddomains in Atlantic [[Cappatia]], most notably [[Neuwillem]], whose Bróderratcronike (comprising a record of its activities from 1561 to 1597) is an important first-hand account of conditions in the region at the time.
 
-Willem was the focal point of the seventeenth-century [[Blue Trans-Willem War]], usually numbered among the [[Romantic Wars]]. This war led incidentally to the dissolution of the [[Burgundy|Kingdom of Burgundy]] and the creation of the Duchy of Far Suebia in [[Bavarn]].
+Willem was the focal point of the seventeenth-century [[Blue Trans-Willem War]], sometimes numbered among the [[Romantic Wars]]. This war led incidentally to the dissolution of the [[Burgundy|Kingdom of Burgundy]] and the creation of the Duchy of Far Suebia in [[Bavarn]].
 
 The two-arm system for sending [[Steeplepost|steeplepost]] was first deployed in Willem in the early nineteenth century, to send the first lines of the Pater Noster from the church in the town of Thynen to neighbouring Bost. This event is likely what led to the name 'steeplepost' being applied to the technology.
 

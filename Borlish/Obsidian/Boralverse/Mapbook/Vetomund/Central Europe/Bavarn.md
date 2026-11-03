@@ -28,6 +28,6 @@ The [[Second German War]] embroiled Bavarn, allied with (among others) [[Borland
 ### Nobility
 - Elias Villingen, second Duke of Far Suebia
 ### Others
-- Wilhelm Bruez (fl. 1225), mayor of Augsburg
+- Wilhelm Brüz (fl. 1225), mayor of Augsburg
 - Paul von Burchardt (fl. 1225), writer of the Pauline Denunciations and instigator of the German Secession
 - [[Marian Siegert]] ~ Miller (1725–56), illegitimate daughter of Elias Villingen

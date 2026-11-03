@@ -10408,7 +10408,7 @@ claims:
 - entry: 45.5
   title: Willemy
   category: event
-  claim: Willem was the focal point of the seventeenth-century Blue Trans-Willem War, usually numbered among the Romantic
+  claim: Willem was the focal point of the seventeenth-century Blue Trans-Willem War, sometimes numbered among the Romantic
     Wars.
   entities:
   - name: Blue Trans-Willem War
@@ -13447,20 +13447,20 @@ claims:
   title: Second Roman Empire
   category: event
   claim: In the fourteenth century, the Hagia Sophia underwent extensive reconstruction and expansion, headed by Burgund architect
-    Nicolà s'Avignon.
+    Nicolà s Avignon.
   entities:
   - name: Hagia Sophia
     type: place
-  - name: Nicolà s'Avignon
+  - name: Nicolà s Avignon
     type: person
   dates: 14th c. N
 - entry: 65.5
   title: Second Roman Empire
   category: person
-  claim: Nicolà s'Avignon is sometimes jocularly referred to as the 'architect of the Empire's demise' due to tragic events
+  claim: Nicolà s Avignon is sometimes jocularly referred to as the 'architect of the Empire's demise' due to tragic events
     that would take place within the Hagia Sophia three hundred years after his reconstruction.
   entities:
-  - name: Nicolà s'Avignon
+  - name: Nicolà s Avignon
     type: person
   - name: Hagia Sophia
     type: place
@@ -15842,9 +15842,9 @@ claims:
 - entry: 86.5
   title: Bavarn
   category: person
-  claim: Wilhelm Bruez (fl. 1225 N) was the mayor of Augsburg during the period of the German Secession.
+  claim: Wilhelm Brüz (fl. 1225 N) was the mayor of Augsburg during the period of the German Secession.
   entities:
-  - name: Wilhelm Bruez
+  - name: Wilhelm Brüz
     type: person
   - name: Augsburg
     type: place
