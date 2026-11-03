@@ -346,7 +346,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 68.2	dictionary	ne ðougl "rushed"	ne ðougl	rushed	True	1	124	706	dictionary/68.2_ne_ðougl_rushed.md
 68.3	dictionary	teissir "weave"	teissir	weave	True	6	183	1082	dictionary/68.3_teissir_weave.md
 68.4	dictionary	jug "continually"	jug	continually	True	2	131	805	dictionary/68.4_jug_continually.md
-68.5	notes	The German Secesssion			False	0	396	2440	notes/68.5_The_German_Secesssion.md
+68.5	notes	The German Secession			False	0	396	2440	notes/68.5_The_German_Secession.md
 69.1	excerpt	Gingerbread			False	0	291	1752	excerpt/69.1_Gingerbread.md
 69.2	dictionary	contentar "appease"	contentar	appease	True	3	140	929	dictionary/69.2_contentar_appease.md
 69.3	dictionary	auteç "ownership"	auteç	ownership	True	3	140	910	dictionary/69.3_auteç_ownership.md
