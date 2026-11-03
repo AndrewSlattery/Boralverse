@@ -11,7 +11,7 @@ Notable people of [[Borland]]. For its rulers, see [[Monarchs of Borland]].
 - Queen [[Brenna of Barrow]] (fl. 920), wife of King Jothey of Borland and cousin of King Roderick of Dunclothe 
 - Lord Josua, fifth Baron Monçating (fl. 1770), notable for being embroiled in a decade-long legal dispute over inheritance
 - [[Simon, Baron Monçating|Lord Simon, sixth Baron Monçating]] (b. 1770), intellectual and early proponent of [[Deviance movement|Anti-Paradise theology]]
-- Count Steign of Sothbar (fl. c12), who moved his court from Heitriç to Axbane
+- Count Steven of Southbar (fl. c12), who moved his court from Heitriç to Axbane
 
 ## Theorists and scholars
 - Marc Ausbagn (fl. 1830), mathematician and pioneer of early sam theory

@@ -372,11 +372,11 @@ claims:
   title: Children's Curriculum, part 2
   source_work: Report towards a Normal Teaching for Children at Mantelschool
   category: event
-  claim: King Jothey was exiled in Sothbar following his resistance to the Danish incursion.
+  claim: King Jothey was exiled in Southbar following his resistance to the Danish incursion.
   entities:
   - name: Jothey
     type: person
-  - name: Sothbar
+  - name: Southbar
     type: place
 - entry: '3.5'
   title: Dane Settlements in the Isles
@@ -4630,13 +4630,13 @@ claims:
 - entry: '21.5'
   title: Kent
   category: person
-  claim: King Jothey was twice-exiled from Borland and Sothbar following the Dane invasions of the island.
+  claim: King Jothey was twice-exiled from Borland and Southbar following the Dane invasions of the island.
   entities:
   - name: Jothey
     type: person
   - name: Borland
     type: polity
-  - name: Sothbar
+  - name: Southbar
     type: polity
 - entry: '21.5'
   title: Kent
@@ -6701,11 +6701,11 @@ claims:
 - entry: '26.5'
   title: Borland
   category: place
-  claim: Humerstoun was in the ninth century the seat of the Petty Kingdom of Sothbar.
+  claim: Humerstoun was in the ninth century the seat of the Petty Kingdom of Southbar.
   entities:
   - name: Humerstoun
     type: place
-  - name: Sothbar
+  - name: Southbar
     type: polity
   dates:
   - 9th century N
@@ -6909,9 +6909,9 @@ claims:
 - entry: '26.5'
   title: Borland
   category: person
-  claim: Count Steign of Sothbar (fl. c12) moved his court from Heitriç to Axbane.
+  claim: Count Steven of Southbar (fl. c12) moved his court from Heitriç to Axbane.
   entities:
-  - name: Steign of Sothbar
+  - name: Steven of Southbar
     type: person
   - name: Heitriç
     type: place
@@ -8542,10 +8542,10 @@ claims:
 - entry: '32.5'
   title: Monarchs of Borland
   category: event
-  claim: Skirmishes between Sothbar and Dane Borland ended with Sothbar's capitulation, unifying the island for the first
+  claim: Skirmishes between Southbar and Dane Borland ended with Southbar's capitulation, unifying the island for the first
     time since the Roman Empire.
   entities:
-  - name: Sothbar
+  - name: Southbar
     type: polity
   - name: Borland
     type: polity
@@ -10216,35 +10216,35 @@ claims:
 - entry: 44.5
   title: Cordin and Brenna
   category: event
-  claim: After the fall of the First Kingdom of Borland in 898 N, Brenna of Barrow fled with her husband Jothey to Sothbar.
+  claim: After the fall of the First Kingdom of Borland in 898 N, Brenna of Barrow fled with her husband Jothey to Southbar.
   entities:
   - name: Brenna of Barrow
     type: person
   - name: Jothey of Borland
     type: person
-  - name: Sothbar
+  - name: Southbar
     type: place
   dates: 898 N
 - entry: 44.5
   title: Cordin and Brenna
   category: person
-  claim: Brenna of Barrow bore several children while in Sothbar.
+  claim: Brenna of Barrow bore several children while in Southbar.
   entities:
   - name: Brenna of Barrow
     type: person
-  - name: Sothbar
+  - name: Southbar
     type: place
 - entry: 44.5
   title: Cordin and Brenna
   category: event
-  claim: About two decades after their arrival, Sothbar surrendered to Dane Borland, forcing Brenna and Jothey's family to
+  claim: About two decades after their arrival, Southbar surrendered to Dane Borland, forcing Brenna and Jothey's family to
     flee once more to Kent.
   entities:
   - name: Brenna of Barrow
     type: person
   - name: Jothey of Borland
     type: person
-  - name: Sothbar
+  - name: Southbar
     type: place
   - name: Kent
     type: place
@@ -12364,7 +12364,7 @@ claims:
 - entry: 57.5
   title: Damvath
   category: event
-  claim: Damvath was first established as the capital of Dane-ruled Borland after the exile of King Jothey to Sothbar in the
+  claim: Damvath was first established as the capital of Dane-ruled Borland after the exile of King Jothey to Southbar in the
     last years of the ninth century.
   entities:
   - name: Damvath
@@ -12373,7 +12373,7 @@ claims:
     type: polity
   - name: Jothey of Borland
     type: person
-  - name: Sothbar
+  - name: Southbar
     type: place
   dates: late 9th c. N
 - entry: 57.5
@@ -17869,11 +17869,11 @@ claims:
   title: Axbane
   category: event
   claim: With the German migrations of the early medieval period, Axbane was demoted to a minor port in the Anglian kingdom
-    of Sothbar.
+    of Southbar.
   entities:
   - name: Axbane
     type: place
-  - name: Sothbar
+  - name: Southbar
     type: polity
 - entry: 106.5
   title: Axbane
@@ -17891,12 +17891,12 @@ claims:
 - entry: 106.5
   title: Axbane
   category: place
-  claim: By the late twelfth century Axbane was the de facto seat of the County of Sothbar; by 1190 Count Steven resided year-round
+  claim: By the late twelfth century Axbane was the de facto seat of the County of Southbar; by 1190 Count Steven resided year-round
     in the coastal town.
   entities:
   - name: Axbane
     type: place
-  - name: Sothbar
+  - name: Southbar
     type: place
   - name: Steven
     type: person
@@ -26206,20 +26206,20 @@ claims:
     and benefit from being merged.
 - category: event
   claim: After the fall of the First Kingdom in 898, King Jothey went into exile with Queen Brenna of Barrow (cousin of King
-    Roderick of Dunclothe) to Sothbar, where they had several children, remaining at court there for over twenty years, before
+    Roderick of Dunclothe) to Southbar, where they had several children, remaining at court there for over twenty years, before
     subsequently fleeing to Kent.
   entities:
   - name: Jothey of Borland
     type: person
   - name: Brenna of Barrow
     type: person
-  - name: Sothbar
+  - name: Southbar
     type: polity
   _merged_from_entries:
   - '26.5'
   - '32.5'
   - '139.5'
-  _merge_reason: All three claims describe the same Sothbar exile of Jothey and Brenna. 32.5 adds the duration ('over twenty
+  _merge_reason: All three claims describe the same Southbar exile of Jothey and Brenna. 32.5 adds the duration ('over twenty
     years') and the children; 26.5 anchors the event to 898; 139.5 adds Brenna's family connection to Roderick of Dunclothe
     and confirms the onward flight to Kent. A merged claim preserves all unique details.
 - category: event

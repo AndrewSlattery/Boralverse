@@ -7,7 +7,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 2.2	dictionary	fleus "velvet"	fleus	velvet	True	6	194	1281	dictionary/2.2_fleus_velvet.md
 2.3	dictionary	dessoclar "to topple"	dessoclar	to topple	True	2	117	824	dictionary/2.3_dessoclar_to_topple.md
 2.4	dictionary	stancour "tinker"	stancour	tinker	True	3	160	1083	dictionary/2.4_stancour_tinker.md
-2.5	notes	Children's Curriculum, part 2			False	12	310	1876	notes/2.5_Children's_Curriculum,_part_2.md
+2.5	notes	Children's Curriculum, part 2			False	12	310	1877	notes/2.5_Children's_Curriculum,_part_2.md
 3.1	excerpt	Agricultural Innovations			False	0	297	1872	excerpt/3.1_Agricultural_Innovations.md
 3.2	dictionary	smoutar "riot"	smoutar	riot	True	2	115	796	dictionary/3.2_smoutar_riot.md
 3.3	dictionary	sovemblar "to outline"	sovemblar	to outline	True	4	173	1203	dictionary/3.3_sovemblar_to_outline.md
@@ -40,7 +40,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 8.5	notes	Vikings in Dumnonia			False	0	313	1895	notes/8.5_Vikings_in_Dumnonia.md
 9.1	excerpt	A Complete Woman			False	0	240	1406	excerpt/9.1_A_Complete_Woman.md
 9.2	dictionary	fabr "tale"	fabr	tale	True	4	189	1169	dictionary/9.2_fabr_tale.md
-9.3	dictionary	vivirc "leeway"	vivirc	leeway	True	3	239	1513	dictionary/9.3_vivirc_leeway.md
+9.3	dictionary	vivirc "leeway"	vivirc	leeway	True	3	239	1514	dictionary/9.3_vivirc_leeway.md
 9.4	dictionary	vabian closnautr "ramshackle"	vabian closnautr	ramshackle	True	3	197	1313	dictionary/9.4_vabian_closnautr_ramshackle.md
 9.5	notes	Roman-Celtic Syncretism			False	0	267	1628	notes/9.5_Roman-Celtic_Syncretism.md
 10.1	excerpt	The Emeralds are a Red Herring			False	0	307	1731	excerpt/10.1_The_Emeralds_are_a_Red_Herring.md
@@ -58,7 +58,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 12.3	dictionary	moðnaut "sailor"	moðnaut	sailor	True	2	161	1101	dictionary/12.3_moðnaut_sailor.md
 12.4	dictionary	flaðrar "climb"	flaðrar	climb	True	3	133	863	dictionary/12.4_flaðrar_climb.md
 12.5	notes	Linguistic Exam Questions			False	0	260	1686	notes/12.5_Linguistic_Exam_Questions.md
-13.1	excerpt	Early Borlish History			False	0	238	1355	excerpt/13.1_Early_Borlish_History.md
+13.1	excerpt	Early Borlish History			False	0	238	1356	excerpt/13.1_Early_Borlish_History.md
 13.2	dictionary	hortumesc "filthy"	hortumesc	filthy	True	2	135	942	dictionary/13.2_hortumesc_filthy.md
 13.3	dictionary	groglon "brook"	groglon	brook	True	2	145	841	dictionary/13.3_groglon_brook.md
 13.4	dictionary	jolleistr "jaunt"	jolleistr	jaunt	True	2	138	881	dictionary/13.4_jolleistr_jaunt.md
@@ -102,7 +102,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 21.2	dictionary	uvrautr "fertile"	uvrautr	fertile	True	3	135	936	dictionary/21.2_uvrautr_fertile.md
 21.3	dictionary	yert "awake"	yert	awake	True	3	173	1011	dictionary/21.3_yert_awake.md
 21.4	dictionary	quomodolibet "libertine"	quomodolibet	libertine	True	2	95	714	dictionary/21.4_quomodolibet_libertine.md
-21.5	notes	Kent			False	5	503	3104	notes/21.5_Kent.md
+21.5	notes	Kent			False	5	503	3105	notes/21.5_Kent.md
 22.1	excerpt	The Mysarnos Codex			False	0	228	1387	excerpt/22.1_The_Mysarnos_Codex.md
 22.2	dictionary	quaðeglad "campus"	quaðeglad	campus	True	2	116	822	dictionary/22.2_quaðeglad_campus.md
 22.3	dictionary	soumonir "reference"	soumonir	reference	True	2	119	771	dictionary/22.3_soumonir_reference.md
@@ -127,7 +127,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 26.2	dictionary	debriscellisar "cut back"	debriscellisar	cut back	True	3	114	757	dictionary/26.2_debriscellisar_cut_back.md
 26.3	dictionary	madarc "beat cop"	madarc	beat cop	True	2	111	698	dictionary/26.3_madarc_beat_cop.md
 26.4	dictionary	coutoccar "poke"	coutoccar	poke	True	3	122	782	dictionary/26.4_coutoccar_poke.md
-26.5	notes	Borland			False	0	4103	26264	notes/26.5_Borland.md
+26.5	notes	Borland			False	0	4103	26269	notes/26.5_Borland.md
 27.1	excerpt	The Witch of Tebjacka			False	0	219	1254	excerpt/27.1_The_Witch_of_Tebjacka.md
 27.2	dictionary	coram “in person”			True	2	133	878	dictionary/27.2_coram_“in_person”.md
 27.3	dictionary	kireðam “wholeheartedly”			True	2	134	973	dictionary/27.3_kireðam_“wholeheartedly”.md
@@ -157,7 +157,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 32.2	dictionary	suðel "patch"	suðel	patch	True	3	133	803	dictionary/32.2_suðel_patch.md
 32.3	dictionary	oblimanç "passion"	oblimanç	passion	True	2	184	1209	dictionary/32.3_oblimanç_passion.md
 32.4	dictionary	vraseyant "impressive"	vraseyant	impressive	True	2	117	830	dictionary/32.4_vraseyant_impressive.md
-32.5	notes	Monarchs of Borland			False	0	247	1460	notes/32.5_Monarchs_of_Borland.md
+32.5	notes	Monarchs of Borland			False	0	247	1463	notes/32.5_Monarchs_of_Borland.md
 33.1	excerpt	Film Review			False	0	230	1386	excerpt/33.1_Film_Review.md
 33.2	dictionary	çavel "brain"	çavel	brain	True	3	118	755	dictionary/33.2_çavel_brain.md
 33.3	dictionary	zantr "zenith"	zantr	zenith	True	4	158	967	dictionary/33.3_zantr_zenith.md
@@ -217,7 +217,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 44.2	dictionary	jou follant "on the fence"	jou follant	on the fence	True	2	160	993	dictionary/44.2_jou_follant_on_the_fence.md
 44.3	dictionary	carrug mettr avant naumagl "get ahead of oneself"	carrug mettr avant naumagl	get ahead of oneself	True	2	236	1437	dictionary/44.3_carrug_mettr_avant_naumagl_get_ahead_of_oneself.md
 44.4	dictionary	hurstar "equip"	hurstar	equip	True	3	153	985	dictionary/44.4_hurstar_equip.md
-44.5	notes	Cordin and Brenna			False	0	254	1467	notes/44.5_Cordin_and_Brenna.md
+44.5	notes	Cordin and Brenna			False	0	254	1469	notes/44.5_Cordin_and_Brenna.md
 45.1	excerpt	Early Methodics			False	0	255	1701	excerpt/45.1_Early_Methodics.md
 45.2	dictionary	sortir ag vousc "to tryst"	sortir ag vousc	to tryst	True	2	187	1180	dictionary/45.2_sortir_ag_vousc_to_tryst.md
 45.3	dictionary	ollem "elm"	ollem	elm	True	2	169	963	dictionary/45.3_ollem_elm.md
@@ -291,7 +291,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 57.2	dictionary	enonç "list"	enonç	list	True	2	88	523	dictionary/57.2_enonç_list.md
 57.3	dictionary	got ag mar fondr "tilt at windmills"	got ag mar fondr	tilt at windmills	True	3	149	793	dictionary/57.3_got_ag_mar_fondr_tilt_at_windmills.md
 57.4	dictionary	geoscopic "globe-trotting"	geoscopic	globe-trotting	True	4	112	791	dictionary/57.4_geoscopic_globe-trotting.md
-57.5	notes	Damvath			False	0	263	1602	notes/57.5_Damvath.md
+57.5	notes	Damvath			False	0	263	1603	notes/57.5_Damvath.md
 58.1	excerpt	The First Drengot Empire			False	0	269	1520	excerpt/58.1_The_First_Drengot_Empire.md
 58.2	dictionary	noncupað "so-called"	noncupað	so-called	True	4	117	861	dictionary/58.2_noncupað_so-called.md
 58.3	dictionary	dehir "split"	dehir	split	True	5	169	1033	dictionary/58.3_dehir_split.md
@@ -342,7 +342,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 67.3	dictionary	stovir "be necessary"	stovir	be necessary	True	3	150	925	dictionary/67.3_stovir_be_necessary.md
 67.4	dictionary	jougl "knock-out blow"	jougl	knock-out blow	True	3	156	1001	dictionary/67.4_jougl_knock-out_blow.md
 67.5	notes	Romantic Wars			False	0	383	2441	notes/67.5_Romantic_Wars.md
-68.1	excerpt	Early Medieval Borland			False	0	275	1608	excerpt/68.1_Early_Medieval_Borland.md
+68.1	excerpt	Early Medieval Borland			False	0	275	1609	excerpt/68.1_Early_Medieval_Borland.md
 68.2	dictionary	ne ðougl "rushed"	ne ðougl	rushed	True	1	124	706	dictionary/68.2_ne_ðougl_rushed.md
 68.3	dictionary	teissir "weave"	teissir	weave	True	6	183	1082	dictionary/68.3_teissir_weave.md
 68.4	dictionary	jug "continually"	jug	continually	True	2	131	805	dictionary/68.4_jug_continually.md
@@ -478,7 +478,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 94.2	dictionary	moglastr "moist"	moglastr	moist	True	3	121	751	dictionary/94.2_moglastr_moist.md
 94.3	dictionary	ranscellar "diverge"	ranscellar	diverge	True	3	100	674	dictionary/94.3_ranscellar_diverge.md
 94.4	dictionary	tars "clean"	tars	clean	True	4	124	821	dictionary/94.4_tars_clean.md
-94.5	notes	ouç "silence"			True	2	453	2771	notes/94.5_ouç_silence.md
+94.5	notes	ouç "silence"			True	2	453	2772	notes/94.5_ouç_silence.md
 94.6	dictionary	cigl "boyfriend, girlfriend"	cigl	boyfriend, girlfriend	True	2	128	810	dictionary/94.6_cigl_boyfriend,_girlfriend.md
 94.7	dictionary	jusser "downstairs"	jusser	downstairs	True	3	103	685	dictionary/94.7_jusser_downstairs.md
 95.1	excerpt	frend "stranger"			True	4	370	2271	excerpt/95.1_frend_stranger.md
@@ -495,7 +495,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 96.5	notes	osceyan "birthday"			True	3	527	3511	notes/96.5_osceyan_birthday.md
 96.6	dictionary	pascman "restaurant"	pascman	restaurant	True	2	90	609	dictionary/96.6_pascman_restaurant.md
 96.7	dictionary	haçot "bunch"	haçot	bunch	True	4	113	673	dictionary/96.7_haçot_bunch.md
-97.1	excerpt	tenguð "bauble"			True	2	305	1969	excerpt/97.1_tenguð_bauble.md
+97.1	excerpt	tenguð "bauble"			True	2	305	1970	excerpt/97.1_tenguð_bauble.md
 97.2	dictionary	ignoscr "forgive"	ignoscr	forgive	True	3	135	824	dictionary/97.2_ignoscr_forgive.md
 97.3	dictionary	viglour "driver"	viglour	driver	True	3	96	629	dictionary/97.3_viglour_driver.md
 97.4	dictionary	luïcr "ridiculous"	luïcr	ridiculous	True	4	103	725	dictionary/97.4_luïcr_ridiculous.md
@@ -546,7 +546,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 106.2	dictionary	crochet "biscuit"	crochet	biscuit	True	2	104	653	dictionary/106.2_crochet_biscuit.md
 106.3	dictionary	nux "nucleus"	nux	nucleus	True	3	102	589	dictionary/106.3_nux_nucleus.md
 106.4	dictionary	cottegl "skirt"	cottegl	skirt	True	3	110	643	dictionary/106.4_cottegl_skirt.md
-106.5	notes	Axbane			False	0	421	2491	notes/106.5_Axbane.md
+106.5	notes	Axbane			False	0	421	2493	notes/106.5_Axbane.md
 107.1	excerpt	Convoy Australier			False	0	246	1481	excerpt/107.1_Convoy_Australier.md
 107.2	dictionary	autour "owner"	autour	owner	True	2	82	552	dictionary/107.2_autour_owner.md
 107.3	dictionary	soustançal "material"	soustançal	material	True	2	89	646	dictionary/107.3_soustançal_material.md

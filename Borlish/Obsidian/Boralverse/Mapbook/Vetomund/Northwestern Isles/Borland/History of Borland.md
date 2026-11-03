@@ -60,11 +60,11 @@ The influx of English people into Borland continued throughout this period; for 
 
 The question of fealty (that is, whether any kingdom of the island would received official recognition and deference from the others) vexed the island throughout this period, with conflicts leading to temporary alliances between Borland and Southbar or Borland and Angland depending on the political climate.
 
-Finally, in the early ninth century, Roman king [[Stillian of Borland|Stiglan]] married his son [[Marc of Borland|Marc]] to the only daughter of [[Alfegh of Angland]], unifying their kingdoms and forcing Sothbar to pledge fealty after the circa-810 N [[Battle of Fendal (810)|Battle of Fendal]].
+Finally, in the early ninth century, Roman king [[Stillian of Borland|Stiglan]] married his son [[Marc of Borland|Marc]] to the only daughter of [[Alfegh of Angland]], unifying their kingdoms and forcing Southbar to pledge fealty after the circa-810 N [[Battle of Fendal (810)|Battle of Fendal]].
 ## Dane-ruled Borland
 Attacks on Borland towns and monasteries by Dane raiders along the coasts began in the late eighth century, spreading gradually westward as viking raids grew lengthier and more lucrative. Through the ninth century raiding is gradually upgraded to long-term settlement, especially in the northern half of the island. Eventually, Dane pretenders (**coronc**) to the Borland throne arose and threatened to topple the kingdom.
 
-After the fall of the First Kingdom in 898 (and the establishment of Dane Borland ruled from Damvath), the young King [[Jothey of Borland|Jothey]] went into exile with his wife Queen [[Brenna of Barrow]] to Sothbar. There they remained at court for over twenty years, and had several children. Subsequently they were forced to flee again to Kent as Dane Borland conquered the remainder of the island, uniting it for the first time since the Roman Empire.
+After the fall of the First Kingdom in 898 (and the establishment of Dane Borland ruled from Damvath), the young King [[Jothey of Borland|Jothey]] went into exile with his wife Queen [[Brenna of Barrow]] to Southbar. There they remained at court for over twenty years, and had several children. Subsequently they were forced to flee again to Kent as Dane Borland conquered the remainder of the island, uniting it for the first time since the Roman Empire.
 ## Medieval Imperia
 In the context of the [[First Drengot Empire]] to the west and the [[First German Empire|German Empire]] to the south, independent Borland had significant strategic value both militarily and economically. This was especially true in the towns and cities along the south coast such as [[Axbane]], which saw a great increase in harbour traffic during the eleventh and twelfth centuries.
 

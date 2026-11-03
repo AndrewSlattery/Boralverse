@@ -14,11 +14,11 @@ Both the English and Borlish names descend from (the dative case of) the origina
 ## History
 As a Roman city, Axbane was home to an extensive bathhouse complex, for which the city is named.
 
-With the German migrations of the early medieval period, Axbane was demoted to a minor port in the Anglian kingdom of Sothbar, which comprised the southwestern portion of Borland.
+With the German migrations of the early medieval period, Axbane was demoted to a minor port in the Anglian kingdom of Southbar, which comprised the southwestern portion of Borland.
 
 The [[Peninsular Monastery]] which overlooks the city was erected in the name of the [[Jacobin Fraternity|Order of Saint James]] (the [[Jacobin Fraternity]]), which had fled to Axbane in 1067 after a popular uprising against Drengot Emperor [[Geoffrey II, Drengot Emperor|Geoffrey II]] in [[Flanders]]. In the modern day, the Order remains a powerful presence, owning much land in the city and a successful series of breweries.
 
-The Axbane of the late twelfth century is the de facto seat of the County of Sothbar; by 1190 the earl Steven (**Theign**) is known to have resided year-round in the coastal town, bequeathing the old house in [[Heitriç]] to his younger brother. At this time, the location of Axbane on one side of the Rustigh Strait was of immense strategic value. The [[Great Flie Flood]] of 1171 swept away much of Lower Frisland, and Axbane was for several decades afterward the obvious choice of harbour for any trader moving from the Danish lands through the Drengot domain and onward to [[Spain]].
+The Axbane of the late twelfth century is the de facto seat of the County of Southbar; by 1190 the earl Steven (**Steign**) is known to have resided year-round in the coastal town, bequeathing the old house in [[Heitriç]] to his younger brother. At this time, the location of Axbane on one side of the Rustigh Strait was of immense strategic value. The [[Great Flie Flood]] of 1171 swept away much of Lower Frisland, and Axbane was for several decades afterward the obvious choice of harbour for any trader moving from the Danish lands through the Drengot domain and onward to [[Spain]].
 
 Axbane eventually became one of the star cities of the [[Corvine Concert]], an association of mercantile cities in the region. The throughput of the Axbane port is thought to have accounted for over a third of European trade outside the [[Middlesea]] by 1400 N. The late fourteenth century also saw this Borlish city develop a particularly close relationship with Bremen.
 

@@ -2827,7 +2827,7 @@ Question 1: What factors enabled Dunclothe in the mid-tenth century to conquer t
 Censor: On the whole a well-answered question, with the majority of respondents correctly noting the troubles further east - a typical good answer included the following:
 
     the several famine years during the 920s and 30s across Denmark and Horth (some incorrectly referred to the Eurasian Warming, but this began only several decades later, and in any case did not lower crop yields in the region).
-    the skirmishes between Dane-ruled Borland and Sothbar, now harbouring the exilic Roman king and his family (the wife, of course, being King Roderick's cousin).
+    the skirmishes between Dane-ruled Borland and Southbar, now harbouring the exilic Roman king and his family (the wife, of course, being King Roderick's cousin).
     the inevitable slowdown of the flow of wealth obtained by raiding; excellent responses compared Sodrick to Danish Jarvick, which managed to transition to a more diplomatic stance by virtue of inheriting (so to speak) a city well-positioned in its trade mesh. By 980 N Jarvick had even successfully reunited Northumbre under its own rule, although Edinbrough and her fief remained de facto independent until increasing Gallic incursion necessitated a more active defence.
 
 Less common but by no means unwelcome was discussion of the Norman French, to whose relative prosperity many left Sodrick entirely; the extent of the depopulation is difficult to quantify but we read several good arguments along these lines. Of particular note is one student; she managed to find convincing records of triplet brothers, born in Mull around 915 N, and mentioned again in reference to a Norman raid of Marsella in 946 N.
@@ -3036,7 +3036,7 @@ that is, a discrete part of a governmental administration, or more recently of a
 
     excerpted from The Secret Guide to Ausbagn (English edition), sold 1967 for 1⍚30 in the Calder Museum of Health's leavingstore [1]. Published first in 1962 on behalf of the Maglen Formeuç Caritativia, as part of a series of tourist guidebooks for cities along both coasts of the Rustigh Strait [2].
 
-…reign, and this at the greatest extent of the First Drengotian Empire in the west. For context, the Ausbagn of the late twelfth century is the de facto seat of the County of Sothbar; by 1190 Count Steven is known to have resided year-round in the coastal town, bequeathing the old house in Heitriç to his younger brother.
+…reign, and this at the greatest extent of the First Drengotian Empire in the west. For context, the Ausbagn of the late twelfth century is the de facto seat of the County of Southbar; by 1190 Count Steven is known to have resided year-round in the coastal town, bequeathing the old house in Heitriç to his younger brother.
 
 The location of Ausbagn on one side of the Rustigh Strait proved to be of immense strategic value, both militarily and economically. The Great Flie Flood of 1171 (which created the island Texel, about which more later) swept away much of Lower Frisland, and was devastating for all of Willemy. This was not least because the Duke, one Lovis the Tall, was in Amstel at the time, and was killed in the deluge [3]. In any case, Ausbagn was for several decades afterward the obvious choice of harbour for any trader moving from the Danish lands through the Drengot domain and onward to Spain and the riches of the Middlesea.
 
@@ -6785,7 +6785,7 @@ scaumel /xoˈmɛl/ [xʊˈmɛw] pen, stylus, writing implement; pipe, duct; whist
     from Y Gið Scos por Ausbagn (The Secret Guide to Ausbagn), sold 1967 for 1⍚ in the Calder Museum of Health's leavingstore.
 
 Por sgart laðessem, Ausbagn ag siecr docem ados fay veraçter cort dy Jarlað Sothbaran ; a 1190 saut es Jarl Steign asseye l'annað enter ag bourg coster, y majon veil a Heitriç tramettent ag fraðr jundr.
-For context, the Ausbagn of the late twelfth century is the de facto seat of the County of Sothbar; by 1190 Count Steven is known to have resided year-round in the coastal town, bequeathing the old house in Heitriç to his younger brother.
+For context, the Ausbagn of the late twelfth century is the de facto seat of the County of Southbar; by 1190 Count Steven is known to have resided year-round in the coastal town, bequeathing the old house in Heitriç to his younger brother.
 
 Ausbagn se situant all'un cost dy Stuer Rustig surcou ant valour eðegler immens, cos militer e marcer y dou.
 The location of Ausbagn on one side of the Rustigh Strait proved to be of immense strategic value, both militarily and economically.
@@ -7003,7 +7003,7 @@ Why did you permit pretenders to remain without censure?
 
 excerpt from Shepherds of Hambrick: the Small History of Dane Borland, a 2008 book intended for the lay audience and published by Cordin Editions (with the original Borlish title being Acr a Sauð Vellig "Acres of Docile Ewes"). Its author, Sconet Ydreç, was commissioned to write the text by her institution, the department for Concurrence History at the New School in Vithor, where she specialised in the early tenth century.
 
-…to be distracted by king-in-exile Jothey and his wife the queen Brenna of Barrow, no matter how intriguing their exploits in Sothbar and latterly overseas in Kent, nor how precious the Brethin copies of Brenna's correspondence with her cousin King Roderick.
+…to be distracted by king-in-exile Jothey and his wife the queen Brenna of Barrow, no matter how intriguing their exploits in Southbar and latterly overseas in Kent, nor how precious the Brethin copies of Brenna's correspondence with her cousin King Roderick.
 
 What, for example, can we make of the influx of Norrish vocabulary in the field of archery from the early ninth century? We see <bers> "target, quarry" in a 834 N parabolic addendum from the Marvil chronicle; soon after are <boger> "archer", <arn> "fletch" and <scutar> "shoot" attested also. What is clear is that the bow and arrow were commonplace weapons available to any freeman in the Dane lands; consider the legend of Fithrischelve, who was said to have to outwitted the far-seer Quasir by striking him with an arrow fired from four thousand paces, beyond even his sight.
 
@@ -7115,7 +7115,7 @@ How long have your cousins been missing?
 
 excerpted from Ghendaline Cecchino's scholastic quire Tightrope Walking: a Linguistic History of Borland, a work (published originally in Napolitan as Funamblisme: n'Istorio Lingual d'e Isule Bural) distributed via the Edizore Università Napule in 1991 and chronicling the various changes in the Borlish language from the Roman period to the modern day.
 
-…a borrowing from Norrish or English by considering which softenings have occured within the word—but be careful! If you don't know the source of the loanword precisely you can fail to take into account its original pronunciation. For example, one might suppose Boral <fruyar> "to dance" must be a very early borrowing from Old English frician, to have done away with the /k/ completely. But in fact evidence of Sothbar dialect particularities suggests that in the proximate source the verb was already pronounced /ˈfriːjːan/, from which we can only conclude that the word enters Boral at some point after the evolution of /dʒ/ (textual evidence dates it to at least the ninth century).
+…a borrowing from Norrish or English by considering which softenings have occured within the word—but be careful! If you don't know the source of the loanword precisely you can fail to take into account its original pronunciation. For example, one might suppose Boral <fruyar> "to dance" must be a very early borrowing from Old English frician, to have done away with the /k/ completely. But in fact evidence of Southbar dialect particularities suggests that in the proximate source the verb was already pronounced /ˈfriːjːan/, from which we can only conclude that the word enters Boral at some point after the evolution of /dʒ/ (textual evidence dates it to at least the ninth century).
 
 Later on (see chapter 6) we will also see how sound changes have no memory—later sound changes can reverse the effects of earlier ones, even centuries later. The most impressive example of this process in Boral must be the early deletion of Latin <v> between vowels (hypothesised to have been underway even in the late Classical period), together with the circa seventeenth-century insertion of <v> to break up hiatus between /o/ and another vowel. For example, the Latin novellus "young, newly made" yields Old Borlish noel "fresh, newborn", and Modern Borlish novel "new". Often, however, such reversals affect only a portion…
 
@@ -7325,7 +7325,7 @@ particularly bel nau /bɛl no/ [ˌbɛwˈno] fine words, promises or flattery usu
 
 Etymology: in most senses originally from Latin nāvis "ship; nave of a church", both senses of which survive unmolested into various Old Borlish forms nau, naf, nof etc (though some of these are likely imported from Old French). The form naf for "nave" wins out by the end of fifteenth century, while the form nau is retained primarily for the innovative use "dish with handle for sauce"; this presumably is motivated by the similar shape.
 
-Meanwhile, in the western dialects of Sothbar et al, the Old English nafola "navel" enters Boral as nau(l) in the same sense. The meaning of "navel, indentation" is occasionally seen in other dialects (perhaps motivated by the hollow shape of a bowl) but never catches on completely.
+Meanwhile, in the western dialects of Southbar et al, the Old English nafola "navel" enters Boral as nau(l) in the same sense. The meaning of "navel, indentation" is occasionally seen in other dialects (perhaps motivated by the hollow shape of a bowl) but never catches on completely.
 
 The jump to "aphorism, short witticism (usually in bel nau)" is less clear. There are extant 1760s ceramics with sayings written around the rim, but the causality here could flow in either direction: it is either that sayings were first likened to a pouring sauce dish and the ceramics are a reference thereto, or else some enterprising potter decided to decorate their wares in this way and the semantic shift of nau comes afterwards.
 
@@ -8088,7 +8088,7 @@ continued excerpt from the Report towards a Normal Teaching for Children at Mant
 - the impact on Borland of the Dane Supremacy and its subsequent decline (800–1029 N)
 - - the Battle of Fendal, the unification of Boral and Angland and the fealty of Southbar
 - - Danish raids on coastal settlements along the north and east coasts of Borland; factors influencing the increase of Viking expeditions
-- - Resistance of King Jothey to Danish incursion; his subsequent exile in Sothbar and the establishment of Damvath as the capital of Dane-ruled Borland
+- - Resistance of King Jothey to Danish incursion; his subsequent exile in Southbar and the establishment of Damvath as the capital of Dane-ruled Borland
 - - early attestations of literature written in Old Borlish and what they…
 
 ##
@@ -8674,7 +8674,7 @@ vivirc /viˈvirk/ [vɪˈvɪːk]
 - leeway, latitude, margin, an amount of freedom or flexibility to change to make alternative decisions or to pursue other courses of action, especially any involving only minor alterations to one's present situation or course;
 - respite, downtime, a moment between work or other activity for one to recover one's breath
 
-Etymology: of unclear origin, but attested from the fourteenth century in the first sense. Thought to be related to Sothbar dialect term vrikir "to squirm, wriggle", which is a borrowing from Germanic (probably Old Dutch, cf. modern wricke "to pry, wrench").
+Etymology: of unclear origin, but attested from the fourteenth century in the first sense. Thought to be related to Southbar dialect term vrikir "to squirm, wriggle", which is a borrowing from Germanic (probably Old Dutch, cf. modern wricke "to pry, wrench").
 
 The first syllable is somewhat problematic; ideophonic reduplication is possible but not otherwise seen in the language. The suggestion of Yaskirç that it descends from Latin via "road, way, route" is not generally credited.
 
@@ -9000,7 +9000,7 @@ Sceyen a coul fix chrestan venent ag Dioces Boral (eð aval y Preu Reyaum d'Istr
 There was a steady influx of Christians into the Diocese of Boral (and later the First Kingdom of Borland) from the latter years of the fifth century, well into the seventh.
 
 Cos tost, larc parmy lou stan chrestan roman ben keltesc meðes deslocað par y migraçon germanic, jusc ig ny regn dy Pap Mercur II a 590N au Rom un envou particuler yent cas eðeglment por y picq reyaum, deyent temporane agir costojal contr un Sothbar starchessem.
-Early on, many of these were Roman or even Celtic Christians displaced by the Germanic migrations, and by the time of Pope Mercury II in 590N, Rome had taken a particular strategic influence in the small kingdom, which at the time was on the defensive against a stronger Sothbar.
+Early on, many of these were Roman or even Celtic Christians displaced by the Germanic migrations, and by the time of Pope Mercury II in 590N, Rome had taken a particular strategic influence in the small kingdom, which at the time was on the defensive against a stronger Southbar.
 
 Pre toð autr, y novel Reyaum er cossirað com un fragossau chrestan vital yon Rom poðe missioner accaçar aust e vest por aïðanç dar ny proselytisment d'Albion e l'eiðel dannesc.
 In the first instance, the new Kingdom was viewed as a vital Christian outpost from which Rome could send missionaries east and west to aid in the conversion of Albion and the Danes.
@@ -9851,7 +9851,7 @@ Kent (formally the Bond of Kent and Normandy; in Roun French The Bond de Caint o
 Pre-Conjuring Kent
 In the first millennium, Kent was first an independent English kingdom and then a vassal of Wessex through its ascension and decline, gaining power and some autonomy as Wessern might diminished. Similarly-positioned Essex had a long enmity with Kent, with King Athelwolf of Essex mounting the most successful attempted conquest in the tenth century.
 
-In the tenth century, King Jothey of Borland arrived in Kent with his queen and children, twice-exiled from Borland and Sothbar following the Dane invasions of the island.
+In the tenth century, King Jothey of Borland arrived in Kent with his queen and children, twice-exiled from Borland and Southbar following the Dane invasions of the island.
 
 Pre-Conjuring Normandy
 Normandy was formed from Dane settlements in the north of Gaul in the ninth and tenth centuries. By the eleventh it had been established as a vassal of the Kingdom of the Franks as the Duchy of Normandy, ruled by the Drengot family. It stretched from the Vire river in the west to Flanders in the east, and Norman in-migration southward to found towns such as Thelmass continued for some centuries.
@@ -10368,7 +10368,7 @@ Dane-ruled Borland
 
 Attacks on Borland towns and monasteries by Dane raiders along the coasts began in the late eighth century, spreading gradually westward as viking raids grew lengthier and more lucrative. Through the ninth century raiding is gradually upgraded to long-term settlement, especially in the northern half of the island. Eventually, Dane pretenders (coroncr) to the Borland throne arose and threatened to topple the kingdom.
 
-After the fall of the First Kingdom in 898 (and the establishment of Dane Borland ruled from Damvath), the young King Jothey went into exile with his wife Queen Brenna of Barrow to Sothbar. There they remained at court for over twenty years, and had several children. Subsequently they were forced to flee again to Kent as Dane Borland conquered the remainder of the island, uniting it for the first time since the Roman Empire.
+After the fall of the First Kingdom in 898 (and the establishment of Dane Borland ruled from Damvath), the young King Jothey went into exile with his wife Queen Brenna of Barrow to Southbar. There they remained at court for over twenty years, and had several children. Subsequently they were forced to flee again to Kent as Dane Borland conquered the remainder of the island, uniting it for the first time since the Roman Empire.
 
 Medieval Imperia
 
@@ -10472,8 +10472,8 @@ Towns and cities
     Haldanvion, a city in the south known for its alchemical refining mills
     Haubrath, a market town in the north
     Hawkirch (Haukirç), a town in Angland and site of the Hawkirch Surrender of 1632
-    Heitriç, a castle town in Sothbar and former seat of the County of Sothbar
-    Humerstoun, a village which was in the ninth century the seat of the Petty Kingdom of Sothbar
+    Heitriç, a castle town in Southbar and former seat of the County of Southbar
+    Humerstoun, a village which was in the ninth century the seat of the Petty Kingdom of Southbar
     Jeluðrou, a market town in the river valleys of the north
     Livaucr, a northern town and minor barony
     Nausçod, a small town near Axbane notable for being the closest inhabited place in Boral to the continent
@@ -10510,7 +10510,7 @@ Other nobility
     Queen Brenna of Barrow (fl. 920)
     Lord Josua, fifth Baron Monçating (fl. 1770), notable for being embroiled in a decade-long legal dispute over inheritance
     Lord Simon, sixth Baron Monçating (b. 1770), intellectual and early proponent of Deviance Theology
-    Count Steign of Sothbar (fl. c12), who moved his court from Heitriç to Axbane
+    Count Steven of Southbar (fl. c12), who moved his court from Heitriç to Axbane
 
 Theorists and scholars
 
@@ -11172,7 +11172,7 @@ Victor Rossetus 'the Red-haired' (fl. c6) was the first Prase of the Boral Dioce
 
 Jothey, King of Borland (fl. 898), known in Borlish as Joðeg /ʒoˈðij/, was the last ruler of the First Kingdom of Borland before it fell to the Danes in 898. The kingdom was conquered when Jothey was only a young man, shortly after his marriage to Brenna of Barrow, cousin of King Roderick of Dunclothe.
 
-However, the life of King Jothey (as recorded in Brethin chronicles) continued as a monarch-in-exile for several more decades. He fled with his wife to Sothbar, where they had several children. They remained at court there for over twenty years, until the skirmishes between Sothbar and Dane Borland finally ended with Sothbar's capitulation and the unification of the island for the first time since being part of the Roman Empire.
+However, the life of King Jothey (as recorded in Brethin chronicles) continued as a monarch-in-exile for several more decades. He fled with his wife to Southbar, where they had several children. They remained at court there for over twenty years, until the skirmishes between Southbar and Dane Borland finally ended with Southbar's capitulation and the unification of the island for the first time since being part of the Roman Empire.
 
 Fearful of imprisonment or even execution so as to fully extirpate the former royal line and thus nullify the possibility of future rival claimants, Jothey fled once more with his wife and children to Kent.
 
@@ -12340,9 +12340,9 @@ Theign Roufler (fl. 2016), scholar and author of book 'From Tablets to Slates: T
 
 ---
 
-Brenna of Barrow (fl. 898) was the cousin of King Roderick of Dunclothe. She married the young King Jothey of Borland shortly before the First Kingdom of Borland fell to the Danes in 898. Subsequently she fled with her husband to Sothbar, where she bore several children.
+Brenna of Barrow (fl. 898) was the cousin of King Roderick of Dunclothe. She married the young King Jothey of Borland shortly before the First Kingdom of Borland fell to the Danes in 898. Subsequently she fled with her husband to Southbar, where she bore several children.
 
-Two decades later Sothbar surrendered to Dane Borland and the family were forced to flee once more, this time to Kent. Much of our knowledge of the remainder of her life is preserved through the Brethin copies of her correspondence with her aging uncle in Dunclothe.
+Two decades later Southbar surrendered to Dane Borland and the family were forced to flee once more, this time to Kent. Much of our knowledge of the remainder of her life is preserved through the Brethin copies of her correspondence with her aging uncle in Dunclothe.
 
 ##
 
@@ -13943,7 +13943,7 @@ Toponymy
 The name Damvath derives from the Norrish name Damvað "ford on the Dam". The river's name is pre-Roman and is likely cognate with the Tames in Albion and the Tanga in Portingale.
 
 History
-Damvath was established first as the capital of Dane-ruled Borland after the exile of King Jothey to Sothbar in the last years of the ninth century.
+Damvath was established first as the capital of Dane-ruled Borland after the exile of King Jothey to Southbar in the last years of the ninth century.
 
 In the late fifteenth century, Damvath became the most-trafficked port city in Europe outside the Middlesea. This was no doubt helped by the city's stability in comparison to the cities of contemporary Albion, embroiled in the bloody Wars of Fealty.
 
@@ -14928,7 +14928,7 @@ Cay confluyenç dell'eç pouvr germannesc ny souð e ny vest con y pouvr romanne
 The mixing of the Germanic peoples of the south and west with the Romans of the east and north would proceed only slowly, however, for the next couple of centuries.
 
 Vassalaç ja galað vexa y heilant, e conflict afont menan vars concert entr Boral e Sothbar ben entr Boral eð Anglont com issent dy contingent politic.
-The question of fealty vexed the land, with conflicts leading to temporary alliances between Boral and Sothbar or Boral and Angland depending on the political climate.
+The question of fealty vexed the land, with conflicts leading to temporary alliances between Boral and Southbar or Boral and Angland depending on the political climate.
 
 Tandem, ny siecr novem joun y rey roman Stiglan dau sell'heir Marc ne mariðaç ag dottr soul a Alfey d'Anglont, cossy lorry reyaum unfiant e Sothbar sforçant a vassalaç eunovir posc y Battagl a Fendal n'atorn 810 N.
 Eventually, in the early ninth century Roman king Stiglan married his son Marc to the only daughter of Alfegh of Angland, unifying their kingdoms and forcing Southbar to pledge fealty after the circa 810 N Battle of Fendal.
@@ -17730,7 +17730,7 @@ The petty kingdom of Southbar was founded by Anglian immigrants in the fifth cen
 
 After an alliance between the First Kingdom of Borland and Angland and the Battle of Fendal (810), Southbar was forced to swear fealty as a subordinate kingdom.
 
-Southbar held out for some time against the Danes after the fall of the First Kingdom of Borland, and even harboured the exiled King Jothey and his wife Brenna of Barrow. Nonetheless, by the end of the tenth century Sothbar had been incorporated into Dane Borland.
+Southbar held out for some time against the Danes after the fall of the First Kingdom of Borland, and even harboured the exiled King Jothey and his wife Brenna of Barrow. Nonetheless, by the end of the tenth century Southbar had been incorporated into Dane Borland.
 
 In the twelfth century Southbar had become a county. Its de facto seat was Axbane; by 1190 Count Steven is known to have resided year-round in the coastal town, bequeathing the old house in Heitriç to his younger brother.
 
@@ -18083,7 +18083,7 @@ tenguð /tɛnˈgɪθ/ [tɪŋˈgɪh]
 - bauble, gaud, ornament, something showy used to decorate;
 - trinket, trifle, tat, something small and inexpensive
 
-Etymology: 18C Borlish, clipped from Sant Enguð "Saint Angith", a canonised medieval abbess from Sothbar on Borland. In the late medieval period her pilgrimage site was associated with freely-offered figurines and pieces of embroidered fabric.
+Etymology: 18C Borlish, clipped from Sant Enguð "Saint Angith", a canonised medieval abbess from Southbar on Borland. In the late medieval period her pilgrimage site was associated with freely-offered figurines and pieces of embroidered fabric.
 
 Tenguð lousc jaint penoirn dell'eç ranscel.
 /tɛnˈgɪθ lux ʒent peˈnɔirn̩ dɛˈlɛts ranˈxɛl/
@@ -19068,11 +19068,11 @@ History
 
 As a Roman city, Axbane was home to an extensive bathhouse complex, for which the city is named.
 
-With the German migrations of the early medieval period, Axbane was demoted to a minor port in the Anglian kingdom of Sothbar, which comprised the southwestern portion of Borland.
+With the German migrations of the early medieval period, Axbane was demoted to a minor port in the Anglian kingdom of Southbar, which comprised the southwestern portion of Borland.
 
 The Peninsular Monastery which overlooks the city was erected in the name of the Order of Saint James (the Jacobin Fraternity), which had fled to Axbane in 1067 after a popular uprising against Drengot Emperor Geoffrey II in Flanders. In the modern day, the Order remains a powerful presence, owning much land in the city and a successful series of breweries.
 
-The Axbane of the late twelfth century is the de facto seat of the County of Sothbar; by 1190 the earl Steven (Steign) is known to have resided year-round in the coastal town, bequeathing the old house in Heitriç to his younger brother. At this time, the location of Axbane on one side of the Rustigh Strait was of immense strategic value. The Great Flie Flood of 1171 swept away much of Lower Frisland, and Axbane was for several decades afterward the obvious choice of harbour for any trader moving from the Danish lands through the Drengot domain and onward to Spain.
+The Axbane of the late twelfth century is the de facto seat of the County of Southbar; by 1190 the earl Steven (Steign) is known to have resided year-round in the coastal town, bequeathing the old house in Heitriç to his younger brother. At this time, the location of Axbane on one side of the Rustigh Strait was of immense strategic value. The Great Flie Flood of 1171 swept away much of Lower Frisland, and Axbane was for several decades afterward the obvious choice of harbour for any trader moving from the Danish lands through the Drengot domain and onward to Spain.
 
 Axbane eventually became one of the star cities of the Stadbund, an association of mercantile cities in the region. The throughput of the Axbane port is thought to have accounted for over a third of European trade outside the Middlesea by 1400 N. The late fourteenth century also saw this Borlish city develop a particularly close relationship with Bremen.
 

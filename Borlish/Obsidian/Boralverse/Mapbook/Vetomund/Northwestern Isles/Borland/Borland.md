@@ -65,13 +65,13 @@ By far the most commonly-spoken language in Borland is the [[Borlish|Borlish lan
 #### Towns and villages
 - Ausçagm, a coastal yet hilly town not far from the capital
 - Barraut, a river town boasting a famous lodging-house
-- Fendal, a town in Sothbar which in the ninth century was the site of a major battle
+- Fendal, a town in Southbar which in the ninth century was the site of a major battle
 - Gambrig, a village and nearby monastery noteworthy for its medieval chronicle in a variety of Old English
 - Golfhaun, the site of a medieval monastic community on the isle of Nestu which contains the oldest church building in Borland
 - Haubrath, a market town in the north
 - Hawkirch (**Haukirç**), a town in Angland and site of the Hawkirch Surrender of 1632
 - Heitriç, a castle town in Southbar and former seat of the County of Southbar
-- Humerstoun, a village which was in the ninth century the seat of the Petty Kingdom of Sothbar
+- Humerstoun, a village which was in the ninth century the seat of the Petty Kingdom of Southbar
 - Jeluðrou, a market town in the river valleys of the north
 - Livaucr, a northern town and minor barony
 - Nausçod, a small town near Axbane notable for being the closest inhabited place in Boral to the continent
