@@ -240,7 +240,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 48.5	notes	2nd Lexember			True	5	513	3301	notes/48.5_2nd_Lexember.md
 48.6	dictionary	3rd Lexember			True	3	184	1182	dictionary/48.6_3rd_Lexember.md
 48.7	dictionary	4th Lexember			True	2	129	835	dictionary/48.7_4th_Lexember.md
-49.1	excerpt	5th Lexember			True	3	387	2221	excerpt/49.1_5th_Lexember.md
+49.1	excerpt	5th Lexember			True	3	387	2222	excerpt/49.1_5th_Lexember.md
 49.2	dictionary	6th Lexember			True	4	148	949	dictionary/49.2_6th_Lexember.md
 49.3	dictionary	7th Lexember			True	4	149	958	dictionary/49.3_7th_Lexember.md
 49.4	dictionary	8th Lexember			True	3	130	792	dictionary/49.4_8th_Lexember.md
@@ -757,7 +757,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 147.5	notes	13th Lexember - zizania "discord"			True	4	427	2794	notes/147.5_13th_Lexember_-_zizania_discord.md
 147.6	dictionary	14th Lexember - a plaç entarn "some way in"	14th Lexember - a plaç entarn	some way in	True	4	164	996	dictionary/147.6_14th_Lexember_-_a_plaç_entarn_some_way_in.md
 147.7	dictionary	15th Lexember - kiveury "herdtale"	15th Lexember - kiveury	herdtale	True	2	142	939	dictionary/147.7_15th_Lexember_-_kiveury_herdtale.md
-148.1	excerpt	16th Lexember - prophthan "faster than light"			True	2	416	2492	excerpt/148.1_16th_Lexember_-_prophthan_faster_than_light.md
+148.1	excerpt	16th Lexember - prophthan "faster than light"			True	2	421	2516	excerpt/148.1_16th_Lexember_-_prophthan_faster_than_light.md
 148.2	dictionary	17th Lexember - ja sceint "extant"	17th Lexember - ja sceint	extant	True	3	181	1157	dictionary/148.2_17th_Lexember_-_ja_sceint_extant.md
 148.3	dictionary	18th Lexember - ersteigon "climax"	18th Lexember - ersteigon	climax	True	2	140	893	dictionary/148.3_18th_Lexember_-_ersteigon_climax.md
 148.4	dictionary	19th Lexember - euxon "quartz"	19th Lexember - euxon	quartz	True	2	233	1438	dictionary/148.4_19th_Lexember_-_euxon_quartz.md

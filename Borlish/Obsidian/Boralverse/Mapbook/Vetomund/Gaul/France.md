@@ -25,7 +25,7 @@ From the early sixteenth century France held the duchy of [[Avosche]] in Willemy
 ### The seventeenth to nineteenth centuries
 Avosche changed hands five times during the seventeenth century, most bloodily in the [[Blue Trans-Willem War]]. After that war the Kingdom of Burgundy was dissolved and its territory partitioned between Provence, France and [[Bavarn]].
 
-France was seen to have profited unjustly from the [[Second German War]], gaining significant territory without contributing much manpower or matériel. In 1828 the Avosche city of [[Axton]] lay in French Guillenne, and a letter written that year calls Paris a "city of greed and carrion". France embraced the [[Modest Arrangement]] in the nineteenth century, even as the physician Mickel Cráyenshot publicly supported the [[Deviance movement]].
+France was seen to have profited unjustly from the [[Second German War]], gaining significant territory without contributing much manpower or matériel. In 1824 the Avosche city of [[Axton]] lay in French Guillenne, and a letter written that year calls Paris a "city of greed and carrion". France embraced the [[Modest Arrangement]] in the nineteenth century, even as the physician Mickel Cráyenshot publicly supported the [[Deviance movement]].
 
 ### The Drengot Collusion
 In 1852 Norman Kent, France and Burgundy united politically. This nascent alliance became the [[Drengot Collusion]], which London led the [[New Urban Mesh]] to join around 1890. Alongside London and Kent, Paris was one of the Collusion's political centres until its collapse in 1961.

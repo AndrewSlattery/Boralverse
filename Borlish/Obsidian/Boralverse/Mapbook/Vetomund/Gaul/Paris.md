@@ -11,7 +11,7 @@ In the mid-tenth century Paris was the court of Robert I (crowned 923), king of 
 
 During the eleventh century the Drengot emperors moved their court from [[Roun]] to Paris, and the [[First Drengot Empire]] was usually ruled from there. Emperor Roger II spent most of his reign in Paris, while his younger brother Matthew ruled in his name in [[London]]. In 1121 Roger was in Paris, facing a depleted treasury and a Flemish impasse, when Vigo VII of Devon invaded [[Wales]] without his blessing.
 
-France was widely seen to have profited unjustly from the [[Second German War]]. A letter sent from Borland in 1828 begs its recipient not to move to "Paris, city of greed and carrion". At the time the Avosche city of [[Axton]] lay in French territory, and Paris knew it as Grand-Aix.
+France was widely seen to have profited unjustly from the [[Second German War]]. A letter sent from Borland in 1824 begs its recipient not to move to "Paris, city of greed and carrion". At the time the Avosche city of [[Axton]] lay in French territory, and Paris knew it as Grand-Aix.
 
 From the late nineteenth century until 1961, Paris was one of the political centres of the [[Drengot Collusion]], alongside London and [[Kent]].
 
