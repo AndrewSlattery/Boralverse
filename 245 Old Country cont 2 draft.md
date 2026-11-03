@@ -20,7 +20,7 @@ Howel's road
 
 King Howel spent the peace on harbours. By the turn of the century a chain of British victualling stations ran down the Atlantic coast of Africa: not colonies, but a road, built to reach Asia directly by sea and to break the Borlish hold on the northern trade.
 
-The Phœbos under Martan mac Kellot went down that road and kept going. It rounded Africa to Ungotia [Zanzibar], where its crew picked up the word that Borlish still uses for cinnamon, and was guided by Umanick [Omani] and then Chinese pilots to Gurjat [Gujarat], where it spent several months of 1512, and on through Madray [Madurai]. In 1516 it reached Borune [Borneo], and at Sinquan [Singkawang] the following year the Morrack [Moroccan] ship Cynthia found it at anchor.
+The Phœbos under Martan mac Kellot went down that road and kept going. It rounded Africa to Ungotia [Zanzibar], where its crew picked up the word that Borlish still uses for cinnamon, and was guided by Umanic [Omani] and then Chinese pilots to Gurjat [Gujarat], where it spent several months of 1512, and on through Madray [Madurai]. In 1516 it reached Borune [Borneo], and at Sinquan [Singkawang] the following year the Morrack [Moroccan] ship Cynthia found it at anchor.
 
 The popular story that the two crews could not understand each other is wrong; a dozen men aboard the Phœbos had some Arabic. What actually passed between the ships is unknown, because the relevant pages of al-Casmi's otherwise immaculate logbook are missing. In the 1927 film One Day in Borune, mac Kellot's first mate hails the Cynthia with O Gastor 'ila Bolux! "From Castor to Pollux!" There is no evidence for this, and everyone prefers it anyway.
 

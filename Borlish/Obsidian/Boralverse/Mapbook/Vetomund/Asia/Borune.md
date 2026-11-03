@@ -9,7 +9,7 @@ Borune (Borlish adjective *borunesc*) is a large island in the southeast of [[As
 Sinquan lies on Borune's northwestern coast. At least a century before any merchant ship had rounded [[Africa]], an annual fair had become a tradition there. Each year the city filled with traders from [[China]], [[Gurjat]] and further afield, who stayed until the rain-winds changed and let them sail home. The fair and the city's Chinese quarter are older than the sultan's conversion to Islam and the island's maskeds. Much of Borune had converted over the few decades before 1517, through continual trade with Muslim India.
 
 ## The Great Borunesk Meeting
-In the early sixteenth century King [[Howel of Britain|Howel]] of Britain sent ships led by the *[[Voyage of the Phœbos|Phœbos]]*, under Captain mac Kellot, to sail as far east as they could. Having rounded Africa, and directed by [[Uman|Umanick]] and Chinese traders, the *Phœbos* sailed on to Gurjat and [[Madray]] and made port at Borune in 1516.
+In the early sixteenth century King [[Howel of Britain|Howel]] of Britain sent ships led by the *[[Voyage of the Phœbos|Phœbos]]*, under Captain mac Kellot, to sail as far east as they could. Having rounded Africa, and directed by [[Uman|Umanic]] and Chinese traders, the *Phœbos* sailed on to Gurjat and [[Madray]] and made port at Borune in 1516.
 
 The Morrack ship *Cynthia*, under the Persian-born captain al-Casmi, had meanwhile sailed west by way of [[Cappatia]] and the Lovac Isles, through [[Rhalodony]], [[Tecamaw]] and [[Bidia]]. Arriving on Borune in 1517, its crew heard, in Arabic, stories of map-makers from the Far West, and travelled along the coast to Sinquan, where they found the *Phœbos* at anchor. Morrack ships thus became the first to circumnavigate the world.
 

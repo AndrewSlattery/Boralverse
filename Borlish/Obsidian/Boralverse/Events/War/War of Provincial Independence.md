@@ -19,7 +19,7 @@ Provence's requests for aid to the young king [[Rudolf VIII, King of Burgundy|Ru
 On the advice of the foundling-general [[Guillen daus Sanz]], Lord [[Daniel Menton]] of the house of Amigòt secured the aid of King [[Marc V of France]]. France had at last reached a reconciliation with Normandy, avoiding the tangle of the [[Wars of Fealty]] in [[Albion]]. With this support, Menton and several other noble families declared independence from Geneva on 21 June 1497. The day is still a national holiday in Provence, and Marsella's midsummer celebrations also mark the anniversary.
 
 ## Battle of Margès
-The declaration was not formally recognised until Burgundy's defeat at the Battle of Margès in 1499. On the eve of the battle daus Sanz is popularly said to have mocked the states of Albion, which had by then been at war with one another for two decades:
+The declaration was not formally recognised until Burgundy's defeat at the Battle of Margès in 1499. On the eve of the battle daus Sanz is popularly said to have mocked the states of Albion, which had by then been at war with one another for three decades:
 
 > Perhaps we should have sent for a Kentish witness! They might learn the subtle craft of ending the wars they start.
 

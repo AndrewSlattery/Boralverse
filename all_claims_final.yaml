@@ -17378,7 +17378,7 @@ claims:
 - entry: 100.5
   title: Voyage of the Phœbos
   category: event
-  claim: The voyage of the Phœbos made port in Ungotia, directed by Umanick and Chinese traders, and eventually arrived in
+  claim: The voyage of the Phœbos made port in Ungotia, directed by Umanic and Chinese traders, and eventually arrived in
     Borune.
   entities:
   - name: Phœbos
@@ -17398,9 +17398,9 @@ claims:
 - entry: 100.5
   title: Voyage of the Phœbos
   category: glossary
-  claim: Umanick is the Boralverse demonym for Omani.
+  claim: Umanic is the Boralverse demonym for Omani.
   entities:
-  - name: Umanick
+  - name: Umanic
     irl: Omani
     type: concept
 - entry: 100.5
