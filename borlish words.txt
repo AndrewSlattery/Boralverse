@@ -1,16 +1,28 @@
 abreu "the state of being waterlogged" < abrevar "irrigate, soak, drench"
+caðy "curry" < the Boralverse counterpart of Tamil கறி • kaṟi (still to work out why the Borlish has ð)
+coglerre "spoonful" < cogler "spoon" + -e "-ful" (cf. forcotte "forkful"; a subentry under cogler at most)
 des jaçol "for some time" < des "out of" + jaçol "long ago" < ? ja de sol ?
+des oy "just now, very recently" (idiomatic phrase) < des "out of" + oy "now"
 empory "economy" < emporium
 entauthaltað "localism" < Gk entautha | entauthal
 entrposson fair "act as a stepping stone" | entrposson "intermediate step" < entr- "between" and posson "position" < positio
+feyen "manure, dung" < Old Borlish fiem < Vulgar Latin femus < fimum
+flejover "butcher" < Germanic, cognate with flesh and hewer | flejovar "butcher (a carcass), slaughter"
 jalicquazur "alakazam, abracadabra; hocus pocus, flimflam, sharp practice; jiggery pokery, fiddling" < y Jalicq Azur "Bluejacket", a late 18C Borlish illusionist of the Long Peace period (real name to be determined, poss. a woman in men's clothing, poss. part of the early Deviance movement there)
+lotug "lettuce" < Latin lactūca (initial vowel irregular: perhaps influenced by some semantically related word, which?)
 micr "loaf, bread roll" < mīccula < mīcca < mīca "crumb" | micrman "bakery" < -man "monger"
 mogon "arsehole (slang)" < Swahili mkundu
 musicour "musician"
 outrmort "afterlife" < outr- < ultra + mort "death"
 pacentar "be patient to, put up with" < patiens
 pantachualtað "universalism" < Gk pantakhou | pantachual
+porc "pig, hog; pork" < Latin porcus (already in 149.3 porc errevour "pork redeemer", but not in the .db)
 quincarol "straight man, heterosexual man" | Germanic, likely Norse, cf kvin "woman" karl "man" i.e. ladies' man
 rad "transgender, trans" < some Slavone rad or rado or rade or similar "on purpose; willingly" < Proto-Slavic ràdъ "glad, willing"
+refassar "change (a baby's nappy), reswaddle" < re- + fassar "swaddle" (un babe refassar con vruglet; subentry under fassar)
+scile "chilli" < same ultimate source as English chilli (Nawat chīlli), probably via Morrove Arabic
+solcquevr "sunflower" < ? Old English, something like sigel "sun" + hweorfan "turn" ?
 step de man "leg-up" < OE step, man "hand"
 terraçment "terrace"
+vintedos "vintedos, a form of verse (the mariner's octave)" < Doccian vintidós "twenty-two" (see 230.5)
+vrugl "loincloth" < voruclum, metathetic from Latin (in)volucrum | vruglet "nappy, diaper" (diminutive)
