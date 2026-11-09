@@ -33307,3 +33307,57 @@ Specialisation is for insects.
 
 ##
 
+247.2: outrmort "afterlife"
+
+outrmort /ˌu.tr̩ˈmɔrt/ [ˌu.tɐˈmɔːt]
+- afterlife, hereafter, continued existence after death;
+- heaven, underworld, netherworld, land of the dead, the place where the dead are believed to have gone;
+- (archaeology) grave goods, the collection of objects buried with someone who has died;
+- (in children's games) jail, out, the state of players who have been eliminated from a round or the location where they wait the round out
+
+Etymology: Middle Borlish compound of outr- "beyond" < Latin ultrā and mort "death" < Latin mors, probably a calque of the Ecclesiastical Latin phrase vīta ultrā mortem "life beyond death". The sense of a place, rather than a state, appears in early modern translations of classical and Malchassian texts, where it renders the underworlds of pagan religions. The archaeological sense comes from nineteenth-century antiquarian catalogues, and the children’s-game sense is recorded from the early twentieth century.
+
+Toccað! Tu's all'outrmort.
+/toˈkaθ | tɪz aˌlu.tr̩ˈmɔrt/
+[tʊˈkaθ | tɪ‿zɐˌlu.tɐˈmɔːt]
+touch-p.pst | 2s-be to.df=afterlife
+Tagged! You're out!
+
+##
+
+247.3: des jaçol "for some time"
+
+des jaçol /dɛz ʒaˈtsɔl/ [dɛz ʝɐˈtsɔl]
+- for some time, for ages, since some point in the past and still now;
+- of old, since time immemorial, (of a custom or a belief) for so long as to need no justification;
+- (interjection) about time, at last, finally, an expression of exasperation that something has taken so long
+
+Etymology: Middle Borlish phrase of des "out of" < Latin dē ex and jaçol "long ago", an Old Borlish adverb of uncertain origin (perhaps ja de sol "already sun"?). The second sense comes from early modern legal usage, and the interjection is a twentieth-century innovation.
+
+Jo connosc Laum des jaçol.
+/ʒo koˈnɔx lom dɛz ʒaˈtsɔl/
+[ʝo kʊˈnɔç lom dɛz ʝɐˈtsɔl]
+1s know.1s Will since long.ago
+I've known Will for ages.
+
+##
+
+247.4: pacentar "wait out"
+
+pacentar /ˌpa.tsɛnˈtar/ [ˌpa.tsɪnˈtɐː]
+- bear with, be patient with, to show forbearance towards;
+- put up with, endure, to suffer a nuisance without complaint;
+- wait out, ride out, sit out, to stay until something passes;
+- sit with, keep vigil over, to stay at the bedside of a sick or dying person;
+- (cookery) rest, prove, leave to stand, to let sit before the next stage of a recipe
+
+Etymology: Middle Borlish verb derived from pacent "patient" < Latin patiēns, present participle of patior "I suffer, I endure". The earliest uses are in devotional writing, extended to storms and sieges in the early modern period, and to hospitals and cookery in the nineteenth century.
+
+Nos pacentaum l'oraç ny tarn.
+/nɔz ˌpa.tsɛnˈtom loˈrats ni tarn/
+[nɔz ˌpa.tsɪnˈtom lʊˈʀas nɪ ˈtɐːn]
+1p be.patient-pst.1p df=storm in-df pub
+We waited out the storm in the pub.
+
+##
+
