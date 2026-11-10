@@ -48,6 +48,6 @@ The name is found on world maps from 1689, and in print from 1692. It comes from
 - Nivon
 
 ## See also
-- [[Second Great Dying]], the plague pandemic across the Vetomund that reached Europe in 1518
+- [[Second Great Dying]], the plague pandemic across the Vetomund that reached Europe in 1519
 - [[Novomundane Landfall]], the start of prolonged contact with the Novomund in 1471
 - [[Mendevan Unmooring]], the weakening of ties between Mendeva and the Vetomund

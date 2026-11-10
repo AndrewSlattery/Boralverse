@@ -12,7 +12,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 3.2	dictionary	smoutar "riot"	smoutar	riot	True	2	115	796	dictionary/3.2_smoutar_riot.md
 3.3	dictionary	sovemblar "to outline"	sovemblar	to outline	True	4	173	1203	dictionary/3.3_sovemblar_to_outline.md
 3.4	dictionary	zygom "valve"	zygom	valve	True	4	187	1148	dictionary/3.4_zygom_valve.md
-3.5	notes	Dane Settlements in the Isles			False	0	252	1684	notes/3.5_Dane_Settlements_in_the_Isles.md
+3.5	notes	Dane Settlements in the Isles			False	0	252	1685	notes/3.5_Dane_Settlements_in_the_Isles.md
 4.1	excerpt	Rise of the Stadbund			False	0	252	1587	excerpt/4.1_Rise_of_the_Stadbund.md
 4.2	dictionary	spait "scared"	spait	scared	True	3	138	835	dictionary/4.2_spait_scared.md
 4.3	dictionary	autoschedon "hand-to-hand combat"	autoschedon	hand-to-hand combat	True	2	124	867	dictionary/4.3_autoschedon_hand-to-hand_combat.md
@@ -397,7 +397,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 78.3	dictionary	joivr "frost"	joivr	frost	True	3	119	731	dictionary/78.3_joivr_frost.md
 78.4	dictionary	dijarbr "decent"	dijarbr	decent	True	4	134	899	dictionary/78.4_dijarbr_decent.md
 78.5	notes	The Good Game period			False	0	297	1934	notes/78.5_The_Good_Game_period.md
-79.1	excerpt	The Welsh Viking			False	0	282	1796	excerpt/79.1_The_Welsh_Viking.md
+79.1	excerpt	The Welsh Viking			False	0	282	1797	excerpt/79.1_The_Welsh_Viking.md
 79.2	dictionary	jagottað "jagged"	jagottað	jagged	True	3	147	1019	dictionary/79.2_jagottað_jagged.md
 79.3	dictionary	emendanç "fix"	emendanç	fix	True	2	75	544	dictionary/79.3_emendanç_fix.md
 79.4	dictionary	cay seg a veðerrem "elephant in the room"	cay seg a veðerrem	elephant in the room	True	2	146	910	dictionary/79.4_cay_seg_a_veðerrem_elephant_in_the_room.md
@@ -471,7 +471,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 93.2	dictionary	porrujonnar "protrude"	porrujonnar	protrude	True	3	116	763	dictionary/93.2_porrujonnar_protrude.md
 93.3	dictionary	Eden soluð "a lost Eden"	Eden soluð	a lost Eden	True	1	114	719	dictionary/93.3_Eden_soluð_a_lost_Eden.md
 93.4	dictionary	ðalleyar "spread-eagle"	ðalleyar	spread-eagle	True	2	106	668	dictionary/93.4_ðalleyar_spread-eagle.md
-93.5	notes	Lexember 2023 - 1: ceu "basically"			True	3	414	2567	notes/93.5_Lexember_2023_-_1_ceu_basically.md
+93.5	notes	Lexember 2023 - 1: ceu "basically"			True	3	414	2568	notes/93.5_Lexember_2023_-_1_ceu_basically.md
 93.6	dictionary	gringlar "tumble"	gringlar	tumble	True	2	81	501	dictionary/93.6_gringlar_tumble.md
 93.7	dictionary	reunt "back"	reunt	back	True	3	110	686	dictionary/93.7_reunt_back.md
 94.1	excerpt	grindr "score"			True	4	400	2500	excerpt/94.1_grindr_score.md

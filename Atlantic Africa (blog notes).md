@@ -72,7 +72,7 @@ its south," exporting kola and bananas north through the Amagre Gap into the Mid
 
 **C15 — Vascony.** "Being a maritime power, Vascony had explored parts of the African coast (as far south
 as **Sant Adrian** [Bioko]) during the fifteenth century" (`Mapbook/Vascony.md`). Then the brake:
-Vascony "lost over a fifth of its population to the Second Great Dying" (1518–25) — for the same maritime
+Vascony "lost over a fifth of its population to the Second Great Dying" (1519–25) — for the same maritime
 reason. **The Vascon push down the African coast stalls at Bioko and never resumes.**
 
 **C15–C16 — Morrack.** Munir al-Hamdawi founds the **New World Company** (شركة العالم الجديد) in **1463**;

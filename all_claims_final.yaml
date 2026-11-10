@@ -508,12 +508,12 @@ claims:
   title: Dane Settlements in the Isles
   source_work: '844–900: Early Dane Kingdom-Building across the Northwestern Isles'
   category: work
-  claim: The partition of Mondwell is mentioned in both the Ulstre and Carlile chronicles.
+  claim: The partition of Mondwell is mentioned in both the Ultaugh and Carlile chronicles.
   entities:
   - name: Mondwell
     irl: Anglesey
     type: place
-  - name: Ulstre chronicle
+  - name: Ultaugh chronicle
     type: work
   - name: Carlile chronicle
     type: work
@@ -19584,10 +19584,10 @@ claims:
 - entry: 124.5
   title: Who's Who (1700s Edition)
   category: work
-  claim: '''A Complete Assembly of the Towns and Cities of Markland for the Edification of the Good Food Amateur'' was written
+  claim: '''A Complete Lithing of the Towns and Cities of Markland, for the Edification of the Good Food Amateur'' was written
     by Lord Mathurin Carrow and was popular across the Northwestern Isles.'
   entities:
-  - name: A Complete Assembly of the Towns and Cities of Markland
+  - name: A Complete Lithing of the Towns and Cities of Markland
     type: work
   - name: Mathurin Carrow
     type: person

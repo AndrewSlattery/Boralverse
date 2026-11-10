@@ -32,7 +32,7 @@ Elsewhere, history tracks the real world closely until specific divergence point
 - Roman: Conquered as a province; Latin takes hold
 - Post-Roman: Anglo-Saxon and Danish settlers create petty kingdoms; Borlish emerges from Latin spoken among these migrants
 - Medieval: Unified Kingdom of Borland through the First Kingdom and Dane-ruled periods; monasteries, universities, guilds
-- Late Medieval (1400s–1500s): Wars of Fealty across Albion; Novomundane contact begins; the **Second Great Dying** (1518–1525), a plague that kills roughly 1/7 of Borland's population
+- Late Medieval (1400s–1500s): Wars of Fealty across Albion; Novomundane contact begins; the **Second Great Dying** (1519–1525), a plague that kills roughly 1/7 of Borland's population
 - Early Modern: Agricultural revolution, mercantile expansion, abolition of serfdom (legally 1564)
 - 17th–18th centuries: Romantic Wars (Vascony vs. Morrack), Long Peace, early industrialization
 - 19th century: **Steeplepost** (telegraph/rail equivalent) arrives; Good Game period of alliance-federacies; industrial Workshop period
@@ -134,7 +134,7 @@ Other nations have their own naming conventions consistent with their linguistic
 | Kevler romance | Subgenre of masquira; elaborate theft of priceless objects |
 | Millstone War | WWI analog |
 | Romantic Wars | 17th-century Vascony–Morrack conflicts |
-| Second Great Dying | 1518–1525 pandemic (bubonic plague variant) |
+| Second Great Dying | 1519–1525 pandemic (bubonic plague variant) |
 | Revillon | Ancient winter festival (traces to pre-Roman Celtic *Flidōlus*) |
 | Cauç Ragnt | The Wild Hunt; Borlish folk belief; led by Balegr (Odin kenning) |
 | Palaç Jagovin | Parliament building in Damvath |

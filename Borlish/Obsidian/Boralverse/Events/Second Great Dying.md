@@ -1,13 +1,13 @@
 ---
 type: event
-dates: from 1518 (5–7 years)
-year: 1518
+dates: from 1519 (5–7 years)
+year: 1519
 place:
   - "[[Vetomund]]"
 posts:
   - "15.5"
 ---
-The Second Great Dying was a pandemic of bubonic plague occurring across the [[Vetomund]], which arrived in [[Europe]] in early 1518 and lasted for between five and seven years.
+The Second Great Dying was a pandemic of bubonic plague occurring across the [[Vetomund]], which arrived in [[Europe]] in early 1519 and lasted for between five and seven years.
 
 The first victim in [[Borland]] of the Second Great Dying was in [[Damvath]] during the so-called 'green snowfall' (a term referring to any snow that falls in spring) of 1519.
 
