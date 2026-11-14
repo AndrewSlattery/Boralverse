@@ -4,7 +4,7 @@ borlish: Irðon
 place:
   - "[[Northwestern Isles]]"
 ---
-Ireland (Borlish **Irðon**) is the westernmost of the large [[Northwestern Isles]], lying west of [[Albion]] across the Irish Sea. Parts of it now form a tallath of the Kingdom of [[Britain]], the most populous of Britain's outlying tallaths.
+Ireland (Borlish **Irðon**) is the westernmost of the large [[Northwestern Isles]], lying west of [[Albion]] across the Irish Sea. It now belongs to the Kingdom of [[Britain]], and is the most populous of Britain's outlying tallaths.
 
 ## History
 ### Early Ireland
@@ -19,7 +19,7 @@ The first Viking raids struck the shores of Albion and Ireland, and Danes settle
 A map of Albion and Ireland in 1028 shows "the ever-fractious kingdoms of Ireland" recently reduced to four by the breaking of the Ultaugh in the north-east: Tyrconnal, Connaught, Lenster and Munster. Tyrconnal and Lenster fought wars against the Norrish to the east and the other Irish to the west at the same time, while the houses of Connaught and Munster vied for the position of High King of Ireland.
 
 ### Ireland and Britain
-In the fourteenth and fifteenth centuries the fish and salt trade gave the nobility of the eastern Irish coast, along with those of Wales, Dunclothe, Sodrick, Kernow and Devon, the habit of thinking of themselves as having common political interests. Parts of Ireland became an outlying tallath of the Kingdom of Britain.
+In the fourteenth and fifteenth centuries the fish and salt trade gave the nobility of the eastern Irish coast, along with those of Wales, Dunclothe, Sodrick, Kernow and Devon, the habit of thinking of themselves as having common political interests. Ireland became part of the Kingdom of Britain.
 
 In 1824 the assayer and alchemist Yorreth ap Trahaen isolated an unknown mineral from the mines of the Irish shire of Killdara. A Dublin pottery maker at first monopolised it for yellow-green glazes. The substance, killdark, is named via Welsh *kildárc* "from Killdara", and it is now the corporal used in the vast majority of threshold mills.
 

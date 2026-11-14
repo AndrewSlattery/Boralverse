@@ -33,7 +33,7 @@ Nominalisation of porçonnar, attested from 1650. In mathematics from 1830, orig
 Y graðleur porçonaurn y mansc seyon coglt pall'ec joun orphan.
 The volunteers shared the food they had collected with the orphans here.
 /i gʀaðˈlawʀ ˌpɔʁtsoˈnoʀn̩ i ˈmaŋx sijɔn ˈkɔjlt palɛk ˈʒun ɔʀˈfan/
-[i gʁɐðˈlawɐ ˌpɔːtsʊˈnoːn i ˈmaŋk sʊn ˈkɔwt pɐˈlɛg ˈʒʊn ʊːˈfan]
+[i gʁɐðˈlawɐ ˌpɔːtsʊˈnoːn i ˈmaŋk sʊn ˈkɔjlt pɐˈlɛg ˈʒʊn ʊːˈfan]
 
 -
 
@@ -70,7 +70,7 @@ The judges found my grandmother innocent of blasphemy.
 Nos eu l'oc annað dou tort dell'ivan apportað; stoven torrir ag casc aldr!
 We've brought two Christmas pies this year - both my parents wanted to bake!
 /no‿ˈzaw lɔk aˈnaθ du ˌtɔʀt deliˈvan apɔʀˈtaθ | faˈlɛn toˈʀɪʀ ɛj kax aldʀ̩/
-[nʊ‿ˈzaw lɔgɐˈnaː du ˌtɔːdɪlɪˈvaŋ apʊːˈtaː | fɐˌlɛn tʊˈʀɪː‿ʀɛj kɐx ˈawdɐ]
+[nʊ‿ˈzaw lɔgɐˈnaː du ˌtɔːdɪlɪˈvaŋ apʊːˈtaː | fɐˌlɛn tʊˈʀɪː‿ʀɛj kɐx ˈaldɐ]
 
 ##
 
@@ -87,7 +87,7 @@ bors scholer /bɔʀz skoˈlɛʀ/ [bɔːz skʊˈlɛː] scholarship, grant
 Ðe voun calscon fallent fair por l'oc bors scholer cavir.
 They will do whatever it takes to get this grant.
 /ðe ˌvun kalˈxɔn faˌlɛnt fɛʀ ˌpɔʀ lɔk ˌbɔʀz skoˈlɛʀ kaˈvɪʀ/
-[ðe ˌvun kɐwˈxɔŋ fɐˈlɛnt fɛː pɔː lʊ ˈbɔːz skʊˈlɛː kɐˈvɪː] 
+[ðe ˌvun kɐlˈxɔŋ fɐˈlɛnt fɛː pɔː lʊ ˈbɔːz skʊˈlɛː kɐˈvɪː] 
 
 ##
 
@@ -156,13 +156,13 @@ banfoy quïr /kwaˈjɪʀ/ [kwɐˈjɪː] to pack up camp, to prepare for a trip
 Nos voum partir je Maucr, donc toð je Mart faldra banfoy quïr.
 We'll leave on Wednesday, so we need all Tuesday to pack.
 /no ˈvum paʀˈtɪʀ ʒe ˈmokʀ | dɔnk tɔθ ʒe maʀt falˈdʀa banˈfɔj kwaˈjɪʀ/
-[nʊ ˈvʊm pɐːˈtɪː ʒɪ ˈmokɐ | dɔŋk ˈtɔː ʒɪ ˈmɐːt fɐwˈdʀa bɐɱˈfɔj kwɐˈjɪː] 
+[nʊ ˈvʊm pɐːˈtɪː ʒɪ ˈmokɐ | dɔŋk ˈtɔː ʒɪ ˈmɐːt fɐlˈdʀa bɐɱˈfɔj kwɐˈjɪː] 
 
 ##
 
 10th Lexember
 
-rastel /ʀasˈtɛl/ [ʀɐsˈtɛw] rake
+rastel /ʀasˈtɛl/ [ʀɐsˈtɛl] rake
 
 < Latin rastellum “rake, hoe”, diminutive of rastrum “rake”.
 
@@ -189,7 +189,7 @@ In Portingale there was a new recipe, with spiced meat in a tomato sauce.
 
 /a ˌlɪsˈtɛjn fo ɪn meˈθɔd noˈvɛl | ant ˈkaʀn ˌaʀoˈmaθ ne ˈsoz de xiˈtɔm piˈzaθ/
 
-[ɐ ˌlɪsˈtɛjn fo m̩ mɪˈθɔd nʊˈvɛw | ɐŋ ˈkɐːn ˌaʀʊˈmaː nɪ ˈsoz dɪ çɪˈtɔm pɪˈzaː]
+[ɐ ˌlɪsˈtɛjn fo m̩ mɪˈθɔd nʊˈvɛl | ɐŋ ˈkɐːn ˌaʀʊˈmaː nɪ ˈsoz dɪ çɪˈtɔm pɪˈzaː]
 
 ##
 
@@ -202,7 +202,7 @@ barvier /baʀˈvjɛʀ/ [bɐːvɪˈjɛː] shepherd(ess), one who guides a flock
 Y soldart eð y barvier vencoirn y dragon e soulor allagr vescoirn ðe.
 The soldier and the shepherdess killed the dragon and lived happily ever after.
 /i sɔlˈdaʀt eθ i baʀˈvjɛʀ vɛnˈkɔjʀn̩ i dʀaˈgɔn e suˈlɔʀ aˈlɛjʀ veˈxɔjʀn̩ ðe/
-[i sʊwˈdɐːt e‿ði bɐːvɪˈjɛː vɪŋˈkɔjɐn i dʀɐˈgɔn e sʊˈlɔː‿ʀɐˈlɛjɐ vɪˈxɔjɐn ðe] 
+[i sʊlˈdɐːt e‿ði bɐːvɪˈjɛː vɪŋˈkɔjɐn i dʀɐˈgɔn e sʊˈlɔː‿ʀɐˈlɛjɐ vɪˈxɔjɐn ðe] 
 
 ##
 
@@ -215,7 +215,7 @@ scurvog /xɪʀˈvɔj/ [çɪːˈvɔj] scurvy, pathological lack of sandrine*
 Rey Ambrosc commandau casc vascel port frugt sandrin, ma faloy moneð demay.
 King Ambrose required each ship to carry citrus fruits, but the cost was too high.
 /ʀi amˈbʀox komanˈdo kax vaˈxɛl pɔʀt ˈfʀajt sanˈdʀɪn | ma faˈlɔj moˈnɛθ deˈme/
-[ʀi‿jɐmˈbʀɔx komɐnˈdo kax vɐˈxɛw pɔːt ˈfʀajt sɐnˈdʀɪn | ma fɐˈlɔj mʊˈnɛː dɪˈme]
+[ʀi‿jɐmˈbʀɔx komɐnˈdo kax vɐˈxɛl pɔːt ˈfʀajt sɐnˈdʀɪn | ma fɐˈlɔj mʊˈnɛː dɪˈme]
 
 -
 
@@ -295,7 +295,7 @@ corrovað /ˌkoʀoˈvaθ/ [ˌkoʀʊˈvah] amateur, recruit, enthusiast, novice
 Jo vel for un corrovað me nommar, mathem partenent.
 I'd only consider myself an amateur when it comes to maths.
 /ʒo ˈvɛl fɔʀ ɪn ˌkoʀoˈvaθ me noˈmaʀ | maˈθɛm ˌpaʀteˈnɛnt/
-[ʒʊ ˈvɛw fɔː‿ʀɪŋ ˌkoʀʊˈvah me nʊˈmɐː | mɐˈθɛm ˌpɐːtɪˈnɛn(t)]
+[ʒʊ ˈvɛl fɔː‿ʀɪŋ ˌkoʀʊˈvah me nʊˈmɐː | mɐˈθɛm ˌpɐːtɪˈnɛn(t)]
 
 ##
 
@@ -340,7 +340,7 @@ Hitherto, Rome had banned badger from being eaten in Lent.
 
 23rd Lexember
 
-viol cemtir /vjɔl tsɛmˈtɪʀ/ [vɪˈjɔw tsɪnˈtɪː] graveyard fiddles
+viol cemtir /vjɔl tsɛmˈtɪʀ/ [vɪˈjɔl tsɪnˈtɪː] graveyard fiddles
 
 < The first word from Mediæval Tuscane viola, probably from Old Vascon viula, from Late Latin vitula (all with the same meaning). The second from Old Borlish cemiteȝr, from Latin cœmētērium “burial ground”, from Greek κοιμητήριον “sleeping chamber”.
 
@@ -351,20 +351,20 @@ Featured  in the opera Ale in Fiamme “Wings Afire” (a retelling of the story
 Vos orreð viol cemtir moutessem, com dit, all'hour pre y lugnt.
 They say you will most often hear the graveyard fiddles the hour before dawn.
 /vo‿zoˈʀɛθ vjɔl tsɛmˈtɪʀ muˈtɛsɛm | kɔm ˈdɪt | aˈluʀ pʀe i ˈlajnt/
-[vo‿zʊˈʀɛh vɪˈjɔw tsɪnˈtɪː mʊˈtɛsɐm | kʊnˈdɪt | ɐˈlʊː pʀɛj ˈlajn(t)]
+[vo‿zʊˈʀɛh vɪˈjɔl tsɪnˈtɪː mʊˈtɛsɐm | kʊnˈdɪt | ɐˈlʊː pʀɛj ˈlajn(t)]
 
 ##
 
 24th Lexember
 
-trevold /tʀeˈvɔld/ [tʀɪˈvɔwd] novel, book, story
+trevold /tʀeˈvɔld/ [tʀɪˈvɔld] novel, book, story
 
 < circa 1640, from Dench bog trevold “octavo book” (that is, a book printed on sheets in octavo size). Literally “three-fold”, named as octavo parchment is produced by folding folios three times.
 
 Jo te pieð, dig mey nien den – jo n'ay deja y cart trevold leit dell'oc cougl.
 Please don't tell me anything – I've not yet read the fourth book in the series.
 /ˌʒo te ˈpjɛθ | ˈdaj mi ˈnjɛn dɛn | ʒo ˌne deˈʒa i ˌkaʀt tʀeˈvɔld ˈlit delɔk ˈkɔjl/
-[ʒʊtˈpjɛh | ˌdaj mi ˈnjɛn dɛn | ʒʊˈne dɪˈʒa ɪˈkɐːt tʀɪˈvɔwd lɪt ˌdelʊˈkɔjʊ] 
+[ʒʊtˈpjɛh | ˌdaj mi ˈnjɛn dɛn | ʒʊˈne dɪˈʒa ɪˈkɐːt tʀɪˈvɔld lɪt ˌdelʊˈkɔjl] 
 
 ##
 
@@ -422,7 +422,7 @@ jeunar /ʒawˈnaʀ/ [ʒɐwˈnɐː] to fast, to not eat
 Nos som jeunant y jorn, ma colluïsc mey a masquet pos occas vars un grant quelt.
 We're fasting during the day, but come with me to mosque after sunset for a big dinner.
 /no ˈsɔm ʒawˈnant i ˈʒɔʀn | ma ˌkɔlaˈjɪx mi a masˈkwɛt pɔz oˈkaz vaʀz ɪn ˌgʀant ˈkwɛlt/
-[nʊ ˈsɔm ʒɐwˈnan‿tɪ ˈʒɔːn | ma ˌkɔlɐˈjɪç mi a mɐsˈkwɛt pɔz ʊˈkaz vɐːz ɪŋ ˌgʀant ˈkwɛwt]
+[nʊ ˈsɔm ʒɐwˈnan‿tɪ ˈʒɔːn | ma ˌkɔlɐˈjɪç mi a mɐsˈkwɛt pɔz ʊˈkaz vɐːz ɪŋ ˌgʀant ˈkwɛlt]
 
 ##
 
@@ -435,7 +435,7 @@ retrasent /ˌʀetʀaˈzɛnt/ [ˌʀetʀɐˈzɛn(t)] back and forth
 Y kenonaut vil casc meis volar retrasiscent entr y Tar eð y Lun.
 The spaceship will fly back and forth between the Earth and the Moon each month.
 /i ˌkenoˈnot vɪl kax ˈmɔnθ voˈlaʀ ˌʀetʀaˈzɛnt ɛnt‿ʀi ˈtaʀ ɛθ i ˈlɪn/
-[i ˌkenʊˈnot vɪw kɐxˈmɔnθ vʊˈlɐː ˌʀetʀɐˈzɛn(t) ɛnt‿ʀi ˈtɐː‿ʀɛ‿ði ˈlɪn]
+[i ˌkenʊˈnot vɪl kɐxˈmɔnθ vʊˈlɐː ˌʀetʀɐˈzɛn(t) ɛnt‿ʀi ˈtɐː‿ʀɛ‿ði ˈlɪn]
 
 ##
 
@@ -465,7 +465,7 @@ disq a CMM /ˈdɪsk a ˌtse ɛm ˈɛm/ [ˈdɪsk ɐ ˌtseʔɪˈmɛm] record, viny
 A tu lorry derran disq a CMM oïð : “Soll'Autr Stel” ?
 Have you heard their latest record “Beneath New Stars”?
 /ˌa ti lɔˈʀi deˈʀan ˈdɪsk a ˌtse ɛm ˈɛm oˈjɪθ | soˈlotʀ̩ ˈstɛl/
-[ˌati lʊˈʀi dɪˈʀan ˈdɪsk ɐ ˌtseʔɪˈmɛm ʊˈjɪh | sʊˈlotɐ ˈstɛw]
+[ˌati lʊˈʀi dɪˈʀan ˈdɪsk ɐ ˌtseʔɪˈmɛm ʊˈjɪh | sʊˈlotɐ ˈstɛl]
 
 *polyvinyl chloride (PVC).
 **ethene.
@@ -741,7 +741,7 @@ They crawled through the mud with the terrible discord of battle around them.
 
 16m Janver
 
-aç seðel /ats seˈðɛl/ [ˌatsɪðɛw] in droves, in spades, aplenty (in large quantities)
+aç seðel /ats seˈðɛl/ [ˌatsɪðɛl] in droves, in spades, aplenty (in large quantities)
 
 < attested 16C, literally “in buckets”. First word from a “to, at” + eç, the plural distal “those”, from late Old Borlish ec i < Latin hæc ibi “these (things) there”. Noun seðel “bucket” from diminutive of Latin situla “pail, urn”.
 
@@ -1048,7 +1048,7 @@ ongulað /ˌɔngiˈlaθ/ [ˌɔŋgɪˈlah] hooved animal, ungulate
 They didn't know that whales were most closely related to ungulates.
 /ˌðe saˈvɛn nɔk ˌaj baˈlɛn sɔn ˌkɔmpɔʀtanˈdɛsɛm a ˌɔngiˈlaθ/
 
-nagl /nɛjl/ [ˈnɛjʊ] peg, dowel
+nagl /nɛjl/ [ˈnɛjl] peg, dowel
 
 < 8C, from Old Borlish naȝl “nail, peg”, borrowed from Old English nægl “peg (tool for fastening), plectrum”. This from Classical German naglas “(finger)nail”, a derivation of the ancestral ƕnōghs.
 
@@ -1996,7 +1996,7 @@ His reply was monotone and automatic, eyes downturned.
 
 25m Març
 
-calm /kalm/ [kawm] still, immobile, (archaic) calm
+calm /kalm/ [kalm] still, immobile, (archaic) calm
 
 also calmar to still, to stop moving
 
@@ -2045,7 +2045,7 @@ All your beautiful pieces of glasswork will excite me like the first.
 
 28m Març
 
-sorcegl /sɔʀˈtsijl/ [sʊːˈtsi.jʊ] eyebrow, (in archictecture) a low arch
+sorcegl /sɔʀˈtsijl/ [sʊːˈtsi.jl] eyebrow, (in archictecture) a low arch
 
 < from 8C, in Old Borlish as sovrceȝl “eyebrow” among others, a direct descendant from Latin supercilium “eyebrow, frown”. Sense in architecture from 15C.
 
@@ -3295,7 +3295,7 @@ Good evening, brother! My husband is hosting a evening sorty this weekend; are y
 
 1r Jugn
 
-febiltað /ˌfe.bɪlˈtaθ/ [ˌfe.bɪwˈtah] weakness, feebleness, infirmity
+febiltað /ˌfe.bɪlˈtaθ/ [ˌfe.bɪlˈtah] weakness, feebleness, infirmity
 
 < 10C, nominal derivation from Old Borlish feble “weak” (modern Boral febr), itself from Vulgar Latin fēbilis “lamentable, fearful”, a dissimilated form of Latin flēbilis which has the same meaning. Possibly directly from a Latin nominal *flēbilitās, but this is unattested.
 
@@ -4996,7 +4996,7 @@ The library has finally provided me with a draft of Dümmeyer's treatise on coll
 
 [2] The Kingdom of France was seen to have profited unjustly from the Second German War, gaining significant territory while (according to many) not investing much manpower or material resources.
 
-[3] A Mendevan [North American] state now legally separate from Britain [a state comprising Wales, Devon, Kernow and parts of northern Ireland and Albion], corresponding roughly to East Texas, Louisiana, Arkansas, Oklahoma, and western Mississippi.
+[3] A Mendevan [North American] state now legally separate from Britain [a state comprising Wales, Devon, Kernow, Ireland and parts of northern Albion], corresponding roughly to East Texas, Louisiana, Arkansas, Oklahoma, and western Mississippi.
 
 [4] This pun on “inhabitants of Provence” and “rural, sheltered people” is not uncommon in letters at this time, but not well understood in retrospect.
 
@@ -5087,7 +5087,7 @@ also quagment /kwagˈment/ a trembling, a shiver, an earthquake
 
 12m Septembr
 
-eðegl /eˈðijl/ [ɪˈðijʊ] nook, alcove, niche
+eðegl /eˈðijl/ [ɪˈðijl] nook, alcove, niche
 
 also position, controlled territory, strategic holding
 
@@ -5217,7 +5217,7 @@ abansanc /ˌa.banˈsank/ [ˌa.bɐnˈzaŋk] massacre, bloodbath, rout
 
 …survived, however, in those few remaining monasteries spared from the Danish raids (note in particular the Chronicle of Carlile, which survives only in copy at the Tremonnow Brethin House, having presumably been ferried across the Irish Sea before the monastery at Carlile burnt down in around 1013 N).
 
-But to understand the final years of Wulfstan the Younger of Northumber, we must look two centuries earlier, to the very first Viking raids on the shores of Albion and Ireland. The tales of similar raids on Borland towns—and on monasteries in particular—would surely have been common knowledge by the time they spread westward, sacking Halgrive in the summer of 824.
+But to understand the final years of Wolfstan the Younger of Northumber, we must look two centuries earlier, to the very first Viking raids on the shores of Albion and Ireland. The tales of similar raids on Borland towns—and on monasteries in particular—would surely have been common knowledge by the time they spread westward, sacking Halgrive in the summer of 824.
 
 Nonetheless, the English kingdoms were prepared for these raids (and eventually, invasions) to vastly different degrees. Compare the fates of Merch Lincon to Northumber Yorwick: the former never fell, and in fact became the most heavily-fortified town in Markland for the several decades it served as the de facto border of Danish rule. In part this was the inevitable result of tensions along the Welsh border; even during the relatively-long period of peacetime both Theodric the Awefast and Owain of Brochwel maintained ever-more levy forces to police the long Severn Line.
 
@@ -5289,7 +5289,7 @@ Barracat brushed that aside. “All of the Danish agents are. Marcuszen, however
 
 23m Septembr
 
-mojol /moˈʒɔl/ [mʊˈʝɔw] hub; centrepoint, midpoint; common ground
+mojol /moˈʒɔl/ [mʊˈʝɔl] hub; centrepoint, midpoint; common ground
 
 < attested 10C as mojol “hub of a wheel” (metaphorical senses seen much later but the semantic leap is clear enough), from Latin modiolus “hub” < modius “a measure of grain or dry volume, being about 2½ gallons” (compare modern Boral moisc, a similar unit). Justification for the derivation well-attested but unclear.
 
@@ -5303,7 +5303,7 @@ mojol /moˈʒɔl/ [mʊˈʝɔw] hub; centrepoint, midpoint; common ground
 
 24m Septembr
 
-sodal /soˈdal/ [sʊˈdaw] member (of a group), family member, element, component
+sodal /soˈdal/ [sʊˈdal] member (of a group), family member, element, component
 
 < 16C across Romance languages in Revitalism texts, directly borrowed from Scholastic Latin sodālis “member of a group or association”, influenced in meaning by sodālitās “group, association, fraternity” (the original Latin sodālis means “companion, mate, fellow, comrade”). Used for objects as well as people from 18C, but popularised in mathematics by its use in the Borlish translation of Dümmeyer's seminal work on set theory.
 
@@ -5465,7 +5465,7 @@ dropped it into the pot, pressing it firmly into the dirt so nobody would see th
 
 5m Octobr
 
-eiðel /iˈðɛl/ [ɪˈðɛw] realm, lands, territory, demesne
+eiðel /iˈðɛl/ [ɪˈðɛl] realm, lands, territory, demesne
 
 < 10C in Old Borlish eðel, eiðl [ˈeːðɛl] “homeland, home territory” (poetry evidence indicates stress must have shifted to the final syllable by the fifteenth century at latest). This comes from Old English ēþel with the same meaning, originally specifically in reference to English-ruled Borland.
 
@@ -5479,7 +5479,7 @@ eiðel /iˈðɛl/ [ɪˈðɛw] realm, lands, territory, demesne
 
 6m Octobr
 
-jammel /ʒaˈmɛl/ [ʝɐˈmɛw] twin, couple, identical pair
+jammel /ʒaˈmɛl/ [ʝɐˈmɛl] twin, couple, identical pair
 
 < 12C in late northern Old Borlish jamel “twin” (note the characteristic opening of pretonic /ɛ/ and possible southern form ?gemr, though this is disputable), from Latin gemellus, diminutive form of geminus “twin, double, paired”
 
@@ -5881,7 +5881,7 @@ Like so many of these tales, what had been amoral or even virtuous characters in
 
 1r November
 
-vriðel /vriˈðɛl/ [vʀɪˈðɛw] curtains, drapes, blinds, (in figurative use) veil, barrier, concealment
+vriðel /vriˈðɛl/ [vʀɪˈðɛl] curtains, drapes, blinds, (in figurative use) veil, barrier, concealment
 
 < from 10C in Old Borlish vriðel “curtains; bandages, wrapped cloth”, a nominal diminutive derivation from vriðar “to wrap, plait, bind (of cloth)”; the verb became obsolete by the Middle Borlish period, displaced by fasçar (modern fassar). This verb came from Old English wrīþan “to twist, wrap, bind”, from Classical German wrīþan “to weave, twist”. This also gives French ridew “curtains”, probably via High German ridil “ribbon” (note that Norman French retains cortine, from Late Latin cōrtīna “curtain”).
 
@@ -5895,7 +5895,7 @@ vriðel /vriˈðɛl/ [vʀɪˈðɛw] curtains, drapes, blinds, (in figurative use
 
 2m Novembr
 
-folker /fɔlˈkɛr/ [fʊwˈkɛː] fern, bracken, thick brambles; countryside covered in these plants, especially when it is thus impassable; (in mathematics) fractal, self-similar figure
+folker /fɔlˈkɛr/ [fʊlˈkɛː] fern, bracken, thick brambles; countryside covered in these plants, especially when it is thus impassable; (in mathematics) fractal, self-similar figure
 
 < first attested 11C in various forms as Old Borlish folcair, falcaȝr, felcair,… “fern, bracken”. This comes from a reconstructed Vulgar Latin *filicāria (“thicket of ferns”), although there were probably variants with inital vowel as <a> or <u>. This noun is a late-derivation collective of Latin filix “fern”, probably from Greek. Despite popular attempts to link the Borlish form to Old English folc “people, nation, crowd”, this is semantically untenable.
 
@@ -6352,7 +6352,7 @@ Here we truly depart from the Gallic development with the debuccalisation of fin
 
 1r Decembr
 
-sclar d'ogl /xlar ˈdɔjl/ [l̥ɐːˈdɔ.jʊ] blink, instant, very short amount of time
+sclar d'ogl /xlar ˈdɔjl/ [l̥ɐːˈdɔ.jl] blink, instant, very short amount of time
 
 < 16C, a nominalisation from the verb phrase l'ogl sclarar “to blink (one's eyes)”, used metaphorically to describe the brevity of a blink. The noun ogl “eye” is directly from Latin oculus via Old Borlish oȝl(e) [oɣlə ~ oʎːə], having the same sense. The verb (now obsolete) is from Old Borlish isclarar “to flash, brighten, light up”, from Vulgar Latin exclārō “I lighten , illuminate, clarify” (literally “I make light, clear”).
 
@@ -6417,7 +6417,7 @@ corrir preuç /koˈrɪr ˈprawts/ [kʊˈʀɪː ˈpʀaws] to jog, to trot (to run
 
 5m Decembr
 
-capparol /ˌka.paˈrɔl/ [ˌka.pɐˈʀɔw] chapter, section (of a book); also element of a sequence, stint
+capparol /ˌka.paˈrɔl/ [ˌka.pɐˈʀɔl] chapter, section (of a book); also element of a sequence, stint
 
 < 10C in Old Borlish caveparol, cauparol “chapter” with perhaps phonological influence from Mediæval Latin capitulum “chapter (of a book or an organisation, esp. the Catholic Church)”. This is a calque from Old English heafodword “chapter”, literally “headword”, an eastern variant of heafodweard “chapter, lit. headguard” formed presumably by folk etymology. The variant is seen primarly in East Anglian sources (and in the short-lived Gambrig chronicle in Borland). The other senses capparol obtained, referring to a point in a sequence (of events, usually), are attested from the early sixteenth century.
 
@@ -6548,7 +6548,7 @@ trasir /traˈzir/ [tʀɐˈzɪː] (transitive) to cross, traverse, go through; to
 
 14m Decembr
 
-coglt /ˈkɔjlt/ [ˈkɔ.jʊt] (literally) collected, composed, assorted; (of a person) collected, presentable, put-together
+coglt /ˈkɔjlt/ [ˈkɔ.jlt] (literally) collected, composed, assorted; (of a person) collected, presentable, put-together
 
 < the past participle of coglir “to gather, pick up, collect”, which comes via Old Borlish coȝlir /koˈʎir/ from Latin colligō “I gather, draw, assemble, harvest”. Used of people in its modern senses since the seventeenth century. In the late 19th century it was briefly used as a general positive adjective but this had gone out of fashion even by the time of the Millstone War.
 
@@ -6768,7 +6768,7 @@ The word amigtað “friendship” is synchronically analysable as amig “frien
 
 26m Decembr
 
-scaumel /xoˈmɛl/ [xʊˈmɛw] pen, stylus, writing implement; pipe, duct; whistle, (in apposition) woodwind; drinking straw
+scaumel /xoˈmɛl/ [xʊˈmɛl] pen, stylus, writing implement; pipe, duct; whistle, (in apposition) woodwind; drinking straw
 
 < attested since the thirteenth century in early Middle Borlish scaumel /ʃauˈmɛl/ “reed pen, quill pen”. This comes from late Old Norman chaumel “reed, rush; reed pen” (modern chalmew “clarinet, pipe” with influence from more southerly forms), which reflects Late Latin calamellus “reed (pen)”, a diminutive of calamus “reed, cane, stalk, straw”. This in turn is a borrowing from Greek κᾰ́λᾰμος (kálamos) with the same sense, and so the Boral is cognate with calamon “aerial, antenna”, which is taken directly from the Greek. The non-writing senses date from the 17C and were probably absorbed from the French cognates on the continent.
 
@@ -6877,7 +6877,7 @@ Etymology: adapted from Medieval/early Scholastic Latin vatrus “sine” (also 
 
     /lɔk dɛlt tri mɪl aˈnaθ ɛld sɪrˈkaz eˈnɔm.br̩ a iˈsɛnt de ˈva.tr̩/
 
-    [lʊ ˈdɛwt tʀi ˈmɪw ˌa.nɐˈðɛwd sɪːˈkaz ɪˈnɔm.b‿ʀa ɪˈsɛnt dɪ ˈva.tɐ]
+    [lʊ ˈdɛlt tʀi ˈmɪl ˌa.nɐˈðɛld sɪːˈkaz ɪˈnɔm.b‿ʀa ɪˈsɛnt dɪ ˈva.tɐ]
 
     def=s.prx tablet three thousand year of.age end.up.pst list to output of sine
 
@@ -6967,7 +6967,7 @@ Cal porra balanç intermanir ag tramou ny porçonment?
 
 /kal poˈra baˈlants ɪnˌtɛr.maˈnɪr ɛj traˈmu ni ˌpɔr.tsɔnˈmɛnt/
 
-[kaw pʊˈʀɑ bɐˈlants ɪnˌtɛː.mɐˈnɪː‿ʀɛj tʀɐˈmu ni ˌpɔː.tsʊmˈmɛnt]
+[kal pʊˈʀɑ bɐˈlants ɪnˌtɛː.mɐˈnɪː‿ʀɛj tʀɐˈmu ni ˌpɔː.tsʊmˈmɛnt]
 
 what can-fut recompense constitute-inf to.def shortfall in.def allocation
 
@@ -7048,7 +7048,7 @@ Etymology: The noun sar "(fish)net, mesh, network" arrives in Boral from Vascon 
 
 Ða gent oc saun, y sar marcer dourra mal.
 /ða ʒɛnt ɔk son | i sar marˈtsɛr duˈra mal/
-[ða ˈʒɛnt ɔ ˈsɔn | i sɐː mɐːˈtsɛː dʊˈʀa maw]
+[ða ˈʒɛnt ɔ ˈsɔn | i sɐː mɐːˈtsɛː dʊˈʀa mal]
 if person s.prx know-3pl | def net commercial hurt-fut.3s bad
 If people find out about this, the trade network will be affected badly.
 
@@ -7193,7 +7193,7 @@ Unfortunately, the other options are just as easily discarded. Backslang—the p
 
 Loy paregl ny cour es ajoutað de bon romanç kevlar.
 /lɔj paˈrijl ni kur ɛz ˌa.ʒuˈtaθ de bɔn roˈmants keˈvlar/
-[lɔj pɐˈʀi.jʊ ni ˈkʊː‿ʀɪz ˌa.ʒʊˈtah dɪ ˈbɔn ʀʊˈmans kɪˈvlɐː]
+[lɔj pɐˈʀi.jl ni ˈkʊː‿ʀɪz ˌa.ʒʊˈtah dɪ ˈbɔn ʀʊˈmans kɪˈvlɐː]
 place same in=def heart be.3s gratify-ptcp.pst from good story heist
 The same part of the heart delights in a good heist story.
 
@@ -7321,7 +7321,7 @@ I would have been remiss not to try making a few of these recipes for myself; th
 
 nau /no/ (obsolete or poetic) ship, boat, sea-faring vessel powered by oar or perhaps sail; (obsolete) nave, the middle or body of a church building usually containing the pews; (archaic or dialect) navel, bellybutton, indentation remaining in the abdomen of mammals from where the umbilicus was attached before birth; (dialect, by extension) indentation, hole, result of drilling with an auger; (archaic or historical) bowl, dish, boat, utensil with a handle and spout used for serving and pouring sauces such as gravy; (with bel in the phrase bel nau) saying, affirmation, profession, creed, words and promises as opposed to material acts
 
-particularly bel nau /bɛl no/ [ˌbɛwˈno] fine words, promises or flattery usually viewed as empty, insincere or hypocritical; literally "beautiful creed".
+particularly bel nau /bɛl no/ [ˌbɛlˈno] fine words, promises or flattery usually viewed as empty, insincere or hypocritical; literally "beautiful creed".
 
 Etymology: in most senses originally from Latin nāvis "ship; nave of a church", both senses of which survive unmolested into various Old Borlish forms nau, naf, nof etc (though some of these are likely imported from Old French). The form naf for "nave" wins out by the end of fifteenth century, while the form nau is retained primarily for the innovative use "dish with handle for sauce"; this presumably is motivated by the similar shape.
 
@@ -7331,7 +7331,7 @@ The jump to "aphorism, short witticism (usually in bel nau)" is less clear. Ther
 
 Alcot y bel nau, tu pos ja traiçon me dar.
 /alˈkɔt i bɛl no | ti pɔz ʒa treˈtsɔn me dar/
-[ɐˈgɔt i ˌbɛwˈno | ti ˈpoʒ ʒa tʀɪˈtsɔn mɪ ˈdɐː]
+[ɐˈgɔt i ˌbɛlˈno | ti ˈpoʒ ʒa tʀɪˈtsɔn mɪ ˈdɐː]
 how.much def pretty words | 2s may.sbj still betrayal 1s.obl give-inf
 Whatever you say, you might yet betray me.
 
@@ -7355,7 +7355,7 @@ This idea had barely been set to parchment before the ediculate [2] crowd were u
 
 16m Lexembr
 
-cair bel /ker bɛl/ [keː bɛw] (of weather) to be fine out, for the conditions outside to be pleasant, warm and sunny; (by extension, of a scene or scenario) to be going well, to turn out well, for people to be getting along or plans to be proceeding apace; (of people) to be content, satisfied or unconcerned, to take no issue; (by extension, pejoratively) to content oneself, to be oblivious to problems and think incorrectly that nothing is lacking or wrong
+cair bel /ker bɛl/ [keː bɛl] (of weather) to be fine out, for the conditions outside to be pleasant, warm and sunny; (by extension, of a scene or scenario) to be going well, to turn out well, for people to be getting along or plans to be proceeding apace; (of people) to be content, satisfied or unconcerned, to take no issue; (by extension, pejoratively) to content oneself, to be oblivious to problems and think incorrectly that nothing is lacking or wrong
 
 (An impersonal construction, only taking an optional dative experiencer.)
 
@@ -7365,7 +7365,7 @@ The adjective bel "beautiful" descends uncomplicatedly from Latin bellus "pleasa
 
     Ðe amn queldar tras port candon cay bel.
     /ðe ˈa.mn̩ kwɛlˈdar traz pɔrt kanˈdɔn ke bɛl/
-    [ðe ˈa.mɐŋ kwɪwˈdɐː tʀaz ˈpɔːt kɐnˈdɔn ke bɛw]
+    [ðe ˈa.mɐŋ kwɪlˈdɐː tʀaz ˈpɔːt kɐnˈdɔn ke bɛl]
     3p like-3p dine-inf through door whenever fall-s beautiful
     They like to dine outside when it's fine out.
 
@@ -7441,7 +7441,7 @@ Etymology: attested in Old Borlish as havcetre "hawk", apparently a blend of Lat
 
 Haucetr e corf le parlocn, symbol auspecer intermanent.
 /hoˈtsɛ.tr̩ e kɔrf le parˈlɔ.kn̩ | sɪmˈbɔl ˌo.speˈtsɛr ɪnˌtɛr.maˈnɛnt/
-[hʊˈtsɛt‿ʀe ˈkɔːf le pɐːˈlɔ.kɐn | sɪmˈbɔw ˌo.spɪˈtsɛː ɪnˌtɛː.mɐˈnɛnt]
+[hʊˈtsɛt‿ʀe ˈkɔːf le pɐːˈlɔ.kɐn | sɪmˈbɔl ˌo.spɪˈtsɛː ɪnˌtɛː.mɐˈnɛnt]
 hawk and raven 3s.m.acc flank-3pl | symbol prophet-adj constitute-ptcp.prs
 The hawks and ravens around him are symbols of prophecy.
 
@@ -7470,7 +7470,7 @@ Then, after a hundred years, they are not.
 
 copros /koˈprɔz/ [kʊˈpʀɔz] sulphate, vitriol, ionic compound containing the anion SO₄²⁻; (historical) iron(II) sulphate, green vitriol, the compound with chemical formula FeSO₄
 
-compare cohol /koˈhɔl/ [kʊˈxɔw] sulphide, ionic compound containing the anion S²⁻
+compare cohol /koˈhɔl/ [kʊˈxɔl] sulphide, ionic compound containing the anion S²⁻
 
 Etymology: attested in various European languages from the thirteenth century, adapted from Mediæval Latin cuperosa et al. "metal sulphate, especially copper sulphate", short for aqua cuprosa "water of copper". Originally referring in particular to blue vitriol/copper sulphate, by the Revitalist period it was in most common use for green vitriol/iron sulphate.
 
@@ -7539,7 +7539,7 @@ Etymology: attested in Middle Borlish as ascouð "secure box, chest" but likely 
 
 Ðe voltisceurn nell'askouð irront, tragç carnt.
 /ðe ˌvɔl.tiˈxaw.rn̩ ˌne.laˈskuθ iˈrɔnt | trɛjts ˈka.rn̩t/
-[ðe ˌvɔw.tɪˈxa.wɐn ˌne.lɐˈsku‿ðɪˈʀɔnt | tʀɛjs ˈka.ʀɐnt]
+[ðe ˌvɔl.tɪˈxa.wɐn ˌne.lɐˈsku‿ðɪˈʀɔnt | tʀɛjs ˈka.ʀɐnt]
 3p spin-pst.3p in.def=vault break.in-ptcp.pst | trace seek-ptcp.prs
 They lingered in the cracked vault, looking for clues.
 
@@ -7662,7 +7662,7 @@ The first name Fuyo is attested from around the same time as its use for the bir
 
 Fuyo joun ern cantant, aziant sull'ec ranscel.
 /faˈjo ʒun ɛ.rn̩ kanˈtant | aˈzjant siˈlɛk ranˈxɛl/
-[fɐˈʝo ʒun ɛːŋ kɐnˈtant | ɐˈzjant sɪˈlɛg ʀɐŋˈçɛw]
+[fɐˈʝo ʒun ɛːŋ kɐnˈtant | ɐˈzjant sɪˈlɛg ʀɐŋˈçɛl]
 robin young be.imp-3p sing-ptcp.prs | stand-ptcp.prs on.def=p.px branch
 Young robins were singing, stood on the branches.
 
@@ -7692,13 +7692,13 @@ Nial was thirteen years old, the best youth pickpocket this side of the Becouin 
 
 27m Lexembr
 
-voinaçal /ˌvɔj.naˈtsal/ [ˌvɔj.nɐˈtsaw] armourcloth, a distinctive period of women's fashion, most prevalent in Europe during the Long Peace, which emulated men's military dress
+voinaçal /ˌvɔj.naˈtsal/ [ˌvɔj.nɐˈtsal] armourcloth, a distinctive period of women's fashion, most prevalent in Europe during the Long Peace, which emulated men's military dress
 
 Etymology: late eighteenth century in most languages, traceable to Furlain Italian voinacciale "soldierly (informal, somewhat derogatory)". This is an adjectival derivation related to cant term voina "soldier", from either Crovatian or Zahid Russian words meaning 'soldier' or 'war'.
 
     Y domn voinaçal portant ayen y connocry ris ne camp abat.
     /i ˈdɔ.mn̩ vɔj.naˈtsal pɔrˈtant ɛjˈɛn i ˌko.noˈkri ʀɪz ne kamp aˈbat/
-    [i ˈdɔ.mɐn ˌvɔj.nɐˈtsaw pʊːˈtant ɪˈʝɛn i ˌko.nʊˈkʀi ʀɪz ne kamp ɐˈbat]
+    [i ˈdɔ.mɐn ˌvɔj.nɐˈtsal pʊːˈtant ɪˈʝɛn i ˌko.nʊˈkʀi ʀɪz ne kamp ɐˈbat]
     def woman armourcloth wear-ptcp.prs have-imp.3p def ice.dance make.ptcp.pst in field war
     The women in armourcloth had transformed the ice dance into a battlefield.
 
@@ -7756,7 +7756,7 @@ Both these prepositions may take an infinitive or a subjunctive clause, usually 
 
 A fin ig tu caif y livr teyon rovað, jo calmau ag varous fin all'augtanç.
 /a fɪn aj ti kef i ˈli.vr̩ tiˈjɔn roˈvaθ | ʒo kalˈmo ɛj vaˈruz fɪn ˌa.lojˈtants/
-[ɐˈfɪn aj ti kef i ˈli.vɐ t(j)ɔŋ ʀʊˈvah | ʒo kɐwˈmo ɛj vɐˈʀuz fɪˌna.lʊjˈtans]
+[ɐˈfɪn aj ti kef i ˈli.vɐ t(j)ɔŋ ʀʊˈvah | ʒo kɐlˈmo ɛj vɐˈʀuz fɪˌna.lʊjˈtans]
 to end comp 2s get-2s.sbj def book 2s.dem ask.for-ptcp.pst | 1s not.move-pst at.def shop end at.def=delivery
 So you'd get the book you wanted, I stayed at the shop until it arrived.
 
@@ -7836,7 +7836,7 @@ What follows is an enumeration of the "also-rans", primarily all the vocab I cre
 
 - arn /ˈa.rn̩/ [ɐːn] fletch, vane, the part toward the back of an arrow, used for stabilisation during flight; probably also from Old Norrish (cf. Ydreç 2008) but the etymon is unclear.
 
-- heredical /heˌre.diˈkal/ [hɪˌʀe.dɪˈkaw] genetic, hereditary, relating to biological descent; a Scholastic Latin derivation of heres "heir, heiress".
+- heredical /heˌre.diˈkal/ [hɪˌʀe.dɪˈkal] genetic, hereditary, relating to biological descent; a Scholastic Latin derivation of heres "heir, heiress".
 
 - betraver /ˌbe.traˈvɛr/ [ˌbe.tʀɐˈvɛː] beet sugar, especially as produced from the gold braxoch beet first bred in the mid-eighteenth century; a regular adjectival derivation from betraf "beet, beetroot", which itself is a combination of earlier bet < beta "beet", raf < rapum "turnip".
 
@@ -7850,7 +7850,7 @@ What follows is an enumeration of the "also-rans", primarily all the vocab I cre
 
 - roncaf /rɔnˈkaf/ [ʀʊŋˈkaf] mystery, puzzle, conundrum, a difficult choice or decision or riddle that must be made; from the fifteenth century as rom-caf "breaks the head".
 
-- vanagl /vaˈnɛjl/ [vɐˈnɛ.jʊ] cant, slang, jargon, the particular vocabulary shared by the members of a class or profession; not certain but usually taken to be a dialect descendant of Latin vernāculus "native, domestic, vernacular".
+- vanagl /vaˈnɛjl/ [vɐˈnɛ.jl] cant, slang, jargon, the particular vocabulary shared by the members of a class or profession; not certain but usually taken to be a dialect descendant of Latin vernāculus "native, domestic, vernacular".
 
 - veskit /veˈskɪt/ [vɪˈskɪt] jumper, sweater, cardigan, woolen garment intended to keep the wearer warm; phonetic respelling of Norman or Kentish waiscot, reduced from a compound of waist and coat (i.e. a coat reaching to the waist).
 
@@ -7860,7 +7860,7 @@ What follows is an enumeration of the "also-rans", primarily all the vocab I cre
 
 - lausc /lox/ [lox] (dated) see!, I told you so!, interjection expression vindication or relief; partly from some phrases containing l'au "had it", but the origin of the coda -sc is unclear.
 
-- crougl /krujl/ [ˈkʀu.jʊ] knuckle, crook, joints of the fingers or toes or any features of a similar shape; presumably from Old English cnucel "knuckle" but only attested from the fourteenth century.
+- crougl /krujl/ [ˈkʀu.jl] knuckle, crook, joints of the fingers or toes or any features of a similar shape; presumably from Old English cnucel "knuckle" but only attested from the fourteenth century.
 
 - varrigt /vaˈrajt/ [vɐˈʀajt] tough, callused, unyielding, having formed a rough outer layer for protection; borrowed from Old English wearriht with very little change in meaning.
 
@@ -7872,7 +7872,7 @@ What follows is an enumeration of the "also-rans", primarily all the vocab I cre
 
 - niacer /njaˈtsɛr/ [njɐˈtsɛː] (of birds) nesting, building nests; (metaphorical, colloquial) domestic, pertaining to the household; regular adjectival derivation of niaç "nest", which is itself an extension of earlier ni < Latin nīdus "nest".
 
-- briscel /briˈxɛl/ [bʀɪˈçɛw] bush, shrub, woody plant with multiple stems and lower height than a tree; clipped from earlier arbriscel, from a presumed Vulgar Latin arboriscellus "small tree-like plant".
+- briscel /briˈxɛl/ [bʀɪˈçɛl] bush, shrub, woody plant with multiple stems and lower height than a tree; clipped from earlier arbriscel, from a presumed Vulgar Latin arboriscellus "small tree-like plant".
 
 - hurislar /ˌhi.riˈslar/ [ˌhi.ʀɪˈzlɐː] to rustle, crackle, to make a sound similar to that of dry leaves; from the thirteenth century in diverse forms, likely onomatopoeic but influenced in some way by Old English hrūxlian "to make noise".
 
@@ -7945,7 +7945,7 @@ Etymology: nineteenth-century derivation unique to Boral from adjective idone /�
 
 Cal voun ðe por lorrell'erraç idoneïsar?
 /kal vun ðe pɔr lɔˌrɛ.lɛˈrats ˌi.doˌni.iˈzar/
-[kaw vun ðe pɔː lʊˌʀɛ.lɪˈʀats ˌi.dʊˌnɪ.jɪˈzɐː]
+[kal vun ðe pɔː lʊˌʀɛ.lɪˈʀats ˌi.dʊˌnɪ.jɪˈzɐː]
 what will-3p 3p for 3p.gen=def=mistake adjust
 What will they do to fix their mistakes?
 
@@ -8046,7 +8046,7 @@ Etymology: from Middle Borlish desçoclar "to topple, knock over", a verbal deri
 
 My fraðr dessoclau y castel blader meyon costroit.
 /mi ˈfra.ðr̩ ˌde.soˈklo i kaˈstɛl blaˈdɛr miˈjɔn koˈstrɔjt/
-[mi ˈfra.ðɐ ˌde.sʊˈklo i kɐˈstɛw blɐˈdɛː mɪˈʝɔŋ kʊˈstʀɔjt]
+[mi ˈfra.ðɐ ˌde.sʊˈklo i kɐˈstɛl blɐˈdɛː mɪˈʝɔŋ kʊˈstʀɔjt]
 1s.gen brother topple-pst def castle card-adj 1s.dem build-ptcp.pst
 My brother knocked over the house of cards I built.
 
@@ -8065,7 +8065,7 @@ The extension to generic "repairman" and eventually "meddler" is ill-attested in
 
 Façað plu stancour a my nuçal!
 /faˈtsað pli stanˈkur a mi niˈtsal/
-[fɐˈtsah pli stɐŋˈkʊː a mi nɪˈtsaw]
+[fɐˈtsah pli stɐŋˈkʊː a mi nɪˈtsal]
 do-imp.p no.longer tinker tp 1s.gen wedding
 Stop meddling in my wedding!
 
@@ -8284,7 +8284,7 @@ Situated upstream (several miles inland across the Camboshung Ridge from the old
 
 5.2: praxitel "sculptor"
 
-praxitel /ˌprak.siˈtɛl/ [ˌpʀak.sɪˈtɛw]
+praxitel /ˌprak.siˈtɛl/ [ˌpʀak.sɪˈtɛl]
 - sculptor, artist who produces sculptur and especially statuary
 - (sensu latu) artist, one who shows great skill and artistry in their craft
 - carving knife, as used in carpentry to pare or smooth wood and as used to cut large cooked meat dishes
@@ -8297,7 +8297,7 @@ Meaning "ski" it is a clipping of earlier sci praxitel "sculptor's ski", origina
 
 Saveð vos cal praxitel gravau y Macchine di Helio?
 /saˈvɛθ vo kal ˌprak.siˈtɛl graˈvo i ˌma.kiˈne di heˈljo/
-[sɐˈvɛh vo kaw ˌpʀak.sɪˈtɛw gʀɐˈvo i ˌma.kɪˈne di hɪˈljo]
+[sɐˈvɛh vo kal ˌpʀak.sɪˈtɛl gʀɐˈvo i ˌma.kɪˈne di hɪˈljo]
 know-2p 2p which sculptor carve-pst def Macchine di Helio
 Do you know which sculptor carved the Machines of Helios?
 
@@ -8305,7 +8305,7 @@ Do you know which sculptor carved the Machines of Helios?
 
 5.3: deðal "thimble"
 
-deðal /deˈðal/ [dɪˈðaw]
+deðal /deˈðal/ [dɪˈðal]
 - thimble, cup-shaped cap worn on the tip of a finger and used in sewing to push a needle through material
 - thimbleful, traditional unit of liquid volume denoting as much as fits in a thimble and which is equal to roughly half a millilitre
 - (by extension) a vague but small amount of liquid, especially of alcoholic spirits
@@ -8314,7 +8314,7 @@ Etymology: From Old Borlish deiðal, de(ȝ)dal "thimble" (in various forms), des
 
 Y gant distr a my gamma ayen un deðal pagnt ig.
 /i gant ˈdi.str̩ a mi gaˈma ɛˈjɛn ɪn deˈðal pɛjnt aj/
-[i gant ˈdɪs.tʀ‿a mi gɐˈma ɪˈʝɛn ɪn dɪˈðaw pɛjnt aj]
+[i gant ˈdɪs.tʀ‿a mi gɐˈma ɪˈʝɛn ɪn dɪˈðal pɛjnt aj]
 def glove right at 1s.gen grandma have-impf-3p indef thimble attach-ptcp.pst there
 My grandma's right glove had a thimble built-in.
 
@@ -8330,7 +8330,7 @@ Etymology: first attested in early Modern Borlish, apparently a backformation fr
 
 J'er pol frigsant je ados cas mey.
 /ʒɛr pɔl frajˈzant ʒe aˈdɔz kaz mi/
-[ʒɛː pɔw fʀɐjˈzan(t) ʒjɐˈdɔz kaz mi]
+[ʒɛː pɔl fʀɐjˈzan(t) ʒjɐˈdɔz kaz mi]
 1s=cop.ipf chicken fry-ptcp.prs day.of behind home.of 1s.dsj
 I was frying chicken at home yesterday.
 
@@ -8490,7 +8490,7 @@ We ambled down the pergola with ivy all around us.
 
 7.3: vorpal "diced"
 
-vorpal /vɔrˈpal/ [vʊːˈpaw]
+vorpal /vɔrˈpal/ [vʊːˈpal]
 - diced, cut into small cubes as a preparation in cooking;
 - cubic, boxy, having the shape of a cube
 - (of lodgings) cramped, not spacious, uncomfortably restricted in size or space
@@ -8502,7 +8502,7 @@ To refer to housing it is attested since the nineteenth century, at around the s
 
 Cu a l'oc ugnlac vorpal laiscað jos ty panner?
 /ki a lɔk ajnˈlak vɔrˈpal leˈxaθ ʒɔjz ti paˈnɛr/
-[kja lɔg ɐjnˈlak vʊːˈpaw lɪˈxah ʒɔjz ti pɐˈnɛː]
+[kja lɔg ɐjnˈlak vʊːˈpal lɪˈxah ʒɔjz ti pɐˈnɛː]
 who have.sg def=sg.prx onion diced leave-ptcp.pdt next.to 2s.gen breadbin
 Who's left this diced onion next to the breadbin?
 
@@ -8510,7 +8510,7 @@ Who's left this diced onion next to the breadbin?
 
 7.4: kyriel "gamut"
 
-kyriel /kiˈrjɛl/ [ˌkɪ.ʀɪˈʝɛw]
+kyriel /kiˈrjɛl/ [ˌkɪ.ʀɪˈʝɛl]
 - (dated) a sort of short Christian prayer set to music;
 - (musical) scale, sequence of notes usually contained within a single octave;
 - procedure, rigmarole, a particular (often long or tiresome) method for performing a task
@@ -8597,7 +8597,7 @@ We believe you'd prefer not to meet our bigoted aunt.
 
 8.4: quagl "quail, curds"
 
-quagl /kwɛjl/ [ˈkwɛ.jʊ]
+quagl /kwɛjl/ [ˈkwɛ.jl]
 (1)
 - quail, any of various small game birds related to pheasants or partridges, or the meat from such a bird eaten as food
 - (more generally) quarry, an animal which is hunted or by extension a person or object which is being pursued
@@ -8611,7 +8611,7 @@ In the senses at (2), a descendant of Late Latin quāglum < coāgulum "milk curd
 
 Vail l'oç quagl star y quagl pascent?
 /vel lɔts kwɛjl star i kwɛjl ˈpa.xn̩t/
-[vew lɔs ˈkwɛ.jʊ stɐː‿ʀi ˈkwɛ.jʊ ˈpa.xɐn(t)]
+[vel lɔs ˈkwɛ.jl stɐː‿ʀi ˈkwɛ.jl ˈpa.xɐn(t)]
 worth.sbj def=s.dt quail be0inf def curds eat-ptcp.prs
 Should that quail be eating the curds?
 
@@ -8841,7 +8841,7 @@ Desselut inferred the existence of a vital language (in her own writing she call
 
 11.2: scompigl “turmoil”
 
-scompigl /xɔmˈpajl/ [xʊmˈpa.jʊ]
+scompigl /xɔmˈpajl/ [xʊmˈpa.jl]
 - disruption, turmoil, upheaval, a state of rapid change and impermanence as an interruption to  the flow or sequence of something;
 - (more generally) havoc, chaos, widespread devastation or mayhem
 
@@ -8851,7 +8851,7 @@ Etymology:  Borrowed in both noun and verb forms from Italian scompiglio, scompi
 
     Alcun hom sceu y scompigl redugr ny vesteul.
     /alˈkɪn ɔm xaw i xɔmˈpajl reˈdaj.r̩ ni veˈstawl/
-    [ˌa.gɪˈnɔm xaw i xʊmˈpa.jʊ ʀɪˈda.jɐ ni vɪˈsta.wʊ]
+    [ˌa.gɪˈnɔm xaw i xʊmˈpa.jl ʀɪˈda.jɐ ni vɪˈsta.wʊ]
     no person be.able.pst def chaos quell-inf in=def foyer
     Nobody managed to calm the chaos in the foyer.
 
@@ -8859,7 +8859,7 @@ Etymology:  Borrowed in both noun and verb forms from Italian scompiglio, scompi
 
 11.3: udomintel “babysitter”
 
-udomintel /iˌdo.mɪnˈtɛl/ [ɪˌdo.mɪnˈtɛw]
+udomintel /iˌdo.mɪnˈtɛl/ [ɪˌdo.mɪnˈtɛl]
 - (dated) nanny, wet nurse, a woman hired to suckle and otherwise look after another woman's infant child;
 - babysitter, childminder, person who cares for one or more children for a short period of time in place of their legal guardians
 
@@ -8867,7 +8867,7 @@ Etymology: nineteenth-century borrowing from Italian udomintello "nursemaid, wet
 
     Jo vel hur dar an udomintel.
     /ʒo vɛl hɪr dar an iˌdo.mɪnˈtɛl/
-    [ʒo vɛw hɪː dɐː‿ʀan ɪˌdo.mɪnˈtɛw]
+    [ʒo vɛl hɪː dɐː‿ʀan ɪˌdo.mɪnˈtɛl]
     1s will.sbj rent give=inf to=indef babysitter
     I would like to hire a babysitter.
 
@@ -8884,7 +8884,7 @@ Etymology: from Old Borlish wunuast(re) "joyful, joyous", the first part of whic
 
     Nos broucaum un crevoscr vunnastr accougl.
     /nɔz bruˈko ɪn kreˈvɔ.xr̩ viˈnas.tr̩ aˈkujl/
-    [nɔz bʀʊˈko ɪŋ kʀɪˈvɔ.xɐ vɪˈnast‿ʀɐˈkʊ.jʊ]
+    [nɔz bʀʊˈko ɪŋ kʀɪˈvɔ.xɐ vɪˈnast‿ʀɐˈkʊ.jl]
     1p spend.time-1p.pst indef evening merry together
     We spent a merry evening together.
 
@@ -9019,7 +9019,7 @@ The unusual phonetic development can be partially explained. The unproductive en
 
 Me val noc entrar desig mell'azig hortumesc.
 /me val nɔk ɛnˈtrar deˈzaj ˌme.laˈzaj ˌhɔr.tiˈmɛx/
-[me ˈvaw nɔg ɪnˈtʀɐː dɪˈzaj ˌme.lɐˈzaj ˌhɔː.tɪˈmɛç]
+[me ˈval nɔg ɪnˈtʀɐː dɪˈzaj ˌme.lɐˈzaj ˌhɔː.tɪˈmɛç]
 1s.obl worth neg go.in-inf because.of 1s.gen-def=shoe filthy
 I shouldn't come in because of my filthy shoes.
 
@@ -9104,7 +9104,7 @@ Via merchant ships and via troops, along the rivers of Persia and the Russias, t
 
 14.2: gimmoldr "toil"
 
-gimmoldr /giˈmɔl.dr̩/ [gɪˈmɔw.dɐ]
+gimmoldr /giˈmɔl.dr̩/ [gɪˈmɔl.dɐ]
 - to toil, strive, to work hard in pursuit of some goal;
 - to endeavour, to have a mission and be dedicated to its fruition;
 - to be responsible for the accomplishment of an ongoing endeavour or event, especially of a religious ritual
@@ -9130,7 +9130,7 @@ Etymology: from Middle Borlish vesçon "outfit, set of clothes" and earlier Old 
 
 Laisc ty vesson e met tey ne quil!
 /lex ti veˈsɔn e mɛt ti ne kwɪl/
-[leç ti vɪˈsɔn e mɛt ti ne kwɪw]
+[leç ti vɪˈsɔn e mɛt ti ne kwɪl]
 leave 2s.poss outfit and put 2s.dsj in bed
 Take off your clothes and get in bed!
 
@@ -9217,7 +9217,7 @@ I'm drinking this to numb the pain.
 
 15.3: ustolment "manners"
 
-ustolment /ˌi.stɔlˈmɛnt/ [ˌi.stʊwˈmɛnt]
+ustolment /ˌi.stɔlˈmɛnt/ [ˌi.stʊlˈmɛnt]
 - manners, etiquette, decorum, courtesy, the appropriate behaviour required by a particular social context;
 - refinement, sophistication, elegance, stylishness, the quality of having cultivated a high-class affect
 
@@ -9227,7 +9227,7 @@ The noun us "customs, mores, traditions" descends from Latin ūsus "use, practic
 
 Deut es ustolment por y femn voluð.
 /dawt ɛz ˌi.stɔlˈmɛnt pɔr i fɛmn voˈlɪθ/
-[dawt ɪz ˌi.stʊwˈmɛnt pɔː‿ʀi fɛmn vʊˈlɪh]
+[dawt ɪz ˌi.stʊlˈmɛnt pɔː‿ʀi fɛmn vʊˈlɪh]
 due be.3s manners for def wife intended
 Manners are essential for the aspiring wife.
 
@@ -9522,7 +9522,7 @@ We learnt about the electromagnetic spectrum.
 
 Cal yevot a l'oc colluy indrec?
 /kal jeˈvɔt a lɔk kɔˈlaj ɪnˈdʀɛk/
-[kaw ʝɪˈvɔt a lɔ kʊˈlaj ɪnˈdʀɛk]
+[kal ʝɪˈvɔt a lɔ kʊˈlaj ɪnˈdʀɛk]
 what range have.s guild charitable
 What is the scope of this charity?
 
@@ -9539,7 +9539,7 @@ Etymology: first attested in Middle Borlish, variant of older parscir "to learn"
 
     Cal bourg parsisceu tu dessur?
     /kal burg ɛz ˌparzɪˈxaw ti deˈsɪr/
-    [kaw bʊːg ˌpɐːzɪˈxaw ti dɪˈsɪː]
+    [kal bʊːg ˌpɐːzɪˈxaw ti dɪˈsɪː]
     what town learn-pst 2s on
     Which town did you learn about?
 
@@ -9721,7 +9721,7 @@ The noun doujug "spiderweb" descends from northern dialect phrase doun jug /dund
 
 L'ec mersc recievn un doujug veunt frail.
 /lɛk mɛrx reˈtsjɛvn̩ ɪn duˈʒaj vawnt frel/
-[lɛg mɛːç ʀɪˈtsjɛvn‿ɪn dʊˈʝaj vawnt fʀew]
+[lɛg mɛːç ʀɪˈtsjɛvn‿ɪn dʊˈʝaj vawnt fʀel]
 def-p.px host indef web living fragile
 These wetlands have a delicate ecosystem.
 
@@ -9820,7 +9820,7 @@ Good, I was worried you were still awake.
 
 Me scey foy all'anim candon y stel sgardar yert.
 /me xi fɔj ˌa.laˈnɪm kanˈdɔn i stɛl sgarˈdar jɛrt/
-[me çi fɔj ˌa.lɐˈnɪm kɐnˈdon i stɛw zgɐːˈdɐː ʝɛːt]
+[me çi fɔj ˌa.lɐˈnɪm kɐnˈdon i stɛl zgɐːˈdɐː ʝɛːt]
 1s.obl there.is fire at.def=soul when def star watch-inf up
 I feel a fire in my soul when I look up at the stars.
 
@@ -9920,7 +9920,7 @@ Etymology: from Old Borlish somondr "to summon, call", respelt in the Middle Bor
 
 Vel my tarsc d'accat me soumonir posc nossell'yenç.
 /vɛl mi tarx daˈkat me ˌsu.moˈnir pɔx ˌno.sɛlˈjɛnts/
-[vɛw mɪˈtɐːx dɐˈkat mɪˌsu.mʊˈnɪː pɔx nʊˌsɛ.lɪˈjɛns]
+[vɛl mɪˈtɐːx dɐˈkat mɪˌsu.mʊˈnɪː pɔx nʊˌsɛ.lɪˈjɛns]
 will.sbj 1s.gen note of=shopping 1s.acc remind-inf after 1p.gen-def=arrival
 Please remind me of my shopping list when we arrive.
 
@@ -10029,7 +10029,7 @@ We enhanced the performance with tightrope walkers.
 
 23.4: roglfiar "to rust"
 
-roglfiar /rɔjlˈfjar/ [ˌʀɔ.jʊˈfjɐː]
+roglfiar /rɔjlˈfjar/ [ˌʀɔ.jlˈfjɐː]
 - to rust, oxidise, to combine slowly with oxygen to form an oxide as a natural process;
 - to corrode, wear away, to diminish by gradually destroying small parts of as by the action of an acid;
 - to lose familiarity with a subject by gradually forgetting information or losing muscle memory;
@@ -10039,7 +10039,7 @@ Etymology: an Old Borlish verbal derivation from roȝl /roʎ/ "rust, mildew" (mo
 
 Jo's roglfiant cas Theudesc lepçan parolar.
 /ʒɔz rojlˈfjant kaz tawˈdɛx lɛpˈtsan ˌpa.roˈlar/
-[ʝoz ˌʀɔ.jʊˈfjaŋ kaz tɐwˈdɛç lɪˈpsan ˌpa.ʀʊˈlɐː]
+[ʝoz ˌʀɔ.jlˈfjaŋ kaz tɐwˈdɛç lɪˈpsan ˌpa.ʀʊˈlɐː]
 1s=be.s rust-ptcp.prs wrt German Leipziger speak.inf
 My spoken Lepsick Dutch is getting rusty.
 
@@ -10113,7 +10113,7 @@ Etymology: verbal derivation from obsolete gad (modern Boral gaddet "screw"), de
 
 Nos erau y Nil gaddant aval n'auror.
 /nɔz eˈro i nɪl gaˈdant aˈval noˈrɔr/
-[ˌno.zɪˈʀo i nɪw gɐˈdant ɐˈʌaw nʊˈʀɔː]
+[ˌno.zɪˈʀo i nɪl gɐˈdant ɐˈʌal nʊˈʀɔː]
 1p cop.ipf-1p def Nile screw-ptcp.prs downstream in=sunrise
 We were motoring down the Nile at sunrise.
 
@@ -10308,7 +10308,7 @@ Her drumming was deft and precise.
 
 26.5: Borland
 
-Borland (in Borlish Istr Boral /ˈɪs.tʀ̩ boˈʀaɫ/) is the easternmost of the three major landmasses in the Northwestern Isles, and also the name of the singular polity located thereon. The capital of Borland is Damvath, a port city on the east coast of the island.
+Borland (in Borlish Istr Boral /ˈɪs.tʀ̩ boˈʀal/) is the easternmost of the three major landmasses in the Northwestern Isles, and also the name of the singular polity located thereon. The capital of Borland is Damvath, a port city on the east coast of the island.
 Etymology
 
 The name 'Borland' descends via from Old English Boralland, Borala land 'land of the Borlish people', where the first element is taken from Latin Borālēs 'Borlish people'.
@@ -10619,7 +10619,7 @@ Etymology: appears in the seventeenth century in the standard language, taken fr
 
     Toð my famigl promoun kireðam y regnanç anthracit.
     /tɔθ mi faˈmajl proˈmun ˌki.reˈðam i rijˈnants ˌan.θraˈtsɪt/
-    [ˈtɔmi fɐˈma.jʊ pʀʊˈmun ˌki.ʀɪˈðam i ʀɪjˈnans ˌan.θʀɐˈtsɪt]
+    [ˈtɔmi fɐˈma.jl pʀʊˈmun ˌki.ʀɪˈðam i ʀɪjˈnans ˌan.θʀɐˈtsɪt]
     all 1s.gen family support-3p earnestly def regime anthracite
     My family all fully support the anthracite government.
 
@@ -10697,7 +10697,7 @@ Etymology: idiom first attested in the fifteenth-century poetry of Manuel Kigman
 
 Dagormay erra la sy parol robar volonter.
 /ˌda.gɔrˈme ɛˈra la si paˈrɔl roˈbar ˌvo.lɔnˈtɛr/
-[ˌda.gʊːˈme ɪˈʀa la si pɐˈʀɔw ʀʊˈbɐː ˌvo.lʊnˈtɛː]
+[ˌda.gʊːˈme ɪˈʀa la si pɐˈʀɔl ʀʊˈbɐː ˌvo.lʊnˈtɛː]
 henceforth go-fut 3s.f 3s.gen word dress-inf on.purpose
 From now on she'll have to choose her words wisely.
 
@@ -10721,7 +10721,7 @@ Stop complaining, everyone!
 
 28.4: neðolmar "comply"
 
-neðolmar /ˌne.ðɔlˈmar/ [ˌne.ðʊwˈmɐː]
+neðolmar /ˌne.ðɔlˈmar/ [ˌne.ðʊlˈmɐː]
 - to yield, give in, surrender, to give oneself up into the power of an enemy;
 - to conform, comply, submit, to act in the prescribed manner;
 - to belong, match, fit in, to be in the proper place as part of a group
@@ -10730,7 +10730,7 @@ Etymology: first in the military sense from Old Borlish noun neðvolm "surrender
 
 Jo hoir nolir jamay lour neðolmar.
 /ʒo hɔjr noˈlɪr ʒaˈme lur ˌne.ðɔlˈmar/
-[ʒʊ ˈhɔ.jɐ nʊˈlɪː ʝɐˈme lʊː ˌne.ðʊwˈmɐː]
+[ʒʊ ˈhɔ.jɐ nʊˈlɪː ʝɐˈme lʊː ˌne.ðʊlˈmɐː]
 I'm afraid I'll never fit in with them.
 
 ##
@@ -10849,7 +10849,7 @@ In fact, the surname and the word both descend from variously-spelt epithets for
 
 Ty fraðr es untal daugnam incaint sceir sy lucr volar.
 /ti ˈfra.ðr̩ ɛz ɪnˈtal dogˈnam ɪnˈkent xir si ˈli.kr̩ voˈlar/
-[tɪˈfʀa.ðʀ‿ɪz ɪnˈtaw dʊgˈnam iŋˈkent çɪː sɪˈli.kɐ vʊˈlɐː]
+[tɪˈfʀa.ðʀ‿ɪz ɪnˈtal dʊgˈnam iŋˈkent çɪː sɪˈli.kɐ vʊˈlɐː]
 2s.gen brother be.3s one.such prat prone there.be-inf 3s.gen wealth steal-inf
 Your brother's the kind of dupe who'll get his money stolen.
 
@@ -11113,7 +11113,7 @@ By the chair stood the bookseller, closing a small book bound in green leather a
 
 32.2: suðel "patch"
 
-suðel /siˈðɛl/ [sɪˈðɛw]
+suðel /siˈðɛl/ [sɪˈðɛl]
 - patch, small piece of fabric used to mend an article of clothing;
 - workaround, kludge, hack, a temporary repair intended to be of use for a limited time until a more lasting solution can be found
 - plaster, an adhesive piece of material used to cover a wound
@@ -11195,7 +11195,7 @@ Unfortunately, the beautiful landscape shots and the addition of a rich Tavancin
 
 33.2: çavel "brain"
 
-çavel /tsaˈvɛl/ [tsɐˈvɛw]
+çavel /tsaˈvɛl/ [tsɐˈvɛl]
 - brain, brains, organ of the human or animal body responsible for perception, cognition and memory;
 - intellect, mind, the capacity for intelligent or rational thought;
 - (botany) pith, the soft and spongy white matter on the interior of a plant
@@ -11204,7 +11204,7 @@ Etymology: descending from Old Borlish cea(r)vel, cerbel "brain", and reflecting
 
 Y çavel de ty sour es parnommað.
 /i tsaˈvɛl de ti sur ɛz ˌpar.nɔˈmaθ/
-[i tsɐˈvɛw de tɪˈsʊː‿ʀɪz ˌpɐː.nʊˈmah]
+[i tsɐˈvɛl de tɪˈsʊː‿ʀɪz ˌpɐː.nʊˈmah]
 def brain of 3s.ps sister be.3s celebrate-p.pst
 Your sister's intellect is renowned.
 
@@ -11666,7 +11666,7 @@ Etymology: from Old Borlish teir "to span, to cover (an amount of land), to stre
 
 Y centuir de vossy fraðr tein dou lau dy castel.
 /i tsɛnˈtajr de vɔstri ˈfraðr̩ tin du lo di kaˈstɛl/
-[i tsɪnˈtajɐ de ˌvɔstʀɪ ˈfʀa.ðɐ tin du lo di kɐˈstɛw]
+[i tsɪnˈtajɐ de ˌvɔstʀɪ ˈfʀa.ðɐ tin du lo di kɐˈstɛl]
 def army of 2p.gen def brother be.at-3p two league from-def castle
 Your brother's armies are 4 miles from the castle.
 
@@ -11768,7 +11768,7 @@ The smoke-blackened Earth might yet be visible with the voidsailer's equipment, 
 
 39.2: sovragl "belt"
 
-sovragl /soˈvrɛjl/ [sʊˈvʀɛjʊ]
+sovragl /soˈvrɛjl/ [sʊˈvʀɛjl]
 - belt, girdle, a band worn around the waist to hold clothing (usually pants) to one's body;
 - sash, cummerbund, a decorative band of cloth worn across the body;
 
@@ -11776,7 +11776,7 @@ Etymology: direct descendant from Latin subligāculum "loincloth, kilt" exhibiti
 
 Y sovragl seyon me dað sta adornað con flour.
 /i soˈvrɛjl siˈjɔn me daθ sta ˌa.dɔrˈnaθ kɔn flur/
-[i sʊˈvʀɛjʊ ˌsjɔm.mɪˈdah sta ˌa.dʊːˈnah kɔn fluː]
+[i sʊˈvʀɛjl ˌsjɔm.mɪˈdah sta ˌa.dʊːˈnah kɔn fluː]
 def belt 3s.ins 1s.obl give-p.pst be.ipfv decorate-p.pst with flower
 The belt she gave me was decorated with flowers.
 
@@ -12028,7 +12028,7 @@ Etymology: Direct descendant of Latin ornus "mountain ash, rowan" via the synony
 
 L'ivan asseye sur y ranscel dell'orn.
 /liˈvan aˈsje sɪr i ranˈxɛl dɛˈlɔrn/
-[lɪˈvan ɐˈsje sɪː‿ʀi ʀɑnˈçɛw dɪˈlɔːn]
+[lɪˈvan ɐˈsje sɪː‿ʀi ʀɑnˈçɛl dɪˈlɔːn]
 def=child sit-ipf on def branch of-def=ash
 The child was sat on the rowan's branch.
 
@@ -12180,7 +12180,7 @@ At its height in the sixteenth century Mysarnos was a hub for the Revitalist mov
 
 43.2: janualtað "hindsight"
 
-janualtað /ˌʒa.njalˈtaθ/ [ˌʝa.njɐwˈtah]
+janualtað /ˌʒa.njalˈtaθ/ [ˌʝa.njɐlˈtah]
 - hindsight, retrospection, an understanding of the significance and nature of events after they have occurred;
 - perspective, unblinkeredness, the ability to see a situation from a sufficiently uninvolved position that one can understand it without distraction or bias
 
@@ -12206,7 +12206,7 @@ Etymology: early Middle Borlish borrowing from contemporary Welsh mordeith "sea 
 
 Ðe feirn mordeth amont por y poið dy Nil trovar.
 /ðe firn mɔrˈdɛθ aˈmɔnt pɔr i pɔjθ di nɪl troˈvar/
-[ðe fɪːn mʊːˈdɛθ ɐˈmɔnt pɔː‿ʀi pɔjθ di ˈnɪw tʀʊˈvɐː]
+[ðe fɪːn mʊːˈdɛθ ɐˈmɔnt pɔː‿ʀi pɔjθ di ˈnɪl tʀʊˈvɐː]
 3p do-pst.3p foray upstream for def well of-def Nile find-inf
 They went on an expedition to find the source of the Nile.
 
@@ -12300,7 +12300,7 @@ Meanwhile, naumagl "ox, castrated bull employed as a draught animal" enters the 
 
 Mettau noc carrug avant naumagl; ja n'eu nos y muncef meðes saut.
 /mɛˈto nɔk kaˈraj aˈvant noˈmɛjl | ʒa naw nɔz i mɪnˈtsɛf meˈðɛz sot/
-[mɪˈto nɔk kɐˈʀaj ɐˈvan nʊˈmɛjʊ | ʝa naw nɔz i mɪnˈtsɛf mɪˈðɛz sot]
+[mɪˈto nɔk kɐˈʀaj ɐˈvan nʊˈmɛjl | ʝa naw nɔz i mɪnˈtsɛf mɪˈðɛz sot]
 put-1p.sbj neg cart in.front ox | yet neg-have.1p 1p def area even leave.p.pst
 Let's not get ahead of ourselves; we haven't even left the borough yet.
 
@@ -12417,7 +12417,7 @@ Its figurative extension is in evidence from the eighteenth century, originally 
 
 Tu a birgasq oc aubon—te cay cal fallout?
 /ti a bɪːˈgask ɔk oˈbɔn | te ke kal faˈlut/
-[tsja bɪːˈgask ˌɔ.gʊˈbɔn | tɪ ˈke kaw fɐˈlut]
+[tsja bɪːˈgask ˌɔ.gʊˈbɔn | tɪ ˈke kal fɐˈlut]
 2s have apricot s.px morning | 2s.obl fall what venture
 You look happy this morning—what're you up to?
 
@@ -12585,7 +12585,7 @@ The word tarç "third" descends directly from synonymous Latin tertius and now e
 
 L'ec aldr aun ja un tarç dagr me rent.
 /lɛk aldr̩ on ʒa ɪn tarts dɛjr̩ me rɛnt/
-[lɪˈgaw.dʀ‿on ʝa ɪn ˈtɐːs ˈdɛjɐ me ˈʀɛnt]
+[lɪˈgal.dʀ‿on ʝa ɪn ˈtɐːs ˈdɛjɐ me ˈʀɛnt]
 def-p.px parent have-3p yet idf third secret 1s.obl make-p.pst
 With these parents I've been neither fish nor fowl.
 
@@ -12733,7 +12733,7 @@ The word itself is a borrowing from Old French sarrazin "Muslim, Saracen" reflec
 
 Y cociner ença voug cas hojol ne sarzin.
 /i ˌko.tsiˈnɛr ɛnˈtsa vuj kaz hoˈʒɔl ne sarˈzɪn/
-[i ˌkɔ.tsɪˈnɛːʀ‿ɪnˈtsa ˈvuj kaz hʊˈʝɔw ne sɐːˈzɪn]
+[i ˌkɔ.tsɪˈnɛːʀ‿ɪnˈtsa ˈvuj kaz hʊˈʝɔl ne sɐːˈzɪn]
 def cook start-ipf wrong wrt pancake in buckwheat
 The cook was terrible at buckwheat pancakes.
 
@@ -12803,7 +12803,7 @@ Etymology: from Old Borlish pisar, pesar "to weigh, consider", the combination o
 
 Y lan a filar se coun pisað cos inequal.
 /i lan a fiˈlar se kun piˈzaθ kɔz ˌi.neˈkwal/
-[i ˈlan a fɪˈlɐː se ˈkun pɪˈzah kɔz ˌi.nɪˈkwaw]
+[i ˈlan a fɪˈlɐː se ˈkun pɪˈzah kɔz ˌi.nɪˈkwal]
 def wood to spin-inf rfl get-pst-3p weigh-p.pst adv unfair
 The wool to spin was unfairly distributed.
 
@@ -12987,7 +12987,7 @@ Etymology: verbal derivation of jannest "broom, cleaning brush", from Old Borlis
 
     Te val casc joccon presument jannestar.
     /te val kax ʒɔˈkɔn ˌpre.ziˈmɛnt ˌʒa.nɛˈstar/
-    [te vaw kax ʝʊˈkɔn ˌpʀe.zɪˈmɛn ʝa.nɪˈstɐː]
+    [te val kax ʝʊˈkɔn ˌpʀe.zɪˈmɛn ʝa.nɪˈstɐː]
     2s worth each jester smug sweep-inf
     You should ignore all the smug jokesters.
 
@@ -13070,7 +13070,7 @@ Etymology: adverbial derivation from preposition posc "after, since" < Late  Lat
 
 baugl "campsite"
 
-baugl /bojl/ [ˈbo.jʊ]
+baugl /bojl/ [ˈbo.jl]
 - camp, campsite, an outdoor place acting as a temporary accommodation either in tents or entirely outdoors;
 - improvisation, kludge, stopgap, patch, a temporary set-up formed by convenience or due to time constraints that one intends to replace with something more permanent
 
@@ -13078,7 +13078,7 @@ Etymology: from Old Borlish bavȝl (probably /bawʎ/) "tent, campsite", cognate 
 
 Indigneð mey noc dell'oc baugl van.
 /ˌɪn.dajˈnɛθ mi nɔk dɛˈlɔk bojl van/
-[ˌɪn.dɐjˈnɛh mi nɔ ˌdɛ.lʊ ˈbo.jʊ van]
+[ˌɪn.dɐjˈnɛh mi nɔ ˌdɛ.lʊ ˈbo.jl van]
 begrudge-sbj.2p 1s neg of-def-s.px camp vain
 Don't hold this bad set-up against me.
 
@@ -13186,7 +13186,7 @@ Etymology: from the late Old Borlish period originally restricted to naval usage
 
 Jo vusca caldour de souscen neðan cous cingr.
 /ʒo viˈxa kalˈdur de suˈxɛn neˈðan kuz ˈtsɪn.gr̩/
-[ʝo vɪˈxa kɐwˈdʊː de sʊˈçɛn nɪˈðan kuz ˈtsɪŋ.gɐ]
+[ʝo vɪˈxa kɐlˈdʊː de sʊˈçɛn nɪˈðan kuz ˈtsɪŋ.gɐ]
 1s wish-ipf heat of tomorrow lest fall-sbj.ipf hail
 I hoped tomorrow was warm so it wouldn't hail.
 
@@ -13224,7 +13224,7 @@ Etymology: from Old Borlish, a verbal derivative of bouð (also boðour) "messen
 
 Bouð y viker ða le no's ac yent pre haçol.
 /buθ i viˈkɛr ða le nɔz ak jɛnt pre haˈtsɔl/
-[buh i vɪˈkɛː ða le nɔz ak jɛnt pʀe hɐˈtsɔw]
+[buh i vɪˈkɛː ða le nɔz ak jɛnt pʀe hɐˈtsɔl]
 text def deputy if 3s.m neg-be here arrive.p.pst before noon
 Text the deputy if he's not here by noon.
 
@@ -13381,7 +13381,7 @@ He'd overdone the cedarwood perfume.
 
 panel "panel"
 
-panel /paˈnɛl/ [pɐˈnɛw]
+panel /paˈnɛl/ [pɐˈnɛl]
 - panel, a rectangular section of a surface like a wall or ceiling;
 - shutter, a protective wooden panel which may be placed over windows to block sunlight;
 - patch, swatch, a piece or sample (usually rectangular) of a type of cloth;
@@ -13398,7 +13398,7 @@ Etymology: from Old Borlish panel "swatch of fabric, rectangle of wood", descend
 
 Panel jattove parlocan y cambr.
 /paˈnɛl ˌʒa.toˈve ˌpar.loˈkan i ˈkambr̩/
-[pɐˈnɛw ˌʝa.tʊˈve ˌpɐː.lʊˈkan i ˈkam.bɐ]
+[pɐˈnɛl ˌʝa.tʊˈve ˌpɐː.lʊˈkan i ˈkam.bɐ]
 panel teak straddle-ipf.3p def bedroom
 Teak panels lined the bedroom.
 
@@ -13483,7 +13483,7 @@ In metaphorical use a clipping of phrase quesq a tort "damson in the pie", attes
 
 Jo cogleu y quesq y maðuressem dy ranscel.
 /ʒo kɔjˈlaw i kwɛsk i ˌma.ðiˈrɛ.sɛm di ranˈxɛl/
-[ʝo kʊjˈlaw i kwɛsk i ˌma.ðɪˈʀɛ.sɐm di ʀɐɲˈçɛw]
+[ʝo kʊjˈlaw i kwɛsk i ˌma.ðɪˈʀɛ.sɐm di ʀɐɲˈçɛl]
 1s gather-pst def damson def ripe-comp of-def branch
 I picked the ripest damson on the branch.
 
@@ -13518,7 +13518,7 @@ Etymology: from Middle Borlish aversion "opposition, resistance", seemingly the 
 
 Banc redirigent machinal receveurn magn averjon.
 /bank reˌdi.riˈʒɛnt ˌma.kiˈnal ˌre.tseˈvaw.rn̩ mɛjn ˌa.vɛrˈʒɔn/
-[baŋk ʀɪˌdi.ʀɪˈʝɛn ˌma.kɪˈnaw ˌʀe.tsɪˈva.wɐn mɛjn ˌa.vɪːˈʒɔn]
+[baŋk ʀɪˌdi.ʀɪˈʝɛn ˌma.kɪˈnal ˌʀe.tsɪˈva.wɐn mɛjn ˌa.vɪːˈʒɔn]
 bank redirect-p.prs mechanical receive-pst.3p much opposition
 Automated redirection banks were met with significant opposition.
 
@@ -13678,7 +13678,7 @@ Etymology: from Old Borlish, borrowed from Old French cuidier "to consider, pres
 
 Yon erað vos cuidant cas quelt?
 /jɔn eˈraθ vɔz kajˈdant kaz kwɛlt/
-[ʝon ɪˈʀah vɔz kɐjˈdan kaz kwɛwt]
+[ʝon ɪˈʀah vɔz kɐjˈdan kaz kwɛlt]
 where cop.imp-2p 2p think-p.prs wrt dinner
 Where were you thinking for dinner?
 
@@ -13704,7 +13704,7 @@ I think he's really matured recently.
 
 55.4: vitagl "provisions"
 
-vitagl /viˈtɛjl/ [vɪˈtɛ.jʊ]
+vitagl /viˈtɛjl/ [vɪˈtɛ.jl]
 - provisions, rations, supplies, victuals, goods (especially food) obtained for future use;
 - livelihood, income, employment, sustenance, a means of providing oneself with the necessities of life:
 
@@ -13812,7 +13812,7 @@ Etymology: originally in the second sense, an Old Borlish deverbal noun from ver
 
 Vos kiglaust y liesc je sont Avril.
 /vɔz kajˈlost i ljɛx ʒe sɔnt aˈvrɪl/
-[vɔz kɐjˈlost i ljɛç ʝe sɔnt ɐˈvʀɪw]
+[vɔz kɐjˈlost i ljɛç ʝe sɔnt ɐˈvʀɪl]
 2p miss-pst-2p def term day.of seventh April
 You missed the 7th of April deadline.
 
@@ -14031,7 +14031,7 @@ Its use in polar questions seems to date back to the sixteenth century (though u
 
 Zy, sco'n bal n'oc ort.
 /zi | xɔn bal nɔk ɔrt/
-[zi | xɔn baw nʊˈgɔːt]
+[zi | xɔn bal nʊˈgɔːt]
 yeah | i'm=indef ball in-s.px rise
 Yeah, things're looking up.
 
@@ -14280,7 +14280,7 @@ Etymology: verbal derivation in the Old Borlish period from grivle "sieve" (mode
 
 La rob y parol bogr grivlað.
 /la rɔb i paˈrɔl bɔjr̩ griˈvlaθ/
-[la ʀob i pɐˈʀɔw ˈbɔ.jɐ gʀɪˈvlah]
+[la ʀob i pɐˈʀɔl ˈbɔ.jɐ gʀɪˈvlah]
 3s.f dress def word not.at.all sieve-p.pst
 She doesn't mince words.
 
@@ -14288,7 +14288,7 @@ She doesn't mince words.
 
 61.3: glonscel "tangle"
 
-glonscel /glɔnˈxɛl/ [glʊɲˈçɛw]
+glonscel /glɔnˈxɛl/ [glʊɲˈçɛl]
 - tangle, snarl, knot, a twisted mass of yarn or other stringlike material;
 - problem, dilemma, tangle, mess, bind, imbroglio, a complicated situation with no easy way forward
 
@@ -14296,7 +14296,7 @@ Etymology: originally in the first sense only, from Old Borlish glomscel "yarn, 
 
 Com voum nos se corrir pall'oc glonscel?
 /kɔm vum nɔz se kɔˈrɪr paˈlɔk glɔnˈxɛl/
-[kɔm ˈvun.nɔz se kʊˈʀɪː pɐˈlɔ glʊɲˈçɛw]
+[kɔm ˈvun.nɔz se kʊˈʀɪː pɐˈlɔ glʊɲˈçɛl]
 how will-1p 1p rfl run-inf by-def=s.px tangle
 How will we get out of this mess?
 
@@ -14400,7 +14400,7 @@ I like to have jam on toast.
 
 62.4: vugl "blockage"
 
-vugl /vajl/ [ˈva.jʊ]
+vugl /vajl/ [ˈva.jl]
 - blockage, occlusion, jam, obstruction, something that is in the way of some passage;
 - chokepoint, bottleneck, the part of a process that is slowest or most cumbersome
 
@@ -14408,7 +14408,7 @@ Etymology: originally in the first sense, a Middle Borlish deverbal from vuglar 
 
 Ja sco ne vugl router.
 /ʒa xo ne vajl ruˈtɛr/
-[ʝa ˈxo ne ˈva.jʊ ʀʊˈtɛː]
+[ʝa ˈxo ne ˈva.jl ʀʊˈtɛː]
 yet be.1s in jam road-adj
 I'm still in a traffic jam.
 
@@ -14723,7 +14723,7 @@ Etymology: Middle Borlish borrowing from contemporaneous Kentish gamblass "barge
 
 L'oc composson de pont parmet coval menn gamblas apar.
 /lɔk ˌkɔm.pɔˈsɔn de pɔnt parˈmɛt koˈval mɛnn̩ gamˈblaz aˈpar/
-[lɔ ˌkɔm.pʊˈsɔn de pɔnt pɐːˈmɛt kʊˈvaw ˈmɛnɐn gɐmˈblaz ɐˈpɐː]
+[lɔ ˌkɔm.pʊˈsɔn de pɔnt pɐːˈmɛt kʊˈval ˈmɛnɐn gɐmˈblaz ɐˈpɐː]
 def-s.px arrangement of bridge allow horse lead-3p barge through
 This bridge design allows horses to draw barges past it.
 
@@ -14883,7 +14883,7 @@ I really want to see the film while it's on.
 
 67.4: jougl "knock-out blow"
 
-jougl /ʒujl/ [ˈʝu.jʊ~ˈʝwɪw]
+jougl /ʒujl/ [ˈʝu.jl~ˈʝwɪl]
 - knock-out blow, haymaker, sockdolager, a punch that renders one's opponent unconscious, insensible, or otherwise unable to continue to fight;
 - rout, trouncing, decisive victory, an instance of winning a contest by a wide margin;
 - clincher, determiner, the act or moment that is decisive in settling something
@@ -14894,7 +14894,7 @@ Etymology: from Middle Borlish jougl "death blow, killing strike", deverbal from
 
 Y preç ag davarn vole nossy jougl.
 /i prɛts ɛj daˈvarn voˈle nɔˈsi ˈʒujl/
-[i pʀɛs ɛj dɐˈvɐːn vʊˈle nʊˈsi ˈʝwɪw]
+[i pʀɛs ɛj dɐˈvɐːn vʊˈle nʊˈsi ˈʝwɪl]
 def price at.def hotel will-imp 1s.gen KO
 The hotel's price would be the clincher.
 
@@ -14940,7 +14940,7 @@ But at the same time as the tripartite situation of Borland was finally showing 
 
 68.2: ne ðougl "rushed"
 
-ne ðougl /ne ðujl/ [nɪˈðʊ.jʊ~nɪˈðwɪw]
+ne ðougl /ne ðujl/ [nɪˈðʊ.jl~nɪˈðwɪl]
 - rushed, hasty, slapdash, done in an overly quick way due to a lack of time;
 
 also fair ne ðougl knock off, dash off, to accompishly something hastily
@@ -14949,7 +14949,7 @@ Etymology: literally "in a flurry, in a gust of wind", idiom first attested in t
 
 Jo fey nouf laur mathem ne ðougl ig crevoscr.
 /ʒo fij nuf lor maˈθɛm ne ðujl aj kʀeˈvɔ.xr̩/
-[ʝo fij nuf loː mɐˈθɛm nɪˈðwiw aj kɪˈvɔ.xɐ]
+[ʝo fij nuf loː mɐˈθɛm nɪˈðwil aj kɪˈvɔ.xɐ]
 1s do.pst nine task maths in gust s.dst evening
 I knocked out nine maths problems last night.
 
@@ -14969,7 +14969,7 @@ Etymology: originally in the first senses, from Old Borlish teissir, tistre, te�
 
 Cal mocry son ðe teissent oy?
 /kal moˈkri sɔn ðe tiˈsɛnt ɔj/
-[kaw mʊˈkʀi sɔn ðe tɪˈsɛnt ɔj]
+[kal mʊˈkʀi sɔn ðe tɪˈsɛnt ɔj]
 which nonsense be.3p 3p weave-p.prs now
 What nonsense are they spouting now?
 
@@ -15047,7 +15047,7 @@ Etymology: verbal derivation from adjective content "happy, glad, satisfied", wh
 
 Nos se contentaum a un tatover soul porçonnar.
 /nɔz se ˌkɔn.tɛnˈtom a ɪn ˌta.toˈvɛr sul ˌpɔr.tsɔˈnar/
-[ˌnɔ.sɪ ˌkɔn.tɪnˈtom a ɪn ˌta.tʊˈvɛː suw ˌpɔː.tsʊˈnɐː]
+[ˌnɔ.sɪ ˌkɔn.tɪnˈtom a ɪn ˌta.tʊˈvɛː sul ˌpɔː.tsʊˈnɐː]
 1p rfl sate-pst-1p to indef potato alone share-inf
 We made do with sharing a single potato.
 
@@ -15064,7 +15064,7 @@ Etymology: from Old Borlish afteç "possession, ownership", used predominated in
 
 Y malvaç cof auteç ag vanc nell'askouð!
 /i malˈvats kɔf oˈtɛts ɛj vank ˌnɛ.laˈskuθ/
-[i mɐwˈvas kɔf ʊˈtɛs ɛj vaŋk ˌnɛ.lɐˈskuh]
+[i mɐlˈvas kɔf ʊˈtɛs ɛj vaŋk ˌnɛ.lɐˈskuh]
 def evil get.pst ownership to.def haul in-def=vault
 The bad guy got hold of the vault's treasure!
 
@@ -15083,7 +15083,7 @@ Etymology: Middle Borlish borrowing from contemporary legal Latin effūror "I ro
 
 Stou joun sgarant effurar dy hal sdroy vabian closnautr.
 /stu ʒun sgaˈrant ˌɛ.fiˈrar di hal sdrɔj vaˈbjan kloˈsno.tr̩/
-[stu ʝun zgɐˈʀant ˌɛ.fɪˈʀɐː di haw zdʀɔj vɐˈbjan klʊˈzno.tɐ]
+[stu ʝun zgɐˈʀant ˌɛ.fɪˈʀɐː di hal zdʀɔj vɐˈbjan klʊˈzno.tɐ]
 be.needed youth roam-p.prs keep.out-inf of-def hall supplies dilapidated
 We need to keep kids out of the abandoned warehouse.
 
@@ -15160,7 +15160,7 @@ Etymology: first attested in the late medieval period as isdroȝ "freight, goods
 
 Salað y vec ag hal sdroy.
 /saˈlaθ i vɛk ɛj hal sdrɔj/
-[sɐˈla‿ði vɛk ɛj haw zdʀɔj]
+[sɐˈla‿ði vɛk ɛj hal zdʀɔj]
 dismount-2p.sbj def bus at.def hall stock
 Get off the bus at the depot.
 
@@ -17122,7 +17122,7 @@ Etymology: collocation first seen in the sixteenth century, literally meaning "o
 
 Y davarn façada y jogntur de dou yeul ovart.
 /i daˈvarn ˌfa.tsaˈda i ʒɔinˈtɪr de du jaul oˈvart/
-[i dɐˈvɐːn ˌfa.tsɐˈda i ʝʊinˈtɪː de du ʝawl ʊˈvɐːt]
+[i dɐˈvɐːn ˌfa.tsɐˈda i ʝʊinˈtɪː de du ʝall ʊˈvɐːt]
 def hotel face-ipf def junction of two street open
 The hotel was at the intersection of two main roads.
 
@@ -18181,7 +18181,7 @@ The unredacted interview got leaked.
 
 Britain
 
-Britain (Cambrick Prydein) is a polity of Albion centred on Wales but extending through Devon and Dunclothe and out to Kernow and parts of Ireland.
+Britain (Cambrick Prydein) is a polity of Albion centred on Wales but extending through Devon and Dunclothe and out to Kernow and Ireland.
 
 History
 The Kingdom of Britain was founded in the fifteenth century, formalising the suzerainty of Wales over the tallaths of Devon and Dunclothe. The state profited greatly from the Wars of Fealty of the late fifteenth and early sixteenth centuries which raged across the rest of Albion.
@@ -22571,7 +22571,7 @@ Dewock Barclythe (1452-1539 N), Friar of Tremonnow and for several decades the p
 
 [1] roughly corresponding to Monmouthshire, named for area's main river [the Usk], from an old Welsh word for "water".
 
-[2] the English language variety spoken as a recognised minority language in Britain [Wales, Devon and Cornwall, Brittany, Cumbria, Strathclyde, Man and the Isles, parts of Ireland], mostly in its eastern regions bordering Markland and Kent.
+[2] the English language variety spoken as a recognised minority language in Britain [Wales, Devon and Cornwall, Brittany, Cumbria, Strathclyde, Man and the Isles, Ireland], mostly in its eastern regions bordering Markland and Kent.
 
 ##
 
@@ -33358,6 +33358,114 @@ Nos pacentaum l'oraç ny tarn.
 [nɔz ˌpa.tsɪnˈtom lʊˈʀas nɪ ˈtɐːn]
 1p be.patient-pst.1p df=storm in-df pub
 We waited out the storm in the pub.
+
+##
+
+247.5: Ireland
+
+    some collected notes on Ireland and its polities.
+
+Ireland (Guile [Irish] Erin, Welsh Iwerðon, Borlish Irðon) is the westernmost of the three large Northwestern Isles, lying west of Albion [Great Britain] across the Irish Sea. Politically it comprises:
+
+    the Arvor, a coastal stretch in the east which primarily speaks Welsh, contains many of the island's larger towns and cities and is considered part of Wales for the purposes of government;
+    Connaught and Munster, two Irish-speaking, federated tallaths [provinces] of the Kingdom of Britain which divide the majority of the island into roughly equal northern and southern halves.
+
+History of the first millennium
+
+Veneration of the abbess Brigid of Killdara [Kildare] was early and widespread. The abbey at Rexam [Wrexham] in Wales was dedicated to her; its original building burned in 1301, when Andrew II of Markland reignited the Mallor Wars.
+
+Ireland's monasteries were comparatively insular, especially in comparison to those of Borland. The most important of the Irish annals is the Ultaugh [Ulster] Chronicle, kept at the monastery of Benghor [Bangor, Co. Down]. With the Chronicle of Carlile [Carlisle] it is one of the two principal sources for the Dane centuries around the Irish Sea; both, for example, record the partition of Mondwell [Anglesey] agreed between Wynneth [Gwynedd] and Sodrick [Man and the Hebrides].
+
+Danes settled in Ireland during the Norrish [Norse] ascendancy of the eighth and ninth centuries. The wayports and settlements between the Dane kingdoms of Dublin and Yorwick [York] carried a great deal of traffic.
+
+Under King Roderick, Dunclothe [Strathclyde] took Arran in 934 and Mann in 942. The expansion caused lasting acrimony with some Irish kingdoms, since the kings of Ultaugh had taken tribute from these for generations.
+
+Squeezed between Tyrconnal to the west and the Dane ports on its own coast, Ultaugh was broken apart in the years around 1020. Its last king, Oghy the Hoary, was killed in 1021, and the land was divded between Tyrconnal inland, Lenster in the south and Danes along the eastern coast.
+
+By 1028 there were four Irish kingdoms of any power: Tyrconnal, Connaught, Lenster and Munster. Tyrconnal and Lenster were fighting wars at once with the Norrish to the east and the other Irish to the west, while the houses of Connaught and Munster vied for the position of High King of Ireland. Dublin, meanwhile, belonged with Dunclothe and Sodrick to a loose confederation of Dane kingdoms.
+
+##
+
+248.1: Eleven Goblets
+
+steeplepost messages in translation, sent in 1872 May between Augsburg in Bavarn and Trieste on the Crain coast between a mother and daughter, and preserved among the papers of a family of Augsburg glassmakers.
+
+May 3, Augsbourg vars Triest : Paðr malad ᴘᴀᴜꜱ Poð noc veyaçar por batesm ᴘᴀᴜꜱ Caspar accaçað con caliç ᴘᴀᴜꜱ Vectoir Mart encontrar ꜰɪɴ Maðr
+May 3, Augsburg to Trieste : Father unwell ᴡᴀɪᴛ Cannot travel for christening ᴡᴀɪᴛ Sending Caspar with goblets ᴡᴀɪᴛ Meet Tuesday coach ᴇɴᴅ Mother
+
+May 9, T→A : Caspar alandað ᴘᴀᴜꜱ Doç caliç accaçað onç alandað ᴘᴀᴜꜱ Blasm montagn ꜰɪɴ Lotte
+May 9, T→A : Caspar arrived ᴡᴀɪᴛ Twelve goblets sent eleven arrived ᴡᴀɪᴛ He blames mountains ᴇɴᴅ Lotte
+
+May 9, A→T : Cal fragnt ꜰɪɴ Maðr
+May 9, A→T : Which one broken ᴇɴᴅ Mother
+
+May 10, T→A : Oç de granpaðr ᴘᴀᴜꜱ Y crestað ᴘᴀᴜꜱ Caspar magn nafrað ꜰɪɴ Lotte
+May 10, T→A : Grandfather's ᴡᴀɪᴛ The one with crest ᴡᴀɪᴛ Caspar very sorry ᴇɴᴅ Lotte
+
+May 10, A→T : Digr a Caspar paðr fragnt a ricottanç preu veg posc semman ᴘᴀᴜꜱ Dig granpaðr tre fragnt luy meðes ᴘᴀᴜꜱ Babe bajar por luy ꜰɪɴ Maðr
+May 10, A→T : Tell Caspar father laughed first time in weeks ᴡᴀɪᴛ Says grandfather broke three himself ᴡᴀɪᴛ Kiss baby for him ᴇɴᴅ Mother
+
+May 13, T→A : Batesm fort passað ᴘᴀᴜꜱ Babe nommað lonc paðr ᴘᴀᴜꜱ Caspar remanent autr semman ᴘᴀᴜꜱ Raçon noc entrovar ꜰɪɴ Lotte
+May 13, T→A : Christening went well ᴡᴀɪᴛ Baby named for father ᴡᴀɪᴛ Caspar staying another week ᴡᴀɪᴛ Do not ask why ᴇɴᴅ Lotte
+
+May 13, A→T : Carraçon ꜰɪɴ Maðr
+May 13, A→T : Why ᴇɴᴅ Mother
+
+##
+
+248.2: entrposson "stepping stone"
+
+entrposson /ˌɛntr̩.poˈsɔn/ [ˌɛn.tɐ.pʊˈsɔn]
+- intermediate step, middle stage, a stage partway through a process;
+- stepping stone, springboard, a position held only as a means to a better one (usually with deprecatory force, of e.g. a job or a marriage);
+- interim, caretaker, stand-in, someone holding an office until a permanent holder is found;
+- (music) passing tone, a note outside the harmony leading from one chord tone to the next
+
+Etymology: early modern Borlish, a reshaping of Scholastic Latin interpositiō "a putting between" after native descendants entr- "between" and posson "position". Earliest uses are in logic and philosophy; the musical sense arises in the late seventeenth century, while the disparaging and political senses show up together two centuries later. See also the derived verb entrposson fair "to lead (towards)", literally "to serve as a stepping stone".
+
+L'oc empley no's for entrposson poll'agathin.
+/lɔk ɛmˈpli noz fɔr ˌɛntr̩.poˈsɔn pɔˌla.gaˈθɪn/
+[lʊ.gɪmˈpli noz fɔː‿ˌʀɛn.tɐ.pʊˈsɔn pʊˌla.gɐˈθɪn]
+df=s.px job neg=be.3s only intermediate.step for-df=minister
+This job is only a stepping stone for the minister.
+
+##
+
+248.3: pantachualtað "universalism"
+
+pantachualtað /panˌta.kjalˈtaθ/ [pɐnˌta.kjɐlˈtaθ]
+- universalism, the position that a given truth (or right, or duty) holds for everyone without exception;
+- (philosophy, linguistics) context-independence, generality, the quality of meaning the same wherever and whenever something is said;
+- (historiography) world history, the treatment of the whole inhabited world as a single field of study;
+- (pejorative) one-size-fits-all, panacea-mongering, the pretence that one remedy or rule fits every case;
+- (art, architecture, pejorative) placelessness, the quality of a work that could stand anywhere and belongs nowhere
+
+Etymology: nineteenth century, noun from pantachual "universal, context-independent", a learned coinage from Greek πανταχοῦ • pantakhoû "everywhere", from πᾶς • pâs "all", with the Latinate adjective suffix -al. Both words began in philosophical writing, but they became widely current only in the twentieth century, as neutral alternatives to ubicq and ubicqtað", whose association with the ideology of Ubiquity made them politically loaded. The historiographical sense is from the turn of the twentieth century, and the disparaging senses come from criticism of art and architecture some decades later. It is often paired with its counterpart entauthaltað "localism".
+
+Y novel quarvol fo improbað desig sy pantachualtað.
+/i noˈvɛl kwarˈvɔl fo ˌɪm.proˈbaθ deˈzaj si panˌta.kjalˈtaθ/
+[i nʊˈvɛl kwɐːˈvɔl fo ˌɪm.pʀʊˈbah dɪˈzaj si pɐnˌta.kjɐlˈtaθ]
+df new airport be.pst criticise-p.pst because.of 3s.gn placelessness
+The new airport was criticised for its placelessness.
+
+##
+
+248.4: entauthaltað "localism"
+
+entauthaltað /ɛnˌto.θalˈtaθ/ [ɪnˌto.θɐlˈtaθ]
+- localism, subsidiarity, the principle that a matter belongs to the smallest body competent to decide it;
+- (philosophy, linguistics) indexicality, deixis, context-dependence, the dependence of meaning on where and when something is said (e.g. of "here", "now" or "I");
+- (historiography) place history, the study of a single place across all periods and topics;
+- presentism, immediacy, here-and-nowness, absorption in the immediate moment at the expense of past and future;
+- (art, architecture) site-specificity, the quality of a work made from and for one particular place
+
+Etymology: nineteenth century, noun from entauthal “local, context-dependent”, a learned coinage from Greek ἐνταῦθα • entaûtha “here, there; then, at this point”, with the Latinate adjective suffix -al. It became widely current only in the twentieth century, as a neutral alternative to vecin and vecintað, whose association with the ideology of Vicinity made them politically loaded. The cultural senses are seen some decades later, often with disparaging force (despite being the opposite of pantachualtað "placelessness", leading some commentators to remark that no work of art could satisfy modern critics).
+
+My maðr es historicour dell'entauthaltað de Monçating.
+/mi ˈma.ðr̩ ɛz hɪˌstɔ.riˈkur ˌdɛ.lɛnˌto.θalˈtaθ de ˌmɔn.tsaˈtɪng/
+[mi ˈma.ðɐ‿ʀɪz hɪˌstɔ.ʀɪˈkʊː dɛ.lɪnˌto.θɐlˈtaθ de ˌmɔn.tsɐˈtɪŋg]
+1s.gn mother be.3s historian of.df=place.history of Monçating
+My mother is a historian studying the Monçating area.
 
 ##
 

@@ -499,7 +499,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 97.2	dictionary	ignoscr "forgive"	ignoscr	forgive	True	3	135	824	dictionary/97.2_ignoscr_forgive.md
 97.3	dictionary	viglour "driver"	viglour	driver	True	3	96	629	dictionary/97.3_viglour_driver.md
 97.4	dictionary	luïcr "ridiculous"	luïcr	ridiculous	True	4	103	725	dictionary/97.4_luïcr_ridiculous.md
-97.5	notes	entrcollocq "interview"			True	2	361	2528	notes/97.5_entrcollocq_interview.md
+97.5	notes	entrcollocq "interview"			True	2	359	2519	notes/97.5_entrcollocq_interview.md
 97.6	dictionary	ðorn "punch"	ðorn	punch	True	3	100	620	dictionary/97.6_ðorn_punch.md
 97.7	dictionary	outrcaum "coda"	outrcaum	coda	True	3	145	909	dictionary/97.7_outrcaum_coda.md
 98.1	excerpt	Masquira			False	0	257	1618	excerpt/98.1_Masquira.md
@@ -561,7 +561,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 109.2	dictionary	duvar "cheat"	duvar	cheat	True	2	115	697	dictionary/109.2_duvar_cheat.md
 109.3	dictionary	impar "unlike"	impar	unlike	True	3	102	661	dictionary/109.3_impar_unlike.md
 109.4	dictionary	sobot "radio"	sobot	radio	True	2	114	749	dictionary/109.4_sobot_radio.md
-109.5	notes	Guillen daus Sanz			False	0	257	1480	notes/109.5_Guillen_daus_Sanz.md
+109.5	notes	Guillen daus Sanz			False	0	257	1482	notes/109.5_Guillen_daus_Sanz.md
 110.1	excerpt	The Good Game			False	0	217	1387	excerpt/110.1_The_Good_Game.md
 110.2	dictionary	plouç "screen"	plouç	screen	True	4	151	953	dictionary/110.2_plouç_screen.md
 110.3	dictionary	massour "jaw"	massour	jaw	True	3	115	689	dictionary/110.3_massour_jaw.md
@@ -726,7 +726,7 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 142.2	dictionary	beuscr "monster"	beuscr	monster	True	4	176	1128	dictionary/142.2_beuscr_monster.md
 142.3	dictionary	ec ogl quïr "close one's eyes"	ec ogl quïr	close one's eyes	True	2	166	1025	dictionary/142.3_ec_ogl_quïr_close_one's_eyes.md
 142.4	dictionary	oundrar "wound"	oundrar	wound	True	3	125	740	dictionary/142.4_oundrar_wound.md
-142.5	notes	Tremonnow			False	0	263	1701	notes/142.5_Tremonnow.md
+142.5	notes	Tremonnow			False	0	261	1692	notes/142.5_Tremonnow.md
 143.1	excerpt	Prehistory Curriculum			False	0	343	2154	excerpt/143.1_Prehistory_Curriculum.md
 143.2	dictionary	æternar "immortalise"	æternar	immortalise	True	3	112	811	dictionary/143.2_æternar_immortalise.md
 143.3	dictionary	rasamar "tsunami"	rasamar	tsunami	True	2	138	822	dictionary/143.3_rasamar_tsunami.md
@@ -1255,3 +1255,16 @@ entry_id	type	title	headword	gloss	has_etymology	sense_count	word_count	char_cou
 244.5	notes	The Two Chinas			False	0	428	2699	notes/244.5_The_Two_Chinas.md
 245.1	excerpt	Bees and Business			False	0	319	1829	excerpt/245.1_Bees_and_Business.md
 245.2	dictionary	mandovy "peanut"	mandovy	peanut	True	4	182	1105	dictionary/245.2_mandovy_peanut.md
+245.3	dictionary	passar roug "struggle"	passar roug	struggle	True	4	157	898	dictionary/245.3_passar_roug_struggle.md
+245.4	dictionary	manne "handful"	manne	handful	True	5	172	977	dictionary/245.4_manne_handful.md
+245.5	notes	The Old Country (cont. 2)			False	0	427	2606	notes/245.5_The_Old_Country_(cont._2).md
+246.1	excerpt	Stobor			False	0	307	1902	excerpt/246.1_Stobor.md
+246.2	dictionary	quincarol "straight man"	quincarol	straight man	True	5	178	1160	dictionary/246.2_quincarol_straight_man.md
+246.3	dictionary	jalicquazur "abracadabra"	jalicquazur	abracadabra	True	5	214	1484	dictionary/246.3_jalicquazur_abracadabra.md
+246.4	dictionary	rad "transgender"	rad	transgender	True	5	171	1146	dictionary/246.4_rad_transgender.md
+246.5	notes	The Pocket Vetomund			False	0	382	2399	notes/246.5_The_Pocket_Vetomund.md
+247.1	excerpt	Specialisation is for Insects			False	0	162	1028	excerpt/247.1_Specialisation_is_for_Insects.md
+247.2	dictionary	outrmort "afterlife"	outrmort	afterlife	True	4	161	1082	dictionary/247.2_outrmort_afterlife.md
+247.3	dictionary	des jaçol "for some time"	des jaçol	for some time	True	3	128	733	dictionary/247.3_des_jaçol_for_some_time.md
+247.4	dictionary	pacentar "wait out"	pacentar	wait out	True	5	143	854	dictionary/247.4_pacentar_wait_out.md
+247.5	notes	Ireland			False	0	399	2500	notes/247.5_Ireland.md

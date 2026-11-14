@@ -20918,6 +20918,35 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 
 \et Old Borlish < Latin
 
+\lx entauthal
+\ps adj
+
+\ge local
+\ge context-dependent
+\ge indexical
+\ge site-specific
+
+\et nineteenth century, a learned coinage from Greek ἐνταῦθα • entaûtha "here, there; then, at this point", with the Latinate adjective suffix -al (see entauthaltað)
+
+\se entauthaltað
+\ps n
+
+\ge localism
+\ge subsidiarity
+\ge indexicality
+\ge deixis
+\ge context-dependence
+\ge place history
+\ge presentism
+\ge immediacy
+\ge here-and-nowness
+\ge site-specificity
+
+\xv My maðr es historicour dell'entauthaltað de Monçating.
+\xe My mother is a historian studying the Monçating area.
+
+\et nineteenth century, noun from entauthal “local, context-dependent”, a learned coinage from Greek ἐνταῦθα • entaûtha “here, there; then, at this point”, with the Latinate adjective suffix -al. It became widely current only in the twentieth century, as a neutral alternative to vecin and vecintað, whose association with the ideology of Vicinity made them politically loaded. The cultural senses are seen some decades later, often with disparaging force (despite being the opposite of pantachualtað "placelessness", leading some commentators to remark that no work of art could satisfy modern critics).
+
 \lx enter
 \ps adj
 
@@ -21190,6 +21219,33 @@ The noun ogl "eye" descends unproblematically from Latin oculus "eye"; the verb 
 \ge middle
 
 \et Old Borlish < Latin
+
+\lx entrposson
+\ps n
+
+\ge intermediate step
+\ge middle stage
+\ge stepping stone
+\ge springboard
+\ge interim
+\ge caretaker
+\ge stand-in
+\ge passing tone
+
+\xv L'oc empley no's for entrposson poll'agathin.
+\xe This job is only a stepping stone for the minister.
+
+\et early modern Borlish, a reshaping of Scholastic Latin interpositiō "a putting between" after native descendants entr- "between" and posson "position". Earliest uses are in logic and philosophy; the musical sense arises in the late seventeenth century, while the disparaging and political senses show up together two centuries later. See also the derived verb entrposson fair "to lead (towards)", literally "to serve as a stepping stone".
+\mn entr
+\mn posson
+
+\se entrposson fair
+\ps r v
+
+\ge lead towards
+\ge serve as a stepping stone
+
+\et derived verb from entrposson with the light verb fair "do, make"
 
 \lx entrpris
 \ps n
@@ -43282,6 +43338,32 @@ The final two sets of senses are sometimes held to be an unrelated compound, com
 
 \et Middle Borlish, verbal derivation from panel "panel; motif, template", originally "swatch of fabric, panel of wood".
 \mn panel
+
+\lx pantachual
+\ps adj
+
+\ge universal
+\ge context-independent
+\ge one-size-fits-all
+\ge placeless
+
+\et nineteenth century, a learned coinage from Greek πανταχοῦ • pantakhoû "everywhere", from πᾶς • pâs "all", with the Latinate adjective suffix -al (see pantachualtað)
+
+\se pantachualtað
+\ps n
+
+\ge universalism
+\ge context-independence
+\ge generality
+\ge world history
+\ge one-size-fits-all
+\ge panacea-mongering
+\ge placelessness
+
+\xv Y novel quarvol fo improbað desig sy pantachualtað.
+\xe The new airport was criticised for its placelessness.
+
+\et nineteenth century, noun from pantachual "universal, context-independent", a learned coinage from Greek πανταχοῦ • pantakhoû "everywhere", from πᾶς • pâs "all", with the Latinate adjective suffix -al. Both words began in philosophical writing, but they became widely current only in the twentieth century, as neutral alternatives to ubicq and ubicqtað, whose association with the ideology of Ubiquity made them politically loaded. The historiographical sense is from the turn of the twentieth century, and the disparaging senses come from postwar criticism of art and architecture. It is often paired with its counterpart entauthaltað "localism".
 
 \lx pantheon
 \ps n

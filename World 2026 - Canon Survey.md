@@ -99,7 +99,7 @@ The core setting. A **single polity** occupying the whole island. Capital **Damv
 #### Britain ● — Cambrick *Prydein*
 Kingdom centred on **Wales**, founded in the fifteenth century by formalising Welsh suzerainty over its tallaths.
 
-- Tallaths: **Devon**, **Dunclothe**, **Sodrick** [Man and the Hebrides], plus **Kernow** [Brittany] and **parts of Ireland**.
+- Tallaths: **Devon**, **Dunclothe**, **Sodrick** [Man and the Hebrides], plus **Kernow** [Brittany] and **Ireland** (ruled 2026-11-13; formerly "parts of Ireland").
 - Founded British Mendeva (Hasiny etc.) from C17 staddomains along the Arcabil Gulf.
 - Retained cultural prestige over British Mendeva into the C20 even after being overtaken in population and industry in the late C19; heavy élite intermarriage and transmigration across the Atlantic.
 - **British Welsh** is a distinct standard from **Angelican Welsh** and from **Hasinic Welsh** — three living Welsh standards, so all three polities persist.
@@ -148,7 +148,7 @@ culture. Described medievally as "the two-minded Kingdom of Scotland". **Orkney 
 remains of Horther rule in Albion" as of the high medieval period. **Modern status unstated.**
 
 #### Ireland ◐
-Britain holds "parts of Ireland". Historical polities named: Connaught, Lenster, Munster, Tyrconnal, Dublin
+Britain holds all of Ireland (ruled 2026-11-13; 97.5 and 142.5 formerly said "parts of Ireland"). Historical polities named: Connaught, Lenster, Munster, Tyrconnal, Dublin
 (a Dane kingdom in the C10–C11 confederation). Post-1961 the Hatfell Honours cover "all of Gaul and the
 Northwestern Isles [Ireland, GB, Borland]", so Ireland is inside the modern cultural sphere.
 **Its internal political division in 2026 is unstated — a significant gap.**
